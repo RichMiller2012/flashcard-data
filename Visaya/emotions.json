@@ -1,0 +1,1600 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Emotions",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Happy",
+              "back": "malipayon"
+            },
+            {
+              "front": "Sad",
+              "back": "kasubo"
+            },
+            {
+              "front": "Angry",
+              "back": "nasuko"
+            },
+            {
+              "front": "Excited",
+              "back": "naghinam-hinam"
+            },
+            {
+              "front": "Nervous",
+              "back": "gikulbaan"
+            },
+            {
+              "front": "Scared",
+              "back": "nahadlok"
+            },
+            {
+              "front": "Calm",
+              "back": "kalmado"
+            },
+            {
+              "front": "Confused",
+              "back": "naglibog"
+            },
+            {
+              "front": "Anxious",
+              "back": "nabalaka"
+            },
+            {
+              "front": "Surprised",
+              "back": "natingala"
+            },
+            {
+              "front": "Frustrated",
+              "back": "nahigawad"
+            },
+            {
+              "front": "Embarrassed",
+              "back": "naulaw"
+            },
+            {
+              "front": "Jealous",
+              "back": "selos"
+            },
+            {
+              "front": "Grateful",
+              "back": "mapasalamaton"
+            },
+            {
+              "front": "Proud",
+              "back": "mapahitas-on"
+            },
+            {
+              "front": "Curious",
+              "back": "kahibaw"
+            },
+            {
+              "front": "Lonely",
+              "back": "kamingaw"
+            },
+            {
+              "front": "Tired",
+              "back": "gikapoy"
+            },
+            {
+              "front": "Relaxed",
+              "back": "nagpahayahay"
+            },
+            {
+              "front": "Hopeful",
+              "back": "malaumon"
+            },
+            {
+              "front": "Bored",
+              "back": "laay"
+            },
+            {
+              "front": "Shocked",
+              "back": "nakurat"
+            },
+            {
+              "front": "Guilty",
+              "back": "sad-an"
+            },
+            {
+              "front": "Confident",
+              "back": "masaligon"
+            },
+            {
+              "front": "Ashamed",
+              "back": "maulaw"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Jealous man",
+              "back": "tawo nga seloso"
+            },
+            {
+              "front": "Surprised cat",
+              "back": "natingala nga iring"
+            },
+            {
+              "front": "Anxious boy",
+              "back": "nabalaka nga batang lalaki"
+            },
+            {
+              "front": "Calm captain",
+              "back": "kalmado nga kapitan"
+            },
+            {
+              "front": "Nervous performer",
+              "back": "nerbiyos nga performer"
+            },
+            {
+              "front": "Excited child",
+              "back": "excited nga bata"
+            },
+            {
+              "front": "Tired worker",
+              "back": "gikapoy nga trabahante"
+            },
+            {
+              "front": "Angry driver",
+              "back": "suko nga drayber"
+            },
+            {
+              "front": "Happy friend",
+              "back": "malipayon nga higala"
+            },
+            {
+              "front": "Sad dog",
+              "back": "iro sad"
+            },
+            {
+              "front": "Relaxed tourist",
+              "back": "relaks nga turista"
+            },
+            {
+              "front": "Lonely artist",
+              "back": "mingaw nga artista"
+            },
+            {
+              "front": "Grateful student",
+              "back": "mapasalamaton nga estudyante"
+            },
+            {
+              "front": "Confused traveler",
+              "back": "naglibog nga biyahedor"
+            },
+            {
+              "front": "Scared child",
+              "back": "nahadlok nga bata"
+            },
+            {
+              "front": "Hopeful teacher",
+              "back": "malaumon nga magtutudlo"
+            },
+            {
+              "front": "Frustrated athlete",
+              "back": "napakyas nga atleta"
+            },
+            {
+              "front": "Curious scientist",
+              "back": "kuryuso nga siyentista"
+            },
+            {
+              "front": "Embarrassed speaker",
+              "back": "maulaw nga mamumulong"
+            },
+            {
+              "front": "Proud parent",
+              "back": "garboso nga ginikanan"
+            },
+            {
+              "front": "Shocked audience",
+              "back": "nakurat nga mamiminaw"
+            },
+            {
+              "front": "Bored student",
+              "back": "bored nga estudyante"
+            },
+            {
+              "front": "Guilty suspect",
+              "back": "guilty nga suspek"
+            },
+            {
+              "front": "Confident leader",
+              "back": "masaligon nga lider"
+            },
+            {
+              "front": "Ashamed child",
+              "back": "maulaw nga bata"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I am bored",
+              "back": "gikapoy nako"
+            },
+            {
+              "front": "He is nervous",
+              "back": "gikulbaan siya"
+            },
+            {
+              "front": "She is excited",
+              "back": "excited siya"
+            },
+            {
+              "front": "They are lonely",
+              "back": "nag-inusara sila"
+            },
+            {
+              "front": "I feel frustrated",
+              "back": "naguol ko"
+            },
+            {
+              "front": "He looks confused",
+              "back": "murag naglibog siya"
+            },
+            {
+              "front": "She stays calm",
+              "back": "nagpabilin siyang kalmado"
+            },
+            {
+              "front": "They seem anxious",
+              "back": "daw nabalaka sila"
+            },
+            {
+              "front": "Sad dog lies",
+              "back": "bakak nga iro sad"
+            },
+            {
+              "front": "Angry driver yells",
+              "back": "suko nga drayber singgit"
+            },
+            {
+              "front": "Jealous man complains",
+              "back": "reklamo sa tawo nga seloso"
+            },
+            {
+              "front": "Calm captain leads",
+              "back": "kalmado nga kapitan ang nanguna"
+            },
+            {
+              "front": "Anxious boy fidgets",
+              "back": "nabalaka nga batang lalaki nga naglibog"
+            },
+            {
+              "front": "Happy friend laughs",
+              "back": "malipayon nga higala mikatawa"
+            },
+            {
+              "front": "Surprised cat jumps",
+              "back": "natingala nga iring milukso"
+            },
+            {
+              "front": "Tired worker rests",
+              "back": "kapoy nga trabahador nagpahuway"
+            },
+            {
+              "front": "Confident leader speaks",
+              "back": "masaligon nga lider nagsulti"
+            },
+            {
+              "front": "Proud parent smiles",
+              "back": "mapahitas-on nga ginikanan pahiyom"
+            },
+            {
+              "front": "Curious scientist observes",
+              "back": "mausisaon nga siyentista nag-obserbar"
+            },
+            {
+              "front": "Frustrated athlete quits",
+              "back": "napakyas nga atleta miundang"
+            },
+            {
+              "front": "Nervous performer shakes",
+              "back": "gikulbaan performer uyog"
+            },
+            {
+              "front": "Hopeful teacher teaches",
+              "back": "malaumon nga magtutudlo nagtudlo"
+            },
+            {
+              "front": "He feels grateful",
+              "back": "siya mibati nga mapasalamaton"
+            },
+            {
+              "front": "She feels guilty",
+              "back": "nakonsensya siya"
+            },
+            {
+              "front": "I feel ashamed",
+              "back": "naulaw ko"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I am sad now",
+              "back": "naguol ko karon"
+            },
+            {
+              "front": "He is very jealous",
+              "back": "selosa kaayo siya"
+            },
+            {
+              "front": "Dogs are happy animals",
+              "back": "ang mga iro malipayong mga mananap"
+            },
+            {
+              "front": "The performer is nervous",
+              "back": "gikulbaan ang performer"
+            },
+            {
+              "front": "She is very excited",
+              "back": "excited kaayo siya"
+            },
+            {
+              "front": "They feel extremely anxious",
+              "back": "gibati nila ang hilabihang kabalaka"
+            },
+            {
+              "front": "I am feeling calm",
+              "back": "kalma ang akong gibati"
+            },
+            {
+              "front": "He is looking surprised",
+              "back": "murag natingala siya"
+            },
+            {
+              "front": "The child feels scared",
+              "back": "nahadlok ang bata"
+            },
+            {
+              "front": "We are very proud",
+              "back": "proud kaayo mi"
+            },
+            {
+              "front": "My friend seems confused",
+              "back": "murag naglibog akong amiga"
+            },
+            {
+              "front": "The audience looks shocked",
+              "back": "murag na shock ang audience"
+            },
+            {
+              "front": "The scientist is curious",
+              "back": "kahibaw ang siyentista"
+            },
+            {
+              "front": "I am grateful today",
+              "back": "mapasalamaton ko karon"
+            },
+            {
+              "front": "She seems very lonely",
+              "back": "mura siyag mingaw kaayo"
+            },
+            {
+              "front": "He feels quite relaxed",
+              "back": "medyo relaks ang iyang gibati"
+            },
+            {
+              "front": "The athlete is frustrated",
+              "back": "ang atleta napakyas"
+            },
+            {
+              "front": "I am really hopeful",
+              "back": "malaumon gyud ko"
+            },
+            {
+              "front": "The student feels embarrassed",
+              "back": "naulaw ang estudyante"
+            },
+            {
+              "front": "They are feeling tired",
+              "back": "gibati nila ang kakapoy"
+            },
+            {
+              "front": "He feels very calm",
+              "back": "kalma kaayo ang iyang gibati"
+            },
+            {
+              "front": "She is incredibly confident",
+              "back": "dako kaayo siyag pagsalig"
+            },
+            {
+              "front": "My dog looks sad",
+              "back": "murag sad akong iro"
+            },
+            {
+              "front": "The child seems anxious",
+              "back": "murag nabalaka ang bata"
+            },
+            {
+              "front": "I am very happy",
+              "back": "malipayon kaayo ko"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "She is feeling very hopeful",
+              "back": "gibati niya nga malaumon kaayo"
+            },
+            {
+              "front": "My dog looks really happy",
+              "back": "murag malipayon kaayo akong iro"
+            },
+            {
+              "front": "The athlete failed the test",
+              "back": "ang atleta napakyas sa pagsulay"
+            },
+            {
+              "front": "The boy is anxious today",
+              "back": "nabalaka ang bata karon"
+            },
+            {
+              "front": "He is feeling very jealous",
+              "back": "selos kaayo siya"
+            },
+            {
+              "front": "I am feeling quite relaxed",
+              "back": "medyo relaks ang akong gibati"
+            },
+            {
+              "front": "They are really excited now",
+              "back": "excited na gyud sila karon"
+            },
+            {
+              "front": "The performer feels very nervous",
+              "back": "kulbaan kaayo ang performer"
+            },
+            {
+              "front": "We are feeling very proud",
+              "back": "proud kaayo mi"
+            },
+            {
+              "front": "My friend looks really confused",
+              "back": "akong amiga murag libog gyud"
+            },
+            {
+              "front": "She is very grateful today",
+              "back": "mapasalamaton kaayo siya karon"
+            },
+            {
+              "front": "He feels embarrassed in public",
+              "back": "naulaw siya sa publiko"
+            },
+            {
+              "front": "The audience seems really shocked",
+              "back": "murag na shock gyud ang audience"
+            },
+            {
+              "front": "The student feels extremely tired",
+              "back": "ang estudyante gibati og hilabihan nga kakapoy"
+            },
+            {
+              "front": "The scientist is feeling curious",
+              "back": "Gibati sa siyentista nga nakuryoso"
+            },
+            {
+              "front": "I am feeling very calm",
+              "back": "kalma kaayo ang akong gibati"
+            },
+            {
+              "front": "She feels incredibly confident today",
+              "back": "gibati niya ang dili katuohan nga pagsalig karon"
+            },
+            {
+              "front": "He is feeling quite angry",
+              "back": "medyo nasuko siya"
+            },
+            {
+              "front": "My cat seems very curious",
+              "back": "murag curious kaayo akong iring"
+            },
+            {
+              "front": "The teacher looks really frustrated",
+              "back": "murag frustrated gyud ang maestra"
+            },
+            {
+              "front": "I am feeling really happy",
+              "back": "nalipay kaayo ko"
+            },
+            {
+              "front": "The child feels scared today",
+              "back": "nahadlok ang bata karon"
+            },
+            {
+              "front": "They are feeling extremely anxious",
+              "back": "gibati nila ang hilabihang kabalaka"
+            },
+            {
+              "front": "He feels proud of himself",
+              "back": "mapasigarbuhon siya sa iyang kaugalingon"
+            },
+            {
+              "front": "She is very confident today",
+              "back": "masaligon kaayo siya karon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am starting to feel nervous",
+              "back": "nagsugod na kog kakulba"
+            },
+            {
+              "front": "The boy became happy after school",
+              "back": "ang bata nahimong malipayon human sa eskwelahan"
+            },
+            {
+              "front": "The girl felt embarrassed in school",
+              "back": "ang babaye mibati og kaulaw sa eskwelahan"
+            },
+            {
+              "front": "My cat makes me feel calm",
+              "back": "ang akong iring nagpakalma kanako"
+            },
+            {
+              "front": "She is trying to stay hopeful",
+              "back": "naningkamot siya nga magpabiling malaumon"
+            },
+            {
+              "front": "He is feeling very confident today",
+              "back": "kompiyansa kaayo siya karon"
+            },
+            {
+              "front": "They are beginning to feel tired",
+              "back": "nagsugod na silag kakapoy"
+            },
+            {
+              "front": "I am feeling quite excited now",
+              "back": "medyo excited na kaayo ko karon"
+            },
+            {
+              "front": "The athlete seems very frustrated today",
+              "back": "murag frustrated kaayo ang athlete karon"
+            },
+            {
+              "front": "My dog makes me really happy",
+              "back": "ang akong iro nakapalipay kaayo kanako"
+            },
+            {
+              "front": "He is starting to feel anxious",
+              "back": "nagsugod na siyag kakulba"
+            },
+            {
+              "front": "She feels proud of her accomplishments",
+              "back": "mapasigarbuhon siya sa iyang mga nahimo"
+            },
+            {
+              "front": "We are feeling extremely hopeful today",
+              "back": "gibati namo ang hilabihan nga paglaum karon"
+            },
+            {
+              "front": "The performer is feeling very nervous",
+              "back": "Gikulbaan pag-ayo ang performer"
+            },
+            {
+              "front": "The audience looks shocked and surprised",
+              "back": "ang mga tumatan-aw daw natingala ug natingala"
+            },
+            {
+              "front": "My friend seems confused about everything",
+              "back": "akong amiga murag libog sa tanan"
+            },
+            {
+              "front": "I am feeling relaxed after the trip",
+              "back": "Gibati nako nga relaks pagkahuman sa biyahe"
+            },
+            {
+              "front": "He is trying to stay calm",
+              "back": "naningkamot siya nga magpabiling kalmado"
+            },
+            {
+              "front": "She is feeling curious about science",
+              "back": "Nakuryoso siya bahin sa siyensya"
+            },
+            {
+              "front": "The teacher feels really proud today",
+              "back": "mapasigarbuhon kaayo ang magtutudlo karon"
+            },
+            {
+              "front": "They are feeling very grateful today",
+              "back": "mapasalamaton kaayo sila karon"
+            },
+            {
+              "front": "The child looks scared of heights",
+              "back": "murag nahadlok sa height ang bata"
+            },
+            {
+              "front": "The scientist is feeling quite curious",
+              "back": "medyo kuryoso ang gibati sa siyentista"
+            },
+            {
+              "front": "She is starting to feel jealous",
+              "back": "nagsugod na siyag selos"
+            },
+            {
+              "front": "He became anxious after the meeting",
+              "back": "nabalaka siya pagkahuman sa miting"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Was scared",
+              "back": "nahadlok"
+            },
+            {
+              "front": "Was happy",
+              "back": "malipayon"
+            },
+            {
+              "front": "Was grateful",
+              "back": "mapasalamaton"
+            },
+            {
+              "front": "Was nervous",
+              "back": "gikulbaan"
+            },
+            {
+              "front": "Was excited",
+              "back": "naghinam-hinam"
+            },
+            {
+              "front": "Was calm",
+              "back": "kalmado"
+            },
+            {
+              "front": "Was anxious",
+              "back": "nabalaka"
+            },
+            {
+              "front": "Was curious",
+              "back": "nakuryoso"
+            },
+            {
+              "front": "Was sad",
+              "back": "naguol"
+            },
+            {
+              "front": "Was surprised",
+              "back": "natingala"
+            },
+            {
+              "front": "Was proud",
+              "back": "mapasigarbuhon"
+            },
+            {
+              "front": "Was embarrassed",
+              "back": "naulaw"
+            },
+            {
+              "front": "Was angry",
+              "back": "nasuko"
+            },
+            {
+              "front": "Was jealous",
+              "back": "nagselos"
+            },
+            {
+              "front": "Was frustrated",
+              "back": "nasagmuyo"
+            },
+            {
+              "front": "Was tired",
+              "back": "gikapoy"
+            },
+            {
+              "front": "Was bored",
+              "back": "na bored"
+            },
+            {
+              "front": "Was confident",
+              "back": "masaligon"
+            },
+            {
+              "front": "Was guilty",
+              "back": "nakasala"
+            },
+            {
+              "front": "Was hopeful",
+              "back": "malaumon"
+            },
+            {
+              "front": "Was ashamed",
+              "back": "naulaw"
+            },
+            {
+              "front": "Was relaxed",
+              "back": "nagpahayahay"
+            },
+            {
+              "front": "Was lonely",
+              "back": "nag-inusara"
+            },
+            {
+              "front": "Was shocked",
+              "back": "nakurat"
+            },
+            {
+              "front": "Was confused",
+              "back": "naglibog"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I was angry",
+              "back": "nasuko ko"
+            },
+            {
+              "front": "He was sad",
+              "back": "naguol siya"
+            },
+            {
+              "front": "They were excited",
+              "back": "naghinam-hinam sila"
+            },
+            {
+              "front": "Dogs were tired",
+              "back": "gikapoy ang mga iro"
+            },
+            {
+              "front": "Captains were confident",
+              "back": "masaligon ang mga kapitan"
+            },
+            {
+              "front": "Boys were curious",
+              "back": "ang mga lalaki nakuryuso"
+            },
+            {
+              "front": "She was nervous",
+              "back": "gikulbaan siya"
+            },
+            {
+              "front": "He was grateful",
+              "back": "mapasalamaton siya"
+            },
+            {
+              "front": "We were happy",
+              "back": "malipayon mi"
+            },
+            {
+              "front": "She was embarrassed",
+              "back": "naulaw siya"
+            },
+            {
+              "front": "They were proud",
+              "back": "gipasigarbo nila"
+            },
+            {
+              "front": "He was frustrated",
+              "back": "nasagmuyo siya"
+            },
+            {
+              "front": "I was relaxed",
+              "back": "nagpahayahay ko"
+            },
+            {
+              "front": "They were lonely",
+              "back": "nag-inusara sila"
+            },
+            {
+              "front": "children were surprised",
+              "back": "natingala ang mga bata"
+            },
+            {
+              "front": "students were bored",
+              "back": "ang mga estudyante gikapoy"
+            },
+            {
+              "front": "She was shocked",
+              "back": "nakurat siya"
+            },
+            {
+              "front": "I was scared",
+              "back": "nahadlok ko"
+            },
+            {
+              "front": "He was hopeful",
+              "back": "malaumon siya"
+            },
+            {
+              "front": "We were anxious",
+              "back": "kami nabalaka"
+            },
+            {
+              "front": "They were jealous",
+              "back": "nasina sila"
+            },
+            {
+              "front": "friend was confused",
+              "back": "amigo naglibog"
+            },
+            {
+              "front": "team was proud",
+              "back": "mapasigarbuhon ang team"
+            },
+            {
+              "front": "He was guilty",
+              "back": "nakasala siya"
+            },
+            {
+              "front": "audience was shocked",
+              "back": "ang mga mamiminaw nakurat"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The boy was very happy",
+              "back": "malipayon kaayo ang bata"
+            },
+            {
+              "front": "My dogs were excited",
+              "back": "naghinam-hinam ang akong mga iro"
+            },
+            {
+              "front": "They have anxious cats",
+              "back": "naa silay gikabalak-an nga mga iring"
+            },
+            {
+              "front": "Our students were bored",
+              "back": "nauwaw ang among mga estudyante"
+            },
+            {
+              "front": "She was very nervous",
+              "back": "kulbaan kaayo siya"
+            },
+            {
+              "front": "He felt extremely proud",
+              "back": "gibati niya ang hilabihang garbo"
+            },
+            {
+              "front": "We were all surprised",
+              "back": "natingala ming tanan"
+            },
+            {
+              "front": "The team was confident",
+              "back": "ang team masaligon"
+            },
+            {
+              "front": "I was feeling jealous",
+              "back": "nagselos ko"
+            },
+            {
+              "front": "My friend was confused",
+              "back": "naglibog akong amigo"
+            },
+            {
+              "front": "The audience was shocked",
+              "back": "nakurat ang audience"
+            },
+            {
+              "front": "He felt very relaxed",
+              "back": "hayahay kaayo ang iyang gibati"
+            },
+            {
+              "front": "The girl was scared",
+              "back": "nahadlok ang babaye"
+            },
+            {
+              "front": "She was really excited",
+              "back": "excited gyud siya"
+            },
+            {
+              "front": "They were quite happy",
+              "back": "medyo malipayon sila"
+            },
+            {
+              "front": "The athlete was frustrated",
+              "back": "ang atleta napakyas"
+            },
+            {
+              "front": "He felt extremely guilty",
+              "back": "gibati niya ang hilabihan nga pagkasad-an"
+            },
+            {
+              "front": "The dog was calm",
+              "back": "kalmado ang iro"
+            },
+            {
+              "front": "They were really anxious",
+              "back": "nabalaka gayod sila"
+            },
+            {
+              "front": "I felt very ashamed",
+              "back": "naulaw kaayo ko"
+            },
+            {
+              "front": "We were feeling hopeful",
+              "back": "mibati mig paglaom"
+            },
+            {
+              "front": "The child was embarrassed",
+              "back": "naulaw ang bata"
+            },
+            {
+              "front": "She felt very grateful",
+              "back": "mapasalamaton kaayo siya"
+            },
+            {
+              "front": "The boys were curious",
+              "back": "nakuryuso ang mga lalaki"
+            },
+            {
+              "front": "He was very confident",
+              "back": "masaligon kaayo siya"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am feeling sad today",
+              "back": "naguol ko karon"
+            },
+            {
+              "front": "Dogs are always happy animals",
+              "back": "iro mao ang kanunay nga malipayon nga mga mananap"
+            },
+            {
+              "front": "Cats get nervous when startled",
+              "back": "makulbaan ang mga iring kon makurat"
+            },
+            {
+              "front": "She was grateful to him",
+              "back": "mapasalamaton siya kaniya"
+            },
+            {
+              "front": "He was ashamed about work",
+              "back": "naulaw siya sa trabaho"
+            },
+            {
+              "front": "We were feeling very hopeful",
+              "back": "naglaom kaayo mi"
+            },
+            {
+              "front": "They were excited about school",
+              "back": "excited na sila sa eskwelahan"
+            },
+            {
+              "front": "He felt extremely proud yesterday",
+              "back": "grabe ang iyang garbo kagahapon"
+            },
+            {
+              "front": "She was embarrassed at school",
+              "back": "naulaw siya sa eskwelahan"
+            },
+            {
+              "front": "My dog looked really happy",
+              "back": "malipayon kaayo akong iro"
+            },
+            {
+              "front": "He was really nervous today",
+              "back": "gikulbaan gyud siya karon"
+            },
+            {
+              "front": "The audience was very surprised",
+              "back": "natingala kaayo ang audience"
+            },
+            {
+              "front": "I was feeling anxious yesterday",
+              "back": "Gibati ko ang kabalaka kagahapon"
+            },
+            {
+              "front": "The child felt very scared",
+              "back": "gibati og tumang kahadlok ang bata"
+            },
+            {
+              "front": "They were confused about it",
+              "back": "naglibog sila bahin niini"
+            },
+            {
+              "front": "She felt guilty about mistakes",
+              "back": "nakonsensya siya sa mga sayop"
+            },
+            {
+              "front": "He was feeling quite lonely",
+              "back": "gibati niya nga nag-inusara"
+            },
+            {
+              "front": "My friend was very tired",
+              "back": "kapoy kaayo akong amiga"
+            },
+            {
+              "front": "We were proud of ourselves",
+              "back": "gipasigarbo namo ang among kaugalingon"
+            },
+            {
+              "front": "She felt calm during tests",
+              "back": "gibati niya nga kalmado panahon sa mga pagsulay"
+            },
+            {
+              "front": "The team was very confident",
+              "back": "masaligon kaayo ang team"
+            },
+            {
+              "front": "I was ashamed after work",
+              "back": "naulaw ko human sa trabaho"
+            },
+            {
+              "front": "He was angry about yesterday",
+              "back": "nasuko siya sa kagahapon"
+            },
+            {
+              "front": "The boy felt incredibly anxious",
+              "back": "ang bata mibati og tumang kabalaka"
+            },
+            {
+              "front": "She was happy with results",
+              "back": "nalipay siya sa mga resulta"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Dogs are happy when at home",
+              "back": "ang mga iro malipayon kung naa sa balay"
+            },
+            {
+              "front": "Boys are excited when around girls",
+              "back": "Ang mga lalaki madasigon kon anaa sa mga babaye"
+            },
+            {
+              "front": "I was ashamed by my mistakes",
+              "back": "naulaw ko sa akong mga sayop"
+            },
+            {
+              "front": "They were anxious about the trip",
+              "back": "nabalaka sila sa biyahe"
+            },
+            {
+              "front": "The captain was confident at work",
+              "back": "masaligon ang kapitan sa trabaho"
+            },
+            {
+              "front": "She was grateful for his help",
+              "back": "mapasalamaton siya sa iyang tabang"
+            },
+            {
+              "front": "He was frustrated by the results",
+              "back": "nasagmuyo siya sa resulta"
+            },
+            {
+              "front": "We were hopeful about the future",
+              "back": "naglaum kami bahin sa umaabot"
+            },
+            {
+              "front": "My dog was happy at home",
+              "back": "malipayon ang akong iro sa balay"
+            },
+            {
+              "front": "The students were bored in class",
+              "back": "bored ang mga estudyante sa klase"
+            },
+            {
+              "front": "He was proud of his achievement",
+              "back": "mapasigarbuhon siya sa iyang nahimo"
+            },
+            {
+              "front": "The child was nervous before school",
+              "back": "ang bata gikulbaan sa wala pa ang eskwelahan"
+            },
+            {
+              "front": "She was excited about the party",
+              "back": "excited siya sa party"
+            },
+            {
+              "front": "They were confused by the instructions",
+              "back": "naglibog sila sa mga instruksyon"
+            },
+            {
+              "front": "I was embarrassed by my actions",
+              "back": "naulaw ko sa akong mga binuhatan"
+            },
+            {
+              "front": "The team was confident about the win",
+              "back": "ang team masaligon sa kadaugan"
+            },
+            {
+              "front": "He was jealous of her success",
+              "back": "nasina siya sa iyang kalampusan"
+            },
+            {
+              "front": "The performer was nervous before performing",
+              "back": "gikulbaan ang performer sa wala pa magpasundayag"
+            },
+            {
+              "front": "We were relaxed after the event",
+              "back": "nagpahayahay kami pagkahuman sa panghitabo"
+            },
+            {
+              "front": "She was lonely during the trip",
+              "back": "nag-inusara siya sa biyahe"
+            },
+            {
+              "front": "He was tired after a long day",
+              "back": "gikapoy siya human sa taas nga adlaw"
+            },
+            {
+              "front": "They were shocked by the surprise",
+              "back": "nakurat sila sa katingala"
+            },
+            {
+              "front": "I was happy with the results",
+              "back": "Nalipay ko sa mga resulta"
+            },
+            {
+              "front": "The boys were curious about science",
+              "back": "ang mga lalaki interesado sa siyensya"
+            },
+            {
+              "front": "She was confident during the test",
+              "back": "masaligon siya sa panahon sa pagsulay"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will be nervous",
+              "back": "makulbaan"
+            },
+            {
+              "front": "Will be excited",
+              "back": "maghinamhinam"
+            },
+            {
+              "front": "Will be happy",
+              "back": "mahimong malipayon"
+            },
+            {
+              "front": "Will be scared",
+              "back": "mahadlok"
+            },
+            {
+              "front": "Will feel proud",
+              "back": "mobati og garbo"
+            },
+            {
+              "front": "Will be grateful",
+              "back": "mahimong mapasalamaton"
+            },
+            {
+              "front": "Will feel relaxed",
+              "back": "mobati nga relaks"
+            },
+            {
+              "front": "Will be anxious",
+              "back": "mabalaka"
+            },
+            {
+              "front": "Will feel guilty",
+              "back": "makonsensya"
+            },
+            {
+              "front": "Will be calm",
+              "back": "mahimong kalmado"
+            },
+            {
+              "front": "Will be jealous",
+              "back": "magselos"
+            },
+            {
+              "front": "Will be hopeful",
+              "back": "mahimong malaumon"
+            },
+            {
+              "front": "Will be bored",
+              "back": "mauwaw"
+            },
+            {
+              "front": "Will feel confused",
+              "back": "mobati og kalibog"
+            },
+            {
+              "front": "Will be embarrassed",
+              "back": "maulawan"
+            },
+            {
+              "front": "Will be shocked",
+              "back": "makurat"
+            },
+            {
+              "front": "Will be tired",
+              "back": "kapoyon"
+            },
+            {
+              "front": "Will feel lonely",
+              "back": "mobati og kamingaw"
+            },
+            {
+              "front": "Will be angry",
+              "back": "masuko"
+            },
+            {
+              "front": "Will feel relaxed",
+              "back": "mobati nga relaks"
+            },
+            {
+              "front": "Will feel confident",
+              "back": "mobati nga masaligon"
+            },
+            {
+              "front": "Will feel frustrated",
+              "back": "mobati og kasagmuyo"
+            },
+            {
+              "front": "Will be surprised",
+              "back": "matingala"
+            },
+            {
+              "front": "Will be calm",
+              "back": "mahimong kalmado"
+            },
+            {
+              "front": "Will feel curious",
+              "back": "mobati nga kahibaw"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will be curious",
+              "back": "ma curious ko"
+            },
+            {
+              "front": "Dog will become happy",
+              "back": "iro mahimong malipayon"
+            },
+            {
+              "front": "Cats will be relaxed",
+              "back": "ang mga iring magpahayahay"
+            },
+            {
+              "front": "Fathers will be calm",
+              "back": "ang mga amahan mahimong kalmado"
+            },
+            {
+              "front": "Students will be frustrated",
+              "back": "ang mga estudyante mapakyas"
+            },
+            {
+              "front": "He will be anxious",
+              "back": "siya mabalaka"
+            },
+            {
+              "front": "She will feel proud",
+              "back": "mobati siyag garbo"
+            },
+            {
+              "front": "They will be excited",
+              "back": "maghinamhinam sila"
+            },
+            {
+              "front": "We will feel grateful",
+              "back": "kita mobati nga mapasalamaton"
+            },
+            {
+              "front": "I will be nervous",
+              "back": "kulbaan ko"
+            },
+            {
+              "front": "The child will be happy",
+              "back": "malipay ang bata"
+            },
+            {
+              "front": "The audience will be shocked",
+              "back": "ang mamiminaw makurat"
+            },
+            {
+              "front": "He will be embarrassed",
+              "back": "maulaw siya"
+            },
+            {
+              "front": "My friend will be jealous",
+              "back": "magselos akong amiga"
+            },
+            {
+              "front": "The dog will feel calm",
+              "back": "ang iro mobati nga kalmado"
+            },
+            {
+              "front": "The team will be confident",
+              "back": "ang team masaligon"
+            },
+            {
+              "front": "She will be relaxed",
+              "back": "siya magpahayahay"
+            },
+            {
+              "front": "They will feel lonely",
+              "back": "bation nila ang kamingaw"
+            },
+            {
+              "front": "The boys will feel bored",
+              "back": "ang mga lalaki makabati ug kalaay"
+            },
+            {
+              "front": "I will feel tired",
+              "back": "makabati kog kakapoy"
+            },
+            {
+              "front": "The girl will feel scared",
+              "back": "mahadlok ang babaye"
+            },
+            {
+              "front": "He will feel confused",
+              "back": "maglibog siya"
+            },
+            {
+              "front": "We will be hopeful",
+              "back": "kita magmalaumon"
+            },
+            {
+              "front": "She will be guilty",
+              "back": "makasala siya"
+            },
+            {
+              "front": "They will feel ashamed",
+              "back": "maulaw sila"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "They will be ashamed soon",
+              "back": "maulaw sila dayon"
+            },
+            {
+              "front": "He will become excited soon",
+              "back": "maghinamhinam siya sa dili madugay"
+            },
+            {
+              "front": "Dogs will be lonely tomorrow",
+              "back": "mamingaw ang mga iro ugma"
+            },
+            {
+              "front": "Birds will excite the cats",
+              "back": "ang mga langgam makapahinam sa mga iring"
+            },
+            {
+              "front": "I will be happy tomorrow",
+              "back": "malipay ko ugma"
+            },
+            {
+              "front": "She will feel proud soon",
+              "back": "mapasigarbuhon siya sa dili madugay"
+            },
+            {
+              "front": "He will become very curious",
+              "back": "mausisa kaayo siya"
+            },
+            {
+              "front": "The students will feel frustrated",
+              "back": "ang mga estudyante mobati og kasagmuyo"
+            },
+            {
+              "front": "We will feel anxious tomorrow",
+              "back": "bation nato ang kabalaka ugma"
+            },
+            {
+              "front": "They will be nervous soon",
+              "back": "kulbaan sila dayon"
+            },
+            {
+              "front": "The child will be excited",
+              "back": "maghinam-hinam ang bata"
+            },
+            {
+              "front": "My friend will feel guilty",
+              "back": "makonsensya akong amigo"
+            },
+            {
+              "front": "The team will be hopeful",
+              "back": "malaumon ang team"
+            },
+            {
+              "front": "He will feel very calm",
+              "back": "kalmado kaayo siya"
+            },
+            {
+              "front": "I will be jealous soon",
+              "back": "magselos ko dayon"
+            },
+            {
+              "front": "She will be lonely tomorrow",
+              "back": "mamingaw na siya ugma"
+            },
+            {
+              "front": "The boys will feel ashamed",
+              "back": "maulaw ang mga laki"
+            },
+            {
+              "front": "We will be happy soon",
+              "back": "malipay ta sa dili madugay"
+            },
+            {
+              "front": "She will feel confused tomorrow",
+              "back": "maglibog siya ugma"
+            },
+            {
+              "front": "They will become proud parents",
+              "back": "sila mahimong mapahitas-on nga mga ginikanan"
+            },
+            {
+              "front": "He will feel relaxed tomorrow",
+              "back": "hayahay na siya ugma"
+            },
+            {
+              "front": "The dog will be tired",
+              "back": "kapoyon ang iro"
+            },
+            {
+              "front": "The audience will be shocked",
+              "back": "ang mamiminaw makurat"
+            },
+            {
+              "front": "The girls will feel bored",
+              "back": "ang mga babaye mobati og kalaay"
+            },
+            {
+              "front": "I will feel confident soon",
+              "back": "ako mobati nga masaligon sa dili madugay"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Balls will make dogs happy today",
+              "back": "ang mga bola makapalipay sa mga iro karon"
+            },
+            {
+              "front": "Birds make cats excited outside",
+              "back": "ang mga langgam makapahinam sa mga iring sa gawas"
+            },
+            {
+              "front": "Tests will make students very anxious",
+              "back": "ang mga pagsulay makapabalaka pag-ayo sa mga estudyante"
+            },
+            {
+              "front": "He will be confident at work",
+              "back": "masaligon siya sa trabaho"
+            },
+            {
+              "front": "They will be frustrated at school",
+              "back": "madismaya sila sa eskwelahan"
+            },
+            {
+              "front": "I will feel excited tomorrow morning",
+              "back": "mabati ko ang kahinam ugma sa buntag"
+            },
+            {
+              "front": "The movie will make them scared",
+              "back": "ang salida makapahadlok kanila"
+            },
+            {
+              "front": "She will be proud of herself",
+              "back": "ipasigarbo niya ang iyang kaugalingon"
+            },
+            {
+              "front": "The boys will feel nervous soon",
+              "back": "kulbaan dayon ang mga laki"
+            },
+            {
+              "front": "My dog will feel happy later",
+              "back": "malipay ang akong iro unya"
+            },
+            {
+              "front": "The audience will be shocked tonight",
+              "back": "makurat ang mamiminaw karong gabhiona"
+            },
+            {
+              "front": "He will feel grateful for help",
+              "back": "siya mobati nga mapasalamaton alang sa tabang"
+            },
+            {
+              "front": "We will be anxious before the test",
+              "back": "kita mabalaka sa dili pa ang pagsulay"
+            },
+            {
+              "front": "She will be lonely all day",
+              "back": "magmingaw siya tibuok adlaw"
+            },
+            {
+              "front": "They will become excited after school",
+              "back": "sila mahimong maghinam-hinam human sa eskwelahan"
+            },
+            {
+              "front": "The athlete will be confident tomorrow",
+              "back": "masaligon ang atleta ugma"
+            },
+            {
+              "front": "The teacher will feel proud today",
+              "back": "mapasigarbuhon ang magtutudlo karon"
+            },
+            {
+              "front": "He will feel tired after work",
+              "back": "siya mobati og kakapoy human sa trabaho"
+            },
+            {
+              "front": "I will feel relaxed after dinner",
+              "back": "Mohayahay ko human sa panihapon"
+            },
+            {
+              "front": "The performer will feel nervous backstage",
+              "back": "makulbaan ang performer sa backstage"
+            },
+            {
+              "front": "We will be happy with results",
+              "back": "malipay ta sa mga resulta"
+            },
+            {
+              "front": "The girls will be bored tomorrow",
+              "back": "ang mga babaye mauwaw ugma"
+            },
+            {
+              "front": "She will be jealous of others",
+              "back": "magselos siya sa uban"
+            },
+            {
+              "front": "He will be curious about everything",
+              "back": "mausisa siya sa tanan"
+            },
+            {
+              "front": "They will be hopeful next week",
+              "back": "malaumon sila sunod semana"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

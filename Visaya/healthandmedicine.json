@@ -1,0 +1,1600 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Health",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Doctor",
+              "back": "doktor"
+            },
+            {
+              "front": "Nurse",
+              "back": "nars"
+            },
+            {
+              "front": "Patient",
+              "back": "pasyente"
+            },
+            {
+              "front": "Medicine",
+              "back": "tambal"
+            },
+            {
+              "front": "Bandage",
+              "back": "bendahe"
+            },
+            {
+              "front": "Prescription",
+              "back": "reseta"
+            },
+            {
+              "front": "Pill",
+              "back": "pildora"
+            },
+            {
+              "front": "Checkup",
+              "back": "pagsusi"
+            },
+            {
+              "front": "Injection",
+              "back": "ineksiyon"
+            },
+            {
+              "front": "Vaccine",
+              "back": "bakuna"
+            },
+            {
+              "front": "Therapy",
+              "back": "terapiya"
+            },
+            {
+              "front": "Ambulance",
+              "back": "ambulansya"
+            },
+            {
+              "front": "X-ray",
+              "back": "x-ray"
+            },
+            {
+              "front": "Clinic",
+              "back": "klinika"
+            },
+            {
+              "front": "Hospital",
+              "back": "ospital"
+            },
+            {
+              "front": "Allergy",
+              "back": "alerdyi"
+            },
+            {
+              "front": "Treatment",
+              "back": "pagtambal"
+            },
+            {
+              "front": "Surgery",
+              "back": "operasyon"
+            },
+            {
+              "front": "Dentist",
+              "back": "dentista"
+            },
+            {
+              "front": "Cast",
+              "back": "isalibay"
+            },
+            {
+              "front": "Thermometer",
+              "back": "thermometer"
+            },
+            {
+              "front": "Diagnosis",
+              "back": "diagnosis"
+            },
+            {
+              "front": "Blood",
+              "back": "dugo"
+            },
+            {
+              "front": "Fracture",
+              "back": "bali"
+            },
+            {
+              "front": "Wheelchair",
+              "back": "wheelchair"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Doctor checkup",
+              "back": "pagsusi sa doktor"
+            },
+            {
+              "front": "Nurse care",
+              "back": "pag-atiman sa nars"
+            },
+            {
+              "front": "Patient records",
+              "back": "mga rekord sa pasyente"
+            },
+            {
+              "front": "Medicine bottle",
+              "back": "botelya sa tambal"
+            },
+            {
+              "front": "Bandage wound",
+              "back": "samad sa bendahe"
+            },
+            {
+              "front": "Prescription pills",
+              "back": "reseta nga mga pildoras"
+            },
+            {
+              "front": "Pill bottle",
+              "back": "botelya sa pildoras"
+            },
+            {
+              "front": "Health checkup",
+              "back": "pagsusi sa panglawas"
+            },
+            {
+              "front": "Injection site",
+              "back": "lugar sa pag-injection"
+            },
+            {
+              "front": "Vaccine dose",
+              "back": "dosis sa bakuna"
+            },
+            {
+              "front": "Therapy session",
+              "back": "sesyon sa terapiya"
+            },
+            {
+              "front": "Ambulance ride",
+              "back": "sakay sa ambulansya"
+            },
+            {
+              "front": "X-ray scan",
+              "back": "x-ray scan"
+            },
+            {
+              "front": "Clinic appointment",
+              "back": "appointment sa klinika"
+            },
+            {
+              "front": "Hospital visit",
+              "back": "pagbisita sa ospital"
+            },
+            {
+              "front": "Allergy symptoms",
+              "back": "sintomas sa alerdyi"
+            },
+            {
+              "front": "Treatment plan",
+              "back": "plano sa pagtambal"
+            },
+            {
+              "front": "Surgery room",
+              "back": "lawak sa pag-opera"
+            },
+            {
+              "front": "Dentist appointment",
+              "back": "appointment sa dentista"
+            },
+            {
+              "front": "Fracture cast",
+              "back": "bali nga cast"
+            },
+            {
+              "front": "Thermometer reading",
+              "back": "pagbasa sa thermometer"
+            },
+            {
+              "front": "Diagnosis report",
+              "back": "report sa diagnosis"
+            },
+            {
+              "front": "Blood test",
+              "back": "pagsulay sa dugo"
+            },
+            {
+              "front": "Broken bone",
+              "back": "nabali nga bukog"
+            },
+            {
+              "front": "Wheelchair access",
+              "back": "access sa wheelchair"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Doctor checks patient",
+              "back": "gisusi sa doktor ang pasyente"
+            },
+            {
+              "front": "Nurse provides care",
+              "back": "nurse naghatag ug pag-atiman"
+            },
+            {
+              "front": "Patient takes medicine",
+              "back": "ang pasyente miinom ug tambal"
+            },
+            {
+              "front": "Bandage covers wound",
+              "back": "ang bendahe nagtabon sa samad"
+            },
+            {
+              "front": "Prescription requires approval",
+              "back": "reseta nagkinahanglan og pagtugot"
+            },
+            {
+              "front": "Pill bottle opens",
+              "back": "Gibuksan ang botelya sa pildoras"
+            },
+            {
+              "front": "Injection causes pain",
+              "back": "ineksiyon hinungdan sa kasakit"
+            },
+            {
+              "front": "Vaccine prevents disease",
+              "back": "ang bakuna makapugong sa sakit"
+            },
+            {
+              "front": "Therapy session helps",
+              "back": "makatabang ang sesyon sa therapy"
+            },
+            {
+              "front": "Ambulance arrives quickly",
+              "back": "dali nga niabot ang ambulansya"
+            },
+            {
+              "front": "X-ray shows fracture",
+              "back": "x-ray nagpakita sa bali"
+            },
+            {
+              "front": "Clinic accepts patients",
+              "back": "clinic midawat sa mga pasyente"
+            },
+            {
+              "front": "Hospital admits patients",
+              "back": "ospital nag-admit sa mga pasyente"
+            },
+            {
+              "front": "Allergy causes symptoms",
+              "back": "allergy hinungdan sa mga sintomas"
+            },
+            {
+              "front": "Treatment reduces pain",
+              "back": "pagtambal makapamenos sa kasakit"
+            },
+            {
+              "front": "Surgery fixes injury",
+              "back": "ang operasyon nag-ayo sa kadaot"
+            },
+            {
+              "front": "Dentist cleans teeth",
+              "back": "ang dentista manglimpyo sa ngipon"
+            },
+            {
+              "front": "Fracture requires cast",
+              "back": "fracture nagkinahanglan og cast"
+            },
+            {
+              "front": "Thermometer checks temperature",
+              "back": "thermometer nagsusi sa temperatura"
+            },
+            {
+              "front": "Diagnosis helps treatment",
+              "back": "diagnosis makatabang sa pagtambal"
+            },
+            {
+              "front": "Blood test needed",
+              "back": "gikinahanglan ang pagsulay sa dugo"
+            },
+            {
+              "front": "Broken bone heals",
+              "back": "nag-ayo ang nabali nga bukog"
+            },
+            {
+              "front": "Wheelchair provides mobility",
+              "back": "ang wheelchair naghatag og paglihok"
+            },
+            {
+              "front": "Doctor performs surgery",
+              "back": "ang doktor nag-opera"
+            },
+            {
+              "front": "Medicine reduces fever",
+              "back": "tambal makapamenos sa hilanat"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The doctor checks patients",
+              "back": "gisusi sa doktor ang mga pasyente"
+            },
+            {
+              "front": "She provides patient care",
+              "back": "naghatag siya ug pag-atiman sa pasyente"
+            },
+            {
+              "front": "I take my medicine",
+              "back": "miinom ko sa akong tambal"
+            },
+            {
+              "front": "Bandage covers the wound",
+              "back": "ang bendahe nagtabon sa samad"
+            },
+            {
+              "front": "His prescription requires approval",
+              "back": "ang iyang reseta nagkinahanglan og pagtugot"
+            },
+            {
+              "front": "Pill bottle remains closed",
+              "back": "Ang botelya sa tableta nagpabilin nga sirado"
+            },
+            {
+              "front": "She administers the injection",
+              "back": "siya ang nag-injection"
+            },
+            {
+              "front": "The vaccine prevents illness",
+              "back": "ang bakuna makapugong sa sakit"
+            },
+            {
+              "front": "Therapy sessions help recovery",
+              "back": "Ang mga sesyon sa therapy makatabang sa pagkaayo"
+            },
+            {
+              "front": "Ambulance arrives very fast",
+              "back": "paspas kaayo niabot ang ambulansya"
+            },
+            {
+              "front": "X-ray shows bone fracture",
+              "back": "x-ray nagpakita sa bukog bali"
+            },
+            {
+              "front": "The clinic accepts walk-ins",
+              "back": "ang klinika modawat sa walk-in"
+            },
+            {
+              "front": "We visit the hospital",
+              "back": "mibisita mi sa ospital"
+            },
+            {
+              "front": "Allergies cause various symptoms",
+              "back": "alerdyi hinungdan sa lain-laing mga sintomas"
+            },
+            {
+              "front": "The treatment reduces pain",
+              "back": "ang pagtambal makapamenos sa kasakit"
+            },
+            {
+              "front": "They perform successful surgery",
+              "back": "naghimo sila og malampuson nga operasyon"
+            },
+            {
+              "front": "The dentist cleans teeth",
+              "back": "ang dentista manglimpyo sa ngipon"
+            },
+            {
+              "front": "His fracture needs casting",
+              "back": "ang iyang bali kinahanglan nga casting"
+            },
+            {
+              "front": "The thermometer checks temperature",
+              "back": "ang thermometer nagsusi sa temperatura"
+            },
+            {
+              "front": "Their diagnosis determines treatment",
+              "back": "ang ilang diagnosis nagtino sa pagtambal"
+            },
+            {
+              "front": "Blood tests are important",
+              "back": "ang mga pagsulay sa dugo hinungdanon"
+            },
+            {
+              "front": "A broken bone heals",
+              "back": "ang nabali nga bukog makaayo"
+            },
+            {
+              "front": "She uses a wheelchair",
+              "back": "naggamit siya ug wheelchair"
+            },
+            {
+              "front": "Doctors perform necessary surgery",
+              "back": "ang mga doktor naghimo sa gikinahanglan nga operasyon"
+            },
+            {
+              "front": "Medicine reduces my fever",
+              "back": "ang tambal nagpamenos sa akong hilanat"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The doctor checks vital signs",
+              "back": "Gisusi sa doktor ang mga vital sign"
+            },
+            {
+              "front": "She provides care to patients",
+              "back": "naghatag siya og pag-atiman sa mga pasyente"
+            },
+            {
+              "front": "I take my medicine daily",
+              "back": "ginainom nako akong tambal kada adlaw"
+            },
+            {
+              "front": "Bandage covers the open wound",
+              "back": "ang bendahe nagtabon sa bukas nga samad"
+            },
+            {
+              "front": "His prescription requires doctor approval",
+              "back": "ang iyang reseta nagkinahanglan og pagtugot sa doktor"
+            },
+            {
+              "front": "The pill bottle remains closed",
+              "back": "ang botelya sa pildoras nagpabilin nga sirado"
+            },
+            {
+              "front": "She administers the flu injection",
+              "back": "siya nangalagad sa flu injection"
+            },
+            {
+              "front": "The vaccine prevents serious illness",
+              "back": "ang bakuna makapugong sa grabe nga sakit"
+            },
+            {
+              "front": "Therapy sessions help with recovery",
+              "back": "Ang mga sesyon sa therapy makatabang sa pagkaayo"
+            },
+            {
+              "front": "Ambulance arrives at the scene",
+              "back": "ambulansya miabot sa dapit"
+            },
+            {
+              "front": "X-ray shows a bone fracture",
+              "back": "x-ray nagpakita sa bukog bali"
+            },
+            {
+              "front": "The clinic accepts new patients",
+              "back": "ang klinika modawat ug bag-ong mga pasyente"
+            },
+            {
+              "front": "We visit the hospital regularly",
+              "back": "regular mi nga mubisita sa hospital"
+            },
+            {
+              "front": "Allergies cause many uncomfortable symptoms",
+              "back": "Ang mga alerdyi hinungdan sa daghang dili komportable nga mga simtomas"
+            },
+            {
+              "front": "The treatment reduces severe pain",
+              "back": "ang pagtambal makapamenos sa grabeng kasakit"
+            },
+            {
+              "front": "They perform life-saving surgery today",
+              "back": "naghimo sila og makaluwas-kinabuhi nga operasyon karon"
+            },
+            {
+              "front": "The dentist cleans teeth carefully",
+              "back": "ang dentista manglimpyo sa ngipon pag-ayo"
+            },
+            {
+              "front": "His fracture needs a new cast",
+              "back": "ang iyang bali nagkinahanglan ug bag-ong cast"
+            },
+            {
+              "front": "The thermometer checks body temperature",
+              "back": "ang thermometer nagsusi sa temperatura sa lawas"
+            },
+            {
+              "front": "Their diagnosis determines proper treatment",
+              "back": "ang ilang diagnosis nagtino sa husto nga pagtambal"
+            },
+            {
+              "front": "Blood tests are always important",
+              "back": "Ang mga pagsulay sa dugo kanunay nga hinungdanon"
+            },
+            {
+              "front": "A broken bone heals slowly",
+              "back": "ang nabali nga bukog hinay nga naayo"
+            },
+            {
+              "front": "She uses a motorized wheelchair",
+              "back": "naggamit siya ug de-motor nga wheelchair"
+            },
+            {
+              "front": "Doctors perform necessary heart surgery",
+              "back": "ang mga doktor naghimo sa gikinahanglan nga operasyon sa kasingkasing"
+            },
+            {
+              "front": "Medicine reduces my high fever",
+              "back": "ang tambal nagpamenos sa akong taas nga hilanat"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "doctor checks the patient's vital signs",
+              "back": "Gisusi sa doktor ang vital signs sa pasyente"
+            },
+            {
+              "front": "She provides excellent care to patients",
+              "back": "naghatag siya ug maayo nga pag-atiman sa mga pasyente"
+            },
+            {
+              "front": "I take my prescribed medicine every day",
+              "back": "Giinom nako ang akong gireseta nga tambal kada adlaw"
+            },
+            {
+              "front": "Bandage covers the deep open wound",
+              "back": "ang bendahe nagtabon sa lawom nga bukas nga samad"
+            },
+            {
+              "front": "His prescription requires immediate doctor approval",
+              "back": "ang iyang reseta nanginahanglan dayon nga pagtugot sa doktor"
+            },
+            {
+              "front": "The pill bottle remains tightly closed",
+              "back": "ang botelya sa pildoras nagpabiling hugot nga sirado"
+            },
+            {
+              "front": "She administers the vaccine flu injection",
+              "back": "siya nangalagad sa vaccine flu injection"
+            },
+            {
+              "front": "The vaccine prevents a serious illness",
+              "back": "ang bakuna makapugong sa usa ka seryoso nga sakit"
+            },
+            {
+              "front": "Therapy sessions help with long recovery",
+              "back": "Ang mga sesyon sa therapy makatabang sa taas nga pagkaayo"
+            },
+            {
+              "front": "The ambulance arrives quickly at the scene",
+              "back": "ang ambulansya dali nga miabot sa lugar nga nahitaboan"
+            },
+            {
+              "front": "X-ray shows a clear bone fracture",
+              "back": "Ang x-ray nagpakita sa usa ka tin-aw nga bali sa bukog"
+            },
+            {
+              "front": "The clinic accepts walk-in new patients",
+              "back": "ang klinika modawat ug walk-in nga bag-ong mga pasyente"
+            },
+            {
+              "front": "We visit the local hospital regularly",
+              "back": "kanunay kaming mobisita sa lokal nga ospital"
+            },
+            {
+              "front": "Allergies cause many uncomfortable physical symptoms",
+              "back": "Ang mga alerdyi hinungdan sa daghang dili komportable nga pisikal nga mga sintomas"
+            },
+            {
+              "front": "The treatment reduces the intense pain",
+              "back": "ang pagtambal makapamenos sa grabeng kasakit"
+            },
+            {
+              "front": "They perform life-saving surgery this morning",
+              "back": "nagpahigayon sila ug life-saving surgery karong buntaga"
+            },
+            {
+              "front": "The dentist cleans my teeth carefully",
+              "back": "gilimpyohan sa dentista akong ngipon pag-ayo"
+            },
+            {
+              "front": "His leg fracture needs a new cast",
+              "back": "ang iyang pagkabali sa tiil nagkinahanglan ug bag-ong cast"
+            },
+            {
+              "front": "The thermometer checks his body temperature",
+              "back": "gisusi sa thermometer ang temperatura sa iyang lawas"
+            },
+            {
+              "front": "Their diagnosis determines the proper treatment",
+              "back": "ang ilang diagnosis nagtino sa husto nga pagtambal"
+            },
+            {
+              "front": "Blood tests are needed for diagnosis",
+              "back": "gikinahanglan ang mga pagsulay sa dugo alang sa pagdayagnos"
+            },
+            {
+              "front": "A broken bone usually heals slowly",
+              "back": "ang nabali nga bukog kasagarang hinay nga moayo"
+            },
+            {
+              "front": "She uses a motorized wheelchair daily",
+              "back": "naggamit siya ug de-motor nga wheelchair kada adlaw"
+            },
+            {
+              "front": "Doctors perform a necessary heart surgery",
+              "back": "ang mga doktor naghimo sa gikinahanglan nga operasyon sa kasingkasing"
+            },
+            {
+              "front": "Medicine reduces my fever and headache",
+              "back": "ang tambal makapamenos sa akong hilanat ug labad sa ulo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Was treated",
+              "back": "gitambalan"
+            },
+            {
+              "front": "Had wheelchair",
+              "back": "naay wheelchair"
+            },
+            {
+              "front": "Received medicine",
+              "back": "nakadawat ug tambal"
+            },
+            {
+              "front": "Felt pain",
+              "back": "gibati og kasakit"
+            },
+            {
+              "front": "Took injection",
+              "back": "nikuha ug injection"
+            },
+            {
+              "front": "Had surgery",
+              "back": "naoperahan"
+            },
+            {
+              "front": "Got diagnosis",
+              "back": "nakuha ang diagnosis"
+            },
+            {
+              "front": "Broke bone",
+              "back": "nabali nga bukog"
+            },
+            {
+              "front": "Had fever",
+              "back": "gihilantan"
+            },
+            {
+              "front": "Used crutches",
+              "back": "gigamit nga crutches"
+            },
+            {
+              "front": "Had checkup",
+              "back": "naay checkup"
+            },
+            {
+              "front": "Needed bandage",
+              "back": "gikinahanglan nga bendahe"
+            },
+            {
+              "front": "Felt better",
+              "back": "mas maayo ang gibati"
+            },
+            {
+              "front": "Had X-ray",
+              "back": "adunay x-ray"
+            },
+            {
+              "front": "Took pill",
+              "back": "mikuha ug pildoras"
+            },
+            {
+              "front": "Suffered fracture",
+              "back": "nag-antos sa bali"
+            },
+            {
+              "front": "Needed treatment",
+              "back": "gikinahanglan nga pagtambal"
+            },
+            {
+              "front": "Had allergy",
+              "back": "adunay allergy"
+            },
+            {
+              "front": "Bled heavily",
+              "back": "nagdugo pag-ayo"
+            },
+            {
+              "front": "Saw dentist",
+              "back": "nakakita og dentista"
+            },
+            {
+              "front": "Received vaccine",
+              "back": "nakadawat og bakuna"
+            },
+            {
+              "front": "Wore cast",
+              "back": "nagsuot ug cast"
+            },
+            {
+              "front": "Used thermometer",
+              "back": "gigamit nga thermometer"
+            },
+            {
+              "front": "Got stitches",
+              "back": "adunay mga tahi"
+            },
+            {
+              "front": "Visited hospital",
+              "back": "mibisita sa ospital"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I was treated",
+              "back": "gitambalan ko"
+            },
+            {
+              "front": "She had wheelchair",
+              "back": "naa siyay wheelchair"
+            },
+            {
+              "front": "He received medicine",
+              "back": "nakadawat siyag tambal"
+            },
+            {
+              "front": "They felt pain",
+              "back": "gibati nila ang kasakit"
+            },
+            {
+              "front": "We took injection",
+              "back": "nag-injection mi"
+            },
+            {
+              "front": "He had surgery",
+              "back": "naoperahan siya"
+            },
+            {
+              "front": "Everyone got diagnosis",
+              "back": "ang tanan adunay diagnosis"
+            },
+            {
+              "front": "I broke bone",
+              "back": "nabali kog bukog"
+            },
+            {
+              "front": "Nobody had fever",
+              "back": "walay gihilantan"
+            },
+            {
+              "front": "She used crutches",
+              "back": "migamit siyag saklay"
+            },
+            {
+              "front": "He had checkup",
+              "back": "naa siyay checkup"
+            },
+            {
+              "front": "They needed bandage",
+              "back": "nagkinahanglan sila og bendahe"
+            },
+            {
+              "front": "I felt better",
+              "back": "mas maayo ang akong gibati"
+            },
+            {
+              "front": "She had X-ray",
+              "back": "nag x-ray siya"
+            },
+            {
+              "front": "Everybody took pill",
+              "back": "ang tanan mikuha ug pildoras"
+            },
+            {
+              "front": "He suffered fracture",
+              "back": "nabali siya"
+            },
+            {
+              "front": "We needed treatment",
+              "back": "nagkinahanglan kami og pagtambal"
+            },
+            {
+              "front": "I had allergy",
+              "back": "naa koy allergy"
+            },
+            {
+              "front": "He bled heavily",
+              "back": "nagdugo siyag maayo"
+            },
+            {
+              "front": "We saw dentist",
+              "back": "nagkita mi ug dentist"
+            },
+            {
+              "front": "They received vaccine",
+              "back": "nakadawat sila og bakuna"
+            },
+            {
+              "front": "She wore cast",
+              "back": "nagsuot siya ug cast"
+            },
+            {
+              "front": "Everybody used thermometer",
+              "back": "ang tanan migamit ug thermometer"
+            },
+            {
+              "front": "Nobody got stitches",
+              "back": "walay natahi"
+            },
+            {
+              "front": "I visited hospital",
+              "back": "mibisita ko sa ospital"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I took my vaccine",
+              "back": "gikuha nako akong bakuna"
+            },
+            {
+              "front": "They had medical treatment",
+              "back": "nagpatambal sila"
+            },
+            {
+              "front": "He had many stitches",
+              "back": "daghan siyag tahi"
+            },
+            {
+              "front": "She wore a cast",
+              "back": "nagsul-ob siya og cast"
+            },
+            {
+              "front": "We received the prescription",
+              "back": "nadawat namo ang reseta"
+            },
+            {
+              "front": "He felt a sharp pain",
+              "back": "gibati niya ang grabe nga kasakit"
+            },
+            {
+              "front": "She received her checkup",
+              "back": "nakadawat siya sa iyang pagsusi"
+            },
+            {
+              "front": "They needed more medicine",
+              "back": "nagkinahanglan sila ug dugang tambal"
+            },
+            {
+              "front": "I had my surgery",
+              "back": "gioperahan ko"
+            },
+            {
+              "front": "Everyone had their vaccine",
+              "back": "ang tanan adunay ilang bakuna"
+            },
+            {
+              "front": "He broke his arm",
+              "back": "nabali iyang bukton"
+            },
+            {
+              "front": "She took the injection",
+              "back": "gikuha niya ang injection"
+            },
+            {
+              "front": "We saw the dentist",
+              "back": "nagkita mi sa dentista"
+            },
+            {
+              "front": "They wore heavy bandages",
+              "back": "nagsul-ob silag bug-at nga mga bendahe"
+            },
+            {
+              "front": "I needed more treatment",
+              "back": "nanginahanglan ko og dugang nga pagtambal"
+            },
+            {
+              "front": "She had an allergy",
+              "back": "naa siyay allergy"
+            },
+            {
+              "front": "He suffered a fracture",
+              "back": "nabalian siya"
+            },
+            {
+              "front": "They bled after injuries",
+              "back": "nagkadugo sila human sa mga samad"
+            },
+            {
+              "front": "Nobody had a fever",
+              "back": "walay gihilantan"
+            },
+            {
+              "front": "He used a wheelchair",
+              "back": "migamit siya ug wheelchair"
+            },
+            {
+              "front": "I received medical attention",
+              "back": "nakadawat kog medikal nga pagtagad"
+            },
+            {
+              "front": "She visited the hospital",
+              "back": "mibisita siya sa ospital"
+            },
+            {
+              "front": "They needed an X-ray",
+              "back": "nagkinahanglan sila ug x-ray"
+            },
+            {
+              "front": "He had his diagnosis",
+              "back": "naa siyay diagnosis"
+            },
+            {
+              "front": "Everybody got their stitches",
+              "back": "ang tanan nakakuha sa ilang mga tahi"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I took my vaccine yesterday",
+              "back": "Gikuha nako ang akong bakuna kagahapon"
+            },
+            {
+              "front": "They had medical treatment yesterday",
+              "back": "nagpatambal sila kagahapon"
+            },
+            {
+              "front": "He had many stitches removed",
+              "back": "daghan siyag tahi nga natangtang"
+            },
+            {
+              "front": "She wore a cast for months",
+              "back": "nagsul-ob siya og cast sulod sa mga bulan"
+            },
+            {
+              "front": "We received the prescription yesterday",
+              "back": "nadawat namo ang reseta kagahapon"
+            },
+            {
+              "front": "He felt sharp pain earlier",
+              "back": "gibati niya ang grabe nga kasakit kaniadto"
+            },
+            {
+              "front": "She received her checkup yesterday",
+              "back": "nakadawat siya sa iyang checkup kagahapon"
+            },
+            {
+              "front": "They needed more medicine afterward",
+              "back": "nagkinahanglan sila ug dugang tambal pagkahuman"
+            },
+            {
+              "front": "I had surgery last week",
+              "back": "gioperahan ko sa miaging semana"
+            },
+            {
+              "front": "Everyone had their vaccine yesterday",
+              "back": "ang tanan adunay ilang bakuna kagahapon"
+            },
+            {
+              "front": "He broke his arm yesterday",
+              "back": "nabali iyang bukton gahapon"
+            },
+            {
+              "front": "She took the injection calmly",
+              "back": "kalmado niyang gikuha ang injection"
+            },
+            {
+              "front": "We saw the dentist yesterday",
+              "back": "nagkita mi sa dentist gahapon"
+            },
+            {
+              "front": "They wore heavy bandages yesterday",
+              "back": "nagsul-ob sila og bug-at nga mga bendahe kagahapon"
+            },
+            {
+              "front": "I needed treatment last week",
+              "back": "Nagkinahanglan ko og pagtambal sa miaging semana"
+            },
+            {
+              "front": "She had allergy last spring",
+              "back": "naa siyay allergy last spring"
+            },
+            {
+              "front": "He suffered fracture last winter",
+              "back": "nabalian siya sa miaging tingtugnaw"
+            },
+            {
+              "front": "They bled after the injury",
+              "back": "nagkadugo sila human sa kadaot"
+            },
+            {
+              "front": "Nobody had a fever yesterday",
+              "back": "walay gihilantan gahapon"
+            },
+            {
+              "front": "He used a wheelchair yesterday",
+              "back": "migamit siya ug wheelchair gahapon"
+            },
+            {
+              "front": "I received medical attention immediately",
+              "back": "nakadawat dayon kog medikal nga pagtagad"
+            },
+            {
+              "front": "She visited the hospital yesterday",
+              "back": "mibisita siya sa ospital kagahapon"
+            },
+            {
+              "front": "They needed an X-ray yesterday",
+              "back": "nanginahanglan sila ug x-ray gahapon"
+            },
+            {
+              "front": "He had his diagnosis yesterday",
+              "back": "naa siyay diagnosis gahapon"
+            },
+            {
+              "front": "Everybody got stitches yesterday",
+              "back": "ang tanan adunay mga tahi gahapon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I took my vaccine at home",
+              "back": "Gikuha nako ang akong bakuna sa balay"
+            },
+            {
+              "front": "They had medical treatment last week",
+              "back": "nagpatambal sila sa miaging semana"
+            },
+            {
+              "front": "He had many stitches removed",
+              "back": "daghan siyag tahi nga natangtang"
+            },
+            {
+              "front": "She wore a cast for months",
+              "back": "nagsul-ob siya og cast sulod sa mga bulan"
+            },
+            {
+              "front": "We received the prescription last night",
+              "back": "nadawat namo ang reseta kagabii"
+            },
+            {
+              "front": "He felt a sharp pain earlier",
+              "back": "gibati niya ang grabe nga kasakit kaniadto"
+            },
+            {
+              "front": "She received her checkup last year",
+              "back": "nakadawat siya sa iyang pagsusi sa miaging tuig"
+            },
+            {
+              "front": "They needed more medicine after surgery",
+              "back": "nagkinahanglan sila ug dugang tambal human sa operasyon"
+            },
+            {
+              "front": "I had my surgery last week",
+              "back": "gioperahan ko sa miaging semana"
+            },
+            {
+              "front": "Everyone had their vaccine on time",
+              "back": "ang tanan adunay ilang bakuna sa oras"
+            },
+            {
+              "front": "He broke his arm last month",
+              "back": "nabali iyang bukton last month"
+            },
+            {
+              "front": "She took the injection without pain",
+              "back": "Gikuha niya ang injection nga wala’y sakit"
+            },
+            {
+              "front": "We saw the dentist this morning",
+              "back": "nagkita mi sa dentista karong buntaga"
+            },
+            {
+              "front": "They wore heavy bandages all week",
+              "back": "nagsul-ob sila og bug-at nga mga bendahe sa tibuok semana"
+            },
+            {
+              "front": "I needed more treatment last month",
+              "back": "Nagkinahanglan ko og dugang nga pagtambal sa miaging bulan"
+            },
+            {
+              "front": "She had an allergy last spring",
+              "back": "naa siyay allergy last spring"
+            },
+            {
+              "front": "He suffered a fracture last winter",
+              "back": "siya nag-antus sa usa ka bali sa miaging tingtugnaw"
+            },
+            {
+              "front": "They bled after the injury yesterday",
+              "back": "nagkadugo sila human sa kadaot kagahapon"
+            },
+            {
+              "front": "Nobody had a fever that day",
+              "back": "walay gihilantan niadtong adlawa"
+            },
+            {
+              "front": "He used a wheelchair last week",
+              "back": "migamit siya og wheelchair sa miaging semana"
+            },
+            {
+              "front": "I received medical attention immediately",
+              "back": "nakadawat dayon kog medikal nga pagtagad"
+            },
+            {
+              "front": "She visited the hospital last weekend",
+              "back": "mibisita siya sa ospital sa miaging semana"
+            },
+            {
+              "front": "They needed an X-ray last week",
+              "back": "nanginahanglan sila og x-ray sa miaging semana"
+            },
+            {
+              "front": "He had his diagnosis two days ago",
+              "back": "naa siyay diagnosis duha ka adlaw ang milabay"
+            },
+            {
+              "front": "Everybody got their stitches yesterday",
+              "back": "ang tanan nakakuha sa ilang mga tahi gahapon"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will get surgery",
+              "back": "magpaopera"
+            },
+            {
+              "front": "Fever will set",
+              "back": "motakda ang hilanat"
+            },
+            {
+              "front": "Will use wheelchair",
+              "back": "mogamit ug wheelchair"
+            },
+            {
+              "front": "Stitches will hurt",
+              "back": "masakitan ang mga tahi"
+            },
+            {
+              "front": "Will need medicine",
+              "back": "magkinahanglan ug tambal"
+            },
+            {
+              "front": "Pain will subside",
+              "back": "mawala ang kasakit"
+            },
+            {
+              "front": "Will get injection",
+              "back": "makakuha ug injection"
+            },
+            {
+              "front": "Will need checkup",
+              "back": "magkinahanglan ug checkup"
+            },
+            {
+              "front": "Fracture will heal",
+              "back": "mamaayo ang bali"
+            },
+            {
+              "front": "Will need bandage",
+              "back": "magkinahanglan og bendahe"
+            },
+            {
+              "front": "Will take vaccine",
+              "back": "mukuha ug bakuna"
+            },
+            {
+              "front": "Blood will clot",
+              "back": "magdugo ang dugo"
+            },
+            {
+              "front": "Will break bone",
+              "back": "mabali ang bukog"
+            },
+            {
+              "front": "Allergy will return",
+              "back": "mubalik ang allergy"
+            },
+            {
+              "front": "Will wear cast",
+              "back": "magsuot ug cast"
+            },
+            {
+              "front": "Will feel better",
+              "back": "mas maayo ang bation"
+            },
+            {
+              "front": "Will require treatment",
+              "back": "magkinahanglan og pagtambal"
+            },
+            {
+              "front": "Will see dentist",
+              "back": "magpatan-aw sa dentista"
+            },
+            {
+              "front": "Will visit hospital",
+              "back": "mobisita sa ospital"
+            },
+            {
+              "front": "Diagnosis will change",
+              "back": "mausab ang diagnosis"
+            },
+            {
+              "front": "Will need prescription",
+              "back": "magkinahanglan og reseta"
+            },
+            {
+              "front": "Will take pills",
+              "back": "muinom ug pills"
+            },
+            {
+              "front": "Will get bandages",
+              "back": "makakuha ug bendahe"
+            },
+            {
+              "front": "Will suffer fracture",
+              "back": "mag-antos sa bali"
+            },
+            {
+              "front": "Symptoms will worsen",
+              "back": "ang mga simtomas mograbe"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My symptoms will worsen",
+              "back": "mosamot akong sintomas"
+            },
+            {
+              "front": "I need a wheelchair",
+              "back": "nagkinahanglan ko ug wheelchair"
+            },
+            {
+              "front": "He needs more medicine",
+              "back": "nagkinahanglan siya ug dugang tambal"
+            },
+            {
+              "front": "They will perform surgery",
+              "back": "mohimo sila og operasyon"
+            },
+            {
+              "front": "She will need checkup",
+              "back": "magkinahanglan siya og checkup"
+            },
+            {
+              "front": "We will receive vaccine",
+              "back": "makadawat kita ug bakuna"
+            },
+            {
+              "front": "I will feel better",
+              "back": "mas maayo ang akong gibati"
+            },
+            {
+              "front": "His fracture will heal",
+              "back": "mamaayo ang iyang bali"
+            },
+            {
+              "front": "She will require stitches",
+              "back": "magkinahanglan siya og mga tahi"
+            },
+            {
+              "front": "He will take pills",
+              "back": "muinom siya ug pills"
+            },
+            {
+              "front": "They will visit hospital",
+              "back": "mobisita sila sa ospital"
+            },
+            {
+              "front": "I will break bone",
+              "back": "mabali kog bukog"
+            },
+            {
+              "front": "Her fever will rise",
+              "back": "motaas ang iyang hilanat"
+            },
+            {
+              "front": "The doctor will check",
+              "back": "ang doktor magsusi"
+            },
+            {
+              "front": "You will need medicine",
+              "back": "magkinahanglan ka ug tambal"
+            },
+            {
+              "front": "They will get bandages",
+              "back": "makakuha sila ug mga bendahe"
+            },
+            {
+              "front": "We will need surgery",
+              "back": "magkinahanglan kami og operasyon"
+            },
+            {
+              "front": "I will see dentist",
+              "back": "magpatan-aw ko sa dentista"
+            },
+            {
+              "front": "He will wear cast",
+              "back": "magsul-ob siya ug cast"
+            },
+            {
+              "front": "Her diagnosis will change",
+              "back": "mausab ang iyang diagnosis"
+            },
+            {
+              "front": "Everyone will need treatment",
+              "back": "ang tanan magkinahanglan og pagtambal"
+            },
+            {
+              "front": "He will feel pain",
+              "back": "makabati siyag kasakit"
+            },
+            {
+              "front": "She will require therapy",
+              "back": "magkinahanglan siya og therapy"
+            },
+            {
+              "front": "We will take vaccine",
+              "back": "magbakuna mi"
+            },
+            {
+              "front": "They will need bandages",
+              "back": "magkinahanglan sila og mga bendahe"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The doctor will perform treatment",
+              "back": "ang doktor mohimo sa pagtambal"
+            },
+            {
+              "front": "He will use that wheelchair",
+              "back": "gamiton niya kana nga wheelchair"
+            },
+            {
+              "front": "Everyone will need more medicine",
+              "back": "ang tanan magkinahanglan ug dugang tambal"
+            },
+            {
+              "front": "She will require physical therapy",
+              "back": "magkinahanglan siya og physical therapy"
+            },
+            {
+              "front": "They will perform surgery tomorrow",
+              "back": "mag operahan sila ugma"
+            },
+            {
+              "front": "I will break my arm",
+              "back": "bali akong bukton"
+            },
+            {
+              "front": "The nurse will take blood",
+              "back": "magkuha ug dugo ang nurse"
+            },
+            {
+              "front": "He will need a bandage",
+              "back": "magkinahanglan siya og bendahe"
+            },
+            {
+              "front": "We will receive medical attention",
+              "back": "kita makadawat og medikal nga pagtagad"
+            },
+            {
+              "front": "She will feel much better",
+              "back": "mas maayo ang iyang bation"
+            },
+            {
+              "front": "I will take my medicine",
+              "back": "muinom ko sa akong tambal"
+            },
+            {
+              "front": "They will visit the hospital",
+              "back": "mobisita sila sa ospital"
+            },
+            {
+              "front": "Her fever will rise quickly",
+              "back": "motaas dayon ang iyang hilanat"
+            },
+            {
+              "front": "The surgeon will fix injury",
+              "back": "ang siruhano mag-ayo sa kadaot"
+            },
+            {
+              "front": "You will need a prescription",
+              "back": "magkinahanglan ka og reseta"
+            },
+            {
+              "front": "I will need more treatment",
+              "back": "magkinahanglan ko ug dugang pagtambal"
+            },
+            {
+              "front": "The ambulance will arrive soon",
+              "back": "ang ambulansya moabut sa dili madugay"
+            },
+            {
+              "front": "We will take the vaccine",
+              "back": "kuhaon nato ang bakuna"
+            },
+            {
+              "front": "They will require medical assistance",
+              "back": "magkinahanglan sila og medikal nga tabang"
+            },
+            {
+              "front": "I will suffer a fracture",
+              "back": "mag antos ko ug bali"
+            },
+            {
+              "front": "He will use the crutches",
+              "back": "gamiton niya ang mga saklay"
+            },
+            {
+              "front": "She will wear a cast",
+              "back": "magsul-ob siya ug cast"
+            },
+            {
+              "front": "The diagnosis will change everything",
+              "back": "ang diagnosis magbag-o sa tanan"
+            },
+            {
+              "front": "The patient will need stitches",
+              "back": "ang pasyente magkinahanglan og mga tahi"
+            },
+            {
+              "front": "We will see the dentist",
+              "back": "magkita mi ug dentist"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The doctor will perform surgery tomorrow",
+              "back": "ang doktor mohimo ug operasyon ugma"
+            },
+            {
+              "front": "He will use that wheelchair later",
+              "back": "gamiton niya kanang wheelchair unya"
+            },
+            {
+              "front": "Everyone will need more medicine soon",
+              "back": "ang tanan magkinahanglan ug dugang tambal sa dili madugay"
+            },
+            {
+              "front": "She will require physical therapy daily",
+              "back": "magkinahanglan siya og physical therapy kada adlaw"
+            },
+            {
+              "front": "They will perform surgery next morning",
+              "back": "mag-opera sila sunod buntag"
+            },
+            {
+              "front": "I will break my arm tomorrow",
+              "back": "mabali akong bukton ugma"
+            },
+            {
+              "front": "The nurse will take blood today",
+              "back": "magpakuha ug dugo ang nurse karong adlawa"
+            },
+            {
+              "front": "He will need a bandage afterward",
+              "back": "magkinahanglan siya ug bendahe pagkahuman"
+            },
+            {
+              "front": "We will receive medical attention soon",
+              "back": "makadawat kami medikal nga pagtagad sa dili madugay"
+            },
+            {
+              "front": "She will feel better by tomorrow",
+              "back": "mamaayo na ang iyang pamati pagkaugma"
+            },
+            {
+              "front": "I will take my medicine tonight",
+              "back": "Moinom ko sa akong tambal karong gabii"
+            },
+            {
+              "front": "They will visit the hospital tomorrow",
+              "back": "mobisita sila sa ospital ugma"
+            },
+            {
+              "front": "Her fever will rise by evening",
+              "back": "ang iyang hilanat mosaka sa gabii"
+            },
+            {
+              "front": "The surgeon will fix the fracture",
+              "back": "ayohon sa siruhano ang bali"
+            },
+            {
+              "front": "You will need a prescription soon",
+              "back": "magkinahanglan ka ug reseta sa dili madugay"
+            },
+            {
+              "front": "I will need more treatment soon",
+              "back": "magkinahanglan ko ug dugang pagtambal sa dili madugay"
+            },
+            {
+              "front": "The ambulance will arrive after call",
+              "back": "ang ambulansya moabut human sa pagtawag"
+            },
+            {
+              "front": "We will take the vaccine tomorrow",
+              "back": "kuhaan ta ug vaccine ugma"
+            },
+            {
+              "front": "They will require assistance after injury",
+              "back": "magkinahanglan sila og tabang human sa kadaot"
+            },
+            {
+              "front": "I will suffer a fracture soon",
+              "back": "mag antos ko ug bali sa dili madugay"
+            },
+            {
+              "front": "He will use the crutches tomorrow",
+              "back": "gamiton niya ang crutches ugma"
+            },
+            {
+              "front": "She will wear a cast soon",
+              "back": "magsul-ob siya ug cast sa dili madugay"
+            },
+            {
+              "front": "The diagnosis will change the treatment",
+              "back": "ang pagdayagnos magbag-o sa pagtambal"
+            },
+            {
+              "front": "The patient will need stitches soon",
+              "back": "ang pasyente magkinahanglan og mga tahi sa dili madugay"
+            },
+            {
+              "front": "We will see the dentist Thursday",
+              "back": "magkita mi sa dentist thursday"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

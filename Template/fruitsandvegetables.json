@@ -1,0 +1,1600 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Months",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Apple",
+              "back": "mansanas"
+            },
+            {
+              "front": "Banana",
+              "back": "saging"
+            },
+            {
+              "front": "Carrot",
+              "back": "karot"
+            },
+            {
+              "front": "Orange",
+              "back": "kahel"
+            },
+            {
+              "front": "Lettuce",
+              "back": "lettuce"
+            },
+            {
+              "front": "Grapes",
+              "back": "ubas"
+            },
+            {
+              "front": "Tomato",
+              "back": "kamatis"
+            },
+            {
+              "front": "Potato",
+              "back": "patatas"
+            },
+            {
+              "front": "Strawberry",
+              "back": "strawberry"
+            },
+            {
+              "front": "Cucumber",
+              "back": "pipino"
+            },
+            {
+              "front": "Peach",
+              "back": "peach"
+            },
+            {
+              "front": "Onion",
+              "back": "sibuyas"
+            },
+            {
+              "front": "Pineapple",
+              "back": "pinya"
+            },
+            {
+              "front": "Spinach",
+              "back": "spinach"
+            },
+            {
+              "front": "Broccoli",
+              "back": "broccoli"
+            },
+            {
+              "front": "Mango",
+              "back": "mangga"
+            },
+            {
+              "front": "Garlic",
+              "back": "ahos"
+            },
+            {
+              "front": "Pepper",
+              "back": "paminta"
+            },
+            {
+              "front": "Cherry",
+              "back": "cherry"
+            },
+            {
+              "front": "Avocado",
+              "back": "abokado"
+            },
+            {
+              "front": "Plum",
+              "back": "plum"
+            },
+            {
+              "front": "Blueberry",
+              "back": "blueberry"
+            },
+            {
+              "front": "Radish",
+              "back": "labanos"
+            },
+            {
+              "front": "Cabbage",
+              "back": "repolyo"
+            },
+            {
+              "front": "Zucchini",
+              "back": "zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Fresh apple",
+              "back": "presko nga mansanas"
+            },
+            {
+              "front": "Yellow banana",
+              "back": "dalag nga saging"
+            },
+            {
+              "front": "Sweet carrot",
+              "back": "tam-is nga carrot"
+            },
+            {
+              "front": "Juicy orange",
+              "back": "dugaon nga orange"
+            },
+            {
+              "front": "Crisp lettuce",
+              "back": "presko nga lettuce"
+            },
+            {
+              "front": "Red grapes",
+              "back": "pula nga ubas"
+            },
+            {
+              "front": "Ripe tomato",
+              "back": "hinog nga kamatis"
+            },
+            {
+              "front": "Baked potato",
+              "back": "linuto nga patatas"
+            },
+            {
+              "front": "Sweet strawberry",
+              "back": "tam-is nga strawberry"
+            },
+            {
+              "front": "Fresh cucumber",
+              "back": "presko nga pepino"
+            },
+            {
+              "front": "Ripe peach",
+              "back": "hinog nga peach"
+            },
+            {
+              "front": "Chopped onion",
+              "back": "tinadtad nga sibuyas"
+            },
+            {
+              "front": "Sliced pineapple",
+              "back": "hiniwa nga pinya"
+            },
+            {
+              "front": "Fresh spinach",
+              "back": "presko nga spinach"
+            },
+            {
+              "front": "Cooked broccoli",
+              "back": "linuto nga broccoli"
+            },
+            {
+              "front": "Sweet mango",
+              "back": "tam-is nga mangga"
+            },
+            {
+              "front": "Raw garlic",
+              "back": "hilaw nga ahos"
+            },
+            {
+              "front": "Green pepper",
+              "back": "berde nga paminta"
+            },
+            {
+              "front": "Red cherry",
+              "back": "pula nga cherry"
+            },
+            {
+              "front": "Ripe avocado",
+              "back": "hinog nga avocado"
+            },
+            {
+              "front": "Juicy plum",
+              "back": "dugaon nga plum"
+            },
+            {
+              "front": "Blue blueberry",
+              "back": "asul nga blueberry"
+            },
+            {
+              "front": "Crunchy radish",
+              "back": "crunchy nga radish"
+            },
+            {
+              "front": "Green cabbage",
+              "back": "berde nga repolyo"
+            },
+            {
+              "front": "Zucchini slice",
+              "back": "hiwa sa courgette"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I eat apples",
+              "back": "mokaon kog mansanas"
+            },
+            {
+              "front": "She peels bananas",
+              "back": "naninit siyag saging"
+            },
+            {
+              "front": "They cook carrots",
+              "back": "nagluto sila ug carrots"
+            },
+            {
+              "front": "He slices oranges",
+              "back": "naghiwa siya ug oranges"
+            },
+            {
+              "front": "I wash lettuce",
+              "back": "manghugas ko ug lettuce"
+            },
+            {
+              "front": "We buy grapes",
+              "back": "mamalit mig ubas"
+            },
+            {
+              "front": "She cuts tomatoes",
+              "back": "nagputol siya ug kamatis"
+            },
+            {
+              "front": "He bakes potatoes",
+              "back": "nagluto siyag patatas"
+            },
+            {
+              "front": "They grow strawberries",
+              "back": "nananom sila og strawberry"
+            },
+            {
+              "front": "I pick cucumbers",
+              "back": "manguha ko ug mga pepino"
+            },
+            {
+              "front": "We eat peaches",
+              "back": "mangaon mi ug peach"
+            },
+            {
+              "front": "She chops onions",
+              "back": "naghiwa siya ug sibuyas"
+            },
+            {
+              "front": "He slices pineapples",
+              "back": "naghiwa siyag pinya"
+            },
+            {
+              "front": "They cook spinach",
+              "back": "nagluto sila ug spinach"
+            },
+            {
+              "front": "I steam broccoli",
+              "back": "nag steam broccoli"
+            },
+            {
+              "front": "He cuts mango",
+              "back": "nagputol siyag mangga"
+            },
+            {
+              "front": "She adds garlic",
+              "back": "gidugang niya ang ahos"
+            },
+            {
+              "front": "They roast peppers",
+              "back": "nagsugba sila ug sili"
+            },
+            {
+              "front": "I pick cherries",
+              "back": "mamili kog cherry"
+            },
+            {
+              "front": "We slice avocados",
+              "back": "gihiwa namo ang mga avocado"
+            },
+            {
+              "front": "He eats plums",
+              "back": "mokaon siya ug plum"
+            },
+            {
+              "front": "She picks blueberries",
+              "back": "namili siya ug blueberries"
+            },
+            {
+              "front": "I wash radishes",
+              "back": "manghugas ko ug labanos"
+            },
+            {
+              "front": "They steam cabbage",
+              "back": "alisngaw nila ang repolyo"
+            },
+            {
+              "front": "We grill zucchini",
+              "back": "Nag-ihaw kami og zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I eat fresh apples",
+              "back": "mokaon ko ug presko nga mansanas"
+            },
+            {
+              "front": "She peels ripe bananas",
+              "back": "iyang gipanitan ang hinog nga saging"
+            },
+            {
+              "front": "They cook sweet carrots",
+              "back": "nagluto sila ug tam-is nga carrots"
+            },
+            {
+              "front": "He slices juicy oranges",
+              "back": "naghiwa siyag juicy oranges"
+            },
+            {
+              "front": "I wash crisp lettuce",
+              "back": "manghugas ko ug crisp lettuce"
+            },
+            {
+              "front": "We buy fresh grapes",
+              "back": "mamalit mi ug presko nga ubas"
+            },
+            {
+              "front": "She cuts ripe tomatoes",
+              "back": "iyang giputol ang hinog nga kamatis"
+            },
+            {
+              "front": "He bakes baked potatoes",
+              "back": "nagluto siyag linuto nga patatas"
+            },
+            {
+              "front": "They grow sweet strawberries",
+              "back": "mananom sila ug tam-is nga strawberry"
+            },
+            {
+              "front": "I pick fresh cucumbers",
+              "back": "manguha ko ug presko nga pepino"
+            },
+            {
+              "front": "We eat ripe peaches",
+              "back": "mokaon mi ug hinog nga mga peach"
+            },
+            {
+              "front": "She chops white onions",
+              "back": "naghiwa siya ug puti nga sibuyas"
+            },
+            {
+              "front": "He slices yellow pineapples",
+              "back": "naghiwa siyag yellow nga pinya"
+            },
+            {
+              "front": "They cook green spinach",
+              "back": "nagluto sila og berde nga spinach"
+            },
+            {
+              "front": "I steam green broccoli",
+              "back": "Nag-alis ako og berde nga broccoli"
+            },
+            {
+              "front": "He cuts fresh mango",
+              "back": "nagputol siya ug presko nga mangga"
+            },
+            {
+              "front": "She adds minced garlic",
+              "back": "gidugang niya ang tinadtad nga ahos"
+            },
+            {
+              "front": "They roast green peppers",
+              "back": "nag-ihaw sila og berde nga sili"
+            },
+            {
+              "front": "I pick red cherries",
+              "back": "Gipili nako ang pula nga cherry"
+            },
+            {
+              "front": "We slice ripe avocados",
+              "back": "gihiwa namo ang hinog nga mga avocado"
+            },
+            {
+              "front": "He eats juicy plums",
+              "back": "mokaon siyag juicy plums"
+            },
+            {
+              "front": "She picks fresh blueberries",
+              "back": "namili siya ug presko nga blueberries"
+            },
+            {
+              "front": "I wash crunchy radishes",
+              "back": "manghugas ko ug crinch radishes"
+            },
+            {
+              "front": "They steam green cabbage",
+              "back": "alisngaw nila ang berde nga repolyo"
+            },
+            {
+              "front": "We grill sliced zucchini",
+              "back": "Nag-ihaw kami sa hiniwa nga zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I enjoy fresh crisp apples",
+              "back": "Ganahan ko sa presko nga presko nga mansanas"
+            },
+            {
+              "front": "She peels ripe yellow bananas",
+              "back": "iyang gipanitan ang hinog nga yellow nga saging"
+            },
+            {
+              "front": "They prepare sweet orange carrots",
+              "back": "nag-andam sila og tam-is nga orange nga mga carrot"
+            },
+            {
+              "front": "He cuts juicy sweet oranges",
+              "back": "iyang giputol ang juicy sweet oranges"
+            },
+            {
+              "front": "I wash crunchy green lettuce",
+              "back": "akong gihugasan ang crunchy green nga lettuce"
+            },
+            {
+              "front": "We purchase fresh red grapes",
+              "back": "mupalit mi ug presko nga pula nga ubas"
+            },
+            {
+              "front": "She slices ripe red tomatoes",
+              "back": "gihiwa niya ang hinog nga pula nga kamatis"
+            },
+            {
+              "front": "He bakes large brown potatoes",
+              "back": "nagluto siyag dagkong brown nga patatas"
+            },
+            {
+              "front": "They harvest sweet red strawberries",
+              "back": "nag-ani sila og tam-is nga pula nga strawberry"
+            },
+            {
+              "front": "I pick fresh crunchy cucumbers",
+              "back": "manguha ko ug presko nga crunchy cucumbers"
+            },
+            {
+              "front": "We enjoy ripe summer peaches",
+              "back": "nalingaw mi sa hinog nga summer peach"
+            },
+            {
+              "front": "She chops white sweet onions",
+              "back": "naghiwa siya ug puti nga tam-is nga sibuyas"
+            },
+            {
+              "front": "He serves fresh yellow pineapples",
+              "back": "nagsilbi siyag presko nga yellow nga pinya"
+            },
+            {
+              "front": "They stir green leafy spinach",
+              "back": "gikutaw nila ang berde nga dahon nga spinach"
+            },
+            {
+              "front": "I steam fresh green broccoli",
+              "back": "nag-alisngaw ko og lab-as nga berde nga broccoli"
+            },
+            {
+              "front": "He slices fresh sweet mango",
+              "back": "naghiwa siyag lab-as nga tam-is nga mangga"
+            },
+            {
+              "front": "She adds minced raw garlic",
+              "back": "gidugang niya ang tinadtad nga hilaw nga ahos"
+            },
+            {
+              "front": "They roast green bell peppers",
+              "back": "giasal nila ang berde nga kampanilya nga sili"
+            },
+            {
+              "front": "I wash fresh red cherries",
+              "back": "akong gihugasan ang lab-as nga pula nga cherry"
+            },
+            {
+              "front": "We eat ripe smooth avocados",
+              "back": "mokaon mi ug hinog nga hamis nga avocado"
+            },
+            {
+              "front": "He enjoys juicy sweet plums",
+              "back": "ganahan siyag juicy sweet plums"
+            },
+            {
+              "front": "She picks fresh blue blueberries",
+              "back": "namili siya ug presko nga asul nga blueberries"
+            },
+            {
+              "front": "I prepare crunchy red radishes",
+              "back": "Nag-andam ko og mga lutoon nga pula nga mga radish"
+            },
+            {
+              "front": "They steam soft green cabbage",
+              "back": "alisngaw nila ang humok nga berde nga repolyo"
+            },
+            {
+              "front": "We grill fresh sliced zucchini",
+              "back": "Nag-ihaw kami og bag-ong hiniwa nga zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am eating fresh green apples",
+              "back": "Nagkaon ko og presko nga berdeng mansanas"
+            },
+            {
+              "front": "She peels ripe yellow sweet bananas",
+              "back": "iyang gipanitan ang hinog nga dalag nga tam-is nga saging"
+            },
+            {
+              "front": "They are cooking sweet orange carrots",
+              "back": "nagluto sila ug tam-is nga orange nga mga carrot"
+            },
+            {
+              "front": "He slices juicy sweet large oranges",
+              "back": "gihiwa niya ang juicy sweet nga dagkong oranges"
+            },
+            {
+              "front": "I am washing fresh green lettuce",
+              "back": "nanglaba ko ug presko nga green lettuce"
+            },
+            {
+              "front": "We are buying fresh red grapes",
+              "back": "mamalit mi ug presko nga pula nga ubas"
+            },
+            {
+              "front": "She is cutting ripe red tomatoes",
+              "back": "nagputol siya ug hinog nga pula nga kamatis"
+            },
+            {
+              "front": "He is baking large brown potatoes",
+              "back": "nagluto siyag dagkong brown nga patatas"
+            },
+            {
+              "front": "They are harvesting red sweet strawberries",
+              "back": "nag-ani sila ug pula nga tam-is nga strawberry"
+            },
+            {
+              "front": "I am picking fresh crisp cucumbers",
+              "back": "namili ko ug presko nga presko nga pepino"
+            },
+            {
+              "front": "We are eating juicy ripe peaches",
+              "back": "nagkaon mi ug juicy hinog nga peach"
+            },
+            {
+              "front": "She is chopping white fresh onions",
+              "back": "naghiwa siya ug puti nga presko nga sibuyas"
+            },
+            {
+              "front": "He slices yellow fresh sweet pineapples",
+              "back": "gihiwa niya ang dalag nga presko nga tam-is nga pinya"
+            },
+            {
+              "front": "They are stirring leafy green spinach",
+              "back": "sila nagkutaw sa dahon nga berde nga spinach"
+            },
+            {
+              "front": "I am steaming fresh green broccoli",
+              "back": "Nag-alisngaw ko og lab-as nga berdeng broccoli"
+            },
+            {
+              "front": "He slices fresh juicy sweet mango",
+              "back": "naghiwa siyag lab-as nga juicy sweet mango"
+            },
+            {
+              "front": "She is adding minced raw garlic",
+              "back": "nagdugang siya og tinadtad nga hilaw nga ahos"
+            },
+            {
+              "front": "They are roasting green bell peppers",
+              "back": "nag-ihaw sila ug berde nga kampanilya nga sili"
+            },
+            {
+              "front": "I am washing fresh red cherries",
+              "back": "Naghugas ako ug lab-as nga pula nga cherry"
+            },
+            {
+              "front": "We are slicing ripe green avocados",
+              "back": "kami naghiwa sa hinog nga berdeng avocado"
+            },
+            {
+              "front": "He is eating juicy sweet plums",
+              "back": "nagkaon siya ug juicy sweet plums"
+            },
+            {
+              "front": "She is picking fresh blue blueberries",
+              "back": "namili siya ug presko nga asul nga blueberries"
+            },
+            {
+              "front": "I am preparing crunchy red radishes",
+              "back": "Nag-andam ko og mga crunchy red radishes"
+            },
+            {
+              "front": "They are steaming fresh green cabbage",
+              "back": "sila nag-alisngaw sa lab-as nga berde nga repolyo"
+            },
+            {
+              "front": "We are grilling sliced fresh zucchini",
+              "back": "kami nag-ihaw sa hiniwa nga presko nga zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Ate apples",
+              "back": "mikaon ug mansanas"
+            },
+            {
+              "front": "Sliced bananas",
+              "back": "hiniwa nga saging"
+            },
+            {
+              "front": "Cooked carrots",
+              "back": "linuto nga carrots"
+            },
+            {
+              "front": "Peeled oranges",
+              "back": "gipanitan nga mga kahel"
+            },
+            {
+              "front": "Washed lettuce",
+              "back": "gihugasan nga lettuce"
+            },
+            {
+              "front": "Bought grapes",
+              "back": "nagpalit ug ubas"
+            },
+            {
+              "front": "Cut tomatoes",
+              "back": "giputol ang kamatis"
+            },
+            {
+              "front": "Baked potatoes",
+              "back": "linuto nga patatas"
+            },
+            {
+              "front": "Picked strawberries",
+              "back": "nagpili og mga strawberry"
+            },
+            {
+              "front": "Chopped cucumbers",
+              "back": "tinadtad nga mga pepino"
+            },
+            {
+              "front": "Ate peaches",
+              "back": "mikaon ug peach"
+            },
+            {
+              "front": "Chopped onions",
+              "back": "tinadtad nga sibuyas"
+            },
+            {
+              "front": "Sliced pineapples",
+              "back": "hiniwa nga pinya"
+            },
+            {
+              "front": "Cooked spinach",
+              "back": "linuto nga spinach"
+            },
+            {
+              "front": "Steamed broccoli",
+              "back": "steamed nga broccoli"
+            },
+            {
+              "front": "Cut mango",
+              "back": "putlon ang mangga"
+            },
+            {
+              "front": "Minced garlic",
+              "back": "tinadtad nga ahos"
+            },
+            {
+              "front": "Roasted peppers",
+              "back": "sinangag nga sili"
+            },
+            {
+              "front": "Picked cherries",
+              "back": "gipili nga cherry"
+            },
+            {
+              "front": "Sliced avocados",
+              "back": "hiniwa nga mga avocado"
+            },
+            {
+              "front": "Ate plums",
+              "back": "mikaon ug plum"
+            },
+            {
+              "front": "Picked blueberries",
+              "back": "gipili blueberries"
+            },
+            {
+              "front": "Washed radishes",
+              "back": "gihugasan nga radishes"
+            },
+            {
+              "front": "Steamed cabbage",
+              "back": "steamed nga repolyo"
+            },
+            {
+              "front": "Grilled zucchini",
+              "back": "sinugba nga zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I ate apples",
+              "back": "mikaon kog mansanas"
+            },
+            {
+              "front": "She sliced bananas",
+              "back": "naghiwa siyag saging"
+            },
+            {
+              "front": "They cooked carrots",
+              "back": "nagluto sila ug carrots"
+            },
+            {
+              "front": "He peeled oranges",
+              "back": "iyang gipanitan ang mga kahel"
+            },
+            {
+              "front": "I washed lettuce",
+              "back": "gihugasan nako ang lettuce"
+            },
+            {
+              "front": "We bought grapes",
+              "back": "mipalit mig ubas"
+            },
+            {
+              "front": "She cut tomatoes",
+              "back": "nagputol siya ug kamatis"
+            },
+            {
+              "front": "He baked potatoes",
+              "back": "nagluto siyag patatas"
+            },
+            {
+              "front": "They picked strawberries",
+              "back": "nanguha silag strawberry"
+            },
+            {
+              "front": "I chopped cucumbers",
+              "back": "giputol nako ang mga pepino"
+            },
+            {
+              "front": "We ate peaches",
+              "back": "nangaon mi ug peach"
+            },
+            {
+              "front": "She chopped onions",
+              "back": "naghiwa siya ug sibuyas"
+            },
+            {
+              "front": "He sliced pineapples",
+              "back": "naghiwa siyag pinya"
+            },
+            {
+              "front": "They cooked spinach",
+              "back": "nagluto sila ug spinach"
+            },
+            {
+              "front": "I steamed broccoli",
+              "back": "Nag-steamed ako ug broccoli"
+            },
+            {
+              "front": "He cut mango",
+              "back": "giputol niya ang mangga"
+            },
+            {
+              "front": "She minced garlic",
+              "back": "giminos niya ang ahos"
+            },
+            {
+              "front": "They roasted peppers",
+              "back": "giasal sila ug sili"
+            },
+            {
+              "front": "I picked cherries",
+              "back": "nagpili kog cherry"
+            },
+            {
+              "front": "We sliced avocados",
+              "back": "naghiwa mi ug avocado"
+            },
+            {
+              "front": "He ate plums",
+              "back": "mikaon siya ug plum"
+            },
+            {
+              "front": "She picked blueberries",
+              "back": "namili siya ug blueberries"
+            },
+            {
+              "front": "I washed radishes",
+              "back": "gihugasan nako ang mga labanos"
+            },
+            {
+              "front": "They steamed cabbage",
+              "back": "nag-steamed sila og repolyo"
+            },
+            {
+              "front": "We grilled zucchini",
+              "back": "nagluto kami og zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I ate fresh apples",
+              "back": "mikaon ko ug presko nga mansanas"
+            },
+            {
+              "front": "She sliced ripe bananas",
+              "back": "naghiwa siyag hinog nga saging"
+            },
+            {
+              "front": "They cooked sweet carrots",
+              "back": "nagluto sila ug tam-is nga carrots"
+            },
+            {
+              "front": "He peeled juicy oranges",
+              "back": "iyang gipanitan ang juicy oranges"
+            },
+            {
+              "front": "I washed green lettuce",
+              "back": "Gihugasan nako ang berde nga lettuce"
+            },
+            {
+              "front": "We bought fresh grapes",
+              "back": "mipalit mig presko nga ubas"
+            },
+            {
+              "front": "She cut red tomatoes",
+              "back": "giputol niya ang pula nga kamatis"
+            },
+            {
+              "front": "He baked large potatoes",
+              "back": "nagluto siyag dagkong patatas"
+            },
+            {
+              "front": "They picked sweet strawberries",
+              "back": "nanguha silag tam-is nga strawberry"
+            },
+            {
+              "front": "I chopped crisp cucumbers",
+              "back": "giputol nako ang mga crisp cucumber"
+            },
+            {
+              "front": "We ate ripe peaches",
+              "back": "nangaon mi ug hinog nga peach"
+            },
+            {
+              "front": "She chopped white onions",
+              "back": "naghiwa siya ug puti nga sibuyas"
+            },
+            {
+              "front": "He sliced yellow pineapples",
+              "back": "naghiwa siyag yellow nga pinya"
+            },
+            {
+              "front": "They cooked green spinach",
+              "back": "nagluto sila og berde nga spinach"
+            },
+            {
+              "front": "I steamed green broccoli",
+              "back": "Nag-steamed ko og berde nga broccoli"
+            },
+            {
+              "front": "He cut fresh mango",
+              "back": "giputol niya ang presko nga mangga"
+            },
+            {
+              "front": "She minced raw garlic",
+              "back": "iyang gihiwa ang hilaw nga ahos"
+            },
+            {
+              "front": "They roasted green peppers",
+              "back": "giasal nila ang berde nga sili"
+            },
+            {
+              "front": "I picked red cherries",
+              "back": "nagpili kog pula nga cherry"
+            },
+            {
+              "front": "We sliced ripe avocados",
+              "back": "among gihiwa ang hinog nga mga avocado"
+            },
+            {
+              "front": "He ate juicy plums",
+              "back": "mikaon siyag juicy plums"
+            },
+            {
+              "front": "She picked fresh blueberries",
+              "back": "namili siya ug presko nga blueberries"
+            },
+            {
+              "front": "I washed crunchy radishes",
+              "back": "gihugasan nako ang mga crinch nga radishes"
+            },
+            {
+              "front": "They steamed green cabbage",
+              "back": "nag-steamed sila og berde nga repolyo"
+            },
+            {
+              "front": "We grilled fresh zucchini",
+              "back": "nag-ihaw kami og presko nga zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I ate fresh green apples",
+              "back": "mikaon ko og presko nga berdeng mansanas"
+            },
+            {
+              "front": "She sliced ripe yellow bananas",
+              "back": "naghiwa siyag hinog nga yellow nga saging"
+            },
+            {
+              "front": "They cooked sweet orange carrots",
+              "back": "nagluto sila og tam-is nga orange nga mga carrot"
+            },
+            {
+              "front": "He peeled juicy sweet oranges",
+              "back": "iyang gipanitan ang juicy sweet oranges"
+            },
+            {
+              "front": "I washed crunchy green lettuce",
+              "back": "gihugasan nako ang crunchy green nga lettuce"
+            },
+            {
+              "front": "We bought fresh red grapes",
+              "back": "mipalit mi ug lab-as nga pula nga ubas"
+            },
+            {
+              "front": "She cut ripe red tomatoes",
+              "back": "giputol niya ang hinog nga pula nga kamatis"
+            },
+            {
+              "front": "He baked large brown potatoes",
+              "back": "nagluto siyag dagkong brown nga patatas"
+            },
+            {
+              "front": "They picked sweet red strawberries",
+              "back": "nanguha silag tam-is nga pula nga strawberry"
+            },
+            {
+              "front": "I chopped fresh crisp cucumbers",
+              "back": "Giputol nako ang presko nga presko nga pepino"
+            },
+            {
+              "front": "We ate ripe summer peaches",
+              "back": "nangaon mi ug hinog nga summer peach"
+            },
+            {
+              "front": "She chopped white sweet onions",
+              "back": "giputol niya ang puti nga tam-is nga sibuyas"
+            },
+            {
+              "front": "He sliced yellow ripe pineapples",
+              "back": "naghiwa siyag yellow nga hinog nga pinya"
+            },
+            {
+              "front": "They cooked leafy green spinach",
+              "back": "nagluto sila ug dahon nga berde nga spinach"
+            },
+            {
+              "front": "I steamed fresh green broccoli",
+              "back": "Nag-steamed ko og lab-as nga berde nga broccoli"
+            },
+            {
+              "front": "He cut fresh sweet mango",
+              "back": "giputol niya ang lab-as nga tam-is nga mangga"
+            },
+            {
+              "front": "She minced raw white garlic",
+              "back": "iyang giputol ang hilaw nga puti nga ahos"
+            },
+            {
+              "front": "They roasted green bell peppers",
+              "back": "giasal nila ang berde nga kampanilya nga sili"
+            },
+            {
+              "front": "I picked fresh red cherries",
+              "back": "nagpili ko ug presko nga pula nga cherry"
+            },
+            {
+              "front": "We sliced ripe green avocados",
+              "back": "gihiwa namo ang hinog nga berdeng avocado"
+            },
+            {
+              "front": "He ate juicy sweet plums",
+              "back": "nikaon siyag juicy sweet plums"
+            },
+            {
+              "front": "She picked fresh blue blueberries",
+              "back": "mipili siya ug presko nga asul nga blueberries"
+            },
+            {
+              "front": "I washed crunchy red radishes",
+              "back": "gihugasan nako ang mapula nga mga labanos"
+            },
+            {
+              "front": "They steamed soft green cabbage",
+              "back": "sila nag-alisngaw sa humok nga berde nga repolyo"
+            },
+            {
+              "front": "We grilled fresh sliced zucchini",
+              "back": "nag-ihaw kami og bag-ong hiniwa nga zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I ate the fresh green apples",
+              "back": "mikaon ko sa presko nga berdeng mansanas"
+            },
+            {
+              "front": "She sliced the ripe yellow bananas",
+              "back": "iyang gihiwa ang hinog nga yellow nga saging"
+            },
+            {
+              "front": "They cooked the sweet orange carrots",
+              "back": "giluto nila ang tam-is nga orange nga mga carrot"
+            },
+            {
+              "front": "He peeled the juicy sweet oranges",
+              "back": "iyang gipanitan ang juicy sweet oranges"
+            },
+            {
+              "front": "I washed the crunchy green lettuce",
+              "back": "gihugasan nako ang lunhaw nga lettuce"
+            },
+            {
+              "front": "We bought the fresh red grapes",
+              "back": "gipalit namo ang presko nga pula nga ubas"
+            },
+            {
+              "front": "She cut the ripe red tomatoes",
+              "back": "iyang giputol ang hinog nga pula nga kamatis"
+            },
+            {
+              "front": "He baked the large brown potatoes",
+              "back": "giluto niya ang dagkong brown nga patatas"
+            },
+            {
+              "front": "They picked the sweet red strawberries",
+              "back": "ilang gipili ang tam-is nga pula nga strawberry"
+            },
+            {
+              "front": "I chopped the fresh crisp cucumbers",
+              "back": "Giputol nako ang presko nga presko nga pepino"
+            },
+            {
+              "front": "We ate the ripe summer peaches",
+              "back": "gikaon namo ang hinog nga mga peach sa ting-init"
+            },
+            {
+              "front": "She chopped the white sweet onions",
+              "back": "giputol niya ang puti nga tam-is nga sibuyas"
+            },
+            {
+              "front": "He sliced the yellow ripe pineapples",
+              "back": "gihiwa niya ang yellow nga hinog nga pinya"
+            },
+            {
+              "front": "They cooked the leafy green spinach",
+              "back": "giluto nila ang dahon nga berde nga spinach"
+            },
+            {
+              "front": "I steamed the fresh green broccoli",
+              "back": "Gi-steamed nako ang presko nga berdeng broccoli"
+            },
+            {
+              "front": "He cut the fresh sweet mango",
+              "back": "giputol niya ang lab-as nga tam-is nga mangga"
+            },
+            {
+              "front": "She minced the raw white garlic",
+              "back": "giminos niya ang hilaw nga puti nga ahos"
+            },
+            {
+              "front": "They roasted the green bell peppers",
+              "back": "ilang giasal ang berde nga kampanilya nga sili"
+            },
+            {
+              "front": "I picked the fresh red cherries",
+              "back": "Gipili nako ang presko nga pula nga cherry"
+            },
+            {
+              "front": "We sliced the ripe green avocados",
+              "back": "gihiwa namo ang hinog nga berdeng avocado"
+            },
+            {
+              "front": "He ate the juicy sweet plums",
+              "back": "mikaon siya sa dugaon nga tam-is nga mga plum"
+            },
+            {
+              "front": "She picked the fresh blue blueberries",
+              "back": "iyang gipili ang presko nga asul nga blueberries"
+            },
+            {
+              "front": "I washed the crunchy red radishes",
+              "back": "gihugasan nako ang mapula nga mga radish"
+            },
+            {
+              "front": "They steamed the soft green cabbage",
+              "back": "ilang gi-steamed ang humok nga berde nga repolyo"
+            },
+            {
+              "front": "We grilled the fresh sliced zucchini",
+              "back": "among giihaw ang bag-ong hiniwa nga zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will eat apples",
+              "back": "mokaon og mansanas"
+            },
+            {
+              "front": "Will slice bananas",
+              "back": "maghiwa sa saging"
+            },
+            {
+              "front": "Will cook carrots",
+              "back": "magluto ug carrots"
+            },
+            {
+              "front": "Will peel oranges",
+              "back": "magpanit ug oranges"
+            },
+            {
+              "front": "Will wash lettuce",
+              "back": "manghugas ug letsugas"
+            },
+            {
+              "front": "Will buy grapes",
+              "back": "mupalit ug ubas"
+            },
+            {
+              "front": "Will cut tomatoes",
+              "back": "magputol ug kamatis"
+            },
+            {
+              "front": "Will bake potatoes",
+              "back": "magaluto ug patatas"
+            },
+            {
+              "front": "Will pick strawberries",
+              "back": "manguha og strawberry"
+            },
+            {
+              "front": "Will chop cucumbers",
+              "back": "magputol sa mga pepino"
+            },
+            {
+              "front": "Will eat peaches",
+              "back": "mokaon ug peach"
+            },
+            {
+              "front": "Will chop onions",
+              "back": "magputol sa sibuyas"
+            },
+            {
+              "front": "Will slice pineapples",
+              "back": "maghiwa sa pinya"
+            },
+            {
+              "front": "Will cook spinach",
+              "back": "magluto ug spinach"
+            },
+            {
+              "front": "Will steam broccoli",
+              "back": "mag-alisngaw sa broccoli"
+            },
+            {
+              "front": "Will cut mango",
+              "back": "magputol ug mangga"
+            },
+            {
+              "front": "Will mince garlic",
+              "back": "maghiwa sa ahos"
+            },
+            {
+              "front": "Will roast peppers",
+              "back": "mag-ihaw og sili"
+            },
+            {
+              "front": "Will pick cherries",
+              "back": "manguha ug cherry"
+            },
+            {
+              "front": "Will slice avocados",
+              "back": "maghiwa sa mga avocado"
+            },
+            {
+              "front": "Will eat plums",
+              "back": "mokaon ug plum"
+            },
+            {
+              "front": "Will pick blueberries",
+              "back": "manguha ug blueberries"
+            },
+            {
+              "front": "Will wash radishes",
+              "back": "manghugas sa mga labanos"
+            },
+            {
+              "front": "Will steam cabbage",
+              "back": "mag-alisngaw sa repolyo"
+            },
+            {
+              "front": "Will grill zucchini",
+              "back": "mag-ihaw og zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will eat apples",
+              "back": "mokaon kog mansanas"
+            },
+            {
+              "front": "She will slice bananas",
+              "back": "maghiwa siyag saging"
+            },
+            {
+              "front": "They will cook carrots",
+              "back": "magluto sila ug carrots"
+            },
+            {
+              "front": "He will peel oranges",
+              "back": "maninit siyag kahel"
+            },
+            {
+              "front": "I will wash lettuce",
+              "back": "manghugas ko ug letsugas"
+            },
+            {
+              "front": "We will buy grapes",
+              "back": "mamalit mig ubas"
+            },
+            {
+              "front": "She will cut tomatoes",
+              "back": "magputol siya ug kamatis"
+            },
+            {
+              "front": "He will bake potatoes",
+              "back": "magluto siyag patatas"
+            },
+            {
+              "front": "They will pick strawberries",
+              "back": "manguha silag strawberry"
+            },
+            {
+              "front": "I will chop cucumbers",
+              "back": "ako magputol sa mga pepino"
+            },
+            {
+              "front": "We will eat peaches",
+              "back": "mangaon mi ug peach"
+            },
+            {
+              "front": "She will chop onions",
+              "back": "maghiwa siya ug sibuyas"
+            },
+            {
+              "front": "He will slice pineapples",
+              "back": "maghiwa siyag pinya"
+            },
+            {
+              "front": "They will cook spinach",
+              "back": "magluto sila ug spinach"
+            },
+            {
+              "front": "I will steam broccoli",
+              "back": "ako mag-alisngaw sa broccoli"
+            },
+            {
+              "front": "He will cut mango",
+              "back": "magputol siyag mangga"
+            },
+            {
+              "front": "She will mince garlic",
+              "back": "maghiwa siya ug ahos"
+            },
+            {
+              "front": "They will roast peppers",
+              "back": "magihaw sila ug sili"
+            },
+            {
+              "front": "I will pick cherries",
+              "back": "mamili kog cherry"
+            },
+            {
+              "front": "We will slice avocados",
+              "back": "maghiwa mi ug avocado"
+            },
+            {
+              "front": "He will eat plums",
+              "back": "siya mokaon ug plum"
+            },
+            {
+              "front": "She will pick blueberries",
+              "back": "manguha siyag blueberries"
+            },
+            {
+              "front": "I will wash radishes",
+              "back": "manghugas ko ug labanos"
+            },
+            {
+              "front": "They will steam cabbage",
+              "back": "sila mag-alisngaw sa repolyo"
+            },
+            {
+              "front": "We will grill zucchini",
+              "back": "mag-ihaw kami og zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will eat fresh apples",
+              "back": "mokaon ko ug presko nga mansanas"
+            },
+            {
+              "front": "She will slice ripe bananas",
+              "back": "maghiwa siya ug hinog nga saging"
+            },
+            {
+              "front": "They will cook sweet carrots",
+              "back": "magluto sila ug tam-is nga carrots"
+            },
+            {
+              "front": "He will peel juicy oranges",
+              "back": "iyang panitan ang juicy oranges"
+            },
+            {
+              "front": "I will wash green lettuce",
+              "back": "manglaba ko ug green lettuce"
+            },
+            {
+              "front": "We will buy fresh grapes",
+              "back": "mamalit ta ug presko nga ubas"
+            },
+            {
+              "front": "She will cut red tomatoes",
+              "back": "magputol siya ug pula nga kamatis"
+            },
+            {
+              "front": "He will bake large potatoes",
+              "back": "magaluto siyag dagkong patatas"
+            },
+            {
+              "front": "They will pick ripe strawberries",
+              "back": "manguha silag hinog nga mga strawberry"
+            },
+            {
+              "front": "I will chop fresh cucumbers",
+              "back": "magputol ko ug presko nga pepino"
+            },
+            {
+              "front": "We will eat ripe peaches",
+              "back": "mangaon mi ug hinog nga peach"
+            },
+            {
+              "front": "She will chop white onions",
+              "back": "magputol siya ug puti nga sibuyas"
+            },
+            {
+              "front": "He will slice yellow pineapples",
+              "back": "maghiwa siya ug yellow nga pinya"
+            },
+            {
+              "front": "They will cook green spinach",
+              "back": "magluto sila ug green spinach"
+            },
+            {
+              "front": "I will steam green broccoli",
+              "back": "ako mag-alisngaw sa berdeng broccoli"
+            },
+            {
+              "front": "He will cut fresh mango",
+              "back": "magputol siya ug presko nga mangga"
+            },
+            {
+              "front": "She will mince raw garlic",
+              "back": "maghiwa siyag hilaw nga ahos"
+            },
+            {
+              "front": "They will roast green peppers",
+              "back": "magihaw sila ug berde nga sili"
+            },
+            {
+              "front": "I will pick red cherries",
+              "back": "manguha ko ug red cherries"
+            },
+            {
+              "front": "We will slice ripe avocados",
+              "back": "kami maghiwa sa hinog nga mga avocado"
+            },
+            {
+              "front": "He will eat juicy plums",
+              "back": "mokaon siyag juicy plums"
+            },
+            {
+              "front": "She will pick fresh blueberries",
+              "back": "manguha siya ug presko nga blueberries"
+            },
+            {
+              "front": "I will wash crunchy radishes",
+              "back": "manghugas ko ug crinch radishes"
+            },
+            {
+              "front": "They will steam soft cabbage",
+              "back": "sila mag-alisngaw sa humok nga repolyo"
+            },
+            {
+              "front": "We will grill fresh zucchini",
+              "back": "mag-ihaw kami ug lab-as nga zucchini"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will eat fresh green apples",
+              "back": "mokaon ko ug presko nga berdeng mansanas"
+            },
+            {
+              "front": "She will slice ripe yellow bananas",
+              "back": "maghiwa siya ug hinog nga yellow nga saging"
+            },
+            {
+              "front": "They will cook sweet orange carrots",
+              "back": "magluto sila ug tam-is nga orange nga mga carrot"
+            },
+            {
+              "front": "He will peel juicy sweet oranges",
+              "back": "iyang panitan ang juicy sweet oranges"
+            },
+            {
+              "front": "I will wash fresh green lettuce",
+              "back": "manghugas ko ug lab-as nga berdeng lettuce"
+            },
+            {
+              "front": "We will buy fresh red grapes",
+              "back": "mamalit mi ug lab-as nga pula nga ubas"
+            },
+            {
+              "front": "She will cut ripe red tomatoes",
+              "back": "magputol siya ug hinog nga pula nga kamatis"
+            },
+            {
+              "front": "He will bake large brown potatoes",
+              "back": "magaluto siyag dagkong brown nga patatas"
+            },
+            {
+              "front": "They will pick sweet ripe strawberries",
+              "back": "manguha sila ug tam-is nga hinog nga strawberry"
+            },
+            {
+              "front": "I will chop fresh crisp cucumbers",
+              "back": "akong putlon ang presko nga presko nga pepino"
+            },
+            {
+              "front": "We will eat juicy ripe peaches",
+              "back": "mokaon mi ug juicy hinog nga peach"
+            },
+            {
+              "front": "She will chop white sweet onions",
+              "back": "magputol siya ug puti nga tam-is nga sibuyas"
+            },
+            {
+              "front": "He will slice yellow ripe pineapples",
+              "back": "maghiwa siya ug yellow nga hinog nga pinya"
+            },
+            {
+              "front": "They will cook leafy green spinach",
+              "back": "magluto sila ug dahon nga berde nga spinach"
+            },
+            {
+              "front": "I will steam fresh green broccoli",
+              "back": "ako mag-alisngaw ug lab-as nga berdeng broccoli"
+            },
+            {
+              "front": "He will cut fresh sweet mango",
+              "back": "magputol siya ug lab-as nga tam-is nga mangga"
+            },
+            {
+              "front": "She will mince raw white garlic",
+              "back": "iyang hiwaon ang hilaw nga puti nga ahos"
+            },
+            {
+              "front": "They will roast green bell peppers",
+              "back": "sila mag-ihaw ug berde nga kampanilya nga sili"
+            },
+            {
+              "front": "I will pick fresh red cherries",
+              "back": "manguha ko ug presko nga pula nga cherry"
+            },
+            {
+              "front": "We will slice ripe green avocados",
+              "back": "maghiwa kami ug hinog nga berdeng avocado"
+            },
+            {
+              "front": "He will eat juicy sweet plums",
+              "back": "mokaon siya ug dugaon nga tam-is nga mga plum"
+            },
+            {
+              "front": "She will pick fresh blue blueberries",
+              "back": "manguha siya ug presko nga blueberries"
+            },
+            {
+              "front": "I will wash crunchy red radishes",
+              "back": "ako manghugas sa mga mapulapula nga mga labanos"
+            },
+            {
+              "front": "They will steam soft green cabbage",
+              "back": "sila mag-alisngaw sa humok nga berde nga repolyo"
+            },
+            {
+              "front": "We will grill fresh sliced zucchini",
+              "back": "mag-ihaw kami ug lab-as nga hiniwa nga zucchini"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

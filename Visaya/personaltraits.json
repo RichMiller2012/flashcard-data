@@ -1,0 +1,1600 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Personal Traits",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Honest",
+              "back": "matinud-anon"
+            },
+            {
+              "front": "Confident",
+              "back": "masaligon"
+            },
+            {
+              "front": "Brave",
+              "back": "isog"
+            },
+            {
+              "front": "Kind",
+              "back": "buotan"
+            },
+            {
+              "front": "Creative",
+              "back": "mamugnaon"
+            },
+            {
+              "front": "Loyal",
+              "back": "maunongon"
+            },
+            {
+              "front": "Generous",
+              "back": "manggihatagon"
+            },
+            {
+              "front": "Curious",
+              "back": "kahibaw"
+            },
+            {
+              "front": "Polite",
+              "back": "matinahuron"
+            },
+            {
+              "front": "Patient",
+              "back": "pasyente"
+            },
+            {
+              "front": "Ambitious",
+              "back": "ambisyoso"
+            },
+            {
+              "front": "Courageous",
+              "back": "maisugon"
+            },
+            {
+              "front": "Friendly",
+              "back": "mahigalaon"
+            },
+            {
+              "front": "Funny",
+              "back": "kataw-anan"
+            },
+            {
+              "front": "Hardworking",
+              "back": "kugihan"
+            },
+            {
+              "front": "Helpful",
+              "back": "makatabang"
+            },
+            {
+              "front": "Optimistic",
+              "back": "malaumon"
+            },
+            {
+              "front": "Organized",
+              "back": "organisado"
+            },
+            {
+              "front": "Reliable",
+              "back": "kasaligan"
+            },
+            {
+              "front": "Respectful",
+              "back": "matinahuron"
+            },
+            {
+              "front": "Responsible",
+              "back": "responsable"
+            },
+            {
+              "front": "Sincere",
+              "back": "sinsero"
+            },
+            {
+              "front": "Smart",
+              "back": "maalamon"
+            },
+            {
+              "front": "Thoughtful",
+              "back": "mahunahunaon"
+            },
+            {
+              "front": "Wise",
+              "back": "maalamon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Honest man",
+              "back": "matinud-anon nga tawo"
+            },
+            {
+              "front": "Confident leader",
+              "back": "masaligon nga lider"
+            },
+            {
+              "front": "Brave soldier",
+              "back": "maisog nga sundalo"
+            },
+            {
+              "front": "Kind teacher",
+              "back": "buotan nga magtutudlo"
+            },
+            {
+              "front": "Creative artist",
+              "back": "mamugnaon nga artista"
+            },
+            {
+              "front": "Loyal friend",
+              "back": "maunongon nga higala"
+            },
+            {
+              "front": "Generous neighbor",
+              "back": "manggihatagon nga silingan"
+            },
+            {
+              "front": "Curious child",
+              "back": "kuryuso nga bata"
+            },
+            {
+              "front": "Polite customer",
+              "back": "matinahuron nga kustomer"
+            },
+            {
+              "front": "Patient student",
+              "back": "pasyente nga estudyante"
+            },
+            {
+              "front": "Ambitious entrepreneur",
+              "back": "ambisyoso nga negosyante"
+            },
+            {
+              "front": "Courageous firefighter",
+              "back": "maisog nga bombero"
+            },
+            {
+              "front": "Friendly coworker",
+              "back": "mahigalaon nga kauban sa trabaho"
+            },
+            {
+              "front": "Funny comedian",
+              "back": "kataw-anan nga komedyante"
+            },
+            {
+              "front": "Hardworking employee",
+              "back": "kugihan nga empleyado"
+            },
+            {
+              "front": "Helpful neighbor",
+              "back": "matinabangon nga silingan"
+            },
+            {
+              "front": "Optimistic person",
+              "back": "malaumon nga tawo"
+            },
+            {
+              "front": "Organized manager",
+              "back": "organisado nga manedyer"
+            },
+            {
+              "front": "Reliable partner",
+              "back": "kasaligan nga kauban"
+            },
+            {
+              "front": "Respectful student",
+              "back": "matinahuron nga estudyante"
+            },
+            {
+              "front": "Responsible adult",
+              "back": "responsable nga hamtong"
+            },
+            {
+              "front": "Sincere friend",
+              "back": "sinsero nga higala"
+            },
+            {
+              "front": "Smart scientist",
+              "back": "maalamon nga siyentista"
+            },
+            {
+              "front": "Thoughtful writer",
+              "back": "mahunahunaon nga magsusulat"
+            },
+            {
+              "front": "Wise elder",
+              "back": "maalamon nga tigulang"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "The brave soldier",
+              "back": "ang maisog nga sundalo"
+            },
+            {
+              "front": "The confident leader",
+              "back": "ang masaligon nga lider"
+            },
+            {
+              "front": "He is honest",
+              "back": "matinud-anon siya"
+            },
+            {
+              "front": "She is friendly",
+              "back": "mahigalaon siya"
+            },
+            {
+              "front": "They are sincere",
+              "back": "sinsero sila"
+            },
+            {
+              "front": "Everyone is respectful",
+              "back": "ang tanan matinahuron"
+            },
+            {
+              "front": "Nobody is perfect",
+              "back": "walay tawo nga perpekto"
+            },
+            {
+              "front": "The loyal friend",
+              "back": "ang maunongon nga higala"
+            },
+            {
+              "front": "She is patient",
+              "back": "siya mapailubon"
+            },
+            {
+              "front": "He is smart",
+              "back": "maalamon siya"
+            },
+            {
+              "front": "They are generous",
+              "back": "manggihatagon sila"
+            },
+            {
+              "front": "The thoughtful writer",
+              "back": "ang mahunahunaon nga magsusulat"
+            },
+            {
+              "front": "She is organized",
+              "back": "organisado siya"
+            },
+            {
+              "front": "He is hardworking",
+              "back": "kugihan siya"
+            },
+            {
+              "front": "We are helpful",
+              "back": "kami makatabang"
+            },
+            {
+              "front": "You are polite",
+              "back": "matinahuron ka"
+            },
+            {
+              "front": "The funny comedian",
+              "back": "ang kataw-anan nga komedyante"
+            },
+            {
+              "front": "Everyone is responsible",
+              "back": "ang tanan responsable"
+            },
+            {
+              "front": "She is optimistic",
+              "back": "siya malaumon"
+            },
+            {
+              "front": "The wise elder",
+              "back": "ang maalamon nga tigulang"
+            },
+            {
+              "front": "He is respectful",
+              "back": "matinahuron siya"
+            },
+            {
+              "front": "They are ambitious",
+              "back": "ambisyoso sila"
+            },
+            {
+              "front": "The creative artist",
+              "back": "ang mamugnaon nga artista"
+            },
+            {
+              "front": "You are sincere",
+              "back": "sinsero ka"
+            },
+            {
+              "front": "Nobody is courageous",
+              "back": "walay isog"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "brave soldier is ready",
+              "back": "maisog nga sundalo andam na"
+            },
+            {
+              "front": "The confident leader inspires",
+              "back": "ang masaligon nga lider nagdasig"
+            },
+            {
+              "front": "He is always honest",
+              "back": "matinud-anon siya kanunay"
+            },
+            {
+              "front": "She is very friendly",
+              "back": "friendly kaayo siya"
+            },
+            {
+              "front": "They are always sincere",
+              "back": "pirmi sila sinsero"
+            },
+            {
+              "front": "Everyone is being respectful",
+              "back": "ang tanan matinahuron"
+            },
+            {
+              "front": "Nobody is ever perfect",
+              "back": "walay tawo nga perpekto"
+            },
+            {
+              "front": "The loyal friend stays",
+              "back": "ang maunongon nga higala magpabilin"
+            },
+            {
+              "front": "She is incredibly patient",
+              "back": "siya usa ka talagsaon nga pasensya"
+            },
+            {
+              "front": "He is very smart",
+              "back": "buotan kaayo siya"
+            },
+            {
+              "front": "They are very generous",
+              "back": "manggihatagon kaayo sila"
+            },
+            {
+              "front": "The thoughtful writer creates",
+              "back": "ang mahunahunaon nga magsusulat nagmugna"
+            },
+            {
+              "front": "She is always organized",
+              "back": "organisado siya kanunay"
+            },
+            {
+              "front": "He is hardworking always",
+              "back": "kugihan siya kanunay"
+            },
+            {
+              "front": "We are always helpful",
+              "back": "kanunay kaming makatabang"
+            },
+            {
+              "front": "You are quite polite",
+              "back": "medyo matinahuron ka"
+            },
+            {
+              "front": "The funny comedian entertains",
+              "back": "ang kataw-anan nga komedyante naglingaw"
+            },
+            {
+              "front": "Everyone is very responsible",
+              "back": "ang tanan responsable kaayo"
+            },
+            {
+              "front": "She is very optimistic",
+              "back": "malaumon kaayo siya"
+            },
+            {
+              "front": "The wise elder advises",
+              "back": "ang maalamon nga tigulang nagtambag"
+            },
+            {
+              "front": "He is always respectful",
+              "back": "matinahuron siya kanunay"
+            },
+            {
+              "front": "They are extremely ambitious",
+              "back": "sila hilabihan ka ambisyoso"
+            },
+            {
+              "front": "The creative artist draws",
+              "back": "ang mamugnaon nga artist nagdrowing"
+            },
+            {
+              "front": "You are being sincere",
+              "back": "sincere ka nga"
+            },
+            {
+              "front": "Nobody is naturally courageous",
+              "back": "walay tawo nga natural nga maisogon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The brave soldier inspires us",
+              "back": "ang maisog nga sundalo nagdasig kanato"
+            },
+            {
+              "front": "The confident leader motivates others",
+              "back": "ang masaligon nga lider nagdasig sa uban"
+            },
+            {
+              "front": "He is honest with everyone",
+              "back": "matinud-anon siya sa tanan"
+            },
+            {
+              "front": "She is friendly with others",
+              "back": "mahigalaon siya sa uban"
+            },
+            {
+              "front": "They are sincere to everyone",
+              "back": "sinsero sila sa tanan"
+            },
+            {
+              "front": "Everyone is respectful of others",
+              "back": "ang tanan matinahuron sa uban"
+            },
+            {
+              "front": "Nobody is perfect in life",
+              "back": "walay tawo nga perpekto sa kinabuhi"
+            },
+            {
+              "front": "The loyal friend never leaves",
+              "back": "ang maunongon nga higala dili mobiya"
+            },
+            {
+              "front": "She is patient with kids",
+              "back": "mapailubon siya sa mga bata"
+            },
+            {
+              "front": "He is smart and capable",
+              "back": "siya maalamon ug may katakos"
+            },
+            {
+              "front": "They are generous to us",
+              "back": "manggihatagon sila kanato"
+            },
+            {
+              "front": "The thoughtful writer expresses",
+              "back": "gipahayag sa mahunahunaon nga magsusulat"
+            },
+            {
+              "front": "She is organized in tasks",
+              "back": "organisado siya sa mga buluhaton"
+            },
+            {
+              "front": "He is hardworking and focused",
+              "back": "kugihan siya ug focus"
+            },
+            {
+              "front": "We are helpful to others",
+              "back": "matinabangon kita sa uban"
+            },
+            {
+              "front": "You are polite to elders",
+              "back": "matinahuron ka sa mga tigulang"
+            },
+            {
+              "front": "The funny comedian entertains crowds",
+              "back": "ang kataw-anan nga komedyante naglingaw sa mga tawo"
+            },
+            {
+              "front": "Everyone is responsible for actions",
+              "back": "ang tanan responsable sa mga aksyon"
+            },
+            {
+              "front": "She is optimistic about future",
+              "back": "malaumon siya bahin sa umaabot"
+            },
+            {
+              "front": "The wise elder shares advice",
+              "back": "ang maalamong tigulang nag-ambit ug tambag"
+            },
+            {
+              "front": "He is respectful in everyone",
+              "back": "matinahuron siya sa tanan"
+            },
+            {
+              "front": "They are ambitious with goals",
+              "back": "ambisyoso sila sa mga tumong"
+            },
+            {
+              "front": "The creative artist brings ideas",
+              "back": "ang mamugnaon nga artista nagdala og mga ideya"
+            },
+            {
+              "front": "You are sincere with intentions",
+              "back": "sinsero ka sa tuyo"
+            },
+            {
+              "front": "Nobody is courageous every time",
+              "back": "walay tawo nga maisog sa matag higayon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The brave soldier inspires us all",
+              "back": "ang maisog nga sundalo nagdasig kanatong tanan"
+            },
+            {
+              "front": "The confident leader motivates the team",
+              "back": "ang masaligon nga lider nagdasig sa team"
+            },
+            {
+              "front": "He is always honest with everyone",
+              "back": "siya kanunay nga matinud-anon sa tanan"
+            },
+            {
+              "front": "She is very friendly with others",
+              "back": "mahigalaon kaayo siya sa uban"
+            },
+            {
+              "front": "They are sincere in their actions",
+              "back": "sinsero sila sa ilang mga lihok"
+            },
+            {
+              "front": "Everyone is respectful of each other",
+              "back": "ang tanan matinahuron sa usag usa"
+            },
+            {
+              "front": "Nobody is perfect in this world",
+              "back": "walay tawo nga perpekto niining kalibutana"
+            },
+            {
+              "front": "The loyal friend never leaves you",
+              "back": "ang maunongon nga higala dili gayud mobiya kanimo"
+            },
+            {
+              "front": "She is incredibly patient with children",
+              "back": "siya usa ka talagsaon nga pasensya sa mga bata"
+            },
+            {
+              "front": "He is very smart and capable",
+              "back": "siya buotan kaayo ug may katakus"
+            },
+            {
+              "front": "They are generous with their time",
+              "back": "manggihatagon sila sa ilang panahon"
+            },
+            {
+              "front": "The thoughtful writer expresses deep emotions",
+              "back": "ang mahunahunaon nga magsusulat nagpahayag sa lawom nga mga pagbati"
+            },
+            {
+              "front": "She is organized in her tasks",
+              "back": "organisado siya sa iyang mga buluhaton"
+            },
+            {
+              "front": "He is hardworking and always focused",
+              "back": "kugihan siya ug kanunay nakatutok"
+            },
+            {
+              "front": "We are helpful to those in need",
+              "back": "matinabangon kami sa mga nanginahanglan"
+            },
+            {
+              "front": "You are polite to your elders",
+              "back": "matinahuron ka sa imong mga tigulang"
+            },
+            {
+              "front": "The funny comedian entertains the crowd",
+              "back": "ang kataw-anan nga komedyante naglingaw sa mga tawo"
+            },
+            {
+              "front": "Everyone is responsible for their actions",
+              "back": "ang tanan responsable sa ilang mga aksyon"
+            },
+            {
+              "front": "She is optimistic about the future",
+              "back": "malaumon siya bahin sa umaabot"
+            },
+            {
+              "front": "The wise elder shares valuable advice",
+              "back": "ang maalamong ansiyano nagpaambit ug bililhong tambag"
+            },
+            {
+              "front": "He is respectful in all situations",
+              "back": "matinahuron siya sa tanang sitwasyon"
+            },
+            {
+              "front": "They are ambitious with big goals",
+              "back": "ambisyoso sila sa dagkong mga tumong"
+            },
+            {
+              "front": "The creative artist brings ideas alive",
+              "back": "ang mamugnaon nga artista nagdala og mga ideya nga buhi"
+            },
+            {
+              "front": "You are sincere with your intentions",
+              "back": "sinsero ka sa imong tuyo"
+            },
+            {
+              "front": "Nobody is courageous all the time",
+              "back": "walay maisog sa tanang panahon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Was honest",
+              "back": "matinud-anon"
+            },
+            {
+              "front": "Was wise",
+              "back": "maalamon"
+            },
+            {
+              "front": "Was brave",
+              "back": "maisugon"
+            },
+            {
+              "front": "Was kind",
+              "back": "buotan"
+            },
+            {
+              "front": "Was loyal",
+              "back": "maunongon"
+            },
+            {
+              "front": "Was generous",
+              "back": "kay manggihatagon"
+            },
+            {
+              "front": "Was polite",
+              "back": "matinahuron"
+            },
+            {
+              "front": "Was patient",
+              "back": "mapailubon"
+            },
+            {
+              "front": "Was sincere",
+              "back": "sinsero"
+            },
+            {
+              "front": "Was smart",
+              "back": "maalamon"
+            },
+            {
+              "front": "Was funny",
+              "back": "kataw-anan"
+            },
+            {
+              "front": "Was helpful",
+              "back": "nakatabang"
+            },
+            {
+              "front": "Was reliable",
+              "back": "kasaligan"
+            },
+            {
+              "front": "Was optimistic",
+              "back": "malaumon"
+            },
+            {
+              "front": "Was thoughtful",
+              "back": "mahunahunaon"
+            },
+            {
+              "front": "Was creative",
+              "back": "mamugnaon"
+            },
+            {
+              "front": "Was respectful",
+              "back": "matinahuron"
+            },
+            {
+              "front": "Was responsible",
+              "back": "maoy responsable"
+            },
+            {
+              "front": "Was courageous",
+              "back": "maisugon"
+            },
+            {
+              "front": "Was ambitious",
+              "back": "ambisyoso"
+            },
+            {
+              "front": "Was hardworking",
+              "back": "kugihan"
+            },
+            {
+              "front": "Was organized",
+              "back": "giorganisar"
+            },
+            {
+              "front": "Was curious",
+              "back": "nakuryoso"
+            },
+            {
+              "front": "Was friendly",
+              "back": "mahigalaon"
+            },
+            {
+              "front": "Was sincere",
+              "back": "sinsero"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "He was honest",
+              "back": "matinud-anon siya"
+            },
+            {
+              "front": "She was wise",
+              "back": "siya maalamon"
+            },
+            {
+              "front": "They were brave",
+              "back": "maisog sila"
+            },
+            {
+              "front": "We were kind",
+              "back": "buotan mi"
+            },
+            {
+              "front": "I was loyal",
+              "back": "loyal ko"
+            },
+            {
+              "front": "He was generous",
+              "back": "manggihatagon siya"
+            },
+            {
+              "front": "She was polite",
+              "back": "siya matinahuron"
+            },
+            {
+              "front": "They were patient",
+              "back": "mapailubon sila"
+            },
+            {
+              "front": "We were sincere",
+              "back": "sinsero kami"
+            },
+            {
+              "front": "He was smart",
+              "back": "maalamon siya"
+            },
+            {
+              "front": "She was funny",
+              "back": "kataw-anan siya"
+            },
+            {
+              "front": "They were helpful",
+              "back": "nakatabang sila"
+            },
+            {
+              "front": "Everybody was reliable",
+              "back": "ang tanan kasaligan"
+            },
+            {
+              "front": "Nobody was optimistic",
+              "back": "walay usa nga malaumon"
+            },
+            {
+              "front": "Everyone was thoughtful",
+              "back": "ang tanan naghunahuna"
+            },
+            {
+              "front": "He was creative",
+              "back": "mamugnaon siya"
+            },
+            {
+              "front": "She was respectful",
+              "back": "matinahuron siya"
+            },
+            {
+              "front": "They were responsible",
+              "back": "responsable sila"
+            },
+            {
+              "front": "Everybody was courageous",
+              "back": "ang tanan maisugon"
+            },
+            {
+              "front": "I was ambitious",
+              "back": "ambisyoso ko"
+            },
+            {
+              "front": "We were hardworking",
+              "back": "kugihan mi"
+            },
+            {
+              "front": "Nobody was organized",
+              "back": "walay tawo nga organisado"
+            },
+            {
+              "front": "She was curious",
+              "back": "kahibaw siya"
+            },
+            {
+              "front": "He was friendly",
+              "back": "mahigalaon siya"
+            },
+            {
+              "front": "They were sincere",
+              "back": "sinsero sila"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "He was always honest",
+              "back": "siya kanunay nga matinud-anon"
+            },
+            {
+              "front": "She was very wise",
+              "back": "siya maalamon kaayo"
+            },
+            {
+              "front": "They were incredibly brave",
+              "back": "sila hilabihan ka maisugon"
+            },
+            {
+              "front": "We were always kind",
+              "back": "kami buotan kanunay"
+            },
+            {
+              "front": "I was very loyal",
+              "back": "loyal kaayo ko"
+            },
+            {
+              "front": "He was extremely generous",
+              "back": "manggihatagon kaayo siya"
+            },
+            {
+              "front": "She was always polite",
+              "back": "siya kanunay nga matinahuron"
+            },
+            {
+              "front": "They were very patient",
+              "back": "mapailubon kaayo sila"
+            },
+            {
+              "front": "We were always sincere",
+              "back": "sincere gyud mi"
+            },
+            {
+              "front": "He was extremely smart",
+              "back": "siya hilabihan ka maalamon"
+            },
+            {
+              "front": "She was always funny",
+              "back": "permi siya kataw-anan"
+            },
+            {
+              "front": "They were quite helpful",
+              "back": "nakatabang kaayo sila"
+            },
+            {
+              "front": "Everybody was always reliable",
+              "back": "ang tanan kanunay kasaligan"
+            },
+            {
+              "front": "Nobody was being optimistic",
+              "back": "walay usa nga malaumon"
+            },
+            {
+              "front": "Everyone was very thoughtful",
+              "back": "ang tanan naghunahuna kaayo"
+            },
+            {
+              "front": "He was highly creative",
+              "back": "mamugnaon kaayo siya"
+            },
+            {
+              "front": "She was very respectful",
+              "back": "matinahuron kaayo siya"
+            },
+            {
+              "front": "They were always responsible",
+              "back": "sila kanunay nga responsable"
+            },
+            {
+              "front": "Everybody was very courageous",
+              "back": "ang tanan maisugon kaayo"
+            },
+            {
+              "front": "I was very ambitious",
+              "back": "ambisyoso kaayo ko"
+            },
+            {
+              "front": "We were always hardworking",
+              "back": "kami kugihan kanunay"
+            },
+            {
+              "front": "Nobody was being organized",
+              "back": "walay usa nga giorganisar"
+            },
+            {
+              "front": "She was very curious",
+              "back": "curious kaayo siya"
+            },
+            {
+              "front": "He was always friendly",
+              "back": "kanunay siyang mahigalaon"
+            },
+            {
+              "front": "They were very sincere",
+              "back": "sinsero kaayo sila"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I was honest with him",
+              "back": "honest ko niya"
+            },
+            {
+              "front": "He was brave in war",
+              "back": "maisog siya sa gubat"
+            },
+            {
+              "front": "The lawyer was always respectful",
+              "back": "ang abogado kanunay nga matinahuron"
+            },
+            {
+              "front": "Everybody was organized at work",
+              "back": "ang tanan organisado sa trabaho"
+            },
+            {
+              "front": "She was wise beyond years",
+              "back": "maalam siya lapas sa katuigan"
+            },
+            {
+              "front": "They were sincere in conversation",
+              "back": "sinsero sila sa panag-istoryahanay"
+            },
+            {
+              "front": "He was generous with money",
+              "back": "manggihatagon siya sa kuwarta"
+            },
+            {
+              "front": "We were patient to them",
+              "back": "nagpailub kami kanila"
+            },
+            {
+              "front": "Nobody was optimistic about future",
+              "back": "walay usa nga malaumon bahin sa umaabot"
+            },
+            {
+              "front": "The teacher was very kind",
+              "back": "buotan kaayo ang maestra"
+            },
+            {
+              "front": "I was loyal to them",
+              "back": "loyal ko nila"
+            },
+            {
+              "front": "They were helpful all day",
+              "back": "nakatabang sila sa tibuok adlaw"
+            },
+            {
+              "front": "She was always very polite",
+              "back": "siya kanunay nga matinahuron kaayo"
+            },
+            {
+              "front": "He was responsible for everything",
+              "back": "siya ang responsable sa tanan"
+            },
+            {
+              "front": "Everybody was hardworking last year",
+              "back": "ang tanan kugihan sa miaging tuig"
+            },
+            {
+              "front": "She was curious about science",
+              "back": "nakuryuso siya bahin sa siyensya"
+            },
+            {
+              "front": "He was friendly with everyone",
+              "back": "mahigalaon siya sa tanan"
+            },
+            {
+              "front": "We were respectful to everyone",
+              "back": "matinahuron kami sa tanan"
+            },
+            {
+              "front": "The artist was highly creative",
+              "back": "mamugnaon kaayo ang artista"
+            },
+            {
+              "front": "Nobody was being responsible today",
+              "back": "walay usa nga responsable karon"
+            },
+            {
+              "front": "She was thoughtful to people",
+              "back": "siya mahunahunaon sa mga tawo"
+            },
+            {
+              "front": "He was ambitious at work",
+              "back": "ambisyoso siya sa trabaho"
+            },
+            {
+              "front": "The soldier was very courageous",
+              "back": "isog kaayo ang sundalo"
+            },
+            {
+              "front": "They were reliable bus drivers",
+              "back": "kasaligan sila nga mga drayber sa bus"
+            },
+            {
+              "front": "She was organized at home",
+              "back": "organisado siya sa balay"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I was honest with him last week",
+              "back": "Nagmatinud-anon ko niya sa miaging semana"
+            },
+            {
+              "front": "He was brave in the battle",
+              "back": "maisog siya sa gubat"
+            },
+            {
+              "front": "The lawyer was respectful in court",
+              "back": "ang abogado matinahuron sa korte"
+            },
+            {
+              "front": "Everybody was organized at work yesterday",
+              "back": "ang tanan organisado sa trabaho kagahapon"
+            },
+            {
+              "front": "She was wise beyond her years",
+              "back": "siya maalamon labaw pa sa iyang mga tuig"
+            },
+            {
+              "front": "They were sincere in every conversation",
+              "back": "sinsero sila sa matag panag-istoryahanay"
+            },
+            {
+              "front": "He was generous with his money",
+              "back": "manggihatagon siya sa iyang kuwarta"
+            },
+            {
+              "front": "We were patient during the meeting",
+              "back": "mapailubon kami atol sa miting"
+            },
+            {
+              "front": "Nobody was optimistic about the future",
+              "back": "walay usa nga malaumon bahin sa umaabot"
+            },
+            {
+              "front": "The teacher was kind to students",
+              "back": "buotan ang magtutudlo sa mga estudyante"
+            },
+            {
+              "front": "I was loyal to my friend",
+              "back": "loyal ko sa akong amiga"
+            },
+            {
+              "front": "They were helpful all day long",
+              "back": "nakatabang sila sa tibuok adlaw"
+            },
+            {
+              "front": "She was always polite to guests",
+              "back": "kanunay siyang matinahuron sa mga bisita"
+            },
+            {
+              "front": "He was responsible for his actions",
+              "back": "siya ang responsable sa iyang mga aksyon"
+            },
+            {
+              "front": "Everybody was hardworking throughout the project",
+              "back": "ang tanan kugihan sa tibuok proyekto"
+            },
+            {
+              "front": "She was curious about the discovery",
+              "back": "nakuryuso siya sa nadiskobrehan"
+            },
+            {
+              "front": "He was friendly with everyone here",
+              "back": "mahigalaon siya sa tanan dinhi"
+            },
+            {
+              "front": "We were respectful of all opinions",
+              "back": "kami matinahuron sa tanan nga mga opinyon"
+            },
+            {
+              "front": "The artist was creative with ideas",
+              "back": "ang artist mamugnaon sa mga ideya"
+            },
+            {
+              "front": "Nobody was being responsible this morning",
+              "back": "walay responsable karong buntaga"
+            },
+            {
+              "front": "She was thoughtful towards her family",
+              "back": "siya mahunahunaon ngadto sa iyang pamilya"
+            },
+            {
+              "front": "He was ambitious in his career",
+              "back": "ambisyoso siya sa iyang karera"
+            },
+            {
+              "front": "The soldier was courageous during combat",
+              "back": "ang sundalo maisogon panahon sa panagsangka"
+            },
+            {
+              "front": "They were reliable during the times",
+              "back": "kasaligan sila sa mga panahon"
+            },
+            {
+              "front": "She was organized at the event",
+              "back": "organisado siya sa maong kalihokan"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will be honest",
+              "back": "mahimong matinud-anon"
+            },
+            {
+              "front": "Courage will follow",
+              "back": "ang kaisog mosunod"
+            },
+            {
+              "front": "Will be wise",
+              "back": "mahimong maalamon"
+            },
+            {
+              "front": "Will stay brave",
+              "back": "magpabilin nga maisugon"
+            },
+            {
+              "front": "Will be kind",
+              "back": "mahimong buotan"
+            },
+            {
+              "front": "Will remain loyal",
+              "back": "magpabiling maunongon"
+            },
+            {
+              "front": "Will be generous",
+              "back": "mahimong manggihatagon"
+            },
+            {
+              "front": "Will stay polite",
+              "back": "magpabilin nga matinahuron"
+            },
+            {
+              "front": "Will be patient",
+              "back": "mapailubon"
+            },
+            {
+              "front": "Will be sincere",
+              "back": "mahimong sinsero"
+            },
+            {
+              "front": "Wisdom will grow",
+              "back": "ang kaalam motubo"
+            },
+            {
+              "front": "Will be smart",
+              "back": "mahimong maalamon"
+            },
+            {
+              "front": "Kindness will shine",
+              "back": "modan-ag ang kaayo"
+            },
+            {
+              "front": "Will help others",
+              "back": "makatabang sa uban"
+            },
+            {
+              "front": "Will stay reliable",
+              "back": "magpabilin nga kasaligan"
+            },
+            {
+              "front": "Will remain optimistic",
+              "back": "magpabilin nga malaumon"
+            },
+            {
+              "front": "Thoughtfulness will show",
+              "back": "ang pagkamahunahunaon magpakita"
+            },
+            {
+              "front": "Will act creative",
+              "back": "molihok nga mamugnaon"
+            },
+            {
+              "front": "Will be respectful",
+              "back": "mahimong matinahuron"
+            },
+            {
+              "front": "Will remain responsible",
+              "back": "magpabilin nga responsable"
+            },
+            {
+              "front": "Courage will guide",
+              "back": "kaisog maggiya"
+            },
+            {
+              "front": "Will be ambitious",
+              "back": "mahimong ambisyoso"
+            },
+            {
+              "front": "Will work hard",
+              "back": "magtrabaho pag-ayo"
+            },
+            {
+              "front": "Will stay organized",
+              "back": "magpabiling organisado"
+            },
+            {
+              "front": "Will stay curious",
+              "back": "magpabiling kuryuso"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Everyone will be honest",
+              "back": "ang tanan magmatinud-anon"
+            },
+            {
+              "front": "Nobody will show courage",
+              "back": "walay magpakitag kaisog"
+            },
+            {
+              "front": "He will be wise",
+              "back": "siya mahimong maalamon"
+            },
+            {
+              "front": "She will stay brave",
+              "back": "magpabilin siyang maisogon"
+            },
+            {
+              "front": "They will be kind",
+              "back": "magbinuotan sila"
+            },
+            {
+              "front": "We will remain loyal",
+              "back": "kita magpabiling maunongon"
+            },
+            {
+              "front": "I will be generous",
+              "back": "ako mahimong manggihatagon"
+            },
+            {
+              "front": "Everybody will stay polite",
+              "back": "ang tanan magpabilin nga matinahuron"
+            },
+            {
+              "front": "You will be patient",
+              "back": "magmapailubon ka"
+            },
+            {
+              "front": "She will be sincere",
+              "back": "siya mahimong sinsero"
+            },
+            {
+              "front": "We will grow wiser",
+              "back": "kita motubo nga mas maalamon"
+            },
+            {
+              "front": "He will stay smart",
+              "back": "magpabilin siyang maalamon"
+            },
+            {
+              "front": "Kindness will guide everyone",
+              "back": "ang pagkamaayo mogiya sa tanan"
+            },
+            {
+              "front": "They will help others",
+              "back": "makatabang sila sa uban"
+            },
+            {
+              "front": "Nobody will be reliable",
+              "back": "walay mahimong kasaligan"
+            },
+            {
+              "front": "Everyone will remain optimistic",
+              "back": "ang tanan magpabilin nga malaumon"
+            },
+            {
+              "front": "Thoughtfulness will guide everybody",
+              "back": "ang pagkamahunahunaon mogiya sa tanan"
+            },
+            {
+              "front": "We will act creatively",
+              "back": "kita molihok nga mamugnaon"
+            },
+            {
+              "front": "She will be respectful",
+              "back": "siya magmatinahuron"
+            },
+            {
+              "front": "He will stay responsible",
+              "back": "magpabilin siyang responsable"
+            },
+            {
+              "front": "Courage will lead everyone",
+              "back": "kaisog mangulo sa tanan"
+            },
+            {
+              "front": "You will be ambitious",
+              "back": "ikaw mahimong ambisyoso"
+            },
+            {
+              "front": "They will work hard",
+              "back": "magkugi sila"
+            },
+            {
+              "front": "Nobody will stay organized",
+              "back": "walay usa nga magpabiling organisado"
+            },
+            {
+              "front": "Everyone will stay curious",
+              "back": "ang tanan magpabiling kuryuso"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will show wisdom today",
+              "back": "ipakita ko ang kaalam karong adlawa"
+            },
+            {
+              "front": "Everyone shows fear in war",
+              "back": "ang tanan nagpakitag kahadlok sa gubat"
+            },
+            {
+              "front": "He will learn great wisdom",
+              "back": "makakat-on siya ug dakong kaalam"
+            },
+            {
+              "front": "She will show kindness everyday",
+              "back": "magapakita sia sing kaayo kada adlaw"
+            },
+            {
+              "front": "They will be brave tomorrow",
+              "back": "isog sila ugma"
+            },
+            {
+              "front": "We will remain loyal forever",
+              "back": "magpabilin kami nga maunongon hangtod sa hangtod"
+            },
+            {
+              "front": "You will act very generous",
+              "back": "ikaw molihok nga manggihatagon kaayo"
+            },
+            {
+              "front": "Nobody will be polite tonight",
+              "back": "walay matinahuron karong gabhiona"
+            },
+            {
+              "front": "I will become more patient",
+              "back": "ako mahimong mas mapailubon"
+            },
+            {
+              "front": "She will act very sincere",
+              "back": "sinsero kaayo siya molihok"
+            },
+            {
+              "front": "He will show his intelligence",
+              "back": "ipakita niya ang iyang salabutan"
+            },
+            {
+              "front": "Kindness will follow us everywhere",
+              "back": "ang pagkamabination mosunod kanato bisan asa"
+            },
+            {
+              "front": "They will help others succeed",
+              "back": "makatabang sila sa uban nga molampos"
+            },
+            {
+              "front": "Nobody will be reliable tomorrow",
+              "back": "walay masaligan ugma"
+            },
+            {
+              "front": "Thoughtfulness will shine in everyone",
+              "back": "ang pagkamahunahunaon modan-ag sa tanan"
+            },
+            {
+              "front": "You will act creatively today",
+              "back": "ikaw molihok nga mamugnaon karon"
+            },
+            {
+              "front": "She will remain respectful always",
+              "back": "magpabilin siyang matinahuron kanunay"
+            },
+            {
+              "front": "We will stay responsible together",
+              "back": "magpabilin mi nga responsable"
+            },
+            {
+              "front": "Everybody will show great courage",
+              "back": "ang tanan magpakitag dakong kaisog"
+            },
+            {
+              "front": "He will be ambitious soon",
+              "back": "ambisyoso siya sa dili madugay"
+            },
+            {
+              "front": "They will work hard tomorrow",
+              "back": "magkugi sila ugma"
+            },
+            {
+              "front": "Nobody will stay organized today",
+              "back": "walay magpabiling organisado karon"
+            },
+            {
+              "front": "Everyone will learn new things",
+              "back": "ang tanan makakat-on og bag-ong mga butang"
+            },
+            {
+              "front": "I will keep my promises",
+              "back": "tumanon ko ang akong mga saad"
+            },
+            {
+              "front": "He will be wise soon",
+              "back": "siya mahimong maalamon sa dili madugay"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will show wisdom in decisions",
+              "back": "magapakita ako ug kaalam sa mga desisyon"
+            },
+            {
+              "front": "Everyone will show fear in battle",
+              "back": "ang tanan magpakitag kahadlok sa gubat"
+            },
+            {
+              "front": "He will learn great wisdom soon",
+              "back": "makakat-on siya ug dakong kaalam sa dili madugay"
+            },
+            {
+              "front": "She will show kindness to everyone",
+              "back": "magapakita sia sing kaayo sa tanan"
+            },
+            {
+              "front": "They will be brave in tough times",
+              "back": "magmaisugon sila sa lisud nga mga panahon"
+            },
+            {
+              "front": "We will remain loyal to friends",
+              "back": "magpabilin kaming loyal sa mga higala"
+            },
+            {
+              "front": "You will act very generous today",
+              "back": "manggihatagon kaayo ka karong adlawa"
+            },
+            {
+              "front": "Nobody will stay polite at work",
+              "back": "walay bisan kinsa nga magpabilin nga matinahuron sa trabaho"
+            },
+            {
+              "front": "I will become more patient soon",
+              "back": "ako mahimong mas mapailubon sa dili madugay"
+            },
+            {
+              "front": "She will act very sincere tomorrow",
+              "back": "siya molihok nga sinsero kaayo ugma"
+            },
+            {
+              "front": "He will show intelligence in challenges",
+              "back": "magpakita siyag salabutan sa mga hagit"
+            },
+            {
+              "front": "Your kindness will follow us everywhere",
+              "back": "ang imong kaayo magasunod kanamo bisan asa"
+            },
+            {
+              "front": "They will help others succeed in goals",
+              "back": "makatabang sila sa uban nga molampos sa mga tumong"
+            },
+            {
+              "front": "Nobody will be reliable tomorrow afternoon",
+              "back": "walay masaligan ugma sa hapon"
+            },
+            {
+              "front": "Thoughtfulness will shine in tough times",
+              "back": "ang pagkamahunahunaon modan-ag sa lisud nga mga panahon"
+            },
+            {
+              "front": "You will act creatively in projects",
+              "back": "ikaw molihok nga mamugnaon sa mga proyekto"
+            },
+            {
+              "front": "She will remain respectful every day",
+              "back": "magpabilin siyang matinahuron kada adlaw"
+            },
+            {
+              "front": "We will stay responsible at work",
+              "back": "magpabilin kita nga responsable sa trabaho"
+            },
+            {
+              "front": "Everybody will show great courage soon",
+              "back": "ang tanan magpakitag dakong kaisog sa dili madugay"
+            },
+            {
+              "front": "He will be ambitious in career",
+              "back": "ambisyoso siya sa career"
+            },
+            {
+              "front": "They will work hard on tasks",
+              "back": "magkugi sila sa mga buluhaton"
+            },
+            {
+              "front": "Nobody will stay organized during meetings",
+              "back": "walay magpabiling organisado panahon sa mga miting"
+            },
+            {
+              "front": "Everyone will learn new things quickly",
+              "back": "ang tanan makakat-on sa bag-ong mga butang sa madali"
+            },
+            {
+              "front": "I will keep my promises tomorrow",
+              "back": "tumanon nako akong mga saad ugma"
+            },
+            {
+              "front": "He will be wise very soon",
+              "back": "siya mahimong maalamon sa dili madugay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

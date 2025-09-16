@@ -1,0 +1,2850 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Clothing",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Shirt",
+              "back": "kamiseta"
+            },
+            {
+              "front": "Pants",
+              "back": "karsones"
+            },
+            {
+              "front": "Dress",
+              "back": "sinina"
+            },
+            {
+              "front": "Skirt",
+              "back": "sayal"
+            },
+            {
+              "front": "Shorts",
+              "back": "shorts"
+            },
+            {
+              "front": "Jacket",
+              "back": "dyaket"
+            },
+            {
+              "front": "Coat",
+              "back": "sinina"
+            },
+            {
+              "front": "Sweater",
+              "back": "sweater"
+            },
+            {
+              "front": "Blouse",
+              "back": "blusa"
+            },
+            {
+              "front": "T-shirt",
+              "back": "t-shirt"
+            },
+            {
+              "front": "Hoodie",
+              "back": "hoodie"
+            },
+            {
+              "front": "Jeans",
+              "back": "maong"
+            },
+            {
+              "front": "Scarf",
+              "back": "bandana"
+            },
+            {
+              "front": "Hat",
+              "back": "adunay"
+            },
+            {
+              "front": "Belt",
+              "back": "bakos"
+            },
+            {
+              "front": "Socks",
+              "back": "medyas"
+            },
+            {
+              "front": "Shoes",
+              "back": "sapatos"
+            },
+            {
+              "front": "Boots",
+              "back": "botas"
+            },
+            {
+              "front": "Gloves",
+              "back": "gwantis"
+            },
+            {
+              "front": "Tie",
+              "back": "higot"
+            },
+            {
+              "front": "Swimsuit",
+              "back": "swimsuit"
+            },
+            {
+              "front": "Underwear",
+              "back": "underwear"
+            },
+            {
+              "front": "Nightgown",
+              "back": "sinina nga pangtulog"
+            },
+            {
+              "front": "Robe",
+              "back": "kupo"
+            },
+            {
+              "front": "Leggings",
+              "back": "leggings"
+            },
+            {
+              "front": "Overalls",
+              "back": "mga overall"
+            },
+            {
+              "front": "Capris",
+              "back": "capris"
+            },
+            {
+              "front": "Lingerie",
+              "back": "lingerie"
+            },
+            {
+              "front": "Slippers",
+              "back": "tsinelas"
+            },
+            {
+              "front": "Sandals",
+              "back": "mga sandal"
+            },
+            {
+              "front": "Mittens",
+              "back": "mga guwantes"
+            },
+            {
+              "front": "Pajamas",
+              "back": "pajama"
+            },
+            {
+              "front": "Tank top",
+              "back": "tank top"
+            },
+            {
+              "front": "Blazer",
+              "back": "blazer"
+            },
+            {
+              "front": "Culottes",
+              "back": "mga culottes"
+            },
+            {
+              "front": "Kimono",
+              "back": "kimono"
+            },
+            {
+              "front": "Bikini",
+              "back": "bikini"
+            },
+            {
+              "front": "Tracksuit",
+              "back": "tracksuit"
+            },
+            {
+              "front": "Bodysuit",
+              "back": "bodysuit"
+            },
+            {
+              "front": "Wrap",
+              "back": "putos"
+            },
+            {
+              "front": "Peacoat",
+              "back": "peacoat"
+            },
+            {
+              "front": "Trousers",
+              "back": "karsones"
+            },
+            {
+              "front": "Parka",
+              "back": "parke"
+            },
+            {
+              "front": "Chinos",
+              "back": "chinos"
+            },
+            {
+              "front": "Cardigan",
+              "back": "cardigan"
+            },
+            {
+              "front": "Kilt",
+              "back": "kilt"
+            },
+            {
+              "front": "Jumpsuit",
+              "back": "jumpsuit"
+            },
+            {
+              "front": "Fleece",
+              "back": "balhibo sa karnero"
+            },
+            {
+              "front": "Windbreaker",
+              "back": "windbreaker"
+            },
+            {
+              "front": "Anorak",
+              "back": "anorak"
+            },
+            {
+              "front": "Sundress",
+              "back": "sundress"
+            },
+            {
+              "front": "Skort",
+              "back": "kakulangon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "blue shirt",
+              "back": "asul nga kamiseta"
+            },
+            {
+              "front": "black pants",
+              "back": "itom nga pantalon"
+            },
+            {
+              "front": "red dress",
+              "back": "pula nga sinina"
+            },
+            {
+              "front": "striped skirt",
+              "back": "striped nga sayal"
+            },
+            {
+              "front": "cargo shorts",
+              "back": "cargo shorts"
+            },
+            {
+              "front": "leather jacket",
+              "back": "panit nga dyaket"
+            },
+            {
+              "front": "wool coat",
+              "back": "balhibo sa karnero"
+            },
+            {
+              "front": "knit sweater",
+              "back": "knit nga sweater"
+            },
+            {
+              "front": "silk blouse",
+              "back": "blusa nga seda"
+            },
+            {
+              "front": "graphic t-shirt",
+              "back": "graphic nga t-shirt"
+            },
+            {
+              "front": "fleece hoodie",
+              "back": "balhibo sa karnero nga hoodie"
+            },
+            {
+              "front": "denim jeans",
+              "back": "maong maong"
+            },
+            {
+              "front": "knit scarf",
+              "back": "hinabol nga scarf"
+            },
+            {
+              "front": "baseball hat",
+              "back": "adunay baseball"
+            },
+            {
+              "front": "canvas belt",
+              "back": "bakus sa canvas"
+            },
+            {
+              "front": "ankle socks",
+              "back": "medyas sa buolbuol"
+            },
+            {
+              "front": "running shoes",
+              "back": "running nga sapatos"
+            },
+            {
+              "front": "winter boots",
+              "back": "mga botas sa tingtugnaw"
+            },
+            {
+              "front": "wool gloves",
+              "back": "guwantes nga balhibo sa karnero"
+            },
+            {
+              "front": "silk tie",
+              "back": "higot nga seda"
+            },
+            {
+              "front": "bright swimsuit",
+              "back": "hayag nga swimsuit"
+            },
+            {
+              "front": "cotton underwear",
+              "back": "gapas nga underwear"
+            },
+            {
+              "front": "soft nightgown",
+              "back": "humok nga nightgown"
+            },
+            {
+              "front": "fluffy robe",
+              "back": "humok nga kupo"
+            },
+            {
+              "front": "black leggings",
+              "back": "itom nga leggings"
+            },
+            {
+              "front": "denim overalls",
+              "back": "denim overalls"
+            },
+            {
+              "front": "white capris",
+              "back": "puti nga capris"
+            },
+            {
+              "front": "lace lingerie",
+              "back": "lace nga lingerie"
+            },
+            {
+              "front": "comfy slippers",
+              "back": "komportable nga tsinelas"
+            },
+            {
+              "front": "strappy sandals",
+              "back": "strap nga sandal"
+            },
+            {
+              "front": "knitted mittens",
+              "back": "hinabol nga mga guwantes"
+            },
+            {
+              "front": "cozy pajamas",
+              "back": "komportable nga pajama"
+            },
+            {
+              "front": "sleek tank top",
+              "back": "matahum nga tank top"
+            },
+            {
+              "front": "tailored blazer",
+              "back": "gipaangay nga blazer"
+            },
+            {
+              "front": "casual culottes",
+              "back": "kaswal nga culottes"
+            },
+            {
+              "front": "colorful kimono",
+              "back": "kolor nga kimono"
+            },
+            {
+              "front": "stylish bikini",
+              "back": "estilo nga bikini"
+            },
+            {
+              "front": "matching tracksuit",
+              "back": "pareha nga tracksuit"
+            },
+            {
+              "front": "comfortable bodysuit",
+              "back": "komportable nga bodysuit"
+            },
+            {
+              "front": "fashionable wrap",
+              "back": "uso nga pambalot"
+            },
+            {
+              "front": "navy peacoat",
+              "back": "navy peacoat"
+            },
+            {
+              "front": "light trousers",
+              "back": "gaan nga pantalon"
+            },
+            {
+              "front": "heavy parka",
+              "back": "bug-at nga parke"
+            },
+            {
+              "front": "khaki chinos",
+              "back": "khaki nga chinos"
+            },
+            {
+              "front": "long cardigan",
+              "back": "taas nga cardigan"
+            },
+            {
+              "front": "plaid kilt",
+              "back": "plaid kilt"
+            },
+            {
+              "front": "stylish jumpsuit",
+              "back": "estilo nga jumpsuit"
+            },
+            {
+              "front": "warm fleece",
+              "back": "mainit nga balhibo sa karnero"
+            },
+            {
+              "front": "waterproof windbreaker",
+              "back": "waterproof nga windbreaker"
+            },
+            {
+              "front": "rainy anorak",
+              "back": "anorak nga amay"
+            },
+            {
+              "front": "flowy sundress",
+              "back": "nagdagayday nga sundress"
+            },
+            {
+              "front": "comfortable skort",
+              "back": "komportable nga shorts"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "My blue shirt",
+              "back": "akong blue shirt"
+            },
+            {
+              "front": "My warm sweater",
+              "back": "akong mainit nga sweater"
+            },
+            {
+              "front": "Her cute dress",
+              "back": "iyang cute nga sinina"
+            },
+            {
+              "front": "His red jacket",
+              "back": "iyang pula nga jacket"
+            },
+            {
+              "front": "Our new shoes",
+              "back": "among bag-ong sapatos"
+            },
+            {
+              "front": "Their cozy scarves",
+              "back": "ang ilang komportable nga mga bandana"
+            },
+            {
+              "front": "My black pants",
+              "back": "akong itom nga pantalon"
+            },
+            {
+              "front": "Her white blouse",
+              "back": "iyang puti nga blouse"
+            },
+            {
+              "front": "His leather boots",
+              "back": "iyang panit nga botas"
+            },
+            {
+              "front": "My yellow hat",
+              "back": "akong yellow nga kalo"
+            },
+            {
+              "front": "Your green socks",
+              "back": "imong berde nga medyas"
+            },
+            {
+              "front": "Her denim jeans",
+              "back": "iyang maong maong"
+            },
+            {
+              "front": "My plaid shirt",
+              "back": "akong plaid shirt"
+            },
+            {
+              "front": "His wool sweater",
+              "back": "iyang balhibo nga sweater"
+            },
+            {
+              "front": "Our stylish coats",
+              "back": "ang among estilo nga mga coat"
+            },
+            {
+              "front": "Their soft gloves",
+              "back": "ilang humok nga guwantis"
+            },
+            {
+              "front": "My warm boots",
+              "back": "akong mainit nga botas"
+            },
+            {
+              "front": "Your patterned scarf",
+              "back": "imong patterned scarf"
+            },
+            {
+              "front": "Her leather purse",
+              "back": "iyang panit nga pitaka"
+            },
+            {
+              "front": "His comfy hoodie",
+              "back": "iyang comfy hoodie"
+            },
+            {
+              "front": "My striped shirt",
+              "back": "akong striped shirt"
+            },
+            {
+              "front": "Her floral dress",
+              "back": "iyang sinina nga bulak"
+            },
+            {
+              "front": "Your fitted jeans",
+              "back": "imong fitted jeans"
+            },
+            {
+              "front": "His athletic shoes",
+              "back": "iyang athletic nga sapatos"
+            },
+            {
+              "front": "Our bright jackets",
+              "back": "among mga hayag nga jacket"
+            },
+            {
+              "front": "My old jeans",
+              "back": "akong daan nga maong"
+            },
+            {
+              "front": "His leather gloves",
+              "back": "iyang panit nga guwantis"
+            },
+            {
+              "front": "Her stylish boots",
+              "back": "ang iyang estilo nga botas"
+            },
+            {
+              "front": "My cozy hoodie",
+              "back": "akong komportable nga hoodie"
+            },
+            {
+              "front": "Your black belt",
+              "back": "imong black belt"
+            },
+            {
+              "front": "His soft hat",
+              "back": "iyang humok nga kalo"
+            },
+            {
+              "front": "Our casual shoes",
+              "back": "among kaswal nga sapatos"
+            },
+            {
+              "front": "Her colorful scarf",
+              "back": "iyang mabulukon nga bandana"
+            },
+            {
+              "front": "My checkered shirt",
+              "back": "akong checkered shirt"
+            },
+            {
+              "front": "His white t-shirt",
+              "back": "iyang puti nga t-shirt"
+            },
+            {
+              "front": "Her warm jacket",
+              "back": "iyang mainit nga jacket"
+            },
+            {
+              "front": "Your leather shoes",
+              "back": "imong panit nga sapatos"
+            },
+            {
+              "front": "My bright sweater",
+              "back": "akong hayag nga sweater"
+            },
+            {
+              "front": "Her long coat",
+              "back": "iyang taas nga coat"
+            },
+            {
+              "front": "His soft socks",
+              "back": "iyang humok nga medyas"
+            },
+            {
+              "front": "Our winter hats",
+              "back": "among mga kalo sa tingtugnaw"
+            },
+            {
+              "front": "Your floral blouse",
+              "back": "imong floral blouse"
+            },
+            {
+              "front": "My comfortable dress",
+              "back": "akong komportable nga sinina"
+            },
+            {
+              "front": "His tailored suit",
+              "back": "iyang gipahaom nga suit"
+            },
+            {
+              "front": "Her high heels",
+              "back": "iyang high heels"
+            },
+            {
+              "front": "My warm gloves",
+              "back": "akong mainit nga gwantes"
+            },
+            {
+              "front": "Their cozy sweaters",
+              "back": "ilang komportable nga mga suwiter"
+            },
+            {
+              "front": "Your denim jacket",
+              "back": "imong denim jacket"
+            },
+            {
+              "front": "His casual shirt",
+              "back": "iyang casual shirt"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My blue shirt fits",
+              "back": "mohaom ang akong blue shirt"
+            },
+            {
+              "front": "My warm sweater works",
+              "back": "ang akong mainit nga sweater nagtrabaho"
+            },
+            {
+              "front": "Her cute dress looks",
+              "back": "ang iyang cute nga sinina tan-awon"
+            },
+            {
+              "front": "His red jacket shines",
+              "back": "nagsidlak ang iyang pula nga dyaket"
+            },
+            {
+              "front": "Our new shoes shine",
+              "back": "ang among bag-ong sapatos nagsidlak"
+            },
+            {
+              "front": "Their cozy scarves warm",
+              "back": "mainiton ang ilang komportable nga mga bandana"
+            },
+            {
+              "front": "My black pants match",
+              "back": "pareha akong itom nga pantalon"
+            },
+            {
+              "front": "Her white blouse glows",
+              "back": "nagdan-ag ang iyang puti nga blouse"
+            },
+            {
+              "front": "His leather boots gleam",
+              "back": "naggilakgilak ang iyang panit nga botas"
+            },
+            {
+              "front": "My yellow hat shines",
+              "back": "nagdan-ag ang akong yellow nga kalo"
+            },
+            {
+              "front": "Your green socks match",
+              "back": "pareha imong green nga medyas"
+            },
+            {
+              "front": "Her denim jeans fit",
+              "back": "ang iyang maong maong angay"
+            },
+            {
+              "front": "My plaid shirt stirs",
+              "back": "nagkutaw ang akong plaid shirt"
+            },
+            {
+              "front": "His wool sweater works",
+              "back": "ang iyang balhibo nga sweater molihok"
+            },
+            {
+              "front": "Our stylish coats impress",
+              "back": "nakadayeg ang among mga istilo nga coat"
+            },
+            {
+              "front": "Their soft gloves warm",
+              "back": "init ang ilang humok nga gwantes"
+            },
+            {
+              "front": "My warm boots protect",
+              "back": "ang akong mainit nga botas nanalipod"
+            },
+            {
+              "front": "Your patterned scarf wraps",
+              "back": "imong patterned scarf wraps"
+            },
+            {
+              "front": "Her leather purse shines",
+              "back": "ang iyang panit nga pitaka nagsidlak"
+            },
+            {
+              "front": "His comfy hoodie comforts",
+              "back": "ang iyang komportable nga hoodie komportable"
+            },
+            {
+              "front": "My striped shirt fits",
+              "back": "mohaom ang akong striped shirt"
+            },
+            {
+              "front": "Her floral dress flows",
+              "back": "nagdagayday ang iyang bulak nga sinina"
+            },
+            {
+              "front": "Your fitted jeans hug",
+              "back": "imong fitted jeans nga gakos"
+            },
+            {
+              "front": "His athletic shoes fit",
+              "back": "ang iyang athletic nga sapatos angay"
+            },
+            {
+              "front": "Our bright jackets shine",
+              "back": "ang among mahayag nga mga dyaket nagdan-ag"
+            },
+            {
+              "front": "My old jeans fray",
+              "back": "akong karaan nga maong fray"
+            },
+            {
+              "front": "His leather gloves fit",
+              "back": "ang iyang mga gwantes nga panit angay"
+            },
+            {
+              "front": "Her stylish boots clink",
+              "back": "ang iyang estilo nga mga botas mikurog"
+            },
+            {
+              "front": "My cozy hoodie fits",
+              "back": "ang akong cozy hoodie mohaom"
+            },
+            {
+              "front": "Your black belt tightens",
+              "back": "naghugot ang imong black belt"
+            },
+            {
+              "front": "His soft hat rests",
+              "back": "ang iyang humok nga kalo nagpahulay"
+            },
+            {
+              "front": "Our casual shoes slip",
+              "back": "ang among kaswal nga sapatos nadula"
+            },
+            {
+              "front": "Her colorful scarf wraps",
+              "back": "giputos sa iyang mabulukon nga scarf"
+            },
+            {
+              "front": "My checkered shirt fits",
+              "back": "ang akong checkered shirt mohaum"
+            },
+            {
+              "front": "His white t-shirt fits",
+              "back": "ang iyang puti nga t-shirt mohaum"
+            },
+            {
+              "front": "Her warm jacket shields",
+              "back": "ang iyang mainit nga jacket nga taming"
+            },
+            {
+              "front": "Your leather shoes shine",
+              "back": "nagsidlak ang imong mga sapatos nga panit"
+            },
+            {
+              "front": "My bright sweater glows",
+              "back": "nagdan-ag ang akong hayag nga sweater"
+            },
+            {
+              "front": "Her long coat fits",
+              "back": "haom ang iyang taas nga coat"
+            },
+            {
+              "front": "His soft socks warm",
+              "back": "init ang iyang humok nga medyas"
+            },
+            {
+              "front": "Our winter hats protect",
+              "back": "ang atong mga kalo sa tingtugnaw manalipod"
+            },
+            {
+              "front": "Your floral blouse fits",
+              "back": "mohaom ang imong floral blouse"
+            },
+            {
+              "front": "My comfortable dress fits",
+              "back": "ang akong komportable nga sinina mohaum"
+            },
+            {
+              "front": "His tailored suit looks",
+              "back": "tan-awon ang iyang gipaangay nga suit"
+            },
+            {
+              "front": "Her high heels click",
+              "back": "ang iyang high heels click"
+            },
+            {
+              "front": "My warm gloves fit",
+              "back": "ang akong mainit nga gwantes mohaum"
+            },
+            {
+              "front": "Their cozy sweaters warm",
+              "back": "init ang ilang komportable nga mga suwiter"
+            },
+            {
+              "front": "Your denim jacket fits",
+              "back": "ang imong denim jacket mohaum"
+            },
+            {
+              "front": "His casual shirt fits",
+              "back": "ang iyang kaswal nga kamiseta mohaum"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My blue shirt fits perfectly",
+              "back": "ang akong asul nga kamiseta mohaum kaayo"
+            },
+            {
+              "front": "My warm sweater feels comfortable",
+              "back": "komportable ang akong mainit nga sweater"
+            },
+            {
+              "front": "Her cute dress looks amazing",
+              "back": "nindot tan-awon ang iyang cute nga sinina"
+            },
+            {
+              "front": "His red jacket looks stylish",
+              "back": "ang iyang pula nga dyaket tan-awon nga istilo"
+            },
+            {
+              "front": "Our new shoes fit well",
+              "back": "maayo ang among bag-ong sapatos"
+            },
+            {
+              "front": "Their cozy scarves keep warm",
+              "back": "ang ilang komportable nga mga bandana nagpainit"
+            },
+            {
+              "front": "My black pants are tight",
+              "back": "huot akong itom nga pantalon"
+            },
+            {
+              "front": "Her white blouse looks elegant",
+              "back": "elegante ang iyang white blouse"
+            },
+            {
+              "front": "His leather boots are sturdy",
+              "back": "lig-on ang iyang panit nga botas"
+            },
+            {
+              "front": "My yellow hat shines brightly",
+              "back": "ang akong dilaw nga kalo nagdan-ag nga hayag"
+            },
+            {
+              "front": "Your green socks look great",
+              "back": "nindot tan-awon ang imong berdeng medyas"
+            },
+            {
+              "front": "Her denim jeans fit perfectly",
+              "back": "haom kaayo ang iyang maong maong"
+            },
+            {
+              "front": "My plaid shirt matches well",
+              "back": "ang akong plaid shirt maayo kaayo"
+            },
+            {
+              "front": "His wool sweater feels soft",
+              "back": "humok ang iyang wool nga sweater"
+            },
+            {
+              "front": "Our stylish coats look fantastic",
+              "back": "Nindot tan-awon ang among istilo nga mga coat"
+            },
+            {
+              "front": "Their soft gloves keep warm",
+              "back": "ang ilang humok nga guwantis nagpainit"
+            },
+            {
+              "front": "My warm boots protect feet",
+              "back": "ang akong mainit nga botas nanalipod sa mga tiil"
+            },
+            {
+              "front": "Your patterned scarf looks beautiful",
+              "back": "nindot tan-awon ang imong patterned scarf"
+            },
+            {
+              "front": "Her leather purse holds everything",
+              "back": "ang iyang panit nga pitaka nagkupot sa tanan"
+            },
+            {
+              "front": "His comfy hoodie feels cozy",
+              "back": "ang iyang komportable nga hoodie gibati nga komportable"
+            },
+            {
+              "front": "My striped shirt feels soft",
+              "back": "humok ang akong striped shirt"
+            },
+            {
+              "front": "Her floral dress is stunning",
+              "back": "nindot ang iyang floral dress"
+            },
+            {
+              "front": "Your fitted jeans look great",
+              "back": "nindot tan-awon ang imong fitted jeans"
+            },
+            {
+              "front": "His athletic shoes are comfortable",
+              "back": "komportable ang iyang athletic nga sapatos"
+            },
+            {
+              "front": "Our bright jackets stand out",
+              "back": "ang among mahayag nga mga dyaket makita"
+            },
+            {
+              "front": "My old jeans are faded",
+              "back": "ang akong karaan nga maong kupas"
+            },
+            {
+              "front": "His leather gloves keep warm",
+              "back": "ang iyang panit nga guwantis nagpainit"
+            },
+            {
+              "front": "Her stylish boots are trendy",
+              "back": "uso ang iyang estilo nga botas"
+            },
+            {
+              "front": "My cozy hoodie fits perfectly",
+              "back": "ang akong cozy hoodie mohaum sa hingpit"
+            },
+            {
+              "front": "Your black belt matches well",
+              "back": "maayo ang imong black belt"
+            },
+            {
+              "front": "His soft hat keeps warm",
+              "back": "ang iyang humok nga kalo nagpainit"
+            },
+            {
+              "front": "Our casual shoes are comfy",
+              "back": "komportable ang among kaswal nga sapatos"
+            },
+            {
+              "front": "Her colorful scarf adds style",
+              "back": "ang iyang mabulukon nga scarf makadugang sa estilo"
+            },
+            {
+              "front": "My checkered shirt looks great",
+              "back": "nindot tan-awon ang akong checkered shirt"
+            },
+            {
+              "front": "His white t-shirt is fresh",
+              "back": "presko ang iyang puti nga t-shirt"
+            },
+            {
+              "front": "Her warm jacket keeps cozy",
+              "back": "ang iyang mainit nga jacket nagpabilin nga komportable"
+            },
+            {
+              "front": "Your leather shoes are polished",
+              "back": "gipasinaw ang imong panit nga sapatos"
+            },
+            {
+              "front": "My bright sweater feels soft",
+              "back": "humok ang akong hayag nga sweater"
+            },
+            {
+              "front": "Her long coat is perfect",
+              "back": "perpekto ang iyang taas nga coat"
+            },
+            {
+              "front": "His soft socks keep warm",
+              "back": "ang iyang humok nga medyas nagpainit"
+            },
+            {
+              "front": "Our winter hats are cozy",
+              "back": "komportable ang among mga kalo sa tingtugnaw"
+            },
+            {
+              "front": "Your floral blouse looks chic",
+              "back": "nindot tan-awon ang imong floral blouse"
+            },
+            {
+              "front": "My comfortable dress feels great",
+              "back": "nindot kaayo ang akong komportable nga sinina"
+            },
+            {
+              "front": "His tailored suit fits perfectly",
+              "back": "ang iyang gipahaom nga suit mohaum sa hingpit"
+            },
+            {
+              "front": "Her high heels are stylish",
+              "back": "istilo ang iyang taas nga tikod"
+            },
+            {
+              "front": "My warm gloves protect hands",
+              "back": "ang akong mainit nga gwantis nanalipod sa mga kamot"
+            },
+            {
+              "front": "Their cozy sweaters are soft",
+              "back": "humok ang ilang komportable nga mga suwiter"
+            },
+            {
+              "front": "Your denim jacket looks casual",
+              "back": "kaswal ang imong denim jacket"
+            },
+            {
+              "front": "His casual shirt fits comfortably",
+              "back": "komportable ang iyang kaswal nga kamiseta"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "shirt fits perfectly on my body",
+              "back": "Ang kamiseta mohaum kaayo sa akong lawas"
+            },
+            {
+              "front": "pants look great on you today",
+              "back": "nindot tan-awon ang karsones kanimo karon"
+            },
+            {
+              "front": "dress feels comfortable for every occasion",
+              "back": "Ang sinina komportable alang sa matag okasyon"
+            },
+            {
+              "front": "skirt sways gracefully with every step",
+              "back": "palda nindot nga nag-uyog sa matag lakang"
+            },
+            {
+              "front": "shorts are stylish for hot weather",
+              "back": "Ang mga shorts estaylis alang sa init nga panahon"
+            },
+            {
+              "front": "jacket keeps warm in chilly evenings",
+              "back": "ang dyaket magpabiling init sa tugnaw nga mga gabii"
+            },
+            {
+              "front": "coat protects against cold winter winds",
+              "back": "coat nanalipod batok sa bugnaw nga hangin sa tingtugnaw"
+            },
+            {
+              "front": "sweater feels cozy during cold nights",
+              "back": "Ang sweater komportable sa panahon sa bugnaw nga kagabhion"
+            },
+            {
+              "front": "blouse matches my favorite pair today",
+              "back": "blouse nga pareha sa akong paborito nga parisan karon"
+            },
+            {
+              "front": "graphic t-shirt shows my personality clearly",
+              "back": "Ang graphic nga t-shirt tin-aw nga nagpakita sa akong personalidad"
+            },
+            {
+              "front": "hoodie provides comfort during long travels",
+              "back": "Ang hoodie naghatag kahupayan sa taas nga pagbiyahe"
+            },
+            {
+              "front": "jeans fit well on my frame",
+              "back": "Ang maong maong haum kaayo sa akong frame"
+            },
+            {
+              "front": "knit scarf adds style to outfit",
+              "back": "Ang knit scarf nagdugang estilo sa outfit"
+            },
+            {
+              "front": "baseball hat completes my casual look",
+              "back": "Ang baseball hat nakakompleto sa akong kaswal nga hitsura"
+            },
+            {
+              "front": "canvas belt holds pants up securely",
+              "back": "ang canvas belt nagkupot sa karsones nga lig-on"
+            },
+            {
+              "front": "ankle socks keep feet warm always",
+              "back": "Ang mga medyas sa buolbuol makapainit kanunay sa mga tiil"
+            },
+            {
+              "front": "running shoes match my workout gear",
+              "back": "Ang mga sapatos nga nagdagan nahiangay sa akong gamit sa pag-ehersisyo"
+            },
+            {
+              "front": "winter boots look stylish and practical",
+              "back": "Ang mga botas sa tingtugnaw tan-awon nga estilo ug praktikal"
+            },
+            {
+              "front": "wool gloves keep hands warm during winter",
+              "back": "Ang mga guwantis nga balhibo makapainit sa mga kamot panahon sa tingtugnaw"
+            },
+            {
+              "front": "silk tie adds elegance to outfit",
+              "back": "Ang silk tie makadugang sa elegance sa outfit"
+            },
+            {
+              "front": "bright swimsuit fits perfectly at beach",
+              "back": "mahayag nga swimsuit mohaum sa hingpit sa baybayon"
+            },
+            {
+              "front": "cotton underwear feels soft against skin",
+              "back": "gapas underwear gibati humok batok sa panit"
+            },
+            {
+              "front": "nightgown is comfortable for sleeping well",
+              "back": "Ang nightgown komportable alang sa pagkatulog nga maayo"
+            },
+            {
+              "front": "fluffy robe feels luxurious every morning",
+              "back": "Ang humok nga kupo mobati nga maluho matag buntag"
+            },
+            {
+              "front": "black leggings provide great flexibility today",
+              "back": "Ang itom nga mga leggings naghatag og dako nga pagka-flexible karon"
+            },
+            {
+              "front": "denim overalls are quite practical for work",
+              "back": "Ang denim overalls praktikal kaayo alang sa trabaho"
+            },
+            {
+              "front": "white capris look fashionable in summer",
+              "back": "Ang puti nga capris tan-awon nga uso sa ting-init"
+            },
+            {
+              "front": "lace lingerie feels elegant and beautiful",
+              "back": "Ang lace lingerie mobati nga elegante ug matahum"
+            },
+            {
+              "front": "comfy slippers are perfect for relaxing",
+              "back": "Ang komportable nga mga tsinelas perpekto alang sa pagpahayahay"
+            },
+            {
+              "front": "strappy sandals are great for summer",
+              "back": "strappy sandals maayo alang sa ting-init"
+            },
+            {
+              "front": "knitted mittens protect hands from cold",
+              "back": "knitted mittens manalipod sa mga kamot gikan sa katugnaw"
+            },
+            {
+              "front": "cozy pajamas are perfect for relaxing",
+              "back": "Ang komportable nga pajama perpekto alang sa pagpahayahay"
+            },
+            {
+              "front": "sleek tank top is stylish for summer",
+              "back": "sleek tank top mao ang estilo alang sa ting-init"
+            },
+            {
+              "front": "tailored blazer looks professional for work",
+              "back": "Ang gipahaum nga blazer tan-awon nga propesyonal alang sa trabaho"
+            },
+            {
+              "front": "casual culottes are comfortable to wear",
+              "back": "Ang mga kaswal nga culottes komportable nga isul-ob"
+            },
+            {
+              "front": "colorful kimono adds flair to outfit",
+              "back": "Ang mabulukon nga kimono makadugang sa katahom sa outfit"
+            },
+            {
+              "front": "stylish bikini fits perfectly for beach",
+              "back": "Ang estilo nga bikini mohaum sa hingpit alang sa baybayon"
+            },
+            {
+              "front": "matching tracksuit is perfect for workouts",
+              "back": "Ang katugbang nga tracksuit perpekto alang sa pag-ehersisyo"
+            },
+            {
+              "front": "comfortable bodysuit hugs curves nicely today",
+              "back": "komportable nga bodysuit hugs curves nicely karon"
+            },
+            {
+              "front": "fashionable wrap enhances any outfit beautifully",
+              "back": "Ang uso nga pambalot makapauswag sa bisan unsang sinina nga matahum"
+            },
+            {
+              "front": "navy peacoat looks chic and warm",
+              "back": "navy peacoat tan-awon chic ug mainiton"
+            },
+            {
+              "front": "light trousers are great for summer",
+              "back": "Ang gaan nga pantalon maayo alang sa ting-init"
+            },
+            {
+              "front": "heavy parka protects from cold weather",
+              "back": "bug-at nga parke nanalipod gikan sa bugnaw nga panahon"
+            },
+            {
+              "front": "khaki chinos look polished and neat",
+              "back": "Ang khaki chinos tan-awon nga gipasinaw ug hapsay"
+            },
+            {
+              "front": "long cardigan layers nicely for warmth",
+              "back": "taas nga cardigan layer nga maayo alang sa kainit"
+            },
+            {
+              "front": "plaid kilt offers unique style always",
+              "back": "Ang plaid kilt nagtanyag kanunay nga talagsaon nga istilo"
+            },
+            {
+              "front": "jumpsuit simplifies getting dressed in mornings",
+              "back": "Ang jumpsuit nagpasimple sa pagsul-ob sa buntag"
+            },
+            {
+              "front": "warm fleece is perfect for winter",
+              "back": "Ang mainit nga balhibo sa karnero hingpit alang sa tingtugnaw"
+            },
+            {
+              "front": "waterproof windbreaker is great for rain",
+              "back": "Ang waterproof windbreaker maayo alang sa ulan"
+            },
+            {
+              "front": "rainy anorak protects from wet weather",
+              "back": "ulan anorak nanalipod gikan sa basa nga panahon"
+            },
+            {
+              "front": "flowy sundress is perfect for summer",
+              "back": "Ang flowy sundress perpekto alang sa ting-init"
+            },
+            {
+              "front": "comfortable skort allows freedom of movement",
+              "back": "komportable nga skort nagtugot sa kagawasan sa paglihok"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "shirt fit perfectly",
+              "back": "perpekto nga kamiseta"
+            },
+            {
+              "front": "pants looked great",
+              "back": "nindot tan-awon ang mga pantalon"
+            },
+            {
+              "front": "dress felt comfortable",
+              "back": "komportable ang sinina"
+            },
+            {
+              "front": "skirt swayed gracefully",
+              "back": "palda nga nag-uyog nga nindot"
+            },
+            {
+              "front": "shorts were stylish",
+              "back": "estilo ang mga shorts"
+            },
+            {
+              "front": "jacket kept warm",
+              "back": "dyaket nagpabiling init"
+            },
+            {
+              "front": "coat protected against cold",
+              "back": "coat nga gipanalipdan batok sa katugnaw"
+            },
+            {
+              "front": "sweater felt cozy",
+              "back": "komportable ang sweater"
+            },
+            {
+              "front": "blouse matched skirt",
+              "back": "blouse nga gipares nga sayal"
+            },
+            {
+              "front": "t-shirt showed personality",
+              "back": "t-shirt nagpakita ug personalidad"
+            },
+            {
+              "front": "hoodie provided comfort",
+              "back": "Ang hoodie naghatag kahupayan"
+            },
+            {
+              "front": "jeans fit well",
+              "back": "haum kaayo ang maong"
+            },
+            {
+              "front": "scarf added style",
+              "back": "scarf dugang nga estilo"
+            },
+            {
+              "front": "hat completed outfit",
+              "back": "kalo nga kompleto nga outfit"
+            },
+            {
+              "front": "belt held pants",
+              "back": "belt gigunitan nga pantalon"
+            },
+            {
+              "front": "socks kept feet warm",
+              "back": "ang mga medyas nagpainit sa mga tiil"
+            },
+            {
+              "front": "shoes matched dress",
+              "back": "sapatos nga gipares nga sinina"
+            },
+            {
+              "front": "boots looked fashionable",
+              "back": "uso tan-awon ang mga botas"
+            },
+            {
+              "front": "gloves kept hands warm",
+              "back": "guwantis nagpainit sa mga kamot"
+            },
+            {
+              "front": "tie added sophistication",
+              "back": "higot dugang nga pagkasopisyente"
+            },
+            {
+              "front": "swimsuit fit snugly",
+              "back": "Ang swimsuit mohaum sa husto"
+            },
+            {
+              "front": "underwear felt soft",
+              "back": "underwear gibati humok"
+            },
+            {
+              "front": "nightgown was comfortable",
+              "back": "komportable ang nightgown"
+            },
+            {
+              "front": "robe felt luxurious",
+              "back": "robe gibati maluho"
+            },
+            {
+              "front": "leggings provided flexibility",
+              "back": "leggings naghatag pagka-flexible"
+            },
+            {
+              "front": "overalls were practical",
+              "back": "ang mga overall kay praktikal"
+            },
+            {
+              "front": "capris looked fashionable",
+              "back": "uso si capris"
+            },
+            {
+              "front": "lingerie felt elegant",
+              "back": "lingerie gibati elegante"
+            },
+            {
+              "front": "slippers were cozy",
+              "back": "komportable ang mga tsinelas"
+            },
+            {
+              "front": "sandals kept feet cool",
+              "back": "ang mga sandalyas nagpabugnaw sa mga tiil"
+            },
+            {
+              "front": "mittens protected hands",
+              "back": "guwantes nga giprotektahan sa mga kamot"
+            },
+            {
+              "front": "pajamas felt soft",
+              "back": "humok ang pajama"
+            },
+            {
+              "front": "tank top looked great",
+              "back": "nindot tan-awon ang tank top"
+            },
+            {
+              "front": "blazer looked professional",
+              "back": "murag professional ang blazer"
+            },
+            {
+              "front": "culottes offered comfort",
+              "back": "Ang mga culottes naghatag kahupayan"
+            },
+            {
+              "front": "kimono added flair",
+              "back": "Ang kimono nakadugang sa kahinam"
+            },
+            {
+              "front": "bikini fit perfectly",
+              "back": "perpekto ang bikini"
+            },
+            {
+              "front": "tracksuit was comfortable",
+              "back": "komportable ang tracksuit"
+            },
+            {
+              "front": "bodysuit hugged curves",
+              "back": "bodysuit migakos sa mga kurba"
+            },
+            {
+              "front": "wrap enhanced look",
+              "back": "wrap gipalambo nga hitsura"
+            },
+            {
+              "front": "peacoat kept warm",
+              "back": "peacoat gipainit"
+            },
+            {
+              "front": "trousers fit well",
+              "back": "maayo ang karsones"
+            },
+            {
+              "front": "parka protected from rain",
+              "back": "parka nga gipanalipdan gikan sa ulan"
+            },
+            {
+              "front": "chinos looked polished",
+              "back": "chinos daw pinasinaw"
+            },
+            {
+              "front": "cardigan layered nicely",
+              "back": "nindot nga layered ang cardigan"
+            },
+            {
+              "front": "kilt offered uniqueness",
+              "back": "kilt nga gitanyag uniqueness"
+            },
+            {
+              "front": "jumpsuit simplified dressing",
+              "back": "jumpsuit nga gipasimple nga pagsinina"
+            },
+            {
+              "front": "fleece provided warmth",
+              "back": "balhibo sa karnero naghatag kainit"
+            },
+            {
+              "front": "windbreaker was great",
+              "back": "nindot kaayo ang windbreaker"
+            },
+            {
+              "front": "anorak protected me",
+              "back": "giprotektahan ko ni anorak"
+            },
+            {
+              "front": "sundress was perfect",
+              "back": "perpekto ang sundress"
+            },
+            {
+              "front": "skort allowed movement",
+              "back": "skort gitugotan sa paglihok"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "He wore clean pants",
+              "back": "nagsul-ob siya og limpyo nga karsones"
+            },
+            {
+              "front": "She washed a dress",
+              "back": "nanglaba siyag sinina"
+            },
+            {
+              "front": "They bought new shoes",
+              "back": "nagpalit sila ug bag-ong sapatos"
+            },
+            {
+              "front": "They had dirty jackets",
+              "back": "sila adunay hugaw nga mga jacket"
+            },
+            {
+              "front": "I wore warm boots",
+              "back": "nagsul-ob kog init nga botas"
+            },
+            {
+              "front": "He wore a sweater",
+              "back": "nagsuot siya ug sweater"
+            },
+            {
+              "front": "She wore a blouse",
+              "back": "nag blouse siya"
+            },
+            {
+              "front": "We bought stylish coats",
+              "back": "mipalit mig estilo nga mga coat"
+            },
+            {
+              "front": "His jeans were tight",
+              "back": "hugot ang iyang maong"
+            },
+            {
+              "front": "My hat was yellow",
+              "back": "yellow ang akong kalo"
+            },
+            {
+              "front": "Her dress was beautiful",
+              "back": "nindot ang iyang sinina"
+            },
+            {
+              "front": "They wore soft gloves",
+              "back": "nagsul-ob sila ug humok nga guwantis"
+            },
+            {
+              "front": "We wore black shoes",
+              "back": "nagsuot mi ug itom nga sapatos"
+            },
+            {
+              "front": "She wore warm socks",
+              "back": "nagsul-ob siyag init nga medyas"
+            },
+            {
+              "front": "His boots were dirty",
+              "back": "hugaw ang iyang botas"
+            },
+            {
+              "front": "They had leather belts",
+              "back": "sila adunay mga bakus nga panit"
+            },
+            {
+              "front": "He wore plaid shirts",
+              "back": "nagsul-ob siyag plaid shirts"
+            },
+            {
+              "front": "I had cozy scarves",
+              "back": "Ako adunay komportable nga mga scarves"
+            },
+            {
+              "front": "Her jacket was colorful",
+              "back": "colorful ang iyang jacket"
+            },
+            {
+              "front": "We wore denim jeans",
+              "back": "nagsul-ob kami og maong nga maong"
+            },
+            {
+              "front": "His pants were ripped",
+              "back": "gisi ang iyang karsones"
+            },
+            {
+              "front": "I bought new boots",
+              "back": "mipalit kog bag-ong botas"
+            },
+            {
+              "front": "She wore fitted jeans",
+              "back": "nagsuot siya og fitted jeans"
+            },
+            {
+              "front": "We had warm sweaters",
+              "back": "kami adunay mainit nga mga suwiter"
+            },
+            {
+              "front": "His shirt was white",
+              "back": "puti ang iyang kamiseta"
+            },
+            {
+              "front": "My gloves were soft",
+              "back": "humok ang akong gwantis"
+            },
+            {
+              "front": "They wore bright jackets",
+              "back": "nagsul-ob sila og mahayag nga mga jacket"
+            },
+            {
+              "front": "Her shoes were comfortable",
+              "back": "komportable ang iyang sapatos"
+            },
+            {
+              "front": "I bought a coat",
+              "back": "mipalit kog coat"
+            },
+            {
+              "front": "We wore leather shoes",
+              "back": "nagsul-ob kami og panit nga sapatos"
+            },
+            {
+              "front": "He had clean socks",
+              "back": "siya adunay limpyo nga medyas"
+            },
+            {
+              "front": "They wore casual shirts",
+              "back": "nagsul-ob silag kaswal nga kamiseta"
+            },
+            {
+              "front": "I wore a hoodie",
+              "back": "nag hoodie ko"
+            },
+            {
+              "front": "She bought new boots",
+              "back": "nipalit siya ug bag-ong botas"
+            },
+            {
+              "front": "His jacket was stylish",
+              "back": "istilo ang iyang jacket"
+            },
+            {
+              "front": "We wore colorful scarves",
+              "back": "nagsul-ob kami ug lainlaig kolor nga mga bandana"
+            },
+            {
+              "front": "They bought denim jackets",
+              "back": "nagpalit sila ug denim jackets"
+            },
+            {
+              "front": "My pants were comfortable",
+              "back": "komportable ang akong karsones"
+            },
+            {
+              "front": "I wore a hat",
+              "back": "nagsul-ob kog kalo"
+            },
+            {
+              "front": "They had leather jackets",
+              "back": "naa silay mga leather jacket"
+            },
+            {
+              "front": "Her boots were shiny",
+              "back": "sinaw ang iyang botas"
+            },
+            {
+              "front": "We wore soft gloves",
+              "back": "nagsul-ob kami ug humok nga guwantis"
+            },
+            {
+              "front": "His shoes were polished",
+              "back": "gipasinaw ang iyang sapatos"
+            },
+            {
+              "front": "I had new shoes",
+              "back": "naa koy bag-ong sapatos"
+            },
+            {
+              "front": "They wore matching scarves",
+              "back": "nagsul-ob silag matching scarves"
+            },
+            {
+              "front": "We had leather purses",
+              "back": "kami adunay panit nga mga pitaka"
+            },
+            {
+              "front": "Her jacket was warm",
+              "back": "init ang iyang jacket"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "He tied his shoes tight",
+              "back": "gihigot niyag maayo ang iyang sapatos"
+            },
+            {
+              "front": "She wore a nice dress",
+              "back": "nagsul-ob siya og nindot nga sinina"
+            },
+            {
+              "front": "His gloves made him warm",
+              "back": "ang iyang mga gwantis nakapainit kaniya"
+            },
+            {
+              "front": "They bought new shoes yesterday",
+              "back": "nipalit silag bag-ong sapatos gahapon"
+            },
+            {
+              "front": "I wore my new jacket",
+              "back": "Gisul-ob nako ang akong bag-ong jacket"
+            },
+            {
+              "front": "She wore a colorful scarf",
+              "back": "nagsul-ob siyag mabulukon nga scarf"
+            },
+            {
+              "front": "His boots kept him warm",
+              "back": "ang iyang botas nagpainit kaniya"
+            },
+            {
+              "front": "We wore our comfortable jeans",
+              "back": "gisul-ob namo ang among komportable nga maong"
+            },
+            {
+              "front": "They wore leather jackets today",
+              "back": "nagsul-ob sila og mga panit nga jacket karon"
+            },
+            {
+              "front": "My shirt fit perfectly today",
+              "back": "ang akong kamiseta maayo kaayo karon"
+            },
+            {
+              "front": "Her sweater was really cozy",
+              "back": "nindot kaayo iyang sweater"
+            },
+            {
+              "front": "His pants looked too tight",
+              "back": "huot kaayo ang iyang karsones"
+            },
+            {
+              "front": "I bought new gloves today",
+              "back": "Nagpalit ako bag-ong gwantes karon"
+            },
+            {
+              "front": "She wore a black dress",
+              "back": "nagsul-ob siya og itom nga sinina"
+            },
+            {
+              "front": "Their shoes were very stylish",
+              "back": "estilo kaayo ang ilang mga sapatos"
+            },
+            {
+              "front": "He wore a wool sweater",
+              "back": "nagsul-ob siyag wool nga sweater"
+            },
+            {
+              "front": "I tied my shoes tight",
+              "back": "gihigot nako pag ayo akong sapatos"
+            },
+            {
+              "front": "Her coat was very warm",
+              "back": "init kaayo ang iyang coat"
+            },
+            {
+              "front": "My socks were warm today",
+              "back": "init ang akong medyas karon"
+            },
+            {
+              "front": "They wore jackets in winter",
+              "back": "nagsul-ob sila og mga jacket sa tingtugnaw"
+            },
+            {
+              "front": "His hoodie fit perfectly today",
+              "back": "haom kaayo ang iyang hoodie karon"
+            },
+            {
+              "front": "Her gloves kept her warm",
+              "back": "ang iyang mga gwantis nagpainit kaniya"
+            },
+            {
+              "front": "I wore new boots today",
+              "back": "Nagsul-ob kog bag-ong botas karon"
+            },
+            {
+              "front": "They wore matching scarves today",
+              "back": "nagsul-ob sila ug matching scarves karon"
+            },
+            {
+              "front": "His t-shirt fit snugly today",
+              "back": "haom kaayo ang iyang t-shirt karon"
+            },
+            {
+              "front": "My jeans fit too tight",
+              "back": "hugot kaayo ang akong maong"
+            },
+            {
+              "front": "Her boots looked very stylish",
+              "back": "ang iyang botas tan-awon nga estilo kaayo"
+            },
+            {
+              "front": "We bought new hats today",
+              "back": "mipalit mi ug bag-ong kalo karon"
+            },
+            {
+              "front": "He wore a bright jacket",
+              "back": "nagsul-ob siyag hayag nga jacket"
+            },
+            {
+              "front": "She bought new shoes today",
+              "back": "nipalit siya ug bag-ong sapatos karon"
+            },
+            {
+              "front": "My sweater kept me warm",
+              "back": "ang akong sweater nagpainit kanako"
+            },
+            {
+              "front": "They wore warm jackets today",
+              "back": "nagsul-ob sila og mainit nga mga jacket karon"
+            },
+            {
+              "front": "His gloves felt very soft",
+              "back": "humok kaayo ang iyang mga gwantis"
+            },
+            {
+              "front": "I wore a striped shirt",
+              "back": "nagsul-ob kog striped shirt"
+            },
+            {
+              "front": "Her coat kept her warm",
+              "back": "ang iyang kupo nagpainit kaniya"
+            },
+            {
+              "front": "We wore hats in winter",
+              "back": "nagsul-ob kami og kalo sa tingtugnaw"
+            },
+            {
+              "front": "My boots kept me dry",
+              "back": "ang akong botas nagpabilin kanako nga uga"
+            },
+            {
+              "front": "They bought jackets yesterday",
+              "back": "nagpalit silag mga jacket gahapon"
+            },
+            {
+              "front": "His pants looked too big",
+              "back": "dako kaayo iyang pantalon"
+            },
+            {
+              "front": "I bought leather gloves today",
+              "back": "nagpalit ko ug mga gwantes nga panit karon"
+            },
+            {
+              "front": "She wore a bright dress",
+              "back": "nagsul-ob siya og hayag nga sinina"
+            },
+            {
+              "front": "We wore scarves in winter",
+              "back": "nagsul-ob kami og mga bandana sa tingtugnaw"
+            },
+            {
+              "front": "His shirt fit perfectly today",
+              "back": "haom kaayo ang iyang kamiseta karon"
+            },
+            {
+              "front": "I wore a new hat",
+              "back": "nagsul-ob kog bag-ong kalo"
+            },
+            {
+              "front": "Her boots fit perfectly today",
+              "back": "haom kaayo ang iyang botas karon"
+            },
+            {
+              "front": "They bought stylish jackets today",
+              "back": "nagpalit silag mga istilo nga dyaket karon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "He tied his shoes tight today",
+              "back": "gihigot niyag maayo ang iyang sapatos karon"
+            },
+            {
+              "front": "She wore a nice dress yesterday",
+              "back": "nagsul-ob siya og nindot nga sinina kagahapon"
+            },
+            {
+              "front": "His gloves made him warm today",
+              "back": "ang iyang mga gwantis nakapainit niya karon"
+            },
+            {
+              "front": "They bought new shoes yesterday afternoon",
+              "back": "nipalit silag bag-ong sapatos gahapon sa hapon"
+            },
+            {
+              "front": "I wore my new jacket today",
+              "back": "Gisul-ob nako ang akong bag-ong jacket karon"
+            },
+            {
+              "front": "She wore a colorful scarf today",
+              "back": "nagsul-ob siya og mabulukon nga scarf karon"
+            },
+            {
+              "front": "His boots kept him warm all day",
+              "back": "ang iyang botas nagpainit kaniya sa tibuok adlaw"
+            },
+            {
+              "front": "We wore our comfortable jeans today",
+              "back": "nagsul-ob kami sa among komportable nga maong karon"
+            },
+            {
+              "front": "They wore leather jackets all day",
+              "back": "nagsul-ob silag panit nga mga dyaket tibuok adlaw"
+            },
+            {
+              "front": "My shirt fit perfectly this morning",
+              "back": "ang akong kamiseta maayo kaayo karong buntaga"
+            },
+            {
+              "front": "Her sweater was really cozy today",
+              "back": "nindot kaayo iyang sweater karon"
+            },
+            {
+              "front": "His pants looked too tight today",
+              "back": "huot kaayo ang iyang karsones karon"
+            },
+            {
+              "front": "I bought new gloves this morning",
+              "back": "Nagpalit ako bag-ong gwantes karong buntag"
+            },
+            {
+              "front": "She wore a black dress today",
+              "back": "nagsul-ob siya og itom nga sinina karon"
+            },
+            {
+              "front": "Their shoes were very stylish today",
+              "back": "estilo kaayo ang ilang mga sapatos karon"
+            },
+            {
+              "front": "He wore a wool sweater today",
+              "back": "nagsuot siya ug wool nga sweater karon"
+            },
+            {
+              "front": "I tied my shoes tight today",
+              "back": "Gihigot nako ang akong sapatos karon"
+            },
+            {
+              "front": "Her coat was very warm today",
+              "back": "init kaayo ang iyang coat karon"
+            },
+            {
+              "front": "My socks were warm this morning",
+              "back": "init ang akong medyas karong buntaga"
+            },
+            {
+              "front": "They wore jackets in winter time",
+              "back": "nagsul-ob sila og mga jacket sa panahon sa tingtugnaw"
+            },
+            {
+              "front": "His hoodie fit perfectly today",
+              "back": "haom kaayo ang iyang hoodie karon"
+            },
+            {
+              "front": "Her gloves kept her warm today",
+              "back": "ang iyang mga gwantis nagpainit kaniya karon"
+            },
+            {
+              "front": "I wore new boots today",
+              "back": "Nagsul-ob kog bag-ong botas karon"
+            },
+            {
+              "front": "They wore matching scarves today",
+              "back": "nagsul-ob sila ug matching scarves karon"
+            },
+            {
+              "front": "His t-shirt fit snugly today",
+              "back": "haom kaayo ang iyang t-shirt karon"
+            },
+            {
+              "front": "My jeans fit too tight today",
+              "back": "huot kaayo ang akong maong karon"
+            },
+            {
+              "front": "Her boots looked very stylish today",
+              "back": "ang iyang botas tan-awon nga istilo kaayo karon"
+            },
+            {
+              "front": "We bought new hats today",
+              "back": "mipalit mi ug bag-ong kalo karon"
+            },
+            {
+              "front": "He wore a bright jacket today",
+              "back": "nagsul-ob siyag hayag nga jacket karon"
+            },
+            {
+              "front": "She bought new shoes today",
+              "back": "nagpalit siya ug bag-ong sapatos karon"
+            },
+            {
+              "front": "My sweater kept me warm today",
+              "back": "ang akong sweater nagpainit kanako karon"
+            },
+            {
+              "front": "They wore warm jackets today",
+              "back": "nagsul-ob sila og mainit nga mga jacket karon"
+            },
+            {
+              "front": "His gloves felt very soft today",
+              "back": "humok kaayo ang iyang gwantis karon"
+            },
+            {
+              "front": "I wore a striped shirt today",
+              "back": "nagsul-ob kog striped shirt karon"
+            },
+            {
+              "front": "Her coat kept her warm today",
+              "back": "ang iyang kupo nagpainit kaniya karon"
+            },
+            {
+              "front": "We wore hats in winter",
+              "back": "nagsul-ob kami og kalo sa tingtugnaw"
+            },
+            {
+              "front": "My boots kept me dry today",
+              "back": "ang akong botas nagpauga kanako karon"
+            },
+            {
+              "front": "They bought jackets yesterday afternoon",
+              "back": "nipalit silag jacket gahapon sa hapon"
+            },
+            {
+              "front": "His pants looked too big today",
+              "back": "dako kaayo ang iyang karsones karon"
+            },
+            {
+              "front": "I bought leather gloves today",
+              "back": "nagpalit ko ug mga gwantes nga panit karon"
+            },
+            {
+              "front": "She wore a bright dress today",
+              "back": "nagsul-ob siya og hayag nga sinina karon"
+            },
+            {
+              "front": "We wore scarves in winter",
+              "back": "nagsul-ob kami og mga bandana sa tingtugnaw"
+            },
+            {
+              "front": "His shirt fit perfectly today",
+              "back": "haom kaayo ang iyang kamiseta karon"
+            },
+            {
+              "front": "I wore a new hat today",
+              "back": "nagsul-ob kog bag-ong kalo karon"
+            },
+            {
+              "front": "Her boots fit perfectly today",
+              "back": "haom kaayo ang iyang botas karon"
+            },
+            {
+              "front": "They bought stylish jackets today",
+              "back": "nagpalit silag mga istilo nga dyaket karon"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "bikini will fit",
+              "back": "ang bikini mohaum"
+            },
+            {
+              "front": "shirt will shrink",
+              "back": "mogamay ang kamiseta"
+            },
+            {
+              "front": "dress will flow",
+              "back": "modagayday ang sinina"
+            },
+            {
+              "front": "pants will stretch",
+              "back": "karsones moinat"
+            },
+            {
+              "front": "skirt will twirl",
+              "back": "palda magtuyok"
+            },
+            {
+              "front": "jacket will keep",
+              "back": "ang dyaket magpabilin"
+            },
+            {
+              "front": "coat will protect",
+              "back": "coat manalipod"
+            },
+            {
+              "front": "sweater will warm",
+              "back": "ang sweater moinit"
+            },
+            {
+              "front": "blouse will match",
+              "back": "maparehas ang blusa"
+            },
+            {
+              "front": "t-shirt will look",
+              "back": "tan-awon ang t-shirt"
+            },
+            {
+              "front": "hoodie will comfort",
+              "back": "ang hoodie makahupay"
+            },
+            {
+              "front": "jeans will fade",
+              "back": "ang maong molubad"
+            },
+            {
+              "front": "scarf will accessorize",
+              "back": "Ang scarf mahimong accessorize"
+            },
+            {
+              "front": "hat will shade",
+              "back": "kalo mo-shade"
+            },
+            {
+              "front": "belt will hold",
+              "back": "ang bakus mogunit"
+            },
+            {
+              "front": "socks will cushion",
+              "back": "ang mga medyas mag-unan"
+            },
+            {
+              "front": "shoes will support",
+              "back": "ang mga sapatos mosuporta"
+            },
+            {
+              "front": "boots will protect",
+              "back": "ang mga botas manalipod"
+            },
+            {
+              "front": "gloves will warm",
+              "back": "ang mga gwantis magpainit"
+            },
+            {
+              "front": "tie will complete",
+              "back": "makompleto ang higot"
+            },
+            {
+              "front": "swimsuit will fit",
+              "back": "ang swimsuit mohaum"
+            },
+            {
+              "front": "underwear will comfort",
+              "back": "ang underwear makahupay"
+            },
+            {
+              "front": "nightgown will relax",
+              "back": "mag-relax ang nightgown"
+            },
+            {
+              "front": "robe will wrap",
+              "back": "kupo iputos"
+            },
+            {
+              "front": "leggings will stretch",
+              "back": "leggings moinat"
+            },
+            {
+              "front": "overalls will fit",
+              "back": "ang mga overall mohaum"
+            },
+            {
+              "front": "capris will flatter",
+              "back": "maulog-ulog si capris"
+            },
+            {
+              "front": "lingerie will excite",
+              "back": "ang lingerie makapahinam"
+            },
+            {
+              "front": "slippers will relax",
+              "back": "ang mga tsinelas makarelaks"
+            },
+            {
+              "front": "sandals will breathe",
+              "back": "makaginhawa ang mga sandal"
+            },
+            {
+              "front": "mittens will shield",
+              "back": "ang mga guwantes manalipod"
+            },
+            {
+              "front": "pajamas will comfort",
+              "back": "ang pajama makapahupay"
+            },
+            {
+              "front": "tank top will flatter",
+              "back": "ang tank top mo-flatter"
+            },
+            {
+              "front": "blazer will elevate",
+              "back": "motaas ang blazer"
+            },
+            {
+              "front": "culottes will drape",
+              "back": "ang mga culottes mag-drape"
+            },
+            {
+              "front": "kimono will flow",
+              "back": "modagayday ang kimono"
+            },
+            {
+              "front": "tracksuit will fit",
+              "back": "ang tracksuit mohaum"
+            },
+            {
+              "front": "bodysuit will hug",
+              "back": "bodysuit mogakos"
+            },
+            {
+              "front": "wrap will style",
+              "back": "pagputos sa estilo"
+            },
+            {
+              "front": "peacoat will warm",
+              "back": "ang peacoat magpainit"
+            },
+            {
+              "front": "trousers will fit",
+              "back": "mohaom ang mga karsones"
+            },
+            {
+              "front": "parka will shield",
+              "back": "parka nga panagang"
+            },
+            {
+              "front": "chinos will style",
+              "back": "mag-istilo ang mga chinos"
+            },
+            {
+              "front": "cardigan will layer",
+              "back": "mag-layer ang cardigan"
+            },
+            {
+              "front": "jumpsuit will simplify",
+              "back": "ang jumpsuit mopasimple"
+            },
+            {
+              "front": "fleece will insulate",
+              "back": "balhibo sa karnero insulate"
+            },
+            {
+              "front": "windbreaker will protect",
+              "back": "windbreaker manalipod"
+            },
+            {
+              "front": "anorak will shield",
+              "back": "anorak ang panagang"
+            },
+            {
+              "front": "sundress will flatter",
+              "back": "ang sundress mahimong maulog-ulog"
+            },
+            {
+              "front": "skort will move",
+              "back": "maglihok si skort"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "She will wear shoes",
+              "back": "magsapatos siya"
+            },
+            {
+              "front": "His jacket will fit",
+              "back": "mohaom ang iyang jacket"
+            },
+            {
+              "front": "Their shoes will run",
+              "back": "modagan ang ilang mga sapatos"
+            },
+            {
+              "front": "I will wear boots",
+              "back": "magsul-ob kog botas"
+            },
+            {
+              "front": "Her dress will shine",
+              "back": "mosidlak ang iyang sinina"
+            },
+            {
+              "front": "We will buy shoes",
+              "back": "mamalit mig sapatos"
+            },
+            {
+              "front": "Your sweater will stretch",
+              "back": "moinat ang imong sweater"
+            },
+            {
+              "front": "He will wear a coat",
+              "back": "magsul-ob siyag kupo"
+            },
+            {
+              "front": "My boots will shine",
+              "back": "mosidlak ang akong botas"
+            },
+            {
+              "front": "She will wear gloves",
+              "back": "mag gloves siya"
+            },
+            {
+              "front": "Their jacket will fit",
+              "back": "mohaum ang ilang jacket"
+            },
+            {
+              "front": "We will buy jackets",
+              "back": "mupalit mi ug jacket"
+            },
+            {
+              "front": "His shoes will match",
+              "back": "motakdo ang iyang sapatos"
+            },
+            {
+              "front": "I will wear socks",
+              "back": "mag medyas ko"
+            },
+            {
+              "front": "Her shirt will wrinkle",
+              "back": "mangunot ang iyang kamiseta"
+            },
+            {
+              "front": "You will wear jeans",
+              "back": "mag-jeans ka"
+            },
+            {
+              "front": "We will buy pants",
+              "back": "mamalit mig karsones"
+            },
+            {
+              "front": "He will wear sneakers",
+              "back": "mag-sneakers siya"
+            },
+            {
+              "front": "My coat will keep warm",
+              "back": "ang akong kupo magpainit"
+            },
+            {
+              "front": "Their boots will fit",
+              "back": "mohaum ang ilang mga botas"
+            },
+            {
+              "front": "She will wear scarves",
+              "back": "magsul-ob siyag scarves"
+            },
+            {
+              "front": "I will wear a hat",
+              "back": "magsul-ob kog kalo"
+            },
+            {
+              "front": "We will buy shoes",
+              "back": "mamalit mig sapatos"
+            },
+            {
+              "front": "Her pants will stretch",
+              "back": "moinat ang iyang karsones"
+            },
+            {
+              "front": "His gloves will warm",
+              "back": "ang iyang mga gwantis moinit"
+            },
+            {
+              "front": "My shirt will wrinkle",
+              "back": "mangunot ang akong kamiseta"
+            },
+            {
+              "front": "Their coat will fit",
+              "back": "mohaum ang ilang kupo"
+            },
+            {
+              "front": "We will wear hats",
+              "back": "magsul-ob mig kalo"
+            },
+            {
+              "front": "You will wear boots",
+              "back": "magsul-ob ka ug botas"
+            },
+            {
+              "front": "His socks will match",
+              "back": "ang iyang medyas motakdo"
+            },
+            {
+              "front": "Her gloves will keep warm",
+              "back": "ang iyang mga gwantis magpainit"
+            },
+            {
+              "front": "We will wear jackets",
+              "back": "mag jacket mi"
+            },
+            {
+              "front": "Their shoes will sparkle",
+              "back": "mokidlap ang ilang mga sapatos"
+            },
+            {
+              "front": "She will wear a sweater",
+              "back": "magsul-ob siya ug sweater"
+            },
+            {
+              "front": "I will wear jeans",
+              "back": "mag-jeans ko"
+            },
+            {
+              "front": "My boots will shine",
+              "back": "mosidlak ang akong botas"
+            },
+            {
+              "front": "We will wear scarves",
+              "back": "magsul-ob mig bandana"
+            },
+            {
+              "front": "His shirt will match",
+              "back": "maparehas ang iyang kamiseta"
+            },
+            {
+              "front": "Her jacket will protect",
+              "back": "ang iyang jacket manalipod"
+            },
+            {
+              "front": "I will wear dress",
+              "back": "magsul-ob kog sinina"
+            },
+            {
+              "front": "My hat will fit",
+              "back": "mohaom ang akong kalo"
+            },
+            {
+              "front": "Their shoes will fit",
+              "back": "ang ilang mga sapatos mohaum"
+            },
+            {
+              "front": "You will wear gloves",
+              "back": "mag gwantes ka"
+            },
+            {
+              "front": "We will wear shoes",
+              "back": "magsapatos mi"
+            },
+            {
+              "front": "She will wear a coat",
+              "back": "magsul-ob siya ug kupo"
+            },
+            {
+              "front": "His pants will fit",
+              "back": "mohaom ang iyang karsones"
+            },
+            {
+              "front": "My shirt will fit",
+              "back": "mohaom ang akong kamiseta"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "She will wear new shoes",
+              "back": "magsul-ob siya ug bag-ong sapatos"
+            },
+            {
+              "front": "His jacket will fit perfectly",
+              "back": "mohaom gyud ang iyang jacket"
+            },
+            {
+              "front": "Their shoes will run fast",
+              "back": "paspas nga modagan ang ilang mga sapatos"
+            },
+            {
+              "front": "I will wear my boots",
+              "back": "akong isul-ob ang akong botas"
+            },
+            {
+              "front": "Her dress will shine brightly",
+              "back": "ang iyang sinina mosidlak pag-ayo"
+            },
+            {
+              "front": "We will buy new shoes",
+              "back": "mamalit mi ug bag-ong sapatos"
+            },
+            {
+              "front": "Your sweater will stretch nicely",
+              "back": "nindot ang imong sweater"
+            },
+            {
+              "front": "He will wear a coat",
+              "back": "magsul-ob siyag kupo"
+            },
+            {
+              "front": "My boots will shine tomorrow",
+              "back": "mosidlak ang akong botas ugma"
+            },
+            {
+              "front": "She will wear warm gloves",
+              "back": "magsul-ob siyag mainit nga guwantis"
+            },
+            {
+              "front": "Their jacket will fit perfectly",
+              "back": "ang ilang dyaket mohaum sa hingpit"
+            },
+            {
+              "front": "We will buy jackets soon",
+              "back": "mamalit mi ug jacket"
+            },
+            {
+              "front": "His shoes will match well",
+              "back": "maayo ang iyang sapatos"
+            },
+            {
+              "front": "I will wear thick socks",
+              "back": "magsul-ob kog baga nga medyas"
+            },
+            {
+              "front": "Her shirt will wrinkle quickly",
+              "back": "daling mangunot ang iyang kamiseta"
+            },
+            {
+              "front": "You will wear blue jeans",
+              "back": "magsul-ob ka og blue jeans"
+            },
+            {
+              "front": "We will buy new pants",
+              "back": "mamalit mi ug bag-ong karsones"
+            },
+            {
+              "front": "He will wear sneakers daily",
+              "back": "mag-sneakers siya kada adlaw"
+            },
+            {
+              "front": "My coat will keep me warm",
+              "back": "ang akong kupo magpainit kanako"
+            },
+            {
+              "front": "Their boots will fit perfectly",
+              "back": "ang ilang mga botas mohaum sa hingpit"
+            },
+            {
+              "front": "She will wear scarves often",
+              "back": "kanunay siyang magsul-ob ug mga bandana"
+            },
+            {
+              "front": "I will wear a hat",
+              "back": "magsul-ob kog kalo"
+            },
+            {
+              "front": "We will buy more shoes",
+              "back": "mamalit ta ug sapatos"
+            },
+            {
+              "front": "Her pants will stretch comfortably",
+              "back": "komportable ang iyang karsones"
+            },
+            {
+              "front": "His gloves will warm him",
+              "back": "ang iyang mga gwantis makapainit kaniya"
+            },
+            {
+              "front": "My shirt will wrinkle easily",
+              "back": "daling mangunot ang akong kamiseta"
+            },
+            {
+              "front": "Their coat will fit perfectly",
+              "back": "ang ilang kupo mohaum sa hingpit"
+            },
+            {
+              "front": "We will wear hats daily",
+              "back": "magsul-ob mi ug kalo kada adlaw"
+            },
+            {
+              "front": "You will wear warm boots",
+              "back": "magsul-ob ka og mainit nga botas"
+            },
+            {
+              "front": "His socks will match today",
+              "back": "ang iyang medyas motakdo karong adlawa"
+            },
+            {
+              "front": "Her gloves will keep her warm",
+              "back": "ang iyang mga gwantis makapainit kaniya"
+            },
+            {
+              "front": "We will wear jackets soon",
+              "back": "mag jacket mi dayon"
+            },
+            {
+              "front": "Their shoes will sparkle brightly",
+              "back": "ang ilang mga sapatos mokidlap og hayag"
+            },
+            {
+              "front": "She will wear a sweater",
+              "back": "magsul-ob siya ug sweater"
+            },
+            {
+              "front": "I will wear black jeans",
+              "back": "magsul-ob kog itom nga maong"
+            },
+            {
+              "front": "My boots will shine today",
+              "back": "mosidlak ang akong botas karon"
+            },
+            {
+              "front": "We will wear scarves again",
+              "back": "magsul-ob mig bandana pag-usab"
+            },
+            {
+              "front": "His shirt will match perfectly",
+              "back": "ang iyang kamiseta motakdo sa hingpit"
+            },
+            {
+              "front": "Her jacket will protect her",
+              "back": "ang iyang dyaket manalipod kaniya"
+            },
+            {
+              "front": "I will wear a dress",
+              "back": "magsul-ob ko ug sinina"
+            },
+            {
+              "front": "My hat will fit snugly",
+              "back": "mohaom ang akong kalo"
+            },
+            {
+              "front": "Their shoes will fit comfortably",
+              "back": "komportable ang ilang mga sapatos"
+            },
+            {
+              "front": "You will wear new gloves",
+              "back": "magsul-ob ka ug bag-ong gwantis"
+            },
+            {
+              "front": "We will wear shoes tomorrow",
+              "back": "magsapatos mi ugma"
+            },
+            {
+              "front": "She will wear a coat",
+              "back": "magsul-ob siya ug kupo"
+            },
+            {
+              "front": "His pants will fit perfectly",
+              "back": "ang iyang karsones mohaum sa hingpit"
+            },
+            {
+              "front": "My shirt will fit well",
+              "back": "mohaom ang akong kamiseta"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "her bikini will fit me perfectly",
+              "back": "ang iyang bikini mohaom kaayo kanako"
+            },
+            {
+              "front": "his shirt will shrink in dryer",
+              "back": "ang iyang kamisadentro magkupos sa dryer"
+            },
+            {
+              "front": "this dress will flow with movement",
+              "back": "kini nga sinina modagayday sa paglihok"
+            },
+            {
+              "front": "new pants will stretch for you",
+              "back": "bag-ong karsones moinat alang kanimo"
+            },
+            {
+              "front": "skirt will twirl as she dances",
+              "back": "ang sayal magtuyok samtang siya mosayaw"
+            },
+            {
+              "front": "thick jacket will keep me warm",
+              "back": "baga nga dyaket magpainit nako"
+            },
+            {
+              "front": "coat will protect him from cold",
+              "back": "coat manalipod kaniya gikan sa katugnaw"
+            },
+            {
+              "front": "sweater will warm her during winter",
+              "back": "ang sweater magpainit kaniya panahon sa tingtugnaw"
+            },
+            {
+              "front": "old blouse will match your skirt",
+              "back": "ang daan nga blusa mohaum sa imong sayal"
+            },
+            {
+              "front": "custom graphic t-shirt will show personality",
+              "back": "Ang custom graphic t-shirt magpakita ug personalidad"
+            },
+            {
+              "front": "hoodie will provide comfort for me",
+              "back": "Ang hoodie makahatag ug kahupayan alang kanako"
+            },
+            {
+              "front": "relaxed jeans will fit you well",
+              "back": "Ang relaks nga maong mohaum kanimo pag-ayo"
+            },
+            {
+              "front": "colorful knit scarf will add style",
+              "back": "mabulukon nga knit scarf makadugang estilo"
+            },
+            {
+              "front": "baseball hat will complete his outfit",
+              "back": "Ang baseball hat mokompleto sa iyang outfit"
+            },
+            {
+              "front": "canvas belt will hold up pants",
+              "back": "ang bakus sa canvas mogunit sa karsones"
+            },
+            {
+              "front": "ankle socks will keep her warm",
+              "back": "Ang mga medyas sa buolbuol makapainit kaniya"
+            },
+            {
+              "front": "running shoes will match your outfit",
+              "back": "Ang running shoes mohaum sa imong outfit"
+            },
+            {
+              "front": "boots will look stylish for you",
+              "back": "Ang mga botas tan-awon nga istilo alang kanimo"
+            },
+            {
+              "front": "wool gloves will keep him warm",
+              "back": "Ang mga guwantis nga balhibo makapainit kaniya"
+            },
+            {
+              "front": "tie will add elegance for her",
+              "back": "higot makadugang elegance alang kaniya"
+            },
+            {
+              "front": "bright swimsuit will fit me snugly",
+              "back": "Ang mahayag nga swimsuit mohaum kanako"
+            },
+            {
+              "front": "my cotton underwear will feel soft",
+              "back": "mahumok ang akong cotton underwear"
+            },
+            {
+              "front": "nightgown will be comfortable for her",
+              "back": "Ang nightgown mahimong komportable alang kaniya"
+            },
+            {
+              "front": "robe will feel luxurious to you",
+              "back": "ang kupo mobati nga maluho kanimo"
+            },
+            {
+              "front": "leggings will provide flexibility for me",
+              "back": "Ang mga leggings maghatag ug pagka-flexible alang kanako"
+            },
+            {
+              "front": "overalls will be practical for him",
+              "back": "Ang mga overall mahimong praktikal alang kaniya"
+            },
+            {
+              "front": "capris will look fashionable on you",
+              "back": "ang capris tan-awon nga uso kanimo"
+            },
+            {
+              "front": "lingerie will feel elegant for her",
+              "back": "ang lingerie mobati nga elegante alang kaniya"
+            },
+            {
+              "front": "slippers will be cozy for me",
+              "back": "Ang mga tsinelas mahimong komportable alang kanako"
+            },
+            {
+              "front": "sandals will keep your feet cool",
+              "back": "ang mga sandal mopabugnaw sa imong mga tiil"
+            },
+            {
+              "front": "mittens will protect his hands nicely",
+              "back": "Ang mga guwantes manalipod sa iyang mga kamot ug maayo"
+            },
+            {
+              "front": "pajamas will feel soft on her",
+              "back": "ang mga pajama mobati nga malumo kaniya"
+            },
+            {
+              "front": "his tank top will look great",
+              "back": "nindot tan-awon ang iyang tank top"
+            },
+            {
+              "front": "blazer will look professional for him",
+              "back": "Ang blazer tan-awon nga propesyonal alang kaniya"
+            },
+            {
+              "front": "culottes will offer comfort for me",
+              "back": "Ang mga culottes maghatag ug kahupayan alang kanako"
+            },
+            {
+              "front": "kimono will add flair to her",
+              "back": "Ang kimono makadugang sa iyang katakus"
+            },
+            {
+              "front": "bikini will fit perfectly on her",
+              "back": "Ang bikini mohaom gyud kaniya"
+            },
+            {
+              "front": "tracksuit will be comfortable for you",
+              "back": "Ang tracksuit mahimong komportable alang kanimo"
+            },
+            {
+              "front": "slim bodysuit will hug curves nicely",
+              "back": "ang slim bodysuit mogakos sa mga kurba nga maayo"
+            },
+            {
+              "front": "wrap will enhance look for you",
+              "back": "wrap makapausbaw sa pagpangita kanimo"
+            },
+            {
+              "front": "his peacoat will keep me warm",
+              "back": "ang iyang peacoat makapainit nako"
+            },
+            {
+              "front": "slim trousers will fit you perfectly",
+              "back": "Ang slim nga pantalon mohaum kanimo sa hingpit"
+            },
+            {
+              "front": "parka will protect him from wind",
+              "back": "parka manalipod kaniya gikan sa hangin"
+            },
+            {
+              "front": "chinos will look polished on her",
+              "back": "chinos tan-awon nga gipasinaw sa iya"
+            },
+            {
+              "front": "cardigan will layer nicely on you",
+              "back": "Ang cardigan maayo nga layer kanimo"
+            },
+            {
+              "front": "jumpsuit will simplify dressing for me",
+              "back": "Ang jumpsuit makapasimple sa pagsinina alang kanako"
+            },
+            {
+              "front": "fleece will provide warmth for her",
+              "back": "Ang balhibo sa karnero maghatag ug kainit alang kaniya"
+            },
+            {
+              "front": "windbreaker will be great for you",
+              "back": "windbreaker mahimong maayo alang kanimo"
+            },
+            {
+              "front": "anorak will protect her from rain",
+              "back": "ang anorak manalipod kaniya gikan sa ulan"
+            },
+            {
+              "front": "sundress will be perfect for him",
+              "back": "Ang sundress mahimong perpekto alang kaniya"
+            },
+            {
+              "front": "skort will allow movement for me",
+              "back": "ang skort motugot sa paglihok alang kanako"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

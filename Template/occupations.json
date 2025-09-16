@@ -1,0 +1,485 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Occupations",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Doctor", "back": "" },
+            { "front": "Teacher", "back": "" },
+            { "front": "Engineer", "back": "" },
+            { "front": "Nurse", "back": "" },
+            { "front": "Farmer", "back": "" },
+            { "front": "Chef", "back": "" },
+            { "front": "Police officer", "back": "" },
+            { "front": "Firefighter", "back": "" },
+            { "front": "Artist", "back": "" },
+            { "front": "Musician", "back": "" },
+            { "front": "Lawyer", "back": "" },
+            { "front": "Scientist", "back": "" },
+            { "front": "Carpenter", "back": "" },
+            { "front": "Plumber", "back": "" },
+            { "front": "Electrician", "back": "" },
+            { "front": "Pilot", "back": "" },
+            { "front": "Mechanic", "back": "" },
+            { "front": "Driver", "back": "" },
+            { "front": "Photographer", "back": "" },
+            { "front": "Journalist", "back": "" },
+            { "front": "Dentist", "back": "" },
+            { "front": "Pharmacist", "back": "" },
+            { "front": "Veterinarian", "back": "" },
+            { "front": "Accountant", "back": "" },
+            { "front": "Architect", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Good doctor", "back": "" },
+            { "front": "Nice teacher", "back": "" },
+            { "front": "Smart engineer", "back": "" },
+            { "front": "Gentle nurse", "back": "" },
+            { "front": "Strong farmer", "back": "" },
+            { "front": "Skilled chef", "back": "" },
+            { "front": "Brave police officer", "back": "" },
+            { "front": "Heroic firefighter", "back": "" },
+            { "front": "Creative artist", "back": "" },
+            { "front": "Talented musician", "back": "" },
+            { "front": "Clever lawyer", "back": "" },
+            { "front": "Brilliant scientist", "back": "" },
+            { "front": "Hardworking carpenter", "back": "" },
+            { "front": "Reliable plumber", "back": "" },
+            { "front": "Experienced electrician", "back": "" },
+            { "front": "Expert pilot", "back": "" },
+            { "front": "Skilled mechanic", "back": "" },
+            { "front": "Careful driver", "back": "" },
+            { "front": "Artistic photographer", "back": "" },
+            { "front": "Curious journalist", "back": "" },
+            { "front": "Gentle dentist", "back": "" },
+            { "front": "Helpful pharmacist", "back": "" },
+            { "front": "Caring veterinarian", "back": "" },
+            { "front": "Accurate accountant", "back": "" },
+            { "front": "Creative architect", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "My clever lawyer", "back": "" },
+            { "front": "Our skilled chef", "back": "" },
+            { "front": "Strong farmer works", "back": "" },
+            { "front": "Talented musician plays", "back": "" },
+            { "front": "Brave doctor heals", "back": "" },
+            { "front": "Gentle nurse helps", "back": "" },
+            { "front": "Hardworking carpenter builds", "back": "" },
+            { "front": "Creative artist draws", "back": "" },
+            { "front": "Experienced pilot flies", "back": "" },
+            { "front": "Reliable plumber fixes", "back": "" },
+            { "front": "Careful driver drives", "back": "" },
+            { "front": "My expert engineer", "back": "" },
+            { "front": "Smart scientist researches", "back": "" },
+            { "front": "Curious journalist writes", "back": "" },
+            { "front": "Skilled electrician repairs", "back": "" },
+            { "front": "Helpful pharmacist advises", "back": "" },
+            { "front": "Caring veterinarian treats", "back": "" },
+            { "front": "Accurate accountant counts", "back": "" },
+            { "front": "Strong firefighter saves", "back": "" },
+            { "front": "Heroic police officer", "back": "" },
+            { "front": "Talented photographer captures", "back": "" },
+            { "front": "My artistic architect", "back": "" },
+            { "front": "Gentle dentist cares", "back": "" },
+            { "front": "Creative scientist innovates", "back": "" },
+            { "front": "Our brilliant teacher", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "The smart school teacher", "back": "" },
+            { "front": "They are strong firefighters", "back": "" },
+            { "front": "I am an engineer", "back": "" },
+            { "front": "She is a plumber", "back": "" },
+            { "front": "He is a pilot", "back": "" },
+            { "front": "The reliable family doctor", "back": "" },
+            { "front": "They are skilled musicians", "back": "" },
+            { "front": "I am a mechanic", "back": "" },
+            { "front": "She is a lawyer", "back": "" },
+            { "front": "He is an architect", "back": "" },
+            { "front": "The creative graphic artist", "back": "" },
+            { "front": "They are experienced nurses", "back": "" },
+            { "front": "I am a photographer", "back": "" },
+            { "front": "She is a teacher", "back": "" },
+            { "front": "He is a scientist", "back": "" },
+            { "front": "The skilled construction worker", "back": "" },
+            { "front": "They are clever scientists", "back": "" },
+            { "front": "I am a driver", "back": "" },
+            { "front": "She is a dentist", "back": "" },
+            { "front": "He is an accountant", "back": "" },
+            { "front": "The hardworking village farmer", "back": "" },
+            { "front": "They are creative engineers", "back": "" },
+            { "front": "I am a chef", "back": "" },
+            { "front": "She is an electrician", "back": "" },
+            { "front": "He is a journalist", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I am working as a farmer", "back": "" },
+            { "front": "She is a good engineer", "back": "" },
+            { "front": "Students learn to be lawyers", "back": "" },
+            { "front": "Dad is the best mechanic", "back": "" },
+            { "front": "Mom is a skilled lawyer", "back": "" },
+            { "front": "I am becoming a teacher", "back": "" },
+            { "front": "He is training as a pilot", "back": "" },
+            { "front": "She is a talented musician", "back": "" },
+            { "front": "We are learning about scientists", "back": "" },
+            { "front": "They study to be doctors", "back": "" },
+            { "front": "Dad works as an architect", "back": "" },
+            { "front": "Mom is helping as a nurse", "back": "" },
+            { "front": "I am driving as a chauffeur", "back": "" },
+            { "front": "She is a reliable plumber", "back": "" },
+            { "front": "He is an excellent photographer", "back": "" },
+            { "front": "Students become great electricians", "back": "" },
+            { "front": "He is a leading scientist", "back": "" },
+            { "front": "I learn to be journalist", "back": "" },
+            { "front": "She crafts as an artist", "back": "" },
+            { "front": "They are helping as firefighters", "back": "" },
+            { "front": "He is teaching in the school", "back": "" },
+            { "front": "We are working with engineers", "back": "" },
+            { "front": "He is a practicing lawyer", "back": "" },
+            { "front": "She is a good carpenter", "back": "" },
+            { "front": "he studies at doctor school", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "The doctor performs surgery on patient", "back": "" },
+            { "front": "The carpenter builds a tall building", "back": "" },
+            { "front": "My pilot flies a small plane", "back": "" },
+            { "front": "The boys' teacher instructs math class", "back": "" },
+            { "front": "The chef prepares food for customers", "back": "" },
+            { "front": "My lawyer defends cases in court", "back": "" },
+            {
+              "front": "The firefighter extinguishes fires in buildings",
+              "back": ""
+            },
+            { "front": "The nurse cares for sick patients", "back": "" },
+            { "front": "The engineer designs a new bridge", "back": "" },
+            { "front": "My mechanic repairs cars and trucks", "back": "" },
+            {
+              "front": "The scientist conducts research in laboratories",
+              "back": ""
+            },
+            {
+              "front": "The electrician installs wiring in houses",
+              "back": ""
+            },
+            {
+              "front": "My architect plans the city's new building",
+              "back": ""
+            },
+            {
+              "front": "The journalist writes articles for the newspaper",
+              "back": ""
+            },
+            { "front": "The dentist cleans teeth in the clinic", "back": "" },
+            {
+              "front": "The veterinarian treats animals in the hospital",
+              "back": ""
+            },
+            {
+              "front": "The photographer captures moments at weddings",
+              "back": ""
+            },
+            {
+              "front": "The pharmacist gives medicine to patients",
+              "back": ""
+            },
+            {
+              "front": "My accountant manages finances for businesses",
+              "back": ""
+            },
+            { "front": "The artist paints a beautiful landscape", "back": "" },
+            { "front": "The plumber fixes leaks in the pipes", "back": "" },
+            {
+              "front": "My teacher explains difficult math problems",
+              "back": ""
+            },
+            {
+              "front": "The pilot navigates through the stormy weather",
+              "back": ""
+            },
+            {
+              "front": "The driver takes passengers to their destination",
+              "back": ""
+            },
+            { "front": "The musician plays songs at the concert", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "The doctor healed", "back": "" },
+            { "front": "My teacher talked", "back": "" },
+            { "front": "His plumber came", "back": "" },
+            { "front": "Her driver worked", "back": "" },
+            { "front": "The nurse helped", "back": "" },
+            { "front": "My lawyer won", "back": "" },
+            { "front": "His mechanic fixed", "back": "" },
+            { "front": "The chef cooked", "back": "" },
+            { "front": "Her pilot flew", "back": "" },
+            { "front": "The carpenter built", "back": "" },
+            { "front": "My electrician repaired", "back": "" },
+            { "front": "His artist painted", "back": "" },
+            { "front": "Her scientist discovered", "back": "" },
+            { "front": "The firefighter rescued", "back": "" },
+            { "front": "My photographer captured", "back": "" },
+            { "front": "His architect designed", "back": "" },
+            { "front": "Her dentist treated", "back": "" },
+            { "front": "The journalist reported", "back": "" },
+            { "front": "My accountant calculated", "back": "" },
+            { "front": "His veterinarian treated", "back": "" },
+            { "front": "Her pharmacist dispensed", "back": "" },
+            { "front": "The pilot landed", "back": "" },
+            { "front": "My driver waited", "back": "" },
+            { "front": "His engineer designed", "back": "" },
+            { "front": "Her musician played", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "The pilot flew high", "back": "" },
+            { "front": "The doctor treated well", "back": "" },
+            { "front": "I was a teacher", "back": "" },
+            { "front": "She was an engineer", "back": "" },
+            { "front": "He worked as mechanic", "back": "" },
+            { "front": "The chef cooked perfectly", "back": "" },
+            { "front": "They were professional musicians", "back": "" },
+            { "front": "The carpenter built houses", "back": "" },
+            { "front": "The firefighter saved lives", "back": "" },
+            { "front": "We hired an electrician", "back": "" },
+            { "front": "The artist painted beautifully", "back": "" },
+            { "front": "She was a journalist", "back": "" },
+            { "front": "He worked as plumber", "back": "" },
+            { "front": "They fixed broken cars", "back": "" },
+            { "front": "I was an architect", "back": "" },
+            { "front": "She took many photos", "back": "" },
+            { "front": "He designed new buildings", "back": "" },
+            { "front": "They treated injured animals", "back": "" },
+            { "front": "I was a photographer", "back": "" },
+            { "front": "She managed the clinic", "back": "" },
+            { "front": "He was a dentist", "back": "" },
+            { "front": "We hired skilled scientists", "back": "" },
+            { "front": "The engineer solved problems", "back": "" },
+            { "front": "She helped many patients", "back": "" },
+            { "front": "He studied as accountant", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I was a doctor yesterday", "back": "" },
+            { "front": "The dentist performed gentle work", "back": "" },
+            { "front": "The photographer took quality photos", "back": "" },
+            { "front": "The mechanic was very dirty", "back": "" },
+            { "front": "I was a good artist", "back": "" },
+            { "front": "The teacher explained difficult lessons", "back": "" },
+            { "front": "The firefighter saved many people", "back": "" },
+            { "front": "The nurse cared for patients", "back": "" },
+            { "front": "The lawyer defended the case", "back": "" },
+            { "front": "She became an excellent engineer", "back": "" },
+            { "front": "He worked as an electrician", "back": "" },
+            { "front": "The chef prepared delicious meals", "back": "" },
+            { "front": "The plumber fixed leaking pipes", "back": "" },
+            { "front": "The scientist discovered new things", "back": "" },
+            { "front": "The journalist reported important news", "back": "" },
+            { "front": "The driver took many passengers", "back": "" },
+            { "front": "I was a skilled carpenter", "back": "" },
+            {
+              "front": "The architect designed beautiful buildings",
+              "back": ""
+            },
+            { "front": "The musician played beautiful songs", "back": "" },
+            { "front": "The pilot landed the plane", "back": "" },
+            { "front": "I was an experienced mechanic", "back": "" },
+            { "front": "She worked as a pharmacist", "back": "" },
+            { "front": "He was a great scientist", "back": "" },
+            { "front": "They performed at the concert", "back": "" },
+            { "front": "We worked as a team", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I worked on difficult research yesterday", "back": "" },
+            { "front": "She landed a huge plane safely", "back": "" },
+            { "front": "He shocked everyone with his skills", "back": "" },
+            { "front": "They spoke to the judge clearly", "back": "" },
+            { "front": "I prepared a new lesson plan", "back": "" },
+            {
+              "front": "She treated several injured patients kindly",
+              "back": ""
+            },
+            { "front": "He saved lives in a fire", "back": "" },
+            { "front": "They cooked meals for everyone daily", "back": "" },
+            { "front": "We performed at the big concert", "back": "" },
+            { "front": "He designed a modern building downtown", "back": "" },
+            {
+              "front": "She interviewed people on location quickly",
+              "back": ""
+            },
+            { "front": "He transported people to their homes", "back": "" },
+            { "front": "She fixed the broken tooth carefully", "back": "" },
+            { "front": "I captured moments during the wedding", "back": "" },
+            { "front": "He repaired the broken sink immediately", "back": "" },
+            { "front": "We worked on several cars yesterday", "back": "" },
+            { "front": "She treated the sick animals today", "back": "" },
+            {
+              "front": "They dispensed medicine to patients quickly",
+              "back": ""
+            },
+            { "front": "He built a sturdy house himself", "back": "" },
+            {
+              "front": "She painted a beautiful portrait recently",
+              "back": ""
+            },
+            {
+              "front": "He calculated the company’s finances perfectly",
+              "back": ""
+            },
+            { "front": "I designed the new structure downtown", "back": "" },
+            { "front": "She flew through heavy storms easily", "back": "" },
+            {
+              "front": "They handled the complex case professionally",
+              "back": ""
+            },
+            { "front": "He presented findings at the conference", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Doctor will perform", "back": "" },
+            { "front": "Pilot will fly", "back": "" },
+            { "front": "Electrician will work", "back": "" },
+            { "front": "Dentist will adjust", "back": "" },
+            { "front": "Mechanic will fix", "back": "" },
+            { "front": "Teacher will teach", "back": "" },
+            { "front": "Chef will cook", "back": "" },
+            { "front": "Lawyer will argue", "back": "" },
+            { "front": "Nurse will help", "back": "" },
+            { "front": "Scientist will research", "back": "" },
+            { "front": "Firefighter will save", "back": "" },
+            { "front": "Artist will paint", "back": "" },
+            { "front": "Photographer will capture", "back": "" },
+            { "front": "Plumber will repair", "back": "" },
+            { "front": "Driver will drive", "back": "" },
+            { "front": "Architect will design", "back": "" },
+            { "front": "Engineer will build", "back": "" },
+            { "front": "Journalist will report", "back": "" },
+            { "front": "Musician will perform", "back": "" },
+            { "front": "Pharmacist will dispense", "back": "" },
+            { "front": "Veterinarian will treat", "back": "" },
+            { "front": "Carpenter will construct", "back": "" },
+            { "front": "Pilot will land", "back": "" },
+            { "front": "Accountant will calculate", "back": "" },
+            { "front": "Doctor will diagnose", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "Pilot will fly high", "back": "" },
+            { "front": "Doctor will treat patients", "back": "" },
+            { "front": "Artist will paint pictures", "back": "" },
+            { "front": "Driver will drive trucks", "back": "" },
+            { "front": "Plumber will repair pipes", "back": "" },
+            { "front": "Chef will cook meals", "back": "" },
+            { "front": "Lawyer will defend clients", "back": "" },
+            { "front": "Teacher will grade assignments", "back": "" },
+            { "front": "Mechanic will fix cars", "back": "" },
+            { "front": "Photographer will take photos", "back": "" },
+            { "front": "Nurse will assist doctors", "back": "" },
+            { "front": "Engineer will design buildings", "back": "" },
+            { "front": "Firefighter will extinguish fires", "back": "" },
+            { "front": "Dentist will clean teeth", "back": "" },
+            { "front": "Electrician will install wiring", "back": "" },
+            { "front": "Journalist will write stories", "back": "" },
+            { "front": "Scientist will conduct research", "back": "" },
+            { "front": "Veterinarian will treat animals", "back": "" },
+            { "front": "Musician will perform songs", "back": "" },
+            { "front": "Architect will plan houses", "back": "" },
+            { "front": "Pharmacist will prepare prescriptions", "back": "" },
+            { "front": "Accountant will audit finances", "back": "" },
+            { "front": "Carpenter will build furniture", "back": "" },
+            { "front": "Pilot will land safely", "back": "" },
+            { "front": "Lawyer will settle disputes", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "He is the strongest firefighter here", "back": "" },
+            { "front": "I am learning to be doctor", "back": "" },
+            { "front": "The pilot will announce his updates", "back": "" },
+            { "front": "The dentist will gently adjust teeth", "back": "" },
+            { "front": "She will be a great engineer", "back": "" },
+            { "front": "The plumber will repair leaking pipes", "back": "" },
+            { "front": "He will teach advanced mathematics soon", "back": "" },
+            {
+              "front": "They will become professional musicians soon",
+              "back": ""
+            },
+            { "front": "I will start as a lawyer", "back": "" },
+            {
+              "front": "The electrician will replace faulty wiring",
+              "back": ""
+            },
+            { "front": "She will care for sick patients", "back": "" },
+            { "front": "The architect will design modern houses", "back": "" },
+            { "front": "My driver will arrive in minutes", "back": "" },
+            { "front": "He will manage the construction project", "back": "" },
+            { "front": "We are planning to hire teacher", "back": "" },
+            {
+              "front": "The photographer will capture wedding moments",
+              "back": ""
+            },
+            {
+              "front": "She will present research findings tomorrow",
+              "back": ""
+            },
+            { "front": "He will perform at the concert", "back": "" },
+            { "front": "I will be an excellent doctor", "back": "" },
+            { "front": "The mechanic will repair the car", "back": "" },
+            { "front": "The journalist will cover breaking news", "back": "" },
+            { "front": "He will protect people from fires", "back": "" },
+            {
+              "front": "The accountant will handle financial reports",
+              "back": ""
+            },
+            { "front": "My nurse will assist during surgery", "back": "" },
+            { "front": "The scientist will publish new research", "back": "" }
+          ]
+        }
+      ]
+    }
+  ]
+}

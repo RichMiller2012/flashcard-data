@@ -1,0 +1,1600 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Marine Life",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Fish",
+              "back": "isda"
+            },
+            {
+              "front": "Shrimp",
+              "back": "hipon"
+            },
+            {
+              "front": "Crab",
+              "back": "alimango"
+            },
+            {
+              "front": "Octopus",
+              "back": "kugita"
+            },
+            {
+              "front": "Seaweed",
+              "back": "sagbot sa dagat"
+            },
+            {
+              "front": "Starfish",
+              "back": "starfish"
+            },
+            {
+              "front": "Jellyfish",
+              "back": "jellyfish"
+            },
+            {
+              "front": "Dolphin",
+              "back": "dolphin"
+            },
+            {
+              "front": "Shark",
+              "back": "iho"
+            },
+            {
+              "front": "Seal",
+              "back": "selyo"
+            },
+            {
+              "front": "Whale",
+              "back": "balyena"
+            },
+            {
+              "front": "Coral",
+              "back": "koral"
+            },
+            {
+              "front": "Clam",
+              "back": "clam"
+            },
+            {
+              "front": "Lobster",
+              "back": "ulang"
+            },
+            {
+              "front": "Squid",
+              "back": "nukos"
+            },
+            {
+              "front": "Turtle",
+              "back": "pawikan"
+            },
+            {
+              "front": "Eel",
+              "back": "igat"
+            },
+            {
+              "front": "Barnacle",
+              "back": "barnacle"
+            },
+            {
+              "front": "Manta",
+              "back": "makalimot"
+            },
+            {
+              "front": "Plankton",
+              "back": "plankton"
+            },
+            {
+              "front": "Urchin",
+              "back": "urchin"
+            },
+            {
+              "front": "Crayfish",
+              "back": "crayfish"
+            },
+            {
+              "front": "Oyster",
+              "back": "talaba"
+            },
+            {
+              "front": "Sea snake",
+              "back": "bitin sa dagat"
+            },
+            {
+              "front": "Seahorse",
+              "back": "kabayo sa dagat"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Big fish",
+              "back": "dako nga isda"
+            },
+            {
+              "front": "Fresh shrimp",
+              "back": "presko nga hipon"
+            },
+            {
+              "front": "Red crab",
+              "back": "pula nga alimango"
+            },
+            {
+              "front": "Smart octopus",
+              "back": "maalamon nga octopus"
+            },
+            {
+              "front": "Green seaweed",
+              "back": "berde nga seaweed"
+            },
+            {
+              "front": "Bright starfish",
+              "back": "hayag nga starfish"
+            },
+            {
+              "front": "Soft jellyfish",
+              "back": "humok nga jellyfish"
+            },
+            {
+              "front": "Fast dolphin",
+              "back": "paspas nga dolphin"
+            },
+            {
+              "front": "Strong shark",
+              "back": "kusgan nga iho"
+            },
+            {
+              "front": "Playful seal",
+              "back": "dula nga selyo"
+            },
+            {
+              "front": "Large whale",
+              "back": "dako nga balyena"
+            },
+            {
+              "front": "Colorful coral",
+              "back": "mabulukon nga coral"
+            },
+            {
+              "front": "Hard clam",
+              "back": "gahi nga clam"
+            },
+            {
+              "front": "Tasty lobster",
+              "back": "lami nga lobster"
+            },
+            {
+              "front": "Small squid",
+              "back": "gamay nga nukos"
+            },
+            {
+              "front": "Slow turtle",
+              "back": "hinay nga pawikan"
+            },
+            {
+              "front": "Long eel",
+              "back": "taas nga igat"
+            },
+            {
+              "front": "Tiny barnacle",
+              "back": "gamay nga barnacle"
+            },
+            {
+              "front": "Graceful manta",
+              "back": "maanyag nga manta"
+            },
+            {
+              "front": "Floating plankton",
+              "back": "naglutaw nga plankton"
+            },
+            {
+              "front": "Spiky urchin",
+              "back": "tusok nga urchin"
+            },
+            {
+              "front": "Fresh crayfish",
+              "back": "presko nga crayfish"
+            },
+            {
+              "front": "Salty oyster",
+              "back": "parat nga talaba"
+            },
+            {
+              "front": "Venomous sea snake",
+              "back": "malala nga bitin sa dagat"
+            },
+            {
+              "front": "Tiny seahorse",
+              "back": "gamay nga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "The fish swims",
+              "back": "naglangoy ang isda"
+            },
+            {
+              "front": "Fresh shrimp cooks",
+              "back": "presko nga hipon magluto"
+            },
+            {
+              "front": "Red crab hides",
+              "back": "nagtago sa pula nga alimango"
+            },
+            {
+              "front": "Smart octopus moves",
+              "back": "maalamon nga mga lihok sa octopus"
+            },
+            {
+              "front": "Green seaweed grows",
+              "back": "motubo ang berde nga seaweed"
+            },
+            {
+              "front": "Bright starfish shines",
+              "back": "hayag nga starfish nagsidlak"
+            },
+            {
+              "front": "Soft jellyfish drifts",
+              "back": "humok nga jellyfish naanod"
+            },
+            {
+              "front": "Fast dolphin jumps",
+              "back": "paspas nga paglukso sa dolphin"
+            },
+            {
+              "front": "Strong shark hunts",
+              "back": "kusog nga pagpangayam sa iho"
+            },
+            {
+              "front": "Playful seal swims",
+              "back": "playful seal swims"
+            },
+            {
+              "front": "Large whale sings",
+              "back": "dako nga balyena mokanta"
+            },
+            {
+              "front": "Colorful coral grows",
+              "back": "mabulukon nga korales motubo"
+            },
+            {
+              "front": "Hard clam closes",
+              "back": "gahi nga clam nagsira"
+            },
+            {
+              "front": "Tasty lobster steams",
+              "back": "lami nga alisngaw sa lobster"
+            },
+            {
+              "front": "Small squid hides",
+              "back": "gamay nga nukos nga nagtago"
+            },
+            {
+              "front": "Slow turtle swims",
+              "back": "hinay nga paglangoy sa pawikan"
+            },
+            {
+              "front": "Long eel slithers",
+              "back": "mga igat nga barko nga nag-agay"
+            },
+            {
+              "front": "Tiny barnacle clings",
+              "back": "gamay nga barnacle nagkupot"
+            },
+            {
+              "front": "Graceful manta swims",
+              "back": "nindot nga manta swims"
+            },
+            {
+              "front": "Floating plankton drifts",
+              "back": "Ang naglutaw nga plankton naanod"
+            },
+            {
+              "front": "Spiky urchin moves",
+              "back": "lihok sa tunok nga urchin"
+            },
+            {
+              "front": "Fresh crayfish boils",
+              "back": "presko nga crayfish hubag"
+            },
+            {
+              "front": "Salty oyster opens",
+              "back": "parat nga talaba nagbukas"
+            },
+            {
+              "front": "Venomous sea snake slithers",
+              "back": "makahilo nga bitin sa dagat"
+            },
+            {
+              "front": "Tiny seahorse floats",
+              "back": "gamay nga seahorse nga naglutaw"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I see big fish",
+              "back": "nakakita kog dagkong isda"
+            },
+            {
+              "front": "He catches fresh shrimp",
+              "back": "nanakop siyag presko nga hipon"
+            },
+            {
+              "front": "They cook red crab",
+              "back": "nagluto sila ug pula nga alimango"
+            },
+            {
+              "front": "She admires smart octopus",
+              "back": "nakadayeg siya sa maalamon nga octopus"
+            },
+            {
+              "front": "We collect green seaweed",
+              "back": "nagkolekta kami og berde nga seaweed"
+            },
+            {
+              "front": "He finds bright starfish",
+              "back": "iyang nakit-an ang mahayag nga starfish"
+            },
+            {
+              "front": "They touch soft jellyfish",
+              "back": "gihikap nila ang humok nga jellyfish"
+            },
+            {
+              "front": "I watch fast dolphin",
+              "back": "Nagtan-aw ko sa paspas nga dolphin"
+            },
+            {
+              "front": "She photographs strong shark",
+              "back": "iyang gikuhaan og litrato ang kusgan nga iho"
+            },
+            {
+              "front": "We observe playful seals",
+              "back": "among naobserbahan ang mga playful seal"
+            },
+            {
+              "front": "He listens to whale",
+              "back": "naminaw siya sa balyena"
+            },
+            {
+              "front": "They admire colorful coral",
+              "back": "nakadayeg sila sa mabulukon nga korales"
+            },
+            {
+              "front": "I open hard clam",
+              "back": "giablihan nako ang gahi nga clam"
+            },
+            {
+              "front": "She cooks tasty lobster",
+              "back": "nagluto siya ug lamiang lobster"
+            },
+            {
+              "front": "He prepares small squid",
+              "back": "nag-andam siya og gamay nga nukos"
+            },
+            {
+              "front": "We watch slow turtle",
+              "back": "nagtan-aw mi sa hinay nga pawikan"
+            },
+            {
+              "front": "I spot long eel",
+              "back": "nakit-an nako ang taas nga igat"
+            },
+            {
+              "front": "She removes tiny barnacles",
+              "back": "iyang gitangtang ang gagmay nga mga barnacles"
+            },
+            {
+              "front": "They swim with manta",
+              "back": "naglangoy sila sa manta"
+            },
+            {
+              "front": "I study floating plankton",
+              "back": "nagtuon ko ug floating plankton"
+            },
+            {
+              "front": "He avoids spiky urchins",
+              "back": "gilikayan niya ang mga tunok nga urchin"
+            },
+            {
+              "front": "We catch fresh crayfish",
+              "back": "nakakuha kami ug presko nga crayfish"
+            },
+            {
+              "front": "She shucks salty oyster",
+              "back": "iyang gitaktak ang parat nga talaba"
+            },
+            {
+              "front": "He observes venomous snake",
+              "back": "iyang naobserbahan ang lala nga bitin"
+            },
+            {
+              "front": "They feed tiny seahorses",
+              "back": "gipakaon nila ang gagmay nga mga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I see a big fish",
+              "back": "nakakita ko ug dakong isda"
+            },
+            {
+              "front": "He catches fresh shrimp daily",
+              "back": "nanakop siyag presko nga hipon kada adlaw"
+            },
+            {
+              "front": "They cook red crab tonight",
+              "back": "nagluto sila ug red crab karong gabii"
+            },
+            {
+              "front": "She admires a smart octopus",
+              "back": "nakadayeg siya sa usa ka maalamon nga octopus"
+            },
+            {
+              "front": "We collect green seaweed often",
+              "back": "kanunay kaming mangolekta og berde nga sagbot"
+            },
+            {
+              "front": "He finds bright starfish easily",
+              "back": "dali ra niyang makit-an ang mahayag nga starfish"
+            },
+            {
+              "front": "They touch soft jellyfish carefully",
+              "back": "gihikap nila pag-ayo ang humok nga jellyfish"
+            },
+            {
+              "front": "I watch a fast dolphin",
+              "back": "Nagtan-aw ko sa usa ka paspas nga dolphin"
+            },
+            {
+              "front": "She photographs a strong shark",
+              "back": "nagkuha siya og litrato sa usa ka kusgan nga iho"
+            },
+            {
+              "front": "We observe playful seals swimming",
+              "back": "among naobserbahan ang mga playful seal nga naglangoy"
+            },
+            {
+              "front": "He listens to a large whale",
+              "back": "naminaw siya sa dakong balyena"
+            },
+            {
+              "front": "They admire colorful coral reefs",
+              "back": "nakadayeg sila sa mabulukon nga mga coral reef"
+            },
+            {
+              "front": "I open a hard clam",
+              "back": "Giablihan nako ang gahi nga clam"
+            },
+            {
+              "front": "She cooks a tasty lobster",
+              "back": "nagluto siya ug lamiang ulang"
+            },
+            {
+              "front": "He prepares small squid for dinner",
+              "back": "nag-andam siya og gamay nga nukos alang sa panihapon"
+            },
+            {
+              "front": "We watch a slow turtle",
+              "back": "nagtan-aw mi ug hinay nga pawikan"
+            },
+            {
+              "front": "I spot a long eel",
+              "back": "Nakakita kog taas nga igat"
+            },
+            {
+              "front": "She removes tiny barnacles carefully",
+              "back": "gitangtang niya pag-ayo ang gagmay nga mga barnacle"
+            },
+            {
+              "front": "They swim with graceful manta",
+              "back": "sila molangoy uban sa matahum nga manta"
+            },
+            {
+              "front": "I study floating plankton closely",
+              "back": "Gitun-an nako pag-ayo ang naglutaw nga plankton"
+            },
+            {
+              "front": "He avoids spiky sea urchins",
+              "back": "gilikayan niya ang mga tunok nga uwak sa dagat"
+            },
+            {
+              "front": "We catch fresh crayfish together",
+              "back": "dungan mig kuha ug presko nga crayfish"
+            },
+            {
+              "front": "She shucks a salty oyster",
+              "back": "iyang gisabak ang usa ka parat nga talaba"
+            },
+            {
+              "front": "He observes a venomous sea snake",
+              "back": "iyang nakita ang usa ka lala nga bitin sa dagat"
+            },
+            {
+              "front": "They feed tiny seahorses carefully",
+              "back": "gipakaon nila pag-ayo ang gagmay nga mga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am watching a big fish",
+              "back": "nagtan-aw ko ug dakong isda"
+            },
+            {
+              "front": "He catches fresh shrimp every day",
+              "back": "nanakop siyag presko nga hipon kada adlaw"
+            },
+            {
+              "front": "They are cooking red crab tonight",
+              "back": "nagluto sila ug red crab karong gabii"
+            },
+            {
+              "front": "She admires the smart octopus swimming",
+              "back": "nakadayeg siya sa maalamong octopus swimming"
+            },
+            {
+              "front": "We collect green seaweed for lunch",
+              "back": "nagkolekta kami og berde nga seaweed alang sa paniudto"
+            },
+            {
+              "front": "He finds bright starfish on beach",
+              "back": "nakit-an niya ang mahayag nga starfish sa baybayon"
+            },
+            {
+              "front": "They touch soft jellyfish with care",
+              "back": "gihikap nila ang humok nga jellyfish nga adunay pag-amping"
+            },
+            {
+              "front": "I watch the fast dolphin jump",
+              "back": "Gitan-aw nako ang paspas nga paglukso sa dolphin"
+            },
+            {
+              "front": "She photographs the strong shark underwater",
+              "back": "iyang gilitratohan ang kusgan nga iho ilalom sa tubig"
+            },
+            {
+              "front": "We observe playful seals in water",
+              "back": "among naobserbahan ang mga playful seal sa tubig"
+            },
+            {
+              "front": "He listens to the large whale",
+              "back": "naminaw siya sa dakong balyena"
+            },
+            {
+              "front": "They admire colorful coral in ocean",
+              "back": "nakadayeg sila sa mabulukon nga korales sa kadagatan"
+            },
+            {
+              "front": "I open the hard clam slowly",
+              "back": "hinayhinay nakong giablihan ang gahi nga clam"
+            },
+            {
+              "front": "She cooks a tasty lobster tonight",
+              "back": "nagluto siya ug lamiang lobster karong gabhiona"
+            },
+            {
+              "front": "He prepares small squid for dinner",
+              "back": "nag-andam siya og gamay nga nukos alang sa panihapon"
+            },
+            {
+              "front": "We watch a slow turtle swim",
+              "back": "nagtan-aw kami sa hinay nga paglangoy sa pawikan"
+            },
+            {
+              "front": "I spot the long eel swimming",
+              "back": "Nakita nako ang taas nga igat nga naglangoy"
+            },
+            {
+              "front": "She removes tiny barnacles from boat",
+              "back": "iyang gikuha ang gagmay nga mga barnacle gikan sa sakayan"
+            },
+            {
+              "front": "They swim with a graceful manta",
+              "back": "sila molangoy uban sa usa ka matahum nga manta"
+            },
+            {
+              "front": "I study the floating plankton closely",
+              "back": "Gitun-an nako pag-ayo ang naglutaw nga plankton"
+            },
+            {
+              "front": "He avoids the spiky sea urchins",
+              "back": "gilikayan niya ang mga tunok nga uwak sa dagat"
+            },
+            {
+              "front": "We catch fresh crayfish for dinner",
+              "back": "nanakop mi ug presko nga crayfish para panihapon"
+            },
+            {
+              "front": "She shucks a salty oyster carefully",
+              "back": "mabinantayon niyang gitaktak ang usa ka parat nga talaba"
+            },
+            {
+              "front": "He observes a venomous sea snake",
+              "back": "iyang nakita ang usa ka lala nga bitin sa dagat"
+            },
+            {
+              "front": "They feed the tiny seahorses carefully",
+              "back": "gipakaon nila pag-ayo ang gagmay nga mga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Ate fish",
+              "back": "mikaon ug isda"
+            },
+            {
+              "front": "Caught shrimp",
+              "back": "nakuha nga hipon"
+            },
+            {
+              "front": "Saw crab",
+              "back": "nakakita og alimango"
+            },
+            {
+              "front": "Found octopus",
+              "back": "nakit-an nga octopus"
+            },
+            {
+              "front": "Collected seaweed",
+              "back": "nakolekta nga seaweed"
+            },
+            {
+              "front": "Saw starfish",
+              "back": "nakakita ug starfish"
+            },
+            {
+              "front": "Watched jellyfish",
+              "back": "nagtan-aw sa jellyfish"
+            },
+            {
+              "front": "Spotted dolphin",
+              "back": "nakita nga dolphin"
+            },
+            {
+              "front": "Observed shark",
+              "back": "naobserbahan nga iho"
+            },
+            {
+              "front": "Saw seal",
+              "back": "nakita nga selyo"
+            },
+            {
+              "front": "Heard whale",
+              "back": "nakadungog balyena"
+            },
+            {
+              "front": "Touched coral",
+              "back": "natandog nga coral"
+            },
+            {
+              "front": "Ate clam",
+              "back": "mikaon ug clam"
+            },
+            {
+              "front": "Cooked lobster",
+              "back": "giluto nga lobster"
+            },
+            {
+              "front": "Caught squid",
+              "back": "nadakpan nga nukos"
+            },
+            {
+              "front": "Saw turtle",
+              "back": "nakakita ug pawikan"
+            },
+            {
+              "front": "Spotted eel",
+              "back": "bulok nga igat"
+            },
+            {
+              "front": "Removed barnacle",
+              "back": "gikuha ang barnacle"
+            },
+            {
+              "front": "Saw manta",
+              "back": "nakakita ug manta"
+            },
+            {
+              "front": "Found plankton",
+              "back": "nakit-an nga plankton"
+            },
+            {
+              "front": "Spotted urchin",
+              "back": "batik nga urchin"
+            },
+            {
+              "front": "Caught crayfish",
+              "back": "nakuha nga crayfish"
+            },
+            {
+              "front": "Ate oyster",
+              "back": "mikaon sa talaba"
+            },
+            {
+              "front": "Saw sea snake",
+              "back": "nakakita ug sea snake"
+            },
+            {
+              "front": "Spotted seahorse",
+              "back": "batik-batik nga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I ate fish",
+              "back": "nikaon ko ug isda"
+            },
+            {
+              "front": "He caught shrimp yesterday",
+              "back": "nakakuha siyag hipon gahapon"
+            },
+            {
+              "front": "They saw crab on shore",
+              "back": "nakakita sila ug alimango sa baybayon"
+            },
+            {
+              "front": "We found octopus in tidepool",
+              "back": "nakit-an namo ang octopus sa tidepool"
+            },
+            {
+              "front": "She collected seaweed for salad",
+              "back": "nangolekta siyag seaweed para salad"
+            },
+            {
+              "front": "I saw starfish at beach",
+              "back": "Nakakita kog starfish sa baybayon"
+            },
+            {
+              "front": "He watched jellyfish float by",
+              "back": "nagtan-aw siya nga naglutawlutaw ang sakya"
+            },
+            {
+              "front": "They spotted dolphin swimming close",
+              "back": "nakita nila ang dolphin nga naglangoy duol"
+            },
+            {
+              "front": "We observed shark near boat",
+              "back": "naobserbahan namo ang iho duol sa sakayan"
+            },
+            {
+              "front": "She saw seal lounging on rock",
+              "back": "nakita niya ang selyo nga naghigda sa bato"
+            },
+            {
+              "front": "I heard whale songs underwater",
+              "back": "Nakadungog ko og mga kanta sa balyena sa ilawom sa tubig"
+            },
+            {
+              "front": "They touched coral reefs carefully",
+              "back": "gihikap nila pag-ayo ang mga coral reef"
+            },
+            {
+              "front": "He ate clam chowder yesterday",
+              "back": "nikaon siya ug clam chowder gahapon"
+            },
+            {
+              "front": "We cooked lobster for dinner",
+              "back": "nagluto mig lobster para panihapon"
+            },
+            {
+              "front": "She caught squid at night",
+              "back": "nakadakop siya ug nukos sa gabii"
+            },
+            {
+              "front": "I saw turtle swimming gracefully",
+              "back": "Nakita nako ang pawikan nga nindot kaayong naglangoy"
+            },
+            {
+              "front": "He spotted eel hiding in rocks",
+              "back": "nakakita siyag igat nga nagtago sa mga bato"
+            },
+            {
+              "front": "She removed barnacle from shell",
+              "back": "iyang gikuha ang barnacle gikan sa kabhang"
+            },
+            {
+              "front": "They saw manta ray gliding",
+              "back": "nakita nila ang manta ray nga naglupadlupad"
+            },
+            {
+              "front": "I found plankton in water",
+              "back": "nakit-an nako ang plankton sa tubig"
+            },
+            {
+              "front": "He spotted urchin in tidepool",
+              "back": "iyang nakita ang urchin sa tidepool"
+            },
+            {
+              "front": "We caught crayfish in stream",
+              "back": "nakuha namo ang crayfish sa sapa"
+            },
+            {
+              "front": "She ate oyster on half-shell",
+              "back": "mikaon siya og oyster sa tunga nga kabhang"
+            },
+            {
+              "front": "He saw sea snake swim",
+              "back": "nakakita siyag sea snake nga naglangoy"
+            },
+            {
+              "front": "They spotted seahorse in coral",
+              "back": "nakakita silag seahorse sa coral"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I caught a big fish",
+              "back": "nakakuha ako usa ka dako nga isda"
+            },
+            {
+              "front": "She cooked fresh shrimp yesterday",
+              "back": "nagluto siyag presko nga hipon gahapon"
+            },
+            {
+              "front": "They saw a red crab",
+              "back": "nakakita sila ug pulang alimango"
+            },
+            {
+              "front": "He found an octopus hiding",
+              "back": "nakakita siyag octopus nga nagtago"
+            },
+            {
+              "front": "We collected seaweed for lunch",
+              "back": "nangolekta mig seaweed para paniudto"
+            },
+            {
+              "front": "I saw a bright starfish",
+              "back": "Nakakita kog hayag nga starfish"
+            },
+            {
+              "front": "He watched a floating jellyfish",
+              "back": "nagtan-aw siya sa naglutaw nga sakya"
+            },
+            {
+              "front": "They spotted a fast dolphin",
+              "back": "nakakita sila ug paspas nga dolphin"
+            },
+            {
+              "front": "We observed a hungry shark",
+              "back": "among naobserbahan ang usa ka gigutom nga iho"
+            },
+            {
+              "front": "She saw a playful seal",
+              "back": "nakakita siya og usa ka dula nga selyo"
+            },
+            {
+              "front": "I heard a singing whale",
+              "back": "Nakadungog kog nag-awit nga balyena"
+            },
+            {
+              "front": "They touched a colorful coral",
+              "back": "natandog nila ang mabulukon nga korales"
+            },
+            {
+              "front": "He ate a delicious clam",
+              "back": "mikaon siya ug lamiang kabibe"
+            },
+            {
+              "front": "We cooked a fresh lobster",
+              "back": "nagluto mi ug presko nga ulang"
+            },
+            {
+              "front": "She caught a small squid",
+              "back": "nakadakop siya ug gamayng nukos"
+            },
+            {
+              "front": "I saw a slow turtle",
+              "back": "Nakakita kog hinay nga pawikan"
+            },
+            {
+              "front": "He spotted a long eel",
+              "back": "nakakita siyag taas nga igat"
+            },
+            {
+              "front": "She removed a tiny barnacle",
+              "back": "iyang gikuha ang usa ka gamay nga barnacle"
+            },
+            {
+              "front": "They saw a graceful manta",
+              "back": "nakakita sila ug maanyag nga manta"
+            },
+            {
+              "front": "I found some floating plankton",
+              "back": "Nakakita ko ug naglutaw nga plankton"
+            },
+            {
+              "front": "He spotted a spiky urchin",
+              "back": "nakakita siyag tusok nga urchin"
+            },
+            {
+              "front": "We caught a big crayfish",
+              "back": "nakadakop mi ug dakong crayfish"
+            },
+            {
+              "front": "She ate a fresh oyster",
+              "back": "mikaon siya ug lab-as nga talaba"
+            },
+            {
+              "front": "He saw a venomous sea snake",
+              "back": "nakakita siya ug lala nga bitin sa dagat"
+            },
+            {
+              "front": "They spotted a tiny seahorse",
+              "back": "nakakita sila og gamay nga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I ate fresh big fish",
+              "back": "mikaon ko ug presko nga dagkong isda"
+            },
+            {
+              "front": "She cooked the sweet shrimp",
+              "back": "giluto niya ang tam-is nga hipon"
+            },
+            {
+              "front": "They caught red crab yesterday",
+              "back": "nakadakop sila ug red crab gahapon"
+            },
+            {
+              "front": "He found a smart octopus",
+              "back": "nakit-an niya ang usa ka maalamon nga octopus"
+            },
+            {
+              "front": "We collected green seaweed together",
+              "back": "nagdungan mig kolekta ug green seaweed"
+            },
+            {
+              "front": "I saw bright starfish today",
+              "back": "Nakakita ko ug bright starfish karon"
+            },
+            {
+              "front": "He watched soft jellyfish float",
+              "back": "nagtan-aw siya sa humok nga jellyfish nga naglutaw"
+            },
+            {
+              "front": "They spotted a fast dolphin",
+              "back": "nakakita sila ug paspas nga dolphin"
+            },
+            {
+              "front": "We observed a strong shark",
+              "back": "among naobserbahan ang usa ka kusgan nga iho"
+            },
+            {
+              "front": "She saw playful seals swimming",
+              "back": "nakakita siya og mga malingaw nga mga poka nga naglangoy-langoy"
+            },
+            {
+              "front": "I heard the singing whale",
+              "back": "Nadungog nako ang nag-awit nga balyena"
+            },
+            {
+              "front": "They touched colorful coral reefs",
+              "back": "natandog nila ang mabulukon nga mga coral reef"
+            },
+            {
+              "front": "He ate a hard clam",
+              "back": "mikaon siya ug gahi nga kabibe"
+            },
+            {
+              "front": "We cooked a tasty lobster",
+              "back": "nagluto mi ug lamiang lobster"
+            },
+            {
+              "front": "She caught a small squid",
+              "back": "nakadakop siya ug gamayng nukos"
+            },
+            {
+              "front": "I saw a slow turtle",
+              "back": "Nakakita kog hinay nga pawikan"
+            },
+            {
+              "front": "He spotted a long eel",
+              "back": "nakakita siyag taas nga igat"
+            },
+            {
+              "front": "She removed tiny barnacles quickly",
+              "back": "dali niyang gikuha ang gagmay nga mga barnacle"
+            },
+            {
+              "front": "They swam with a manta",
+              "back": "naglangoy sila gamit ang manta"
+            },
+            {
+              "front": "I studied floating plankton closely",
+              "back": "Gitun-an nako pag-ayo ang naglutaw nga plankton"
+            },
+            {
+              "front": "He avoided spiky sea urchins",
+              "back": "iyang gilikayan ang mga tusok nga uwak sa dagat"
+            },
+            {
+              "front": "We caught fresh crayfish today",
+              "back": "nakakuha kami ug presko nga crayfish karon"
+            },
+            {
+              "front": "She shucked a salty oyster",
+              "back": "gishuck niya ang usa ka parat nga talaba"
+            },
+            {
+              "front": "He observed a venomous sea snake",
+              "back": "iyang naobserbahan ang usa ka lala nga bitin sa dagat"
+            },
+            {
+              "front": "They fed tiny seahorses carefully",
+              "back": "gipakaon nila og maayo ang gagmay nga mga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I ate the fresh big fish",
+              "back": "mikaon ko sa presko nga dagkong isda"
+            },
+            {
+              "front": "She cooked the sweet fresh shrimp",
+              "back": "giluto niya ang tam-is nga presko nga hipon"
+            },
+            {
+              "front": "They caught a red crab yesterday",
+              "back": "nakadakop sila ug red crab gahapon"
+            },
+            {
+              "front": "He found a smart octopus hiding",
+              "back": "nakit-an niya ang usa ka maalamon nga octopus nga nagtago"
+            },
+            {
+              "front": "We collected green seaweed for salad",
+              "back": "nagkolekta kami og berde nga seaweed alang sa salad"
+            },
+            {
+              "front": "I saw the bright starfish today",
+              "back": "Nakita nako ang hayag nga starfish karon"
+            },
+            {
+              "front": "He watched the soft jellyfish float",
+              "back": "iyang gitan-aw ang humok nga jellyfish nga naglutaw"
+            },
+            {
+              "front": "They spotted a fast dolphin swimming",
+              "back": "nakakita sila og kusog nga dolphin nga naglangoy"
+            },
+            {
+              "front": "We observed a strong shark swimming",
+              "back": "among naobserbahan ang kusog nga iho nga naglangoy"
+            },
+            {
+              "front": "She saw the playful seals swimming",
+              "back": "nakita niya ang malingaw nga mga patik nga naglangoy"
+            },
+            {
+              "front": "I heard the singing whale underwater",
+              "back": "Nadungog nako ang nag-awit nga balyena sa ilawom sa tubig"
+            },
+            {
+              "front": "They touched the colorful coral reefs",
+              "back": "ilang gihikap ang mabulukon nga mga coral reef"
+            },
+            {
+              "front": "He ate a delicious hard clam",
+              "back": "nikaon siya ug lamian nga gahi nga clam"
+            },
+            {
+              "front": "We cooked a tasty fresh lobster",
+              "back": "nagluto mi ug lami nga presko nga ulang"
+            },
+            {
+              "front": "She caught a small squid quickly",
+              "back": "dali siyang nakadakop ug gamayng nukos"
+            },
+            {
+              "front": "I saw a slow turtle swimming",
+              "back": "Nakakita kog hinay nga pawikan nga naglangoy"
+            },
+            {
+              "front": "He spotted a long eel hiding",
+              "back": "nakakita siyag taas nga igat nga nagtago"
+            },
+            {
+              "front": "She removed tiny barnacles from boat",
+              "back": "iyang gikuha ang gagmay nga mga barnacle gikan sa sakayan"
+            },
+            {
+              "front": "They swam with a graceful manta",
+              "back": "sila milangoy uban sa usa ka matahum nga manta"
+            },
+            {
+              "front": "I studied the floating plankton closely",
+              "back": "Gitun-an nako pag-ayo ang naglutaw nga plankton"
+            },
+            {
+              "front": "He avoided the spiky sea urchins",
+              "back": "gilikayan niya ang mga tusok nga mga uwak sa dagat"
+            },
+            {
+              "front": "We caught fresh crayfish for dinner",
+              "back": "nakakuha kami ug presko nga crayfish para sa panihapon"
+            },
+            {
+              "front": "She shucked a salty oyster carefully",
+              "back": "gishock niya pag-ayo ang usa ka parat nga talaba"
+            },
+            {
+              "front": "He observed a venomous sea snake",
+              "back": "iyang naobserbahan ang usa ka lala nga bitin sa dagat"
+            },
+            {
+              "front": "They fed the tiny seahorses carefully",
+              "back": "gipakaon nila pag-ayo ang gagmay nga mga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will catch fish",
+              "back": "makadakop ug isda"
+            },
+            {
+              "front": "Will eat shrimp",
+              "back": "mokaon hipon"
+            },
+            {
+              "front": "Will see crab",
+              "back": "makakita ug alimango"
+            },
+            {
+              "front": "Will find octopus",
+              "back": "makakitag octopus"
+            },
+            {
+              "front": "Will collect seaweed",
+              "back": "mangolekta ug seaweed"
+            },
+            {
+              "front": "Will spot starfish",
+              "back": "makakita ug starfish"
+            },
+            {
+              "front": "Will watch jellyfish",
+              "back": "motan-aw sa jellyfish"
+            },
+            {
+              "front": "Will swim with dolphin",
+              "back": "molangoy uban sa dolphin"
+            },
+            {
+              "front": "Will observe shark",
+              "back": "mag-obserbar sa iho"
+            },
+            {
+              "front": "Will see seal",
+              "back": "makakita og selyo"
+            },
+            {
+              "front": "Will hear whale",
+              "back": "makadungog sa balyena"
+            },
+            {
+              "front": "Will touch coral",
+              "back": "makahikap sa coral"
+            },
+            {
+              "front": "Will eat clam",
+              "back": "mokaon ug clam"
+            },
+            {
+              "front": "Will cook lobster",
+              "back": "magluto ug lobster"
+            },
+            {
+              "front": "Will catch squid",
+              "back": "makadakop ug nukos"
+            },
+            {
+              "front": "Will see turtle",
+              "back": "makakita ug pawikan"
+            },
+            {
+              "front": "Will spot eel",
+              "back": "makakita og igat"
+            },
+            {
+              "front": "Will remove barnacle",
+              "back": "magtangtang sa barnacle"
+            },
+            {
+              "front": "Will see manta",
+              "back": "makakita ug manta"
+            },
+            {
+              "front": "Will find plankton",
+              "back": "makakita ug plankton"
+            },
+            {
+              "front": "Will spot urchin",
+              "back": "makakita ug urchin"
+            },
+            {
+              "front": "Will catch crayfish",
+              "back": "makadakop ug crayfish"
+            },
+            {
+              "front": "Will eat oyster",
+              "back": "mokaon og oyster"
+            },
+            {
+              "front": "Will see sea snake",
+              "back": "makakita ug sea snake"
+            },
+            {
+              "front": "Will spot seahorse",
+              "back": "makakita ug seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will catch a fish",
+              "back": "makadakop ko ug isda"
+            },
+            {
+              "front": "She will eat fresh shrimp",
+              "back": "mokaon siya ug presko nga hipon"
+            },
+            {
+              "front": "They will see a crab",
+              "back": "makakita sila ug alimango"
+            },
+            {
+              "front": "He will find an octopus",
+              "back": "mangita siya ug octopus"
+            },
+            {
+              "front": "We will collect seaweed tomorrow",
+              "back": "mangolekta ta ug seaweed ugma"
+            },
+            {
+              "front": "I will spot a starfish",
+              "back": "makakita ko ug starfish"
+            },
+            {
+              "front": "She will watch the jellyfish",
+              "back": "bantayan niya ang sakyan"
+            },
+            {
+              "front": "They will swim with dolphins",
+              "back": "manglangoy sila uban sa mga dolphin"
+            },
+            {
+              "front": "We will observe a shark",
+              "back": "maniid ta ug iho"
+            },
+            {
+              "front": "He will see a seal",
+              "back": "makakita siya ug selyo"
+            },
+            {
+              "front": "I will hear a whale",
+              "back": "makadungog ko ug balyena"
+            },
+            {
+              "front": "They will touch colorful coral",
+              "back": "mahikap nila ang mabulukon nga korales"
+            },
+            {
+              "front": "She will eat a clam",
+              "back": "mokaon siya ug kabibe"
+            },
+            {
+              "front": "I will cook a lobster",
+              "back": "magluto ko ug ulang"
+            },
+            {
+              "front": "He will catch a squid",
+              "back": "makadakop siya ug nukos"
+            },
+            {
+              "front": "We will see a turtle",
+              "back": "makakita ta ug pawikan"
+            },
+            {
+              "front": "They will spot a long eel",
+              "back": "makakita sila ug taas nga igat"
+            },
+            {
+              "front": "I will remove a barnacle",
+              "back": "kuhaon ko ang usa ka barnacle"
+            },
+            {
+              "front": "She will see a manta",
+              "back": "makakita siya ug manta"
+            },
+            {
+              "front": "They will find floating plankton",
+              "back": "makit-an nila ang naglutaw nga plankton"
+            },
+            {
+              "front": "I will spot a spiky urchin",
+              "back": "makit-an nako ang usa ka spiky urchin"
+            },
+            {
+              "front": "We will catch fresh crayfish",
+              "back": "mangdakop mi ug presko nga crayfish"
+            },
+            {
+              "front": "He will eat a fresh oyster",
+              "back": "mokaon siya ug lab-as nga talaba"
+            },
+            {
+              "front": "She will see a sea snake",
+              "back": "makakita siya ug halas sa dagat"
+            },
+            {
+              "front": "I will spot a tiny seahorse",
+              "back": "makakita ko ug gamay nga seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will catch a fish",
+              "back": "makadakop ko ug isda"
+            },
+            {
+              "front": "She will eat fresh shrimp",
+              "back": "mokaon siya ug presko nga hipon"
+            },
+            {
+              "front": "They will see a crab",
+              "back": "makakita sila ug alimango"
+            },
+            {
+              "front": "He will find an octopus",
+              "back": "mangita siya ug octopus"
+            },
+            {
+              "front": "We will collect seaweed tomorrow",
+              "back": "mangolekta ta ug seaweed ugma"
+            },
+            {
+              "front": "I will spot a starfish",
+              "back": "makakita ko ug starfish"
+            },
+            {
+              "front": "She will watch jellyfish float",
+              "back": "siya motan-aw sa jellyfish nga naglutaw"
+            },
+            {
+              "front": "They will swim with dolphins",
+              "back": "manglangoy sila uban sa mga dolphin"
+            },
+            {
+              "front": "We will observe a shark",
+              "back": "maniid ta ug iho"
+            },
+            {
+              "front": "He will see a seal",
+              "back": "makakita siya ug selyo"
+            },
+            {
+              "front": "I will hear a whale",
+              "back": "makadungog ko ug balyena"
+            },
+            {
+              "front": "They will touch colorful coral",
+              "back": "mahikap nila ang mabulukon nga korales"
+            },
+            {
+              "front": "She will eat a clam",
+              "back": "mokaon siya ug kabibe"
+            },
+            {
+              "front": "I will cook a lobster",
+              "back": "magluto ko ug ulang"
+            },
+            {
+              "front": "He will catch a squid",
+              "back": "makadakop siya ug nukos"
+            },
+            {
+              "front": "We will see a turtle",
+              "back": "makakita ta ug pawikan"
+            },
+            {
+              "front": "They will spot an eel",
+              "back": "makakita sila ug igat"
+            },
+            {
+              "front": "I will remove a barnacle",
+              "back": "kuhaon ko ang usa ka barnacle"
+            },
+            {
+              "front": "She will see a manta",
+              "back": "makakita siya ug manta"
+            },
+            {
+              "front": "We will find plankton in water",
+              "back": "makit-an nato ang plankton sa tubig"
+            },
+            {
+              "front": "He will spot a urchin",
+              "back": "makakita siya ug urchin"
+            },
+            {
+              "front": "We will catch a crayfish",
+              "back": "mangdakop mi ug crayfish"
+            },
+            {
+              "front": "She will eat an oyster",
+              "back": "mokaon siya ug talaba"
+            },
+            {
+              "front": "He will see a snake",
+              "back": "makakita siya ug bitin"
+            },
+            {
+              "front": "They will spot a seahorse",
+              "back": "makakita sila ug seahorse"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will catch the big fish",
+              "back": "dakpon nako ang dagkong isda"
+            },
+            {
+              "front": "She will eat the fresh shrimp",
+              "back": "mokaon siya sa presko nga hipon"
+            },
+            {
+              "front": "They will see the red crab",
+              "back": "makita nila ang pula nga alimango"
+            },
+            {
+              "front": "He will find the smart octopus",
+              "back": "pangitaon niya ang maalamon nga octopus"
+            },
+            {
+              "front": "We will collect the green seaweed",
+              "back": "atong kolektahon ang berde nga seaweed"
+            },
+            {
+              "front": "I will spot the bright starfish",
+              "back": "Makita nako ang hayag nga starfish"
+            },
+            {
+              "front": "He will watch the soft jellyfish",
+              "back": "siya motan-aw sa humok nga jellyfish"
+            },
+            {
+              "front": "They will swim with the dolphin",
+              "back": "manglangoy sila uban sa dolphin"
+            },
+            {
+              "front": "We will observe the strong shark",
+              "back": "atong obserbahan ang kusgan nga iho"
+            },
+            {
+              "front": "She will see the playful seal",
+              "back": "makita niya ang dula nga selyo"
+            },
+            {
+              "front": "I will hear the singing whale",
+              "back": "makadungog ko sa nag-awit nga balyena"
+            },
+            {
+              "front": "They will touch the colorful coral",
+              "back": "mahikap nila ang mabulukon nga korales"
+            },
+            {
+              "front": "He will eat the hard clam",
+              "back": "mokaon siya sa gahi nga kabibe"
+            },
+            {
+              "front": "We will cook the tasty lobster",
+              "back": "lutuon namo ang lamiang lobster"
+            },
+            {
+              "front": "She will catch the small squid",
+              "back": "dakpon niya ang gamay nga nukos"
+            },
+            {
+              "front": "I will see the slow turtle",
+              "back": "akong makita ang hinay nga pawikan"
+            },
+            {
+              "front": "He will spot the long eel",
+              "back": "makita niya ang taas nga igat"
+            },
+            {
+              "front": "She will remove the tiny barnacle",
+              "back": "iyang kuhaon ang gamay nga barnacle"
+            },
+            {
+              "front": "They will swim with the graceful manta",
+              "back": "manglangoy sila uban sa matahom nga manta"
+            },
+            {
+              "front": "I will study the floating plankton",
+              "back": "tun-an nako ang naglutaw nga plankton"
+            },
+            {
+              "front": "He will avoid the spiky urchins",
+              "back": "likayan niya ang mga tusok nga uwak"
+            },
+            {
+              "front": "We will catch the fresh crayfish",
+              "back": "dakpon namo ang presko nga crayfish"
+            },
+            {
+              "front": "She will shuck the salty oyster",
+              "back": "iyang shuck ang parat nga talaba"
+            },
+            {
+              "front": "He will observe the venomous snake",
+              "back": "iyang tan-awon ang malala nga bitin"
+            },
+            {
+              "front": "They will feed the tiny seahorses",
+              "back": "pakan-on nila ang gagmay nga mga seahorse"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

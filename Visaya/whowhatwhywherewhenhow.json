@@ -1,0 +1,1418 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Interrogatives",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Who",
+              "back": "WHO"
+            },
+            {
+              "front": "What",
+              "back": "unsa"
+            },
+            {
+              "front": "Why",
+              "back": "ngano"
+            },
+            {
+              "front": "Where",
+              "back": "diin"
+            },
+            {
+              "front": "When",
+              "back": "kanus-a"
+            },
+            {
+              "front": "How",
+              "back": "unsaon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Who is",
+              "back": "kinsa ni"
+            },
+            {
+              "front": "What is",
+              "back": "unsa ang"
+            },
+            {
+              "front": "Why is",
+              "back": "ngano man"
+            },
+            {
+              "front": "Where is",
+              "back": "asa ni"
+            },
+            {
+              "front": "When is",
+              "back": "kanus-a"
+            },
+            {
+              "front": "How is",
+              "back": "unsaon nalang"
+            },
+            {
+              "front": "Who are",
+              "back": "kinsa ni"
+            },
+            {
+              "front": "What are",
+              "back": "unsa ang"
+            },
+            {
+              "front": "Why are",
+              "back": "ngano"
+            },
+            {
+              "front": "Where are",
+              "back": "asa na"
+            },
+            {
+              "front": "When are",
+              "back": "kanus-a na"
+            },
+            {
+              "front": "How are",
+              "back": "kumusta na"
+            },
+            {
+              "front": "Who knows",
+              "back": "kinsay nasayod"
+            },
+            {
+              "front": "What happened",
+              "back": "unsay nahitabo"
+            },
+            {
+              "front": "Why me",
+              "back": "nganong ako"
+            },
+            {
+              "front": "Where now",
+              "back": "asa karon"
+            },
+            {
+              "front": "When exactly",
+              "back": "kanus-a gyud"
+            },
+            {
+              "front": "How come",
+              "back": "unsaon man"
+            },
+            {
+              "front": "What next",
+              "back": "unsa sunod"
+            },
+            {
+              "front": "Who else",
+              "back": "kinsa pa"
+            },
+            {
+              "front": "Why bother",
+              "back": "nganong magsamok"
+            },
+            {
+              "front": "Where to",
+              "back": "asa paingon"
+            },
+            {
+              "front": "When's lunch",
+              "back": "kanus-a ang paniudto"
+            },
+            {
+              "front": "How's life",
+              "back": "kumusta ang kinabuhi"
+            },
+            {
+              "front": "Who cares",
+              "back": "kinsay nagpakabana"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Who is he",
+              "back": "kinsa siya"
+            },
+            {
+              "front": "What is that",
+              "back": "unsa na"
+            },
+            {
+              "front": "Why are we",
+              "back": "nganong kami"
+            },
+            {
+              "front": "Where are you",
+              "back": "asa ka"
+            },
+            {
+              "front": "When is it",
+              "back": "kanus-a na"
+            },
+            {
+              "front": "How are you",
+              "back": "kumusta ka"
+            },
+            {
+              "front": "Who knows this",
+              "back": "kinsay nasayod niini"
+            },
+            {
+              "front": "What comes next",
+              "back": "unsay sunod"
+            },
+            {
+              "front": "Why wait now",
+              "back": "nganong maghulat karon"
+            },
+            {
+              "front": "Where is she",
+              "back": "asa siya"
+            },
+            {
+              "front": "When is lunch",
+              "back": "kanus-a ang paniudto"
+            },
+            {
+              "front": "How is he",
+              "back": "naunsa na siya"
+            },
+            {
+              "front": "Who wants coffee",
+              "back": "kinsay gusto ug kape"
+            },
+            {
+              "front": "What happens now",
+              "back": "unsay mahitabo karon"
+            },
+            {
+              "front": "Why ask me",
+              "back": "nganong mangutana ko"
+            },
+            {
+              "front": "Where is home",
+              "back": "asa ang balay"
+            },
+            {
+              "front": "When do we",
+              "back": "kanus-a ta"
+            },
+            {
+              "front": "How does this",
+              "back": "giunsa ni"
+            },
+            {
+              "front": "Who needs help",
+              "back": "kinsa nagkinahanglan ug tabang"
+            },
+            {
+              "front": "What is wrong",
+              "back": "unsay sayop"
+            },
+            {
+              "front": "Why not go",
+              "back": "nganong dili moadto"
+            },
+            {
+              "front": "Where am I",
+              "back": "asa ko"
+            },
+            {
+              "front": "When is dinner",
+              "back": "kanus-a ang panihapon"
+            },
+            {
+              "front": "How is life",
+              "back": "kumusta ang kinabuhi"
+            },
+            {
+              "front": "Who are they",
+              "back": "kinsa sila"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Who are you now",
+              "back": "kinsa ka karon"
+            },
+            {
+              "front": "What is your name",
+              "back": "unsa imong ngalan"
+            },
+            {
+              "front": "Why are we here",
+              "back": "nganong naa mi"
+            },
+            {
+              "front": "Where is the exit",
+              "back": "asa ang exit"
+            },
+            {
+              "front": "When is the meeting",
+              "back": "kanus-a ang miting"
+            },
+            {
+              "front": "How are you feeling",
+              "back": "kumusta imong gibati"
+            },
+            {
+              "front": "Who wants some coffee",
+              "back": "kinsay gusto ug kape"
+            },
+            {
+              "front": "What is the plan",
+              "back": "unsa ang plano"
+            },
+            {
+              "front": "Why is it raining",
+              "back": "nganong nag-ulan"
+            },
+            {
+              "front": "Where do you live",
+              "back": "asa ka nagpuyo"
+            },
+            {
+              "front": "When do we start",
+              "back": "kanus-a ta magsugod"
+            },
+            {
+              "front": "How does this work",
+              "back": "giunsa kini pagtrabaho"
+            },
+            {
+              "front": "Who knows the answer",
+              "back": "kinsay nasayod sa tubag"
+            },
+            {
+              "front": "What time is it",
+              "back": "unsa na orasa"
+            },
+            {
+              "front": "Why is this happening",
+              "back": "nganong nahitabo ni"
+            },
+            {
+              "front": "Where is my phone",
+              "back": "asa akong phone"
+            },
+            {
+              "front": "When can we leave",
+              "back": "kanus-a ta makabiya"
+            },
+            {
+              "front": "How do you know",
+              "back": "giunsa nimo pagkahibalo"
+            },
+            {
+              "front": "Who needs more time",
+              "back": "kinsa nagkinahanglan ug dugang panahon"
+            },
+            {
+              "front": "What are you doing",
+              "back": "unsa imong gibuhat"
+            },
+            {
+              "front": "Why are you upset",
+              "back": "nganong nasuko ka"
+            },
+            {
+              "front": "Where did he go",
+              "back": "asa siya miadto"
+            },
+            {
+              "front": "When is the party",
+              "back": "kanus-a ang party"
+            },
+            {
+              "front": "How is your day",
+              "back": "kumusta imong adlaw"
+            },
+            {
+              "front": "Who can help me",
+              "back": "kinsay makatabang nako"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "Who do you think is",
+              "back": "kinsa sa imong hunahuna"
+            },
+            {
+              "front": "What are you doing now",
+              "back": "unsa imong gibuhat karon"
+            },
+            {
+              "front": "Where is the nearest café",
+              "back": "asa ang pinaka duol nga café"
+            },
+            {
+              "front": "When does the movie start",
+              "back": "kanus-a magsugod ang salida"
+            },
+            {
+              "front": "Why is the sky blue",
+              "back": "nganong blue ang langit"
+            },
+            {
+              "front": "How do you know that",
+              "back": "giunsa nimo pagkahibalo niana"
+            },
+            {
+              "front": "Who is your favorite singer",
+              "back": "kinsa imong paboritong singer"
+            },
+            {
+              "front": "What makes you feel happy",
+              "back": "unsay makapalipay nimo"
+            },
+            {
+              "front": "Where are we going today",
+              "back": "asa ta paingon karon"
+            },
+            {
+              "front": "When is the next bus",
+              "back": "kanus-a ang sunod nga bus"
+            },
+            {
+              "front": "Why are they so late",
+              "back": "nganong ulahi na sila"
+            },
+            {
+              "front": "How is your mother doing",
+              "back": "kumusta imong mama"
+            },
+            {
+              "front": "Who wants to join me",
+              "back": "kinsay gusto mukuyog nako"
+            },
+            {
+              "front": "What time is it now",
+              "back": "unsa na orasa karon"
+            },
+            {
+              "front": "Where can I find help",
+              "back": "asa ko mangita ug tabang"
+            },
+            {
+              "front": "When do we eat lunch",
+              "back": "kanus-a ta maniudto"
+            },
+            {
+              "front": "Why does she look upset",
+              "back": "nganong murag nasuko siya"
+            },
+            {
+              "front": "How are you feeling today",
+              "back": "kumusta imong gibati karon"
+            },
+            {
+              "front": "Who needs assistance right now",
+              "back": "kinsa nanginahanglan ug tabang karon"
+            },
+            {
+              "front": "What is your favorite color",
+              "back": "unsa imong paboritong color"
+            },
+            {
+              "front": "Where did I put keys",
+              "back": "asa nako gibutang ang mga yawe"
+            },
+            {
+              "front": "When are we meeting again",
+              "back": "kanus-a ta magkita pag-usab"
+            },
+            {
+              "front": "Why is this happening now",
+              "back": "nganong nahitabo ni karon"
+            },
+            {
+              "front": "How does this machine work",
+              "back": "giunsa kini nga makina"
+            },
+            {
+              "front": "Who can answer this question",
+              "back": "kinsay makatubag ani nga pangutana"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Who do you think you are",
+              "back": "kinsa ka sa imong hunahuna"
+            },
+            {
+              "front": "What are you planning to do",
+              "back": "unsa imong plano buhaton"
+            },
+            {
+              "front": "Where is the bathroom located here",
+              "back": "asa nahimutang ang banyo dinhi"
+            },
+            {
+              "front": "When does the train usually arrive",
+              "back": "kanus-a kasagaran moabot ang tren"
+            },
+            {
+              "front": "Why is the sky blue today",
+              "back": "nganong blue ang langit karon"
+            },
+            {
+              "front": "How do you know my name",
+              "back": "giunsa nimo pagkahibalo sa akong ngalan"
+            },
+            {
+              "front": "Who is your favorite author now",
+              "back": "kinsa imong paboritong author karon"
+            },
+            {
+              "front": "What makes you happy these days",
+              "back": "unsay nakapalipay nimo karong mga adlawa"
+            },
+            {
+              "front": "Where can I find good coffee",
+              "back": "asa ko makakitag maayong kape"
+            },
+            {
+              "front": "When are we going to leave",
+              "back": "kanus-a ta molakaw"
+            },
+            {
+              "front": "Why are you acting so strange",
+              "back": "nganong katingad-an man ka"
+            },
+            {
+              "front": "How is your family doing lately",
+              "back": "kumusta ang imong pamilya karong bag-o"
+            },
+            {
+              "front": "Who wants to join me today",
+              "back": "kinsay gusto mukuyog nako karon"
+            },
+            {
+              "front": "What is the plan for tonight",
+              "back": "unsay plano karong gabhiona"
+            },
+            {
+              "front": "Where should we meet for lunch",
+              "back": "asa ta magkita ug paniudto"
+            },
+            {
+              "front": "When is the next class starting",
+              "back": "kanus-a magsugod ang sunod nga klase"
+            },
+            {
+              "front": "Why are they always late today",
+              "back": "nganong permi man sila late karon"
+            },
+            {
+              "front": "How do you use this device",
+              "back": "giunsa nimo paggamit kini nga aparato"
+            },
+            {
+              "front": "Who can help me with this",
+              "back": "kinsay makatabang nako ani"
+            },
+            {
+              "front": "What time do you usually wake",
+              "back": "unsa oras ka kasagaran magmata"
+            },
+            {
+              "front": "Where are you going right now",
+              "back": "asa ka paingon karon"
+            },
+            {
+              "front": "When do we need to submit this",
+              "back": "kanus-a kinahanglan naton kini isumite"
+            },
+            {
+              "front": "Why is this happening to me",
+              "back": "nganong nahitabo ni nako"
+            },
+            {
+              "front": "How are you feeling right now",
+              "back": "unsa imong gibati karon"
+            },
+            {
+              "front": "Who is responsible for this mess",
+              "back": "kinsa ang responsable niini nga kagubot"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Who was that",
+              "back": "kinsa kadto"
+            },
+            {
+              "front": "What happened yesterday",
+              "back": "unsay nahitabo gahapon"
+            },
+            {
+              "front": "Why did you",
+              "back": "ngano ka"
+            },
+            {
+              "front": "Where were you",
+              "back": "asa ka"
+            },
+            {
+              "front": "When was that",
+              "back": "kanus-a kana"
+            },
+            {
+              "front": "How was it",
+              "back": "naunsa na"
+            },
+            {
+              "front": "Who helped you",
+              "back": "kinsa mitabang nimo"
+            },
+            {
+              "front": "What went wrong",
+              "back": "unsay nahitabo"
+            },
+            {
+              "front": "Why leave early",
+              "back": "nganong biyaan ug sayo"
+            },
+            {
+              "front": "Where did he",
+              "back": "asa siya"
+            },
+            {
+              "front": "When did we",
+              "back": "kanus-a mi"
+            },
+            {
+              "front": "How did you",
+              "back": "giunsa nimo"
+            },
+            {
+              "front": "Who told you",
+              "back": "kinsay nagsulti nimo"
+            },
+            {
+              "front": "What broke down",
+              "back": "unsay naguba"
+            },
+            {
+              "front": "Why feel sad",
+              "back": "nganong gibati sad"
+            },
+            {
+              "front": "Where was she",
+              "back": "asa siya"
+            },
+            {
+              "front": "When did it",
+              "back": "kanus-a ni"
+            },
+            {
+              "front": "How went it",
+              "back": "giunsa ni"
+            },
+            {
+              "front": "Who saw that",
+              "back": "kinsa nakakita niana"
+            },
+            {
+              "front": "What caused that",
+              "back": "unsay hinungdan niana"
+            },
+            {
+              "front": "Why cry now",
+              "back": "nganong nihilak man"
+            },
+            {
+              "front": "Where did they",
+              "back": "diin sila"
+            },
+            {
+              "front": "When arrived you",
+              "back": "pag abot nimo"
+            },
+            {
+              "front": "How managed you",
+              "back": "giunsa nimo pagdumala"
+            },
+            {
+              "front": "Who fixed it",
+              "back": "kinsay nag-ayo niini"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Who was at home",
+              "back": "kinsa naa sa balay"
+            },
+            {
+              "front": "What did you say",
+              "back": "unsa imong giingon"
+            },
+            {
+              "front": "Why did you leave",
+              "back": "nganong nibiya ka"
+            },
+            {
+              "front": "Where did he go",
+              "back": "asa siya miadto"
+            },
+            {
+              "front": "When did it happen",
+              "back": "kanus-a ni nahitabo"
+            },
+            {
+              "front": "How did you know",
+              "back": "giunsa nimo pagkahibalo"
+            },
+            {
+              "front": "Who won the game",
+              "back": "kinsa midaog sa duwa"
+            },
+            {
+              "front": "What made you laugh",
+              "back": "unsay nakapakatawa nimo"
+            },
+            {
+              "front": "Why were you late",
+              "back": "nganong nadugay ka"
+            },
+            {
+              "front": "Where were you yesterday",
+              "back": "asa ka gahapon"
+            },
+            {
+              "front": "When did they arrive",
+              "back": "kanus-a sila niabot"
+            },
+            {
+              "front": "How was your day",
+              "back": "kumusta imong adlaw"
+            },
+            {
+              "front": "Who told you that",
+              "back": "kinsay nagsulti nimo ana"
+            },
+            {
+              "front": "What broke the window",
+              "back": "unsay nakabuak sa bintana"
+            },
+            {
+              "front": "Why did she cry",
+              "back": "nganong nihilak siya"
+            },
+            {
+              "front": "Where did we meet",
+              "back": "asa ta nagkita"
+            },
+            {
+              "front": "When was the party",
+              "back": "kanus-a ang party"
+            },
+            {
+              "front": "How did it go",
+              "back": "giunsa ni"
+            },
+            {
+              "front": "Who forgot the keys",
+              "back": "kinsa nakalimot sa mga yawe"
+            },
+            {
+              "front": "What caused the delay",
+              "back": "unsay hinungdan sa pagkalangan"
+            },
+            {
+              "front": "Why was he angry",
+              "back": "nganong nasuko siya"
+            },
+            {
+              "front": "Where did they stay",
+              "back": "asa sila nagpuyo"
+            },
+            {
+              "front": "When was the meeting",
+              "back": "kanus-a ang miting"
+            },
+            {
+              "front": "How did you feel",
+              "back": "unsay imong gibati"
+            },
+            {
+              "front": "Who fixed the problem",
+              "back": "kinsa nag-ayo sa problema"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Who did you think I was",
+              "back": "kinsa sa imong gihunahuna nga ako"
+            },
+            {
+              "front": "What did you do last night",
+              "back": "unsa imong gibuhat kagabii"
+            },
+            {
+              "front": "Where did you leave your phone",
+              "back": "asa nimo gibiyaan imong phone"
+            },
+            {
+              "front": "When did they plan to arrive",
+              "back": "kanus-a sila nagplano nga moabot"
+            },
+            {
+              "front": "Why did she leave so early",
+              "back": "nganong sayo kaayo siya nilakaw"
+            },
+            {
+              "front": "How did you solve that problem",
+              "back": "giunsa nimo pagsulbad ang maong problema"
+            },
+            {
+              "front": "Who was responsible for the mistake",
+              "back": "kinsa ang responsable sa sayop"
+            },
+            {
+              "front": "What made you change your mind",
+              "back": "unsay nakapausab sa imong hunahuna"
+            },
+            {
+              "front": "Where did you park the car",
+              "back": "asa nimo giparking ang sakyanan"
+            },
+            {
+              "front": "When did the show finally start",
+              "back": "kanus-a nagsugod ang show"
+            },
+            {
+              "front": "Why were they not informed earlier",
+              "back": "nganong wala man sila gipahibalo sa sayo pa"
+            },
+            {
+              "front": "How was your experience at school",
+              "back": "kumusta imong experience sa school"
+            },
+            {
+              "front": "Who told you about the event",
+              "back": "kinsa nagsulti kanimo bahin sa panghitabo"
+            },
+            {
+              "front": "What happened after I left",
+              "back": "unsay nahitabo after nako nilakaw"
+            },
+            {
+              "front": "Where were you when it occurred",
+              "back": "asa ka dihang nahitabo"
+            },
+            {
+              "front": "When did you first meet her",
+              "back": "kanus-a ka unang nagkita niya"
+            },
+            {
+              "front": "Why didn't you answer my call",
+              "back": "nganong wala nimo tubaga akong tawag"
+            },
+            {
+              "front": "How did they react to news",
+              "back": "unsay ilang reaksyon sa balita"
+            },
+            {
+              "front": "Who forgot to turn off lights",
+              "back": "nga nakalimot sa pagpalong sa suga"
+            },
+            {
+              "front": "What did he say to you",
+              "back": "unsa iyang gisulti nimo"
+            },
+            {
+              "front": "Where did all the time go",
+              "back": "asa paingon ang tanang panahon"
+            },
+            {
+              "front": "When was the last time we spoke",
+              "back": "kanus-a ang kataposang higayon nga nag-estorya mi"
+            },
+            {
+              "front": "Why didn't you come to party",
+              "back": "nganong wala ka nianhi sa party"
+            },
+            {
+              "front": "How did you enjoy the trip",
+              "back": "unsa ka nalingaw sa biyahe"
+            },
+            {
+              "front": "Who was sitting next to you",
+              "back": "nga naglingkod tapad nimo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Who did you think I was",
+              "back": "kinsa sa imong gihunahuna nga ako"
+            },
+            {
+              "front": "What did you do last night",
+              "back": "unsa imong gibuhat kagabii"
+            },
+            {
+              "front": "Where did you leave your phone",
+              "back": "asa nimo gibiyaan imong phone"
+            },
+            {
+              "front": "When did they plan to arrive",
+              "back": "kanus-a sila nagplano nga moabot"
+            },
+            {
+              "front": "Why did she leave so early",
+              "back": "nganong sayo man sya nilakaw"
+            },
+            {
+              "front": "How did you solve that problem",
+              "back": "giunsa nimo pagsulbad ang maong problema"
+            },
+            {
+              "front": "Who was responsible for the mistake",
+              "back": "kinsa ang responsable sa sayop"
+            },
+            {
+              "front": "What made you change your mind",
+              "back": "unsay nakapausab sa imong hunahuna"
+            },
+            {
+              "front": "Where did you park the car",
+              "back": "asa nimo giparada ang sakyanan"
+            },
+            {
+              "front": "When did the show finally start",
+              "back": "kanus-a nagsugod ang show"
+            },
+            {
+              "front": "Why were they not informed earlier",
+              "back": "nganong wala man sila gipahibalo sa sayo pa"
+            },
+            {
+              "front": "How was your experience at school",
+              "back": "kumusta imong experience sa school"
+            },
+            {
+              "front": "Who told you about the event",
+              "back": "kinsay nagsulti nimo bahin sa panghitabo"
+            },
+            {
+              "front": "What happened after I left",
+              "back": "unsay nahitabo after nako nilakaw"
+            },
+            {
+              "front": "Where were you when it occurred",
+              "back": "asa ka dihang nahitabo"
+            },
+            {
+              "front": "When did you first meet her",
+              "back": "kanus-a ka unang nagkita niya"
+            },
+            {
+              "front": "Why didn't you answer my call",
+              "back": "nganong wala nimo tubaga akong tawag"
+            },
+            {
+              "front": "How did they react to news",
+              "back": "unsay ilang reaksyon sa balita"
+            },
+            {
+              "front": "Who forgot to turn off lights",
+              "back": "nga nakalimot sa pagpalong sa suga"
+            },
+            {
+              "front": "What did he say to you",
+              "back": "unsa iyang gisulti nimo"
+            },
+            {
+              "front": "Where did all the time go",
+              "back": "asa paingon ang tanang panahon"
+            },
+            {
+              "front": "When was the last time we spoke",
+              "back": "kanus-a ang kataposang higayon nga nag-estorya mi"
+            },
+            {
+              "front": "Why didn't you come to party",
+              "back": "nganong wala ka nianhi sa party"
+            },
+            {
+              "front": "How did you enjoy the trip",
+              "back": "unsa ka nalingaw sa biyahe"
+            },
+            {
+              "front": "Who was sitting next to you",
+              "back": "nga naglingkod tapad nimo"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Who will go",
+              "back": "kinsay moadto"
+            },
+            {
+              "front": "What will happen",
+              "back": "unsay mahitabo"
+            },
+            {
+              "front": "Where will you",
+              "back": "asa ka"
+            },
+            {
+              "front": "When will it",
+              "back": "kanus-a kini"
+            },
+            {
+              "front": "Why will he",
+              "back": "nganong siya"
+            },
+            {
+              "front": "How will we",
+              "back": "unsaon nato"
+            },
+            {
+              "front": "Who will know",
+              "back": "kinsay makahibalo"
+            },
+            {
+              "front": "What will change",
+              "back": "unsay mausab"
+            },
+            {
+              "front": "Where will they",
+              "back": "asa sila"
+            },
+            {
+              "front": "When will you",
+              "back": "kanus-a ka"
+            },
+            {
+              "front": "Why will she",
+              "back": "nganong siya"
+            },
+            {
+              "front": "How will I",
+              "back": "unsaon nako"
+            },
+            {
+              "front": "Who will help",
+              "back": "kinsay mutabang"
+            },
+            {
+              "front": "What will be",
+              "back": "unsay mahitabo"
+            },
+            {
+              "front": "Where will we",
+              "back": "asa mi"
+            },
+            {
+              "front": "When will they",
+              "back": "kanus-a sila"
+            },
+            {
+              "front": "Why will it",
+              "back": "ngano man"
+            },
+            {
+              "front": "How will you",
+              "back": "unsaon nimo"
+            },
+            {
+              "front": "Who will come",
+              "back": "kinsay moabot"
+            },
+            {
+              "front": "What will end",
+              "back": "unsay matapos"
+            },
+            {
+              "front": "Where will I",
+              "back": "asa ko"
+            },
+            {
+              "front": "When will he",
+              "back": "kanus-a siya"
+            },
+            {
+              "front": "Why will we",
+              "back": "nganong mag"
+            },
+            {
+              "front": "How will she",
+              "back": "unsaon niya"
+            },
+            {
+              "front": "Who will decide",
+              "back": "kinsay magbuot"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Who will you call",
+              "back": "kinsa imong tawagan"
+            },
+            {
+              "front": "What will happen next",
+              "back": "unsay sunod mahitabo"
+            },
+            {
+              "front": "Where will they go",
+              "back": "asa sila moadto"
+            },
+            {
+              "front": "When will it end",
+              "back": "kanus-a kini mahuman"
+            },
+            {
+              "front": "Why will he leave",
+              "back": "nganong mubiya man siya"
+            },
+            {
+              "front": "How will we know",
+              "back": "unsaon nato pagkahibalo"
+            },
+            {
+              "front": "Who will help us",
+              "back": "kinsay motabang kanato"
+            },
+            {
+              "front": "What will you do",
+              "back": "unsa imong buhaton"
+            },
+            {
+              "front": "Where will she be",
+              "back": "asa siya"
+            },
+            {
+              "front": "When will I see",
+              "back": "kanus-a ko makakita"
+            },
+            {
+              "front": "Why will they wait",
+              "back": "nganong maghulat man sila"
+            },
+            {
+              "front": "How will you manage",
+              "back": "unsaon nimo pagdumala"
+            },
+            {
+              "front": "Who will attend meeting",
+              "back": "kinsa motambong sa miting"
+            },
+            {
+              "front": "What will be done",
+              "back": "unsay buhaton"
+            },
+            {
+              "front": "Where will we meet",
+              "back": "asa ta magkita"
+            },
+            {
+              "front": "When will you come",
+              "back": "kanus-a ka moabot"
+            },
+            {
+              "front": "Why will it matter",
+              "back": "nganong importante man"
+            },
+            {
+              "front": "How will she react",
+              "back": "unsay iyang reaksyon"
+            },
+            {
+              "front": "Who will lead team",
+              "back": "kinsa mangulo sa team"
+            },
+            {
+              "front": "What will they say",
+              "back": "unsay ilang isulti"
+            },
+            {
+              "front": "Where will I stay",
+              "back": "asa ko mu stay"
+            },
+            {
+              "front": "When will he return",
+              "back": "kanus-a siya mobalik"
+            },
+            {
+              "front": "Why will we try",
+              "back": "nganong maningkamot ta"
+            },
+            {
+              "front": "How will it work",
+              "back": "unsaon kini pagtrabaho"
+            },
+            {
+              "front": "Who will believe this",
+              "back": "kinsay motuo niini"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "Who will you meet tomorrow",
+              "back": "kinsay makigkita nimo ugma"
+            },
+            {
+              "front": "What will happen to us",
+              "back": "unsay mahitabo kanato"
+            },
+            {
+              "front": "Where will they stay tonight",
+              "back": "asa sila magpuyo karong gabhiona"
+            },
+            {
+              "front": "When will she arrive here",
+              "back": "kanus-a siya moabot dinhi"
+            },
+            {
+              "front": "Why will it take longer",
+              "back": "nganong magdugay pa"
+            },
+            {
+              "front": "How will we fix this",
+              "back": "unsaon nato pag ayo ani"
+            },
+            {
+              "front": "Who will help me move",
+              "back": "kinsay mutabang nako sa paglihok"
+            },
+            {
+              "front": "What will you do now",
+              "back": "unsa imong buhaton karon"
+            },
+            {
+              "front": "Where will we meet later",
+              "back": "asa ta magkita unya"
+            },
+            {
+              "front": "When will you know results",
+              "back": "kanus-a nimo mahibal-an ang mga resulta"
+            },
+            {
+              "front": "Why will they cancel it",
+              "back": "nganong kanselahon man nila"
+            },
+            {
+              "front": "How will she get there",
+              "back": "unsaon niya pag-abot didto"
+            },
+            {
+              "front": "Who will pay the bill",
+              "back": "kinsay mobayad sa bayronon"
+            },
+            {
+              "front": "What will make you happy",
+              "back": "unsay makapalipay nimo"
+            },
+            {
+              "front": "Where will he find work",
+              "back": "asa siya mangitag trabaho"
+            },
+            {
+              "front": "When will we start dinner",
+              "back": "kanus-a ta magsugod ug panihapon"
+            },
+            {
+              "front": "Why will you leave early",
+              "back": "nganong sayo man ka mobiya"
+            },
+            {
+              "front": "How will they solve this",
+              "back": "unsaon nila kini pagsulbad"
+            },
+            {
+              "front": "Who will win the game",
+              "back": "kinsay modaog sa duwa"
+            },
+            {
+              "front": "What will be your choice",
+              "back": "unsa imong pilion"
+            },
+            {
+              "front": "Where will she go next",
+              "back": "asa sya mu adto"
+            },
+            {
+              "front": "When will it stop raining",
+              "back": "kanus-a mohunong ang ulan"
+            },
+            {
+              "front": "Why will we change plans",
+              "back": "nganong mag-ilis ta ug plano"
+            },
+            {
+              "front": "How will you get home",
+              "back": "unsaon pag pauli"
+            },
+            {
+              "front": "Who will you call first",
+              "back": "kinsa imong unang tawagan"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Who will you invite to party",
+              "back": "kinsa imong imbitahon sa party"
+            },
+            {
+              "front": "What will happen if we fail",
+              "back": "unsay mahitabo kung mapakyas kita"
+            },
+            {
+              "front": "Where will they stay tonight",
+              "back": "asa sila magpuyo karong gabhiona"
+            },
+            {
+              "front": "When will it be over completely",
+              "back": "kanus-a kini mahuman sa hingpit"
+            },
+            {
+              "front": "Why will he not join us",
+              "back": "nganong di man siya mukuyog namo"
+            },
+            {
+              "front": "How will we solve this problem",
+              "back": "unsaon nato pagsulbad ni nga problema"
+            },
+            {
+              "front": "Who will help me move house",
+              "back": "kinsay mutabang nako sa pagbalhin ug balay"
+            },
+            {
+              "front": "What will you do about it",
+              "back": "unsa imong buhaton ani"
+            },
+            {
+              "front": "Where will she be staying tonight",
+              "back": "asa siya magpuyo karong gabhiona"
+            },
+            {
+              "front": "When will I see you again",
+              "back": "kanus-a ko magkita pag-usab"
+            },
+            {
+              "front": "Why will they not wait longer",
+              "back": "nganong dili na sila magdugay"
+            },
+            {
+              "front": "How will you get there tomorrow",
+              "back": "unsaon nimo pag-abot ugma"
+            },
+            {
+              "front": "Who will attend the meeting tomorrow",
+              "back": "kinsa motambong sa tigom ugma"
+            },
+            {
+              "front": "What will be the final outcome",
+              "back": "unsa ang katapusan nga sangputanan"
+            },
+            {
+              "front": "Where will we meet up later",
+              "back": "asa ta magkita unya"
+            },
+            {
+              "front": "When will you arrive at home",
+              "back": "kanus-a ka maabot sa balay"
+            },
+            {
+              "front": "Why will it take so long",
+              "back": "nganong magdugay man"
+            },
+            {
+              "front": "How will she react to news",
+              "back": "unsay iyang reaksyon sa balita"
+            },
+            {
+              "front": "Who will lead the new team",
+              "back": "kinsa mangulo sa bag-ong team"
+            },
+            {
+              "front": "What will they decide about proposal",
+              "back": "unsay ilang desisyon bahin sa proposal"
+            },
+            {
+              "front": "Where will I find you tomorrow",
+              "back": "asa ko mangita nimo ugma"
+            },
+            {
+              "front": "When will he get back home",
+              "back": "kanus-a siya makauli"
+            },
+            {
+              "front": "Why will we try again tomorrow",
+              "back": "nganong sulayan pa nato ugma"
+            },
+            {
+              "front": "How will it affect our plans",
+              "back": "unsay epekto niini sa atong mga plano"
+            },
+            {
+              "front": "Who will believe our story now",
+              "back": "kinsay mutoo sa among story karon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

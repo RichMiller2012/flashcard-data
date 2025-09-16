@@ -1,0 +1,1632 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Directions",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "forward",
+              "back": "sa unahan"
+            },
+            {
+              "front": "back",
+              "back": "balik"
+            },
+            {
+              "front": "left",
+              "back": "mibiya"
+            },
+            {
+              "front": "right",
+              "back": "husto"
+            },
+            {
+              "front": "up",
+              "back": "pataas"
+            },
+            {
+              "front": "down",
+              "back": "ubos"
+            },
+            {
+              "front": "in",
+              "back": "sa"
+            },
+            {
+              "front": "out",
+              "back": "gawas"
+            },
+            {
+              "front": "inside",
+              "back": "sulod"
+            },
+            {
+              "front": "outside",
+              "back": "gawas"
+            },
+            {
+              "front": "here",
+              "back": "dinhi"
+            },
+            {
+              "front": "there",
+              "back": "didto"
+            },
+            {
+              "front": "towards",
+              "back": "padulong sa"
+            },
+            {
+              "front": "away",
+              "back": "layo"
+            },
+            {
+              "front": "near",
+              "back": "duol"
+            },
+            {
+              "front": "far",
+              "back": "layo"
+            },
+            {
+              "front": "close",
+              "back": "duol"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Move forward",
+              "back": "lihok sa unahan"
+            },
+            {
+              "front": "Go back",
+              "back": "balik"
+            },
+            {
+              "front": "Turn left",
+              "back": "liko sa wala"
+            },
+            {
+              "front": "Turn right",
+              "back": "liko sa tuo"
+            },
+            {
+              "front": "Come inside",
+              "back": "sulod"
+            },
+            {
+              "front": "Go outside",
+              "back": "adto sa gawas"
+            },
+            {
+              "front": "Move up",
+              "back": "pataas"
+            },
+            {
+              "front": "Move down",
+              "back": "balhin sa ubos"
+            },
+            {
+              "front": "Go in",
+              "back": "sulod"
+            },
+            {
+              "front": "Go out",
+              "back": "gawas"
+            },
+            {
+              "front": "Come here",
+              "back": "anhi dinhi"
+            },
+            {
+              "front": "Go there",
+              "back": "adto didto"
+            },
+            {
+              "front": "Move towards",
+              "back": "lihok padulong"
+            },
+            {
+              "front": "Go away",
+              "back": "lakaw"
+            },
+            {
+              "front": "Stay near",
+              "back": "magpabilin duol"
+            },
+            {
+              "front": "Move far",
+              "back": "balhin sa layo"
+            },
+            {
+              "front": "Move close",
+              "back": "lihok duol"
+            },
+            {
+              "front": "Head forward",
+              "back": "ulo sa unahan"
+            },
+            {
+              "front": "Head back",
+              "back": "balik sa ulo"
+            },
+            {
+              "front": "Walk left",
+              "back": "lakaw sa wala"
+            },
+            {
+              "front": "Walk right",
+              "back": "lakaw sa tuo"
+            },
+            {
+              "front": "Follow up",
+              "back": "follow up"
+            },
+            {
+              "front": "Follow down",
+              "back": "musunod"
+            },
+            {
+              "front": "Drive forward",
+              "back": "drive sa unahan"
+            },
+            {
+              "front": "Drive back",
+              "back": "drive balik"
+            },
+            {
+              "front": "Run left",
+              "back": "dagan sa wala"
+            },
+            {
+              "front": "Run right",
+              "back": "dagan sa tuo"
+            },
+            {
+              "front": "Proceed forward",
+              "back": "magpadayon sa unahan"
+            },
+            {
+              "front": "Proceed back",
+              "back": "padayon balik"
+            },
+            {
+              "front": "Take left",
+              "back": "kuha sa wala"
+            },
+            {
+              "front": "Take right",
+              "back": "kuha sa tuo"
+            },
+            {
+              "front": "Take up",
+              "back": "kuhaa"
+            },
+            {
+              "front": "Take down",
+              "back": "ipaubos"
+            },
+            {
+              "front": "Stay in",
+              "back": "magpabilin sa"
+            },
+            {
+              "front": "Stay out",
+              "back": "magpabilin sa gawas"
+            },
+            {
+              "front": "Stand near",
+              "back": "barog duol"
+            },
+            {
+              "front": "Stand far",
+              "back": "barog sa layo"
+            },
+            {
+              "front": "Move here",
+              "back": "balhin dinhi"
+            },
+            {
+              "front": "Move there",
+              "back": "balhin didto"
+            },
+            {
+              "front": "Proceed towards",
+              "back": "magpadayon padulong sa"
+            },
+            {
+              "front": "Keep forward",
+              "back": "padayon sa unahan"
+            },
+            {
+              "front": "Keep back",
+              "back": "ibalik"
+            },
+            {
+              "front": "Keep left",
+              "back": "pabilin sa wala"
+            },
+            {
+              "front": "Keep right",
+              "back": "padayon sa husto"
+            },
+            {
+              "front": "Keep near",
+              "back": "padayon sa duol"
+            },
+            {
+              "front": "Keep far",
+              "back": "palayo"
+            },
+            {
+              "front": "Look towards",
+              "back": "tan-aw padulong"
+            },
+            {
+              "front": "Look away",
+              "back": "tan-aw sa layo"
+            },
+            {
+              "front": "Look near",
+              "back": "tan-aw duol"
+            },
+            {
+              "front": "Look far",
+              "back": "tan-aw sa layo"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Go forward now",
+              "back": "padayon karon"
+            },
+            {
+              "front": "Turn back quickly",
+              "back": "balik dayon"
+            },
+            {
+              "front": "Look left here",
+              "back": "tan-aw sa wala dinhi"
+            },
+            {
+              "front": "Turn right now",
+              "back": "lingi dayon"
+            },
+            {
+              "front": "Move up stairs",
+              "back": "mosaka sa hagdanan"
+            },
+            {
+              "front": "Go down here",
+              "back": "paubos dinhi"
+            },
+            {
+              "front": "Come inside now",
+              "back": "sulod na"
+            },
+            {
+              "front": "Go outside please",
+              "back": "adto sa gawas palihog"
+            },
+            {
+              "front": "Stand here now",
+              "back": "tindog diri karon"
+            },
+            {
+              "front": "Go there today",
+              "back": "adto didto karon"
+            },
+            {
+              "front": "Head towards beach",
+              "back": "paingon sa baybayon"
+            },
+            {
+              "front": "Move away now",
+              "back": "palayo karon"
+            },
+            {
+              "front": "Stay near entrance",
+              "back": "magpabilin duol sa entrada"
+            },
+            {
+              "front": "Walk far away",
+              "back": "lakaw sa layo"
+            },
+            {
+              "front": "Stay close here",
+              "back": "pabiling duol dinhi"
+            },
+            {
+              "front": "Drive forward now",
+              "back": "drive sa unahan karon"
+            },
+            {
+              "front": "Move back please",
+              "back": "palihog balik"
+            },
+            {
+              "front": "Take left here",
+              "back": "biya diri"
+            },
+            {
+              "front": "Take right here",
+              "back": "kuhaa diri"
+            },
+            {
+              "front": "Cross street now",
+              "back": "cross street karon"
+            },
+            {
+              "front": "Go down path",
+              "back": "adto sa dalan"
+            },
+            {
+              "front": "Follow signs closely",
+              "back": "sunda pag-ayo ang mga timailhan"
+            },
+            {
+              "front": "Travel towards city",
+              "back": "biyahe paingon sa siyudad"
+            },
+            {
+              "front": "Walk beside fence",
+              "back": "lakaw tupad sa koral"
+            },
+            {
+              "front": "Head south now",
+              "back": "paingon sa habagatan karon"
+            },
+            {
+              "front": "Look for bus",
+              "back": "mangita ug bus"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "left at intersection",
+              "back": "gibiyaan sa intersection"
+            },
+            {
+              "front": "right at the light",
+              "back": "diha mismo sa kahayag"
+            },
+            {
+              "front": "Come inside the house",
+              "back": "sulod sa balay"
+            },
+            {
+              "front": "Go back to start",
+              "back": "balik sa pagsugod"
+            },
+            {
+              "front": "Move up the stairs",
+              "back": "mosaka sa hagdanan"
+            },
+            {
+              "front": "Go down the hallway",
+              "back": "adto sa hallway"
+            },
+            {
+              "front": "Walk in the park",
+              "back": "lakaw sa parke"
+            },
+            {
+              "front": "Go outside to play",
+              "back": "adto sa gawas aron magdula"
+            },
+            {
+              "front": "Stand here at the corner",
+              "back": "tindog diri sa suok"
+            },
+            {
+              "front": "Drive straight on road",
+              "back": "dretso sa dalan"
+            },
+            {
+              "front": "Take the left turn",
+              "back": "liko sa wala"
+            },
+            {
+              "front": "Cross the street safely",
+              "back": "luwas nga motabok sa dalan"
+            },
+            {
+              "front": "Head towards the station",
+              "back": "paingon sa estasyon"
+            },
+            {
+              "front": "Stay near the entrance",
+              "back": "pabilin duol sa entrada"
+            },
+            {
+              "front": "Walk far down street",
+              "back": "lakaw sa layo sa dalan"
+            },
+            {
+              "front": "Move close to building",
+              "back": "balhin duol sa building"
+            },
+            {
+              "front": "Look down the path",
+              "back": "tan-awa ang dalan"
+            },
+            {
+              "front": "Drive toward the city",
+              "back": "magmaneho paingon sa siyudad"
+            },
+            {
+              "front": "Follow the signs carefully",
+              "back": "sunda pag-ayo ang mga timailhan"
+            },
+            {
+              "front": "Turn around at light",
+              "back": "lingi sa kahayag"
+            },
+            {
+              "front": "Take the shortcut home",
+              "back": "dad-a ang shortcut sa balay"
+            },
+            {
+              "front": "Ride the bus today",
+              "back": "sakay sa bus karon"
+            },
+            {
+              "front": "Look for the stop",
+              "back": "pangitaa ang paghunong"
+            },
+            {
+              "front": "Walk around the corner",
+              "back": "lakaw libot sa eskina"
+            },
+            {
+              "front": "Wait at the crosswalk",
+              "back": "maghulat sa crosswalk"
+            },
+            {
+              "front": "Drive through the tunnel",
+              "back": "magmaneho sa tunnel"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "Go left at the sign",
+              "back": "adto sa wala sa karatula"
+            },
+            {
+              "front": "Turn right at the intersection",
+              "back": "liko sa tuo sa intersection"
+            },
+            {
+              "front": "Walk forward until you see",
+              "back": "lakaw sa unahan hangtod makita nimo"
+            },
+            {
+              "front": "Drive straight down the road",
+              "back": "pagmaneho diretso sa dalan"
+            },
+            {
+              "front": "back to where you started",
+              "back": "balik sa kung asa ka nagsugod"
+            },
+            {
+              "front": "Move up the long staircase",
+              "back": "pasaka sa taas nga hagdanan"
+            },
+            {
+              "front": "Cross the street at light",
+              "back": "tabok sa dalan sa kahayag"
+            },
+            {
+              "front": "Take the left turn now",
+              "back": "liko sa wala karon"
+            },
+            {
+              "front": "Take a right at corner",
+              "back": "kuha ug tuo sa eskina"
+            },
+            {
+              "front": "Go down the narrow path",
+              "back": "adto sa hiktin nga dalan"
+            },
+            {
+              "front": "Stay close to the entrance",
+              "back": "magpabilin duol sa entrada"
+            },
+            {
+              "front": "Look for the bus stop",
+              "back": "pangitaa ang bus stop"
+            },
+            {
+              "front": "Follow signs to the park",
+              "back": "sunda ang mga karatula sa parke"
+            },
+            {
+              "front": "Wait at the traffic light",
+              "back": "maghulat sa traffic light"
+            },
+            {
+              "front": "Drive toward the city center",
+              "back": "magmaneho paingon sa sentro sa siyudad"
+            },
+            {
+              "front": "Walk around the shopping center",
+              "back": "lakaw libot sa shopping center"
+            },
+            {
+              "front": "Take the shortcut to home",
+              "back": "kuhaa ang shortcut padulong sa balay"
+            },
+            {
+              "front": "Look both ways before crossing",
+              "back": "tan-awa ang duha ka paagi sa dili pa motabok"
+            },
+            {
+              "front": "Ride the bus to downtown",
+              "back": "sakay sa bus paingon sa downtown"
+            },
+            {
+              "front": "Walk beside the tall fence",
+              "back": "lakaw tupad sa taas nga koral"
+            },
+            {
+              "front": "Drive through the roundabout carefully",
+              "back": "pag-amping pag-agi sa roundabout"
+            },
+            {
+              "front": "Head south toward the beach",
+              "back": "paingon sa habagatan paingon sa baybayon"
+            },
+            {
+              "front": "Turn around if you miss",
+              "back": "lingi kung mingawon ka"
+            },
+            {
+              "front": "Go inside the office building",
+              "back": "adto sulod sa office building"
+            },
+            {
+              "front": "Take the next exit quickly",
+              "back": "kuhaa dayon ang sunod nga exit"
+            },
+            {
+              "front": "Follow road to the freeway",
+              "back": "subay sa dalan paingon sa freeway"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Go left at the stop sign",
+              "back": "lakaw sa wala sa stop sign"
+            },
+            {
+              "front": "Turn right at the intersection ahead",
+              "back": "liko sa tuo sa intersection sa unahan"
+            },
+            {
+              "front": "Walk forward until you see the sign",
+              "back": "lakaw sa unahan hangtod makita nimo ang timaan"
+            },
+            {
+              "front": "Drive straight down the road carefully",
+              "back": "pagmaneho og diretso sa dalan"
+            },
+            {
+              "front": "Head back to where you started",
+              "back": "balik sa kung asa ka nagsugod"
+            },
+            {
+              "front": "Move up the long staircase quickly",
+              "back": "lakaw dayon sa taas nga hagdanan"
+            },
+            {
+              "front": "Cross the street at the light",
+              "back": "tabok sa dalan sa suga"
+            },
+            {
+              "front": "Take the left turn at corner",
+              "back": "liko sa wala sa eskina"
+            },
+            {
+              "front": "Take a right at the corner",
+              "back": "kuha ug tuo sa eskina"
+            },
+            {
+              "front": "Go down the path towards park",
+              "back": "adto sa dalan padulong sa parke"
+            },
+            {
+              "front": "Stay close to the building entrance",
+              "back": "magpabilin duol sa entrada sa bilding"
+            },
+            {
+              "front": "Look for the bus stop now",
+              "back": "pangitaa ang bus stop karon"
+            },
+            {
+              "front": "Follow the signs to the playground",
+              "back": "sunda ang mga karatula sa playground"
+            },
+            {
+              "front": "Wait at the traffic light patiently",
+              "back": "maghulat sa suga sa trapiko nga mapailubon"
+            },
+            {
+              "front": "Drive toward the city center today",
+              "back": "magmaneho paingon sa sentro sa siyudad karon"
+            },
+            {
+              "front": "Walk around the shopping center now",
+              "back": "lakaw libot sa shopping center karon"
+            },
+            {
+              "front": "Take the shortcut to home quickly",
+              "back": "kuhaa ang shortcut sa balay dayon"
+            },
+            {
+              "front": "Look both ways before crossing road",
+              "back": "tan-awa ang duha ka dalan sa dili pa motabok sa dalan"
+            },
+            {
+              "front": "Ride the blue bus to downtown",
+              "back": "sakay sa asul nga bus paingon sa downtown"
+            },
+            {
+              "front": "Walk beside the tall wooden fence",
+              "back": "lakaw tupad sa taas nga koral nga kahoy"
+            },
+            {
+              "front": "Drive through the small roundabout carefully",
+              "back": "pag-amping pag-agi sa gamay nga roundabout"
+            },
+            {
+              "front": "Head south toward the sandy beach",
+              "back": "paingon sa habagatan paingon sa balason nga baybayon"
+            },
+            {
+              "front": "Turn around if you miss exits",
+              "back": "lingi kung masipyat ka sa mga exit"
+            },
+            {
+              "front": "Go inside the office for meeting",
+              "back": "adto sa opisina para mag meeting"
+            },
+            {
+              "front": "Take the exit quickly and safely",
+              "back": "kuhaa ang exit nga dali ug luwas"
+            },
+            {
+              "front": "Follow the road to the freeway",
+              "back": "sundan ang dalan paingon sa freeway"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Turned left",
+              "back": "niliko sa wala"
+            },
+            {
+              "front": "Went right",
+              "back": "miadto sa tuo"
+            },
+            {
+              "front": "Came back",
+              "back": "nibalik"
+            },
+            {
+              "front": "Moved forward",
+              "back": "mibalhin sa unahan"
+            },
+            {
+              "front": "Headed south",
+              "back": "paingon sa habagatan"
+            },
+            {
+              "front": "Drove straight",
+              "back": "diretso nga nagmaneho"
+            },
+            {
+              "front": "Crossed street",
+              "back": "mitabok sa dalan"
+            },
+            {
+              "front": "Took path",
+              "back": "mikuha ug dalan"
+            },
+            {
+              "front": "Went up",
+              "back": "misaka"
+            },
+            {
+              "front": "Went down",
+              "back": "ninaog"
+            },
+            {
+              "front": "Saw sign",
+              "back": "nakita nga timaan"
+            },
+            {
+              "front": "Followed signs",
+              "back": "nagsunod sa mga timailhan"
+            },
+            {
+              "front": "Waited outside",
+              "back": "naghulat sa gawas"
+            },
+            {
+              "front": "Looked left",
+              "back": "mitan-aw sa wala"
+            },
+            {
+              "front": "Looked right",
+              "back": "mitan-aw sa husto"
+            },
+            {
+              "front": "Moved back",
+              "back": "mibalhin balik"
+            },
+            {
+              "front": "Parked car",
+              "back": "giparking nga sakyanan"
+            },
+            {
+              "front": "Rode bus",
+              "back": "nisakay ug bus"
+            },
+            {
+              "front": "Drove home",
+              "back": "nagdrayb pauli"
+            },
+            {
+              "front": "Exited highway",
+              "back": "nigawas sa highway"
+            },
+            {
+              "front": "Walked around",
+              "back": "naglakaw-lakaw"
+            },
+            {
+              "front": "Went inside",
+              "back": "misulod"
+            },
+            {
+              "front": "Sailed across",
+              "back": "milawig tabok"
+            },
+            {
+              "front": "Traveled through",
+              "back": "mibiyahe pinaagi sa"
+            },
+            {
+              "front": "Headed back",
+              "back": "mibalik"
+            },
+            {
+              "front": "Took ferry",
+              "back": "nisakay ug ferry"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I turned left",
+              "back": "niliko ko sa wala"
+            },
+            {
+              "front": "He went right",
+              "back": "siya miadto sa tuo"
+            },
+            {
+              "front": "She came back",
+              "back": "nibalik siya"
+            },
+            {
+              "front": "They moved forward",
+              "back": "mipadayon sila sa unahan"
+            },
+            {
+              "front": "We headed south",
+              "back": "mipaingon mi sa habagatan"
+            },
+            {
+              "front": "You drove straight",
+              "back": "diretso ka nga nagmaneho"
+            },
+            {
+              "front": "I crossed street",
+              "back": "mitabok ko sa dalan"
+            },
+            {
+              "front": "He took path",
+              "back": "iyang gikuha ang dalan"
+            },
+            {
+              "front": "She went up",
+              "back": "nisaka siya"
+            },
+            {
+              "front": "They went down",
+              "back": "nanaug sila"
+            },
+            {
+              "front": "I saw sign",
+              "back": "nakita ko nga sign"
+            },
+            {
+              "front": "We followed signs",
+              "back": "misunod mig signs"
+            },
+            {
+              "front": "You waited outside",
+              "back": "naghulat ka sa gawas"
+            },
+            {
+              "front": "He looked left",
+              "back": "nilingi siya sa wala"
+            },
+            {
+              "front": "She looked right",
+              "back": "tama siya tan-awon"
+            },
+            {
+              "front": "They moved back",
+              "back": "mibalik sila"
+            },
+            {
+              "front": "I parked car",
+              "back": "nagparking kog sakyanan"
+            },
+            {
+              "front": "He rode bus",
+              "back": "nisakay siya ug bus"
+            },
+            {
+              "front": "We drove home",
+              "back": "nagdrayb mi pauli"
+            },
+            {
+              "front": "They exited highway",
+              "back": "nanggawas sila sa highway"
+            },
+            {
+              "front": "You walked around",
+              "back": "nilakaw ka"
+            },
+            {
+              "front": "I went inside",
+              "back": "nisulod ko"
+            },
+            {
+              "front": "He sailed across",
+              "back": "milawig siya tabok"
+            },
+            {
+              "front": "We traveled through",
+              "back": "miagi mi"
+            },
+            {
+              "front": "You headed back",
+              "back": "mibalik ka"
+            },
+            {
+              "front": "I took ferry",
+              "back": "nisakay ko ug ferry"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I turned left here",
+              "back": "niliko ko sa wala diri"
+            },
+            {
+              "front": "He went right there",
+              "back": "miadto siya didto"
+            },
+            {
+              "front": "She came back home",
+              "back": "niuli siya"
+            },
+            {
+              "front": "They moved forward quickly",
+              "back": "dali silang miuswag"
+            },
+            {
+              "front": "We headed south today",
+              "back": "padulong mi sa south karon"
+            },
+            {
+              "front": "You drove straight ahead",
+              "back": "nagdrayb ka diretso sa unahan"
+            },
+            {
+              "front": "Everyone crossed the street",
+              "back": "ang tanan mitabok sa dalan"
+            },
+            {
+              "front": "Nobody took the bus",
+              "back": "walay nisakay ug bus"
+            },
+            {
+              "front": "I looked down there",
+              "back": "mitan-aw ko didto"
+            },
+            {
+              "front": "She walked around corner",
+              "back": "naglakaw siya sa suok"
+            },
+            {
+              "front": "He rode bike yesterday",
+              "back": "nag bike siya gahapon"
+            },
+            {
+              "front": "They parked near entrance",
+              "back": "nag park sila duol sa entrance"
+            },
+            {
+              "front": "I took the shortcut",
+              "back": "Gikuha nako ang shortcut"
+            },
+            {
+              "front": "You waited at light",
+              "back": "naghulat ka sa kahayag"
+            },
+            {
+              "front": "He followed the signs",
+              "back": "gisunod niya ang mga timailhan"
+            },
+            {
+              "front": "We exited the highway",
+              "back": "nigawas mi sa highway"
+            },
+            {
+              "front": "I went inside building",
+              "back": "nisulod ko sa building"
+            },
+            {
+              "front": "She sailed across river",
+              "back": "milawig siya tabok sa suba"
+            },
+            {
+              "front": "They traveled through woods",
+              "back": "mipanaw sila agi sa kakahoyan"
+            },
+            {
+              "front": "Everyone moved back quickly",
+              "back": "ang tanan mibalik dayon"
+            },
+            {
+              "front": "Nobody arrived on time",
+              "back": "walay niabot sa saktong oras"
+            },
+            {
+              "front": "I watched the tram",
+              "back": "nagtan-aw ko sa tram"
+            },
+            {
+              "front": "You walked to park",
+              "back": "nilakaw ka paingon sa park"
+            },
+            {
+              "front": "We drove down road",
+              "back": "nagmaneho kami sa dalan"
+            },
+            {
+              "front": "He took ferry yesterday",
+              "back": "nisakay siya ug ferry gahapon"
+            },
+            {
+              "front": "She headed toward exit",
+              "back": "mipaingon siya sa exit"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I turned left at intersection",
+              "back": "niliko ko sa wala sa intersection"
+            },
+            {
+              "front": "He went right at light",
+              "back": "miadto siya sa kahayag"
+            },
+            {
+              "front": "She came back to start",
+              "back": "nibalik siya para magsugod"
+            },
+            {
+              "front": "They moved forward quickly",
+              "back": "dali silang miuswag"
+            },
+            {
+              "front": "We headed south to beach",
+              "back": "mipaingon mi sa habagatan paingon sa baybayon"
+            },
+            {
+              "front": "You drove straight down road",
+              "back": "nagmaneho ka diretso sa dalan"
+            },
+            {
+              "front": "I crossed street safely today",
+              "back": "nakatabok ko sa dalan nga luwas karon"
+            },
+            {
+              "front": "He took path through woods",
+              "back": "miagi siya sa kakahoyan"
+            },
+            {
+              "front": "She went up the hill",
+              "back": "mitungas siya sa bungtod"
+            },
+            {
+              "front": "They went down the stairs",
+              "back": "nanaug sila sa hagdanan"
+            },
+            {
+              "front": "I saw sign clearly yesterday",
+              "back": "Nakita nako nga klaro ang timaan kagahapon"
+            },
+            {
+              "front": "We followed signs closely yesterday",
+              "back": "gisunod namo pag-ayo ang mga senyales kagahapon"
+            },
+            {
+              "front": "You waited outside the building",
+              "back": "naghuwat ka sa gawas sa building"
+            },
+            {
+              "front": "He looked left at corner",
+              "back": "mitan-aw siya sa wala sa eskina"
+            },
+            {
+              "front": "She looked right at light",
+              "back": "mitan-aw siya sa kahayag"
+            },
+            {
+              "front": "They moved back to start",
+              "back": "mibalik sila sa pagsugod"
+            },
+            {
+              "front": "I parked car near entrance",
+              "back": "Giparking nako ang sakyanan duol sa entrance"
+            },
+            {
+              "front": "He rode bus to school",
+              "back": "nisakay siya ug bus padulong sa eskwelahan"
+            },
+            {
+              "front": "We drove home after event",
+              "back": "nagdrayb mi pauli after event"
+            },
+            {
+              "front": "They exited highway at exit",
+              "back": "nigawas sila sa highway sa exit"
+            },
+            {
+              "front": "You walked around the park",
+              "back": "naglibot ka sa parke"
+            },
+            {
+              "front": "I went inside the house",
+              "back": "nisulod ko sa balay"
+            },
+            {
+              "front": "He sailed across the river",
+              "back": "milawig siya tabok sa suba"
+            },
+            {
+              "front": "We traveled through the city",
+              "back": "mibiyahe mi sa siyudad"
+            },
+            {
+              "front": "You headed back to base",
+              "back": "mibalik ka sa base"
+            },
+            {
+              "front": "I took ferry to island",
+              "back": "Nagsakay ko ug ferry padulong sa isla"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I turned left at the intersection",
+              "back": "niliko ko sa wala sa intersection"
+            },
+            {
+              "front": "He went right at the light",
+              "back": "miadto siya sa kahayag"
+            },
+            {
+              "front": "She came back after the meeting",
+              "back": "nibalik siya pagkahuman sa miting"
+            },
+            {
+              "front": "They moved forward through the crowd",
+              "back": "sila mipadayon sa unahan pinaagi sa panon sa katawhan"
+            },
+            {
+              "front": "We headed south toward the beach",
+              "back": "mipadulong mi sa habagatan paingon sa baybayon"
+            },
+            {
+              "front": "You drove straight to the destination",
+              "back": "nagmaneho ka diretso sa destinasyon"
+            },
+            {
+              "front": "Everyone crossed the street carefully today",
+              "back": "ang tanan mitabok sa dalan pag-ayo karon"
+            },
+            {
+              "front": "Nobody took the bus yesterday morning",
+              "back": "walay nisakay sa bus gahapon sa buntag"
+            },
+            {
+              "front": "I looked down the dark alley",
+              "back": "mitan-aw ko sa ngitngit nga eskinita"
+            },
+            {
+              "front": "She walked around the corner slowly",
+              "back": "naghinay-hinay siyag lakaw sa eskina"
+            },
+            {
+              "front": "He rode his bike to school",
+              "back": "nisakay siya sa iyang bike paingon sa eskwelahan"
+            },
+            {
+              "front": "They parked near the entrance yesterday",
+              "back": "nag park sila duol sa entrance gahapon"
+            },
+            {
+              "front": "I took the shortcut through town",
+              "back": "Gikuha nako ang shortcut sa lungsod"
+            },
+            {
+              "front": "You waited at the traffic light",
+              "back": "naghulat ka sa traffic light"
+            },
+            {
+              "front": "He followed the signs to home",
+              "back": "gisunod niya ang mga timailhan sa balay"
+            },
+            {
+              "front": "We exited the highway at noon",
+              "back": "udto na mi nigawas sa highway"
+            },
+            {
+              "front": "I went inside the building earlier",
+              "back": "Nisulod ko sa building kanina"
+            },
+            {
+              "front": "She sailed across the river yesterday",
+              "back": "milawig siya tabok sa suba kagahapon"
+            },
+            {
+              "front": "They traveled through the wooded area",
+              "back": "miagi sila sa kakahoyan"
+            },
+            {
+              "front": "Everyone moved back when they arrived",
+              "back": "ang tanan mibalik pag-abot nila"
+            },
+            {
+              "front": "Nobody arrived on time for meeting",
+              "back": "walay niabot sa saktong oras para magkita"
+            },
+            {
+              "front": "I watched the tram arrive on time",
+              "back": "Gitan-aw nako ang tram nga moabot sa saktong oras"
+            },
+            {
+              "front": "You walked to the park quickly",
+              "back": "nilakaw ka dayon sa park"
+            },
+            {
+              "front": "We drove down the long road",
+              "back": "nagdrayb mi sa taas nga dalan"
+            },
+            {
+              "front": "He took the ferry across river",
+              "back": "misakay siyag lantsa tabok sa suba"
+            },
+            {
+              "front": "She headed toward the exit slowly",
+              "back": "hinayhinay siyang mipaingon sa exit"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "We will go",
+              "back": "kita moadto"
+            },
+            {
+              "front": "You will go",
+              "back": "moadto ka"
+            },
+            {
+              "front": "Nobody will go",
+              "back": "walay moadto"
+            },
+            {
+              "front": "They will follow",
+              "back": "mosunod sila"
+            },
+            {
+              "front": "I will turn",
+              "back": "molingi ko"
+            },
+            {
+              "front": "He will drive",
+              "back": "siya ang magmaneho"
+            },
+            {
+              "front": "She will arrive",
+              "back": "muabot siya"
+            },
+            {
+              "front": "We will walk",
+              "back": "manglakaw mi"
+            },
+            {
+              "front": "They will park",
+              "back": "magparking sila"
+            },
+            {
+              "front": "You will exit",
+              "back": "mogawas ka"
+            },
+            {
+              "front": "I will wait",
+              "back": "maghulat ko"
+            },
+            {
+              "front": "He will come",
+              "back": "muabot siya"
+            },
+            {
+              "front": "She will leave",
+              "back": "siya mobiya"
+            },
+            {
+              "front": "We will travel",
+              "back": "kita mobiyahe"
+            },
+            {
+              "front": "You will ride",
+              "back": "mosakay ka"
+            },
+            {
+              "front": "Nobody will stop",
+              "back": "walay mohunong"
+            },
+            {
+              "front": "I will head",
+              "back": "akong ulo"
+            },
+            {
+              "front": "He will go",
+              "back": "siya moadto"
+            },
+            {
+              "front": "She will go",
+              "back": "siya moadto"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will turn left",
+              "back": "moliko ko sa wala"
+            },
+            {
+              "front": "He will go right",
+              "back": "siya moadto sa husto"
+            },
+            {
+              "front": "They will move forward",
+              "back": "sila magpadayon"
+            },
+            {
+              "front": "We will head south",
+              "back": "moadto mi sa habagatan"
+            },
+            {
+              "front": "You will take the path",
+              "back": "imong kuhaon ang dalan"
+            },
+            {
+              "front": "She will drive straight ahead",
+              "back": "siya magdrayb sa unahan"
+            },
+            {
+              "front": "Nobody will wait here",
+              "back": "walay maghulat dinhi"
+            },
+            {
+              "front": "Everyone will go inside",
+              "back": "ang tanan mosulod"
+            },
+            {
+              "front": "I will follow the signs",
+              "back": "akong sundon ang mga timailhan"
+            },
+            {
+              "front": "He will ride the bus",
+              "back": "mosakay siya sa bus"
+            },
+            {
+              "front": "We will cross the street",
+              "back": "motabok mi sa dalan"
+            },
+            {
+              "front": "You will stop at light",
+              "back": "mohunong ka sa kahayag"
+            },
+            {
+              "front": "They will arrive at noon",
+              "back": "maabot sila sa udto"
+            },
+            {
+              "front": "She will wait at corner",
+              "back": "maghulat siya sa eskina"
+            },
+            {
+              "front": "I will walk beside fence",
+              "back": "maglakaw ko tupad sa koral"
+            },
+            {
+              "front": "He will travel through town",
+              "back": "moagi siya sa lungsod"
+            },
+            {
+              "front": "We will move towards park",
+              "back": "mubalhin mi padulong sa park"
+            },
+            {
+              "front": "You will head back home",
+              "back": "mobalik ka sa balay"
+            },
+            {
+              "front": "They will take the ferry",
+              "back": "sila mosakay sa lantsa"
+            },
+            {
+              "front": "Everyone will meet at entrance",
+              "back": "tanan magkita sa entrance"
+            },
+            {
+              "front": "I will stay close to you",
+              "back": "magpabilin ko nga duol kanimo"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will go home now",
+              "back": "mopauli ko karon"
+            },
+            {
+              "front": "He will return back soon",
+              "back": "mobalik siya sa dili madugay"
+            },
+            {
+              "front": "They will turn left here",
+              "back": "moliko sila sa wala dinhi"
+            },
+            {
+              "front": "She will walk towards me",
+              "back": "mulakaw siya padulong nako"
+            },
+            {
+              "front": "He will go inside quickly",
+              "back": "musulod dayon siya"
+            },
+            {
+              "front": "We will drive straight ahead",
+              "back": "diretso mig drive"
+            },
+            {
+              "front": "You will stop at home",
+              "back": "mohunong ka sa balay"
+            },
+            {
+              "front": "I will wait for you",
+              "back": "maghulat ko nimo"
+            },
+            {
+              "front": "They will follow the signs",
+              "back": "mosunod sila sa mga timailhan"
+            },
+            {
+              "front": "Everyone will meet at entrance",
+              "back": "tanan magkita sa entrance"
+            },
+            {
+              "front": "She will look for directions",
+              "back": "mangita siyag direksyon"
+            },
+            {
+              "front": "He will ride the bus",
+              "back": "mosakay siya sa bus"
+            },
+            {
+              "front": "We will head towards work",
+              "back": "padulong mi sa trabaho"
+            },
+            {
+              "front": "You will go to work",
+              "back": "moadto ka sa trabaho"
+            },
+            {
+              "front": "I will walk beside you",
+              "back": "maglakaw ko tupad nimo"
+            },
+            {
+              "front": "They will arrive at noon",
+              "back": "maabot sila sa udto"
+            },
+            {
+              "front": "He will turn right here",
+              "back": "moliko siya dinhi mismo"
+            },
+            {
+              "front": "She will go to heaven",
+              "back": "moadto siya sa langit"
+            },
+            {
+              "front": "We will move back quickly",
+              "back": "mubalik dayon mi"
+            },
+            {
+              "front": "You will take the shortcut",
+              "back": "mokuha ka sa shortcut"
+            },
+            {
+              "front": "Everyone will leave after lunch",
+              "back": "ang tanan mobiya human sa paniudto"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will turn left at intersection",
+              "back": "moliko ko sa wala sa intersection"
+            },
+            {
+              "front": "He will go right at light",
+              "back": "moadto siya sa kahayag"
+            },
+            {
+              "front": "They will move forward carefully today",
+              "back": "mag-amping sila sa unahan karong adlawa"
+            },
+            {
+              "front": "We will head south to beach",
+              "back": "mopaingon mi sa habagatan paingon sa baybayon"
+            },
+            {
+              "front": "You will take the path home",
+              "back": "imong kuhaon ang dalan pauli"
+            },
+            {
+              "front": "She will drive straight to office",
+              "back": "magdrayb siya diretso sa opisina"
+            },
+            {
+              "front": "Nobody will wait here for long",
+              "back": "walay maghulat dinhi ug dugay"
+            },
+            {
+              "front": "Everyone will go inside the building",
+              "back": "ang tanan mosulod sa bilding"
+            },
+            {
+              "front": "I will follow the signs closely",
+              "back": "akong sundon pag-ayo ang mga timailhan"
+            },
+            {
+              "front": "He will ride the bus tomorrow",
+              "back": "sakay siya sa bus ugma"
+            },
+            {
+              "front": "We will cross the street safely",
+              "back": "luwas kita nga motabok sa dalan"
+            },
+            {
+              "front": "You will stop at the light",
+              "back": "mohunong ka sa kahayag"
+            },
+            {
+              "front": "They will arrive at noon today",
+              "back": "udto sila moabot karong adlawa"
+            },
+            {
+              "front": "She will wait at the corner",
+              "back": "maghulat siya sa eskina"
+            },
+            {
+              "front": "I will walk beside the fence",
+              "back": "maglakaw ko tupad sa koral"
+            },
+            {
+              "front": "He will travel through the town",
+              "back": "moagi siya sa lungsod"
+            },
+            {
+              "front": "We will move towards the park",
+              "back": "mobalhin mi paingon sa parke"
+            },
+            {
+              "front": "You will head back home soon",
+              "back": "makauli ka dayon"
+            },
+            {
+              "front": "They will take the ferry across",
+              "back": "sila mosakay sa lantsa tabok"
+            },
+            {
+              "front": "Everyone will meet at the entrance",
+              "back": "magkita ang tanan sa entrada"
+            },
+            {
+              "front": "I will stay with you today",
+              "back": "magpabilin ko nimo karon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

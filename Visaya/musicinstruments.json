@@ -1,0 +1,1556 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Musical Instruments",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Guitar",
+              "back": "gitara"
+            },
+            {
+              "front": "Piano",
+              "back": "piano"
+            },
+            {
+              "front": "Drums",
+              "back": "mga tambol"
+            },
+            {
+              "front": "Violin",
+              "back": "biyolin"
+            },
+            {
+              "front": "Saxophone",
+              "back": "saxophone"
+            },
+            {
+              "front": "Trumpet",
+              "back": "trumpeta"
+            },
+            {
+              "front": "Flute",
+              "back": "plawta"
+            },
+            {
+              "front": "Cello",
+              "back": "cello"
+            },
+            {
+              "front": "Clarinet",
+              "back": "clarinet"
+            },
+            {
+              "front": "Harp",
+              "back": "alpa"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Play guitar",
+              "back": "maggitara"
+            },
+            {
+              "front": "Hold violin",
+              "back": "pagkupot ug biyolin"
+            },
+            {
+              "front": "Tune piano",
+              "back": "tuno sa piano"
+            },
+            {
+              "front": "Strike drums",
+              "back": "strike drums"
+            },
+            {
+              "front": "Blow saxophone",
+              "back": "huyop sa saxophone"
+            },
+            {
+              "front": "Sing trumpet",
+              "back": "kanta ug trumpeta"
+            },
+            {
+              "front": "Play flute",
+              "back": "magpatugtog ug plawta"
+            },
+            {
+              "front": "Bow cello",
+              "back": "pana cello"
+            },
+            {
+              "front": "Strum harp",
+              "back": "strum harp"
+            },
+            {
+              "front": "Pluck ukulele",
+              "back": "kuha ug ukulele"
+            },
+            {
+              "front": "Finger clarinet",
+              "back": "clarinet sa tudlo"
+            },
+            {
+              "front": "Dance tambourine",
+              "back": "sayaw tamburin"
+            },
+            {
+              "front": "Press piano",
+              "back": "pagpindot sa piano"
+            },
+            {
+              "front": "Shake maracas",
+              "back": "uyog maracas"
+            },
+            {
+              "front": "Blow horn",
+              "back": "huyop sa budyong"
+            },
+            {
+              "front": "Strike cymbals",
+              "back": "hampakon ang mga piyangpiyang"
+            },
+            {
+              "front": "Beat drums",
+              "back": "beat drums"
+            },
+            {
+              "front": "Guitar strum",
+              "back": "strum sa gitara"
+            },
+            {
+              "front": "Violin bow",
+              "back": "violin pana"
+            },
+            {
+              "front": "Cello play",
+              "back": "dula sa cello"
+            },
+            {
+              "front": "Harp pluck",
+              "back": "harp pluck"
+            },
+            {
+              "front": "Clarinet finger",
+              "back": "clarinet nga tudlo"
+            },
+            {
+              "front": "Trumpet blow",
+              "back": "huyop sa trumpeta"
+            },
+            {
+              "front": "Flute play",
+              "back": "pagtugtog sa plawta"
+            },
+            {
+              "front": "Saxophone jam",
+              "back": "saxophone jam"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I play guitar",
+              "back": "mag gitara ko"
+            },
+            {
+              "front": "He holds violin",
+              "back": "nagkupot siyag violin"
+            },
+            {
+              "front": "She tunes piano",
+              "back": "nagtugtog siya sa piano"
+            },
+            {
+              "front": "They strike drums",
+              "back": "naghapak sila ug mga tambol"
+            },
+            {
+              "front": "We blow saxophone",
+              "back": "naghuyop kami sa saxophone"
+            },
+            {
+              "front": "You sing trumpet",
+              "back": "nag-awit ka ug trumpeta"
+            },
+            {
+              "front": "I play flute",
+              "back": "nagdula kog plawta"
+            },
+            {
+              "front": "He bows cello",
+              "back": "miyukbo siya sa cello"
+            },
+            {
+              "front": "She strums harp",
+              "back": "siya motugtog ug alpa"
+            },
+            {
+              "front": "They pluck ukulele",
+              "back": "nanguha sila ug ukulele"
+            },
+            {
+              "front": "We finger clarinet",
+              "back": "among tudlo clarinet"
+            },
+            {
+              "front": "You dance tambourine",
+              "back": "sayaw ka tamburin"
+            },
+            {
+              "front": "I press piano",
+              "back": "mi-press ko sa piano"
+            },
+            {
+              "front": "He shakes maracas",
+              "back": "giuyog niya ang maracas"
+            },
+            {
+              "front": "She blows horn",
+              "back": "nagbudyong siya"
+            },
+            {
+              "front": "They strike cymbals",
+              "back": "sila naghapak sa mga piyangpiyang"
+            },
+            {
+              "front": "We beat drums",
+              "back": "gikulata namo ang mga tambol"
+            },
+            {
+              "front": "You guitar strum",
+              "back": "strum ka sa gitara"
+            },
+            {
+              "front": "I violin bow",
+              "back": "akong violin bow"
+            },
+            {
+              "front": "He cello play",
+              "back": "nagdula siya ug cello"
+            },
+            {
+              "front": "She harp pluck",
+              "back": "siya nagkupot ug alpa"
+            },
+            {
+              "front": "They clarinet finger",
+              "back": "clarinet nila tudlo"
+            },
+            {
+              "front": "We trumpet blow",
+              "back": "trumpeta mi"
+            },
+            {
+              "front": "You flute play",
+              "back": "plawta ka"
+            },
+            {
+              "front": "He saxophone jam",
+              "back": "jam siya saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I play guitar daily",
+              "back": "mag gitara ko kada adlaw"
+            },
+            {
+              "front": "He holds violin carefully",
+              "back": "nagkupot siyag violin pag-ayo"
+            },
+            {
+              "front": "She tunes piano regularly",
+              "back": "kanunay siyang motugtog sa piano"
+            },
+            {
+              "front": "They strike drums loudly",
+              "back": "sila naghapak sa mga tambol nga kusog"
+            },
+            {
+              "front": "We blow saxophone beautifully",
+              "back": "nindot ang paghuyop namo sa saxophone"
+            },
+            {
+              "front": "You sing trumpet passionately",
+              "back": "nag-awit ka sa trumpeta nga madasigon"
+            },
+            {
+              "front": "I play flute gracefully",
+              "back": "ako motugtog ug plawta nga maayo"
+            },
+            {
+              "front": "He bows cello skillfully",
+              "back": "hanas siyang moduko sa cello"
+            },
+            {
+              "front": "She strums harp softly",
+              "back": "Hinay niyang gitugtukan ang alpa"
+            },
+            {
+              "front": "They pluck ukulele lightly",
+              "back": "gaan silag kuha ug ukulele"
+            },
+            {
+              "front": "We finger clarinet accurately",
+              "back": "Gitudlo namon ang clarinet sa tukma"
+            },
+            {
+              "front": "You dance tambourine energetically",
+              "back": "kusog ka mosayaw tamburin"
+            },
+            {
+              "front": "I press piano keys",
+              "back": "Pindutin ko ang mga yawe sa piano"
+            },
+            {
+              "front": "He shakes maracas rhythmically",
+              "back": "giuyog niya ang maracas nga ritmo"
+            },
+            {
+              "front": "She blows horn powerfully",
+              "back": "kusog kaayo ang iyang paghuyop sa budyong"
+            },
+            {
+              "front": "They strike cymbals sharply",
+              "back": "sila mohapak sa mga piyangpiyang nga mahait"
+            },
+            {
+              "front": "We beat drums steadily",
+              "back": "pirmi namong gibunalan ang mga tambol"
+            },
+            {
+              "front": "You guitar strum smoothly",
+              "back": "Hinayhinay ang imong pagtugtog sa gitara"
+            },
+            {
+              "front": "I violin bow carefully",
+              "back": "ako nagyukbo sa biyolin pag-ayo"
+            },
+            {
+              "front": "He cello play beautifully",
+              "back": "nindot kaayo sya mutugtog ug cello"
+            },
+            {
+              "front": "She harp pluck delicately",
+              "back": "maayo siya sa pagkupot sa alpa"
+            },
+            {
+              "front": "They clarinet finger precisely",
+              "back": "sila clarinet tudlo tukma"
+            },
+            {
+              "front": "We trumpet blow loudly",
+              "back": "trumpeta mi ug kusog"
+            },
+            {
+              "front": "You flute play softly",
+              "back": "hinay ka nga plawta"
+            },
+            {
+              "front": "He saxophone jam energetically",
+              "back": "siya saxophone jam abtik"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I play guitar every day",
+              "back": "mag gitara ko kada adlaw"
+            },
+            {
+              "front": "He holds violin with skill",
+              "back": "nagkupot siya sa biyolin uban ang kahanas"
+            },
+            {
+              "front": "She tunes piano carefully now",
+              "back": "nag-ayo siya sa pagtugtog sa piano karon"
+            },
+            {
+              "front": "They strike drums during practice",
+              "back": "sila mohapak sa mga tambol panahon sa praktis"
+            },
+            {
+              "front": "We blow saxophone beautifully today",
+              "back": "nindot ang paghuyop sa saxophone karon"
+            },
+            {
+              "front": "You sing trumpet with passion",
+              "back": "nag-awit ka sa trumpeta uban ang gugma"
+            },
+            {
+              "front": "I play flute gracefully daily",
+              "back": "Ako nagtugtog ug plawta matag adlaw"
+            },
+            {
+              "front": "He bows cello with precision",
+              "back": "giyukbo niya ang cello nga tukma"
+            },
+            {
+              "front": "She strums harp softly now",
+              "back": "Hinay na niyang gitugpakan ang alpa karon"
+            },
+            {
+              "front": "They pluck ukulele lightly today",
+              "back": "gaan silag kuha ug ukulele karon"
+            },
+            {
+              "front": "We finger clarinet accurately now",
+              "back": "Gitudlo namon ang clarinet nga tukma karon"
+            },
+            {
+              "front": "You dance tambourine energetically today",
+              "back": "kusog ka mosayaw tamburin karon"
+            },
+            {
+              "front": "I press piano keys daily",
+              "back": "Gipindot nako ang mga yawe sa piano kada adlaw"
+            },
+            {
+              "front": "He shakes maracas rhythmically now",
+              "back": "giuyog niya ang maracas nga ritmo karon"
+            },
+            {
+              "front": "She blows horn powerfully today",
+              "back": "kusog kaayo ang iyang pagbudyong karon"
+            },
+            {
+              "front": "They strike cymbals sharply now",
+              "back": "sila naghapak sa mga piyangpiyang nga mahait karon"
+            },
+            {
+              "front": "We beat drums steadily today",
+              "back": "padayon namong gibunalan ang mga tambol karon"
+            },
+            {
+              "front": "You guitar strum smoothly now",
+              "back": "Hinayhinay na ang imong pagtugtog sa gitara karon"
+            },
+            {
+              "front": "I violin bow carefully today",
+              "back": "ako nagyukbo sa biyolin pag-ayo karon"
+            },
+            {
+              "front": "He cello play beautifully now",
+              "back": "nindot na siya mutugtog ug cello karon"
+            },
+            {
+              "front": "She harp pluck delicately today",
+              "back": "maayo siya sa pagkupot sa alpa karon"
+            },
+            {
+              "front": "They clarinet finger precisely now",
+              "back": "sila clarinet tudlo tukma karon"
+            },
+            {
+              "front": "We trumpet blow loudly today",
+              "back": "kusog kaayo among trumpeta karon"
+            },
+            {
+              "front": "You flute play softly now",
+              "back": "hinay ka nga plawta karon"
+            },
+            {
+              "front": "He saxophone jam energetically today",
+              "back": "siya saxophone jam abtik karon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I play guitar every single day",
+              "back": "mag gitara ko kada adlaw"
+            },
+            {
+              "front": "He holds violin with great skill",
+              "back": "nagkupot siyag biyolin uban ang dakong kahanas"
+            },
+            {
+              "front": "She tunes piano very carefully now",
+              "back": "mabinantayon kaayo siya sa pagtugtog sa piano karon"
+            },
+            {
+              "front": "They strike drums during intense practice",
+              "back": "sila mohapak sa mga tambol panahon sa grabeng praktis"
+            },
+            {
+              "front": "We blow saxophone beautifully every evening",
+              "back": "nindot ang paghuyop namo sa saxophone kada gabii"
+            },
+            {
+              "front": "You sing trumpet with lots of passion",
+              "back": "nag-awit ka sa trompeta nga adunay daghang kahinam"
+            },
+            {
+              "front": "I play flute gracefully every morning",
+              "back": "ako motugtog ug plawta matag buntag"
+            },
+            {
+              "front": "He bows cello with perfect precision",
+              "back": "giyukbo niya ang cello nga adunay hingpit nga katukma"
+            },
+            {
+              "front": "She strums harp softly every night",
+              "back": "hinayhinay niyang gitugtog ang alpa matag gabii"
+            },
+            {
+              "front": "They pluck ukulele lightly every session",
+              "back": "gaan ang ilang pag-ibot ug ukulele matag sesyon"
+            },
+            {
+              "front": "We finger clarinet accurately every rehearsal",
+              "back": "sakto ang among tudlo sa clarinet matag ensayo"
+            },
+            {
+              "front": "You dance tambourine energetically during performances",
+              "back": "kusog ka mosayaw tamburin panahon sa mga pasundayag"
+            },
+            {
+              "front": "I press piano keys every day",
+              "back": "Pindutin ko ang mga yawe sa piano kada adlaw"
+            },
+            {
+              "front": "He shakes maracas rhythmically during shows",
+              "back": "giuyog niya ang maracas nga ritmo sa panahon sa mga pasundayag"
+            },
+            {
+              "front": "She blows horn powerfully every concert",
+              "back": "kusog ang iyang pagbusina kada konsyerto"
+            },
+            {
+              "front": "They strike cymbals sharply every performance",
+              "back": "sila mohampak sa mga piyangpiyang nga mahait sa matag pasundayag"
+            },
+            {
+              "front": "We beat drums steadily every session",
+              "back": "makanunayon namong gibunalan ang mga tambol matag sesyon"
+            },
+            {
+              "front": "You guitar strum smoothly every evening",
+              "back": "Hinayhinay ang pagtugtog sa gitara matag gabii"
+            },
+            {
+              "front": "I violin bow carefully every practice",
+              "back": "ako violin bow pag-ayo sa matag praktis"
+            },
+            {
+              "front": "He cello play beautifully every night",
+              "back": "nindot siya magtugtog ug cello kada gabii"
+            },
+            {
+              "front": "She harp pluck delicately every performance",
+              "back": "Siya magakupot ug alpa sa matag pasundayag"
+            },
+            {
+              "front": "They clarinet finger precisely every rehearsal",
+              "back": "clarinet tudlo gyud nila kada rehearsal"
+            },
+            {
+              "front": "We trumpet blow loudly every concert",
+              "back": "trumpeta mi ug kusog kada concert"
+            },
+            {
+              "front": "You flute play softly every morning",
+              "back": "hinay ka nga plawta kada buntag"
+            },
+            {
+              "front": "He saxophone jam energetically every session",
+              "back": "siya saxophone jam abtik sa matag sesyon"
+            },
+            {
+              "front": "She enjoys playing harp gracefully daily",
+              "back": "nanamian sia magtokar sing arpa nga matahom kada adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Played guitar",
+              "back": "nagtugtog og gitara"
+            },
+            {
+              "front": "Held violin",
+              "back": "naggunit og biyolin"
+            },
+            {
+              "front": "Tuned piano",
+              "back": "gitugtog nga piano"
+            },
+            {
+              "front": "Struck drums",
+              "back": "gihapak ang mga tambol"
+            },
+            {
+              "front": "Blew saxophone",
+              "back": "mihuyop sa saxophone"
+            },
+            {
+              "front": "Sang trumpet",
+              "back": "ang trumpeta"
+            },
+            {
+              "front": "Played flute",
+              "back": "nagtugtog ug plawta"
+            },
+            {
+              "front": "Bowed cello",
+              "back": "miyukbo sa cello"
+            },
+            {
+              "front": "Strummed harp",
+              "back": "gitugtog nga alpa"
+            },
+            {
+              "front": "Plucked ukulele",
+              "back": "gikuha ang ukulele"
+            },
+            {
+              "front": "Fingers clarinet",
+              "back": "clarinet sa mga tudlo"
+            },
+            {
+              "front": "Danced tambourine",
+              "back": "nagsayaw nga tamburin"
+            },
+            {
+              "front": "Pressed piano",
+              "back": "gipindot nga piano"
+            },
+            {
+              "front": "Shook maracas",
+              "back": "nag-uyog sa maracas"
+            },
+            {
+              "front": "Blew horn",
+              "back": "mibudyong"
+            },
+            {
+              "front": "Struck cymbals",
+              "back": "gibunalan ang mga piyangpiyang"
+            },
+            {
+              "front": "Beat drums",
+              "back": "beat drums"
+            },
+            {
+              "front": "Strummed guitar",
+              "back": "gistrum nga gitara"
+            },
+            {
+              "front": "Bowed violin",
+              "back": "miduko nga biyolin"
+            },
+            {
+              "front": "Played cello",
+              "back": "nagdula og cello"
+            },
+            {
+              "front": "Plucked harp",
+              "back": "giibut nga alpa"
+            },
+            {
+              "front": "Fingered clarinet",
+              "back": "clarinet sa tudlo"
+            },
+            {
+              "front": "Blew trumpet",
+              "back": "mihuyop sa trumpeta"
+            },
+            {
+              "front": "Played flute",
+              "back": "nagtugtog ug plawta"
+            },
+            {
+              "front": "Jammed saxophone",
+              "back": "naka-jam nga saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I played guitar",
+              "back": "nag gitara ko"
+            },
+            {
+              "front": "He held violin",
+              "back": "nagkupot siyag violin"
+            },
+            {
+              "front": "She tuned piano",
+              "back": "nag tuno siya sa piano"
+            },
+            {
+              "front": "They struck drums",
+              "back": "naghapak sila ug mga tambol"
+            },
+            {
+              "front": "We blew saxophone",
+              "back": "naghuyop mig saxophone"
+            },
+            {
+              "front": "You sang trumpet",
+              "back": "miawit ka ug trumpeta"
+            },
+            {
+              "front": "I played flute",
+              "back": "nagtugtog kog plawta"
+            },
+            {
+              "front": "He bowed cello",
+              "back": "miduko siya sa cello"
+            },
+            {
+              "front": "She strummed harp",
+              "back": "siya mitukar sa alpa"
+            },
+            {
+              "front": "They plucked ukulele",
+              "back": "nanguha sila ug ukulele"
+            },
+            {
+              "front": "We fingered clarinet",
+              "back": "nag finger mi ug clarinet"
+            },
+            {
+              "front": "You danced tambourine",
+              "back": "nagsayaw ka ug tamburin"
+            },
+            {
+              "front": "I pressed piano",
+              "back": "pinindot ko ang piano"
+            },
+            {
+              "front": "He shook maracas",
+              "back": "giuyog niya ang maracas"
+            },
+            {
+              "front": "She blew horn",
+              "back": "mibusina siya"
+            },
+            {
+              "front": "They struck cymbals",
+              "back": "gihapak nila ang mga piyangpiyang"
+            },
+            {
+              "front": "We beat drums",
+              "back": "gikulata namo ang mga tambol"
+            },
+            {
+              "front": "You strummed guitar",
+              "back": "nag strum ka sa gitara"
+            },
+            {
+              "front": "I bowed violin",
+              "back": "miduko ko sa violin"
+            },
+            {
+              "front": "He played cello",
+              "back": "nagdula siya og cello"
+            },
+            {
+              "front": "She plucked harp",
+              "back": "mikuha siya ug alpa"
+            },
+            {
+              "front": "They fingered clarinet",
+              "back": "nag finger sila clarinet"
+            },
+            {
+              "front": "We blew trumpet",
+              "back": "gipatingog namo ang trumpeta"
+            },
+            {
+              "front": "You played flute",
+              "back": "nagtugtog ka ug plawta"
+            },
+            {
+              "front": "He jammed saxophone",
+              "back": "gi-jam niya ang saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I played guitar yesterday",
+              "back": "nag gitara ko gahapon"
+            },
+            {
+              "front": "He held violin carefully",
+              "back": "gigunitan niyag maayo ang biyolin"
+            },
+            {
+              "front": "She tuned piano today",
+              "back": "nag tuned siya ug piano karon"
+            },
+            {
+              "front": "They struck drums loudly",
+              "back": "sila mibunal sa makusog nga mga tambol"
+            },
+            {
+              "front": "We blew saxophone beautifully",
+              "back": "nindot ang paghuyop namo sa saxophone"
+            },
+            {
+              "front": "You sang trumpet passionately",
+              "back": "nag-awit ka sa trumpeta nga madasigon"
+            },
+            {
+              "front": "I played flute gracefully",
+              "back": "nagtokar kog plawta nga nindot"
+            },
+            {
+              "front": "He bowed cello skillfully",
+              "back": "hanas siyang miduko sa cello"
+            },
+            {
+              "front": "She strummed harp softly",
+              "back": "hinay niyang gituktok ang alpa"
+            },
+            {
+              "front": "They plucked ukulele lightly",
+              "back": "mura silag gipunit ug ukulele"
+            },
+            {
+              "front": "We fingered clarinet accurately",
+              "back": "gi-finger namo ang clarinet sa saktong paagi"
+            },
+            {
+              "front": "You danced tambourine energetically",
+              "back": "kusog ka nga misayaw sa tamburin"
+            },
+            {
+              "front": "I pressed piano keys",
+              "back": "gipindot ko ang mga yawe sa piano"
+            },
+            {
+              "front": "He shook maracas rhythmically",
+              "back": "giuyog niya ang maracas nga ritmo"
+            },
+            {
+              "front": "She blew horn powerfully",
+              "back": "kusog kaayo ang iyang pagbudyong"
+            },
+            {
+              "front": "They struck cymbals sharply",
+              "back": "sila mibunal sa mga piyangpiyang nga mahait"
+            },
+            {
+              "front": "We beat drums steadily",
+              "back": "pirmi namong gibunalan ang mga tambol"
+            },
+            {
+              "front": "You strummed guitar smoothly",
+              "back": "Hinayhinay ka nga nag-strum sa gitara"
+            },
+            {
+              "front": "I bowed violin carefully",
+              "back": "Giduko ko pag-ayo ang biyolin"
+            },
+            {
+              "front": "He played cello beautifully",
+              "back": "Nindot kaayo siya motugtog ug cello"
+            },
+            {
+              "front": "She plucked harp delicately",
+              "back": "nagkupot siya ug alpa nga maayo"
+            },
+            {
+              "front": "They fingered clarinet precisely",
+              "back": "Gitudlo nila ang clarinet sa tukma"
+            },
+            {
+              "front": "We blew trumpet loudly",
+              "back": "gihuyop namo ug kusog ang trumpeta"
+            },
+            {
+              "front": "You played flute softly",
+              "back": "hinay ka nga nagtugtog ug plawta"
+            },
+            {
+              "front": "He jammed saxophone energetically",
+              "back": "kusog niyang gi-jam ang saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I played guitar yesterday evening",
+              "back": "nag gitara ko gahapon sa gabii"
+            },
+            {
+              "front": "He held violin with care",
+              "back": "nagkupot siyag biyolin uban ang pag-amping"
+            },
+            {
+              "front": "She tuned piano last night",
+              "back": "nag tuned siya ug piano kagabii"
+            },
+            {
+              "front": "They struck drums during practice",
+              "back": "sila mibunal sa mga tambol sa panahon sa praktis"
+            },
+            {
+              "front": "We blew saxophone beautifully today",
+              "back": "nindot ang paghuyop namo sa saxophone karon"
+            },
+            {
+              "front": "You sang trumpet with passion",
+              "back": "nag-awit ka sa trompeta uban ang gugma"
+            },
+            {
+              "front": "I played flute gracefully today",
+              "back": "Nindot ang akong pagtugtog ug plawta karon"
+            },
+            {
+              "front": "He bowed cello skillfully now",
+              "back": "hanas siyang miyukbo sa cello karon"
+            },
+            {
+              "front": "She strummed harp softly now",
+              "back": "Hinay niyang gituktok ang alpa karon"
+            },
+            {
+              "front": "They plucked ukulele lightly today",
+              "back": "mura silag nag-ukulele karon"
+            },
+            {
+              "front": "We fingered clarinet accurately now",
+              "back": "gi-finger namo ang clarinet sa tukma karon"
+            },
+            {
+              "front": "You danced tambourine energetically today",
+              "back": "kusog ka nga misayaw sa tamburin karon"
+            },
+            {
+              "front": "I pressed piano keys yesterday",
+              "back": "Gipindot nako ang mga yawe sa piano kagahapon"
+            },
+            {
+              "front": "He shook maracas rhythmically now",
+              "back": "ritmikong giuyog niya ang mga maracas karon"
+            },
+            {
+              "front": "She blew horn powerfully today",
+              "back": "kusog kaayo ang iyang pagpabuto karon"
+            },
+            {
+              "front": "They struck cymbals sharply now",
+              "back": "sila mibunal sa mga piyangpiyang sa mahait karon"
+            },
+            {
+              "front": "We beat drums steadily today",
+              "back": "padayon namong gibunalan ang mga tambol karon"
+            },
+            {
+              "front": "You strummed guitar smoothly now",
+              "back": "Hinayhinay ka nga nag-strum sa gitara karon"
+            },
+            {
+              "front": "I bowed violin carefully today",
+              "back": "Giduko ko pag-ayo ang biyolin karon"
+            },
+            {
+              "front": "He played cello beautifully now",
+              "back": "Nindot kaayo siya motugtog ug cello karon"
+            },
+            {
+              "front": "She plucked harp delicately now",
+              "back": "maayo na siyang nagkupot ug alpa karon"
+            },
+            {
+              "front": "They fingered clarinet precisely now",
+              "back": "Gitudlo nila ang clarinet nga tukma karon"
+            },
+            {
+              "front": "We blew trumpet loudly today",
+              "back": "mihuyop mig trumpeta ug kusog karon"
+            },
+            {
+              "front": "You played flute softly now",
+              "back": "hinay ka nga nagtugtog ug plawta karon"
+            },
+            {
+              "front": "He jammed saxophone energetically now",
+              "back": "kusog niyang gi-jam ang saxophone karon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I played guitar every single day",
+              "back": "Nagtugtog kog gitara kada adlaw"
+            },
+            {
+              "front": "He held violin with great care",
+              "back": "nagkupot siyag biyolin uban ang pag-amping"
+            },
+            {
+              "front": "She tuned piano very carefully now",
+              "back": "mabinantayon kaayo siya karon nga mituno sa piano"
+            },
+            {
+              "front": "They struck drums during intense practice",
+              "back": "mibunal sila og mga tambol panahon sa grabeng praktis"
+            },
+            {
+              "front": "We blew saxophone beautifully during concert",
+              "back": "nindot ang paghuyop namo sa saxophone atol sa konsyerto"
+            },
+            {
+              "front": "You sang trumpet with great passion",
+              "back": "nag-awit ka sa trompeta uban ang dakong kadasig"
+            },
+            {
+              "front": "I played flute gracefully every morning",
+              "back": "Ako nagtugtog ug plawta matag buntag"
+            },
+            {
+              "front": "He bowed cello skillfully during performance",
+              "back": "hanas siyang miyukbo sa cello atol sa pasundayag"
+            },
+            {
+              "front": "She strummed harp softly every evening",
+              "back": "hinayhinay siyang nagtukar ug alpa matag gabii"
+            },
+            {
+              "front": "They plucked ukulele lightly during session",
+              "back": "gaan silang nag-ukolele atol sa session"
+            },
+            {
+              "front": "We fingered clarinet accurately every rehearsal",
+              "back": "nagfinger mi clarinet sa saktong kada ensayo"
+            },
+            {
+              "front": "You danced tambourine energetically during show",
+              "back": "kusog ka nga misayaw sa tamburin atol sa pasundayag"
+            },
+            {
+              "front": "I pressed piano keys yesterday evening",
+              "back": "Gipindot nako ang mga yawe sa piano gahapon sa gabii"
+            },
+            {
+              "front": "He shook maracas rhythmically during performance",
+              "back": "giuyog niya ang maracas nga ritmo sa panahon sa pasundayag"
+            },
+            {
+              "front": "She blew horn powerfully during concert",
+              "back": "kusog siyang mibusina atol sa konsyerto"
+            },
+            {
+              "front": "They struck cymbals sharply during show",
+              "back": "sila mibunal sa mga piyangpiyang makusog sa panahon sa pasundayag"
+            },
+            {
+              "front": "We beat drums steadily during rehearsal",
+              "back": "pirmi namong gibunalan ang mga tambol panahon sa ensayo"
+            },
+            {
+              "front": "You strummed guitar smoothly during practice",
+              "back": "hinay ka nga nag-strum sa gitara sa panahon sa praktis"
+            },
+            {
+              "front": "I bowed violin carefully during performance",
+              "back": "Giduko nako pag-ayo ang biyolin atol sa pasundayag"
+            },
+            {
+              "front": "He played cello beautifully during concert",
+              "back": "nindot siyag tugtog ug cello atol sa concert"
+            },
+            {
+              "front": "She plucked harp delicately during session",
+              "back": "siya mikuha ug alpa delikado panahon sa sesyon"
+            },
+            {
+              "front": "They fingered clarinet precisely during rehearsal",
+              "back": "Gitudlo nila ang clarinet nga tukma sa panahon sa ensayo"
+            },
+            {
+              "front": "We blew trumpet loudly during show",
+              "back": "mihuyop mig trumpeta ug kusog atol sa pasundayag"
+            },
+            {
+              "front": "You played flute softly during concert",
+              "back": "hinay ka nga nagtugtog ug plawta panahon sa konsyerto"
+            },
+            {
+              "front": "He jammed saxophone energetically during session",
+              "back": "kusog niyang gi-jam ang saxophone atol sa sesyon"
+            },
+            {
+              "front": "She enjoyed playing harp gracefully daily",
+              "back": "Nanamian sia magtukar sing arpa nga matahom kada adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will play guitar",
+              "back": "mag gitara"
+            },
+            {
+              "front": "Will hold violin",
+              "back": "magkupot ug violin"
+            },
+            {
+              "front": "Will tune piano",
+              "back": "mag tuno sa piano"
+            },
+            {
+              "front": "Will strike drums",
+              "back": "mohapak sa mga tambol"
+            },
+            {
+              "front": "Will blow saxophone",
+              "back": "mohuyop sa saxophone"
+            },
+            {
+              "front": "Will sing trumpet",
+              "back": "magaawit ug trumpeta"
+            },
+            {
+              "front": "Will play flute",
+              "back": "motugtog ug plawta"
+            },
+            {
+              "front": "Will bow cello",
+              "back": "moyukbo sa cello"
+            },
+            {
+              "front": "Will strum harp",
+              "back": "magtukar sa alpa"
+            },
+            {
+              "front": "Will pluck ukulele",
+              "back": "mukuha ug ukulele"
+            },
+            {
+              "front": "Will finger clarinet",
+              "back": "tudlo clarinet"
+            },
+            {
+              "front": "Will dance tambourine",
+              "back": "mosayaw tamburin"
+            },
+            {
+              "front": "Will press piano",
+              "back": "mopindot sa piano"
+            },
+            {
+              "front": "Will shake maracas",
+              "back": "mag-uyog sa maracas"
+            },
+            {
+              "front": "Will blow horn",
+              "back": "magbusina"
+            },
+            {
+              "front": "Will strike cymbals",
+              "back": "mohapak sa mga piyangpiyang"
+            },
+            {
+              "front": "Will beat drums",
+              "back": "mobunal sa mga tambol"
+            },
+            {
+              "front": "Will jam saxophone",
+              "back": "mag-jam saxophone"
+            },
+            {
+              "front": "Will play horn",
+              "back": "mutugtog ug sungay"
+            },
+            {
+              "front": "Will bow violin",
+              "back": "moyukbo sa biyolin"
+            },
+            {
+              "front": "Will pluck harp",
+              "back": "magkupot ug alpa"
+            },
+            {
+              "front": "Will finger clarinet",
+              "back": "tudlo clarinet"
+            },
+            {
+              "front": "Will blow trumpet",
+              "back": "mohuyop sa trumpeta"
+            },
+            {
+              "front": "Will play flute",
+              "back": "motugtog ug plawta"
+            },
+            {
+              "front": "Will jam saxophone",
+              "back": "mag-jam saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will play guitar",
+              "back": "mag gitara ko"
+            },
+            {
+              "front": "He will hold violin",
+              "back": "magkupot siyag violin"
+            },
+            {
+              "front": "She will tune piano",
+              "back": "magtune siya ug piano"
+            },
+            {
+              "front": "They will strike drums",
+              "back": "sila mohapak sa mga tambol"
+            },
+            {
+              "front": "We will blow saxophone",
+              "back": "maghuyop mig saxophone"
+            },
+            {
+              "front": "You will sing trumpet",
+              "back": "magaawit ka ug trumpeta"
+            },
+            {
+              "front": "I will play flute",
+              "back": "mag plawta ko"
+            },
+            {
+              "front": "He will bow cello",
+              "back": "moyukbo siya sa cello"
+            },
+            {
+              "front": "She will strum harp",
+              "back": "magatukar siya ug alpa"
+            },
+            {
+              "front": "They will pluck ukulele",
+              "back": "mangibot sila ug ukulele"
+            },
+            {
+              "front": "We will finger clarinet",
+              "back": "mag finger clarinet ta"
+            },
+            {
+              "front": "You will dance tambourine",
+              "back": "magsayaw ka ug tamburin"
+            },
+            {
+              "front": "I will press piano",
+              "back": "mopindot ko sa piano"
+            },
+            {
+              "front": "He will shake maracas",
+              "back": "uyog niya ang maracas"
+            },
+            {
+              "front": "She will blow horn",
+              "back": "magbudyong siya"
+            },
+            {
+              "front": "They will strike cymbals",
+              "back": "sila mohapak sa mga piyangpiyang"
+            },
+            {
+              "front": "We will beat drums",
+              "back": "magbunal mi ug drums"
+            },
+            {
+              "front": "You will jam saxophone",
+              "back": "mag-jam ka saxophone"
+            },
+            {
+              "front": "I will play horn",
+              "back": "magdula kog sungay"
+            },
+            {
+              "front": "He will bow violin",
+              "back": "moduko siya sa biyolin"
+            },
+            {
+              "front": "She will pluck harp",
+              "back": "siya mokupot ug alpa"
+            },
+            {
+              "front": "They will finger clarinet",
+              "back": "mag finger clarinet sila"
+            },
+            {
+              "front": "We will blow trumpet",
+              "back": "maghuyop kami ug trumpeta"
+            },
+            {
+              "front": "You will play flute",
+              "back": "magtokar ka ug plawta"
+            },
+            {
+              "front": "He will jam saxophone",
+              "back": "mag-jam siyag saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will play guitar today",
+              "back": "mag gitara ko karon"
+            },
+            {
+              "front": "He will hold violin carefully",
+              "back": "magkupot siyag violin pag-ayo"
+            },
+            {
+              "front": "She will tune piano now",
+              "back": "magtune na siya sa piano karon"
+            },
+            {
+              "front": "They will strike drums loudly",
+              "back": "sila mohapak sa makusog nga mga tambol"
+            },
+            {
+              "front": "We will blow saxophone beautifully",
+              "back": "maghuyop mig saxophone ug nindot"
+            },
+            {
+              "front": "You will sing trumpet passionately",
+              "back": "magaawit ka sa trumpeta nga madasigon"
+            },
+            {
+              "front": "I will play flute gracefully",
+              "back": "magtokar akog plawta nga matahom"
+            },
+            {
+              "front": "He will bow cello skillfully",
+              "back": "siya moyukbo sa cello nga hanas"
+            },
+            {
+              "front": "She will strum harp softly",
+              "back": "siya motugtog ug alpa sa hinay"
+            },
+            {
+              "front": "They will pluck ukulele lightly",
+              "back": "mag-ukolele sila nga gaan"
+            },
+            {
+              "front": "We will finger clarinet accurately",
+              "back": "atong tudloan ang clarinet sa tukma"
+            },
+            {
+              "front": "You will dance tambourine energetically",
+              "back": "mosayaw ka sa tamburin nga kusog"
+            },
+            {
+              "front": "I will press piano keys",
+              "back": "pugson ko ang mga yawe sa piano"
+            },
+            {
+              "front": "He will shake maracas rhythmically",
+              "back": "uyugon niya ang maracas sa ritmo"
+            },
+            {
+              "front": "She will blow horn powerfully",
+              "back": "siya mohuyop sa budyong nga kusganon"
+            },
+            {
+              "front": "They will strike cymbals sharply",
+              "back": "sila mohapak sa mga piyangpiyang nga mahait"
+            },
+            {
+              "front": "We will beat drums steadily",
+              "back": "magsige mi ug tambol"
+            },
+            {
+              "front": "You will strum guitar smoothly",
+              "back": "maggitara ka nga hapsay"
+            },
+            {
+              "front": "I will bow violin carefully",
+              "back": "ako moyukbo sa biyolin pag-ayo"
+            },
+            {
+              "front": "He will play cello beautifully",
+              "back": "nindot siya mutugtog ug cello"
+            },
+            {
+              "front": "She will pluck harp delicately",
+              "back": "magakupot siya ug alpa nga maayo"
+            },
+            {
+              "front": "They will finger clarinet precisely",
+              "back": "sila magtudlo clarinet sa tukma"
+            },
+            {
+              "front": "We will blow trumpet loudly",
+              "back": "maghuyop kami ug trumpeta ug kusog"
+            },
+            {
+              "front": "You will play flute softly",
+              "back": "motugtog ka ug plawta nga hinay"
+            },
+            {
+              "front": "He will jam saxophone energetically",
+              "back": "kusog siya mag-jam saxophone"
+            },
+            {
+              "front": "She will play harp gracefully",
+              "back": "siya motugtog ug alpa nga madanihon"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will play guitar tomorrow evening",
+              "back": "Mag gitara ko ugma sa gabii"
+            },
+            {
+              "front": "He will hold violin during concert",
+              "back": "magkupot siyag violin atol sa concert"
+            },
+            {
+              "front": "She will tune piano this morning",
+              "back": "magtune siya ug piano karong buntaga"
+            },
+            {
+              "front": "They will strike drums at show",
+              "back": "sila mohapak sa mga tambol sa pasundayag"
+            },
+            {
+              "front": "We will blow saxophone beautifully tonight",
+              "back": "maghuyop ta ug saxophone nga nindot karong gabhiona"
+            },
+            {
+              "front": "You will sing trumpet at event",
+              "back": "magaawit ka ug trumpeta sa okasyon"
+            },
+            {
+              "front": "I will play flute gracefully today",
+              "back": "ako motugtog ug plawta nga nindot karon"
+            },
+            {
+              "front": "He will bow cello skillfully tonight",
+              "back": "hanas siyang moyukbo sa cello karong gabii"
+            },
+            {
+              "front": "She will strum harp softly tonight",
+              "back": "magatukar siya sa hinay nga alpa karong gabhiona"
+            },
+            {
+              "front": "They will pluck ukulele lightly today",
+              "back": "mag-ukolele sila gaan karon"
+            },
+            {
+              "front": "We will finger clarinet accurately tomorrow",
+              "back": "mag finger clarinet ta ugma insakto"
+            },
+            {
+              "front": "You will dance tambourine energetically today",
+              "back": "mosayaw ka og tamburin nga kusog karon"
+            },
+            {
+              "front": "I will press piano keys today",
+              "back": "Pinduton nako ang mga yawe sa piano karon"
+            },
+            {
+              "front": "He will shake maracas rhythmically now",
+              "back": "uyugon niya ang maracas nga ritmo karon"
+            },
+            {
+              "front": "She will blow horn powerfully today",
+              "back": "kusog kaayo siyang mobudyong karong adlawa"
+            },
+            {
+              "front": "They will strike cymbals sharply now",
+              "back": "sila mohapak sa mga piyangpiyang nga mahait karon"
+            },
+            {
+              "front": "We will beat drums steadily today",
+              "back": "pirmi namong pukpok ang mga tambol karong adlawa"
+            },
+            {
+              "front": "You will strum guitar smoothly now",
+              "back": "hapsay na ang pag-strum nimo sa gitara karon"
+            },
+            {
+              "front": "I will bow violin carefully tonight",
+              "back": "Ako moyukbo sa biyolin pag-ayo karong gabii"
+            },
+            {
+              "front": "He will play cello beautifully tonight",
+              "back": "nindot siya mutokar ug cello karong gabhiona"
+            },
+            {
+              "front": "She will pluck harp delicately now",
+              "back": "magakuha siya ug alpa nga maayo karon"
+            },
+            {
+              "front": "They will finger clarinet precisely now",
+              "back": "sila magtudlo clarinet tukma karon"
+            },
+            {
+              "front": "We will blow trumpet loudly today",
+              "back": "maghuyop ta ug trumpeta ug kusog karong adlawa"
+            },
+            {
+              "front": "You will play flute softly tonight",
+              "back": "hinayhinay ka nga mag plawta karong gabhiona"
+            },
+            {
+              "front": "He will jam saxophone energetically tonight",
+              "back": "kusog siyang mag-jam saxophone karong gabhiona"
+            },
+            {
+              "front": "She will play harp gracefully tonight",
+              "back": "siya motugtog ug alpa nga matahum karong gabhiona"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

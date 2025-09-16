@@ -1,0 +1,1600 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Furniture",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Chair",
+              "back": "lingkuranan"
+            },
+            {
+              "front": "Table",
+              "back": "lamesa"
+            },
+            {
+              "front": "Sofa",
+              "back": "sofa"
+            },
+            {
+              "front": "Desk",
+              "back": "lamesa"
+            },
+            {
+              "front": "Bed",
+              "back": "higdaanan"
+            },
+            {
+              "front": "Couch",
+              "back": "higdaanan"
+            },
+            {
+              "front": "Wardrobe",
+              "back": "aparador"
+            },
+            {
+              "front": "Bookshelf",
+              "back": "estante sa mga libro"
+            },
+            {
+              "front": "Dresser",
+              "back": "aparador"
+            },
+            {
+              "front": "Nightstand",
+              "back": "nightstand"
+            },
+            {
+              "front": "Coffee table",
+              "back": "lamesa sa kape"
+            },
+            {
+              "front": "Dining table",
+              "back": "lamesa kan-anan"
+            },
+            {
+              "front": "Armchair",
+              "back": "lingkuranan"
+            },
+            {
+              "front": "Ottoman",
+              "back": "ottoman"
+            },
+            {
+              "front": "TV stand",
+              "back": "tv stand"
+            },
+            {
+              "front": "Stool",
+              "back": "bangkito"
+            },
+            {
+              "front": "Cabinet",
+              "back": "kabinete"
+            },
+            {
+              "front": "Recliner",
+              "back": "lingkuranan"
+            },
+            {
+              "front": "Side table",
+              "back": "kilid nga lamesa"
+            },
+            {
+              "front": "Barstool",
+              "back": "barstool"
+            },
+            {
+              "front": "Vanity",
+              "back": "kakawangan"
+            },
+            {
+              "front": "Chaise lounge",
+              "back": "chaise lounge"
+            },
+            {
+              "front": "Sectional sofa",
+              "back": "sectional nga sofa"
+            },
+            {
+              "front": "Love seat",
+              "back": "lingkoranan sa gugma"
+            },
+            {
+              "front": "Futon",
+              "back": "futon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "My chair",
+              "back": "akong lingkuranan"
+            },
+            {
+              "front": "His table",
+              "back": "iyang lamesa"
+            },
+            {
+              "front": "Her sofa",
+              "back": "iyang sofa"
+            },
+            {
+              "front": "My desk",
+              "back": "akong lamesa"
+            },
+            {
+              "front": "Big bed",
+              "back": "dako nga higdaanan"
+            },
+            {
+              "front": "Our couch",
+              "back": "among sopa"
+            },
+            {
+              "front": "Their wardrobe",
+              "back": "ilang aparador"
+            },
+            {
+              "front": "Heavy bookshelf",
+              "back": "bug-at nga bookshelf"
+            },
+            {
+              "front": "His dresser",
+              "back": "iyang aparador"
+            },
+            {
+              "front": "My nightstand",
+              "back": "akong nightstand"
+            },
+            {
+              "front": "Her coffee table",
+              "back": "iyang coffee table"
+            },
+            {
+              "front": "Their dining table",
+              "back": "ilang dining table"
+            },
+            {
+              "front": "My armchair",
+              "back": "akong lingkuranan"
+            },
+            {
+              "front": "His ottoman",
+              "back": "iyang ottoman"
+            },
+            {
+              "front": "Low TV stand",
+              "back": "ubos nga tv stand"
+            },
+            {
+              "front": "My wooden stool",
+              "back": "akong lingkoranan nga kahoy"
+            },
+            {
+              "front": "Tall cabinet",
+              "back": "taas nga kabinet"
+            },
+            {
+              "front": "His recliner",
+              "back": "iyang lingkoranan"
+            },
+            {
+              "front": "Simple side table",
+              "back": "simple nga side table"
+            },
+            {
+              "front": "Her barstool",
+              "back": "iyang barstool"
+            },
+            {
+              "front": "My vanity",
+              "back": "akong kakawangan"
+            },
+            {
+              "front": "Our chaise lounge",
+              "back": "among chaise lounge"
+            },
+            {
+              "front": "Their sectional sofa",
+              "back": "ilang sectional sofa"
+            },
+            {
+              "front": "His seat",
+              "back": "iyang lingkoranan"
+            },
+            {
+              "front": "My futon",
+              "back": "akong futon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "My chair creaks",
+              "back": "mikurog akong lingkuranan"
+            },
+            {
+              "front": "His table wobbles",
+              "back": "mikurog ang iyang lamesa"
+            },
+            {
+              "front": "Her sofa cushions",
+              "back": "iyang sofa cushion"
+            },
+            {
+              "front": "My wooden desk",
+              "back": "akong kahoy nga lamesa"
+            },
+            {
+              "front": "The big bed",
+              "back": "ang dako nga higdaanan"
+            },
+            {
+              "front": "Our couch squeaks",
+              "back": "nagsirit ang among sopa"
+            },
+            {
+              "front": "Their wardrobe stands",
+              "back": "nagbarog ang ilang aparador"
+            },
+            {
+              "front": "Heavy bookshelf tips",
+              "back": "bug-at nga mga tip sa estante sa libro"
+            },
+            {
+              "front": "His dresser drawer",
+              "back": "iyang drawer sa aparador"
+            },
+            {
+              "front": "My nightstand holds",
+              "back": "ang akong nightstand nagkupot"
+            },
+            {
+              "front": "Her coffee table",
+              "back": "iyang lamesa sa kape"
+            },
+            {
+              "front": "Their dining table",
+              "back": "ilang dining table"
+            },
+            {
+              "front": "My armchair rocks",
+              "back": "ang akong lingkuranan bato"
+            },
+            {
+              "front": "His ottoman folds",
+              "back": "iyang ottoman pilo"
+            },
+            {
+              "front": "Low TV stand",
+              "back": "ubos nga tv stand"
+            },
+            {
+              "front": "My wooden stool",
+              "back": "akong lingkoranan nga kahoy"
+            },
+            {
+              "front": "The tall cabinet",
+              "back": "ang taas nga kabinete"
+            },
+            {
+              "front": "His recliner moves",
+              "back": "naglihok ang iyang lingkuranan"
+            },
+            {
+              "front": "Simple side table",
+              "back": "simple nga side table"
+            },
+            {
+              "front": "Her metal barstool",
+              "back": "iyang metal nga barstool"
+            },
+            {
+              "front": "My elegant vanity",
+              "back": "akong elegante nga kakawangan"
+            },
+            {
+              "front": "Our chaise lounge",
+              "back": "among chaise lounge"
+            },
+            {
+              "front": "Their sectional sofa",
+              "back": "ilang sectional sofa"
+            },
+            {
+              "front": "His love seat",
+              "back": "iyang love seat"
+            },
+            {
+              "front": "My foldable futon",
+              "back": "akong foldable futon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My chair creaks loudly",
+              "back": "kusog kaayo akong lingkuranan"
+            },
+            {
+              "front": "His table holds items",
+              "back": "ang iyang lamesa adunay mga butang"
+            },
+            {
+              "front": "The soft sofa cushions",
+              "back": "ang humok nga sofa cushions"
+            },
+            {
+              "front": "The sturdy wooden desk",
+              "back": "ang lig-on nga lamesa nga kahoy"
+            },
+            {
+              "front": "The big is comfortable",
+              "back": "komportable ang dako"
+            },
+            {
+              "front": "Our couch feels cozy",
+              "back": "komportable ang among sopa"
+            },
+            {
+              "front": "Their wardrobe holds clothes",
+              "back": "ang ilang aparador adunay mga sinina"
+            },
+            {
+              "front": "Heavy bookshelf leans slightly",
+              "back": "bug-at nga bookshelf nagsandig gamay"
+            },
+            {
+              "front": "His dresser has drawers",
+              "back": "ang iyang aparador adunay mga drawer"
+            },
+            {
+              "front": "My nightstand is small",
+              "back": "gamay ra akong nightstand"
+            },
+            {
+              "front": "Her low coffee table",
+              "back": "iyang ubos nga lamesa sa kape"
+            },
+            {
+              "front": "Their large dining table",
+              "back": "dako nilang lamesa kan-anan"
+            },
+            {
+              "front": "My armchair rocks gently",
+              "back": "ang akong lingkuranan hinay nga nag-uyog"
+            },
+            {
+              "front": "His ottoman has storage",
+              "back": "ang iyang ottoman adunay tipiganan"
+            },
+            {
+              "front": "The TV stand is modern",
+              "back": "moderno ang tv stand"
+            },
+            {
+              "front": "My stool is tall",
+              "back": "taas ang akong bangkito"
+            },
+            {
+              "front": "tall cabinet holds dishes",
+              "back": "taas nga kabinet nga nagkupot ug mga plato"
+            },
+            {
+              "front": "His recliner moves smoothly",
+              "back": "hapsay ang paglihok sa iyang lingkuranan"
+            },
+            {
+              "front": "her simple side table",
+              "back": "iyang simple nga side table"
+            },
+            {
+              "front": "Her barstool feels cold",
+              "back": "bugnaw ang iyang barstool"
+            },
+            {
+              "front": "My vanity has mirror",
+              "back": "ang akong kakawangan adunay salamin"
+            },
+            {
+              "front": "Our comfortable chaise lounge",
+              "back": "among komportable nga chaise lounge"
+            },
+            {
+              "front": "Their huge sectional sofa",
+              "back": "ilang dako nga sectional sofa"
+            },
+            {
+              "front": "His comfortable love seat",
+              "back": "iyang komportable nga lingkuranan sa gugma"
+            },
+            {
+              "front": "My futon folds easily",
+              "back": "dali ra mapilo akong futon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My chair creaks when used",
+              "back": "Ang akong lingkoranan mo-creak kon gamiton"
+            },
+            {
+              "front": "His table holds many items",
+              "back": "ang iyang lamesa adunay daghang mga butang"
+            },
+            {
+              "front": "Her sofa cushions are soft",
+              "back": "humok ang iyang mga sofa cushions"
+            },
+            {
+              "front": "The wooden desk looks sturdy",
+              "back": "ang kahoy nga lamesa daw lig-on"
+            },
+            {
+              "front": "The big bed is comfortable",
+              "back": "komportable ang dako nga higdaanan"
+            },
+            {
+              "front": "Our couch feels very cozy",
+              "back": "hayahay kaayo ang among sopa"
+            },
+            {
+              "front": "Their wardrobe holds many clothes",
+              "back": "ang ilang aparador adunay daghang mga sinina"
+            },
+            {
+              "front": "Heavy bookshelf leans to side",
+              "back": "bug-at nga bookshelf nagsandig sa kilid"
+            },
+            {
+              "front": "His dresser has stuck drawers",
+              "back": "ang iyang aparador adunay mga drawer"
+            },
+            {
+              "front": "My nightstand is very small",
+              "back": "gamay ra kaayo akong nightstand"
+            },
+            {
+              "front": "Her coffee table sits low",
+              "back": "ubos ang iyang lamesa sa kape"
+            },
+            {
+              "front": "Their dining table is large",
+              "back": "dako ilang dining table"
+            },
+            {
+              "front": "My armchair rocks when moved",
+              "back": "Ang akong lingkuranan nabato kung gibalhin"
+            },
+            {
+              "front": "His ottoman has hidden storage",
+              "back": "ang iyang ottoman adunay tinago nga pagtipig"
+            },
+            {
+              "front": "The TV stand looks modern",
+              "back": "murag moderno ang tv stand"
+            },
+            {
+              "front": "My wooden stool is tall",
+              "back": "taas ang akong bangkito nga kahoy"
+            },
+            {
+              "front": "The tall cabinet holds dishes",
+              "back": "ang taas nga kabinet nagkupot ug mga plato"
+            },
+            {
+              "front": "His recliner moves very smoothly",
+              "back": "hapsay kaayo ang paglihok sa iyang recliner"
+            },
+            {
+              "front": "Simple side table looks nice",
+              "back": "nindot tan-awon ang simple nga side table"
+            },
+            {
+              "front": "Her metal barstool feels cold",
+              "back": "bugnaw ang iyang metal nga barstool"
+            },
+            {
+              "front": "My vanity has a mirror",
+              "back": "ang akong kakawangan adunay samin"
+            },
+            {
+              "front": "Our chaise lounge is comfortable",
+              "back": "komportable ang among chaise lounge"
+            },
+            {
+              "front": "Their sectional sofa is huge",
+              "back": "dako kaayo ilang sectional sofa"
+            },
+            {
+              "front": "His love seat is comfortable",
+              "back": "komportable ang iyang love seat"
+            },
+            {
+              "front": "My futon folds into bed",
+              "back": "akong futon gipilo sa higdaanan"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "My chair creaks when I sit",
+              "back": "ang akong lingkoranan mokalit paglingkod"
+            },
+            {
+              "front": "His table holds many heavy books",
+              "back": "ang iyang lamesa nagkupot ug daghang bug-at nga libro"
+            },
+            {
+              "front": "Her sofa cushions feel very soft",
+              "back": "humok kaayo ang iyang mga sofa cushions"
+            },
+            {
+              "front": "The wooden desk stands very sturdy",
+              "back": "ang kahoy nga lamesa lig-on kaayo"
+            },
+            {
+              "front": "The big bed is very comfortable",
+              "back": "ang dako nga higdaanan komportable kaayo"
+            },
+            {
+              "front": "Our couch feels cozy and warm",
+              "back": "ang among higdaanan mobati nga komportable ug init"
+            },
+            {
+              "front": "Their wardrobe holds all their clothes",
+              "back": "ang ilang aparador nagkupot sa tanan nilang mga bisti"
+            },
+            {
+              "front": "Heavy bookshelf leans to the side",
+              "back": "bug-at nga bookshelf nagsandig sa kilid"
+            },
+            {
+              "front": "His dresser has three stuck drawers",
+              "back": "ang iyang aparador adunay tulo ka giugbok nga mga drawer"
+            },
+            {
+              "front": "My nightstand is placed very close",
+              "back": "ang akong nightstand gibutang duol kaayo"
+            },
+            {
+              "front": "Her coffee table sits in the center",
+              "back": "ang iyang lamesa sa kape naglingkod sa tunga"
+            },
+            {
+              "front": "Their dining table is round and large",
+              "back": "lingin ug dako ang ilang dining table"
+            },
+            {
+              "front": "My armchair rocks when I lean",
+              "back": "Ang akong armchair nabato sa dihang nagsandig ko"
+            },
+            {
+              "front": "His ottoman opens up for storage",
+              "back": "ang iyang ottoman nagbukas alang sa pagtipig"
+            },
+            {
+              "front": "The TV stand supports the television",
+              "back": "ang tv stand nagsuporta sa telebisyon"
+            },
+            {
+              "front": "My wooden stool is tall and sturdy",
+              "back": "ang akong kahoy nga bangkito taas ug lig-on"
+            },
+            {
+              "front": "The tall cabinet holds delicate dishes",
+              "back": "ang taas nga kabinet nagkupot ug delikado nga mga pinggan"
+            },
+            {
+              "front": "His recliner moves smoothly and silently",
+              "back": "hapsay ug hilom ang paglihok sa iyang lingkuranan"
+            },
+            {
+              "front": "Simple side table looks modern and elegant",
+              "back": "simple nga side table tan-awon moderno ug elegante"
+            },
+            {
+              "front": "Her metal barstool feels cold to touch",
+              "back": "ang iyang metal nga barstool mobati nga bugnaw sa paghikap"
+            },
+            {
+              "front": "My vanity has drawers for storage",
+              "back": "ang akong kakawangan adunay mga hunos alang sa pagtipig"
+            },
+            {
+              "front": "Our chaise lounge is very comfortable",
+              "back": "komportable kaayo ang among chaise lounge"
+            },
+            {
+              "front": "Their sectional sofa takes up space",
+              "back": "ang ilang sectional sofa nagkinahanglan og luna"
+            },
+            {
+              "front": "His love seat is perfect for two",
+              "back": "perpekto para sa duha ang iyang love seat"
+            },
+            {
+              "front": "My futon folds easily into a bed",
+              "back": "ang akong futon daling mapilo sa higdaanan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "His armchair rocked",
+              "back": "nauyog ang iyang lingkuranan"
+            },
+            {
+              "front": "The table wobbled",
+              "back": "mikurog ang lamesa"
+            },
+            {
+              "front": "Her nightstand fell",
+              "back": "nahulog ang iyang nightstand"
+            },
+            {
+              "front": "The sofa sank",
+              "back": "nalunod ang sofa"
+            },
+            {
+              "front": "My chair squeaked",
+              "back": "nikitik akong lingkuranan"
+            },
+            {
+              "front": "Their couch tore",
+              "back": "nagisi ang ilang higdaanan"
+            },
+            {
+              "front": "His dresser collapsed",
+              "back": "nahugno ang iyang aparador"
+            },
+            {
+              "front": "My bed creaked",
+              "back": "mikurog ang akong higdaanan"
+            },
+            {
+              "front": "The cabinet tilted",
+              "back": "mikiling ang kabinet"
+            },
+            {
+              "front": "Her stool tipped",
+              "back": "ang iyang bangkito nag-tip"
+            },
+            {
+              "front": "The bookshelf leaned",
+              "back": "misandig ang bookshelf"
+            },
+            {
+              "front": "My recliner broke",
+              "back": "naguba akong recliner"
+            },
+            {
+              "front": "Their wardrobe shifted",
+              "back": "gibalhin ang ilang aparador"
+            },
+            {
+              "front": "The futon folded",
+              "back": "gipilo ang futon"
+            },
+            {
+              "front": "His vanity shattered",
+              "back": "nabuak ang iyang kakawangan"
+            },
+            {
+              "front": "Her coffee table cracked",
+              "back": "nabuak ang iyang lamesa sa kape"
+            },
+            {
+              "front": "The TV stand broke",
+              "back": "naguba ang tv stand"
+            },
+            {
+              "front": "My barstool slipped",
+              "back": "nadulas akong barstool"
+            },
+            {
+              "front": "The armchair squeaked",
+              "back": "migitik ang armchair"
+            },
+            {
+              "front": "His chaise lounge wobbled",
+              "back": "ang iyang chaise lounge mikurog"
+            },
+            {
+              "front": "The side table fell",
+              "back": "nahulog ang side table"
+            },
+            {
+              "front": "My love seat tore",
+              "back": "naguba akong love seat"
+            },
+            {
+              "front": "The cabinet fell",
+              "back": "nahulog ang kabinete"
+            },
+            {
+              "front": "Her dresser tipped",
+              "back": "ang iyang aparador nag-tip"
+            },
+            {
+              "front": "His bed broke",
+              "back": "nabuak ang iyang higdaanan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "His armchair rocked gently",
+              "back": "hinay nga nag-uyog ang iyang lingkuranan"
+            },
+            {
+              "front": "The table wobbled badly",
+              "back": "ang lamesa nag-uyog pag-ayo"
+            },
+            {
+              "front": "Her nightstand fell over",
+              "back": "natumba ang iyang nightstand"
+            },
+            {
+              "front": "The sofa sank deeply",
+              "back": "naunlod pag-ayo ang sofa"
+            },
+            {
+              "front": "My chair squeaked loudly",
+              "back": "kusog kaayo ang akong lingkoranan"
+            },
+            {
+              "front": "Their couch felt stiff",
+              "back": "migahi ang ilang higdaanan"
+            },
+            {
+              "front": "His dresser collapsed yesterday",
+              "back": "nahugno ang iyang aparador kagahapon"
+            },
+            {
+              "front": "My bed was soft",
+              "back": "humok ang akong higdaanan"
+            },
+            {
+              "front": "The cabinet tilted sideways",
+              "back": "ang kabinet nagkiling sa kilid"
+            },
+            {
+              "front": "Her stool tipped over",
+              "back": "ang iyang bangkito natabunan"
+            },
+            {
+              "front": "The bookshelf leaned slightly",
+              "back": "nisandig gamay ang bookshelf"
+            },
+            {
+              "front": "My recliner broke suddenly",
+              "back": "kalit lang naguba akong recliner"
+            },
+            {
+              "front": "Their wardrobe shifted easily",
+              "back": "dali nga nabalhin ang ilang aparador"
+            },
+            {
+              "front": "The futon folded quickly",
+              "back": "ang futon dali nga napilo"
+            },
+            {
+              "front": "His vanity shattered instantly",
+              "back": "nabuak dayon ang iyang kakawangan"
+            },
+            {
+              "front": "Her coffee table cracked",
+              "back": "nabuak ang iyang lamesa sa kape"
+            },
+            {
+              "front": "The TV stand broke",
+              "back": "naguba ang tv stand"
+            },
+            {
+              "front": "My barstool slipped down",
+              "back": "ang akong barstool nahulog"
+            },
+            {
+              "front": "The armchair squeaked loudly",
+              "back": "kusog kaayo ang singgit sa armchair"
+            },
+            {
+              "front": "His chaise lounge wobbled",
+              "back": "ang iyang chaise lounge mikurog"
+            },
+            {
+              "front": "The side table fell",
+              "back": "nahulog ang side table"
+            },
+            {
+              "front": "My love seat tore",
+              "back": "naguba akong love seat"
+            },
+            {
+              "front": "The cabinet fell hard",
+              "back": "ang gabinete nahulog pag-ayo"
+            },
+            {
+              "front": "Her dresser tipped over",
+              "back": "ang iyang aparador natabunan"
+            },
+            {
+              "front": "His bed broke yesterday",
+              "back": "naguba ang iyang higdaanan kagahapon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "His armchair rocked all night",
+              "back": "ang iyang lingkuranan nag-uyog sa tibuok gabii"
+            },
+            {
+              "front": "The table wobbled during dinner",
+              "back": "ang lamesa nagkurog sa panahon sa panihapon"
+            },
+            {
+              "front": "Her nightstand fell over yesterday",
+              "back": "natumba ang iyang nightstand kagahapon"
+            },
+            {
+              "front": "The sofa sank last night",
+              "back": "nalunod ang sofa kagabii"
+            },
+            {
+              "front": "My chair squeaked every time",
+              "back": "ang akong lingkoranan mosirit matag higayon"
+            },
+            {
+              "front": "Their couch tore at corner",
+              "back": "ang ilang higdaanan nagisi sa suok"
+            },
+            {
+              "front": "His dresser collapsed last week",
+              "back": "ang iyang aparador nahugno sa miaging semana"
+            },
+            {
+              "front": "My bed creaked this morning",
+              "back": "mikurog ang akong higdaanan karong buntaga"
+            },
+            {
+              "front": "The cabinet tilted to side",
+              "back": "ang kabinet nagkiling sa kilid"
+            },
+            {
+              "front": "Her stool tipped over quickly",
+              "back": "ang iyang bangkito daling nibalitok"
+            },
+            {
+              "front": "The bookshelf leaned against wall",
+              "back": "ang bookshelf nagsandig sa bungbong"
+            },
+            {
+              "front": "My recliner broke last night",
+              "back": "naguba akong recliner kagabii"
+            },
+            {
+              "front": "Their wardrobe shifted during move",
+              "back": "ang ilang aparador nabalhin sa panahon sa paglihok"
+            },
+            {
+              "front": "The futon folded after use",
+              "back": "ang futon gipilo human gamiton"
+            },
+            {
+              "front": "His vanity shattered into pieces",
+              "back": "ang iyang kakawangan nadugmok"
+            },
+            {
+              "front": "Her coffee table cracked badly",
+              "back": "nabuak pag ayo iyang coffee table"
+            },
+            {
+              "front": "The TV stand broke yesterday",
+              "back": "naguba ang tv stand gahapon"
+            },
+            {
+              "front": "My barstool slipped on floor",
+              "back": "ang akong barstool nahulog sa salog"
+            },
+            {
+              "front": "The armchair squeaked when used",
+              "back": "ang armchair nagsirit kung gigamit"
+            },
+            {
+              "front": "His chaise lounge wobbled today",
+              "back": "ang iyang chaise lounge natay-og karon"
+            },
+            {
+              "front": "The side table fell down",
+              "back": "nahulog ang side table"
+            },
+            {
+              "front": "My love seat tore yesterday",
+              "back": "gisi akong love seat gahapon"
+            },
+            {
+              "front": "The cabinet fell last night",
+              "back": "ang kabinete nahulog kagabii"
+            },
+            {
+              "front": "Her dresser tipped over suddenly",
+              "back": "ang iyang aparador kalit nga nibalitok"
+            },
+            {
+              "front": "His bed broke last night",
+              "back": "naguba ang iyang higdaanan kagabii"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "His armchair rocked back and forth",
+              "back": "ang iyang armchair nauyog-uyog"
+            },
+            {
+              "front": "The table wobbled during family dinner",
+              "back": "ang lamesa nagkurog atol sa panihapon sa pamilya"
+            },
+            {
+              "front": "Her nightstand fell onto the floor",
+              "back": "ang iyang nightstand nahulog sa salog"
+            },
+            {
+              "front": "The sofa sank after heavy use",
+              "back": "ang sofa nalunod human sa bug-at nga paggamit"
+            },
+            {
+              "front": "My chair squeaked when I moved",
+              "back": "nikitik akong lingkuranan pag lihok nako"
+            },
+            {
+              "front": "Their couch tore along the seams",
+              "back": "ang ilang higdaanan nagisi sa mga tinahian"
+            },
+            {
+              "front": "His dresser collapsed while moving yesterday",
+              "back": "nahugno ang iyang aparador samtang naglihok kagahapon"
+            },
+            {
+              "front": "My bed was soft and comfortable",
+              "back": "humok ug komportable ang akong higdaanan"
+            },
+            {
+              "front": "The cabinet tilted after being moved",
+              "back": "mikiling ang kabinet human gibalhin"
+            },
+            {
+              "front": "Her stool tipped over in kitchen",
+              "back": "ang iyang bangkito natabunan sa kusina"
+            },
+            {
+              "front": "The bookshelf leaned against living room",
+              "back": "ang bookshelf nagsandig sa sala"
+            },
+            {
+              "front": "My recliner broke after long use",
+              "back": "naguba ang akong recliner pagkahuman sa dugay nga paggamit"
+            },
+            {
+              "front": "Their wardrobe shifted during home renovation",
+              "back": "ang ilang mga aparador gibalhin sa panahon sa pag-ayo sa balay"
+            },
+            {
+              "front": "The futon folded up after use",
+              "back": "ang futon gipilo human magamit"
+            },
+            {
+              "front": "His vanity shattered when mirror fell",
+              "back": "nabuak ang iyang kakawangan sa dihang nahulog ang salamin"
+            },
+            {
+              "front": "Her coffee table cracked under weight",
+              "back": "ang iyang lamesa sa kape nabuak ubos sa gibug-aton"
+            },
+            {
+              "front": "The TV stand broke last night",
+              "back": "naguba ang tv stand kagabii"
+            },
+            {
+              "front": "My barstool slipped on kitchen floor",
+              "back": "ang akong barstool nahulog sa salog sa kusina"
+            },
+            {
+              "front": "The armchair squeaked when sat on",
+              "back": "ang armchair mikitik sa dihang milingkod"
+            },
+            {
+              "front": "His chaise lounge wobbled during party",
+              "back": "ang iyang chaise lounge natay-og panahon sa party"
+            },
+            {
+              "front": "The side table fell after use",
+              "back": "nahulog ang side table pagkahuman gigamit"
+            },
+            {
+              "front": "My love seat tore along side",
+              "back": "akong love seat nagisi sa kilid"
+            },
+            {
+              "front": "The cabinet fell while being moved",
+              "back": "ang kabinete nahulog samtang gibalhin"
+            },
+            {
+              "front": "Her dresser tipped over onto floor",
+              "back": "ang iyang aparador nahulog sa salog"
+            },
+            {
+              "front": "His bed broke after jumping on",
+              "back": "nabuak ang iyang higdaanan human miambak"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will make bed",
+              "back": "maghimo ug higdaanan"
+            },
+            {
+              "front": "Will clean table",
+              "back": "manglimpyo sa lamesa"
+            },
+            {
+              "front": "Will fill dresser",
+              "back": "mapuno sa aparador"
+            },
+            {
+              "front": "Will fix chair",
+              "back": "mag-ayo sa lingkuranan"
+            },
+            {
+              "front": "Will move sofa",
+              "back": "ibalhin ang sofa"
+            },
+            {
+              "front": "Will rearrange couch",
+              "back": "mag-usab sa sopa"
+            },
+            {
+              "front": "Will organize wardrobe",
+              "back": "mag-organisar sa wardrobe"
+            },
+            {
+              "front": "Will stack bookshelf",
+              "back": "mag-stack sa bookshelf"
+            },
+            {
+              "front": "Will replace nightstand",
+              "back": "ilisan ang nightstand"
+            },
+            {
+              "front": "Will dust cabinet",
+              "back": "mag-abog sa kabinete"
+            },
+            {
+              "front": "Will repair recliner",
+              "back": "mag-ayo sa recliner"
+            },
+            {
+              "front": "Will clean stool",
+              "back": "maglimpyo sa bangkito"
+            },
+            {
+              "front": "Will wipe coffee table",
+              "back": "magpahid sa lamesa sa kape"
+            },
+            {
+              "front": "Will polish vanity",
+              "back": "makapasinaw sa kakawangan"
+            },
+            {
+              "front": "Will move ottoman",
+              "back": "mobalhin ottoman"
+            },
+            {
+              "front": "Will adjust TV stand",
+              "back": "mag adjust sa tv stand"
+            },
+            {
+              "front": "Will buy futon",
+              "back": "mupalit ug futon"
+            },
+            {
+              "front": "Will lift barstool",
+              "back": "mopataas sa barstool"
+            },
+            {
+              "front": "Will use desk",
+              "back": "mogamit ug desk"
+            },
+            {
+              "front": "Will dust armchair",
+              "back": "mag-abog sa armchair"
+            },
+            {
+              "front": "Will cover love seat",
+              "back": "magtabon sa love seat"
+            },
+            {
+              "front": "Will fold futon",
+              "back": "mopilo sa futon"
+            },
+            {
+              "front": "Will remove dresser",
+              "back": "tangtangon ang aparador"
+            },
+            {
+              "front": "Will assemble cabinet",
+              "back": "magtigom sa kabinete"
+            },
+            {
+              "front": "Will shift wardrobe",
+              "back": "ibalhin ang aparador"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will make bed",
+              "back": "maghikay kog higdaanan"
+            },
+            {
+              "front": "They will clean table",
+              "back": "manglimpyo sila ug lamesa"
+            },
+            {
+              "front": "She will fill dresser",
+              "back": "pun-on niya ang aparador"
+            },
+            {
+              "front": "He will fix chair",
+              "back": "ayohon niya ang lingkuranan"
+            },
+            {
+              "front": "We will move sofa",
+              "back": "ibalhin namo ang sofa"
+            },
+            {
+              "front": "They will rearrange couch",
+              "back": "sila mag-usab sa higdaanan"
+            },
+            {
+              "front": "I will organize wardrobe",
+              "back": "ako mag-organisar sa wardrobe"
+            },
+            {
+              "front": "She will stack bookshelf",
+              "back": "iyang ibutang ang bookshelf"
+            },
+            {
+              "front": "We will replace nightstand",
+              "back": "ilisan namo ang nightstand"
+            },
+            {
+              "front": "He will dust cabinet",
+              "back": "mag-abog siya sa kabinete"
+            },
+            {
+              "front": "I will repair recliner",
+              "back": "mag repair ko ug recliner"
+            },
+            {
+              "front": "They will clean stool",
+              "back": "ilang limpyohan ang bangkito"
+            },
+            {
+              "front": "She will wipe table",
+              "back": "magpunas siya ug lamesa"
+            },
+            {
+              "front": "We will polish vanity",
+              "back": "atong pasinaw ang kakawangan"
+            },
+            {
+              "front": "I will move ottoman",
+              "back": "ibalhin ko ottoman"
+            },
+            {
+              "front": "He will adjust stand",
+              "back": "mag adjust siya ug stand"
+            },
+            {
+              "front": "They will buy futon",
+              "back": "mamalit sila ug futon"
+            },
+            {
+              "front": "She will lift barstool",
+              "back": "siya mobayaw sa barstool"
+            },
+            {
+              "front": "I will use desk",
+              "back": "gamiton nako ang desk"
+            },
+            {
+              "front": "They will dust armchair",
+              "back": "sila mag-abog sa armchair"
+            },
+            {
+              "front": "We will cover seat",
+              "back": "magtabon mig lingkoranan"
+            },
+            {
+              "front": "He will fold futon",
+              "back": "magpilo siya ug futon"
+            },
+            {
+              "front": "They will remove dresser",
+              "back": "tangtangon nila ang aparador"
+            },
+            {
+              "front": "I will assemble cabinet",
+              "back": "mag assemble ko ug cabinet"
+            },
+            {
+              "front": "We will shift wardrobe",
+              "back": "magbalhin kami ug aparador"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Will set the table",
+              "back": "magbutang sa lamesa"
+            },
+            {
+              "front": "I will use chair",
+              "back": "mogamit kog lingkuranan"
+            },
+            {
+              "front": "They will use couch",
+              "back": "gamiton nila ang sopa"
+            },
+            {
+              "front": "The dresser will move",
+              "back": "ang aparador molihok"
+            },
+            {
+              "front": "She will fix lamp",
+              "back": "mag-ayo siya ug lampara"
+            },
+            {
+              "front": "We will dust bookshelf",
+              "back": "mag-abog mi ug bookshelf"
+            },
+            {
+              "front": "He will clean stool",
+              "back": "iyang limpyohan ang bangkito"
+            },
+            {
+              "front": "They will move recliner",
+              "back": "mobalhin sila og recliner"
+            },
+            {
+              "front": "I will fold futon",
+              "back": "ako magpilo futon"
+            },
+            {
+              "front": "We will shift wardrobe",
+              "back": "magbalhin kami ug aparador"
+            },
+            {
+              "front": "He will polish vanity",
+              "back": "iyang pasinaw ang kakawangan"
+            },
+            {
+              "front": "She will use nightstand",
+              "back": "gamiton niya ang nightstand"
+            },
+            {
+              "front": "The cabinet will open",
+              "back": "ablihan ang kabinete"
+            },
+            {
+              "front": "They will organize dresser",
+              "back": "mag-organisa sila ug dresser"
+            },
+            {
+              "front": "I will move sofa",
+              "back": "ibalhin nako ang sofa"
+            },
+            {
+              "front": "He will replace armchair",
+              "back": "ilisan niya ang armchair"
+            },
+            {
+              "front": "The chair will break",
+              "back": "maguba ang lingkuranan"
+            },
+            {
+              "front": "They will clean couch",
+              "back": "manglimpyo sila sa higdaanan"
+            },
+            {
+              "front": "The table will wobble",
+              "back": "ang lamesa magkurog"
+            },
+            {
+              "front": "I will move bed",
+              "back": "ibalhin nako ang higdaanan"
+            },
+            {
+              "front": "He will use desk",
+              "back": "gamiton niya ang desk"
+            },
+            {
+              "front": "The love seat will move",
+              "back": "mulihok ang love seat"
+            },
+            {
+              "front": "They will stack bookshelf",
+              "back": "sila magbutang-butang sa bookshelf"
+            },
+            {
+              "front": "She will buy chair",
+              "back": "mupalit siyag lingkuranan"
+            },
+            {
+              "front": "We will adjust recliner",
+              "back": "mag adjust mi ug recliner"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will sit in recliner",
+              "back": "mulingkod ko sa recliner"
+            },
+            {
+              "front": "They will replace old couch",
+              "back": "ilisan nila ang daan nga sopa"
+            },
+            {
+              "front": "The lamp will light room",
+              "back": "ang lampara modan-ag sa lawak"
+            },
+            {
+              "front": "She will move the dresser",
+              "back": "iyang ibalhin ang aparador"
+            },
+            {
+              "front": "We will clean the bookshelf",
+              "back": "manglimpyo mi sa bookshelf"
+            },
+            {
+              "front": "He will organize the wardrobe",
+              "back": "iyang organisahon ang aparador"
+            },
+            {
+              "front": "I will fold the futon",
+              "back": "piloon nako ang futon"
+            },
+            {
+              "front": "They will buy a new sofa",
+              "back": "mopalit sila ug bag-ong sofa"
+            },
+            {
+              "front": "The table will wobble again",
+              "back": "mag-uyog na usab ang lamesa"
+            },
+            {
+              "front": "She will use the nightstand",
+              "back": "gamiton niya ang nightstand"
+            },
+            {
+              "front": "He will fix the cabinet",
+              "back": "ayohon niya ang kabinet"
+            },
+            {
+              "front": "We will replace the chair",
+              "back": "ilisan namo ang lingkuranan"
+            },
+            {
+              "front": "I will dust the stool",
+              "back": "akong abogon ang bangkito"
+            },
+            {
+              "front": "They will shift the wardrobe",
+              "back": "ibalhin nila ang aparador"
+            },
+            {
+              "front": "The couch will look better",
+              "back": "mas nindot tan-awon ang sopa"
+            },
+            {
+              "front": "She will polish the vanity",
+              "back": "iyang pasinaw ang kakawangan"
+            },
+            {
+              "front": "We will arrange the love seat",
+              "back": "atong hikayon ang love seat"
+            },
+            {
+              "front": "He will set the table",
+              "back": "ipahimutang niya ang lamesa"
+            },
+            {
+              "front": "They will move the ottoman",
+              "back": "ilang ibalhin ang ottoman"
+            },
+            {
+              "front": "I will assemble the bookshelf",
+              "back": "akong tigumon ang bookshelf"
+            },
+            {
+              "front": "The recliner will need repair",
+              "back": "ang recliner kinahanglan nga ayohon"
+            },
+            {
+              "front": "We will use the desk",
+              "back": "gamiton namo ang lamesa"
+            },
+            {
+              "front": "She will clean the armchair",
+              "back": "limpyohan niya ang armchair"
+            },
+            {
+              "front": "He will carry the cabinet",
+              "back": "siya ang magdala sa kabinete"
+            },
+            {
+              "front": "They will adjust the sofa",
+              "back": "i-adjust nila ang sofa"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will sit in the recliner",
+              "back": "molingkod ko sa lingkuranan"
+            },
+            {
+              "front": "They will replace the old couch",
+              "back": "ilisan nila ang daan nga sopa"
+            },
+            {
+              "front": "The lamp will light the room",
+              "back": "ang lampara modan-ag sa lawak"
+            },
+            {
+              "front": "She will move the heavy dresser",
+              "back": "iyang ibalhin ang bug-at nga aparador"
+            },
+            {
+              "front": "We will clean the wooden bookshelf",
+              "back": "among limpyohan ang kahoy nga bookshelf"
+            },
+            {
+              "front": "He will organize the messy wardrobe",
+              "back": "iyang organisahon ang gubot nga aparador"
+            },
+            {
+              "front": "I will fold the soft futon",
+              "back": "piloon nako ang humok nga futon"
+            },
+            {
+              "front": "They will buy a new sofa",
+              "back": "mopalit sila ug bag-ong sofa"
+            },
+            {
+              "front": "The table will wobble during dinner",
+              "back": "ang lamesa magkurog sa panahon sa panihapon"
+            },
+            {
+              "front": "She will use the small nightstand",
+              "back": "gamiton niya ang gamay nga nightstand"
+            },
+            {
+              "front": "He will fix the broken cabinet",
+              "back": "ayohon niya ang guba nga kabinet"
+            },
+            {
+              "front": "We will replace the old chair",
+              "back": "atong ilisan ang daan nga lingkuranan"
+            },
+            {
+              "front": "I will dust the tall stool",
+              "back": "abogon ko ang taas nga bangkito"
+            },
+            {
+              "front": "They will shift the large wardrobe",
+              "back": "ibalhin nila ang dako nga aparador"
+            },
+            {
+              "front": "The couch will look much better",
+              "back": "mas nindot tan-awon ang sopa"
+            },
+            {
+              "front": "She will polish the fancy vanity",
+              "back": "iyang pasinaw ang matahum nga kakawangan"
+            },
+            {
+              "front": "We will arrange the love seat",
+              "back": "atong hikayon ang love seat"
+            },
+            {
+              "front": "He will set the dining table",
+              "back": "iyang ibutang ang lamesa kan-anan"
+            },
+            {
+              "front": "They will move the small ottoman",
+              "back": "ilang ibalhin ang gamay nga ottoman"
+            },
+            {
+              "front": "I will assemble the new bookshelf",
+              "back": "akong tipunon ang bag-ong bookshelf"
+            },
+            {
+              "front": "The recliner will need repair soon",
+              "back": "ang recliner kinahanglan nga ayohon sa dili madugay"
+            },
+            {
+              "front": "We will use the office desk",
+              "back": "atong gamiton ang office desk"
+            },
+            {
+              "front": "She will clean the dusty armchair",
+              "back": "limpyohan niya ang abogon nga lingkuranan"
+            },
+            {
+              "front": "He will carry the heavy cabinet",
+              "back": "iyang pas-anon ang bug-at nga kabinet"
+            },
+            {
+              "front": "They will adjust the corner sofa",
+              "back": "ila adjust ang corner sofa"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1494 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Shapes",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Circle",
+              "back": "lingin"
+            },
+            {
+              "front": "Square",
+              "back": "kuwadrado"
+            },
+            {
+              "front": "Triangle",
+              "back": "triyanggulo"
+            },
+            {
+              "front": "Rectangle",
+              "back": "rektanggulo"
+            },
+            {
+              "front": "Oval",
+              "back": "oval"
+            },
+            {
+              "front": "Hexagon",
+              "back": "heksagono"
+            },
+            {
+              "front": "Pentagon",
+              "back": "pentagon"
+            },
+            {
+              "front": "Octagon",
+              "back": "octagon"
+            },
+            {
+              "front": "Cube",
+              "back": "cube"
+            },
+            {
+              "front": "Sphere",
+              "back": "lingin"
+            },
+            {
+              "front": "Cylinder",
+              "back": "silindro"
+            },
+            {
+              "front": "Cone",
+              "back": "kono"
+            },
+            {
+              "front": "Pyramid",
+              "back": "piramide"
+            },
+            {
+              "front": "Rhombus",
+              "back": "rhombus"
+            },
+            {
+              "front": "Trapezoid",
+              "back": "trapezoid"
+            },
+            {
+              "front": "Star",
+              "back": "bituon"
+            },
+            {
+              "front": "Parallelogram",
+              "back": "paralelogram"
+            },
+            {
+              "front": "Diamond",
+              "back": "brilyante"
+            },
+            {
+              "front": "Semicircle",
+              "back": "tunga nga bilog"
+            },
+            {
+              "front": "Ellipse",
+              "back": "ellipse"
+            },
+            {
+              "front": "Tetrahedron",
+              "back": "tetrahedron"
+            },
+            {
+              "front": "Quadrilateral",
+              "back": "quadrilateral"
+            },
+            {
+              "front": "Kite",
+              "back": "tan-awa"
+            },
+            {
+              "front": "Crescent",
+              "back": "crescent"
+            },
+            {
+              "front": "Arrow",
+              "back": "pana"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Big triangle",
+              "back": "dako nga triangle"
+            },
+            {
+              "front": "Blue diamond",
+              "back": "asul nga diamante"
+            },
+            {
+              "front": "Perfect square",
+              "back": "hingpit nga kwadrado"
+            },
+            {
+              "front": "Round circle",
+              "back": "lingin nga lingin"
+            },
+            {
+              "front": "Tall rectangle",
+              "back": "taas nga rektanggulo"
+            },
+            {
+              "front": "Small star",
+              "back": "gamay nga bituon"
+            },
+            {
+              "front": "Wide hexagon",
+              "back": "lapad nga hexagon"
+            },
+            {
+              "front": "Thin oval",
+              "back": "manipis nga oval"
+            },
+            {
+              "front": "Sharp pentagon",
+              "back": "hait nga pentagon"
+            },
+            {
+              "front": "Bright crescent",
+              "back": "hayag nga crescent"
+            },
+            {
+              "front": "Large cube",
+              "back": "dako nga cube"
+            },
+            {
+              "front": "Green sphere",
+              "back": "berde nga globo"
+            },
+            {
+              "front": "Flat cylinder",
+              "back": "patag nga silindro"
+            },
+            {
+              "front": "Golden cone",
+              "back": "bulawan nga kono"
+            },
+            {
+              "front": "Perfect rhombus",
+              "back": "hingpit nga rhombus"
+            },
+            {
+              "front": "Short trapezoid",
+              "back": "mubo nga trapezoid"
+            },
+            {
+              "front": "Big pyramid",
+              "back": "dako nga piramide"
+            },
+            {
+              "front": "Silver arrow",
+              "back": "pilak nga pana"
+            },
+            {
+              "front": "Curved semicircle",
+              "back": "curved semicircle"
+            },
+            {
+              "front": "Small parallelogram",
+              "back": "gamay nga paralelogram"
+            },
+            {
+              "front": "Huge quadrilateral",
+              "back": "dako nga quadrilateral"
+            },
+            {
+              "front": "Perfect ellipse",
+              "back": "hingpit nga ellipse"
+            },
+            {
+              "front": "Bright star",
+              "back": "hayag nga bituon"
+            },
+            {
+              "front": "Big kite",
+              "back": "dako nga saranggola"
+            },
+            {
+              "front": "Thin tetrahedron",
+              "back": "manipis nga tetrahedron"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "My square box",
+              "back": "akong square box"
+            },
+            {
+              "front": "His round ball",
+              "back": "iyang lingin nga bola"
+            },
+            {
+              "front": "Star is bright",
+              "back": "hayag ang bituon"
+            },
+            {
+              "front": "Cone is tall",
+              "back": "taas ang cone"
+            },
+            {
+              "front": "Diamond is perfect",
+              "back": "perpekto ang diamante"
+            },
+            {
+              "front": "The big pyramid",
+              "back": "ang dako nga piramide"
+            },
+            {
+              "front": "Her blue diamond",
+              "back": "iyang asul nga diamante"
+            },
+            {
+              "front": "Our perfect square",
+              "back": "ang atong hingpit nga kwadrado"
+            },
+            {
+              "front": "The round circle",
+              "back": "ang lingin nga lingin"
+            },
+            {
+              "front": "My small cube",
+              "back": "akong gamay nga cube"
+            },
+            {
+              "front": "Their wide rectangle",
+              "back": "ang ilang lapad nga rektanggulo"
+            },
+            {
+              "front": "His sharp pentagon",
+              "back": "iyang hait nga pentagon"
+            },
+            {
+              "front": "The bright star",
+              "back": "ang hayag nga bituon"
+            },
+            {
+              "front": "My green sphere",
+              "back": "akong berde nga globo"
+            },
+            {
+              "front": "She has ellipse",
+              "back": "naa siyay ellipse"
+            },
+            {
+              "front": "The love triangle",
+              "back": "ang love triangle"
+            },
+            {
+              "front": "I like hexagons",
+              "back": "ganahan ko ug hexagons"
+            },
+            {
+              "front": "The silver arrow",
+              "back": "ang pana nga pilak"
+            },
+            {
+              "front": "Our tall cylinder",
+              "back": "among taas nga silindro"
+            },
+            {
+              "front": "The small trapezoid",
+              "back": "gamay nga trapezoid"
+            },
+            {
+              "front": "Your perfect rhombus",
+              "back": "imong perfect rhombus"
+            },
+            {
+              "front": "He owns cube",
+              "back": "iyaha cube"
+            },
+            {
+              "front": "She finds kite",
+              "back": "nangita siya ug kite"
+            },
+            {
+              "front": "The curved semicircle",
+              "back": "ang curved semicircle"
+            },
+            {
+              "front": "Their golden cone",
+              "back": "ilang bulawan nga kono"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "We have square boxes",
+              "back": "naa mi mga square box"
+            },
+            {
+              "front": "They have round circles",
+              "back": "sila adunay mga lingin nga lingin"
+            },
+            {
+              "front": "Cones are very special",
+              "back": "espesyal kaayo ang mga cone"
+            },
+            {
+              "front": "Triangles are good shapes",
+              "back": "Ang mga triangles maayo nga mga porma"
+            },
+            {
+              "front": "We draw perfect squares",
+              "back": "nagdibuho kami og perpekto nga mga kwadro"
+            },
+            {
+              "front": "He likes big pyramids",
+              "back": "ganahan siya ug dagkong pyramid"
+            },
+            {
+              "front": "She has blue diamonds",
+              "back": "naa siyay blue diamante"
+            },
+            {
+              "front": "Stars are very bright",
+              "back": "hayag kaayo ang mga bituon"
+            },
+            {
+              "front": "My kite is perfect",
+              "back": "perpekto ang akong saranggola"
+            },
+            {
+              "front": "Their oval is unique",
+              "back": "talagsaon ang ilang oval"
+            },
+            {
+              "front": "We like wide rectangles",
+              "back": "ganahan mi ug lapad nga rektanggulo"
+            },
+            {
+              "front": "She owns sharp pentagons",
+              "back": "tag-iya niya ang hait nga mga pentagons"
+            },
+            {
+              "front": "The sphere looks amazing",
+              "back": "nindot tan-awon ang sphere"
+            },
+            {
+              "front": "Our circle is round",
+              "back": "lingin ang among lingin"
+            },
+            {
+              "front": "The trapezoid is small",
+              "back": "gamay ra ang trapezoid"
+            },
+            {
+              "front": "We love perfect rhombuses",
+              "back": "ganahan mi ug perfect rhombuses"
+            },
+            {
+              "front": "My cube is huge",
+              "back": "dako kaayo akong cube"
+            },
+            {
+              "front": "Their hexagon is flat",
+              "back": "patag ang ilang hexagon"
+            },
+            {
+              "front": "His cylinder is tall",
+              "back": "taas ang iyang silindro"
+            },
+            {
+              "front": "Our cone is golden",
+              "back": "ang among cone bulawan"
+            },
+            {
+              "front": "She finds small diamonds",
+              "back": "nakakita siya ug gagmay nga mga diamante"
+            },
+            {
+              "front": "I draw big kites",
+              "back": "nagdrawing ko ug dagkong mga saranggola"
+            },
+            {
+              "front": "We like curved semicircles",
+              "back": "ganahan mi ug curved semicircles"
+            },
+            {
+              "front": "The arrow is silver",
+              "back": "pilak ang pana"
+            },
+            {
+              "front": "He likes wide hexagons",
+              "back": "ganahan siyag lapad nga hexagons"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "His square box is full",
+              "back": "puno ang iyang square box"
+            },
+            {
+              "front": "Her blue diamond is shiny",
+              "back": "ang iyang asul nga diamante sinaw"
+            },
+            {
+              "front": "The arrow points to north",
+              "back": "ang udyong nagpunting sa amihanan"
+            },
+            {
+              "front": "They create cylinders at work",
+              "back": "naghimo sila og mga silindro sa trabaho"
+            },
+            {
+              "front": "Pentagons are nice wall decorations",
+              "back": "Ang mga pentagon nindot nga mga dekorasyon sa dingding"
+            },
+            {
+              "front": "Our round circles look perfect",
+              "back": "perpekto ang among mga lingin nga lingin"
+            },
+            {
+              "front": "She likes tall pyramids today",
+              "back": "ganahan siyag tag-as nga mga piramide karon"
+            },
+            {
+              "front": "He draws triangles in class",
+              "back": "nagdrawing siya ug mga triangle sa klase"
+            },
+            {
+              "front": "My kite flies in the sky",
+              "back": "naglupad ang akong banog sa langit"
+            },
+            {
+              "front": "Their wide rectangle looks sharp",
+              "back": "ang ilang lapad nga rektanggulo tan-awon nga hait"
+            },
+            {
+              "front": "I see stars in the sky",
+              "back": "nakakita kog mga bituon sa langit"
+            },
+            {
+              "front": "The sphere is perfectly round",
+              "back": "ang globo hingpit nga lingin"
+            },
+            {
+              "front": "We have big trapezoid shapes",
+              "back": "kami adunay dagkong mga porma sa trapezoid"
+            },
+            {
+              "front": "His cube is very large",
+              "back": "dako kaayo iyang cube"
+            },
+            {
+              "front": "She owns a small oval",
+              "back": "siya adunay usa ka gamay nga oval"
+            },
+            {
+              "front": "We like bright crescent moons",
+              "back": "ganahan mi ug bright crescent moon"
+            },
+            {
+              "front": "They prefer perfect square boxes",
+              "back": "mas gusto nila ang perpekto nga square box"
+            },
+            {
+              "front": "The cylinder stands very tall",
+              "back": "taas kaayo ang cylinder"
+            },
+            {
+              "front": "Their hexagon design is unique",
+              "back": "talagsaon ang ilang hexagon nga disenyo"
+            },
+            {
+              "front": "I prefer sharp pentagon edges",
+              "back": "mas gusto nako ang hait nga mga kilid sa pentagon"
+            },
+            {
+              "front": "He finds rhombuses very interesting",
+              "back": "iyang nakit-an ang mga rhombus nga makapaikag kaayo"
+            },
+            {
+              "front": "We paint big stars often",
+              "back": "kami nagpintal sa dagkong mga bituon kanunay"
+            },
+            {
+              "front": "The diamond shines very brightly",
+              "back": "hayag kaayo ang brilyante"
+            },
+            {
+              "front": "She owns a curved semicircle",
+              "back": "siya adunay usa ka curved semicircle"
+            },
+            {
+              "front": "My cone is made of metal",
+              "back": "ang akong cone ginama sa metal"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I have big boxes at home",
+              "back": "naa koy dagkong mga kahon sa balay"
+            },
+            {
+              "front": "She sells diamonds at the store",
+              "back": "namaligya siyag diamante sa tindahan"
+            },
+            {
+              "front": "Big ovals are not perfect circles",
+              "back": "Ang dagkong mga oval dili perpekto nga mga lingin"
+            },
+            {
+              "front": "The ancient pyramids are more mysterious",
+              "back": "mas misteryoso ang karaang mga piramide"
+            },
+            {
+              "front": "He draws perfect squares in class",
+              "back": "nagdibuho siya og perpekto nga mga kwadro sa klase"
+            },
+            {
+              "front": "They design hexagons for building decorations",
+              "back": "nagdesinyo sila og mga heksagon alang sa mga dekorasyon sa pagtukod"
+            },
+            {
+              "front": "We like round circles at work",
+              "back": "ganahan mi ug round circle sa trabaho"
+            },
+            {
+              "front": "His arrow points directly to north",
+              "back": "ang iyang udyong direkta nga nagpunting sa amihanan"
+            },
+            {
+              "front": "The cylinder stands tall in the corner",
+              "back": "ang silindro nagbarog nga taas sa suok"
+            },
+            {
+              "front": "She creates colorful trapezoids for school",
+              "back": "nagmugna siyag mabulukon nga mga trapezoid para sa eskwelahan"
+            },
+            {
+              "front": "Our stars shine brightly in the sky",
+              "back": "ang among mga bituon nagdan-ag sa kalangitan"
+            },
+            {
+              "front": "He has a huge rectangle at home",
+              "back": "siya adunay usa ka dako nga rectangle sa balay"
+            },
+            {
+              "front": "The big sphere rolls down the hill",
+              "back": "ang dako nga globo miligid paubos sa bungtod"
+            },
+            {
+              "front": "Her diamond necklace shines in the light",
+              "back": "ang iyang diamante nga kwintas nagdan-ag sa kahayag"
+            },
+            {
+              "front": "They use cones to mark roads",
+              "back": "gigamit nila ang mga cone aron markahan ang mga dalan"
+            },
+            {
+              "front": "My friend loves perfect square designs",
+              "back": "Ang akong higala ganahan og perpekto nga mga disenyo sa square"
+            },
+            {
+              "front": "The wide cube fits in place",
+              "back": "ang lapad nga cube mohaum sa dapit"
+            },
+            {
+              "front": "We draw rhombuses for our project",
+              "back": "nagdrowing mi ug mga rhombus para sa among proyekto"
+            },
+            {
+              "front": "She creates pentagons for her class",
+              "back": "naghimo siya og mga pentagons para sa iyang klase"
+            },
+            {
+              "front": "He cuts rectangles for his class",
+              "back": "giputol niya ang mga rectangles para sa iyang klase"
+            },
+            {
+              "front": "My kite flies high in the sky",
+              "back": "ang akong banog naglupad sa taas sa langit"
+            },
+            {
+              "front": "The curved semicircle looks very elegant",
+              "back": "elegante kaayo tan-awon ang curved semicircle"
+            },
+            {
+              "front": "We love creating parallelograms for fun",
+              "back": "ganahan mi sa paghimo og parallelograms para malingaw"
+            },
+            {
+              "front": "They prefer tall cylinders for work",
+              "back": "mas gusto nila ang taas nga mga silindro para sa trabaho"
+            },
+            {
+              "front": "The large pyramid is very famous",
+              "back": "sikat kaayo ang dako nga piramide"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Was a square",
+              "back": "maoy usa ka kuwadrado"
+            },
+            {
+              "front": "Was a circle",
+              "back": "usa ka lingin"
+            },
+            {
+              "front": "Was a cube",
+              "back": "usa ka cube"
+            },
+            {
+              "front": "Was a triangle",
+              "back": "usa ka triangle"
+            },
+            {
+              "front": "Was a pyramid",
+              "back": "usa ka piramide"
+            },
+            {
+              "front": "Was a hexagon",
+              "back": "usa ka hexagon"
+            },
+            {
+              "front": "Was a star",
+              "back": "usa ka bituon"
+            },
+            {
+              "front": "Was a rhombus",
+              "back": "usa ka rhombus"
+            },
+            {
+              "front": "Was a rectangle",
+              "back": "usa ka rektanggulo"
+            },
+            {
+              "front": "Was an oval",
+              "back": "usa ka oval"
+            },
+            {
+              "front": "Was a pentagon",
+              "back": "usa ka pentagon"
+            },
+            {
+              "front": "Was an arrow",
+              "back": "usa ka pana"
+            },
+            {
+              "front": "Was a sphere",
+              "back": "usa ka sphere"
+            },
+            {
+              "front": "Was a diamond",
+              "back": "usa ka diamante"
+            },
+            {
+              "front": "Was a trapezoid",
+              "back": "usa ka trapezoid"
+            },
+            {
+              "front": "Was a cylinder",
+              "back": "usa ka silindro"
+            },
+            {
+              "front": "Was a cone",
+              "back": "usa ka kono"
+            },
+            {
+              "front": "Was a semicircle",
+              "back": "usa ka tunga nga lingin"
+            },
+            {
+              "front": "Was an ellipse",
+              "back": "usa ka ellipse"
+            },
+            {
+              "front": "Was a kite",
+              "back": "usa ka banog"
+            },
+            {
+              "front": "Was a parallelogram",
+              "back": "kay usa ka paralelogram"
+            },
+            {
+              "front": "Was a tetrahedron",
+              "back": "usa ka tetrahedron"
+            },
+            {
+              "front": "Was a quadrilateral",
+              "back": "usa ka quadrilateral"
+            },
+            {
+              "front": "Was a crescent",
+              "back": "usa ka crescent"
+            },
+            {
+              "front": "Was a tetrahedron",
+              "back": "usa ka tetrahedron"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I was making squares",
+              "back": "naghimo kog mga kwadro"
+            },
+            {
+              "front": "They needed big circles",
+              "back": "nagkinahanglan sila ug dagkong mga lingin"
+            },
+            {
+              "front": "Diamonds were my favorite",
+              "back": "mga diamante ang akong paborito"
+            },
+            {
+              "front": "We drew perfect squares",
+              "back": "nagdibuho kami og perpekto nga mga kwadro"
+            },
+            {
+              "front": "She had round circles",
+              "back": "siya adunay mga lingin nga lingin"
+            },
+            {
+              "front": "He drew small stars",
+              "back": "nagdibuho siya og gagmay nga mga bituon"
+            },
+            {
+              "front": "I was designing triangles",
+              "back": "nagdesinyo ko ug triangles"
+            },
+            {
+              "front": "They painted large rectangles",
+              "back": "nagpintal sila og dagkong mga rektanggulo"
+            },
+            {
+              "front": "We used blue hexagons",
+              "back": "migamit kami ug asul nga hexagons"
+            },
+            {
+              "front": "He created big pyramids",
+              "back": "gibuhat niya ang dagkong mga piramide"
+            },
+            {
+              "front": "She liked golden diamonds",
+              "back": "ganahan siya og bulawan nga diamante"
+            },
+            {
+              "front": "They were making cylinders",
+              "back": "naghimo sila og mga silindro"
+            },
+            {
+              "front": "We built tall cones",
+              "back": "nagtukod kami og taas nga mga cone"
+            },
+            {
+              "front": "I cut many trapezoids",
+              "back": "giputol nako ang daghang mga trapezoid"
+            },
+            {
+              "front": "He found a sphere",
+              "back": "nakakita siya og usa ka sphere"
+            },
+            {
+              "front": "She made small ovals",
+              "back": "naghimo siya og gagmay nga mga oval"
+            },
+            {
+              "front": "They created perfect rhombuses",
+              "back": "naghimo sila og hingpit nga mga rhombus"
+            },
+            {
+              "front": "I liked wide parallelograms",
+              "back": "Ganahan ko sa lapad nga paralelograms"
+            },
+            {
+              "front": "He used sharp pentagons",
+              "back": "migamit siya ug hait nga mga pentagons"
+            },
+            {
+              "front": "She bought a crescent",
+              "back": "nipalit siyag crescent"
+            },
+            {
+              "front": "We discovered ancient pyramids",
+              "back": "among nadiskobrehan ang karaang mga piramide"
+            },
+            {
+              "front": "They liked curved semicircles",
+              "back": "ganahan sila ug curved semicircles"
+            },
+            {
+              "front": "He wanted big cubes",
+              "back": "gusto niya ug dagkong cubes"
+            },
+            {
+              "front": "I found large arrows",
+              "back": "nakit-an nako ang dagkong mga pana"
+            },
+            {
+              "front": "They loved tall cylinders",
+              "back": "ganahan sila sa tag-as nga mga silindro"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I painted pictures with circles",
+              "back": "nagpintal ko og mga hulagway gamit ang mga lingin"
+            },
+            {
+              "front": "They used square boxes today",
+              "back": "square boxes ang ilang gigamit karon"
+            },
+            {
+              "front": "Everyone was inside the pyramid",
+              "back": "ang tanan naa sa sulod sa piramide"
+            },
+            {
+              "front": "Large arrows showed them where",
+              "back": "dagkong mga pana nagpakita kanila kon asa"
+            },
+            {
+              "front": "We designed beautiful star shapes",
+              "back": "nagdisenyo kami og nindot nga mga porma sa bituon"
+            },
+            {
+              "front": "She cut perfect blue diamonds",
+              "back": "giputol niya ang hingpit nga asul nga diamante"
+            },
+            {
+              "front": "He found a golden hexagon",
+              "back": "nakakita siyag bulawan nga heksagono"
+            },
+            {
+              "front": "I made small red rectangles",
+              "back": "Naghimo ko og gagmay nga pula nga mga rektanggulo"
+            },
+            {
+              "front": "They liked the large cubes",
+              "back": "ganahan sila sa dagkong cubes"
+            },
+            {
+              "front": "She used many green triangles",
+              "back": "migamit siya ug daghang berdeng trianggulo"
+            },
+            {
+              "front": "We built huge tall cones",
+              "back": "nagtukod kami ug dagkong tag-as nga mga kono"
+            },
+            {
+              "front": "He discovered ancient sharp rhombuses",
+              "back": "iyang nadiskobrehan ang karaang hait nga mga rhombus"
+            },
+            {
+              "front": "I found a curved semicircle",
+              "back": "Nakakita kog curved semicircle"
+            },
+            {
+              "front": "They loved their round spheres",
+              "back": "ganahan sila sa ilang lingin nga mga bola"
+            },
+            {
+              "front": "We created bright golden trapezoids",
+              "back": "naghimo kami og hayag nga bulawan nga mga trapezoid"
+            },
+            {
+              "front": "He was drawing small kites",
+              "back": "nagdrawing siya ug gagmay nga mga saranggola"
+            },
+            {
+              "front": "She preferred the thin ovals",
+              "back": "gipalabi niya ang nipis nga mga oval"
+            },
+            {
+              "front": "I enjoyed making pentagon patterns",
+              "back": "Nalingaw ko sa paghimo og mga pattern sa pentagon"
+            },
+            {
+              "front": "We used the big cylinders",
+              "back": "gigamit namo ang dagkong mga silindro"
+            },
+            {
+              "front": "They designed complex parallelograms yesterday",
+              "back": "nagdesinyo silag mga komplikadong paralelograms kagahapon"
+            },
+            {
+              "front": "He chose large rectangles today",
+              "back": "nagpili siya ug dagkong mga rektanggulo karon"
+            },
+            {
+              "front": "She discovered ancient pyramids yesterday",
+              "back": "nadiskobrehan niya ang karaang mga piramide kagahapon"
+            },
+            {
+              "front": "They admired the perfect crescent",
+              "back": "nakadayeg sila sa hingpit nga crescent"
+            },
+            {
+              "front": "We painted big square walls",
+              "back": "gipintalan namo ang dagkong square nga mga bungbong"
+            },
+            {
+              "front": "I made a tall cylinder",
+              "back": "naghimo ko ug taas nga silindro"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I painted big pictures with circles",
+              "back": "Gipintalan nako ang dagkong mga litrato gamit ang mga lingin"
+            },
+            {
+              "front": "They used square boxes all day",
+              "back": "gigamit nila ang mga kahon nga kuwadrado sa tibuok adlaw"
+            },
+            {
+              "front": "Everyone was inside the ancient pyramid",
+              "back": "ang tanan naa sa sulod sa karaang piramide"
+            },
+            {
+              "front": "Large arrows showed them the way",
+              "back": "ang dagkong mga pana nagpakita kanila sa dalan"
+            },
+            {
+              "front": "We designed beautiful stars for decorations",
+              "back": "nagdisenyo kami og nindot nga mga bituon alang sa mga dekorasyon"
+            },
+            {
+              "front": "She cut perfect blue diamond shapes",
+              "back": "giputol niya ang hingpit nga asul nga diamante nga porma"
+            },
+            {
+              "front": "He found a golden hexagon pattern",
+              "back": "nakit-an niya ang bulawan nga hexagon pattern"
+            },
+            {
+              "front": "I made small red rectangular boxes",
+              "back": "Naghimo ko og gagmay nga pula nga rectangular nga mga kahon"
+            },
+            {
+              "front": "They admired the large round cubes",
+              "back": "nakadayeg sila sa dagkong lingin nga mga cubes"
+            },
+            {
+              "front": "She used many green triangle cutouts",
+              "back": "migamit siya og daghang mga ginunting nga green triangle"
+            },
+            {
+              "front": "We built huge cones for the project",
+              "back": "nagtukod mi og dagkong mga cone para sa proyekto"
+            },
+            {
+              "front": "He discovered ancient sharp rhombus designs",
+              "back": "iyang nadiskobrehan ang karaang hait nga mga disenyo sa rhombus"
+            },
+            {
+              "front": "I found a curved semicircle yesterday",
+              "back": "Nakakita ko ug curved semicircle gahapon"
+            },
+            {
+              "front": "They loved their big round spheres",
+              "back": "ganahan sila sa ilang dagkong lingin nga mga bola"
+            },
+            {
+              "front": "We created bright golden trapezoid patterns",
+              "back": "naghimo kami og mahayag nga bulawan nga mga pattern sa trapezoid"
+            },
+            {
+              "front": "He was drawing small colorful kites",
+              "back": "nagdibuho siya ug gagmay nga mabulukon nga mga saranggola"
+            },
+            {
+              "front": "She preferred the thin yellow ovals",
+              "back": "gipalabi niya ang nipis nga yellow ovals"
+            },
+            {
+              "front": "I enjoyed making perfect pentagon patterns",
+              "back": "Nalingaw ko sa paghimo og perpekto nga mga pattern sa pentagon"
+            },
+            {
+              "front": "We used the tall glass cylinders",
+              "back": "gigamit namo ang taas nga mga silindro sa bildo"
+            },
+            {
+              "front": "They designed complex parallelograms last week",
+              "back": "nagdisenyo sila ug komplikadong paralelograms sa miaging semana"
+            },
+            {
+              "front": "He chose large rectangular shapes today",
+              "back": "mipili siyag dagkong rektanggulo nga mga porma karon"
+            },
+            {
+              "front": "She discovered ancient pyramids last year",
+              "back": "nadiskobrehan niya ang karaang mga piramide sa miaging tuig"
+            },
+            {
+              "front": "They admired the silver crescent moon",
+              "back": "nakadayeg sila sa silver crescent moon"
+            },
+            {
+              "front": "We painted big square murals yesterday",
+              "back": "nagpintura mi ug dagkong square mural gahapon"
+            },
+            {
+              "front": "I made a tall metal cylinder",
+              "back": "Naghimo ko og taas nga metal nga silindro"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will be square",
+              "back": "mahimong square"
+            },
+            {
+              "front": "Will be triangular",
+              "back": "mahimong trianggulo"
+            },
+            {
+              "front": "Will be round",
+              "back": "mahimong lingin"
+            },
+            {
+              "front": "Will be rectangular",
+              "back": "mahimong rectangular"
+            },
+            {
+              "front": "Will be circular",
+              "back": "mahimong circular"
+            },
+            {
+              "front": "Will be cubic",
+              "back": "mahimong kubiko"
+            },
+            {
+              "front": "Will be hexagonal",
+              "back": "mahimong hexagonal"
+            },
+            {
+              "front": "Will be star-shaped",
+              "back": "mahimong bituon nga porma"
+            },
+            {
+              "front": "Will be conical",
+              "back": "mahimong conical"
+            },
+            {
+              "front": "Will be pentagonal",
+              "back": "mahimong pentagonal"
+            },
+            {
+              "front": "Will be elliptical",
+              "back": "mahimong elliptical"
+            },
+            {
+              "front": "Will be diamond-shaped",
+              "back": "mahimong diamante nga porma"
+            },
+            {
+              "front": "Will be spherical",
+              "back": "mahimong spherical"
+            },
+            {
+              "front": "Will be trapezoidal",
+              "back": "mahimong trapezoidal"
+            },
+            {
+              "front": "Will be cylindrical",
+              "back": "mahimong cylindrical"
+            },
+            {
+              "front": "Will be pyramidal",
+              "back": "mahimong pyramidal"
+            },
+            {
+              "front": "Will be rhombus",
+              "back": "mahimong rhombus"
+            },
+            {
+              "front": "Will be octagonal",
+              "back": "mahimong octagonal"
+            },
+            {
+              "front": "Will be kite-shaped",
+              "back": "mahimong banog nga porma"
+            },
+            {
+              "front": "Will be crescent",
+              "back": "mahimong crescent"
+            },
+            {
+              "front": "Will be arrow-shaped",
+              "back": "mahimong porma sa pana"
+            },
+            {
+              "front": "Will be parallelogram",
+              "back": "mahimong paralelogram"
+            },
+            {
+              "front": "Will be tetrahedron",
+              "back": "mahimong tetrahedron"
+            },
+            {
+              "front": "Will be semicircular",
+              "back": "mahimong semicircular"
+            },
+            {
+              "front": "Will be quadrilateral",
+              "back": "mahimong quadrilateral"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will use squares",
+              "back": "gamiton ko ang mga kwadro"
+            },
+            {
+              "front": "She will buy diamonds",
+              "back": "mopalit siyag diamante"
+            },
+            {
+              "front": "Arrows will be useful",
+              "back": "ang mga pana mahimong mapuslanon"
+            },
+            {
+              "front": "We will draw circles",
+              "back": "magdrowing mi ug mga lingin"
+            },
+            {
+              "front": "He will create triangles",
+              "back": "maghimo siya ug triangles"
+            },
+            {
+              "front": "They will design hexagons",
+              "back": "magdesinyo sila ug mga hexagon"
+            },
+            {
+              "front": "We will make stars",
+              "back": "maghimo kita ug mga bituon"
+            },
+            {
+              "front": "She will need rectangles",
+              "back": "magkinahanglan siya og mga rectangles"
+            },
+            {
+              "front": "He will buy cubes",
+              "back": "mupalit siyag cubes"
+            },
+            {
+              "front": "I will build pyramids",
+              "back": "magtukod ko ug mga piramide"
+            },
+            {
+              "front": "They will find trapezoids",
+              "back": "makit-an nila ang mga trapezoid"
+            },
+            {
+              "front": "We will use cylinders",
+              "back": "cylinders atong gamiton"
+            },
+            {
+              "front": "She will paint ovals",
+              "back": "magpintal siya ug mga oval"
+            },
+            {
+              "front": "He will choose spheres",
+              "back": "mopili siyag mga sphere"
+            },
+            {
+              "front": "They will make kites",
+              "back": "maghimo sila ug mga saranggola"
+            },
+            {
+              "front": "I will cut rhombuses",
+              "back": "putlon ko ang mga rhombus"
+            },
+            {
+              "front": "She will need crescents",
+              "back": "magkinahanglan siya ug mga crescents"
+            },
+            {
+              "front": "He will use pentagons",
+              "back": "gamiton niya ang mga pentagons"
+            },
+            {
+              "front": "We will draw arrows",
+              "back": "magdibuho kami ug mga udyong"
+            },
+            {
+              "front": "They will build cones",
+              "back": "magbuhat sila ug mga cones"
+            },
+            {
+              "front": "I will find ellipses",
+              "back": "pangitaon ko ang mga ellipse"
+            },
+            {
+              "front": "She will create parallelograms",
+              "back": "maghimo siya ug paralelograms"
+            },
+            {
+              "front": "He will design tetrahedrons",
+              "back": "magdesinyo siya ug mga tetrahedron"
+            },
+            {
+              "front": "We will make quadrilaterals",
+              "back": "maghimo kita ug quadrilaterals"
+            },
+            {
+              "front": "They will draw semicircles",
+              "back": "magdrowing sila ug semicircles"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will use square boxes",
+              "back": "mogamit ko ug square boxes"
+            },
+            {
+              "front": "She will buy diamond shapes",
+              "back": "mopalit siya ug mga porma nga diamante"
+            },
+            {
+              "front": "Arrows will be very helpful",
+              "back": "ang mga pana makatabang kaayo"
+            },
+            {
+              "front": "We will draw perfect circles",
+              "back": "magdrowing mi ug perfect circles"
+            },
+            {
+              "front": "He will create tall triangles",
+              "back": "maghimo siya ug taas nga triangles"
+            },
+            {
+              "front": "They will design hexagon walls",
+              "back": "magdesinyo sila ug hexagon nga mga bungbong"
+            },
+            {
+              "front": "We will make bright stars",
+              "back": "maghimo kita ug hayag nga mga bituon"
+            },
+            {
+              "front": "She will need large rectangles",
+              "back": "magkinahanglan siya ug dagkong mga rektanggulo"
+            },
+            {
+              "front": "He will buy small cubes",
+              "back": "mupalit siya ug gagmayng cubes"
+            },
+            {
+              "front": "I will build ancient pyramids",
+              "back": "magtukod ko ug karaang mga piramide"
+            },
+            {
+              "front": "They will find trapezoid shapes",
+              "back": "makit-an nila ang mga porma nga trapezoid"
+            },
+            {
+              "front": "We will use tall cylinders",
+              "back": "mogamit kami ug taas nga mga silindro"
+            },
+            {
+              "front": "She will paint colorful ovals",
+              "back": "magpintal siya ug mga kolor nga oval"
+            },
+            {
+              "front": "He will choose round spheres",
+              "back": "mopili siyag mga lingin nga lingin"
+            },
+            {
+              "front": "They will make red kites",
+              "back": "maghimo sila ug pula nga mga saranggola"
+            },
+            {
+              "front": "I will cut sharp rhombuses",
+              "back": "akong putlon ang mga hait nga rhombus"
+            },
+            {
+              "front": "She will need curved crescents",
+              "back": "magkinahanglan siya ug curved crescents"
+            },
+            {
+              "front": "He will use golden pentagons",
+              "back": "gamiton niya ang mga golden pentagons"
+            },
+            {
+              "front": "We will draw straight arrows",
+              "back": "magdrowing kami ug tul-id nga mga pana"
+            },
+            {
+              "front": "They will build tall cones",
+              "back": "magbuhat sila ug tag-as nga mga kono"
+            },
+            {
+              "front": "I will find large ellipses",
+              "back": "makakita kog dagkong mga ellipse"
+            },
+            {
+              "front": "She will create complex parallelograms",
+              "back": "maghimo siya ug komplikadong paralelograms"
+            },
+            {
+              "front": "He will design new tetrahedrons",
+              "back": "magdesinyo siya ug bag-ong mga tetrahedron"
+            },
+            {
+              "front": "We will make perfect quadrilaterals",
+              "back": "maghimo kitag hingpit nga quadrilaterals"
+            },
+            {
+              "front": "They will draw curved semicircles",
+              "back": "magdrowing sila ug mga kurbadong semicircles"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will use square boxes tomorrow",
+              "back": "maggamit ko ug square boxes"
+            },
+            {
+              "front": "She will buy diamond shapes soon",
+              "back": "mopalit siya ug mga pormag diamante sa dili madugay"
+            },
+            {
+              "front": "Arrows will be very helpful tomorrow",
+              "back": "ang mga pana makatabang kaayo ugma"
+            },
+            {
+              "front": "We will draw perfect circles today",
+              "back": "magdrowing kita og mga perfect circle karon"
+            },
+            {
+              "front": "He will create tall triangles tomorrow",
+              "back": "maghimo siya ug taas nga triangles ugma"
+            },
+            {
+              "front": "They will design hexagon walls soon",
+              "back": "sila magdesinyo sa hexagon nga mga bungbong sa dili madugay"
+            },
+            {
+              "front": "We will make bright stars tonight",
+              "back": "maghimo kita ug hayag nga mga bituon karong gabhiona"
+            },
+            {
+              "front": "She will need large rectangles soon",
+              "back": "magkinahanglan siya ug dagkong mga rektanggulo sa dili madugay"
+            },
+            {
+              "front": "He will buy small cubes tomorrow",
+              "back": "mamalit siya ug gagmayng cubes"
+            },
+            {
+              "front": "I will build ancient pyramids soon",
+              "back": "magtukod kog karaang mga piramide sa dili madugay"
+            },
+            {
+              "front": "They will find trapezoid shapes tomorrow",
+              "back": "makakita sila ug mga pormag trapezoid ugma"
+            },
+            {
+              "front": "We will use tall cylinders later",
+              "back": "tall cylinders atong gamiton unya"
+            },
+            {
+              "front": "She will paint colorful ovals tomorrow",
+              "back": "magpintura siya ugma dekolor nga mga oval"
+            },
+            {
+              "front": "He will choose round spheres tomorrow",
+              "back": "pilion niya ugma ang mga round sphere"
+            },
+            {
+              "front": "They will make red kites tomorrow",
+              "back": "ugma magbuhat sila ug red kites"
+            },
+            {
+              "front": "I will cut sharp rhombuses today",
+              "back": "magputol ko ug hait nga rhombuses karon"
+            },
+            {
+              "front": "She will need curved crescents later",
+              "back": "magkinahanglan siyag curved crescents unya"
+            },
+            {
+              "front": "He will use golden pentagons tomorrow",
+              "back": "ugma gamiton niya ang mga golden pentagons"
+            },
+            {
+              "front": "We will draw straight arrows today",
+              "back": "magdrowing kita ug tul-id nga mga pana karon"
+            },
+            {
+              "front": "They will build tall cones tomorrow",
+              "back": "magtukod sila ug tag-as nga mga cone ugma"
+            },
+            {
+              "front": "I will find large ellipses soon",
+              "back": "makakita kog dagkong ellipses sa dili madugay"
+            },
+            {
+              "front": "She will create complex parallelograms soon",
+              "back": "maghimo siya ug komplikadong paralelograms sa dili madugay"
+            },
+            {
+              "front": "He will design new tetrahedrons soon",
+              "back": "magdesinyo siya ug bag-ong mga tetrahedron sa dili madugay"
+            },
+            {
+              "front": "We will make perfect quadrilaterals soon",
+              "back": "kita makahimo sa hingpit nga quadrilaterals sa dili madugay"
+            },
+            {
+              "front": "They will draw curved semicircles tomorrow",
+              "back": "magdrowing sila ug curved semicircles ugma"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

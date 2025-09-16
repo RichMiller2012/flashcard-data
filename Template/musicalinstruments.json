@@ -1,0 +1,545 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Musical Instruments",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Guitar", "back": "" },
+            { "front": "Piano", "back": "" },
+            { "front": "Drums", "back": "" },
+            { "front": "Violin", "back": "" },
+            { "front": "Saxophone", "back": "" },
+            { "front": "Trumpet", "back": "" },
+            { "front": "Flute", "back": "" },
+            { "front": "Cello", "back": "" },
+            { "front": "Clarinet", "back": "" },
+            { "front": "Harp", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Play guitar", "back": "" },
+            { "front": "Hold violin", "back": "" },
+            { "front": "Tune piano", "back": "" },
+            { "front": "Strike drums", "back": "" },
+            { "front": "Blow saxophone", "back": "" },
+            { "front": "Sing trumpet", "back": "" },
+            { "front": "Play flute", "back": "" },
+            { "front": "Bow cello", "back": "" },
+            { "front": "Strum harp", "back": "" },
+            { "front": "Pluck ukulele", "back": "" },
+            { "front": "Finger clarinet", "back": "" },
+            { "front": "Dance tambourine", "back": "" },
+            { "front": "Press piano", "back": "" },
+            { "front": "Shake maracas", "back": "" },
+            { "front": "Blow horn", "back": "" },
+            { "front": "Strike cymbals", "back": "" },
+            { "front": "Beat drums", "back": "" },
+            { "front": "Guitar strum", "back": "" },
+            { "front": "Violin bow", "back": "" },
+            { "front": "Cello play", "back": "" },
+            { "front": "Harp pluck", "back": "" },
+            { "front": "Clarinet finger", "back": "" },
+            { "front": "Trumpet blow", "back": "" },
+            { "front": "Flute play", "back": "" },
+            { "front": "Saxophone jam", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I play guitar", "back": "" },
+            { "front": "He holds violin", "back": "" },
+            { "front": "She tunes piano", "back": "" },
+            { "front": "They strike drums", "back": "" },
+            { "front": "We blow saxophone", "back": "" },
+            { "front": "You sing trumpet", "back": "" },
+            { "front": "I play flute", "back": "" },
+            { "front": "He bows cello", "back": "" },
+            { "front": "She strums harp", "back": "" },
+            { "front": "They pluck ukulele", "back": "" },
+            { "front": "We finger clarinet", "back": "" },
+            { "front": "You dance tambourine", "back": "" },
+            { "front": "I press piano", "back": "" },
+            { "front": "He shakes maracas", "back": "" },
+            { "front": "She blows horn", "back": "" },
+            { "front": "They strike cymbals", "back": "" },
+            { "front": "We beat drums", "back": "" },
+            { "front": "You guitar strum", "back": "" },
+            { "front": "I violin bow", "back": "" },
+            { "front": "He cello play", "back": "" },
+            { "front": "She harp pluck", "back": "" },
+            { "front": "They clarinet finger", "back": "" },
+            { "front": "We trumpet blow", "back": "" },
+            { "front": "You flute play", "back": "" },
+            { "front": "He saxophone jam", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I play guitar daily", "back": "" },
+            { "front": "He holds violin carefully", "back": "" },
+            { "front": "She tunes piano regularly", "back": "" },
+            { "front": "They strike drums loudly", "back": "" },
+            { "front": "We blow saxophone beautifully", "back": "" },
+            { "front": "You sing trumpet passionately", "back": "" },
+            { "front": "I play flute gracefully", "back": "" },
+            { "front": "He bows cello skillfully", "back": "" },
+            { "front": "She strums harp softly", "back": "" },
+            { "front": "They pluck ukulele lightly", "back": "" },
+            { "front": "We finger clarinet accurately", "back": "" },
+            { "front": "You dance tambourine energetically", "back": "" },
+            { "front": "I press piano keys", "back": "" },
+            { "front": "He shakes maracas rhythmically", "back": "" },
+            { "front": "She blows horn powerfully", "back": "" },
+            { "front": "They strike cymbals sharply", "back": "" },
+            { "front": "We beat drums steadily", "back": "" },
+            { "front": "You guitar strum smoothly", "back": "" },
+            { "front": "I violin bow carefully", "back": "" },
+            { "front": "He cello play beautifully", "back": "" },
+            { "front": "She harp pluck delicately", "back": "" },
+            { "front": "They clarinet finger precisely", "back": "" },
+            { "front": "We trumpet blow loudly", "back": "" },
+            { "front": "You flute play softly", "back": "" },
+            { "front": "He saxophone jam energetically", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I play guitar every day", "back": "" },
+            { "front": "He holds violin with skill", "back": "" },
+            { "front": "She tunes piano carefully now", "back": "" },
+            { "front": "They strike drums during practice", "back": "" },
+            { "front": "We blow saxophone beautifully today", "back": "" },
+            { "front": "You sing trumpet with passion", "back": "" },
+            { "front": "I play flute gracefully daily", "back": "" },
+            { "front": "He bows cello with precision", "back": "" },
+            { "front": "She strums harp softly now", "back": "" },
+            { "front": "They pluck ukulele lightly today", "back": "" },
+            { "front": "We finger clarinet accurately now", "back": "" },
+            { "front": "You dance tambourine energetically today", "back": "" },
+            { "front": "I press piano keys daily", "back": "" },
+            { "front": "He shakes maracas rhythmically now", "back": "" },
+            { "front": "She blows horn powerfully today", "back": "" },
+            { "front": "They strike cymbals sharply now", "back": "" },
+            { "front": "We beat drums steadily today", "back": "" },
+            { "front": "You guitar strum smoothly now", "back": "" },
+            { "front": "I violin bow carefully today", "back": "" },
+            { "front": "He cello play beautifully now", "back": "" },
+            { "front": "She harp pluck delicately today", "back": "" },
+            { "front": "They clarinet finger precisely now", "back": "" },
+            { "front": "We trumpet blow loudly today", "back": "" },
+            { "front": "You flute play softly now", "back": "" },
+            { "front": "He saxophone jam energetically today", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I play guitar every single day", "back": "" },
+            { "front": "He holds violin with great skill", "back": "" },
+            { "front": "She tunes piano very carefully now", "back": "" },
+            {
+              "front": "They strike drums during intense practice",
+              "back": ""
+            },
+            {
+              "front": "We blow saxophone beautifully every evening",
+              "back": ""
+            },
+            { "front": "You sing trumpet with lots of passion", "back": "" },
+            { "front": "I play flute gracefully every morning", "back": "" },
+            { "front": "He bows cello with perfect precision", "back": "" },
+            { "front": "She strums harp softly every night", "back": "" },
+            { "front": "They pluck ukulele lightly every session", "back": "" },
+            {
+              "front": "We finger clarinet accurately every rehearsal",
+              "back": ""
+            },
+            {
+              "front": "You dance tambourine energetically during performances",
+              "back": ""
+            },
+            { "front": "I press piano keys every day", "back": "" },
+            {
+              "front": "He shakes maracas rhythmically during shows",
+              "back": ""
+            },
+            { "front": "She blows horn powerfully every concert", "back": "" },
+            {
+              "front": "They strike cymbals sharply every performance",
+              "back": ""
+            },
+            { "front": "We beat drums steadily every session", "back": "" },
+            { "front": "You guitar strum smoothly every evening", "back": "" },
+            { "front": "I violin bow carefully every practice", "back": "" },
+            { "front": "He cello play beautifully every night", "back": "" },
+            {
+              "front": "She harp pluck delicately every performance",
+              "back": ""
+            },
+            {
+              "front": "They clarinet finger precisely every rehearsal",
+              "back": ""
+            },
+            { "front": "We trumpet blow loudly every concert", "back": "" },
+            { "front": "You flute play softly every morning", "back": "" },
+            {
+              "front": "He saxophone jam energetically every session",
+              "back": ""
+            },
+            { "front": "She enjoys playing harp gracefully daily", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Played guitar", "back": "" },
+            { "front": "Held violin", "back": "" },
+            { "front": "Tuned piano", "back": "" },
+            { "front": "Struck drums", "back": "" },
+            { "front": "Blew saxophone", "back": "" },
+            { "front": "Sang trumpet", "back": "" },
+            { "front": "Played flute", "back": "" },
+            { "front": "Bowed cello", "back": "" },
+            { "front": "Strummed harp", "back": "" },
+            { "front": "Plucked ukulele", "back": "" },
+            { "front": "Fingers clarinet", "back": "" },
+            { "front": "Danced tambourine", "back": "" },
+            { "front": "Pressed piano", "back": "" },
+            { "front": "Shook maracas", "back": "" },
+            { "front": "Blew horn", "back": "" },
+            { "front": "Struck cymbals", "back": "" },
+            { "front": "Beat drums", "back": "" },
+            { "front": "Strummed guitar", "back": "" },
+            { "front": "Bowed violin", "back": "" },
+            { "front": "Played cello", "back": "" },
+            { "front": "Plucked harp", "back": "" },
+            { "front": "Fingered clarinet", "back": "" },
+            { "front": "Blew trumpet", "back": "" },
+            { "front": "Played flute", "back": "" },
+            { "front": "Jammed saxophone", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I played guitar", "back": "" },
+            { "front": "He held violin", "back": "" },
+            { "front": "She tuned piano", "back": "" },
+            { "front": "They struck drums", "back": "" },
+            { "front": "We blew saxophone", "back": "" },
+            { "front": "You sang trumpet", "back": "" },
+            { "front": "I played flute", "back": "" },
+            { "front": "He bowed cello", "back": "" },
+            { "front": "She strummed harp", "back": "" },
+            { "front": "They plucked ukulele", "back": "" },
+            { "front": "We fingered clarinet", "back": "" },
+            { "front": "You danced tambourine", "back": "" },
+            { "front": "I pressed piano", "back": "" },
+            { "front": "He shook maracas", "back": "" },
+            { "front": "She blew horn", "back": "" },
+            { "front": "They struck cymbals", "back": "" },
+            { "front": "We beat drums", "back": "" },
+            { "front": "You strummed guitar", "back": "" },
+            { "front": "I bowed violin", "back": "" },
+            { "front": "He played cello", "back": "" },
+            { "front": "She plucked harp", "back": "" },
+            { "front": "They fingered clarinet", "back": "" },
+            { "front": "We blew trumpet", "back": "" },
+            { "front": "You played flute", "back": "" },
+            { "front": "He jammed saxophone", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I played guitar yesterday", "back": "" },
+            { "front": "He held violin carefully", "back": "" },
+            { "front": "She tuned piano today", "back": "" },
+            { "front": "They struck drums loudly", "back": "" },
+            { "front": "We blew saxophone beautifully", "back": "" },
+            { "front": "You sang trumpet passionately", "back": "" },
+            { "front": "I played flute gracefully", "back": "" },
+            { "front": "He bowed cello skillfully", "back": "" },
+            { "front": "She strummed harp softly", "back": "" },
+            { "front": "They plucked ukulele lightly", "back": "" },
+            { "front": "We fingered clarinet accurately", "back": "" },
+            { "front": "You danced tambourine energetically", "back": "" },
+            { "front": "I pressed piano keys", "back": "" },
+            { "front": "He shook maracas rhythmically", "back": "" },
+            { "front": "She blew horn powerfully", "back": "" },
+            { "front": "They struck cymbals sharply", "back": "" },
+            { "front": "We beat drums steadily", "back": "" },
+            { "front": "You strummed guitar smoothly", "back": "" },
+            { "front": "I bowed violin carefully", "back": "" },
+            { "front": "He played cello beautifully", "back": "" },
+            { "front": "She plucked harp delicately", "back": "" },
+            { "front": "They fingered clarinet precisely", "back": "" },
+            { "front": "We blew trumpet loudly", "back": "" },
+            { "front": "You played flute softly", "back": "" },
+            { "front": "He jammed saxophone energetically", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I played guitar yesterday evening", "back": "" },
+            { "front": "He held violin with care", "back": "" },
+            { "front": "She tuned piano last night", "back": "" },
+            { "front": "They struck drums during practice", "back": "" },
+            { "front": "We blew saxophone beautifully today", "back": "" },
+            { "front": "You sang trumpet with passion", "back": "" },
+            { "front": "I played flute gracefully today", "back": "" },
+            { "front": "He bowed cello skillfully now", "back": "" },
+            { "front": "She strummed harp softly now", "back": "" },
+            { "front": "They plucked ukulele lightly today", "back": "" },
+            { "front": "We fingered clarinet accurately now", "back": "" },
+            {
+              "front": "You danced tambourine energetically today",
+              "back": ""
+            },
+            { "front": "I pressed piano keys yesterday", "back": "" },
+            { "front": "He shook maracas rhythmically now", "back": "" },
+            { "front": "She blew horn powerfully today", "back": "" },
+            { "front": "They struck cymbals sharply now", "back": "" },
+            { "front": "We beat drums steadily today", "back": "" },
+            { "front": "You strummed guitar smoothly now", "back": "" },
+            { "front": "I bowed violin carefully today", "back": "" },
+            { "front": "He played cello beautifully now", "back": "" },
+            { "front": "She plucked harp delicately now", "back": "" },
+            { "front": "They fingered clarinet precisely now", "back": "" },
+            { "front": "We blew trumpet loudly today", "back": "" },
+            { "front": "You played flute softly now", "back": "" },
+            { "front": "He jammed saxophone energetically now", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I played guitar every single day", "back": "" },
+            { "front": "He held violin with great care", "back": "" },
+            { "front": "She tuned piano very carefully now", "back": "" },
+            {
+              "front": "They struck drums during intense practice",
+              "back": ""
+            },
+            {
+              "front": "We blew saxophone beautifully during concert",
+              "back": ""
+            },
+            { "front": "You sang trumpet with great passion", "back": "" },
+            { "front": "I played flute gracefully every morning", "back": "" },
+            {
+              "front": "He bowed cello skillfully during performance",
+              "back": ""
+            },
+            { "front": "She strummed harp softly every evening", "back": "" },
+            {
+              "front": "They plucked ukulele lightly during session",
+              "back": ""
+            },
+            {
+              "front": "We fingered clarinet accurately every rehearsal",
+              "back": ""
+            },
+            {
+              "front": "You danced tambourine energetically during show",
+              "back": ""
+            },
+            { "front": "I pressed piano keys yesterday evening", "back": "" },
+            {
+              "front": "He shook maracas rhythmically during performance",
+              "back": ""
+            },
+            { "front": "She blew horn powerfully during concert", "back": "" },
+            { "front": "They struck cymbals sharply during show", "back": "" },
+            { "front": "We beat drums steadily during rehearsal", "back": "" },
+            {
+              "front": "You strummed guitar smoothly during practice",
+              "back": ""
+            },
+            {
+              "front": "I bowed violin carefully during performance",
+              "back": ""
+            },
+            {
+              "front": "He played cello beautifully during concert",
+              "back": ""
+            },
+            {
+              "front": "She plucked harp delicately during session",
+              "back": ""
+            },
+            {
+              "front": "They fingered clarinet precisely during rehearsal",
+              "back": ""
+            },
+            { "front": "We blew trumpet loudly during show", "back": "" },
+            { "front": "You played flute softly during concert", "back": "" },
+            {
+              "front": "He jammed saxophone energetically during session",
+              "back": ""
+            },
+            { "front": "She enjoyed playing harp gracefully daily", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will play guitar", "back": "" },
+            { "front": "Will hold violin", "back": "" },
+            { "front": "Will tune piano", "back": "" },
+            { "front": "Will strike drums", "back": "" },
+            { "front": "Will blow saxophone", "back": "" },
+            { "front": "Will sing trumpet", "back": "" },
+            { "front": "Will play flute", "back": "" },
+            { "front": "Will bow cello", "back": "" },
+            { "front": "Will strum harp", "back": "" },
+            { "front": "Will pluck ukulele", "back": "" },
+            { "front": "Will finger clarinet", "back": "" },
+            { "front": "Will dance tambourine", "back": "" },
+            { "front": "Will press piano", "back": "" },
+            { "front": "Will shake maracas", "back": "" },
+            { "front": "Will blow horn", "back": "" },
+            { "front": "Will strike cymbals", "back": "" },
+            { "front": "Will beat drums", "back": "" },
+            { "front": "Will jam saxophone", "back": "" },
+            { "front": "Will play horn", "back": "" },
+            { "front": "Will bow violin", "back": "" },
+            { "front": "Will pluck harp", "back": "" },
+            { "front": "Will finger clarinet", "back": "" },
+            { "front": "Will blow trumpet", "back": "" },
+            { "front": "Will play flute", "back": "" },
+            { "front": "Will jam saxophone", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I will play guitar", "back": "" },
+            { "front": "He will hold violin", "back": "" },
+            { "front": "She will tune piano", "back": "" },
+            { "front": "They will strike drums", "back": "" },
+            { "front": "We will blow saxophone", "back": "" },
+            { "front": "You will sing trumpet", "back": "" },
+            { "front": "I will play flute", "back": "" },
+            { "front": "He will bow cello", "back": "" },
+            { "front": "She will strum harp", "back": "" },
+            { "front": "They will pluck ukulele", "back": "" },
+            { "front": "We will finger clarinet", "back": "" },
+            { "front": "You will dance tambourine", "back": "" },
+            { "front": "I will press piano", "back": "" },
+            { "front": "He will shake maracas", "back": "" },
+            { "front": "She will blow horn", "back": "" },
+            { "front": "They will strike cymbals", "back": "" },
+            { "front": "We will beat drums", "back": "" },
+            { "front": "You will jam saxophone", "back": "" },
+            { "front": "I will play horn", "back": "" },
+            { "front": "He will bow violin", "back": "" },
+            { "front": "She will pluck harp", "back": "" },
+            { "front": "They will finger clarinet", "back": "" },
+            { "front": "We will blow trumpet", "back": "" },
+            { "front": "You will play flute", "back": "" },
+            { "front": "He will jam saxophone", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I will play guitar today", "back": "" },
+            { "front": "He will hold violin carefully", "back": "" },
+            { "front": "She will tune piano now", "back": "" },
+            { "front": "They will strike drums loudly", "back": "" },
+            { "front": "We will blow saxophone beautifully", "back": "" },
+            { "front": "You will sing trumpet passionately", "back": "" },
+            { "front": "I will play flute gracefully", "back": "" },
+            { "front": "He will bow cello skillfully", "back": "" },
+            { "front": "She will strum harp softly", "back": "" },
+            { "front": "They will pluck ukulele lightly", "back": "" },
+            { "front": "We will finger clarinet accurately", "back": "" },
+            { "front": "You will dance tambourine energetically", "back": "" },
+            { "front": "I will press piano keys", "back": "" },
+            { "front": "He will shake maracas rhythmically", "back": "" },
+            { "front": "She will blow horn powerfully", "back": "" },
+            { "front": "They will strike cymbals sharply", "back": "" },
+            { "front": "We will beat drums steadily", "back": "" },
+            { "front": "You will strum guitar smoothly", "back": "" },
+            { "front": "I will bow violin carefully", "back": "" },
+            { "front": "He will play cello beautifully", "back": "" },
+            { "front": "She will pluck harp delicately", "back": "" },
+            { "front": "They will finger clarinet precisely", "back": "" },
+            { "front": "We will blow trumpet loudly", "back": "" },
+            { "front": "You will play flute softly", "back": "" },
+            { "front": "He will jam saxophone energetically", "back": "" },
+            { "front": "She will play harp gracefully", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I will play guitar tomorrow evening", "back": "" },
+            { "front": "He will hold violin during concert", "back": "" },
+            { "front": "She will tune piano this morning", "back": "" },
+            { "front": "They will strike drums at show", "back": "" },
+            {
+              "front": "We will blow saxophone beautifully tonight",
+              "back": ""
+            },
+            { "front": "You will sing trumpet at event", "back": "" },
+            { "front": "I will play flute gracefully today", "back": "" },
+            { "front": "He will bow cello skillfully tonight", "back": "" },
+            { "front": "She will strum harp softly tonight", "back": "" },
+            { "front": "They will pluck ukulele lightly today", "back": "" },
+            {
+              "front": "We will finger clarinet accurately tomorrow",
+              "back": ""
+            },
+            {
+              "front": "You will dance tambourine energetically today",
+              "back": ""
+            },
+            { "front": "I will press piano keys today", "back": "" },
+            { "front": "He will shake maracas rhythmically now", "back": "" },
+            { "front": "She will blow horn powerfully today", "back": "" },
+            { "front": "They will strike cymbals sharply now", "back": "" },
+            { "front": "We will beat drums steadily today", "back": "" },
+            { "front": "You will strum guitar smoothly now", "back": "" },
+            { "front": "I will bow violin carefully tonight", "back": "" },
+            { "front": "He will play cello beautifully tonight", "back": "" },
+            { "front": "She will pluck harp delicately now", "back": "" },
+            { "front": "They will finger clarinet precisely now", "back": "" },
+            { "front": "We will blow trumpet loudly today", "back": "" },
+            { "front": "You will play flute softly tonight", "back": "" },
+            {
+              "front": "He will jam saxophone energetically tonight",
+              "back": ""
+            },
+            { "front": "She will play harp gracefully tonight", "back": "" }
+          ]
+        }
+      ]
+    }
+  ]
+}

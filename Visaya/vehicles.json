@@ -1,0 +1,1560 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Vehicles",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Car",
+              "back": "sakyanan"
+            },
+            {
+              "front": "Truck",
+              "back": "trak"
+            },
+            {
+              "front": "Bus",
+              "back": "bus"
+            },
+            {
+              "front": "Bicycle",
+              "back": "bisikleta"
+            },
+            {
+              "front": "Motorcycle",
+              "back": "motorsiklo"
+            },
+            {
+              "front": "Scooter",
+              "back": "scooter"
+            },
+            {
+              "front": "Van",
+              "back": "pinaagi sa"
+            },
+            {
+              "front": "Train",
+              "back": "tren"
+            },
+            {
+              "front": "Airplane",
+              "back": "eroplano"
+            },
+            {
+              "front": "Boat",
+              "back": "sakayan"
+            },
+            {
+              "front": "Helicopter",
+              "back": "helicopter"
+            },
+            {
+              "front": "Submarine",
+              "back": "submarino"
+            },
+            {
+              "front": "Tram",
+              "back": "tram"
+            },
+            {
+              "front": "Rickshaw",
+              "back": "rickshaw"
+            },
+            {
+              "front": "Limo",
+              "back": "limo"
+            },
+            {
+              "front": "Yacht",
+              "back": "yate"
+            },
+            {
+              "front": "Trolley",
+              "back": "trolley"
+            },
+            {
+              "front": "Firetruck",
+              "back": "firetruck"
+            },
+            {
+              "front": "Taxi",
+              "back": "taxi"
+            },
+            {
+              "front": "Forklift",
+              "back": "forklift"
+            },
+            {
+              "front": "Snowplow",
+              "back": "daro sa niyebe"
+            },
+            {
+              "front": "Golf cart",
+              "back": "golf cart"
+            },
+            {
+              "front": "Tank",
+              "back": "tangke"
+            },
+            {
+              "front": "Monster truck",
+              "back": "monster nga trak"
+            },
+            {
+              "front": "Sailboat",
+              "back": "sakayan"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Fast car",
+              "back": "paspas nga sakyanan"
+            },
+            {
+              "front": "Large truck",
+              "back": "dako nga trak"
+            },
+            {
+              "front": "City bus",
+              "back": "bus sa siyudad"
+            },
+            {
+              "front": "Mountain bicycle",
+              "back": "bisikleta sa bukid"
+            },
+            {
+              "front": "Sport motorcycle",
+              "back": "sport nga motorsiklo"
+            },
+            {
+              "front": "Electric scooter",
+              "back": "electric scooter"
+            },
+            {
+              "front": "Family van",
+              "back": "pamilya sa"
+            },
+            {
+              "front": "Freight train",
+              "back": "kargamento nga tren"
+            },
+            {
+              "front": "Private airplane",
+              "back": "pribadong eroplano"
+            },
+            {
+              "front": "Fishing boat",
+              "back": "sakayan sa pangisda"
+            },
+            {
+              "front": "Rescue helicopter",
+              "back": "rescue helicopter"
+            },
+            {
+              "front": "Nuclear submarine",
+              "back": "nukleyar nga submarino"
+            },
+            {
+              "front": "City tram",
+              "back": "tram sa siyudad"
+            },
+            {
+              "front": "Pedicab rickshaw",
+              "back": "pedicab rickshaw"
+            },
+            {
+              "front": "Luxury limo",
+              "back": "luho nga limo"
+            },
+            {
+              "front": "Sailing yacht",
+              "back": "naglawig nga yate"
+            },
+            {
+              "front": "Tour trolley",
+              "back": "tour trolley"
+            },
+            {
+              "front": "Fire rescue truck",
+              "back": "trak sa pagluwas sa sunog"
+            },
+            {
+              "front": "Yellow taxi",
+              "back": "yellow nga taxi"
+            },
+            {
+              "front": "Heavy forklift",
+              "back": "bug-at nga forklift"
+            },
+            {
+              "front": "Snow removal plow",
+              "back": "daro sa pagtangtang sa niyebe"
+            },
+            {
+              "front": "Small golf cart",
+              "back": "gamay nga golf cart"
+            },
+            {
+              "front": "Military tank",
+              "back": "tangke sa militar"
+            },
+            {
+              "front": "Monster truck",
+              "back": "monster nga trak"
+            },
+            {
+              "front": "Sailboat yacht",
+              "back": "sailboat nga yate"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Large freight train",
+              "back": "dako nga kargamento nga tren"
+            },
+            {
+              "front": "A military tank",
+              "back": "usa ka tangke sa militar"
+            },
+            {
+              "front": "Small fishing boat",
+              "back": "gamay nga sakayan sa pangisda"
+            },
+            {
+              "front": "Fast sports car",
+              "back": "paspas nga sports car"
+            },
+            {
+              "front": "New electric scooter",
+              "back": "bag-ong electric scooter"
+            },
+            {
+              "front": "Old family van",
+              "back": "daan nga family van"
+            },
+            {
+              "front": "High-speed airplane",
+              "back": "high-speed nga eroplano"
+            },
+            {
+              "front": "Comfortable city bus",
+              "back": "komportable nga bus sa siyudad"
+            },
+            {
+              "front": "Heavy-duty truck",
+              "back": "heavy-duty nga trak"
+            },
+            {
+              "front": "Bright red firetruck",
+              "back": "hayag nga pula nga firetruck"
+            },
+            {
+              "front": "Luxury limousine service",
+              "back": "maluho nga limousine nga serbisyo"
+            },
+            {
+              "front": "Tourist sightseeing trolley",
+              "back": "trolley alang sa mga turista"
+            },
+            {
+              "front": "Sleek motorcycle model",
+              "back": "nindot nga modelo sa motorsiklo"
+            },
+            {
+              "front": "Wide-body jet",
+              "back": "lapad nga lawas nga jet"
+            },
+            {
+              "front": "Vibrant yellow taxi",
+              "back": "lagsik nga yellow nga taxi"
+            },
+            {
+              "front": "Classic convertible car",
+              "back": "classic convertible nga sakyanan"
+            },
+            {
+              "front": "Small compact car",
+              "back": "gamay nga compact nga sakyanan"
+            },
+            {
+              "front": "Fishing charter boat",
+              "back": "pangisda charter sakayan"
+            },
+            {
+              "front": "Quiet hybrid vehicle",
+              "back": "hilom nga hybrid nga sakyanan"
+            },
+            {
+              "front": "Luxury sports car",
+              "back": "luho nga sports car"
+            },
+            {
+              "front": "Bumpy off-road vehicle",
+              "back": "lubog nga off-road nga sakyanan"
+            },
+            {
+              "front": "Bright blue motorcycle",
+              "back": "mahayag nga asul nga motorsiklo"
+            },
+            {
+              "front": "Long cargo ship",
+              "back": "taas nga barko sa kargamento"
+            },
+            {
+              "front": "Fast electric bicycle",
+              "back": "paspas nga electric bicycle"
+            },
+            {
+              "front": "Modern city tram",
+              "back": "modernong tram sa siyudad"
+            },
+            {
+              "front": "Sleek racing yacht",
+              "back": "nindot nga racing yate"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I drive a truck",
+              "back": "nagmaneho ko og trak"
+            },
+            {
+              "front": "She rides a bicycle",
+              "back": "nagbisikleta siya"
+            },
+            {
+              "front": "They take the bus",
+              "back": "sakay sila sa bus"
+            },
+            {
+              "front": "He owns a car",
+              "back": "naa siyay sakyanan"
+            },
+            {
+              "front": "We fly an airplane",
+              "back": "naglupad mi ug ayroplano"
+            },
+            {
+              "front": "The family enjoys their van",
+              "back": "nalingaw ang pamilya sa ilang van"
+            },
+            {
+              "front": "He rides a scooter",
+              "back": "nag scooter siya"
+            },
+            {
+              "front": "I spot a train",
+              "back": "nakakita kog tren"
+            },
+            {
+              "front": "They sail a boat",
+              "back": "milawig sila ug sakayan"
+            },
+            {
+              "front": "She drives a taxi",
+              "back": "nag drive siya ug taxi"
+            },
+            {
+              "front": "We watch a firetruck",
+              "back": "nagtan-aw mi ug firetruck"
+            },
+            {
+              "front": "He uses a forklift",
+              "back": "naggamit siya ug forklift"
+            },
+            {
+              "front": "I ride a motorcycle",
+              "back": "nagmotorsiklo ko"
+            },
+            {
+              "front": "They catch a ferry",
+              "back": "nagsakay sila ug ferry"
+            },
+            {
+              "front": "She parks a limo",
+              "back": "nag park siya ug limo"
+            },
+            {
+              "front": "He drives a cart",
+              "back": "nagmaneho siya ug karomata"
+            },
+            {
+              "front": "We see a tram",
+              "back": "nakakita mi ug tram"
+            },
+            {
+              "front": "I love my SUV",
+              "back": "ganahan ko sa akong suv"
+            },
+            {
+              "front": "They drive a minivan",
+              "back": "nagdrayb sila ug minivan"
+            },
+            {
+              "front": "She operates a bus",
+              "back": "nag operate siya ug bus"
+            },
+            {
+              "front": "He repairs a motorcycle",
+              "back": "nag-ayo siya og motorsiklo"
+            },
+            {
+              "front": "We ride in style",
+              "back": "nagsakay mi sa estilo"
+            },
+            {
+              "front": "I drive a sedan",
+              "back": "nag drive ko ug sedan"
+            },
+            {
+              "front": "They enjoy a ride",
+              "back": "nalingaw silag sakay"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I drive a large truck",
+              "back": "nagdrayb ko ug dakong trak"
+            },
+            {
+              "front": "She rides a fast bicycle",
+              "back": "nagsakay siyag paspas nga bisikleta"
+            },
+            {
+              "front": "They take the city bus",
+              "back": "sakay sila sa city bus"
+            },
+            {
+              "front": "He owns a classic car",
+              "back": "siya adunay usa ka klasiko nga awto"
+            },
+            {
+              "front": "We fly in a private jet",
+              "back": "sakay mi sa private jet"
+            },
+            {
+              "front": "The family enjoys their minivan",
+              "back": "ang pamilya nalingaw sa ilang minivan"
+            },
+            {
+              "front": "She drives a bright scooter",
+              "back": "nagdrayb siya ug hayag nga scooter"
+            },
+            {
+              "front": "He operates a heavy forklift",
+              "back": "nag-operate siya ug bug-at nga forklift"
+            },
+            {
+              "front": "They sail on a yacht",
+              "back": "milawig sila sa usa ka yate"
+            },
+            {
+              "front": "I ride a motorcycle daily",
+              "back": "magsakay ko ug motor kada adlaw"
+            },
+            {
+              "front": "We board the fishing boat",
+              "back": "sakay mi sa fishing boat"
+            },
+            {
+              "front": "She drives a red convertible",
+              "back": "nagdrayb siya ug red convertible"
+            },
+            {
+              "front": "He uses a delivery van",
+              "back": "naggamit siya ug delivery van"
+            },
+            {
+              "front": "I spot a military tank",
+              "back": "Nakakita kog tangke sa militar"
+            },
+            {
+              "front": "They drive an electric car",
+              "back": "nagmaneho sila ug electric car"
+            },
+            {
+              "front": "We watch the freight train",
+              "back": "nagtan-aw kami sa kargamento nga tren"
+            },
+            {
+              "front": "She rides a city tram",
+              "back": "nagsakay siya sa tram sa siyudad"
+            },
+            {
+              "front": "He repairs the old bicycle",
+              "back": "iyang giayo ang daan nga bisikleta"
+            },
+            {
+              "front": "I parked the yellow taxi",
+              "back": "Giparking nako ang yellow nga taxi"
+            },
+            {
+              "front": "They enjoyed a boat ride",
+              "back": "nalingaw sila sa pagsakay sa barko"
+            },
+            {
+              "front": "We see the firetruck responding",
+              "back": "atong nakita ang firetruck nga niresponde"
+            },
+            {
+              "front": "He drives a compact car",
+              "back": "nagdrayb siya ug compact car"
+            },
+            {
+              "front": "She watches the airplane land",
+              "back": "nagtan-aw siya sa eroplano nga mitugpa"
+            },
+            {
+              "front": "I admire the sleek motorcycle",
+              "back": "nakadayeg ko sa sleek nga motorsiklo"
+            },
+            {
+              "front": "They enjoy the comfortable limo",
+              "back": "nalingaw sila sa komportable nga limo"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I drive my red sports car",
+              "back": "Nagmaneho ko sa akong pula nga sports car"
+            },
+            {
+              "front": "He rides a new bicycle now",
+              "back": "nagsakay siya ug bag-ong bisikleta karon"
+            },
+            {
+              "front": "They take the bus to school",
+              "back": "sakay sila sa bus padulong sa eskwelahan"
+            },
+            {
+              "front": "She loves her classic convertible car",
+              "back": "ganahan siya sa iyang classic convertible car"
+            },
+            {
+              "front": "We fly on a private airplane",
+              "back": "molupad mi sa pribadong eroplano"
+            },
+            {
+              "front": "The family enjoys their large van",
+              "back": "nalingaw ang pamilya sa ilang dakong van"
+            },
+            {
+              "front": "He rides his fast motorcycle daily",
+              "back": "nagsakay siya sa iyang paspas nga motorsiklo kada adlaw"
+            },
+            {
+              "front": "I see the big freight train",
+              "back": "Nakita nako ang dako nga tren sa kargamento"
+            },
+            {
+              "front": "They sail on a fishing boat",
+              "back": "milawig sila sa sakayan nga pangisda"
+            },
+            {
+              "front": "She drives a bright yellow taxi",
+              "back": "nagdrayb siya ug hayag nga yellow nga taxi"
+            },
+            {
+              "front": "We watch the firetruck go by",
+              "back": "nagtan-aw mi sa firetruck nga milabay"
+            },
+            {
+              "front": "He owns a heavy-duty truck",
+              "back": "tag-iya siya og heavy-duty nga trak"
+            },
+            {
+              "front": "She rides her electric scooter everywhere",
+              "back": "nagsakay siya sa iyang electric scooter bisan asa"
+            },
+            {
+              "front": "I park my old minivan here",
+              "back": "Giparking nako ang akong daan nga minivan dinhi"
+            },
+            {
+              "front": "They repair the delivery van today",
+              "back": "giayo nila ang delivery van karon"
+            },
+            {
+              "front": "He admires the racing yacht's design",
+              "back": "nakadayeg siya sa disenyo sa racing yacht"
+            },
+            {
+              "front": "We see a bright red firetruck",
+              "back": "nakita namo ang usa ka mahayag nga pula nga firetruck"
+            },
+            {
+              "front": "She loves her new electric car",
+              "back": "ganahan siya sa iyang bag-ong electric car"
+            },
+            {
+              "front": "I spot a military tank nearby",
+              "back": "Nakita nako ang usa ka tangke sa militar sa duol"
+            },
+            {
+              "front": "They enjoy a ride on the tram",
+              "back": "nalingaw sila sa pagsakay sa tram"
+            },
+            {
+              "front": "He rides his scooter in style",
+              "back": "nagsakay siya sa iyang scooter sa istilo"
+            },
+            {
+              "front": "We watch the airplane take off",
+              "back": "atong tan-awon ang eroplano nga molupad"
+            },
+            {
+              "front": "She operates a busy taxi service",
+              "back": "nag-operate siya ug busy nga serbisyo sa taxi"
+            },
+            {
+              "front": "I drive my family to work",
+              "back": "gimaneho nako akong pamilya sa trabaho"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Drove truck",
+              "back": "nagmaneho sa trak"
+            },
+            {
+              "front": "Rode bicycle",
+              "back": "nagbisikleta"
+            },
+            {
+              "front": "Took bus",
+              "back": "nag bus"
+            },
+            {
+              "front": "Owned car",
+              "back": "gipanag-iya nga sakyanan"
+            },
+            {
+              "front": "Flew airplane",
+              "back": "milupad sa eroplano"
+            },
+            {
+              "front": "Enjoyed van",
+              "back": "nalingaw sa van"
+            },
+            {
+              "front": "Rode scooter",
+              "back": "nisakay ug scooter"
+            },
+            {
+              "front": "Spotted train",
+              "back": "nakita nga tren"
+            },
+            {
+              "front": "Sailed boat",
+              "back": "naglayag nga sakayan"
+            },
+            {
+              "front": "Drove taxi",
+              "back": "nagmaneho og taxi"
+            },
+            {
+              "front": "Saw firetruck",
+              "back": "Nakita ang fire truck"
+            },
+            {
+              "front": "Used forklift",
+              "back": "gigamit nga forklift"
+            },
+            {
+              "front": "Rode motorcycle",
+              "back": "nagmotorsiklo"
+            },
+            {
+              "front": "Caught ferry",
+              "back": "nasakpan nga ferry"
+            },
+            {
+              "front": "Parked limo",
+              "back": "giparking nga limo"
+            },
+            {
+              "front": "Drove cart",
+              "back": "nagmaneho sa karomata"
+            },
+            {
+              "front": "Saw tram",
+              "back": "nakakita og tram"
+            },
+            {
+              "front": "Loved SUV",
+              "back": "nahigugma sa suv"
+            },
+            {
+              "front": "Drove minivan",
+              "back": "nagmaneho sa minivan"
+            },
+            {
+              "front": "Operated bus",
+              "back": "gipaandar nga bus"
+            },
+            {
+              "front": "Repaired motorcycle",
+              "back": "giayo nga motorsiklo"
+            },
+            {
+              "front": "Rode in style",
+              "back": "nagsakay sa estilo"
+            },
+            {
+              "front": "Drove sedan",
+              "back": "unya nagdrayb"
+            },
+            {
+              "front": "Enjoyed ride",
+              "back": "nalingaw sa pagsakay"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "The truck drove fast",
+              "back": "kusog ang dagan sa trak"
+            },
+            {
+              "front": "She rode bicycle yesterday",
+              "back": "nagbisikleta siya kagahapon"
+            },
+            {
+              "front": "The bus left early",
+              "back": "sayo nga mibiya ang bus"
+            },
+            {
+              "front": "He owned a car",
+              "back": "naa siyay sakyanan"
+            },
+            {
+              "front": "They flew airplane yesterday",
+              "back": "naglupad sila og ayroplano gahapon"
+            },
+            {
+              "front": "We enjoyed the van",
+              "back": "nalingaw mi sa van"
+            },
+            {
+              "front": "He rode scooter quickly",
+              "back": "nisakay syag scooter kadali"
+            },
+            {
+              "front": "They spotted the train",
+              "back": "nakita nila ang tren"
+            },
+            {
+              "front": "The boat sailed",
+              "back": "milawig ang sakayan"
+            },
+            {
+              "front": "She drove taxi",
+              "back": "nagdrayb siya ug taxi"
+            },
+            {
+              "front": "I saw firetruck",
+              "back": "Nakakita kog fire truck"
+            },
+            {
+              "front": "He used forklift",
+              "back": "migamit siyag forklift"
+            },
+            {
+              "front": "They rode motorcycle",
+              "back": "nagmotorsiklo sila"
+            },
+            {
+              "front": "We caught ferry",
+              "back": "nagsakay mi ug ferry"
+            },
+            {
+              "front": "She parked limo",
+              "back": "nagparking siya ug limo"
+            },
+            {
+              "front": "He drove cart",
+              "back": "nagmaneho siyag karomata"
+            },
+            {
+              "front": "We saw tram",
+              "back": "nakakita mig tram"
+            },
+            {
+              "front": "I loved SUV",
+              "back": "ganahan kog suv"
+            },
+            {
+              "front": "They drove minivan",
+              "back": "nagmaneho sila ug minivan"
+            },
+            {
+              "front": "He operated bus",
+              "back": "nag-operate siyag bus"
+            },
+            {
+              "front": "She repaired motorcycle",
+              "back": "giayo niya ang motorsiklo"
+            },
+            {
+              "front": "I rode taxi",
+              "back": "nisakay kog taxi"
+            },
+            {
+              "front": "They drove sedan",
+              "back": "nagmaneho sila ug sedan"
+            },
+            {
+              "front": "We enjoyed ride",
+              "back": "nalingaw mig ride"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "The truck drove fast",
+              "back": "kusog ang dagan sa trak"
+            },
+            {
+              "front": "She rode bicycle yesterday",
+              "back": "nagbisikleta siya kagahapon"
+            },
+            {
+              "front": "The bus left early",
+              "back": "sayo nga mibiya ang bus"
+            },
+            {
+              "front": "He owned a car",
+              "back": "naa siyay sakyanan"
+            },
+            {
+              "front": "They flew airplane yesterday",
+              "back": "naglupad sila og ayroplano gahapon"
+            },
+            {
+              "front": "We enjoyed the van",
+              "back": "nalingaw mi sa van"
+            },
+            {
+              "front": "He rode scooter quickly",
+              "back": "nisakay syag scooter kadali"
+            },
+            {
+              "front": "They spotted the train",
+              "back": "nakita nila ang tren"
+            },
+            {
+              "front": "The boat sailed",
+              "back": "milawig ang sakayan"
+            },
+            {
+              "front": "She drove taxi",
+              "back": "nagdrayb siya ug taxi"
+            },
+            {
+              "front": "I saw firetruck",
+              "back": "Nakakita kog fire truck"
+            },
+            {
+              "front": "He used forklift",
+              "back": "migamit siyag forklift"
+            },
+            {
+              "front": "They rode motorcycle",
+              "back": "nagmotorsiklo sila"
+            },
+            {
+              "front": "We caught ferry",
+              "back": "nagsakay mi ug ferry"
+            },
+            {
+              "front": "She parked limo",
+              "back": "nagparking siya ug limo"
+            },
+            {
+              "front": "He drove cart",
+              "back": "nagmaneho siyag karomata"
+            },
+            {
+              "front": "We saw tram",
+              "back": "nakakita mig tram"
+            },
+            {
+              "front": "I loved SUV",
+              "back": "ganahan kog suv"
+            },
+            {
+              "front": "They drove minivan",
+              "back": "nagmaneho sila ug minivan"
+            },
+            {
+              "front": "He operated bus",
+              "back": "nag-operate siyag bus"
+            },
+            {
+              "front": "She repaired motorcycle",
+              "back": "giayo niya ang motorsiklo"
+            },
+            {
+              "front": "I rode taxi",
+              "back": "nisakay kog taxi"
+            },
+            {
+              "front": "They drove sedan",
+              "back": "nagmaneho sila ug sedan"
+            },
+            {
+              "front": "We enjoyed ride",
+              "back": "nalingaw mig ride"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I drove the truck",
+              "back": "akong gimaneho ang trak"
+            },
+            {
+              "front": "He rode the bicycle",
+              "back": "nagbisikleta siya"
+            },
+            {
+              "front": "They took the bus",
+              "back": "misakay sila ug bus"
+            },
+            {
+              "front": "She owned a car",
+              "back": "naa siyay sakyanan"
+            },
+            {
+              "front": "We flew an airplane",
+              "back": "naglupad mi ug ayroplano"
+            },
+            {
+              "front": "He enjoyed the van",
+              "back": "nalingaw siya sa van"
+            },
+            {
+              "front": "I rode my scooter",
+              "back": "nisakay ko sa akong scooter"
+            },
+            {
+              "front": "They spotted the train",
+              "back": "nakita nila ang tren"
+            },
+            {
+              "front": "We sailed the boat",
+              "back": "milawig kami sa sakayan"
+            },
+            {
+              "front": "She drove the taxi",
+              "back": "siya ang nagmaneho sa taxi"
+            },
+            {
+              "front": "I saw the firetruck",
+              "back": "Nakita nako ang firetruck"
+            },
+            {
+              "front": "He used the forklift",
+              "back": "gigamit niya ang forklift"
+            },
+            {
+              "front": "They rode the motorcycle",
+              "back": "sakay sila sa motorsiklo"
+            },
+            {
+              "front": "We caught the ferry",
+              "back": "nasakpan namo ang lantsa"
+            },
+            {
+              "front": "She parked the limo",
+              "back": "giparking niya ang limo"
+            },
+            {
+              "front": "He drove the cart",
+              "back": "iyang gipadagan ang karomata"
+            },
+            {
+              "front": "I saw the tram",
+              "back": "Nakita nako ang tram"
+            },
+            {
+              "front": "They loved their SUV",
+              "back": "ganahan sila sa ilang suv"
+            },
+            {
+              "front": "We drove the minivan",
+              "back": "among gisakyan ang minivan"
+            },
+            {
+              "front": "He operated the bus",
+              "back": "gipaandar niya ang bus"
+            },
+            {
+              "front": "She repaired the motorcycle",
+              "back": "giayo niya ang motorsiklo"
+            },
+            {
+              "front": "I rode in style",
+              "back": "nagsakay ko sa istilo"
+            },
+            {
+              "front": "They drove the sedan",
+              "back": "ilang gipadagan ang sedan"
+            },
+            {
+              "front": "We enjoyed the ride",
+              "back": "nalingaw mi sa ride"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I drove my big truck",
+              "back": "Gimaneho nako ang akong dako nga trak"
+            },
+            {
+              "front": "She rode her bicycle yesterday",
+              "back": "nagbisikleta siya kagahapon"
+            },
+            {
+              "front": "They took the city bus",
+              "back": "sakay sila sa city bus"
+            },
+            {
+              "front": "He owned a classic car",
+              "back": "naa siyay classic nga sakyanan"
+            },
+            {
+              "front": "We flew on an airplane",
+              "back": "milupad mi sa ayroplano"
+            },
+            {
+              "front": "The family enjoyed their minivan",
+              "back": "nalingaw ang pamilya sa ilang minivan"
+            },
+            {
+              "front": "He rode a fast scooter",
+              "back": "nisakay siyag fast scooter"
+            },
+            {
+              "front": "I spotted a long train",
+              "back": "Nakakita kog taas nga tren"
+            },
+            {
+              "front": "They sailed a fishing boat",
+              "back": "milawig sila ug sakayan nga pangisda"
+            },
+            {
+              "front": "She drove a bright taxi",
+              "back": "nagdrayb siya ug hayag nga taxi"
+            },
+            {
+              "front": "We saw a red firetruck",
+              "back": "nakakita mi ug pula nga firetruck"
+            },
+            {
+              "front": "He used a heavy forklift",
+              "back": "migamit siya ug bug-at nga forklift"
+            },
+            {
+              "front": "I rode a cool motorcycle",
+              "back": "nagsakay ko ug cool nga motorsiklo"
+            },
+            {
+              "front": "They caught the morning ferry",
+              "back": "nasakpan nila ang lantsa sa buntag"
+            },
+            {
+              "front": "She parked the yellow limo",
+              "back": "iyang giparking ang yellow nga limo"
+            },
+            {
+              "front": "He drove the delivery cart",
+              "back": "siya ang nagmaneho sa delivery cart"
+            },
+            {
+              "front": "We saw a busy tram",
+              "back": "nakakita mi ug tram nga busy"
+            },
+            {
+              "front": "I loved my new SUV",
+              "back": "ganahan ko sa akong bag-ong suv"
+            },
+            {
+              "front": "They drove a large minivan",
+              "back": "nagdrayb sila ug dakong minivan"
+            },
+            {
+              "front": "She operated the school bus",
+              "back": "gipaandar niya ang school bus"
+            },
+            {
+              "front": "I repaired the old motorcycle",
+              "back": "giayo nako ang daan nga motorsiklo"
+            },
+            {
+              "front": "We rode in a taxi",
+              "back": "misakay mi ug taxi"
+            },
+            {
+              "front": "He drove a small sedan",
+              "back": "nagmaneho siya ug gamay nga sedan"
+            },
+            {
+              "front": "They enjoyed the long ride",
+              "back": "nalingaw sila sa taas nga biyahe"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will drive truck",
+              "back": "magmaneho sa trak"
+            },
+            {
+              "front": "Will ride bicycle",
+              "back": "magbisikleta"
+            },
+            {
+              "front": "Will take bus",
+              "back": "mosakay ug bus"
+            },
+            {
+              "front": "Will own car",
+              "back": "makaangkon og sakyanan"
+            },
+            {
+              "front": "Will fly airplane",
+              "back": "molupad sa ayroplano"
+            },
+            {
+              "front": "Will enjoy van",
+              "back": "malingaw sa van"
+            },
+            {
+              "front": "Will ride scooter",
+              "back": "musakay ug scooter"
+            },
+            {
+              "front": "Will spot train",
+              "back": "makakita ug tren"
+            },
+            {
+              "front": "Will sail boat",
+              "back": "molayag sa sakayan"
+            },
+            {
+              "front": "Will drive taxi",
+              "back": "magmaneho og taxi"
+            },
+            {
+              "front": "Will see firetruck",
+              "back": "makakitag firetruck"
+            },
+            {
+              "front": "Will use forklift",
+              "back": "mogamit ug forklift"
+            },
+            {
+              "front": "Will ride motorcycle",
+              "back": "magmotorsiklo"
+            },
+            {
+              "front": "Will catch ferry",
+              "back": "mosakay ug ferry"
+            },
+            {
+              "front": "Will park limo",
+              "back": "magparking ug limo"
+            },
+            {
+              "front": "Will drive cart",
+              "back": "magmaneho og karomata"
+            },
+            {
+              "front": "Will see tram",
+              "back": "makakita og tram"
+            },
+            {
+              "front": "Will love SUV",
+              "back": "mahigugma sa suv"
+            },
+            {
+              "front": "Will drive minivan",
+              "back": "magmaneho ug minivan"
+            },
+            {
+              "front": "Will operate bus",
+              "back": "mag-operate ug bus"
+            },
+            {
+              "front": "Will repair motorcycle",
+              "back": "mag-ayo sa motorsiklo"
+            },
+            {
+              "front": "Will ride taxi",
+              "back": "musakay ug taxi"
+            },
+            {
+              "front": "Will drive sedan",
+              "back": "magmaneho og sedan"
+            },
+            {
+              "front": "Will enjoy ride",
+              "back": "malingaw sa pagsakay"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Will drive the truck",
+              "back": "magmaneho sa trak"
+            },
+            {
+              "front": "Will ride the bicycle",
+              "back": "mosakay sa bisikleta"
+            },
+            {
+              "front": "Will take the bus",
+              "back": "mosakay sa bus"
+            },
+            {
+              "front": "Will own a car",
+              "back": "manag-iya ug sakyanan"
+            },
+            {
+              "front": "Will fly an airplane",
+              "back": "molupad ug ayroplano"
+            },
+            {
+              "front": "Will enjoy the van",
+              "back": "malingaw sa van"
+            },
+            {
+              "front": "Will ride the scooter",
+              "back": "mosakay sa scooter"
+            },
+            {
+              "front": "Will spot the train",
+              "back": "makakita sa tren"
+            },
+            {
+              "front": "Will sail the boat",
+              "back": "molayag sa sakayan"
+            },
+            {
+              "front": "Will drive the taxi",
+              "back": "magmaneho sa taxi"
+            },
+            {
+              "front": "Will see the firetruck",
+              "back": "makakita sa firetruck"
+            },
+            {
+              "front": "Will use the forklift",
+              "back": "gamiton ang forklift"
+            },
+            {
+              "front": "Will ride the motorcycle",
+              "back": "mosakay sa motorsiklo"
+            },
+            {
+              "front": "Will catch the ferry",
+              "back": "makasakay ug ferry"
+            },
+            {
+              "front": "Will park the limo",
+              "back": "iparada ang limo"
+            },
+            {
+              "front": "Will drive the cart",
+              "back": "magmaneho sa karomata"
+            },
+            {
+              "front": "Will see the tram",
+              "back": "makakita sa tram"
+            },
+            {
+              "front": "Will love the SUV",
+              "back": "higugmaon ang suv"
+            },
+            {
+              "front": "Will drive the minivan",
+              "back": "magmaneho sa minivan"
+            },
+            {
+              "front": "Will operate the bus",
+              "back": "mag-operate sa bus"
+            },
+            {
+              "front": "Will repair the motorcycle",
+              "back": "ayohon ang motorsiklo"
+            },
+            {
+              "front": "Will ride the taxi",
+              "back": "musakay ug taxi"
+            },
+            {
+              "front": "Will drive the sedan",
+              "back": "magmaneho sa sedan"
+            },
+            {
+              "front": "Will enjoy the ride",
+              "back": "malingaw sa ride"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will drive my truck",
+              "back": "ako ang magmaneho sa akong trak"
+            },
+            {
+              "front": "She will ride her bicycle",
+              "back": "magbisikleta siya"
+            },
+            {
+              "front": "They will take the bus",
+              "back": "sila mosakay sa bus"
+            },
+            {
+              "front": "He will own a car",
+              "back": "manag-iya siya ug sakyanan"
+            },
+            {
+              "front": "We will fly an airplane",
+              "back": "magpalupad mi ug ayroplano"
+            },
+            {
+              "front": "I will enjoy the van",
+              "back": "malingaw ko sa van"
+            },
+            {
+              "front": "He will ride a scooter",
+              "back": "musakay siyag scooter"
+            },
+            {
+              "front": "They will spot the train",
+              "back": "makita nila ang tren"
+            },
+            {
+              "front": "We will sail a boat",
+              "back": "maglawig kami ug sakayan"
+            },
+            {
+              "front": "She will drive the taxi",
+              "back": "siya ang magmaneho sa taxi"
+            },
+            {
+              "front": "I will see the firetruck",
+              "back": "makita nako ang firetruck"
+            },
+            {
+              "front": "He will use the forklift",
+              "back": "gamiton niya ang forklift"
+            },
+            {
+              "front": "They will ride the motorcycle",
+              "back": "sakay sila sa motorsiklo"
+            },
+            {
+              "front": "We will catch the ferry",
+              "back": "mosakay mi ug lantsa"
+            },
+            {
+              "front": "She will park the limo",
+              "back": "iparking niya ang limo"
+            },
+            {
+              "front": "He will drive the cart",
+              "back": "siya ang magmaneho sa karomata"
+            },
+            {
+              "front": "We will see the tram",
+              "back": "kita makakita sa tram"
+            },
+            {
+              "front": "I will love my SUV",
+              "back": "ganahan ko sa akong suv"
+            },
+            {
+              "front": "They will drive the minivan",
+              "back": "sila ang magmaneho sa minivan"
+            },
+            {
+              "front": "He will operate the bus",
+              "back": "siya ang mag operate sa bus"
+            },
+            {
+              "front": "She will repair the motorcycle",
+              "back": "iyang ayuhon ang motorsiklo"
+            },
+            {
+              "front": "I will ride the taxi",
+              "back": "mosakay kog taxi"
+            },
+            {
+              "front": "They will drive the sedan",
+              "back": "sila ang magmaneho sa sedan"
+            },
+            {
+              "front": "We will enjoy the ride",
+              "back": "malingaw mi sa ride"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will drive my red truck",
+              "back": "Ako ang magmaneho sa akong pula nga trak"
+            },
+            {
+              "front": "She will ride her bicycle daily",
+              "back": "magbisikleta siya kada adlaw"
+            },
+            {
+              "front": "They will take the city bus",
+              "back": "sakay sila sa city bus"
+            },
+            {
+              "front": "He will own a classic car",
+              "back": "manag-iya siya ug classic nga sakyanan"
+            },
+            {
+              "front": "We will fly on a private airplane",
+              "back": "molupad mi sa pribadong ayroplano"
+            },
+            {
+              "front": "The family will enjoy their van",
+              "back": "malingaw ang pamilya sa ilang van"
+            },
+            {
+              "front": "He will ride his scooter quickly",
+              "back": "musakay siyag scooter dayon"
+            },
+            {
+              "front": "I will spot the long train",
+              "back": "Makita nako ang taas nga tren"
+            },
+            {
+              "front": "They will sail the fishing boat",
+              "back": "sila molawig sa sakayan nga pangisda"
+            },
+            {
+              "front": "She will drive the bright taxi",
+              "back": "siya ang magmaneho sa hayag nga taxi"
+            },
+            {
+              "front": "We will see the red firetruck",
+              "back": "atong makita ang pula nga firetruck"
+            },
+            {
+              "front": "He will use the heavy forklift",
+              "back": "gamiton niya ang bug-at nga forklift"
+            },
+            {
+              "front": "I will ride a cool motorcycle",
+              "back": "magsakay ko ug cool nga motorsiklo"
+            },
+            {
+              "front": "They will catch the morning ferry",
+              "back": "mosakay sila sa lantsa sa buntag"
+            },
+            {
+              "front": "She will park the yellow limo",
+              "back": "iyang iparada ang yellow nga limo"
+            },
+            {
+              "front": "He will drive the delivery cart",
+              "back": "siya ang magmaneho sa delivery cart"
+            },
+            {
+              "front": "We will see a busy tram",
+              "back": "makakita mi ug busy nga tram"
+            },
+            {
+              "front": "I will love my new SUV",
+              "back": "ganahan ko sa akong bag-ong suv"
+            },
+            {
+              "front": "They will drive the large minivan",
+              "back": "sila ang magmaneho sa dako nga minivan"
+            },
+            {
+              "front": "He will operate the school bus",
+              "back": "siya ang mag operate sa school bus"
+            },
+            {
+              "front": "She will repair my motorcycle today",
+              "back": "ayohon niya akong motor karon"
+            },
+            {
+              "front": "I will ride in a taxi",
+              "back": "mosakay ko ug taxi"
+            },
+            {
+              "front": "They will drive a small sedan",
+              "back": "magmaneho sila ug gamay nga sedan"
+            },
+            {
+              "front": "We will enjoy the long ride",
+              "back": "malingaw mi sa taas nga biyahe"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

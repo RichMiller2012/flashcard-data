@@ -1,0 +1,632 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Education",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "School", "back": "" },
+            { "front": "Teacher", "back": "" },
+            { "front": "Classroom", "back": "" },
+            { "front": "Homework", "back": "" },
+            { "front": "Lecture", "back": "" },
+            { "front": "Student", "back": "" },
+            { "front": "Curriculum", "back": "" },
+            { "front": "Exam", "back": "" },
+            { "front": "Textbook", "back": "" },
+            { "front": "Library", "back": "" },
+            { "front": "Assignment", "back": "" },
+            { "front": "Grade", "back": "" },
+            { "front": "Diploma", "back": "" },
+            { "front": "University", "back": "" },
+            { "front": "College", "back": "" },
+            { "front": "Course", "back": "" },
+            { "front": "Subject", "back": "" },
+            { "front": "Notebook", "back": "" },
+            { "front": "Seminar", "back": "" },
+            { "front": "Study", "back": "" },
+            { "front": "Graduation", "back": "" },
+            { "front": "Principal", "back": "" },
+            { "front": "Education", "back": "" },
+            { "front": "Blackboard", "back": "" },
+            { "front": "Syllabus", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Attend class", "back": "" },
+            { "front": "Study hard", "back": "" },
+            { "front": "Read textbook", "back": "" },
+            { "front": "Take notes", "back": "" },
+            { "front": "Ask questions", "back": "" },
+            { "front": "Complete assignments", "back": "" },
+            { "front": "Write essays", "back": "" },
+            { "front": "Participate actively", "back": "" },
+            { "front": "Listen attentively", "back": "" },
+            { "front": "Understand concepts", "back": "" },
+            { "front": "Review materials", "back": "" },
+            { "front": "Submit homework", "back": "" },
+            { "front": "Learn vocabulary", "back": "" },
+            { "front": "Solve problems", "back": "" },
+            { "front": "Join study group", "back": "" },
+            { "front": "Attend lecture", "back": "" },
+            { "front": "Conduct research", "back": "" },
+            { "front": "Prepare presentations", "back": "" },
+            { "front": "Manage time", "back": "" },
+            { "front": "Participate discussion", "back": "" },
+            { "front": "Explore topics", "back": "" },
+            { "front": "Analyze data", "back": "" },
+            { "front": "Present findings", "back": "" },
+            { "front": "Review notes", "back": "" },
+            { "front": "Understand theories", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I attend class", "back": "" },
+            { "front": "He studies hard", "back": "" },
+            { "front": "She reads textbook", "back": "" },
+            { "front": "They take notes", "back": "" },
+            { "front": "We ask questions", "back": "" },
+            { "front": "You complete assignments", "back": "" },
+            { "front": "I write essays", "back": "" },
+            { "front": "He participates actively", "back": "" },
+            { "front": "She listens attentively", "back": "" },
+            { "front": "They understand concepts", "back": "" },
+            { "front": "We review materials", "back": "" },
+            { "front": "You submit homework", "back": "" },
+            { "front": "I learn vocabulary", "back": "" },
+            { "front": "He solves problems", "back": "" },
+            { "front": "She joins study group", "back": "" },
+            { "front": "They attend lecture", "back": "" },
+            { "front": "We conduct research", "back": "" },
+            { "front": "You prepare presentations", "back": "" },
+            { "front": "I manage time", "back": "" },
+            { "front": "He participates in discussions", "back": "" },
+            { "front": "She explores topics", "back": "" },
+            { "front": "They analyze data", "back": "" },
+            { "front": "We present findings", "back": "" },
+            { "front": "You review notes", "back": "" },
+            { "front": "I understand theories", "back": "" },
+            { "front": "He attends classes", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I attend morning classes", "back": "" },
+            { "front": "He studies math diligently", "back": "" },
+            { "front": "She reads science textbooks", "back": "" },
+            { "front": "They take detailed notes", "back": "" },
+            { "front": "We ask insightful questions", "back": "" },
+            { "front": "You complete assignments promptly", "back": "" },
+            { "front": "I write research essays", "back": "" },
+            { "front": "He participates actively in class", "back": "" },
+            { "front": "She listens attentively to lectures", "back": "" },
+            { "front": "They understand complex concepts", "back": "" },
+            { "front": "We review study materials", "back": "" },
+            { "front": "You submit homework assignments", "back": "" },
+            { "front": "I learn new vocabulary", "back": "" },
+            { "front": "He solves challenging problems", "back": "" },
+            { "front": "She joins the study group", "back": "" },
+            { "front": "They attend evening lectures", "back": "" },
+            { "front": "We conduct extensive research", "back": "" },
+            { "front": "You prepare informative presentations", "back": "" },
+            { "front": "I manage my time", "back": "" },
+            { "front": "He participates in discussions", "back": "" },
+            { "front": "She explores various topics", "back": "" },
+            { "front": "They analyze the data", "back": "" },
+            { "front": "We present our findings", "back": "" },
+            { "front": "You review your notes", "back": "" },
+            { "front": "I understand theoretical concepts", "back": "" },
+            { "front": "He attends all classes", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I attend morning classes regularly", "back": "" },
+            {
+              "front": "He studies mathematics diligently every day",
+              "back": ""
+            },
+            { "front": "She reads science textbooks thoroughly", "back": "" },
+            { "front": "They take detailed notes daily", "back": "" },
+            {
+              "front": "We ask insightful questions during lectures",
+              "back": ""
+            },
+            { "front": "You complete assignments on time", "back": "" },
+            { "front": "I write research essays effectively", "back": "" },
+            { "front": "He participates actively in discussions", "back": "" },
+            { "front": "She listens attentively to lectures", "back": "" },
+            {
+              "front": "They understand complex scientific concepts",
+              "back": ""
+            },
+            { "front": "We review study materials regularly", "back": "" },
+            { "front": "You submit homework assignments promptly", "back": "" },
+            { "front": "I learn new vocabulary words", "back": "" },
+            {
+              "front": "He solves challenging mathematical problems",
+              "back": ""
+            },
+            { "front": "She joins the study group", "back": "" },
+            { "front": "They attend evening lectures regularly", "back": "" },
+            { "front": "We conduct extensive research projects", "back": "" },
+            {
+              "front": "You prepare informative presentations effectively",
+              "back": ""
+            },
+            { "front": "I manage my study time", "back": "" },
+            { "front": "He participates in class discussions", "back": "" },
+            { "front": "She explores various academic topics", "back": "" },
+            { "front": "They analyze the collected data", "back": "" },
+            { "front": "We present our findings clearly", "back": "" },
+            { "front": "You review your lecture notes", "back": "" },
+            {
+              "front": "I understand theoretical physics concepts",
+              "back": ""
+            },
+            { "front": "He attends all scheduled classes", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I attend morning classes every day", "back": "" },
+            {
+              "front": "He studies mathematics diligently each semester",
+              "back": ""
+            },
+            { "front": "She reads science textbooks every night", "back": "" },
+            { "front": "They take detailed notes during lectures", "back": "" },
+            { "front": "We ask insightful questions in class", "back": "" },
+            {
+              "front": "You complete assignments before deadlines",
+              "back": ""
+            },
+            { "front": "I write research essays effectively", "back": "" },
+            {
+              "front": "He participates actively in all discussions",
+              "back": ""
+            },
+            { "front": "She listens attentively to every lecture", "back": "" },
+            {
+              "front": "They understand complex scientific concepts well",
+              "back": ""
+            },
+            { "front": "We review study materials regularly", "back": "" },
+            { "front": "You submit homework assignments promptly", "back": "" },
+            { "front": "I learn new vocabulary words daily", "back": "" },
+            {
+              "front": "He solves challenging mathematical problems efficiently",
+              "back": ""
+            },
+            { "front": "She joins the study group often", "back": "" },
+            { "front": "They attend evening lectures regularly", "back": "" },
+            {
+              "front": "We conduct extensive research projects together",
+              "back": ""
+            },
+            {
+              "front": "You prepare informative presentations effectively",
+              "back": ""
+            },
+            { "front": "I manage my study time well", "back": "" },
+            {
+              "front": "He participates in class discussions actively",
+              "back": ""
+            },
+            {
+              "front": "She explores various academic topics deeply",
+              "back": ""
+            },
+            {
+              "front": "They analyze the collected data thoroughly",
+              "back": ""
+            },
+            { "front": "We present our findings clearly", "back": "" },
+            { "front": "You review your lecture notes carefully", "back": "" },
+            {
+              "front": "I understand theoretical physics concepts well",
+              "back": ""
+            },
+            {
+              "front": "He attends all scheduled classes diligently",
+              "back": ""
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Attended class", "back": "" },
+            { "front": "Studied hard", "back": "" },
+            { "front": "Read textbook", "back": "" },
+            { "front": "Took exam", "back": "" },
+            { "front": "Wrote essay", "back": "" },
+            { "front": "Completed homework", "back": "" },
+            { "front": "Joined study", "back": "" },
+            { "front": "Presented project", "back": "" },
+            { "front": "Passed test", "back": "" },
+            { "front": "Reviewed notes", "back": "" },
+            { "front": "Listened lecture", "back": "" },
+            { "front": "Asked questions", "back": "" },
+            { "front": "Prepared presentation", "back": "" },
+            { "front": "Managed time", "back": "" },
+            { "front": "Explored topics", "back": "" },
+            { "front": "Analyzed data", "back": "" },
+            { "front": "Solved problems", "back": "" },
+            { "front": "Conducted research", "back": "" },
+            { "front": "Explained concept", "back": "" },
+            { "front": "Summarized chapter", "back": "" },
+            { "front": "Completed assignment", "back": "" },
+            { "front": "Reviewed material", "back": "" },
+            { "front": "Participated discussion", "back": "" },
+            { "front": "Handed in work", "back": "" },
+            { "front": "Attended seminar", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I attended class", "back": "" },
+            { "front": "He studied hard", "back": "" },
+            { "front": "She read textbook", "back": "" },
+            { "front": "They took exam", "back": "" },
+            { "front": "We wrote essay", "back": "" },
+            { "front": "You completed homework", "back": "" },
+            { "front": "I joined study group", "back": "" },
+            { "front": "He presented project", "back": "" },
+            { "front": "She passed test", "back": "" },
+            { "front": "They reviewed notes", "back": "" },
+            { "front": "We listened lecture", "back": "" },
+            { "front": "You asked questions", "back": "" },
+            { "front": "I prepared presentation", "back": "" },
+            { "front": "He managed time", "back": "" },
+            { "front": "She explored topics", "back": "" },
+            { "front": "They analyzed data", "back": "" },
+            { "front": "We solved problems", "back": "" },
+            { "front": "You conducted research", "back": "" },
+            { "front": "I explained concept", "back": "" },
+            { "front": "He summarized chapter", "back": "" },
+            { "front": "She completed assignment", "back": "" },
+            { "front": "They reviewed material", "back": "" },
+            { "front": "We participated discussion", "back": "" },
+            { "front": "You handed in work", "back": "" },
+            { "front": "I attended seminar", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I attended morning classes", "back": "" },
+            { "front": "He studied mathematics diligently", "back": "" },
+            { "front": "She read the textbook", "back": "" },
+            { "front": "They took the exam", "back": "" },
+            { "front": "We wrote a comprehensive essay", "back": "" },
+            { "front": "You completed your homework", "back": "" },
+            { "front": "I joined the study group", "back": "" },
+            { "front": "He presented the project", "back": "" },
+            { "front": "She passed the test", "back": "" },
+            { "front": "They reviewed their notes", "back": "" },
+            { "front": "We listened to lecture", "back": "" },
+            { "front": "You asked insightful questions", "back": "" },
+            { "front": "I prepared the presentation", "back": "" },
+            { "front": "He managed his time", "back": "" },
+            { "front": "She explored various topics", "back": "" },
+            { "front": "They analyzed the data", "back": "" },
+            { "front": "We solved challenging problems", "back": "" },
+            { "front": "You conducted the research", "back": "" },
+            { "front": "I explained the concept", "back": "" },
+            { "front": "He summarized the chapter", "back": "" },
+            { "front": "She completed the assignment", "back": "" },
+            { "front": "They reviewed the material", "back": "" },
+            { "front": "We participated in discussion", "back": "" },
+            { "front": "You handed in the work", "back": "" },
+            { "front": "I attended the seminar", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I attended morning classes yesterday", "back": "" },
+            { "front": "He studied mathematics last night", "back": "" },
+            { "front": "She read the textbook thoroughly", "back": "" },
+            { "front": "They took the final exam", "back": "" },
+            { "front": "We wrote a comprehensive essay", "back": "" },
+            { "front": "You completed your homework on time", "back": "" },
+            { "front": "I joined the study group", "back": "" },
+            { "front": "He presented his project successfully", "back": "" },
+            { "front": "She passed the difficult test", "back": "" },
+            { "front": "They reviewed their class notes", "back": "" },
+            { "front": "We listened to the lecture", "back": "" },
+            { "front": "You asked insightful questions today", "back": "" },
+            { "front": "I prepared the presentation diligently", "back": "" },
+            { "front": "He managed his study time", "back": "" },
+            { "front": "She explored various academic topics", "back": "" },
+            { "front": "They analyzed the collected data", "back": "" },
+            { "front": "We solved the challenging problems", "back": "" },
+            { "front": "You conducted the research project", "back": "" },
+            { "front": "I explained the complex concept", "back": "" },
+            { "front": "He summarized the entire chapter", "back": "" },
+            { "front": "She completed the assignment promptly", "back": "" },
+            { "front": "They reviewed the study material", "back": "" },
+            { "front": "We participated in the discussion", "back": "" },
+            { "front": "You handed in your work", "back": "" },
+            { "front": "I attended the educational seminar", "back": "" },
+            { "front": "He completed his thesis successfully", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I attended morning classes yesterday morning",
+              "back": ""
+            },
+            {
+              "front": "He studied mathematics diligently last semester",
+              "back": ""
+            },
+            {
+              "front": "She read the textbook thoroughly last night",
+              "back": ""
+            },
+            { "front": "They took the final exam yesterday", "back": "" },
+            { "front": "We wrote a comprehensive essay yesterday", "back": "" },
+            { "front": "You completed your homework on time", "back": "" },
+            { "front": "I joined the study group last week", "back": "" },
+            {
+              "front": "He presented his project successfully yesterday",
+              "back": ""
+            },
+            { "front": "She passed the difficult test last week", "back": "" },
+            {
+              "front": "They reviewed their class notes yesterday",
+              "back": ""
+            },
+            { "front": "We listened to the lecture attentively", "back": "" },
+            {
+              "front": "You asked insightful questions during class",
+              "back": ""
+            },
+            {
+              "front": "I prepared the presentation diligently yesterday",
+              "back": ""
+            },
+            { "front": "He managed his study time effectively", "back": "" },
+            {
+              "front": "She explored various academic topics yesterday",
+              "back": ""
+            },
+            {
+              "front": "They analyzed the collected data thoroughly",
+              "back": ""
+            },
+            {
+              "front": "We solved the challenging problems yesterday",
+              "back": ""
+            },
+            {
+              "front": "You conducted the research project successfully",
+              "back": ""
+            },
+            { "front": "I explained the complex concept clearly", "back": "" },
+            {
+              "front": "He summarized the entire chapter yesterday",
+              "back": ""
+            },
+            {
+              "front": "She completed the assignment promptly yesterday",
+              "back": ""
+            },
+            {
+              "front": "They reviewed the study material thoroughly",
+              "back": ""
+            },
+            {
+              "front": "We participated in the discussion actively",
+              "back": ""
+            },
+            { "front": "You handed in your work yesterday", "back": "" },
+            {
+              "front": "I attended the educational seminar yesterday",
+              "back": ""
+            },
+            {
+              "front": "He completed his thesis successfully yesterday",
+              "back": ""
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I will study", "back": "" },
+            { "front": "He will teach", "back": "" },
+            { "front": "She will learn", "back": "" },
+            { "front": "They will graduate", "back": "" },
+            { "front": "We will explore", "back": "" },
+            { "front": "You will enroll", "back": "" },
+            { "front": "I will attend", "back": "" },
+            { "front": "He will research", "back": "" },
+            { "front": "She will present", "back": "" },
+            { "front": "They will participate", "back": "" },
+            { "front": "We will collaborate", "back": "" },
+            { "front": "You will submit", "back": "" },
+            { "front": "I will revise", "back": "" },
+            { "front": "He will mentor", "back": "" },
+            { "front": "She will teach", "back": "" },
+            { "front": "They will attend", "back": "" },
+            { "front": "We will discuss", "back": "" },
+            { "front": "You will learn", "back": "" },
+            { "front": "I will analyze", "back": "" },
+            { "front": "He will write", "back": "" },
+            { "front": "She will grade", "back": "" },
+            { "front": "They will tutor", "back": "" },
+            { "front": "We will prepare", "back": "" },
+            { "front": "You will teach", "back": "" },
+            { "front": "I will develop", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I will attend class", "back": "" },
+            { "front": "He will teach math", "back": "" },
+            { "front": "She will learn biology", "back": "" },
+            { "front": "They will graduate next", "back": "" },
+            { "front": "We will explore subjects", "back": "" },
+            { "front": "You will enroll in", "back": "" },
+            { "front": "I will conduct research", "back": "" },
+            { "front": "He will present findings", "back": "" },
+            { "front": "She will participate actively", "back": "" },
+            { "front": "They will collaborate on projects", "back": "" },
+            { "front": "We will submit assignments", "back": "" },
+            { "front": "You will revise chapters", "back": "" },
+            { "front": "I will mentor students", "back": "" },
+            { "front": "He will teach literature", "back": "" },
+            { "front": "She will attend seminars", "back": "" },
+            { "front": "They will discuss topics", "back": "" },
+            { "front": "We will learn concepts", "back": "" },
+            { "front": "You will analyze data", "back": "" },
+            { "front": "I will write paper", "back": "" },
+            { "front": "He will grade exams", "back": "" },
+            { "front": "She will tutor peers", "back": "" },
+            { "front": "They will prepare presentations", "back": "" },
+            { "front": "We will teach classes", "back": "" },
+            { "front": "You will develop curriculum", "back": "" },
+            { "front": "I will review notes", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I will attend morning classes", "back": "" },
+            { "front": "He will study mathematics diligently", "back": "" },
+            { "front": "She will learn biology thoroughly", "back": "" },
+            { "front": "They will graduate next semester", "back": "" },
+            { "front": "We will explore new topics", "back": "" },
+            { "front": "You will enroll in courses", "back": "" },
+            { "front": "I will conduct research projects", "back": "" },
+            { "front": "He will present his findings", "back": "" },
+            { "front": "She will participate in discussions", "back": "" },
+            { "front": "They will collaborate on assignments", "back": "" },
+            { "front": "We will submit our assignments", "back": "" },
+            { "front": "You will revise chapters regularly", "back": "" },
+            { "front": "I will mentor new students", "back": "" },
+            { "front": "He will teach literature courses", "back": "" },
+            { "front": "She will attend academic seminars", "back": "" },
+            { "front": "They will discuss project ideas", "back": "" },
+            { "front": "We will learn theoretical concepts", "back": "" },
+            { "front": "You will analyze collected data", "back": "" },
+            { "front": "I will write research papers", "back": "" },
+            { "front": "He will grade student exams", "back": "" },
+            { "front": "She will tutor her peers", "back": "" },
+            { "front": "They will prepare presentations together", "back": "" },
+            { "front": "We will teach advanced classes", "back": "" },
+            { "front": "You will develop new curriculum", "back": "" },
+            { "front": "I will review lecture notes", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I will attend morning classes", "back": "" },
+            { "front": "He will study mathematics diligently", "back": "" },
+            { "front": "She will learn biology thoroughly", "back": "" },
+            { "front": "They will graduate next semester", "back": "" },
+            { "front": "We will explore new topics", "back": "" },
+            { "front": "You will enroll in courses", "back": "" },
+            { "front": "I will conduct research projects", "back": "" },
+            { "front": "He will present his findings", "back": "" },
+            { "front": "She will participate in discussions", "back": "" },
+            { "front": "They will collaborate on assignments", "back": "" },
+            { "front": "We will submit our assignments", "back": "" },
+            { "front": "You will revise chapters regularly", "back": "" },
+            { "front": "I will mentor new students", "back": "" },
+            { "front": "He will teach literature courses", "back": "" },
+            { "front": "She will attend academic seminars", "back": "" },
+            { "front": "They will discuss project ideas", "back": "" },
+            { "front": "We will learn theoretical concepts", "back": "" },
+            { "front": "You will analyze collected data", "back": "" },
+            { "front": "I will write research papers", "back": "" },
+            { "front": "He will grade student exams", "back": "" },
+            { "front": "She will tutor her peers", "back": "" },
+            { "front": "They will prepare presentations together", "back": "" },
+            { "front": "We will teach advanced classes", "back": "" },
+            { "front": "You will develop new curriculum", "back": "" },
+            { "front": "I will review lecture notes", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I will attend morning classes tomorrow", "back": "" },
+            { "front": "He will study mathematics next semester", "back": "" },
+            { "front": "She will learn biology this year", "back": "" },
+            { "front": "They will graduate from university soon", "back": "" },
+            { "front": "We will explore new topics today", "back": "" },
+            { "front": "You will enroll in advanced courses", "back": "" },
+            { "front": "I will conduct projects next month", "back": "" },
+            { "front": "He will present his findings tomorrow", "back": "" },
+            {
+              "front": "She will participate in discussions actively",
+              "back": ""
+            },
+            {
+              "front": "They will collaborate on assignments together",
+              "back": ""
+            },
+            { "front": "We will submit our assignments tomorrow", "back": "" },
+            { "front": "You will revise chapters before exams", "back": "" },
+            { "front": "I will mentor students next year", "back": "" },
+            { "front": "He will teach literature courses later", "back": "" },
+            {
+              "front": "She will attend academic seminars regularly",
+              "back": ""
+            },
+            { "front": "They will discuss project ideas tomorrow", "back": "" },
+            { "front": "We will learn theoretical concepts", "back": "" },
+            {
+              "front": "You will analyze collected data effectively",
+              "back": ""
+            },
+            { "front": "I will write research papers diligently", "back": "" },
+            { "front": "He will grade student exams promptly", "back": "" },
+            { "front": "She will tutor her peers regularly", "back": "" },
+            {
+              "front": "They will prepare presentations next week",
+              "back": ""
+            },
+            { "front": "We will teach classes next semester", "back": "" },
+            { "front": "You will develop new curriculum ideas", "back": "" },
+            { "front": "I will review lecture notes thoroughly", "back": "" }
+          ]
+        }
+      ]
+    }
+  ]
+}

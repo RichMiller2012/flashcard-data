@@ -1,0 +1,1498 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Common Phrases",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Hello",
+              "back": "kumusta"
+            },
+            {
+              "front": "Bye",
+              "back": "bye"
+            },
+            {
+              "front": "Yes",
+              "back": "oo"
+            },
+            {
+              "front": "No",
+              "back": "dili"
+            },
+            {
+              "front": "Please",
+              "back": "palihog"
+            },
+            {
+              "front": "Thanks",
+              "back": "salamat"
+            },
+            {
+              "front": "Sorry",
+              "back": "pasayloa"
+            },
+            {
+              "front": "Welcome",
+              "back": "welcome"
+            },
+            {
+              "front": "Help",
+              "back": "tabang"
+            },
+            {
+              "front": "Stop",
+              "back": "hunong"
+            },
+            {
+              "front": "Go",
+              "back": "lakaw"
+            },
+            {
+              "front": "Wait",
+              "back": "paghulat"
+            },
+            {
+              "front": "Sure",
+              "back": "sigurado"
+            },
+            {
+              "front": "Maybe",
+              "back": "tingali"
+            },
+            {
+              "front": "Okay",
+              "back": "okay ra"
+            },
+            {
+              "front": "Alright",
+              "back": "sige"
+            },
+            {
+              "front": "Greetings",
+              "back": "pangumusta"
+            },
+            {
+              "front": "Farewell",
+              "back": "panamilit"
+            },
+            {
+              "front": "Cheers",
+              "back": "cheers"
+            },
+            {
+              "front": "Congrats",
+              "back": "congrats"
+            },
+            {
+              "front": "Goodbye",
+              "back": "paalam"
+            },
+            {
+              "front": "Excuse",
+              "back": "pasangil"
+            },
+            {
+              "front": "Indeed",
+              "back": "tinuod"
+            },
+            {
+              "front": "Absolutely",
+              "back": "hingpit"
+            },
+            {
+              "front": "Definitely",
+              "back": "siguradong"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Good morning",
+              "back": "maayong buntag"
+            },
+            {
+              "front": "Thank you",
+              "back": "salamat"
+            },
+            {
+              "front": "See you",
+              "back": "magkita ta"
+            },
+            {
+              "front": "Take care",
+              "back": "ampingi"
+            },
+            {
+              "front": "Come here",
+              "back": "anhi dinhi"
+            },
+            {
+              "front": "Go away",
+              "back": "lakaw"
+            },
+            {
+              "front": "Stay safe",
+              "back": "magpabilin nga luwas"
+            },
+            {
+              "front": "Sit down",
+              "back": "lingkod"
+            },
+            {
+              "front": "Stand up",
+              "back": "tindog"
+            },
+            {
+              "front": "Be quiet",
+              "back": "paghilom"
+            },
+            {
+              "front": "Speak up",
+              "back": "isulti"
+            },
+            {
+              "front": "Feel better",
+              "back": "mas maayo ang pagbati"
+            },
+            {
+              "front": "Stay strong",
+              "back": "magpabilin nga lig-on"
+            },
+            {
+              "front": "Hang on",
+              "back": "pabilin"
+            },
+            {
+              "front": "Hold tight",
+              "back": "kupti pag-ayo"
+            },
+            {
+              "front": "Come back",
+              "back": "balik"
+            },
+            {
+              "front": "Listen carefully",
+              "back": "paminaw pag-ayo"
+            },
+            {
+              "front": "Wake up",
+              "back": "pagmata"
+            },
+            {
+              "front": "Get ready",
+              "back": "pangandam"
+            },
+            {
+              "front": "Cheer up",
+              "back": "lipaya"
+            },
+            {
+              "front": "Move forward",
+              "back": "lihok sa unahan"
+            },
+            {
+              "front": "Stay calm",
+              "back": "magpabilin nga kalmado"
+            },
+            {
+              "front": "Wait here",
+              "back": "paghulat dinhi"
+            },
+            {
+              "front": "Call me",
+              "back": "tawagi ko"
+            },
+            {
+              "front": "Come over",
+              "back": "duol"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "How are you",
+              "back": "kumusta ka"
+            },
+            {
+              "front": "I am sorry",
+              "back": "pasayloa ko"
+            },
+            {
+              "front": "Thank you very",
+              "back": "salamat kaayo"
+            },
+            {
+              "front": "See you later",
+              "back": "magkita ta unya"
+            },
+            {
+              "front": "Have a seat",
+              "back": "paglingkod"
+            },
+            {
+              "front": "I love you",
+              "back": "gihigugma ko ikaw"
+            },
+            {
+              "front": "What is your",
+              "back": "unsa imong"
+            },
+            {
+              "front": "Good night everyone",
+              "back": "maayong gabii sa tanan"
+            },
+            {
+              "front": "Take your time",
+              "back": "kuhaa ang imong oras"
+            },
+            {
+              "front": "I understand completely",
+              "back": "nakasabot ko sa hingpit"
+            },
+            {
+              "front": "Can you help",
+              "back": "makatabang ka"
+            },
+            {
+              "front": "Let me know",
+              "back": "pahibaloa ko"
+            },
+            {
+              "front": "I need help",
+              "back": "nanginahanglan ko ug tabang"
+            },
+            {
+              "front": "That's very kind",
+              "back": "buotan kaayo"
+            },
+            {
+              "front": "I don't know",
+              "back": "wala ko kabalo"
+            },
+            {
+              "front": "Good to see",
+              "back": "nindot tan-awon"
+            },
+            {
+              "front": "What is the",
+              "back": "unsa ang"
+            },
+            {
+              "front": "I am not",
+              "back": "dili ko"
+            },
+            {
+              "front": "Please call me",
+              "back": "palihog tawagi ko"
+            },
+            {
+              "front": "Have a good",
+              "back": "adunay maayo"
+            },
+            {
+              "front": "Let's go together",
+              "back": "kuyog ta"
+            },
+            {
+              "front": "I am feeling",
+              "back": "akong gibati"
+            },
+            {
+              "front": "See you soon",
+              "back": "magkita ta dayon"
+            },
+            {
+              "front": "Be right back",
+              "back": "balik dayon"
+            },
+            {
+              "front": "It's my pleasure",
+              "back": "kini akong kalipay"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Nice to meet you",
+              "back": "maayo nga magkita kita"
+            },
+            {
+              "front": "Have a good day",
+              "back": "maayong adlaw"
+            },
+            {
+              "front": "Can you help me",
+              "back": "makatabang ka nako"
+            },
+            {
+              "front": "How are you doing",
+              "back": "kumusta ka"
+            },
+            {
+              "front": "I love you too",
+              "back": "gihigugma ko ikaw usab"
+            },
+            {
+              "front": "What is your name",
+              "back": "unsa imong ngalan"
+            },
+            {
+              "front": "Please call me back",
+              "back": "palihog tawagi kog balik"
+            },
+            {
+              "front": "Have a nice evening",
+              "back": "maayong gabii"
+            },
+            {
+              "front": "Let's go to school",
+              "back": "adto ta sa eskwelahan"
+            },
+            {
+              "front": "Do you need help",
+              "back": "nanginahanglan ka ug tabang"
+            },
+            {
+              "front": "I don't understand you",
+              "back": "wala ko kasabot nimo"
+            },
+            {
+              "front": "See you later today",
+              "back": "magkita ta unya karon"
+            },
+            {
+              "front": "Take care of yourself",
+              "back": "ampingi imong kaugalingon"
+            },
+            {
+              "front": "What are you doing",
+              "back": "unsa imong gibuhat"
+            },
+            {
+              "front": "How was your day",
+              "back": "kumusta imong adlaw"
+            },
+            {
+              "front": "Let's get started now",
+              "back": "sugdan na nato karon"
+            },
+            {
+              "front": "Where are you from",
+              "back": "asa ka gikan"
+            },
+            {
+              "front": "Have a great day",
+              "back": "maayong adlaw"
+            },
+            {
+              "front": "It's nice to see",
+              "back": "nindot tan-awon"
+            },
+            {
+              "front": "I will see you",
+              "back": "magkita ta"
+            },
+            {
+              "front": "Thank you very much",
+              "back": "salamat kaayo"
+            },
+            {
+              "front": "How can I help",
+              "back": "unsaon nako pagtabang"
+            },
+            {
+              "front": "Have a safe trip",
+              "back": "adunay usa ka luwas nga biyahe"
+            },
+            {
+              "front": "Enjoy your meal tonight",
+              "back": "enjoy sa imong pagkaon karong gabii"
+            },
+            {
+              "front": "Let's meet tomorrow morning",
+              "back": "magkita ta ugma sa buntag"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I really love you too",
+              "back": "love pud tika"
+            },
+            {
+              "front": "You are a nice person",
+              "back": "buotan ka nga tawo"
+            },
+            {
+              "front": "Thank you for the time",
+              "back": "salamat sa oras"
+            },
+            {
+              "front": "Enjoy your dinner with them",
+              "back": "enjoy sa imong panihapon uban nila"
+            },
+            {
+              "front": "I don't understand your accent",
+              "back": "wala ko kasabot sa imong accent"
+            },
+            {
+              "front": "Can you help me please",
+              "back": "tabangi ko nimo please"
+            },
+            {
+              "front": "Let's meet at the park",
+              "back": "magkita ta sa park"
+            },
+            {
+              "front": "How are you feeling today",
+              "back": "kumusta imong gibati karon"
+            },
+            {
+              "front": "I need some more time",
+              "back": "nanginahanglan pa ko ug oras"
+            },
+            {
+              "front": "Please pass me the salt",
+              "back": "palihog ipasa kanako ang asin"
+            },
+            {
+              "front": "Do you want some coffee",
+              "back": "gusto ka ug kape"
+            },
+            {
+              "front": "It's nice to see you",
+              "back": "lingaw ko nimo"
+            },
+            {
+              "front": "She always helps me out",
+              "back": "kanunay niya akong gitabangan"
+            },
+            {
+              "front": "They are coming over later",
+              "back": "sila moabut unya"
+            },
+            {
+              "front": "We should go together today",
+              "back": "unta magkuyog ta karon"
+            },
+            {
+              "front": "He enjoys reading books daily",
+              "back": "ganahan siya magbasa ug libro kada adlaw"
+            },
+            {
+              "front": "I appreciate your hard work",
+              "back": "gipasalamatan nako ang imong kakugi"
+            },
+            {
+              "front": "You look happy today",
+              "back": "murag malipayon ka karon"
+            },
+            {
+              "front": "Please take your time",
+              "back": "palihug kuhaa ang imong oras"
+            },
+            {
+              "front": "I am learning new things",
+              "back": "nagkat-on ko ug bag-ong mga butang"
+            },
+            {
+              "front": "We are planning a trip",
+              "back": "nagplano mi ug biyahe"
+            },
+            {
+              "front": "She loves playing the piano",
+              "back": "ganahan siya motugtog ug piano"
+            },
+            {
+              "front": "They need some more information",
+              "back": "nagkinahanglan sila ug dugang impormasyon"
+            },
+            {
+              "front": "Can you repeat that please",
+              "back": "pwede ba nimo balikon palihog"
+            },
+            {
+              "front": "I hope you feel better",
+              "back": "nanghinaut ko nga maayo ang imong gibati"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I really enjoy learning new things",
+              "back": "Ganahan kaayo ko makakat-on og bag-ong mga butang"
+            },
+            {
+              "front": "She always helps me with homework",
+              "back": "permi niya ko tabangan sa homework"
+            },
+            {
+              "front": "He can answer any question now",
+              "back": "makatubag siya sa bisan unsang pangutana karon"
+            },
+            {
+              "front": "Let's have dinner together tonight",
+              "back": "dungan ta manihapon"
+            },
+            {
+              "front": "They are going to the park",
+              "back": "moadto sila sa parke"
+            },
+            {
+              "front": "We enjoy spending time together",
+              "back": "nalingaw mi nga magkauban"
+            },
+            {
+              "front": "You should take a break",
+              "back": "kinahanglan nga mopahulay ka"
+            },
+            {
+              "front": "It is important to listen",
+              "back": "importante ang pagpaminaw"
+            },
+            {
+              "front": "I appreciate your kind support",
+              "back": "gipasalamatan nako ang imong maayong suporta"
+            },
+            {
+              "front": "She knows how to cook",
+              "back": "kahibalo siya magluto"
+            },
+            {
+              "front": "He understands the problem well",
+              "back": "nakasabot siyag maayo sa problema"
+            },
+            {
+              "front": "They like watching movies together",
+              "back": "ganahan sila motan-aw ug salida"
+            },
+            {
+              "front": "We need to find solutions",
+              "back": "kinahanglan naton pangitaon ang mga solusyon"
+            },
+            {
+              "front": "You are doing great work",
+              "back": "maayo ang imong gibuhat"
+            },
+            {
+              "front": "I feel happy today",
+              "back": "nalipay ko karon"
+            },
+            {
+              "front": "She wants to join us",
+              "back": "gusto niya muuban namo"
+            },
+            {
+              "front": "He plans to travel soon",
+              "back": "siya nagplano sa pagbiyahe sa dili madugay"
+            },
+            {
+              "front": "They love playing sports outdoors",
+              "back": "ganahan sila magdula og sports sa gawas"
+            },
+            {
+              "front": "We can solve this issue",
+              "back": "masulbad nato kini nga isyu"
+            },
+            {
+              "front": "You seem very interested today",
+              "back": "murag interesado kaayo ka karon"
+            },
+            {
+              "front": "I believe in your abilities",
+              "back": "mituo ko sa imong abilidad"
+            },
+            {
+              "front": "She enjoys reading books daily",
+              "back": "ganahan siya magbasa ug libro kada adlaw"
+            },
+            {
+              "front": "He manages his time efficiently",
+              "back": "maayo ang iyang pagdumala sa iyang oras"
+            },
+            {
+              "front": "They appreciate your hard work",
+              "back": "naapresyar nila ang imong kahago"
+            },
+            {
+              "front": "We support each other's goals",
+              "back": "gisuportahan namo ang mga tumong sa usag usa"
+            },
+            {
+              "front": "You make a great impression",
+              "back": "naghimo ka usa ka maayo nga impresyon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I went home",
+              "back": "mipauli ko"
+            },
+            {
+              "front": "He called me",
+              "back": "nanawag siya nako"
+            },
+            {
+              "front": "She cooked dinner",
+              "back": "nagluto siyag panihapon"
+            },
+            {
+              "front": "They saw movie",
+              "back": "nakakita silag sine"
+            },
+            {
+              "front": "We had lunch",
+              "back": "naniudto mi"
+            },
+            {
+              "front": "You finished work",
+              "back": "nahuman nimo ang trabaho"
+            },
+            {
+              "front": "I felt happy",
+              "back": "nalipay ko"
+            },
+            {
+              "front": "He stayed late",
+              "back": "nagpabilin siya nga ulahi"
+            },
+            {
+              "front": "She looked tired",
+              "back": "kapoy daw siya"
+            },
+            {
+              "front": "They left early",
+              "back": "sayo silang mibiya"
+            },
+            {
+              "front": "We talked yesterday",
+              "back": "nagstorya mi gahapon"
+            },
+            {
+              "front": "You helped me",
+              "back": "gitabangan ko nimo"
+            },
+            {
+              "front": "I heard news",
+              "back": "nakadungog kog balita"
+            },
+            {
+              "front": "He wrote letter",
+              "back": "misulat siya"
+            },
+            {
+              "front": "She danced gracefully",
+              "back": "nagsayaw siya nga nindot"
+            },
+            {
+              "front": "They played games",
+              "back": "nagdula sila"
+            },
+            {
+              "front": "We visited friends",
+              "back": "mibisita mi sa mga higala"
+            },
+            {
+              "front": "You listened carefully",
+              "back": "naminaw ka pag-ayo"
+            },
+            {
+              "front": "I read book",
+              "back": "nagbasa kog libro"
+            },
+            {
+              "front": "He drove car",
+              "back": "nagmaneho siya ug awto"
+            },
+            {
+              "front": "She laughed loudly",
+              "back": "nikatawa siyag kusog"
+            },
+            {
+              "front": "They studied together",
+              "back": "dungan sila nga nagtuon"
+            },
+            {
+              "front": "We enjoyed meal",
+              "back": "nalingaw mig kaon"
+            },
+            {
+              "front": "You remembered everything",
+              "back": "nahinumdom ka sa tanan"
+            },
+            {
+              "front": "I understood question",
+              "back": "nakasabot ko sa pangutana"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I had a good day",
+              "back": "naa koy maayong adlaw"
+            },
+            {
+              "front": "She went to school",
+              "back": "miadto siya sa eskwelahan"
+            },
+            {
+              "front": "He called me yesterday",
+              "back": "nanawag siya nako gahapon"
+            },
+            {
+              "front": "They met at lunch",
+              "back": "nagkita sila sa paniudto"
+            },
+            {
+              "front": "We had fun together",
+              "back": "nagkalingaw mi"
+            },
+            {
+              "front": "You helped me yesterday",
+              "back": "gitabangan ko nimo gahapon"
+            },
+            {
+              "front": "I saw you there",
+              "back": "nakita ko ikaw didto"
+            },
+            {
+              "front": "She listened to music",
+              "back": "naminaw siyag musika"
+            },
+            {
+              "front": "He finished his homework",
+              "back": "nahuman niya ang iyang homework"
+            },
+            {
+              "front": "They left the room",
+              "back": "nigawas sila sa kwarto"
+            },
+            {
+              "front": "We talked about it",
+              "back": "nagstorya mi ani"
+            },
+            {
+              "front": "You gave me advice",
+              "back": "gitambagan ko nimo"
+            },
+            {
+              "front": "I felt very happy",
+              "back": "nalipay kaayo ko"
+            },
+            {
+              "front": "She bought a gift",
+              "back": "nipalit siyag regalo"
+            },
+            {
+              "front": "He drove to work",
+              "back": "nagdrayb siya paingon sa trabaho"
+            },
+            {
+              "front": "They played soccer yesterday",
+              "back": "nagduwa sila ug soccer gahapon"
+            },
+            {
+              "front": "We enjoyed the meal",
+              "back": "nalingaw mi sa pagkaon"
+            },
+            {
+              "front": "You brought your book",
+              "back": "dala nimo imong libro"
+            },
+            {
+              "front": "I heard the news",
+              "back": "nakadungog ko sa balita"
+            },
+            {
+              "front": "She wrote a letter",
+              "back": "misulat siya"
+            },
+            {
+              "front": "He cooked dinner tonight",
+              "back": "nagluto siyag panihapon karong gabhiona"
+            },
+            {
+              "front": "They watched the game",
+              "back": "nagtan-aw sila sa dula"
+            },
+            {
+              "front": "We cleaned the house",
+              "back": "nanglimpyo mi sa balay"
+            },
+            {
+              "front": "You fixed the car",
+              "back": "giayo nimo ang sakyanan"
+            },
+            {
+              "front": "I learned a lesson",
+              "back": "nakakat-on ko og leksyon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I really loved you too",
+              "back": "gihigugma ko usab ikaw"
+            },
+            {
+              "front": "You were a nice person",
+              "back": "buotan ka nga tawo"
+            },
+            {
+              "front": "Thank you for helping me",
+              "back": "salamat sa imong pagtabang kanako"
+            },
+            {
+              "front": "Enjoyed your dinner with them",
+              "back": "nalingaw sa imong panihapon uban nila"
+            },
+            {
+              "front": "I didn't understand your accent",
+              "back": "wala ko kasabot sa imong accent"
+            },
+            {
+              "front": "We had a great time",
+              "back": "nalingaw mi"
+            },
+            {
+              "front": "She taught me well",
+              "back": "gitudloan ko niyag maayo"
+            },
+            {
+              "front": "He helped me yesterday",
+              "back": "gitabangan ko niya gahapon"
+            },
+            {
+              "front": "They visited us last week",
+              "back": "mibisita sila kanamo sa miaging semana"
+            },
+            {
+              "front": "I saw you there",
+              "back": "nakita ko ikaw didto"
+            },
+            {
+              "front": "We talked about everything",
+              "back": "nagstorya mi sa tanan"
+            },
+            {
+              "front": "She called me earlier",
+              "back": "nanawag siya nako kanina"
+            },
+            {
+              "front": "He gave me advice",
+              "back": "gitambagan ko niya"
+            },
+            {
+              "front": "They joined us for dinner",
+              "back": "nag-uban sila namo sa panihapon"
+            },
+            {
+              "front": "I learned a lot",
+              "back": "daghan kog nakat-onan"
+            },
+            {
+              "front": "You supported me always",
+              "back": "gisuportahan ko nimo kanunay"
+            },
+            {
+              "front": "We enjoyed the party",
+              "back": "nalingaw mi sa party"
+            },
+            {
+              "front": "She prepared the meal",
+              "back": "giandam niya ang pagkaon"
+            },
+            {
+              "front": "He wrote a letter",
+              "back": "misulat siya"
+            },
+            {
+              "front": "They played games together",
+              "back": "nagduwa sila"
+            },
+            {
+              "front": "I felt very happy",
+              "back": "nalipay kaayo ko"
+            },
+            {
+              "front": "You brought your book",
+              "back": "dala nimo imong libro"
+            },
+            {
+              "front": "We watched a movie",
+              "back": "nanan-aw mi ug sine"
+            },
+            {
+              "front": "She drove to work",
+              "back": "nagdrayb siya padulong sa trabaho"
+            },
+            {
+              "front": "He fixed the car",
+              "back": "giayo niya ang sakyanan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I really loved you very much",
+              "back": "gihigugma tika pag ayo"
+            },
+            {
+              "front": "You were a wonderful person yesterday",
+              "back": "ikaw usa ka talagsaon nga tawo kagahapon"
+            },
+            {
+              "front": "Thank you for helping me yesterday",
+              "back": "salamat sa imong pagtabang kanako kagahapon"
+            },
+            {
+              "front": "We enjoyed our dinner with them",
+              "back": "nalingaw mi sa among panihapon uban nila"
+            },
+            {
+              "front": "I didn't understand your accent yesterday",
+              "back": "wala ko kasabot sa imong accent gahapon"
+            },
+            {
+              "front": "We had a great time together",
+              "back": "nindot kaayo ang among panag-uban"
+            },
+            {
+              "front": "She taught me well last week",
+              "back": "Gitudloan ko niya og maayo sa miaging semana"
+            },
+            {
+              "front": "He helped me with my project",
+              "back": "gitabangan ko niya sa akong project"
+            },
+            {
+              "front": "They visited us last Sunday evening",
+              "back": "mibisita sila kanamo sa miaging Domingo sa gabii"
+            },
+            {
+              "front": "I saw you at the park",
+              "back": "Nakita ko ikaw sa parke"
+            },
+            {
+              "front": "We talked about everything last night",
+              "back": "nagstorya mi sa tanan kagabii"
+            },
+            {
+              "front": "She called me earlier this morning",
+              "back": "nanawag siya nako ganihang buntag"
+            },
+            {
+              "front": "He gave me valuable advice yesterday",
+              "back": "gihatagan ko niyag bililhong tambag kagahapon"
+            },
+            {
+              "front": "They joined us for dinner yesterday",
+              "back": "nag-uban sila sa among panihapon kagahapon"
+            },
+            {
+              "front": "I learned a lot from you",
+              "back": "daghan ko nakat-onan nimo"
+            },
+            {
+              "front": "You supported me when I struggled",
+              "back": "gisuportahan ko nimo sa dihang naglisud ko"
+            },
+            {
+              "front": "We enjoyed the party last night",
+              "back": "nalingaw mi sa party kagabii"
+            },
+            {
+              "front": "She prepared the meal very well",
+              "back": "giandam niya pag-ayo ang pagkaon"
+            },
+            {
+              "front": "He wrote a letter to me",
+              "back": "nagsulat siya nako"
+            },
+            {
+              "front": "They played games together last weekend",
+              "back": "nagduwa sila last weekend"
+            },
+            {
+              "front": "I felt very happy last night",
+              "back": "nalipay kaayo ko kagabii"
+            },
+            {
+              "front": "You brought your book to class",
+              "back": "gidala nimo ang imong libro sa klase"
+            },
+            {
+              "front": "We watched a movie last night",
+              "back": "nanan-aw mi ug sine kagabii"
+            },
+            {
+              "front": "She drove to work early today",
+              "back": "sayo siyang nagdrayb paingon sa trabahoan karon"
+            },
+            {
+              "front": "He fixed the car for me",
+              "back": "giayo niya ang sakyanan para nako"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I will go",
+              "back": "moadto ko"
+            },
+            {
+              "front": "You will see",
+              "back": "imong makita"
+            },
+            {
+              "front": "We will meet",
+              "back": "magkita mi"
+            },
+            {
+              "front": "They will come",
+              "back": "sila moabut"
+            },
+            {
+              "front": "It will happen",
+              "back": "mahitabo kini"
+            },
+            {
+              "front": "She will arrive",
+              "back": "muabot siya"
+            },
+            {
+              "front": "He will help",
+              "back": "motabang siya"
+            },
+            {
+              "front": "I will try",
+              "back": "sulayan nako"
+            },
+            {
+              "front": "You will learn",
+              "back": "makakat-on ka"
+            },
+            {
+              "front": "We will wait",
+              "back": "maghulat mi"
+            },
+            {
+              "front": "They will know",
+              "back": "mahibal-an nila"
+            },
+            {
+              "front": "I will call",
+              "back": "tawagan ko"
+            },
+            {
+              "front": "It will rain",
+              "back": "mag-ulan"
+            },
+            {
+              "front": "You will succeed",
+              "back": "molampos ka"
+            },
+            {
+              "front": "She will understand",
+              "back": "makasabot siya"
+            },
+            {
+              "front": "He will return",
+              "back": "mobalik siya"
+            },
+            {
+              "front": "We will see",
+              "back": "atong tan-awon"
+            },
+            {
+              "front": "They will decide",
+              "back": "sila ang mohukom"
+            },
+            {
+              "front": "I will help",
+              "back": "tabangan ko"
+            },
+            {
+              "front": "You will enjoy",
+              "back": "malingaw ka"
+            },
+            {
+              "front": "We will go",
+              "back": "kita moadto"
+            },
+            {
+              "front": "They will agree",
+              "back": "mosugot sila"
+            },
+            {
+              "front": "I will remember",
+              "back": "mahinumdom ko"
+            },
+            {
+              "front": "He will sing",
+              "back": "mokanta siya"
+            },
+            {
+              "front": "She will dance",
+              "back": "mosayaw siya"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will call you",
+              "back": "tawagan ko ikaw"
+            },
+            {
+              "front": "We will meet tomorrow",
+              "back": "magkita ta ugma"
+            },
+            {
+              "front": "She will be there",
+              "back": "naa siya didto"
+            },
+            {
+              "front": "They will come soon",
+              "back": "sila moabut sa dili madugay"
+            },
+            {
+              "front": "You will find out",
+              "back": "mahibal-an nimo"
+            },
+            {
+              "front": "It will be okay",
+              "back": "ma okay ra"
+            },
+            {
+              "front": "I will see you",
+              "back": "magkita ta"
+            },
+            {
+              "front": "He will help us",
+              "back": "tabangan ta niya"
+            },
+            {
+              "front": "We will go together",
+              "back": "magdungan mi"
+            },
+            {
+              "front": "They will arrive soon",
+              "back": "hapit na sila moabot"
+            },
+            {
+              "front": "You will do great",
+              "back": "maayo ang imong buhaton"
+            },
+            {
+              "front": "I will miss you",
+              "back": "mingawon ko nimo"
+            },
+            {
+              "front": "She will let me",
+              "back": "sugton ko niya"
+            },
+            {
+              "front": "He will not come",
+              "back": "dili siya moabot"
+            },
+            {
+              "front": "It will not happen",
+              "back": "dili kini mahitabo"
+            },
+            {
+              "front": "We will make it",
+              "back": "atong buhaton"
+            },
+            {
+              "front": "They will be there",
+              "back": "didto sila"
+            },
+            {
+              "front": "You will love it",
+              "back": "mahigugma ka niini"
+            },
+            {
+              "front": "I will be there",
+              "back": "adto ko"
+            },
+            {
+              "front": "She will join us",
+              "back": "mokuyog siya namo"
+            },
+            {
+              "front": "He will call back",
+              "back": "mutawag siyag balik"
+            },
+            {
+              "front": "It will get better",
+              "back": "moarang-arang kini"
+            },
+            {
+              "front": "We will start soon",
+              "back": "kita magsugod sa dili madugay"
+            },
+            {
+              "front": "They will need help",
+              "back": "magkinahanglan sila og tabang"
+            },
+            {
+              "front": "You will see results",
+              "back": "makita nimo ang mga resulta"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will see you tomorrow",
+              "back": "magkita ta ugma"
+            },
+            {
+              "front": "We will meet again soon",
+              "back": "magkita ta pag-usab"
+            },
+            {
+              "front": "You will do great things",
+              "back": "magabuhat ka ug dagkung mga butang"
+            },
+            {
+              "front": "She will be here soon",
+              "back": "muabot na siya diri"
+            },
+            {
+              "front": "They will come to visit",
+              "back": "sila moadto sa pagbisita"
+            },
+            {
+              "front": "It will be okay soon",
+              "back": "ma okay ra dayon"
+            },
+            {
+              "front": "I will always love you",
+              "back": "higugmaon ko ikaw kanunay"
+            },
+            {
+              "front": "You will achieve your goals",
+              "back": "makab-ot nimo ang imong mga tumong"
+            },
+            {
+              "front": "We will make it together",
+              "back": "magdungan mi"
+            },
+            {
+              "front": "He will not be late",
+              "back": "dili siya maulahi"
+            },
+            {
+              "front": "They will never forget you",
+              "back": "dili ka nila makalimtan"
+            },
+            {
+              "front": "I will call you later",
+              "back": "tawagan tika unya"
+            },
+            {
+              "front": "You will get the job",
+              "back": "makuha nimo ang trabaho"
+            },
+            {
+              "front": "She will finish the project",
+              "back": "tapuson niya ang proyekto"
+            },
+            {
+              "front": "We will have a party",
+              "back": "mag party mi"
+            },
+            {
+              "front": "They will announce the winner",
+              "back": "ipahibalo nila ang mananaog"
+            },
+            {
+              "front": "It will rain this afternoon",
+              "back": "mag-ulan karong hapon"
+            },
+            {
+              "front": "You will pass the test",
+              "back": "makapasar ka sa pagsulay"
+            },
+            {
+              "front": "He will start his journey",
+              "back": "magsugod siya sa iyang panaw"
+            },
+            {
+              "front": "I will help you out",
+              "back": "tabangan tika"
+            },
+            {
+              "front": "She will send the email",
+              "back": "ipadala niya ang email"
+            },
+            {
+              "front": "We will try our best",
+              "back": "paningkamutan namo ang among pinakamaayo"
+            },
+            {
+              "front": "They will arrive on time",
+              "back": "moabot sila sa tukmang panahon"
+            },
+            {
+              "front": "You will receive the package",
+              "back": "madawat nimo ang package"
+            },
+            {
+              "front": "It will be worth it",
+              "back": "kini mahimong takus niini"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will always love you forever",
+              "back": "higugmaon ko ikaw kanunay hangtod sa hangtod"
+            },
+            {
+              "front": "You will achieve all your goals",
+              "back": "makab-ot nimo ang tanan nimong mga tumong"
+            },
+            {
+              "front": "We will meet again very soon",
+              "back": "magkita ta pag-usab sa dili madugay"
+            },
+            {
+              "front": "They will come to visit us",
+              "back": "sila moanhi sa pagduaw kanato"
+            },
+            {
+              "front": "She will be here on time",
+              "back": "ania siya sa hustong panahon"
+            },
+            {
+              "front": "He will not forget your kindness",
+              "back": "dili niya makalimtan ang imong kaayo"
+            },
+            {
+              "front": "It will be worth the wait",
+              "back": "takus kini sa paghulat"
+            },
+            {
+              "front": "I will see you next week",
+              "back": "magkita ta sunod semana"
+            },
+            {
+              "front": "You will do great in life",
+              "back": "dako ang imong mahimo sa kinabuhi"
+            },
+            {
+              "front": "We will make it through together",
+              "back": "kita molampos niini sa tingub"
+            },
+            {
+              "front": "They will arrive before dinner time",
+              "back": "muabot sila sa dili pa ang oras sa panihapon"
+            },
+            {
+              "front": "She will finish the project soon",
+              "back": "mahuman niya dayon ang project"
+            },
+            {
+              "front": "He will start his new job",
+              "back": "magsugod siya sa iyang bag-ong trabaho"
+            },
+            {
+              "front": "It will get better with time",
+              "back": "kini mahimong mas maayo sa paglabay sa panahon"
+            },
+            {
+              "front": "I will call you tomorrow morning",
+              "back": "tawagan ko ikaw ugma sa buntag"
+            },
+            {
+              "front": "You will receive the package soon",
+              "back": "madawat nimo ang package sa dili madugay"
+            },
+            {
+              "front": "We will celebrate your success together",
+              "back": "magdungan ta sa pagsaulog sa imong kalampusan"
+            },
+            {
+              "front": "They will announce the results tomorrow",
+              "back": "ugma na nila ipahibalo ang resulta"
+            },
+            {
+              "front": "She will learn from her mistakes",
+              "back": "makakat-on siya sa iyang mga sayop"
+            },
+            {
+              "front": "He will always be by your side",
+              "back": "naa siya kanunay sa imong kiliran"
+            },
+            {
+              "front": "It will rain later this afternoon",
+              "back": "mag-ulan unya karong hapon"
+            },
+            {
+              "front": "I will help you move house",
+              "back": "tabangan tika balhin ug balay"
+            },
+            {
+              "front": "You will find happiness and peace",
+              "back": "makaplagan nimo ang kalipay ug kalinaw"
+            },
+            {
+              "front": "We will start the meeting shortly",
+              "back": "sugdan nato ang miting sa dili madugay"
+            },
+            {
+              "front": "They will need our assistance soon",
+              "back": "magkinahanglan sila sa atong tabang sa dili madugay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

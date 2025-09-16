@@ -1,0 +1,1756 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Food and Drink",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Apple",
+              "back": "mansanas"
+            },
+            {
+              "front": "Banana",
+              "back": "saging"
+            },
+            {
+              "front": "Orange",
+              "back": "kahel"
+            },
+            {
+              "front": "Grape",
+              "back": "ubas"
+            },
+            {
+              "front": "Mango",
+              "back": "mangga"
+            },
+            {
+              "front": "Peach",
+              "back": "peach"
+            },
+            {
+              "front": "Pear",
+              "back": "pear"
+            },
+            {
+              "front": "Pineapple",
+              "back": "pinya"
+            },
+            {
+              "front": "Strawberry",
+              "back": "strawberry"
+            },
+            {
+              "front": "Blueberry",
+              "back": "blueberry"
+            },
+            {
+              "front": "Watermelon",
+              "back": "pakwan"
+            },
+            {
+              "front": "Lemon",
+              "back": "lemon"
+            },
+            {
+              "front": "Lime",
+              "back": "apog"
+            },
+            {
+              "front": "Cherry",
+              "back": "cherry"
+            },
+            {
+              "front": "Kiwi",
+              "back": "kiwi"
+            },
+            {
+              "front": "Tomato",
+              "back": "kamatis"
+            },
+            {
+              "front": "Potato",
+              "back": "patatas"
+            },
+            {
+              "front": "Carrot",
+              "back": "karot"
+            },
+            {
+              "front": "Onion",
+              "back": "sibuyas"
+            },
+            {
+              "front": "Garlic",
+              "back": "ahos"
+            },
+            {
+              "front": "Lettuce",
+              "back": "lettuce"
+            },
+            {
+              "front": "Spinach",
+              "back": "spinach"
+            },
+            {
+              "front": "Broccoli",
+              "back": "broccoli"
+            },
+            {
+              "front": "Cucumber",
+              "back": "pepino"
+            },
+            {
+              "front": "Bellpepper",
+              "back": "kampanilya"
+            },
+            {
+              "front": "Rice",
+              "back": "bugas"
+            },
+            {
+              "front": "Pasta",
+              "back": "pasta"
+            },
+            {
+              "front": "Bread",
+              "back": "pan"
+            },
+            {
+              "front": "Cheese",
+              "back": "keso"
+            },
+            {
+              "front": "Yogurt",
+              "back": "yogurt"
+            },
+            {
+              "front": "Butter",
+              "back": "mantekilya"
+            },
+            {
+              "front": "Milk",
+              "back": "gatas"
+            },
+            {
+              "front": "Juice",
+              "back": "duga"
+            },
+            {
+              "front": "Coffee",
+              "back": "kape"
+            },
+            {
+              "front": "Tea",
+              "back": "tsa"
+            },
+            {
+              "front": "Soda",
+              "back": "soda"
+            },
+            {
+              "front": "Beer",
+              "back": "beer"
+            },
+            {
+              "front": "Wine",
+              "back": "bino"
+            },
+            {
+              "front": "Smoothie",
+              "back": "smoothie"
+            },
+            {
+              "front": "Soup",
+              "back": "sabaw"
+            },
+            {
+              "front": "Salad",
+              "back": "salad"
+            },
+            {
+              "front": "Chicken",
+              "back": "manok"
+            },
+            {
+              "front": "Beef",
+              "back": "karne sa baka"
+            },
+            {
+              "front": "Pork",
+              "back": "baboy"
+            },
+            {
+              "front": "Fish",
+              "back": "isda"
+            },
+            {
+              "front": "Shrimp",
+              "back": "hipon"
+            },
+            {
+              "front": "Egg",
+              "back": "itlog"
+            },
+            {
+              "front": "Nut",
+              "back": "nut"
+            },
+            {
+              "front": "Cookie",
+              "back": "cookie"
+            },
+            {
+              "front": "Cake",
+              "back": "cake"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "boiled egg",
+              "back": "linuto nga itlog"
+            },
+            {
+              "front": "tasty cookie",
+              "back": "lami nga cookie"
+            },
+            {
+              "front": "wedding cake",
+              "back": "cake sa kasal"
+            },
+            {
+              "front": "sweet wine",
+              "back": "tam-is nga bino"
+            },
+            {
+              "front": "fresh apple",
+              "back": "presko nga mansanas"
+            },
+            {
+              "front": "ripe banana",
+              "back": "hinog nga saging"
+            },
+            {
+              "front": "juicy orange",
+              "back": "dugaon nga orange"
+            },
+            {
+              "front": "sour lemon",
+              "back": "sour nga lemon"
+            },
+            {
+              "front": "crunchy carrot",
+              "back": "crunchy nga carrot"
+            },
+            {
+              "front": "creamy cheese",
+              "back": "creamy nga keso"
+            },
+            {
+              "front": "grilled chicken",
+              "back": "sinugba nga manok"
+            },
+            {
+              "front": "spicy beef",
+              "back": "halang nga karne"
+            },
+            {
+              "front": "fried fish",
+              "back": "piniritong isda"
+            },
+            {
+              "front": "baked potato",
+              "back": "linuto nga patatas"
+            },
+            {
+              "front": "salty popcorn",
+              "back": "asin nga popcorn"
+            },
+            {
+              "front": "chilled soda",
+              "back": "gipabugnaw nga soda"
+            },
+            {
+              "front": "hot coffee",
+              "back": "init nga kape"
+            },
+            {
+              "front": "iced tea",
+              "back": "iced nga tsa"
+            },
+            {
+              "front": "smooth smoothie",
+              "back": "hapsay nga smoothie"
+            },
+            {
+              "front": "crisp lettuce",
+              "back": "presko nga lettuce"
+            },
+            {
+              "front": "warm bread",
+              "back": "mainit nga tinapay"
+            },
+            {
+              "front": "savory soup",
+              "back": "lami nga sabaw"
+            },
+            {
+              "front": "sweet dessert",
+              "back": "tam-is nga dessert"
+            },
+            {
+              "front": "cold beer",
+              "back": "bugnaw nga beer"
+            },
+            {
+              "front": "light salad",
+              "back": "gamay nga salad"
+            },
+            {
+              "front": "tender shrimp",
+              "back": "malumo nga hipon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "juicy tender shrimp",
+              "back": "juicy nga malumo nga hipon"
+            },
+            {
+              "front": "savory delicious soup",
+              "back": "lami nga lami nga sabaw"
+            },
+            {
+              "front": "crispy fried chicken",
+              "back": "crispy fried chicken"
+            },
+            {
+              "front": "sweet ripe mango",
+              "back": "tam-is nga hinog nga mangga"
+            },
+            {
+              "front": "fresh baked bread",
+              "back": "bag-ong linuto nga pan"
+            },
+            {
+              "front": "tasty chocolate cake",
+              "back": "lami nga chocolate cake"
+            },
+            {
+              "front": "smooth creamy yogurt",
+              "back": "hapsay nga creamy yogurt"
+            },
+            {
+              "front": "spicy grilled fish",
+              "back": "halang nga sinugba nga isda"
+            },
+            {
+              "front": "warm chocolate chip",
+              "back": "mainit nga chocolate chip"
+            },
+            {
+              "front": "cold refreshing lemonade",
+              "back": "bugnaw nga makapapresko nga limonada"
+            },
+            {
+              "front": "zesty garlic bread",
+              "back": "zesty nga pan nga ahos"
+            },
+            {
+              "front": "crunchy fresh salad",
+              "back": "presko nga salad"
+            },
+            {
+              "front": "tart lemon meringue",
+              "back": "tart nga lemon meringue"
+            },
+            {
+              "front": "rich vanilla ice",
+              "back": "dato nga vanilla ice"
+            },
+            {
+              "front": "smooth velvety pudding",
+              "back": "hapsay nga velvety pudding"
+            },
+            {
+              "front": "sweet homemade jam",
+              "back": "matam-is nga homemade jam"
+            },
+            {
+              "front": "crunchy peanut butter",
+              "back": "crunchy nga peanut butter"
+            },
+            {
+              "front": "creamy mushroom risotto",
+              "back": "creamy nga mushroom risotto"
+            },
+            {
+              "front": "spicy beef tacos",
+              "back": "halang nga tacos sa baka"
+            },
+            {
+              "front": "tender grilled steak",
+              "back": "malumo nga sinugba nga steak"
+            },
+            {
+              "front": "light berry smoothie",
+              "back": "light berry smoothie"
+            },
+            {
+              "front": "fluffy scrambled eggs",
+              "back": "fluffy scrambled itlog"
+            },
+            {
+              "front": "sweet vanilla custard",
+              "back": "tam-is nga vanilla custard"
+            },
+            {
+              "front": "sour dill pickles",
+              "back": "maasim nga dill pickles"
+            },
+            {
+              "front": "tangy barbecue sauce",
+              "back": "lami nga barbecue sauce"
+            },
+            {
+              "front": "fizzy orange soda",
+              "back": "fizzy orange nga soda"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "drinking fizzy orange soda",
+              "back": "pag-inom ug fizzy orange soda"
+            },
+            {
+              "front": "eating crunchy fresh salad",
+              "back": "Pagkaon sa bag-ong salad"
+            },
+            {
+              "front": "making sweet homemade jam",
+              "back": "paghimo sa tam-is nga homemade jam"
+            },
+            {
+              "front": "baking delicious chocolate cake",
+              "back": "pagluto lamian nga chocolate cake"
+            },
+            {
+              "front": "sipping cold refreshing lemonade",
+              "back": "paghigop sa bugnaw nga makapapresko nga limonada"
+            },
+            {
+              "front": "cooking savory grilled chicken",
+              "back": "pagluto sa lami nga sinugba nga manok"
+            },
+            {
+              "front": "preparing spicy beef tacos",
+              "back": "pag-andam sa halang nga tacos sa baka"
+            },
+            {
+              "front": "tasting rich vanilla ice",
+              "back": "pagtilaw sa daghang vanilla ice"
+            },
+            {
+              "front": "enjoying creamy mushroom risotto",
+              "back": "nalingaw sa creamy mushroom risotto"
+            },
+            {
+              "front": "serving warm chocolate chip",
+              "back": "nag-alagad sa mainit nga chocolate chip"
+            },
+            {
+              "front": "spreading creamy peanut butter",
+              "back": "pagsabwag sa creamy peanut butter"
+            },
+            {
+              "front": "pouring tangy barbecue sauce",
+              "back": "pagbubo sa tangy barbecue sauce"
+            },
+            {
+              "front": "eating tender grilled steak",
+              "back": "pagkaon sa malumo nga sinugba nga steak"
+            },
+            {
+              "front": "savoring sweet ripe mango",
+              "back": "lami sa tam-is nga hinog nga mangga"
+            },
+            {
+              "front": "cooking fluffy scrambled eggs",
+              "back": "pagluto fluffy scrambled itlog"
+            },
+            {
+              "front": "baking flaky apple pie",
+              "back": "pagluto flaky apple pie"
+            },
+            {
+              "front": "drinking smooth berry smoothie",
+              "back": "pag-inom ug hamis nga berry smoothie"
+            },
+            {
+              "front": "sipping hot herbal tea",
+              "back": "paghigop og init nga herbal tea"
+            },
+            {
+              "front": "grilling juicy tender shrimp",
+              "back": "pag-ihaw ug juicy tender shrimp"
+            },
+            {
+              "front": "whipping light vanilla custard",
+              "back": "whipping light vanilla custard"
+            },
+            {
+              "front": "enjoying warm baked bread",
+              "back": "nalingaw sa mainit nga linuto nga tinapay"
+            },
+            {
+              "front": "eating zesty garlic bread",
+              "back": "pagkaon sa zesty nga garlic bread"
+            },
+            {
+              "front": "spreading rich chocolate frosting",
+              "back": "nagpakaylap sa dato nga chocolate frosting"
+            },
+            {
+              "front": "serving tangy dill pickles",
+              "back": "nag-alagad sa tangy dill pickles"
+            },
+            {
+              "front": "sipping refreshing fruit punch",
+              "back": "paghigop sa makarepresko nga fruit punch"
+            },
+            {
+              "front": "making savory vegetable soup",
+              "back": "paghimo sa lamian nga sabaw sa utanon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "drinking fizzy orange soda now",
+              "back": "pag-inom ug fizzy orange soda karon"
+            },
+            {
+              "front": "eating crunchy fresh salad daily",
+              "back": "pagkaon sa crunchy lab-as nga salad kada adlaw"
+            },
+            {
+              "front": "making sweet homemade jam today",
+              "back": "naghimo ug tam-is nga homemade jam karon"
+            },
+            {
+              "front": "baking chocolate cake for dessert",
+              "back": "pagluto chocolate cake alang sa dessert"
+            },
+            {
+              "front": "sipping refreshing lemonade with friends",
+              "back": "paghigop og makaparepresko nga limonada uban sa mga higala"
+            },
+            {
+              "front": "cooking grilled chicken for dinner",
+              "back": "pagluto og sinugba nga manok para sa panihapon"
+            },
+            {
+              "front": "preparing beef tacos for lunch",
+              "back": "pag-andam sa mga tacos sa baka alang sa paniudto"
+            },
+            {
+              "front": "tasting vanilla ice cream",
+              "back": "pagtilaw sa vanilla ice cream"
+            },
+            {
+              "front": "enjoying creamy mushroom risotto tonight",
+              "back": "nalingaw sa creamy mushroom risotto karong gabii"
+            },
+            {
+              "front": "serving warm chocolate chip cookies",
+              "back": "nag-alagad sa mainit nga chocolate chip cookies"
+            },
+            {
+              "front": "spreading peanut butter on toast",
+              "back": "pagsabwag sa peanut butter sa toast"
+            },
+            {
+              "front": "pouring tangy barbecue sauce generously",
+              "back": "pagbubo sa tangy barbecue sauce nga madagayaon"
+            },
+            {
+              "front": "eating grilled steak with sides",
+              "back": "pagkaon sa sinugba nga steak nga adunay mga kilid"
+            },
+            {
+              "front": "savoring sweet ripe mango slices",
+              "back": "lamian ang tam-is nga hinog nga mga hiwa sa mangga"
+            },
+            {
+              "front": "cooking fluffy scrambled eggs perfectly",
+              "back": "hingpit nga pagluto sa fluffy scrambled egg"
+            },
+            {
+              "front": "baking apple pie from scratch",
+              "back": "pagluto apple pie gikan sa scratch"
+            },
+            {
+              "front": "drinking berry smoothie every morning",
+              "back": "pag-inom ug berry smoothie kada buntag"
+            },
+            {
+              "front": "sipping hot herbal tea quietly",
+              "back": "hilom nga paghigop og init nga herbal tea"
+            },
+            {
+              "front": "grilling tender shrimp on skewers",
+              "back": "pag-ihaw sa malumo nga hipon sa mga skewer"
+            },
+            {
+              "front": "whipping light vanilla custard dessert",
+              "back": "whipping light vanilla custard dessert"
+            },
+            {
+              "front": "enjoying baked bread with butter",
+              "back": "nalingaw sa linuto nga pan nga adunay mantekilya"
+            },
+            {
+              "front": "eating garlic bread with pasta",
+              "back": "pagkaon sa garlic bread nga adunay pasta"
+            },
+            {
+              "front": "spreading chocolate frosting on cake",
+              "back": "pagsabwag sa chocolate frosting sa cake"
+            },
+            {
+              "front": "serving dill pickles at lunch",
+              "back": "pag-alagad sa dill pickles sa paniudto"
+            },
+            {
+              "front": "sipping fruit punch at party",
+              "back": "paghigop og fruit punch sa party"
+            },
+            {
+              "front": "making vegetable soup for dinner",
+              "back": "paghimo sa sabaw sa utanon alang sa panihapon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "drinking fizzy orange soda with friends",
+              "back": "pag-inom og fizzy orange soda uban sa mga higala"
+            },
+            {
+              "front": "eating crunchy fresh salad for lunch",
+              "back": "pagkaon sa crunchy lab-as nga salad alang sa paniudto"
+            },
+            {
+              "front": "making sweet homemade jam for breakfast",
+              "back": "paghimo og tam-is nga homemade jam para sa pamahaw"
+            },
+            {
+              "front": "baking delicious chocolate cake for dessert",
+              "back": "pagluto lamian nga chocolate cake alang sa dessert"
+            },
+            {
+              "front": "sipping cold refreshing lemonade on patio",
+              "back": "paghigop sa bugnaw nga makapapresko nga limonada sa patio"
+            },
+            {
+              "front": "cooking savory grilled chicken for dinner",
+              "back": "pagluto sa lami nga sinugba nga manok alang sa panihapon"
+            },
+            {
+              "front": "preparing spicy beef tacos for lunch",
+              "back": "pag-andam sa halang nga tacos sa baka alang sa paniudto"
+            },
+            {
+              "front": "tasting rich vanilla ice cream cone",
+              "back": "lami kaayo nga vanilla ice cream cone"
+            },
+            {
+              "front": "enjoying creamy mushroom risotto with parmesan",
+              "back": "nalingaw sa creamy mushroom risotto nga adunay parmesan"
+            },
+            {
+              "front": "serving warm chocolate chip cookies tonight",
+              "back": "nag-alagad sa mainit nga chocolate chip cookies karong gabii"
+            },
+            {
+              "front": "spreading creamy peanut butter on toast",
+              "back": "pagsabwag sa creamy peanut butter sa toast"
+            },
+            {
+              "front": "pouring tangy barbecue sauce on ribs",
+              "back": "pagbubo sa tangy barbecue sauce sa mga gusok"
+            },
+            {
+              "front": "eating tender grilled steak with vegetables",
+              "back": "pagkaon sa malumo nga sinugba nga steak nga adunay mga utanon"
+            },
+            {
+              "front": "savoring sweet ripe mango slices daily",
+              "back": "pagtilaw sa matam-is nga hinog nga mga hiwa sa mangga kada adlaw"
+            },
+            {
+              "front": "cooking fluffy scrambled eggs with herbs",
+              "back": "pagluto fluffy scrambled itlog uban sa mga utanon"
+            },
+            {
+              "front": "baking flaky apple pie from scratch",
+              "back": "pagluto flaky apple pie gikan sa scratch"
+            },
+            {
+              "front": "drinking smooth berry smoothie every morning",
+              "back": "pag-inom ug smooth berry smoothie kada buntag"
+            },
+            {
+              "front": "sipping hot herbal tea before bed",
+              "back": "paghigop og init nga herbal tea sa dili pa matulog"
+            },
+            {
+              "front": "grilling juicy tender shrimp on skewers",
+              "back": "pag-ihaw ug juicy tender shrimp sa mga skewer"
+            },
+            {
+              "front": "whipping light vanilla custard for dessert",
+              "back": "whipping light vanilla custard alang sa dessert"
+            },
+            {
+              "front": "enjoying warm baked bread with butter",
+              "back": "nalingaw sa mainit nga linuto nga pan nga adunay mantekilya"
+            },
+            {
+              "front": "eating zesty garlic bread with pasta",
+              "back": "pagkaon sa zesty nga garlic bread nga adunay pasta"
+            },
+            {
+              "front": "spreading rich chocolate frosting on cake",
+              "back": "pagsabwag sa dato nga chocolate frosting sa cake"
+            },
+            {
+              "front": "serving tangy dill pickles at picnic",
+              "back": "nag-alagad sa tangy dill pickles sa piknik"
+            },
+            {
+              "front": "sipping refreshing fruit punch at party",
+              "back": "paghigop og makarepresko nga fruit punch sa party"
+            },
+            {
+              "front": "making savory vegetable soup for dinner",
+              "back": "paghimo sa lamian nga sabaw sa utanon alang sa panihapon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "ate bread",
+              "back": "mikaon ug pan"
+            },
+            {
+              "front": "drank lemonade",
+              "back": "miinom og limonada"
+            },
+            {
+              "front": "served soup",
+              "back": "nagsilbi nga sabaw"
+            },
+            {
+              "front": "baked cake",
+              "back": "linuto nga cake"
+            },
+            {
+              "front": "cooked chicken",
+              "back": "linuto nga manok"
+            },
+            {
+              "front": "sipped coffee",
+              "back": "nihigop og kape"
+            },
+            {
+              "front": "made jam",
+              "back": "gihimo nga jam"
+            },
+            {
+              "front": "grilled fish",
+              "back": "sinugba nga isda"
+            },
+            {
+              "front": "fried eggs",
+              "back": "piniritong itlog"
+            },
+            {
+              "front": "tasted salad",
+              "back": "nakatilaw og salad"
+            },
+            {
+              "front": "enjoyed pasta",
+              "back": "nalingaw sa pasta"
+            },
+            {
+              "front": "savored dessert",
+              "back": "lamian nga dessert"
+            },
+            {
+              "front": "poured juice",
+              "back": "gibubo juice"
+            },
+            {
+              "front": "eaten fruit",
+              "back": "gikaon nga prutas"
+            },
+            {
+              "front": "prepared tacos",
+              "back": "andam tacos"
+            },
+            {
+              "front": "whipped cream",
+              "back": "whipped cream"
+            },
+            {
+              "front": "mixed ingredients",
+              "back": "sinagol nga sangkap"
+            },
+            {
+              "front": "served pizza",
+              "back": "nagsilbi nga pizza"
+            },
+            {
+              "front": "made smoothie",
+              "back": "gihimo nga smoothie"
+            },
+            {
+              "front": "opened beer",
+              "back": "gibuksan nga beer"
+            },
+            {
+              "front": "shared dessert",
+              "back": "gipaambit nga dessert"
+            },
+            {
+              "front": "brought snacks",
+              "back": "nagdala ug snacks"
+            },
+            {
+              "front": "washed vegetables",
+              "back": "gihugasan nga mga utanon"
+            },
+            {
+              "front": "tore bread",
+              "back": "naggisi sa pan"
+            },
+            {
+              "front": "chopped herbs",
+              "back": "tinadtad nga mga utanon"
+            },
+            {
+              "front": "scooped ice",
+              "back": "scoop nga yelo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "ate fresh bread",
+              "back": "mikaon ug lab-as nga pan"
+            },
+            {
+              "front": "drank cold lemonade",
+              "back": "miinom ug bugnaw nga limonada"
+            },
+            {
+              "front": "served hot soup",
+              "back": "nagsilbi nga init nga sabaw"
+            },
+            {
+              "front": "baked a cake",
+              "back": "nagluto ug cake"
+            },
+            {
+              "front": "cooked spicy chicken",
+              "back": "giluto nga halang nga manok"
+            },
+            {
+              "front": "sipped strong coffee",
+              "back": "nihigop og kusog nga kape"
+            },
+            {
+              "front": "made homemade jam",
+              "back": "gihimo sa balay nga jam"
+            },
+            {
+              "front": "grilled tender fish",
+              "back": "sinugba nga malumo nga isda"
+            },
+            {
+              "front": "fried two eggs",
+              "back": "pinirito ang duha ka itlog"
+            },
+            {
+              "front": "tasted delicious salad",
+              "back": "nakatilaw ug lamiang salad"
+            },
+            {
+              "front": "enjoyed creamy pasta",
+              "back": "nalingaw sa creamy pasta"
+            },
+            {
+              "front": "savored rich dessert",
+              "back": "lami kaayo nga dessert"
+            },
+            {
+              "front": "poured fresh juice",
+              "back": "gibubo lab-as nga juice"
+            },
+            {
+              "front": "eaten seasonal fruit",
+              "back": "gikaon sa seasonal nga prutas"
+            },
+            {
+              "front": "prepared beef tacos",
+              "back": "giandam nga tacos sa baka"
+            },
+            {
+              "front": "whipped light cream",
+              "back": "whipped light cream"
+            },
+            {
+              "front": "mixed colorful ingredients",
+              "back": "gisagol nga kolor nga mga sangkap"
+            },
+            {
+              "front": "served hot pizza",
+              "back": "nagsilbi nga init nga pizza"
+            },
+            {
+              "front": "made berry smoothie",
+              "back": "naghimo sa berry smoothie"
+            },
+            {
+              "front": "opened cold beer",
+              "back": "giablihan ang bugnaw nga beer"
+            },
+            {
+              "front": "shared sweet dessert",
+              "back": "gipaambit ang tam-is nga dessert"
+            },
+            {
+              "front": "brought crunchy snacks",
+              "back": "nagdala ug lutoon nga snacks"
+            },
+            {
+              "front": "washed fresh vegetables",
+              "back": "gihugasan nga lab-as nga mga utanon"
+            },
+            {
+              "front": "tore warm bread",
+              "back": "naggisi sa init nga pan"
+            },
+            {
+              "front": "chopped fresh herbs",
+              "back": "tinadtad nga lab-as nga mga utanon"
+            },
+            {
+              "front": "scooped vanilla ice",
+              "back": "scoop nga vanilla ice"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "ate fresh baked bread",
+              "back": "mikaon ug lab-as nga linuto nga pan"
+            },
+            {
+              "front": "drank cold refreshing lemonade",
+              "back": "miinom ug bugnaw nga makapapresko nga limonada"
+            },
+            {
+              "front": "served delicious hot soup",
+              "back": "nagsilbi nga lamian nga init nga sabaw"
+            },
+            {
+              "front": "baked a chocolate cake",
+              "back": "nagluto ug chocolate cake"
+            },
+            {
+              "front": "cooked spicy grilled chicken",
+              "back": "giluto nga halang nga sinugba nga manok"
+            },
+            {
+              "front": "sipped strong black coffee",
+              "back": "nihigop og kusog nga itom nga kape"
+            },
+            {
+              "front": "made homemade strawberry jam",
+              "back": "gihimo sa balay nga strawberry jam"
+            },
+            {
+              "front": "grilled tender salmon fillet",
+              "back": "sinugba nga malumo nga salmon fillet"
+            },
+            {
+              "front": "fried two sunny-side eggs",
+              "back": "pinirito ang duha ka sunny-side nga itlog"
+            },
+            {
+              "front": "tasted fresh garden salad",
+              "back": "nakatilaw og lab-as nga garden salad"
+            },
+            {
+              "front": "enjoyed creamy pasta dish",
+              "back": "nalingaw sa creamy pasta dish"
+            },
+            {
+              "front": "savored rich chocolate dessert",
+              "back": "lami nga dato nga chocolate dessert"
+            },
+            {
+              "front": "poured fresh orange juice",
+              "back": "gibubo lab-as nga orange juice"
+            },
+            {
+              "front": "eaten seasonal ripe fruit",
+              "back": "gikaon sa seasonal nga hinog nga prutas"
+            },
+            {
+              "front": "prepared spicy beef tacos",
+              "back": "giandam nga halang nga tacos sa baka"
+            },
+            {
+              "front": "whipped up light cream",
+              "back": "gipuga ang light cream"
+            },
+            {
+              "front": "mixed colorful salad ingredients",
+              "back": "gisagol nga kolor nga mga sangkap sa salad"
+            },
+            {
+              "front": "served hot cheesy pizza",
+              "back": "nagsilbi nga init nga cheesy pizza"
+            },
+            {
+              "front": "made a berry smoothie",
+              "back": "naghimo ug berry smoothie"
+            },
+            {
+              "front": "opened a cold beer",
+              "back": "nagbukas ug bugnaw nga beer"
+            },
+            {
+              "front": "shared sweet chocolate dessert",
+              "back": "gipaambit ang tam-is nga tsokolate nga dessert"
+            },
+            {
+              "front": "brought crunchy vegetable snacks",
+              "back": "nagdala ug lutoon nga utanon nga snacks"
+            },
+            {
+              "front": "washed fresh salad greens",
+              "back": "gihugasan ang lab-as nga salad greens"
+            },
+            {
+              "front": "tore warm crusty bread",
+              "back": "gigisi ang mainit nga crusty nga tinapay"
+            },
+            {
+              "front": "chopped fresh fragrant herbs",
+              "back": "tinadtad nga lab-as nga humot nga mga utanon"
+            },
+            {
+              "front": "scooped creamy vanilla ice",
+              "back": "scooped creamy vanilla ice"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "ate fresh baked bread yesterday",
+              "back": "nikaon ug bag-ong linuto nga pan gahapon"
+            },
+            {
+              "front": "drank cold refreshing lemonade today",
+              "back": "miinom ug bugnaw nga makapapresko nga limonada karon"
+            },
+            {
+              "front": "served delicious soup for dinner",
+              "back": "nag-alagad sa lamian nga sabaw alang sa panihapon"
+            },
+            {
+              "front": "baked chocolate cake for dessert",
+              "back": "nagluto nga chocolate cake para sa dessert"
+            },
+            {
+              "front": "cooked grilled chicken with rice",
+              "back": "giluto nga sinugba nga manok nga adunay bugas"
+            },
+            {
+              "front": "sipped black coffee in morning",
+              "back": "nihigop og itom nga kape sa buntag"
+            },
+            {
+              "front": "made strawberry jam from berries",
+              "back": "naghimo sa strawberry jam gikan sa mga berry"
+            },
+            {
+              "front": "grilled salmon fillet with herbs",
+              "back": "sinugba nga salmon fillet nga adunay mga utanon"
+            },
+            {
+              "front": "fried sunny-side eggs for breakfast",
+              "back": "pinirito nga sunny-side nga mga itlog para sa pamahaw"
+            },
+            {
+              "front": "tasted garden salad with dressing",
+              "back": "nakatilaw sa garden salad nga adunay pagsinina"
+            },
+            {
+              "front": "enjoyed pasta dish last night",
+              "back": "nalingaw sa pasta dish kagabii"
+            },
+            {
+              "front": "savored chocolate dessert after dinner",
+              "back": "lamian nga chocolate dessert pagkahuman sa panihapon"
+            },
+            {
+              "front": "poured orange juice in glass",
+              "back": "gibubo ang orange juice sa baso"
+            },
+            {
+              "front": "eaten ripe fruit for snack",
+              "back": "gikaon ang hinog nga prutas para sa snack"
+            },
+            {
+              "front": "prepared beef tacos for lunch",
+              "back": "nag-andam nga beef tacos alang sa paniudto"
+            },
+            {
+              "front": "whipped up cream for dessert",
+              "back": "whipped cream alang sa dessert"
+            },
+            {
+              "front": "mixed salad ingredients for picnic",
+              "back": "sinagol nga mga sangkap sa salad alang sa piknik"
+            },
+            {
+              "front": "served hot pizza for dinner",
+              "back": "nag-alagad sa init nga pizza alang sa panihapon"
+            },
+            {
+              "front": "made a smoothie this morning",
+              "back": "naghimo ug smoothie karong buntaga"
+            },
+            {
+              "front": "opened cold beer after work",
+              "back": "nagbukas sa bugnaw nga beer pagkahuman sa trabaho"
+            },
+            {
+              "front": "shared chocolate dessert with friends",
+              "back": "mipakigbahin sa chocolate dessert uban sa mga higala"
+            },
+            {
+              "front": "brought vegetable snacks for party",
+              "back": "nagdala ug utanon nga snacks para sa party"
+            },
+            {
+              "front": "washed salad greens before serving",
+              "back": "gihugasan nga salad greens sa wala pa mag-alagad"
+            },
+            {
+              "front": "sliced warm bread for sandwiches",
+              "back": "hiniwa nga mainit nga tinapay alang sa mga sandwich"
+            },
+            {
+              "front": "chopped fragrant herbs for seasoning",
+              "back": "tinadtad nga humot nga mga utanon alang sa panimpla"
+            },
+            {
+              "front": "scooped vanilla ice cream tonight",
+              "back": "scooped vanilla ice cream karong gabii"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "ate fresh baked bread with butter",
+              "back": "mikaon sa bag-ong linuto nga pan nga adunay mantekilya"
+            },
+            {
+              "front": "drank cold refreshing lemonade on patio",
+              "back": "miinom og bugnaw nga makapapresko nga limonada sa patio"
+            },
+            {
+              "front": "served delicious hot soup to guests",
+              "back": "nag-alagad sa lamian nga init nga sabaw sa mga bisita"
+            },
+            {
+              "front": "baked a chocolate cake for party",
+              "back": "nagluto ug chocolate cake para sa party"
+            },
+            {
+              "front": "cooked spicy grilled chicken with vegetables",
+              "back": "linuto nga halang nga sinugba nga manok nga adunay mga utanon"
+            },
+            {
+              "front": "sipped strong black coffee in morning",
+              "back": "naghigop og kusog nga itom nga kape sa buntag"
+            },
+            {
+              "front": "made homemade strawberry jam from berries",
+              "back": "naghimo sa homemade strawberry jam gikan sa mga berry"
+            },
+            {
+              "front": "grilled tender salmon fillet with lemon",
+              "back": "sinugba nga malumo nga salmon fillet nga adunay lemon"
+            },
+            {
+              "front": "fried two sunny-side eggs for breakfast",
+              "back": "pinirito ang duha ka sunny-side nga itlog para sa pamahaw"
+            },
+            {
+              "front": "tasted fresh garden salad with dressing",
+              "back": "nakatilaw og lab-as nga garden salad nga adunay pagsinina"
+            },
+            {
+              "front": "enjoyed creamy pasta dish with cheese",
+              "back": "nalingaw sa creamy pasta dish nga adunay keso"
+            },
+            {
+              "front": "savored rich chocolate dessert after dinner",
+              "back": "lami nga dato nga chocolate dessert pagkahuman sa panihapon"
+            },
+            {
+              "front": "poured fresh orange juice into glass",
+              "back": "gibubo ang lab-as nga orange juice sa baso"
+            },
+            {
+              "front": "eaten seasonal ripe fruit for snack",
+              "back": "gikaon sa seasonal hinog nga prutas alang sa snack"
+            },
+            {
+              "front": "prepared spicy beef tacos with salsa",
+              "back": "nag-andam ug halang nga beef tacos nga adunay salsa"
+            },
+            {
+              "front": "whipped up light cream for dessert",
+              "back": "gibunalan ang light cream alang sa dessert"
+            },
+            {
+              "front": "mixed colorful salad ingredients for picnic",
+              "back": "gisagol nga kolor nga mga sangkap sa salad alang sa piknik"
+            },
+            {
+              "front": "served hot cheesy pizza with friends",
+              "back": "nag-alagad sa init nga cheesy pizza uban sa mga higala"
+            },
+            {
+              "front": "made a berry smoothie this morning",
+              "back": "naghimo ug berry smoothie karong buntaga"
+            },
+            {
+              "front": "opened a cold beer after work",
+              "back": "nagbukas ug bugnaw nga beer pagkahuman sa trabaho"
+            },
+            {
+              "front": "shared sweet chocolate dessert with family",
+              "back": "mipakigbahin sa tam-is nga chocolate dessert uban sa pamilya"
+            },
+            {
+              "front": "brought crunchy vegetable snacks for party",
+              "back": "nagdala ug lutoon nga utanon nga snacks para sa party"
+            },
+            {
+              "front": "washed fresh salad greens before serving",
+              "back": "gihugasan ang lab-as nga salad greens sa wala pa magsilbi"
+            },
+            {
+              "front": "tore warm crusty bread for sandwiches",
+              "back": "gigisi ang mainit nga crusty nga tinapay alang sa mga sandwich"
+            },
+            {
+              "front": "chopped fresh fragrant herbs for seasoning",
+              "back": "tinadtad nga lab-as nga humot nga mga utanon alang sa panimpla"
+            },
+            {
+              "front": "scooped vanilla ice cream for dessert",
+              "back": "scooped vanilla ice cream alang sa dessert"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "will eat bread",
+              "back": "mokaon ug pan"
+            },
+            {
+              "front": "will drink tea",
+              "back": "muinom ug tsa"
+            },
+            {
+              "front": "will bake cake",
+              "back": "magaluto ug cake"
+            },
+            {
+              "front": "will cook chicken",
+              "back": "magluto ug manok"
+            },
+            {
+              "front": "will sip coffee",
+              "back": "mohigop og kape"
+            },
+            {
+              "front": "will make jam",
+              "back": "maghimo jam"
+            },
+            {
+              "front": "will grill fish",
+              "back": "mag-ihaw ug isda"
+            },
+            {
+              "front": "will fry eggs",
+              "back": "mag fry ug itlog"
+            },
+            {
+              "front": "will taste salad",
+              "back": "makatilaw ug salad"
+            },
+            {
+              "front": "will enjoy pasta",
+              "back": "malingaw sa pasta"
+            },
+            {
+              "front": "will savor dessert",
+              "back": "makatilaw ug dessert"
+            },
+            {
+              "front": "will pour juice",
+              "back": "magbubo ug juice"
+            },
+            {
+              "front": "will eat fruit",
+              "back": "mokaon og prutas"
+            },
+            {
+              "front": "will prepare tacos",
+              "back": "mag-andam tacos"
+            },
+            {
+              "front": "will whip cream",
+              "back": "mag whip cream"
+            },
+            {
+              "front": "will mix ingredients",
+              "back": "magsagol sa mga sangkap"
+            },
+            {
+              "front": "will serve pizza",
+              "back": "magsilbi ug pizza"
+            },
+            {
+              "front": "will make smoothie",
+              "back": "maghimo ug smoothie"
+            },
+            {
+              "front": "will open beer",
+              "back": "magbukas ug beer"
+            },
+            {
+              "front": "will share dessert",
+              "back": "mag share ug dessert"
+            },
+            {
+              "front": "will bring snacks",
+              "back": "magdala ug snacks"
+            },
+            {
+              "front": "will wash vegetables",
+              "back": "manghugas ug utanon"
+            },
+            {
+              "front": "will tear bread",
+              "back": "maggisi ug pan"
+            },
+            {
+              "front": "will chop herbs",
+              "back": "magputol sa mga utanon"
+            },
+            {
+              "front": "will scoop ice",
+              "back": "mag scoop ug ice"
+            },
+            {
+              "front": "will enjoy wine",
+              "back": "malingaw sa bino"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "will enjoy sweet wine",
+              "back": "makatagamtam sa tam-is nga bino"
+            },
+            {
+              "front": "will slice fresh bread",
+              "back": "maghiwa sa lab-as nga pan"
+            },
+            {
+              "front": "will bake a cake",
+              "back": "magluto ug cake"
+            },
+            {
+              "front": "will cook delicious chicken",
+              "back": "magluto ug lamiang manok"
+            },
+            {
+              "front": "will sip hot coffee",
+              "back": "mohigop og init nga kape"
+            },
+            {
+              "front": "will make homemade jam",
+              "back": "maghimo sa homemade jam"
+            },
+            {
+              "front": "will grill tender fish",
+              "back": "mag-ihaw ug humok nga isda"
+            },
+            {
+              "front": "will fry crispy eggs",
+              "back": "magprito sa mga crispy nga itlog"
+            },
+            {
+              "front": "will taste colorful salad",
+              "back": "makatilaw ug kolor nga salad"
+            },
+            {
+              "front": "will enjoy creamy pasta",
+              "back": "makatagamtam sa creamy pasta"
+            },
+            {
+              "front": "will savor rich dessert",
+              "back": "makatilaw ug dato nga dessert"
+            },
+            {
+              "front": "will pour fresh juice",
+              "back": "ibubo ang lab-as nga juice"
+            },
+            {
+              "front": "will eat seasonal fruit",
+              "back": "mokaon sa seasonal nga prutas"
+            },
+            {
+              "front": "will prepare spicy tacos",
+              "back": "mag-andam ug halang nga tacos"
+            },
+            {
+              "front": "will whip light cream",
+              "back": "maglatigo og light cream"
+            },
+            {
+              "front": "will mix salad ingredients",
+              "back": "magsagol sa mga sangkap sa salad"
+            },
+            {
+              "front": "will serve hot pizza",
+              "back": "magsilbi nga init nga pizza"
+            },
+            {
+              "front": "will make a smoothie",
+              "back": "maghimo ug smoothie"
+            },
+            {
+              "front": "will open a beer",
+              "back": "magbukas ug beer"
+            },
+            {
+              "front": "will share sweet dessert",
+              "back": "magpaambit ug tam-is nga dessert"
+            },
+            {
+              "front": "will bring crunchy snacks",
+              "back": "magdala ug crinchy snacks"
+            },
+            {
+              "front": "will wash fresh vegetables",
+              "back": "manghugas ug presko nga utanon"
+            },
+            {
+              "front": "will chop fragrant herbs",
+              "back": "magputol sa humot nga mga utanon"
+            },
+            {
+              "front": "will scoop creamy ice",
+              "back": "mag-scoop ug creamy ice"
+            },
+            {
+              "front": "will enjoy sparkling water",
+              "back": "makatagamtam sa sparkling nga tubig"
+            },
+            {
+              "front": "will savor chocolate cake",
+              "back": "makatilaw ug chocolate cake"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "will enjoy wine with dinner",
+              "back": "malingaw sa bino uban sa panihapon"
+            },
+            {
+              "front": "will slice bread for sandwiches",
+              "back": "maghiwa sa pan para sa sandwich"
+            },
+            {
+              "front": "will bake a cake tomorrow",
+              "back": "magaluto ug cake ugma"
+            },
+            {
+              "front": "will cook chicken with herbs",
+              "back": "mag luto ug manok nga naay herbs"
+            },
+            {
+              "front": "will sip coffee every morning",
+              "back": "mohigop og kape kada buntag"
+            },
+            {
+              "front": "will make jam soon",
+              "back": "maghimo jam sa dili madugay"
+            },
+            {
+              "front": "will grill fish on barbecue",
+              "back": "mag-ihaw ug isda sa barbecue"
+            },
+            {
+              "front": "will fry eggs for breakfast",
+              "back": "mag fry og itlog para pamahaw"
+            },
+            {
+              "front": "will taste salad at lunch",
+              "back": "makatilaw og salad sa paniudto"
+            },
+            {
+              "front": "will enjoy pasta dish tonight",
+              "back": "malingaw sa pasta dish karong gabii"
+            },
+            {
+              "front": "will savor dessert later",
+              "back": "makatilaw ug dessert unya"
+            },
+            {
+              "front": "will pour juice daily",
+              "back": "magbubo ug juice kada adlaw"
+            },
+            {
+              "front": "will eat fruit daily",
+              "back": "mokaon og prutas kada adlaw"
+            },
+            {
+              "front": "will prepare tacos tonight",
+              "back": "mag-andam tacos karong gabii"
+            },
+            {
+              "front": "will whip up cream dessert",
+              "back": "muhatag ug cream dessert"
+            },
+            {
+              "front": "will mix salad ingredients for picnic",
+              "back": "magsagol sa mga sangkap sa salad para sa piknik"
+            },
+            {
+              "front": "will serve pizza today",
+              "back": "mag serve ug pizza karong adlawa"
+            },
+            {
+              "front": "will make a smoothie tomorrow",
+              "back": "maghimo ug smoothie ugma"
+            },
+            {
+              "front": "will open a beer tonight",
+              "back": "magbukas ug beer karong gabii"
+            },
+            {
+              "front": "will share dessert together",
+              "back": "mag-ambitay ug dessert"
+            },
+            {
+              "front": "will bring snacks for party",
+              "back": "magdala ug snacks para sa party"
+            },
+            {
+              "front": "will wash salad greens before serving",
+              "back": "manghugas sa salad greens sa dili pa magsilbi"
+            },
+            {
+              "front": "will chop herbs for seasoning",
+              "back": "magputol sa mga utanon alang sa panimpla"
+            },
+            {
+              "front": "will scoop ice cream",
+              "back": "mag scoop ug ice cream"
+            },
+            {
+              "front": "will enjoy water with lemon",
+              "back": "malingaw sa tubig nga adunay lemon"
+            },
+            {
+              "front": "will savor cake at party",
+              "back": "makatilaw ug cake sa party"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "will enjoy wine with dinner tonight",
+              "back": "malingaw sa bino uban sa panihapon karong gabii"
+            },
+            {
+              "front": "will slice bread for sandwiches later",
+              "back": "maghiwa sa pan para sa sandwich unya"
+            },
+            {
+              "front": "will bake a cake for dessert",
+              "back": "magaluto ug cake para sa dessert"
+            },
+            {
+              "front": "will cook chicken with herbs tomorrow",
+              "back": "mag luto ug manok ug herb"
+            },
+            {
+              "front": "will sip coffee every single morning",
+              "back": "mohigop og kape kada buntag"
+            },
+            {
+              "front": "will make jam from fresh berries",
+              "back": "maghimo jam gikan sa presko nga berries"
+            },
+            {
+              "front": "will grill fish on the barbecue",
+              "back": "mag-ihaw ug isda sa barbecue"
+            },
+            {
+              "front": "will fry eggs for breakfast tomorrow",
+              "back": "magprito ug itlog para pamahaw ugma"
+            },
+            {
+              "front": "will taste salad at lunch today",
+              "back": "makatilaw ug salad sa paniudto karon"
+            },
+            {
+              "front": "will enjoy pasta dish for dinner",
+              "back": "malingaw sa pasta dish para sa panihapon"
+            },
+            {
+              "front": "will savor dessert after the meal",
+              "back": "makatilaw og dessert human sa kaon"
+            },
+            {
+              "front": "will pour juice into the glass",
+              "back": "ibubo ang juice sa baso"
+            },
+            {
+              "front": "will eat fruit for a snack",
+              "back": "mokaon og prutas para sa snack"
+            },
+            {
+              "front": "will prepare tacos for lunch tomorrow",
+              "back": "mag-andam ug tacos alang sa paniudto ugma"
+            },
+            {
+              "front": "will whip up cream for dessert",
+              "back": "mag whip up cream para sa dessert"
+            },
+            {
+              "front": "will mix salad ingredients for picnic",
+              "back": "magsagol sa mga sangkap sa salad para sa piknik"
+            },
+            {
+              "front": "will serve pizza at the party",
+              "back": "magsilbi ug pizza sa party"
+            },
+            {
+              "front": "will make a smoothie for breakfast",
+              "back": "maghimo ug smoothie para sa pamahaw"
+            },
+            {
+              "front": "will open a beer after work",
+              "back": "mag-abli ug beer human sa trabaho"
+            },
+            {
+              "front": "will share dessert with my friends",
+              "back": "mag share ug dessert sa akong mga amigo"
+            },
+            {
+              "front": "will bring snacks for the party",
+              "back": "magdala ug snacks para sa party"
+            },
+            {
+              "front": "will wash salad greens before serving",
+              "back": "manghugas sa salad greens sa dili pa magsilbi"
+            },
+            {
+              "front": "will chop herbs for the recipe",
+              "back": "magputol sa mga utanon alang sa resipe"
+            },
+            {
+              "front": "will scoop ice cream into bowls",
+              "back": "magkuha ug ice cream sa mga panaksan"
+            },
+            {
+              "front": "will enjoy water with a lemon",
+              "back": "malingaw sa tubig nga adunay lemon"
+            },
+            {
+              "front": "will savor cake at the party",
+              "back": "makatilaw ug cake sa party"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

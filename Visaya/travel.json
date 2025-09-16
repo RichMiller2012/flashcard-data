@@ -1,0 +1,1632 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Travel",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Passport",
+              "back": "pasaporte"
+            },
+            {
+              "front": "Baggage",
+              "back": "bagahe"
+            },
+            {
+              "front": "Luggage",
+              "back": "bagahe"
+            },
+            {
+              "front": "Route",
+              "back": "rota"
+            },
+            {
+              "front": "Gate",
+              "back": "ganghaan"
+            },
+            {
+              "front": "Ticket",
+              "back": "tiket"
+            },
+            {
+              "front": "Visa",
+              "back": "bisaya"
+            },
+            {
+              "front": "Itinerary",
+              "back": "itinerary"
+            },
+            {
+              "front": "Boarding",
+              "back": "sakay"
+            },
+            {
+              "front": "Departure",
+              "back": "pagbiya"
+            },
+            {
+              "front": "Arrival",
+              "back": "pag-abot"
+            },
+            {
+              "front": "Hotel",
+              "back": "hotel"
+            },
+            {
+              "front": "Reservation",
+              "back": "reserbasyon"
+            },
+            {
+              "front": "Suitcase",
+              "back": "maleta"
+            },
+            {
+              "front": "Backpack",
+              "back": "backpack"
+            },
+            {
+              "front": "Map",
+              "back": "mapa"
+            },
+            {
+              "front": "Guidebook",
+              "back": "giya nga basahon"
+            },
+            {
+              "front": "Currency",
+              "back": "kwarta"
+            },
+            {
+              "front": "Taxi",
+              "back": "taxi"
+            },
+            {
+              "front": "Train",
+              "back": "tren"
+            },
+            {
+              "front": "Flight",
+              "back": "paglupad"
+            },
+            {
+              "front": "Car",
+              "back": "sakyanan"
+            },
+            {
+              "front": "Insurance",
+              "back": "insurance"
+            },
+            {
+              "front": "Emergency",
+              "back": "emerhensya"
+            },
+            {
+              "front": "Terminal",
+              "back": "terminal"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Carry baggage",
+              "back": "magdala ug bagahe"
+            },
+            {
+              "front": "Show passport",
+              "back": "ipakita ang pasaporte"
+            },
+            {
+              "front": "Check luggage",
+              "back": "check bagahe"
+            },
+            {
+              "front": "Board flight",
+              "back": "sakay sa paglupad"
+            },
+            {
+              "front": "Book hotel",
+              "back": "libro hotel"
+            },
+            {
+              "front": "Purchase ticket",
+              "back": "pagpalit og tiket"
+            },
+            {
+              "front": "Hold map",
+              "back": "gunit sa mapa"
+            },
+            {
+              "front": "Navigate route",
+              "back": "ruta sa pag-navigate"
+            },
+            {
+              "front": "Pack suitcase",
+              "back": "putos sa maleta"
+            },
+            {
+              "front": "Show visa",
+              "back": "ipakita visa"
+            },
+            {
+              "front": "Find gate",
+              "back": "pangitag gate"
+            },
+            {
+              "front": "Reserve seat",
+              "back": "reserba nga lingkuranan"
+            },
+            {
+              "front": "Check-in online",
+              "back": "check-in online"
+            },
+            {
+              "front": "Purchase insurance",
+              "back": "pagpalit insurance"
+            },
+            {
+              "front": "Locate terminal",
+              "back": "pangitaa ang terminal"
+            },
+            {
+              "front": "Exchange currency",
+              "back": "pagbaylo sa kuwarta"
+            },
+            {
+              "front": "Ride taxi",
+              "back": "sakay ug taxi"
+            },
+            {
+              "front": "Catch train",
+              "back": "pagdakop sa tren"
+            },
+            {
+              "front": "Board bus",
+              "back": "sakay sa bus"
+            },
+            {
+              "front": "Navigate airport",
+              "back": "navigate sa airport"
+            },
+            {
+              "front": "Handle baggage",
+              "back": "pagdumala sa mga bagahe"
+            },
+            {
+              "front": "Review itinerary",
+              "back": "review itinerary"
+            },
+            {
+              "front": "Check departure",
+              "back": "susiha ang pagbiya"
+            },
+            {
+              "front": "Confirm reservation",
+              "back": "kumpirmahi ang reserbasyon"
+            },
+            {
+              "front": "Use guidebook",
+              "back": "gamita ang guidebook"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I carry baggage",
+              "back": "nagdala kog bagahe"
+            },
+            {
+              "front": "He shows passport",
+              "back": "nagpakita siya ug passport"
+            },
+            {
+              "front": "She checks luggage",
+              "back": "iyang gisusi ang mga bagahe"
+            },
+            {
+              "front": "They board flight",
+              "back": "sakay sila sa flight"
+            },
+            {
+              "front": "We book hotel",
+              "back": "nagbook mi ug hotel"
+            },
+            {
+              "front": "You purchase ticket",
+              "back": "mupalit ka ug ticket"
+            },
+            {
+              "front": "I hold map",
+              "back": "naa koy mapa"
+            },
+            {
+              "front": "He navigates route",
+              "back": "nag-navigate siya sa ruta"
+            },
+            {
+              "front": "She packs suitcase",
+              "back": "giputos niya ang maleta"
+            },
+            {
+              "front": "They show visa",
+              "back": "nagpakita sila ug visa"
+            },
+            {
+              "front": "We find gate",
+              "back": "nangita mig gate"
+            },
+            {
+              "front": "You reserve seat",
+              "back": "reserve ka ug seat"
+            },
+            {
+              "front": "I check-in online",
+              "back": "nag check-in ko online"
+            },
+            {
+              "front": "He purchases insurance",
+              "back": "mupalit siya ug insurance"
+            },
+            {
+              "front": "She locates terminal",
+              "back": "iyang gipangita ang terminal"
+            },
+            {
+              "front": "They exchange currency",
+              "back": "nagbaylo silag kuwarta"
+            },
+            {
+              "front": "We ride taxi",
+              "back": "sakay mi ug taxi"
+            },
+            {
+              "front": "You catch train",
+              "back": "mosakay ka ug tren"
+            },
+            {
+              "front": "I board bus",
+              "back": "sakay ko sa bus"
+            },
+            {
+              "front": "He navigates airport",
+              "back": "nag-navigate siya sa airport"
+            },
+            {
+              "front": "She handles baggage",
+              "back": "siya nagdumala sa mga bagahe"
+            },
+            {
+              "front": "They review itinerary",
+              "back": "gi-review nila ang itinerary"
+            },
+            {
+              "front": "We check departure",
+              "back": "among gisusi ang paglarga"
+            },
+            {
+              "front": "You confirm reservation",
+              "back": "gikumpirma nimo ang reserbasyon"
+            },
+            {
+              "front": "I use guidebook",
+              "back": "gigamit nako ang guidebook"
+            },
+            {
+              "front": "He travels abroad",
+              "back": "mobiyahe siya sa gawas sa nasud"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I carry my baggage",
+              "back": "dala nako akong bagahe"
+            },
+            {
+              "front": "He shows his passport",
+              "back": "gipakita niya iyang passport"
+            },
+            {
+              "front": "She checks her luggage",
+              "back": "iyang gisusi ang iyang bagahe"
+            },
+            {
+              "front": "They board the flight",
+              "back": "sakay sila sa flight"
+            },
+            {
+              "front": "We book a hotel",
+              "back": "nag book mi ug hotel"
+            },
+            {
+              "front": "You purchase your ticket",
+              "back": "mupalit ka sa imong ticket"
+            },
+            {
+              "front": "I hold the map",
+              "back": "akong gigunitan ang mapa"
+            },
+            {
+              "front": "He navigates the route",
+              "back": "nag-navigate siya sa ruta"
+            },
+            {
+              "front": "She packs her suitcase",
+              "back": "giputos niya ang iyang maleta"
+            },
+            {
+              "front": "They show their visa",
+              "back": "gipakita nila ang ilang visa"
+            },
+            {
+              "front": "We find the gate",
+              "back": "pangitaon namo ang gate"
+            },
+            {
+              "front": "You reserve your seat",
+              "back": "reserve ka sa imong lingkuranan"
+            },
+            {
+              "front": "I check-in online",
+              "back": "nag check-in ko online"
+            },
+            {
+              "front": "He purchases travel insurance",
+              "back": "mopalit siya og travel insurance"
+            },
+            {
+              "front": "She locates the terminal",
+              "back": "iyang gipangita ang terminal"
+            },
+            {
+              "front": "They exchange foreign currency",
+              "back": "nagbaylo silag langyaw nga kuwarta"
+            },
+            {
+              "front": "We ride a taxi",
+              "back": "sakay mi ug taxi"
+            },
+            {
+              "front": "You catch the train",
+              "back": "mosakay ka sa tren"
+            },
+            {
+              "front": "I board the bus",
+              "back": "sakay ko sa bus"
+            },
+            {
+              "front": "He navigates the airport",
+              "back": "nag-navigate siya sa airport"
+            },
+            {
+              "front": "She handles her baggage",
+              "back": "siya nagkupot sa iyang bagahe"
+            },
+            {
+              "front": "They review the itinerary",
+              "back": "gi-review nila ang itinerary"
+            },
+            {
+              "front": "We check departure time",
+              "back": "atong susihon ang oras sa paggikan"
+            },
+            {
+              "front": "You confirm the reservation",
+              "back": "gikumpirma nimo ang reserbasyon"
+            },
+            {
+              "front": "I use a guidebook",
+              "back": "migamit ko ug guidebook"
+            },
+            {
+              "front": "He travels abroad frequently",
+              "back": "kanunay siyang mobiyahe sa gawas sa nasud"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I carry my baggage daily",
+              "back": "Gidala nako ang akong bagahe kada adlaw"
+            },
+            {
+              "front": "He shows his passport clearly",
+              "back": "iyang gipakita nga klaro ang iyang pasaporte"
+            },
+            {
+              "front": "She checks her luggage thoroughly",
+              "back": "gisusi niya pag-ayo ang iyang bagahe"
+            },
+            {
+              "front": "They board the flight together",
+              "back": "dungan sila nga nagsakay sa flight"
+            },
+            {
+              "front": "We book a hotel room",
+              "back": "nagbook mi ug hotel room"
+            },
+            {
+              "front": "You purchase your ticket online",
+              "back": "pagpalit nimo sa imong tiket online"
+            },
+            {
+              "front": "I hold the map carefully",
+              "back": "gigunitan nako pag-ayo ang mapa"
+            },
+            {
+              "front": "He navigates the route efficiently",
+              "back": "maayo ang iyang pag-navigate sa ruta"
+            },
+            {
+              "front": "She packs her suitcase neatly",
+              "back": "giputos niyag maayo ang iyang maleta"
+            },
+            {
+              "front": "They show their visa promptly",
+              "back": "ipakita dayon nila ang ilang visa"
+            },
+            {
+              "front": "We find the gate quickly",
+              "back": "pangitaon dayon namo ang gate"
+            },
+            {
+              "front": "You reserve your seat early",
+              "back": "mag reserve ka ug lingkoranan sayo"
+            },
+            {
+              "front": "I check-in online easily",
+              "back": "dali ra ko mag check-in online"
+            },
+            {
+              "front": "He purchases travel insurance now",
+              "back": "nagpalit siya og travel insurance karon"
+            },
+            {
+              "front": "She locates the terminal swiftly",
+              "back": "iyang gipangita dayon ang terminal"
+            },
+            {
+              "front": "They exchange foreign currency safely",
+              "back": "luwas silang nagbaylo ug langyaw nga kuwarta"
+            },
+            {
+              "front": "We ride a taxi together",
+              "back": "dungan mig sakay ug taxi"
+            },
+            {
+              "front": "You catch the train on time",
+              "back": "makasakay ka sa tren sa oras"
+            },
+            {
+              "front": "I board the bus daily",
+              "back": "sakay ko sa bus kada adlaw"
+            },
+            {
+              "front": "He navigates the airport smoothly",
+              "back": "hapsay ang iyang paglawig sa airport"
+            },
+            {
+              "front": "She handles her baggage efficiently",
+              "back": "maayo niyang pagdumala ang iyang mga bagahe"
+            },
+            {
+              "front": "They review the itinerary carefully",
+              "back": "girepaso nila pag-ayo ang itinerary"
+            },
+            {
+              "front": "We check departure time regularly",
+              "back": "kanunay natong susihon ang oras sa paggikan"
+            },
+            {
+              "front": "You confirm the reservation promptly",
+              "back": "gikumpirma nimo ang reserbasyon dayon"
+            },
+            {
+              "front": "I use a guidebook effectively",
+              "back": "epektibo kong naggamit ug guidebook"
+            },
+            {
+              "front": "He travels abroad frequently now",
+              "back": "kanunay siyang mobiyahe sa gawas sa nasud karon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I carry my baggage every day",
+              "back": "Gidala nako ang akong bagahe kada adlaw"
+            },
+            {
+              "front": "He shows his passport at gate",
+              "back": "gipakita niya iyang passport sa gate"
+            },
+            {
+              "front": "She checks her luggage at counter",
+              "back": "Gisusi niya ang iyang bagahe sa counter"
+            },
+            {
+              "front": "They board the flight together now",
+              "back": "dungan na sila sa byahe"
+            },
+            {
+              "front": "We book a hotel room online",
+              "back": "nag-book kami og kwarto sa hotel online"
+            },
+            {
+              "front": "You purchase your ticket online now",
+              "back": "pagpalit ka sa imong tiket online karon"
+            },
+            {
+              "front": "I hold the map carefully today",
+              "back": "Gigunitan nako pag-ayo ang mapa karon"
+            },
+            {
+              "front": "He navigates the route efficiently now",
+              "back": "maayo ang iyang pag-navigate sa ruta karon"
+            },
+            {
+              "front": "She packs her suitcase neatly today",
+              "back": "giputos niyag maayo ang iyang maleta karon"
+            },
+            {
+              "front": "They show their visa promptly now",
+              "back": "ipakita dayon nila ang ilang visa karon"
+            },
+            {
+              "front": "We find the gate quickly now",
+              "back": "pangitaon dayon namo ang gate karon"
+            },
+            {
+              "front": "You reserve your seat early today",
+              "back": "sayo nga nagpareserba sa imong lingkuranan karon"
+            },
+            {
+              "front": "I check-in online easily now",
+              "back": "dali ra ko mag-check-in online karon"
+            },
+            {
+              "front": "He purchases travel insurance today now",
+              "back": "nagpalit siya og travel insurance karon"
+            },
+            {
+              "front": "She locates the terminal swiftly today",
+              "back": "iyang gipangita dayon ang terminal karon"
+            },
+            {
+              "front": "They exchange foreign currency safely now",
+              "back": "luwas na sila nga nagbaylo ug langyaw nga kuwarta karon"
+            },
+            {
+              "front": "We ride a taxi together now",
+              "back": "dungan mig sakay ug taxi"
+            },
+            {
+              "front": "You catch the train on time",
+              "back": "makasakay ka sa tren sa oras"
+            },
+            {
+              "front": "I board the bus daily now",
+              "back": "Nagsakay ko sa bus adlaw-adlaw karon"
+            },
+            {
+              "front": "He navigates the airport smoothly now",
+              "back": "hapsay na ang iyang paglawig sa airport karon"
+            },
+            {
+              "front": "She handles her baggage efficiently now",
+              "back": "maayo ang iyang pagdumala sa iyang bagahe karon"
+            },
+            {
+              "front": "They review the itinerary carefully now",
+              "back": "girepaso nila pag-ayo ang itinerary karon"
+            },
+            {
+              "front": "We check departure time regularly now",
+              "back": "Kanunay namong susihon ang oras sa paggikan karon"
+            },
+            {
+              "front": "You confirm the reservation promptly now",
+              "back": "imong gikumpirma dayon ang reserbasyon karon"
+            },
+            {
+              "front": "I use a guidebook effectively now",
+              "back": "epektibo nakong gigamit ang guidebook karon"
+            },
+            {
+              "front": "He travels abroad frequently now now",
+              "back": "kanunay siya mobiyahe sa gawas sa nasud karon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Carried baggage",
+              "back": "dala nga bagahe"
+            },
+            {
+              "front": "Showed passport",
+              "back": "nagpakita ug pasaporte"
+            },
+            {
+              "front": "Checked luggage",
+              "back": "gisusi nga bagahe"
+            },
+            {
+              "front": "Boarded flight",
+              "back": "misakay sa paglupad"
+            },
+            {
+              "front": "Booked hotel",
+              "back": "gi-book nga hotel"
+            },
+            {
+              "front": "Purchased ticket",
+              "back": "gipalit nga tiket"
+            },
+            {
+              "front": "Held map",
+              "back": "gihuptan nga mapa"
+            },
+            {
+              "front": "Navigated route",
+              "back": "gi-navigate nga ruta"
+            },
+            {
+              "front": "Packed suitcase",
+              "back": "giputos nga maleta"
+            },
+            {
+              "front": "Showed visa",
+              "back": "nagpakita ug visa"
+            },
+            {
+              "front": "Found gate",
+              "back": "nakit-an nga gate"
+            },
+            {
+              "front": "Reserved seat",
+              "back": "gireserba nga lingkuranan"
+            },
+            {
+              "front": "Checked-in online",
+              "back": "nag-check-in online"
+            },
+            {
+              "front": "Purchased insurance",
+              "back": "gipalit nga insurance"
+            },
+            {
+              "front": "Located terminal",
+              "back": "nahimutang terminal"
+            },
+            {
+              "front": "Exchanged currency",
+              "back": "gibayloan ug kuwarta"
+            },
+            {
+              "front": "Rode taxi",
+              "back": "pula nga taxi"
+            },
+            {
+              "front": "Caught train",
+              "back": "nasakpan nga tren"
+            },
+            {
+              "front": "Boarded bus",
+              "back": "misakay sa bus"
+            },
+            {
+              "front": "Navigated airport",
+              "back": "gi-navigate nga airport"
+            },
+            {
+              "front": "Handled baggage",
+              "back": "gidumala nga bagahe"
+            },
+            {
+              "front": "Reviewed itinerary",
+              "back": "gisusi nga itinerary"
+            },
+            {
+              "front": "Checked departure",
+              "back": "gisusi ang pagbiya"
+            },
+            {
+              "front": "Confirmed reservation",
+              "back": "gikumpirma nga reserbasyon"
+            },
+            {
+              "front": "Used guidebook",
+              "back": "gigamit nga guidebook"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I carried baggage",
+              "back": "nagdala kog bagahe"
+            },
+            {
+              "front": "He showed passport",
+              "back": "nagpakita siyag passport"
+            },
+            {
+              "front": "She checked luggage",
+              "back": "iyang gisusi ang bagahe"
+            },
+            {
+              "front": "They boarded flight",
+              "back": "misakay sila ug flight"
+            },
+            {
+              "front": "We booked hotel",
+              "back": "nagbook mi ug hotel"
+            },
+            {
+              "front": "You purchased ticket",
+              "back": "nakapalit ka ug ticket"
+            },
+            {
+              "front": "I held map",
+              "back": "gigunitan nako ang mapa"
+            },
+            {
+              "front": "He navigated route",
+              "back": "nag-navigate siya sa ruta"
+            },
+            {
+              "front": "She packed suitcase",
+              "back": "giputos niya ang maleta"
+            },
+            {
+              "front": "They showed visa",
+              "back": "nagpakita sila ug visa"
+            },
+            {
+              "front": "We found gate",
+              "back": "nakit-an namo ang gate"
+            },
+            {
+              "front": "You reserved seat",
+              "back": "nag reserve ka ug seat"
+            },
+            {
+              "front": "I checked-in online",
+              "back": "nag check-in ko online"
+            },
+            {
+              "front": "He purchased insurance",
+              "back": "nipalit siyag insurance"
+            },
+            {
+              "front": "She located terminal",
+              "back": "naa siyay terminal"
+            },
+            {
+              "front": "They exchanged currency",
+              "back": "nagbaylo silag kuwarta"
+            },
+            {
+              "front": "We rode taxi",
+              "back": "nisakay mi ug taxi"
+            },
+            {
+              "front": "You caught train",
+              "back": "nagsakay ka sa tren"
+            },
+            {
+              "front": "I boarded bus",
+              "back": "nisakay kog bus"
+            },
+            {
+              "front": "He navigated airport",
+              "back": "nag-navigate siya sa airport"
+            },
+            {
+              "front": "She handled baggage",
+              "back": "iyang gikuptan ang mga bagahe"
+            },
+            {
+              "front": "They reviewed itinerary",
+              "back": "gi-review nila ang itinerary"
+            },
+            {
+              "front": "We checked departure",
+              "back": "gisusi namo ang paglarga"
+            },
+            {
+              "front": "You confirmed reservation",
+              "back": "gikumpirma nimo ang reserbasyon"
+            },
+            {
+              "front": "I used guidebook",
+              "back": "migamit kog guidebook"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I carried my baggage",
+              "back": "gidala nako akong bagahe"
+            },
+            {
+              "front": "He showed his passport",
+              "back": "iyang gipakita ang iyang passport"
+            },
+            {
+              "front": "She checked her luggage",
+              "back": "gisusi niya ang iyang bagahe"
+            },
+            {
+              "front": "They boarded the flight",
+              "back": "misakay sila sa ayroplano"
+            },
+            {
+              "front": "We booked a hotel",
+              "back": "nag-book mi ug hotel"
+            },
+            {
+              "front": "You purchased your ticket",
+              "back": "nakapalit ka sa imong ticket"
+            },
+            {
+              "front": "I held the map",
+              "back": "gigunitan nako ang mapa"
+            },
+            {
+              "front": "He navigated the route",
+              "back": "miagi siya sa rota"
+            },
+            {
+              "front": "She packed her suitcase",
+              "back": "giputos niya ang iyang maleta"
+            },
+            {
+              "front": "They showed their visa",
+              "back": "gipakita nila ang ilang visa"
+            },
+            {
+              "front": "We found the gate",
+              "back": "nakit-an namo ang gate"
+            },
+            {
+              "front": "You reserved your seat",
+              "back": "nagpareserba ka sa imong lingkuranan"
+            },
+            {
+              "front": "I checked-in online",
+              "back": "nag check-in ko online"
+            },
+            {
+              "front": "He purchased travel insurance",
+              "back": "mipalit siya og travel insurance"
+            },
+            {
+              "front": "She located the terminal",
+              "back": "nakit-an niya ang terminal"
+            },
+            {
+              "front": "They exchanged foreign currency",
+              "back": "nagbaylo silag langyaw nga kuwarta"
+            },
+            {
+              "front": "We rode a taxi",
+              "back": "nisakay mi ug taxi"
+            },
+            {
+              "front": "You caught the train",
+              "back": "nasakpan nimo ang tren"
+            },
+            {
+              "front": "I boarded the bus",
+              "back": "misakay ko sa bus"
+            },
+            {
+              "front": "He navigated the airport",
+              "back": "milawig siya sa airport"
+            },
+            {
+              "front": "She handled her baggage",
+              "back": "gikuptan niya ang iyang bagahe"
+            },
+            {
+              "front": "They reviewed the itinerary",
+              "back": "girepaso nila ang itinerary"
+            },
+            {
+              "front": "We checked departure time",
+              "back": "among gisusi ang oras sa paglarga"
+            },
+            {
+              "front": "You confirmed the reservation",
+              "back": "gikumpirma nimo ang reserbasyon"
+            },
+            {
+              "front": "I used a guidebook",
+              "back": "migamit ko ug guidebook"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I carried my baggage yesterday",
+              "back": "Gidala nako ang akong bagahe kagahapon"
+            },
+            {
+              "front": "He showed his passport clearly",
+              "back": "tin-aw niyang gipakita ang iyang pasaporte"
+            },
+            {
+              "front": "She checked her luggage thoroughly",
+              "back": "gisusi niya pag-ayo ang iyang bagahe"
+            },
+            {
+              "front": "They boarded the flight together",
+              "back": "nagdungan silag sakay sa flight"
+            },
+            {
+              "front": "We booked a hotel room",
+              "back": "nag-book mi ug kwarto sa hotel"
+            },
+            {
+              "front": "You purchased your ticket online",
+              "back": "nagpalit ka sa imong tiket online"
+            },
+            {
+              "front": "I held the map carefully",
+              "back": "Gigunitan nako pag-ayo ang mapa"
+            },
+            {
+              "front": "He navigated the route efficiently",
+              "back": "maayo ang iyang paglawig sa ruta"
+            },
+            {
+              "front": "She packed her suitcase neatly",
+              "back": "giputos niyag maayo ang iyang maleta"
+            },
+            {
+              "front": "They showed their visa promptly",
+              "back": "gipakita dayon nila ang ilang visa"
+            },
+            {
+              "front": "We found the gate quickly",
+              "back": "nakit-an dayon namo ang gate"
+            },
+            {
+              "front": "You reserved your seat early",
+              "back": "sayo nga nagpareserba sa imong lingkuranan"
+            },
+            {
+              "front": "I checked-in online easily",
+              "back": "dali ra ko nag check-in online"
+            },
+            {
+              "front": "He purchased travel insurance now",
+              "back": "nipalit siyag travel insurance karon"
+            },
+            {
+              "front": "She located the terminal swiftly",
+              "back": "dali niyang nakit-an ang terminal"
+            },
+            {
+              "front": "They exchanged foreign currency safely",
+              "back": "luwas silang nagbaylo ug langyaw nga kuwarta"
+            },
+            {
+              "front": "We rode a taxi together",
+              "back": "dungan mig sakay ug taxi"
+            },
+            {
+              "front": "You caught the train on time",
+              "back": "nakasakay ka sa tren sa oras"
+            },
+            {
+              "front": "I boarded the bus daily",
+              "back": "nagsakay ko sa bus kada adlaw"
+            },
+            {
+              "front": "He navigated the airport smoothly",
+              "back": "hapsay ang iyang paglawig sa airport"
+            },
+            {
+              "front": "She handled her baggage efficiently",
+              "back": "maayo niyang gidumala ang iyang mga bagahe"
+            },
+            {
+              "front": "They reviewed the itinerary carefully",
+              "back": "gisusi nila pag-ayo ang itinerary"
+            },
+            {
+              "front": "We checked departure time regularly",
+              "back": "regular namong gisusi ang oras sa paggikan"
+            },
+            {
+              "front": "You confirmed the reservation promptly",
+              "back": "gikumpirma dayon nimo ang reserbasyon"
+            },
+            {
+              "front": "I used a guidebook effectively",
+              "back": "migamit ko ug guidebook nga epektibo"
+            },
+            {
+              "front": "He traveled abroad frequently now",
+              "back": "kanunay siyang mobiyahe sa gawas sa nasud karon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I traveled to the main airport",
+              "back": "mibiyahe ko sa main airport"
+            },
+            {
+              "front": "He renewed his passport last year",
+              "back": "nag renew siya sa iyang passport last year"
+            },
+            {
+              "front": "She reserved her seat in advance",
+              "back": "nagpareserba siya daan sa iyang lingkoranan"
+            },
+            {
+              "front": "They packed their suitcase last night",
+              "back": "giputos nila ang ilang maleta kagabii"
+            },
+            {
+              "front": "We booked our hotel room early",
+              "back": "Sayo mi nagpa-book sa among kwarto sa hotel"
+            },
+            {
+              "front": "You purchased your ticket online yesterday",
+              "back": "nakapalit ka sa imong tiket online kagahapon"
+            },
+            {
+              "front": "I held the map carefully yesterday",
+              "back": "Gigunitan nako pag-ayo ang mapa kagahapon"
+            },
+            {
+              "front": "He navigated the route efficiently yesterday",
+              "back": "maayo ang iyang paglawig sa rota kagahapon"
+            },
+            {
+              "front": "She checked her luggage thoroughly last night",
+              "back": "gisusi niya pag-ayo ang iyang bagahe kagabii"
+            },
+            {
+              "front": "They showed their visa at gate",
+              "back": "gipakita nila ang ilang visa sa gate"
+            },
+            {
+              "front": "We found the gate quickly yesterday",
+              "back": "dali namong nakit-an ang gate gahapon"
+            },
+            {
+              "front": "You reserved your seat early today",
+              "back": "sayo nga nagpareserba sa imong lingkuranan karon"
+            },
+            {
+              "front": "I checked-in online easily yesterday",
+              "back": "dali ra ko nag-check-in online gahapon"
+            },
+            {
+              "front": "He purchased travel insurance last month",
+              "back": "nipalit siyag travel insurance sa miaging buwan"
+            },
+            {
+              "front": "She located the terminal swiftly yesterday",
+              "back": "Dali niyang nakit-an ang terminal kagahapon"
+            },
+            {
+              "front": "They exchanged foreign currency safely yesterday",
+              "back": "luwas silang nagbaylo ug langyaw nga kuwarta kagahapon"
+            },
+            {
+              "front": "We rode a taxi together yesterday",
+              "back": "dungan mig sakay ug taxi gahapon"
+            },
+            {
+              "front": "You caught the train on time",
+              "back": "nakasakay ka sa tren sa oras"
+            },
+            {
+              "front": "I boarded the bus daily yesterday",
+              "back": "Nagsakay ko sa bus adlaw-adlaw gahapon"
+            },
+            {
+              "front": "He navigated the airport smoothly yesterday",
+              "back": "hapsay ang iyang paglawig sa airport kagahapon"
+            },
+            {
+              "front": "She handled her baggage very efficiently",
+              "back": "maayo kaayo niyang gidumala ang iyang mga bagahe"
+            },
+            {
+              "front": "They reviewed the itinerary carefully yesterday",
+              "back": "gisusi nila pag-ayo ang itinerary kagahapon"
+            },
+            {
+              "front": "We checked departure time regularly yesterday",
+              "back": "regular namong gisusi ang oras sa paglarga kagahapon"
+            },
+            {
+              "front": "You confirmed the hotel reservation promptly",
+              "back": "gikumpirma dayon nimo ang reserbasyon sa hotel"
+            },
+            {
+              "front": "I used a guidebook effectively yesterday",
+              "back": "migamit ko og guidebook nga epektibo kagahapon"
+            },
+            {
+              "front": "He traveled abroad frequently this year",
+              "back": "kanunay siyang mobiyahe sa gawas sa nasud karong tuiga"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I will travel",
+              "back": "mobiyahe ko"
+            },
+            {
+              "front": "He will fly",
+              "back": "molupad siya"
+            },
+            {
+              "front": "She will book",
+              "back": "magpabook siya"
+            },
+            {
+              "front": "They will pack",
+              "back": "sila magputos"
+            },
+            {
+              "front": "We will navigate",
+              "back": "kita mag-navigate"
+            },
+            {
+              "front": "You will reserve",
+              "back": "magpareserve ka"
+            },
+            {
+              "front": "I will carry",
+              "back": "akong dad-on"
+            },
+            {
+              "front": "He will show",
+              "back": "ipakita niya"
+            },
+            {
+              "front": "She will check",
+              "back": "iyang susihon"
+            },
+            {
+              "front": "They will board",
+              "back": "manakay sila"
+            },
+            {
+              "front": "We will book",
+              "back": "magpabook mi"
+            },
+            {
+              "front": "You will purchase",
+              "back": "mopalit ka"
+            },
+            {
+              "front": "I will hold",
+              "back": "akong gunitan"
+            },
+            {
+              "front": "He will navigate",
+              "back": "siya molawig"
+            },
+            {
+              "front": "She will pack",
+              "back": "siya magputos"
+            },
+            {
+              "front": "They will show",
+              "back": "sila magpakita"
+            },
+            {
+              "front": "We will find",
+              "back": "atong pangitaon"
+            },
+            {
+              "front": "You will reserve",
+              "back": "magpareserve ka"
+            },
+            {
+              "front": "I will check-in",
+              "back": "mag check-in ko"
+            },
+            {
+              "front": "He will purchase",
+              "back": "mopalit siya"
+            },
+            {
+              "front": "She will locate",
+              "back": "pangitaon niya"
+            },
+            {
+              "front": "They will exchange",
+              "back": "magbaylo sila"
+            },
+            {
+              "front": "We will ride",
+              "back": "manakay mi"
+            },
+            {
+              "front": "You will catch",
+              "back": "dakpon nimo"
+            },
+            {
+              "front": "I will board",
+              "back": "mosakay ko"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will travel abroad",
+              "back": "mobiyahe ko sa abroad"
+            },
+            {
+              "front": "He will fly tomorrow",
+              "back": "molupad siya ugma"
+            },
+            {
+              "front": "She will book tickets",
+              "back": "mag-book siya og mga tiket"
+            },
+            {
+              "front": "They will pack suitcases",
+              "back": "magputos sila ug maleta"
+            },
+            {
+              "front": "We will navigate the route",
+              "back": "mag-navigate kami sa ruta"
+            },
+            {
+              "front": "You will reserve seats early",
+              "back": "mag pa reserve ka ug seat sayo"
+            },
+            {
+              "front": "I will carry luggage daily",
+              "back": "magdala kog bagahe kada adlaw"
+            },
+            {
+              "front": "He will show passport soon",
+              "back": "magpakita siyag passport sa dili madugay"
+            },
+            {
+              "front": "She will check luggage later",
+              "back": "siya magsusi sa bagahe unya"
+            },
+            {
+              "front": "They will board the flight",
+              "back": "mosakay sila sa flight"
+            },
+            {
+              "front": "We will book a hotel",
+              "back": "magpabook mi ug hotel"
+            },
+            {
+              "front": "You will purchase tickets online",
+              "back": "mupalit ka ug ticket online"
+            },
+            {
+              "front": "I will hold the map",
+              "back": "akong gunitan ang mapa"
+            },
+            {
+              "front": "He will navigate the city",
+              "back": "siya molawig sa siyudad"
+            },
+            {
+              "front": "She will pack her bags",
+              "back": "siya maghipos sa iyang mga bag"
+            },
+            {
+              "front": "They will show their visas",
+              "back": "ipakita nila ang ilang mga bisaya"
+            },
+            {
+              "front": "We will find the gate",
+              "back": "pangitaon nato ang ganghaan"
+            },
+            {
+              "front": "You will reserve your seat",
+              "back": "magpareserba ka sa imong lingkuranan"
+            },
+            {
+              "front": "I will check-in online",
+              "back": "mag check-in ko online"
+            },
+            {
+              "front": "He will purchase travel insurance",
+              "back": "mopalit siya og travel insurance"
+            },
+            {
+              "front": "She will locate the terminal",
+              "back": "pangitaon niya ang terminal"
+            },
+            {
+              "front": "They will exchange currencies safely",
+              "back": "magbayloay sila og kwarta nga luwas"
+            },
+            {
+              "front": "We will ride a taxi",
+              "back": "manakay mi ug taxi"
+            },
+            {
+              "front": "You will catch the train",
+              "back": "mosakay ka sa tren"
+            },
+            {
+              "front": "I will board the bus",
+              "back": "mosakay ko sa bus"
+            },
+            {
+              "front": "He will navigate the airport",
+              "back": "mag-navigate siya sa airport"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will travel to Paris",
+              "back": "mobiyahe ko sa paris"
+            },
+            {
+              "front": "He will fly next week",
+              "back": "molupad siya sunod semana"
+            },
+            {
+              "front": "She will book her flight",
+              "back": "magpabook siya sa iyang flight"
+            },
+            {
+              "front": "They will pack their bags",
+              "back": "sila maghipos sa ilang mga bag"
+            },
+            {
+              "front": "We will navigate the route",
+              "back": "mag-navigate kami sa ruta"
+            },
+            {
+              "front": "You will reserve advance seats",
+              "back": "magpa-reserve ka ug advance seats"
+            },
+            {
+              "front": "I will carry my luggage",
+              "back": "dad-on nako akong bagahe"
+            },
+            {
+              "front": "He will show his passport soon",
+              "back": "ipakita niya ang iyang passport sa dili madugay"
+            },
+            {
+              "front": "She will check her luggage",
+              "back": "iyang susihon ang iyang bagahe"
+            },
+            {
+              "front": "They will board the flight",
+              "back": "mosakay sila sa flight"
+            },
+            {
+              "front": "We will book a hotel",
+              "back": "magbook mi ug hotel"
+            },
+            {
+              "front": "You will purchase your tickets",
+              "back": "mopalit ka sa imong mga tiket"
+            },
+            {
+              "front": "I will hold the map",
+              "back": "akong gunitan ang mapa"
+            },
+            {
+              "front": "He will navigate the city",
+              "back": "siya molawig sa siyudad"
+            },
+            {
+              "front": "She will pack her bags",
+              "back": "siya maghipos sa iyang mga bag"
+            },
+            {
+              "front": "They will show their visas",
+              "back": "ipakita nila ang ilang mga bisaya"
+            },
+            {
+              "front": "We will find the gate",
+              "back": "pangitaon nato ang ganghaan"
+            },
+            {
+              "front": "You will reserve your seat",
+              "back": "magpareserba ka sa imong lingkuranan"
+            },
+            {
+              "front": "I will check-in online easily",
+              "back": "dali ra ko mag check-in online"
+            },
+            {
+              "front": "He will purchase travel insurance",
+              "back": "mopalit siya og travel insurance"
+            },
+            {
+              "front": "She will locate the terminal",
+              "back": "pangitaon niya ang terminal"
+            },
+            {
+              "front": "They will exchange currencies now",
+              "back": "magbayloay sila ug kwarta karon"
+            },
+            {
+              "front": "We will ride a taxi",
+              "back": "manakay mi ug taxi"
+            },
+            {
+              "front": "You will catch the train",
+              "back": "mosakay ka sa tren"
+            },
+            {
+              "front": "I will board the bus",
+              "back": "mosakay ko sa bus"
+            },
+            {
+              "front": "He will navigate the airport",
+              "back": "mag-navigate siya sa airport"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will renew my passport later",
+              "back": "mag renew ko sa akong passport unya"
+            },
+            {
+              "front": "I will look at the map",
+              "back": "tan-awon ko ang mapa"
+            },
+            {
+              "front": "I will fly to another country",
+              "back": "molupad ko sa laing nasod"
+            },
+            {
+              "front": "She will book her hotel room",
+              "back": "mag-book siya sa iyang kwarto sa hotel"
+            },
+            {
+              "front": "They will pack their suitcases tomorrow",
+              "back": "ugma ilang iputos ang ilang mga maleta"
+            },
+            {
+              "front": "We will navigate the new route",
+              "back": "mag-navigate kami sa bag-ong ruta"
+            },
+            {
+              "front": "He will exchange currencies abroad",
+              "back": "magbaylo siyag kwarta sa gawas sa nasod"
+            },
+            {
+              "front": "You will check-in online soon",
+              "back": "mag-check-in ka dayon online"
+            },
+            {
+              "front": "I will reserve my seat early",
+              "back": "magpareserba ko sa akong lingkuranan og sayo"
+            },
+            {
+              "front": "She will book a flight tomorrow",
+              "back": "mag book siya ug flight ugma"
+            },
+            {
+              "front": "They will carry their luggage carefully",
+              "back": "ampingan nila ang ilang mga bagahe"
+            },
+            {
+              "front": "We will travel to Europe next year",
+              "back": "mobiyahe mi sa europe sunod tuig"
+            },
+            {
+              "front": "He will hold his boarding pass",
+              "back": "gunitan niya iyang boarding pass"
+            },
+            {
+              "front": "You will purchase travel insurance now",
+              "back": "mopalit ka ug travel insurance karon"
+            },
+            {
+              "front": "I will visit the travel agency",
+              "back": "mubisita ko sa travel agency"
+            },
+            {
+              "front": "She will take a guided tour",
+              "back": "mokuha siya og guided tour"
+            },
+            {
+              "front": "They will ride a rental car",
+              "back": "magsakay sila ug abangan nga sakyanan"
+            },
+            {
+              "front": "We will explore the new city",
+              "back": "atong susihon ang bag-ong siyudad"
+            },
+            {
+              "front": "He will show his visa documents",
+              "back": "ipakita niya iyang visa documents"
+            },
+            {
+              "front": "You will attend the departure gate",
+              "back": "motambong ka sa departure gate"
+            },
+            {
+              "front": "I will use a travel app",
+              "back": "mugamit ko ug travel app"
+            },
+            {
+              "front": "She will plan her itinerary carefully",
+              "back": "magplano siyag maayo sa iyang itinerary"
+            },
+            {
+              "front": "They will book their accommodations online",
+              "back": "mag-book sila sa ilang mga akomodasyon online"
+            },
+            {
+              "front": "We will pack our backpacks tonight",
+              "back": "atong iputos ang atong mga backpack karong gabii"
+            },
+            {
+              "front": "He will check the departure time",
+              "back": "iyang susihon ang oras sa paglarga"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

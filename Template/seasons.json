@@ -1,0 +1,532 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Seasons",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Spring", "back": "" },
+            { "front": "Summer", "back": "" },
+            { "front": "Autumn", "back": "" },
+            { "front": "Winter", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Is spring", "back": "" },
+            { "front": "Autumn leaves", "back": "" },
+            { "front": "Summer sun", "back": "" },
+            { "front": "Winter snow", "back": "" },
+            { "front": "Spring flowers", "back": "" },
+            { "front": "Summer rain", "back": "" },
+            { "front": "Autumn breeze", "back": "" },
+            { "front": "Winter chill", "back": "" },
+            { "front": "Spring growth", "back": "" },
+            { "front": "Summer heat", "back": "" },
+            { "front": "Autumn harvest", "back": "" },
+            { "front": "Winter nights", "back": "" },
+            { "front": "Spring showers", "back": "" },
+            { "front": "Summer vacation", "back": "" },
+            { "front": "Autumn colors", "back": "" },
+            { "front": "Winter wonderland", "back": "" },
+            { "front": "Spring awakening", "back": "" },
+            { "front": "Summer fun", "back": "" },
+            { "front": "Autumn festival", "back": "" },
+            { "front": "Winter sports", "back": "" },
+            { "front": "Spring cleaning", "back": "" },
+            { "front": "Summer nights", "back": "" },
+            { "front": "Autumn vibes", "back": "" },
+            { "front": "Winter days", "back": "" },
+            { "front": "Spring blossoms", "back": "" },
+            { "front": "Summer activities", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I love summer", "back": "" },
+            { "front": "He hates winter", "back": "" },
+            { "front": "She likes spring", "back": "" },
+            { "front": "They enjoy autumn", "back": "" },
+            { "front": "We celebrate summer", "back": "" },
+            { "front": "You appreciate spring", "back": "" },
+            { "front": "They dislike winter", "back": "" },
+            { "front": "I prefer autumn", "back": "" },
+            { "front": "She adores summer", "back": "" },
+            { "front": "He dislikes autumn", "back": "" },
+            { "front": "We enjoy spring", "back": "" },
+            { "front": "You love winter", "back": "" },
+            { "front": "They appreciate summer", "back": "" },
+            { "front": "I enjoy autumn", "back": "" },
+            { "front": "She prefers winter", "back": "" },
+            { "front": "He loves spring", "back": "" },
+            { "front": "We hate autumn", "back": "" },
+            { "front": "You enjoy summer", "back": "" },
+            { "front": "They like winter", "back": "" },
+            { "front": "I admire spring", "back": "" },
+            { "front": "She hates summer", "back": "" },
+            { "front": "He loves winter", "back": "" },
+            { "front": "We like autumn", "back": "" },
+            { "front": "You prefer spring", "back": "" },
+            { "front": "They adore summer", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I love summer days", "back": "" },
+            { "front": "She enjoys spring flowers", "back": "" },
+            { "front": "They hate winter cold", "back": "" },
+            { "front": "We appreciate autumn colors", "back": "" },
+            { "front": "You prefer summer sunshine", "back": "" },
+            { "front": "He admires spring blooms", "back": "" },
+            { "front": "She cherishes autumn harvests", "back": "" },
+            { "front": "They enjoy winter sports", "back": "" },
+            { "front": "I appreciate spring mornings", "back": "" },
+            { "front": "We love summer vacations", "back": "" },
+            { "front": "You dislike autumn winds", "back": "" },
+            { "front": "He prefers winter evenings", "back": "" },
+            { "front": "She enjoys summer nights", "back": "" },
+            { "front": "They love spring rain", "back": "" },
+            { "front": "I dislike winter storms", "back": "" },
+            { "front": "We cherish autumn sunsets", "back": "" },
+            { "front": "You admire spring growth", "back": "" },
+            { "front": "He enjoys summer hikes", "back": "" },
+            { "front": "She loves autumn leaves", "back": "" },
+            { "front": "They appreciate winter beauty", "back": "" },
+            { "front": "I enjoy spring walks", "back": "" },
+            { "front": "We love summer heat", "back": "" },
+            { "front": "You cherish autumn moments", "back": "" },
+            { "front": "He admires winter landscapes", "back": "" },
+            { "front": "She prefers spring mornings", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I love summer evenings", "back": "" },
+            { "front": "She enjoys spring mornings", "back": "" },
+            { "front": "They cherish autumn sunsets", "back": "" },
+            { "front": "We appreciate winter landscapes", "back": "" },
+            { "front": "You prefer spring flowers", "back": "" },
+            { "front": "He admires summer sunrises", "back": "" },
+            { "front": "She hates winter storms", "back": "" },
+            { "front": "They celebrate autumn festivals", "back": "" },
+            { "front": "I appreciate spring growth", "back": "" },
+            { "front": "We enjoy summer vacations together", "back": "" },
+            { "front": "You love autumn colors", "back": "" },
+            { "front": "He dislikes winter chills", "back": "" },
+            { "front": "She adores spring blossoms", "back": "" },
+            { "front": "They enjoy summer activities", "back": "" },
+            { "front": "I cherish autumn memories", "back": "" },
+            { "front": "We love winter nights", "back": "" },
+            { "front": "You enjoy spring walks", "back": "" },
+            { "front": "He loves summer heat", "back": "" },
+            { "front": "She appreciates autumn harvests", "back": "" },
+            { "front": "They adore winter snowflakes", "back": "" },
+            { "front": "I enjoy summer sunsets", "back": "" },
+            { "front": "We cherish spring days", "back": "" },
+            { "front": "You love autumn breezes", "back": "" },
+            { "front": "He appreciates winter nights", "back": "" },
+            { "front": "She enjoys summer nights", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I love summer warm evenings now", "back": "" },
+            { "front": "He hates winter cold weather days", "back": "" },
+            {
+              "front": "She enjoys spring blooming colorful flowers",
+              "back": ""
+            },
+            {
+              "front": "They celebrate autumn colorful falling leaves",
+              "back": ""
+            },
+            {
+              "front": "We appreciate winter snowy beautiful landscapes",
+              "back": ""
+            },
+            { "front": "You prefer spring gentle cool breezes", "back": "" },
+            {
+              "front": "Nobody enjoys winter freezing cold nights",
+              "back": ""
+            },
+            {
+              "front": "Everyone loves summer bright shining sunshine",
+              "back": ""
+            },
+            { "front": "I cherish autumn crisp fresh mornings", "back": "" },
+            {
+              "front": "He admires spring vibrant colorful blossoms",
+              "back": ""
+            },
+            { "front": "She enjoys summer hot sunny days", "back": "" },
+            { "front": "They love autumn bountiful harvest time", "back": "" },
+            { "front": "We hate winter bitter freezing cold", "back": "" },
+            { "front": "You adore spring fresh blooming flowers", "back": "" },
+            { "front": "Nobody likes winter long dark nights", "back": "" },
+            {
+              "front": "Everyone enjoys summer fun outdoor activities",
+              "back": ""
+            },
+            { "front": "I enjoy autumn walking through leaves", "back": "" },
+            { "front": "He prefers spring rain gentle showers", "back": "" },
+            { "front": "She loves summer outdoor lively events", "back": "" },
+            {
+              "front": "They appreciate autumn falling golden leaves",
+              "back": ""
+            },
+            { "front": "We enjoy winter cozy warm firesides", "back": "" },
+            { "front": "You cherish spring new green growth", "back": "" },
+            { "front": "He likes summer beach relaxing trips", "back": "" },
+            { "front": "She enjoys autumn evening peaceful walks", "back": "" },
+            {
+              "front": "They love winter holiday festive celebrations",
+              "back": ""
+            },
+            { "front": "I prefer spring warm sunny days", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Loved summer", "back": "" },
+            { "front": "Hated winter", "back": "" },
+            { "front": "Enjoyed spring", "back": "" },
+            { "front": "Appreciated autumn", "back": "" },
+            { "front": "Adored summer", "back": "" },
+            { "front": "Disliked winter", "back": "" },
+            { "front": "Cherished autumn", "back": "" },
+            { "front": "Admired spring", "back": "" },
+            { "front": "Preferred summer", "back": "" },
+            { "front": "Hated autumn", "back": "" },
+            { "front": "Loved spring", "back": "" },
+            { "front": "Enjoyed autumn", "back": "" },
+            { "front": "Appreciated winter", "back": "" },
+            { "front": "Admired summer", "back": "" },
+            { "front": "Disliked spring", "back": "" },
+            { "front": "Cherished winter", "back": "" },
+            { "front": "Adored autumn", "back": "" },
+            { "front": "Preferred spring", "back": "" },
+            { "front": "Loved winter", "back": "" },
+            { "front": "Enjoyed summer", "back": "" },
+            { "front": "Appreciated spring", "back": "" },
+            { "front": "Admired autumn", "back": "" },
+            { "front": "Disliked summer", "back": "" },
+            { "front": "Cherished spring", "back": "" },
+            { "front": "Preferred autumn", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I loved summer", "back": "" },
+            { "front": "He hated winter", "back": "" },
+            { "front": "She enjoyed spring", "back": "" },
+            { "front": "They appreciated autumn", "back": "" },
+            { "front": "We adored summer", "back": "" },
+            { "front": "You disliked winter", "back": "" },
+            { "front": "Everyone cherished autumn", "back": "" },
+            { "front": "Nobody admired spring", "back": "" },
+            { "front": "I preferred summer", "back": "" },
+            { "front": "He loved autumn", "back": "" },
+            { "front": "She enjoyed winter", "back": "" },
+            { "front": "They hated spring", "back": "" },
+            { "front": "We appreciated summer", "back": "" },
+            { "front": "You adored autumn", "back": "" },
+            { "front": "Everyone disliked winter", "back": "" },
+            { "front": "Nobody cherished spring", "back": "" },
+            { "front": "I admired autumn", "back": "" },
+            { "front": "He enjoyed summer", "back": "" },
+            { "front": "She preferred winter", "back": "" },
+            { "front": "They adored spring", "back": "" },
+            { "front": "We hated autumn", "back": "" },
+            { "front": "You loved winter", "back": "" },
+            { "front": "Everyone enjoyed spring", "back": "" },
+            { "front": "Nobody appreciated summer", "back": "" },
+            { "front": "I disliked autumn", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I loved summer days", "back": "" },
+            { "front": "She enjoyed spring mornings", "back": "" },
+            { "front": "They hated winter cold", "back": "" },
+            { "front": "We appreciated autumn colors", "back": "" },
+            { "front": "You preferred summer sunshine", "back": "" },
+            { "front": "He admired spring blooms", "back": "" },
+            { "front": "She cherished autumn harvests", "back": "" },
+            { "front": "They enjoyed winter sports", "back": "" },
+            { "front": "I appreciated spring mornings", "back": "" },
+            { "front": "We loved summer vacations", "back": "" },
+            { "front": "You disliked autumn winds", "back": "" },
+            { "front": "He preferred winter evenings", "back": "" },
+            { "front": "She enjoyed summer nights", "back": "" },
+            { "front": "They loved spring rain", "back": "" },
+            { "front": "I disliked winter storms", "back": "" },
+            { "front": "We cherished autumn sunsets", "back": "" },
+            { "front": "You admired spring growth", "back": "" },
+            { "front": "He enjoyed summer hikes", "back": "" },
+            { "front": "She loved autumn leaves", "back": "" },
+            { "front": "They appreciated winter beauty", "back": "" },
+            { "front": "I enjoyed spring walks", "back": "" },
+            { "front": "We loved summer heat", "back": "" },
+            { "front": "You cherished autumn moments", "back": "" },
+            { "front": "He admired winter landscapes", "back": "" },
+            { "front": "She preferred spring mornings", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I loved summer warm evenings", "back": "" },
+            { "front": "He hated winter cold weather", "back": "" },
+            { "front": "She enjoyed spring blooming flowers", "back": "" },
+            { "front": "They celebrated autumn colorful leaves", "back": "" },
+            { "front": "We appreciated winter snowy landscapes", "back": "" },
+            { "front": "You preferred spring gentle breezes", "back": "" },
+            { "front": "Nobody enjoyed winter freezing nights", "back": "" },
+            { "front": "Everyone loved summer shining sunshine", "back": "" },
+            { "front": "I cherished autumn crisp mornings", "back": "" },
+            { "front": "He admired spring vibrant blossoms", "back": "" },
+            { "front": "She enjoyed summer sunny days", "back": "" },
+            { "front": "They loved autumn falling leaves", "back": "" },
+            { "front": "We hated winter bitter chills", "back": "" },
+            { "front": "You adored spring fresh flowers", "back": "" },
+            { "front": "Nobody liked winter dark nights", "back": "" },
+            {
+              "front": "Everyone enjoyed summer outdoor activities",
+              "back": ""
+            },
+            { "front": "I enjoyed autumn walking through", "back": "" },
+            { "front": "He preferred spring rain showers", "back": "" },
+            { "front": "She loved summer outdoor events", "back": "" },
+            { "front": "They appreciated autumn falling leaves", "back": "" },
+            { "front": "We enjoyed winter cozy firesides", "back": "" },
+            { "front": "You cherished spring new growth", "back": "" },
+            { "front": "He liked summer beach trips", "back": "" },
+            { "front": "She enjoyed autumn peaceful walks", "back": "" },
+            { "front": "They loved winter festive celebrations", "back": "" },
+            { "front": "I preferred spring warm days", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I loved summer warm evenings now", "back": "" },
+            { "front": "He hated winter cold weather days", "back": "" },
+            {
+              "front": "She enjoyed spring blooming colorful flowers",
+              "back": ""
+            },
+            {
+              "front": "They celebrated autumn colorful falling leaves",
+              "back": ""
+            },
+            {
+              "front": "We appreciated winter snowy beautiful landscapes",
+              "back": ""
+            },
+            { "front": "You preferred spring gentle cool breezes", "back": "" },
+            {
+              "front": "Nobody enjoyed winter freezing cold nights",
+              "back": ""
+            },
+            {
+              "front": "Everyone loved summer bright shining sunshine",
+              "back": ""
+            },
+            { "front": "I cherished autumn crisp fresh mornings", "back": "" },
+            {
+              "front": "He admired spring vibrant colorful blossoms",
+              "back": ""
+            },
+            { "front": "She enjoyed summer hot sunny days", "back": "" },
+            { "front": "They loved autumn bountiful harvest time", "back": "" },
+            { "front": "We hated winter bitter freezing cold", "back": "" },
+            { "front": "You adored spring fresh blooming flowers", "back": "" },
+            { "front": "Nobody liked winter long dark nights", "back": "" },
+            {
+              "front": "Everyone enjoyed summer fun outdoor activities",
+              "back": ""
+            },
+            { "front": "I enjoyed autumn walking through leaves", "back": "" },
+            { "front": "He preferred spring rain gentle showers", "back": "" },
+            { "front": "She loved summer outdoor lively events", "back": "" },
+            {
+              "front": "They appreciated autumn falling golden leaves",
+              "back": ""
+            },
+            { "front": "We enjoyed winter cozy warm firesides", "back": "" },
+            { "front": "You cherished spring new green growth", "back": "" },
+            { "front": "He liked summer beach relaxing trips", "back": "" },
+            {
+              "front": "She enjoyed autumn evening peaceful walks",
+              "back": ""
+            },
+            {
+              "front": "They loved winter holiday festive celebrations",
+              "back": ""
+            },
+            { "front": "I preferred spring warm sunny days", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will be summer", "back": "" },
+            { "front": "Will become autumn", "back": "" },
+            { "front": "Will be winter", "back": "" },
+            { "front": "Will enjoy spring", "back": "" },
+            { "front": "Will love summer", "back": "" },
+            { "front": "Will hate winter", "back": "" },
+            { "front": "Will admire autumn", "back": "" },
+            { "front": "Will prefer spring", "back": "" },
+            { "front": "Will cherish summer", "back": "" },
+            { "front": "Will adore autumn", "back": "" },
+            { "front": "Will dislike winter", "back": "" },
+            { "front": "Will appreciate spring", "back": "" },
+            { "front": "Will adore summer", "back": "" },
+            { "front": "Will dislike autumn", "back": "" },
+            { "front": "Will admire winter", "back": "" },
+            { "front": "Will prefer summer", "back": "" },
+            { "front": "Will cherish autumn", "back": "" },
+            { "front": "Will adore winter", "back": "" },
+            { "front": "Will appreciate summer", "back": "" },
+            { "front": "Will dislike spring", "back": "" },
+            { "front": "Will admire autumn", "back": "" },
+            { "front": "Will prefer winter", "back": "" },
+            { "front": "Will cherish spring", "back": "" },
+            { "front": "Will adore summer", "back": "" },
+            { "front": "Will appreciate autumn", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I will love summer", "back": "" },
+            { "front": "He will enjoy autumn", "back": "" },
+            { "front": "She will hate winter", "back": "" },
+            { "front": "They will appreciate spring", "back": "" },
+            { "front": "We will prefer summer", "back": "" },
+            { "front": "You will admire spring", "back": "" },
+            { "front": "Everyone will love summer", "back": "" },
+            { "front": "Nobody will enjoy winter", "back": "" },
+            { "front": "I will cherish autumn", "back": "" },
+            { "front": "He will prefer winter", "back": "" },
+            { "front": "She will adore spring", "back": "" },
+            { "front": "They will hate summer", "back": "" },
+            { "front": "We will enjoy autumn", "back": "" },
+            { "front": "You will love spring", "back": "" },
+            { "front": "He will cherish summer", "back": "" },
+            { "front": "She will prefer autumn", "back": "" },
+            { "front": "They will adore winter", "back": "" },
+            { "front": "I will admire spring", "back": "" },
+            { "front": "We will hate autumn", "back": "" },
+            { "front": "You will appreciate winter", "back": "" },
+            { "front": "He will enjoy spring", "back": "" },
+            { "front": "She will cherish summer", "back": "" },
+            { "front": "They will prefer spring", "back": "" },
+            { "front": "I will adore autumn", "back": "" },
+            { "front": "You will hate spring", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I will love summer evenings", "back": "" },
+            { "front": "He will enjoy autumn evenings", "back": "" },
+            { "front": "She will hate winter storms", "back": "" },
+            { "front": "They will appreciate spring blooms", "back": "" },
+            { "front": "We will prefer summer nights", "back": "" },
+            { "front": "You will admire autumn colors", "back": "" },
+            { "front": "Everyone will love spring flowers", "back": "" },
+            { "front": "Nobody will enjoy winter nights", "back": "" },
+            { "front": "I will cherish autumn memories", "back": "" },
+            { "front": "He will prefer winter weather", "back": "" },
+            { "front": "She will adore spring mornings", "back": "" },
+            { "front": "They will hate summer heat", "back": "" },
+            { "front": "We will enjoy autumn walks", "back": "" },
+            { "front": "You will love spring days", "back": "" },
+            { "front": "He will cherish summer nights", "back": "" },
+            { "front": "She will prefer autumn leaves", "back": "" },
+            { "front": "They will adore winter nights", "back": "" },
+            { "front": "I will admire spring growth", "back": "" },
+            { "front": "We will hate autumn rains", "back": "" },
+            { "front": "You will appreciate winter beauty", "back": "" },
+            { "front": "He will enjoy spring showers", "back": "" },
+            { "front": "She will cherish summer vacations", "back": "" },
+            { "front": "They will prefer spring growth", "back": "" },
+            { "front": "I will adore autumn colors", "back": "" },
+            { "front": "You will hate spring warmth", "back": "" },
+            { "front": "Everyone will love winter nights", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "I will love summer warm evenings", "back": "" },
+            { "front": "He will enjoy autumn colorful leaves", "back": "" },
+            { "front": "She will hate winter cold weather", "back": "" },
+            {
+              "front": "They will appreciate spring blooming colorful flowers",
+              "back": ""
+            },
+            { "front": "We will prefer summer sunny bright days", "back": "" },
+            { "front": "You will admire autumn vibrant colors", "back": "" },
+            {
+              "front": "Everyone will love spring beautiful flowers",
+              "back": ""
+            },
+            { "front": "Nobody will enjoy winter freezing nights", "back": "" },
+            { "front": "I will cherish autumn warm memories", "back": "" },
+            { "front": "He will prefer winter snowy weather", "back": "" },
+            { "front": "She will adore spring fresh blossoms", "back": "" },
+            { "front": "They will hate summer intense heat", "back": "" },
+            { "front": "We will enjoy autumn peaceful walks", "back": "" },
+            { "front": "You will love spring bright days", "back": "" },
+            { "front": "He will cherish summer fun nights", "back": "" },
+            { "front": "She will prefer autumn colorful leaves", "back": "" },
+            { "front": "They will adore winter chilly nights", "back": "" },
+            { "front": "I will admire spring new growth", "back": "" },
+            { "front": "We will hate autumn heavy rains", "back": "" },
+            {
+              "front": "You will appreciate winter beautiful scenery",
+              "back": ""
+            },
+            { "front": "He will enjoy spring gentle showers", "back": "" },
+            {
+              "front": "She will cherish summer relaxing vacations",
+              "back": ""
+            },
+            { "front": "They will prefer spring vibrant growth", "back": "" },
+            { "front": "I will adore autumn golden colors", "back": "" },
+            { "front": "You will hate spring warm weather", "back": "" },
+            { "front": "We will love winter peaceful nights", "back": "" }
+          ]
+        }
+      ]
+    }
+  ]
+}

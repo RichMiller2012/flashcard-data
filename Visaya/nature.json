@@ -1,0 +1,3340 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Nature",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Tree",
+              "back": "kahoy"
+            },
+            {
+              "front": "Mountain",
+              "back": "bukid"
+            },
+            {
+              "front": "River",
+              "back": "suba"
+            },
+            {
+              "front": "Lake",
+              "back": "linaw"
+            },
+            {
+              "front": "Forest",
+              "back": "kalasangan"
+            },
+            {
+              "front": "Plant",
+              "back": "tanom"
+            },
+            {
+              "front": "Flower",
+              "back": "bulak"
+            },
+            {
+              "front": "Grass",
+              "back": "balili"
+            },
+            {
+              "front": "Rock",
+              "back": "bato"
+            },
+            {
+              "front": "Leaf",
+              "back": "dahon"
+            },
+            {
+              "front": "Root",
+              "back": "gamut"
+            },
+            {
+              "front": "Bush",
+              "back": "sapinit"
+            },
+            {
+              "front": "Stone",
+              "back": "bato"
+            },
+            {
+              "front": "Valley",
+              "back": "walog"
+            },
+            {
+              "front": "Canyon",
+              "back": "canyon"
+            },
+            {
+              "front": "Desert",
+              "back": "desyerto"
+            },
+            {
+              "front": "Coast",
+              "back": "baybayon"
+            },
+            {
+              "front": "Ocean",
+              "back": "kadagatan"
+            },
+            {
+              "front": "Bay",
+              "back": "bay"
+            },
+            {
+              "front": "Island",
+              "back": "isla"
+            },
+            {
+              "front": "Hills",
+              "back": "mga bungtod"
+            },
+            {
+              "front": "Cliff",
+              "back": "pangpang"
+            },
+            {
+              "front": "Stream",
+              "back": "sapa"
+            },
+            {
+              "front": "Swamp",
+              "back": "lamakan"
+            },
+            {
+              "front": "Marsh",
+              "back": "kalamakan"
+            },
+            {
+              "front": "Field",
+              "back": "kapatagan"
+            },
+            {
+              "front": "Meadow",
+              "back": "sibsibanan"
+            },
+            {
+              "front": "Woods",
+              "back": "kakahoyan"
+            },
+            {
+              "front": "Thicket",
+              "back": "kalibonan"
+            },
+            {
+              "front": "Canopy",
+              "back": "canopy"
+            },
+            {
+              "front": "Branch",
+              "back": "sanga"
+            },
+            {
+              "front": "Blossom",
+              "back": "mamulak"
+            },
+            {
+              "front": "Fruit",
+              "back": "bunga"
+            },
+            {
+              "front": "Seed",
+              "back": "liso"
+            },
+            {
+              "front": "Pine",
+              "back": "pino"
+            },
+            {
+              "front": "Cedar",
+              "back": "cedro"
+            },
+            {
+              "front": "Maple",
+              "back": "maple"
+            },
+            {
+              "front": "Oak",
+              "back": "oak"
+            },
+            {
+              "front": "Birch",
+              "back": "birch"
+            },
+            {
+              "front": "Willow",
+              "back": "willow"
+            },
+            {
+              "front": "Aspen",
+              "back": "aspen"
+            },
+            {
+              "front": "Cactus",
+              "back": "cactus"
+            },
+            {
+              "front": "Fern",
+              "back": "pako"
+            },
+            {
+              "front": "Lichen",
+              "back": "lichen"
+            },
+            {
+              "front": "Moss",
+              "back": "lumot"
+            },
+            {
+              "front": "Clover",
+              "back": "clover"
+            },
+            {
+              "front": "Tulip",
+              "back": "tulip"
+            },
+            {
+              "front": "Rose",
+              "back": "rosas"
+            },
+            {
+              "front": "Daisy",
+              "back": "daisy"
+            },
+            {
+              "front": "Ivy",
+              "back": "ivy"
+            },
+            {
+              "front": "Cypress",
+              "back": "sipres"
+            },
+            {
+              "front": "Hazel",
+              "back": "hazel"
+            },
+            {
+              "front": "Yew",
+              "back": "yew"
+            },
+            {
+              "front": "Palm",
+              "back": "palad"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "tall tree",
+              "back": "taas nga kahoy"
+            },
+            {
+              "front": "steep mountain",
+              "back": "titip nga bukid"
+            },
+            {
+              "front": "flowing river",
+              "back": "nagdagayday nga suba"
+            },
+            {
+              "front": "calm lake",
+              "back": "malinawon nga lanaw"
+            },
+            {
+              "front": "dense forest",
+              "back": "baga nga lasang"
+            },
+            {
+              "front": "green plant",
+              "back": "berde nga tanom"
+            },
+            {
+              "front": "beautiful flower",
+              "back": "nindot nga bulak"
+            },
+            {
+              "front": "lush grass",
+              "back": "madabong nga sagbot"
+            },
+            {
+              "front": "solid rock",
+              "back": "solid nga bato"
+            },
+            {
+              "front": "crisp leaf",
+              "back": "presko nga dahon"
+            },
+            {
+              "front": "deep root",
+              "back": "lawom nga gamot"
+            },
+            {
+              "front": "bushy bush",
+              "back": "busy bush"
+            },
+            {
+              "front": "smooth stone",
+              "back": "hamis nga bato"
+            },
+            {
+              "front": "wide valley",
+              "back": "lapad nga walog"
+            },
+            {
+              "front": "narrow canyon",
+              "back": "makitid nga canyon"
+            },
+            {
+              "front": "hot desert",
+              "back": "init nga desyerto"
+            },
+            {
+              "front": "rocky coast",
+              "back": "batoon nga baybayon"
+            },
+            {
+              "front": "vast ocean",
+              "back": "lapad nga kadagatan"
+            },
+            {
+              "front": "quiet bay",
+              "back": "hilom bay"
+            },
+            {
+              "front": "small island",
+              "back": "gamay nga isla"
+            },
+            {
+              "front": "rolling hills",
+              "back": "nagligid nga mga bungtod"
+            },
+            {
+              "front": "steep cliff",
+              "back": "titip nga pangpang"
+            },
+            {
+              "front": "clear stream",
+              "back": "tin-aw nga sapa"
+            },
+            {
+              "front": "wet swamp",
+              "back": "basa nga kalamakan"
+            },
+            {
+              "front": "peaceful marsh",
+              "back": "malinawon nga kalamakan"
+            },
+            {
+              "front": "open field",
+              "back": "bukas nga kapatagan"
+            },
+            {
+              "front": "colorful meadow",
+              "back": "mabulukon nga sibsibanan"
+            },
+            {
+              "front": "tall woods",
+              "back": "taas nga kakahoyan"
+            },
+            {
+              "front": "thick thicket",
+              "back": "baga nga kalibonan"
+            },
+            {
+              "front": "leafy canopy",
+              "back": "dahon nga canopy"
+            },
+            {
+              "front": "strong branch",
+              "back": "lig-on nga sanga"
+            },
+            {
+              "front": "fragrant blossom",
+              "back": "humot nga bulak"
+            },
+            {
+              "front": "ripe fruit",
+              "back": "hinog nga prutas"
+            },
+            {
+              "front": "tiny seed",
+              "back": "gamay nga liso"
+            },
+            {
+              "front": "tall pine",
+              "back": "taas nga pino"
+            },
+            {
+              "front": "scented cedar",
+              "back": "humot nga cedro"
+            },
+            {
+              "front": "colorful maple",
+              "back": "kolor nga maple"
+            },
+            {
+              "front": "sturdy oak",
+              "back": "lig-on nga oak"
+            },
+            {
+              "front": "white birch",
+              "back": "puti nga birch"
+            },
+            {
+              "front": "graceful willow",
+              "back": "nindot nga willow"
+            },
+            {
+              "front": "slender aspen",
+              "back": "yagpis nga aspen"
+            },
+            {
+              "front": "tough cactus",
+              "back": "gahi nga cactus"
+            },
+            {
+              "front": "green fern",
+              "back": "berde nga pako"
+            },
+            {
+              "front": "mossy lichen",
+              "back": "lumot nga lichen"
+            },
+            {
+              "front": "soft moss",
+              "back": "humok nga lumot"
+            },
+            {
+              "front": "blooming clover",
+              "back": "namulak nga clover"
+            },
+            {
+              "front": "bright tulip",
+              "back": "hayag nga tulip"
+            },
+            {
+              "front": "classic rose",
+              "back": "klasiko nga rosas"
+            },
+            {
+              "front": "cheerful daisy",
+              "back": "malipayon nga daisy"
+            },
+            {
+              "front": "creeping ivy",
+              "back": "nagkamang nga ivy"
+            },
+            {
+              "front": "tall cypress",
+              "back": "taas nga cypress"
+            },
+            {
+              "front": "hazel tree",
+              "back": "kahoy nga hazel"
+            },
+            {
+              "front": "old yew",
+              "back": "tigulang yew"
+            },
+            {
+              "front": "swaying palm",
+              "back": "nagwarawara nga palad"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "tree stands tall",
+              "back": "taas ang kahoy"
+            },
+            {
+              "front": "mountain rises high",
+              "back": "taas nga bukid"
+            },
+            {
+              "front": "river sparkles bright",
+              "back": "suba naggilakgilak nga hayag"
+            },
+            {
+              "front": "lake reflects beauty",
+              "back": "linaw nagpakita sa katahum"
+            },
+            {
+              "front": "forest hides secrets",
+              "back": "lasang nagtago sa mga sekreto"
+            },
+            {
+              "front": "plant grows quickly",
+              "back": "dali nga motubo ang tanom"
+            },
+            {
+              "front": "flower blooms bright",
+              "back": "hayag nga namulak ang bulak"
+            },
+            {
+              "front": "grass covers ground",
+              "back": "sagbot mitabon sa yuta"
+            },
+            {
+              "front": "rock supports structure",
+              "back": "bato nagsuporta sa istruktura"
+            },
+            {
+              "front": "leaf falls gently",
+              "back": "hinay nga nahulog ang dahon"
+            },
+            {
+              "front": "root anchors plant",
+              "back": "gamut angkla tanom"
+            },
+            {
+              "front": "bush attracts wildlife",
+              "back": "bush makadani sa wildlife"
+            },
+            {
+              "front": "stone feels cool",
+              "back": "bugnaw ang gibati sa bato"
+            },
+            {
+              "front": "valley stretches far",
+              "back": "ang walog kay layo"
+            },
+            {
+              "front": "canyon cuts through",
+              "back": "canyon miagi"
+            },
+            {
+              "front": "desert blazes under sun",
+              "back": "disyerto nagdilaab sa ilawom sa adlaw"
+            },
+            {
+              "front": "coast meets waves",
+              "back": "ang baybayon nakigtagbo sa mga balud"
+            },
+            {
+              "front": "ocean stretches wide",
+              "back": "lapad ang dagat"
+            },
+            {
+              "front": "bay calms boats",
+              "back": "bay nagpakalma sa mga sakayan"
+            },
+            {
+              "front": "island offers tranquility",
+              "back": "ang isla nagtanyag sa kalinaw"
+            },
+            {
+              "front": "hills undulate gracefully",
+              "back": "Ang mga bungtod nag-awas nga maayo"
+            },
+            {
+              "front": "cliff drops suddenly",
+              "back": "kalit nga nahulog ang pangpang"
+            },
+            {
+              "front": "stream flows swiftly",
+              "back": "kusog ang agos sa sapa"
+            },
+            {
+              "front": "swamp teems with life",
+              "back": "swamp puno sa kinabuhi"
+            },
+            {
+              "front": "marsh holds secrets",
+              "back": "marsh adunay mga sekreto"
+            },
+            {
+              "front": "field welcomes wildlife",
+              "back": "field nag-abiabi sa wildlife"
+            },
+            {
+              "front": "meadow blooms bright",
+              "back": "sibsibanan mamulak nga hayag"
+            },
+            {
+              "front": "woods offer shelter",
+              "back": "kakahoyan nagtanyag ug kapasilongan"
+            },
+            {
+              "front": "thicket conceals animals",
+              "back": "kalibonan nagtago sa mga mananap"
+            },
+            {
+              "front": "canopy provides shade",
+              "back": "Ang canopy naghatag og landong"
+            },
+            {
+              "front": "branch holds weight",
+              "back": "sanga naghupot gibug-aton"
+            },
+            {
+              "front": "blossom attracts bees",
+              "back": "ang bulak makadani sa mga putyokan"
+            },
+            {
+              "front": "fruit hangs low",
+              "back": "ang prutas nagbitay ubos"
+            },
+            {
+              "front": "seed sprouts life",
+              "back": "liso sprout kinabuhi"
+            },
+            {
+              "front": "pine sways gently",
+              "back": "ang pino hinay nga nag-uyog"
+            },
+            {
+              "front": "cedar fills air",
+              "back": "ang sedro nagpuno sa hangin"
+            },
+            {
+              "front": "maple shows off",
+              "back": "nagpakita ang maple"
+            },
+            {
+              "front": "oak stands tall",
+              "back": "oak nagbarog nga taas"
+            },
+            {
+              "front": "birch shines bright",
+              "back": "birch nagdan-ag nga hayag"
+            },
+            {
+              "front": "willow sways softly",
+              "back": "Ang willow hinay nga nag-uyog"
+            },
+            {
+              "front": "aspen quakes lightly",
+              "back": "hinay nga linog ang aspen"
+            },
+            {
+              "front": "cactus survives drought",
+              "back": "Ang cactus nakalahutay sa hulaw"
+            },
+            {
+              "front": "fern unfurls slowly",
+              "back": "hinay nga mibukhad ang pako"
+            },
+            {
+              "front": "lichen clings tightly",
+              "back": "Ang lichen mipilit pag-ayo"
+            },
+            {
+              "front": "moss cushions ground",
+              "back": "moss cushions yuta"
+            },
+            {
+              "front": "clover fills fields",
+              "back": "Ang clover nagpuno sa mga uma"
+            },
+            {
+              "front": "tulip attracts attention",
+              "back": "ang tulip nakadani sa atensyon"
+            },
+            {
+              "front": "rose blooms beautifully",
+              "back": "nindot nga namulak ang rosas"
+            },
+            {
+              "front": "daisy stands tall",
+              "back": "taas nga nibarog si daisy"
+            },
+            {
+              "front": "ivy climbs walls",
+              "back": "ivy mosaka sa mga bungbong"
+            },
+            {
+              "front": "cypress reaches sky",
+              "back": "ang cypress moabot sa langit"
+            },
+            {
+              "front": "hazel produces nuts",
+              "back": "Ang hazel nagpatunghag mga nut"
+            },
+            {
+              "front": "yew provides shade",
+              "back": "yew naghatag landong"
+            },
+            {
+              "front": "palm dances gracefully",
+              "back": "nindot nga mosayaw ang palad"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "tall tree stands proud",
+              "back": "taas nga kahoy nagbarog nga garbo"
+            },
+            {
+              "front": "steep mountain rises high",
+              "back": "titip nga bukid nagtaas"
+            },
+            {
+              "front": "flowing river sparkles brightly",
+              "back": "nagdagayday nga suba nga naggilakgilak"
+            },
+            {
+              "front": "calm lake reflects beauty",
+              "back": "kalma nga lanaw nagpakita sa katahum"
+            },
+            {
+              "front": "dense forest hides secrets",
+              "back": "Ang bagang lasang nagtago sa mga sekreto"
+            },
+            {
+              "front": "green plant grows quickly",
+              "back": "berde nga tanom dali nga motubo"
+            },
+            {
+              "front": "beautiful flower blooms brightly",
+              "back": "nindot nga bulak namulak nga hayag"
+            },
+            {
+              "front": "lush grass covers ground",
+              "back": "ang labong nga sagbot mitabon sa yuta"
+            },
+            {
+              "front": "solid rock supports structure",
+              "back": "solidong bato nagsuporta sa istruktura"
+            },
+            {
+              "front": "crisp leaf falls gently",
+              "back": "hinay nga nahulog ang malutong nga dahon"
+            },
+            {
+              "front": "deep root anchors plant",
+              "back": "lawom nga gamut angkla tanom"
+            },
+            {
+              "front": "bushy bush attracts wildlife",
+              "back": "bushy bush nakadani sa wildlife"
+            },
+            {
+              "front": "smooth stone feels cool",
+              "back": "ang hamis nga bato mobati nga bugnaw"
+            },
+            {
+              "front": "wide valley stretches endlessly",
+              "back": "halapad nga walog nagsangkad sa walay katapusan"
+            },
+            {
+              "front": "narrow canyon cuts through",
+              "back": "hiktin nga canyon miagi"
+            },
+            {
+              "front": "hot desert blazes under sun",
+              "back": "init nga disyerto nagdilaab sa ilawom sa adlaw"
+            },
+            {
+              "front": "rocky coast meets waves",
+              "back": "batoon nga baybayon nakigtagbo sa mga balud"
+            },
+            {
+              "front": "vast ocean stretches far",
+              "back": "halapad nga kadagatan kay halayo"
+            },
+            {
+              "front": "quiet bay calms boats",
+              "back": "hilom nga bay nagpakalma sa mga sakayan"
+            },
+            {
+              "front": "small island offers tranquility",
+              "back": "gamay nga isla nagtanyag sa kalinaw"
+            },
+            {
+              "front": "rolling hills undulate gracefully",
+              "back": "Ang nagligid nga mga bungtod nag-awas nga matahum"
+            },
+            {
+              "front": "steep cliff drops suddenly",
+              "back": "kalit nga nahulog ang titip nga pangpang"
+            },
+            {
+              "front": "clear stream flows swiftly",
+              "back": "tin-aw nga sapa nga paspas nga nag-agos"
+            },
+            {
+              "front": "wet swamp teems with life",
+              "back": "Ang basa nga kalamakan puno sa kinabuhi"
+            },
+            {
+              "front": "peaceful marsh holds secrets",
+              "back": "ang malinawon nga kalamakan adunay mga sekreto"
+            },
+            {
+              "front": "open field welcomes wildlife",
+              "back": "ang open field nag-abiabi sa wildlife"
+            },
+            {
+              "front": "colorful meadow blooms brightly",
+              "back": "mabulukon nga sibsibanan hayag nga namulak"
+            },
+            {
+              "front": "tall woods offer shelter",
+              "back": "tag-as nga kakahoyan nagtanyag ug kapasilongan"
+            },
+            {
+              "front": "thick thicket conceals animals",
+              "back": "mabaga nga kalibonan nagtago sa mga mananap"
+            },
+            {
+              "front": "leafy canopy provides shade",
+              "back": "dahon nga canopy naghatag landong"
+            },
+            {
+              "front": "strong branch holds weight",
+              "back": "lig-on nga sanga naghupot gibug-aton"
+            },
+            {
+              "front": "fragrant blossom attracts bees",
+              "back": "humot nga bulak makadani sa mga putyokan"
+            },
+            {
+              "front": "ripe fruit hangs low",
+              "back": "hinog nga prutas nagbitay ubos"
+            },
+            {
+              "front": "tiny seed sprouts life",
+              "back": "gamay nga liso miturok sa kinabuhi"
+            },
+            {
+              "front": "tall pine sways gently",
+              "back": "Ang taas nga pino hinay nga nag-uyog"
+            },
+            {
+              "front": "scented cedar fills air",
+              "back": "mahumot nga cedro mopuno sa hangin"
+            },
+            {
+              "front": "colorful maple shows off",
+              "back": "mabulukon nga maple nagpakita sa"
+            },
+            {
+              "front": "sturdy oak stands tall",
+              "back": "lig-on nga kahoy nga encina nagbarug nga taas"
+            },
+            {
+              "front": "white birch shines bright",
+              "back": "puti nga birch nagdan-ag nga hayag"
+            },
+            {
+              "front": "graceful willow sways softly",
+              "back": "ang matahum nga willow hinay nga nag-uyog"
+            },
+            {
+              "front": "slender aspen quakes lightly",
+              "back": "hinay nga linog ang yagpis nga aspen"
+            },
+            {
+              "front": "tough cactus survives drought",
+              "back": "matig-a nga cactus makaluwas sa hulaw"
+            },
+            {
+              "front": "green fern unfurls slowly",
+              "back": "hinay nga nagbuklad ang berde nga pako"
+            },
+            {
+              "front": "mossy lichen clings tightly",
+              "back": "ang mossy lichen mikupot pag-ayo"
+            },
+            {
+              "front": "soft moss cushions ground",
+              "back": "humok nga moss cushions yuta"
+            },
+            {
+              "front": "blooming clover fills fields",
+              "back": "Ang namulak nga clover nagpuno sa mga uma"
+            },
+            {
+              "front": "bright tulip attracts attention",
+              "back": "mahayag nga tulip makadani sa atensyon"
+            },
+            {
+              "front": "classic rose blooms beautifully",
+              "back": "Nindot nga namulak ang klasiko nga rosas"
+            },
+            {
+              "front": "cheerful daisy stands tall",
+              "back": "Ang malipayon nga daisy nagbarog nga taas"
+            },
+            {
+              "front": "creeping ivy climbs walls",
+              "back": "nagkamang nga ivy mosaka sa mga bungbong"
+            },
+            {
+              "front": "tall cypress reaches sky",
+              "back": "taas nga cypress moabot sa langit"
+            },
+            {
+              "front": "hazel tree produces nuts",
+              "back": "Ang kahoy nga hazel nagpatunghag mga nut"
+            },
+            {
+              "front": "old yew provides shade",
+              "back": "Ang daan nga yew naghatag og landong"
+            },
+            {
+              "front": "swaying palm dances gracefully",
+              "back": "nagkuyugyog nga palad nga nagsayaw nga nindot"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "tree stands against the sky",
+              "back": "ang kahoy nagatindog batok sa langit"
+            },
+            {
+              "front": "mountain rises high above valley",
+              "back": "ang bukid mitaas sa ibabaw sa walog"
+            },
+            {
+              "front": "river sparkles bright in sunlight",
+              "back": "suba nagkidlap-kidlap sa kahayag sa adlaw"
+            },
+            {
+              "front": "lake reflects beauty of surroundings",
+              "back": "Ang lanaw nagpakita sa katahum sa palibot"
+            },
+            {
+              "front": "forest hides secrets from wanderers",
+              "back": "ang lasang nagtago sa mga sekreto gikan sa mga libud-suroy"
+            },
+            {
+              "front": "plant grows quickly in sunlight",
+              "back": "ang tanom dali nga motubo sa kahayag sa adlaw"
+            },
+            {
+              "front": "flower blooms bright in spring",
+              "back": "bulak blooms hayag sa tingpamulak"
+            },
+            {
+              "front": "grass covers ground in green",
+              "back": "Ang balili nagtabon sa yuta sa berde"
+            },
+            {
+              "front": "rock supports structure of ecosystem",
+              "back": "Gisuportahan sa bato ang istruktura sa ekosistema"
+            },
+            {
+              "front": "leaf falls gently to ground",
+              "back": "hinay nga nahulog ang dahon sa yuta"
+            },
+            {
+              "front": "root anchors plant firmly in soil",
+              "back": "Ang mga angkla sa ugat lig-on nga nagtanum sa yuta"
+            },
+            {
+              "front": "bush attracts wildlife seeking shelter",
+              "back": "bush nagdani ihalas nga mga mananap nga nangita ug kapuy-an"
+            },
+            {
+              "front": "stone feels cool to touch",
+              "back": "bato kay bugnaw hikap"
+            },
+            {
+              "front": "valley stretches far into distance",
+              "back": "walog kay layo sa gilay-on"
+            },
+            {
+              "front": "canyon cuts through ancient landscape",
+              "back": "canyon nag-agi sa karaang talan-awon"
+            },
+            {
+              "front": "desert blazes under the sun",
+              "back": "disyerto nagdilaab sa ilawom sa adlaw"
+            },
+            {
+              "front": "coast meets waves of ocean",
+              "back": "baybayon nakigtagbo sa mga balud sa kadagatan"
+            },
+            {
+              "front": "ocean stretches wide and vast",
+              "back": "ang kadagatan lapad ug lapad"
+            },
+            {
+              "front": "bay calms boats in harbor",
+              "back": "bay nagpakalma sa mga sakayan sa pantalan"
+            },
+            {
+              "front": "island offers tranquility to visitors",
+              "back": "Ang isla naghatag ug kalinaw sa mga bisita"
+            },
+            {
+              "front": "hills undulate gracefully in distance",
+              "back": "Ang mga bungtod nag-awas nga nindot sa gilay-on"
+            },
+            {
+              "front": "cliff drops suddenly into sea",
+              "back": "kalit nga nahulog ang pangpang sa dagat"
+            },
+            {
+              "front": "stream flows swiftly over rocks",
+              "back": "ang sapa kusog nga nag-agos ibabaw sa mga bato"
+            },
+            {
+              "front": "swamp teems with life and beauty",
+              "back": "swamp puno sa kinabuhi ug katahum"
+            },
+            {
+              "front": "marsh holds secrets of nature",
+              "back": "marsh naghupot sa mga sekreto sa kinaiyahan"
+            },
+            {
+              "front": "field welcomes wildlife in spring",
+              "back": "uma nag-abiabi sa wildlife sa tingpamulak"
+            },
+            {
+              "front": "meadow blooms bright with flowers",
+              "back": "meadow blooms hayag nga uban sa mga bulak"
+            },
+            {
+              "front": "woods offer shelter for creatures",
+              "back": "kakahoyan nagtanyag ug kapasilongan alang sa mga binuhat"
+            },
+            {
+              "front": "thicket conceals animals from predators",
+              "back": "kalibonan nagtago sa mga mananap gikan sa mga manunukob"
+            },
+            {
+              "front": "canopy provides shade from sun",
+              "back": "Ang canopy naghatag landong gikan sa adlaw"
+            },
+            {
+              "front": "branch holds weight of bird",
+              "back": "sanga naghupot gibug-aton sa langgam"
+            },
+            {
+              "front": "blossom attracts bees for pollination",
+              "back": "ang bulak makadani sa mga putyokan alang sa polinasyon"
+            },
+            {
+              "front": "fruit hangs low on tree",
+              "back": "ang prutas nagbitay ubos sa kahoy"
+            },
+            {
+              "front": "seed sprouts life from soil",
+              "back": "liso moturok kinabuhi gikan sa yuta"
+            },
+            {
+              "front": "pine sways gently in breeze",
+              "back": "Ang pino hinay nga nag-uyog sa hangin"
+            },
+            {
+              "front": "cedar fills air with fragrance",
+              "back": "Ang sedro nagpuno sa hangin sa kahumot"
+            },
+            {
+              "front": "maple shows off bright colors",
+              "back": "maple nagpakita sa mahayag nga mga kolor"
+            },
+            {
+              "front": "oak stands tall and strong",
+              "back": "ang oak nagbarog nga taas ug lig-on"
+            },
+            {
+              "front": "birch shines bright in sunlight",
+              "back": "Ang birch nagdan-ag sa kahayag sa adlaw"
+            },
+            {
+              "front": "willow sways softly in wind",
+              "back": "Ang willow hinay nga nag-uyog sa hangin"
+            },
+            {
+              "front": "aspen quakes lightly in breeze",
+              "back": "Ang aspen hinay nga linog sa hangin"
+            },
+            {
+              "front": "cactus survives drought in desert",
+              "back": "Ang cactus nakalahutay sa hulaw sa desyerto"
+            },
+            {
+              "front": "fern unfurls slowly in shade",
+              "back": "Ang pako hinay nga nagbuklad sa landong"
+            },
+            {
+              "front": "lichen clings tightly to rock",
+              "back": "Ang lichen mipilit pag-ayo sa bato"
+            },
+            {
+              "front": "moss cushions ground for creatures",
+              "back": "moss cushions yuta para sa mga binuhat"
+            },
+            {
+              "front": "clover fills fields with green",
+              "back": "Ang clover nagpuno sa mga uma nga adunay berde"
+            },
+            {
+              "front": "tulip attracts attention in garden",
+              "back": "Ang tulip nakadani sa atensyon sa tanaman"
+            },
+            {
+              "front": "rose blooms beautifully in summer",
+              "back": "nindot nga namulak ang rosas sa ting-init"
+            },
+            {
+              "front": "daisy stands tall in grass",
+              "back": "Ang daisy nagbarog nga taas sa sagbot"
+            },
+            {
+              "front": "ivy climbs walls of buildings",
+              "back": "ivy mosaka sa mga bungbong sa mga bilding"
+            },
+            {
+              "front": "cypress reaches sky above others",
+              "back": "ang cypress moabot sa langit labaw sa uban"
+            },
+            {
+              "front": "hazel produces nuts in autumn",
+              "back": "Ang hazel nagpatunghag mga nut sa tingdagdag"
+            },
+            {
+              "front": "yew provides shade for wildlife",
+              "back": "Ang yew naghatag og landong alang sa wildlife"
+            },
+            {
+              "front": "palm dances gracefully in breeze",
+              "back": "nindot nga mosayaw ang palad sa huyohoy"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "tree stands tall against the sky",
+              "back": "ang kahoy nagbarog nga taas batok sa langit"
+            },
+            {
+              "front": "mountain rises high above valley",
+              "back": "ang bukid mitaas sa ibabaw sa walog"
+            },
+            {
+              "front": "river sparkles bright in sunlight",
+              "back": "suba nagkidlap-kidlap sa kahayag sa adlaw"
+            },
+            {
+              "front": "large lake reflects beauty of surroundings",
+              "back": "dako nga lanaw nagpakita sa katahum sa palibot"
+            },
+            {
+              "front": "large forest hides secrets from wanderers",
+              "back": "dako nga lasang nagtago sa mga sekreto gikan sa mga libud-suroy"
+            },
+            {
+              "front": "green plant grows quickly in sunlight",
+              "back": "Ang berde nga tanum dali nga motubo sa kahayag sa adlaw"
+            },
+            {
+              "front": "yellow flower blooms bright in spring",
+              "back": "dalag nga bulak mamulak nga hayag sa tingpamulak"
+            },
+            {
+              "front": "his grass covers ground in green",
+              "back": "ang iyang balili nagtabon sa yuta sa berde"
+            },
+            {
+              "front": "massive rock supports structure of ecosystem",
+              "back": "dako nga bato nagsuporta sa istruktura sa ekosistema"
+            },
+            {
+              "front": "thin leaf falls gently to ground",
+              "back": "ang manipis nga dahon hinay nga nahulog sa yuta"
+            },
+            {
+              "front": "root anchors plant firmly in soil",
+              "back": "Ang mga angkla sa ugat lig-on nga nagtanum sa yuta"
+            },
+            {
+              "front": "thick bush attracts wildlife seeking shelter",
+              "back": "baga nga sapinit makadani sa ihalas nga mga mananap nga nangitag kapuy-an"
+            },
+            {
+              "front": "dark stone feels cool to touch",
+              "back": "Ang itom nga bato gibati nga bugnaw sa paghikap"
+            },
+            {
+              "front": "beautiful valley stretches far into distance",
+              "back": "matahom nga walog nagsangkad sa layo"
+            },
+            {
+              "front": "huge canyon cuts through ancient landscape",
+              "back": "dako nga canyon nag-agi sa karaang talan-awon"
+            },
+            {
+              "front": "hot desert blazes under the sun",
+              "back": "init nga disyerto nagdilaab ilalom sa adlaw"
+            },
+            {
+              "front": "sandy coast meets waves of ocean",
+              "back": "ang balason nga baybayon nakigtagbo sa mga balud sa kadagatan"
+            },
+            {
+              "front": "blue ocean stretches wide and vast",
+              "back": "ang asul nga kadagatan kay lapad ug lapad"
+            },
+            {
+              "front": "peaceful bay calms boats in harbor",
+              "back": "ang malinawon nga bay nagpakalma sa mga sakayan sa pantalan"
+            },
+            {
+              "front": "lovely island offers tranquility to visitors",
+              "back": "Ang nindot nga isla nagtanyag og kalinaw sa mga bisita"
+            },
+            {
+              "front": "hills are graceful in the distance",
+              "back": "Ang mga bungtod nindot tan-awon sa layo"
+            },
+            {
+              "front": "rough cliff drops suddenly into sea",
+              "back": "mabangis nga pangpang kalit nga nahulog sa dagat"
+            },
+            {
+              "front": "loud stream flows swiftly over rocks",
+              "back": "kusog nga agos sa tubig sa ibabaw sa mga bato"
+            },
+            {
+              "front": "swamp teems with life and beauty",
+              "back": "swamp puno sa kinabuhi ug katahum"
+            },
+            {
+              "front": "smelly marsh holds secrets of nature",
+              "back": "Ang baho nga kalamakan adunay mga sekreto sa kinaiyahan"
+            },
+            {
+              "front": "large field welcomes wildlife in spring",
+              "back": "dako nga uma nag-abiabi sa wildlife sa tingpamulak"
+            },
+            {
+              "front": "mountain meadow blooms bright with flowers",
+              "back": "Ang kasagbutan sa bukid namulak nga hayag nga adunay mga bulak"
+            },
+            {
+              "front": "thick woods offer shelter for creatures",
+              "back": "mabaga nga kakahoyan nagtanyag ug kapasilongan alang sa mga binuhat"
+            },
+            {
+              "front": "dense thicket conceals animals from predators",
+              "back": "Ang baga nga kalibonan nagtago sa mga mananap gikan sa mga manunukob"
+            },
+            {
+              "front": "thick canopy provides shade from sun",
+              "back": "mabaga nga canopy naghatag landong gikan sa adlaw"
+            },
+            {
+              "front": "branch holds weight of small bird",
+              "back": "sanga naghupot gibug-aton sa gamay nga langgam"
+            },
+            {
+              "front": "colorful blossom attracts bees for pollination",
+              "back": "mabulukon nga bulak makadani sa mga putyukan alang sa polinasyon"
+            },
+            {
+              "front": "heavy fruit hangs low on tree",
+              "back": "bug-at nga bunga nagbitay ubos sa kahoy"
+            },
+            {
+              "front": "apple seed sprouts life from soil",
+              "back": "Ang liso sa mansanas miturok sa kinabuhi gikan sa yuta"
+            },
+            {
+              "front": "pine tree sways gently in breeze",
+              "back": "Ang punoan sa pino hinay nga nag-uyog sa hangin"
+            },
+            {
+              "front": "large cedar fills air with fragrance",
+              "back": "ang dagkong sedro nagpuno sa hangin sa kahumot"
+            },
+            {
+              "front": "tall maple shows off bright colors",
+              "back": "taas nga maple nagpakita sa mahayag nga mga kolor"
+            },
+            {
+              "front": "that oak stands tall and strong",
+              "back": "kanang oak nagbarog nga taas ug lig-on"
+            },
+            {
+              "front": "the birch shines bright in sunlight",
+              "back": "ang birch nagdan-ag sa kahayag sa adlaw"
+            },
+            {
+              "front": "my willow sways softly in wind",
+              "back": "ang akong willow hinay nga nag-uyog sa hangin"
+            },
+            {
+              "front": "his aspen quakes lightly in breeze",
+              "back": "ang iyang aspen hinay nga mikurog sa hangin"
+            },
+            {
+              "front": "cactus survives drought in desert sun",
+              "back": "Ang cactus nakalahutay sa hulaw sa adlaw sa desyerto"
+            },
+            {
+              "front": "fern unfurls slowly in morning shade",
+              "back": "Ang pako hinay nga nagbuklad sa landong sa buntag"
+            },
+            {
+              "front": "lichen clings tightly to rough rock",
+              "back": "Ang lichen mikupot pag-ayo sa bagis nga bato"
+            },
+            {
+              "front": "moss cushions ground for small creatures",
+              "back": "moss cushions gigaling para sa gagmay nga mga binuhat"
+            },
+            {
+              "front": "pretty clover fills fields with green",
+              "back": "Ang matahum nga clover nagpuno sa mga uma nga adunay berde"
+            },
+            {
+              "front": "red tulip attracts attention in garden",
+              "back": "Ang pula nga tulip nakadani sa atensyon sa tanaman"
+            },
+            {
+              "front": "white rose blooms beautifully in summer",
+              "back": "Ang puti nga rosas nindot nga namulak sa ting-init"
+            },
+            {
+              "front": "yellow daisy stands tall in grass",
+              "back": "dalag nga daisy nagbarog nga taas sa sagbot"
+            },
+            {
+              "front": "green ivy climbs walls of buildings",
+              "back": "Ang berde nga ivy mosaka sa mga bungbong sa mga bilding"
+            },
+            {
+              "front": "large cypress reaches sky above others",
+              "back": "dako nga cypress moabot sa langit labaw sa uban"
+            },
+            {
+              "front": "hazel produces tasty nuts in autumn",
+              "back": "Ang hazel nagpatunghag lami nga mga mani sa tingdagdag"
+            },
+            {
+              "front": "yew provides shade for wildlife below",
+              "back": "Ang yew naghatag og landong alang sa wildlife sa ubos"
+            },
+            {
+              "front": "palm dances gracefully in evening breeze",
+              "back": "nindot nga mosayaw ang palma sa huyuhoy sa kagabhion"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "tree stood",
+              "back": "mibarog ang kahoy"
+            },
+            {
+              "front": "mountain rose",
+              "back": "rosas sa bukid"
+            },
+            {
+              "front": "river flowed",
+              "back": "midagayday ang suba"
+            },
+            {
+              "front": "lake sparkled",
+              "back": "linaw mikidlap"
+            },
+            {
+              "front": "forest grew",
+              "back": "mitubo ang lasang"
+            },
+            {
+              "front": "plant thrived",
+              "back": "milambo ang tanom"
+            },
+            {
+              "front": "flower bloomed",
+              "back": "namulak ang bulak"
+            },
+            {
+              "front": "grass grew",
+              "back": "mitubo ang balili"
+            },
+            {
+              "front": "rock supported",
+              "back": "gisuportahan sa bato"
+            },
+            {
+              "front": "leaf fell",
+              "back": "dahon nahulog"
+            },
+            {
+              "front": "root anchored",
+              "back": "gamut nakaangkla"
+            },
+            {
+              "front": "bush attracted",
+              "back": "bush nadani"
+            },
+            {
+              "front": "stone weathered",
+              "back": "bato nga weathered"
+            },
+            {
+              "front": "valley stretched",
+              "back": "walog nga gituy-od"
+            },
+            {
+              "front": "canyon deepened",
+              "back": "midalom ang canyon"
+            },
+            {
+              "front": "desert heated",
+              "back": "desyerto nga init"
+            },
+            {
+              "front": "coast eroded",
+              "back": "naguba ang baybayon"
+            },
+            {
+              "front": "ocean surged",
+              "back": "mikusog ang dagat"
+            },
+            {
+              "front": "bay calmed",
+              "back": "nikalma si bay"
+            },
+            {
+              "front": "island appeared",
+              "back": "mitungha ang isla"
+            },
+            {
+              "front": "hill rose",
+              "back": "bungtod nga rosas"
+            },
+            {
+              "front": "cliff crumbled",
+              "back": "nahugno ang pangpang"
+            },
+            {
+              "front": "stream babbled",
+              "back": "nagbaha ang sapa"
+            },
+            {
+              "front": "swamp teemed",
+              "back": "puno sa kalamakan"
+            },
+            {
+              "front": "marsh dried",
+              "back": "marsh nauga"
+            },
+            {
+              "front": "field flourished",
+              "back": "milambo ang kapatagan"
+            },
+            {
+              "front": "meadow bloomed",
+              "back": "namulak ang kasagbutan"
+            },
+            {
+              "front": "woods provided",
+              "back": "kahoy nga gihatag"
+            },
+            {
+              "front": "thicket concealed",
+              "back": "kalibonan gitagoan"
+            },
+            {
+              "front": "canopy shaded",
+              "back": "canopy shaded"
+            },
+            {
+              "front": "branch broke",
+              "back": "nabali ang sanga"
+            },
+            {
+              "front": "blossom opened",
+              "back": "gibuksan ang bulak"
+            },
+            {
+              "front": "fruit ripened",
+              "back": "hinog nga prutas"
+            },
+            {
+              "front": "seed sprouted",
+              "back": "migitib ang liso"
+            },
+            {
+              "front": "pine swayed",
+              "back": "mikurog ang pino"
+            },
+            {
+              "front": "cedar thrived",
+              "back": "milambo ang cedro"
+            },
+            {
+              "front": "maple turned",
+              "back": "nibalik si maple"
+            },
+            {
+              "front": "oak grew",
+              "back": "mitubo ang oak"
+            },
+            {
+              "front": "birch swayed",
+              "back": "birch nagkurog"
+            },
+            {
+              "front": "willow bent",
+              "back": "gibawog ang willow"
+            },
+            {
+              "front": "aspen quaked",
+              "back": "mikurog si aspen"
+            },
+            {
+              "front": "cactus thrived",
+              "back": "milambo ang cactus"
+            },
+            {
+              "front": "fern unfurled",
+              "back": "gibuklad ang pako"
+            },
+            {
+              "front": "lichen spread",
+              "back": "mikaylap ang lichen"
+            },
+            {
+              "front": "moss covered",
+              "back": "gitabonan sa lumot"
+            },
+            {
+              "front": "clover bloomed",
+              "back": "namulak ang clover"
+            },
+            {
+              "front": "tulip opened",
+              "back": "gibuksan ang tulip"
+            },
+            {
+              "front": "rose bloomed",
+              "back": "namulak ang rosas"
+            },
+            {
+              "front": "daisy flourished",
+              "back": "milambo ang daisy"
+            },
+            {
+              "front": "ivy climbed",
+              "back": "nisaka si ivy"
+            },
+            {
+              "front": "cypress grew",
+              "back": "mitubo ang cypress"
+            },
+            {
+              "front": "hazel produced",
+              "back": "gihimo ang hazel"
+            },
+            {
+              "front": "yew thrived",
+              "back": "yew milambo"
+            },
+            {
+              "front": "palm stood",
+              "back": "nibarog ang palad"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "tree stood tall",
+              "back": "ang kahoy mibarog nga taas"
+            },
+            {
+              "front": "mountain rose high",
+              "back": "mitaas ang bukid"
+            },
+            {
+              "front": "river flowed swiftly",
+              "back": "kusog nga midagayday ang suba"
+            },
+            {
+              "front": "lake sparkled under sun",
+              "back": "linaw nagkidlap sa ilawom sa adlaw"
+            },
+            {
+              "front": "forest grew thick",
+              "back": "lasang mitubo nga baga"
+            },
+            {
+              "front": "plant thrived in sunlight",
+              "back": "ang tanom milambo sa kahayag sa adlaw"
+            },
+            {
+              "front": "flower bloomed brightly",
+              "back": "hayag nga namulak ang bulak"
+            },
+            {
+              "front": "grass grew lush",
+              "back": "sagbot mitubo nga labong"
+            },
+            {
+              "front": "rock supported life",
+              "back": "bato nga gisuportahan sa kinabuhi"
+            },
+            {
+              "front": "leaf fell softly",
+              "back": "hinay nga nahulog ang dahon"
+            },
+            {
+              "front": "root anchored deeply",
+              "back": "gamut nakaangkla pag-ayo"
+            },
+            {
+              "front": "bush attracted wildlife",
+              "back": "bush nakadani sa wildlife"
+            },
+            {
+              "front": "stone weathered slowly",
+              "back": "ang bato hinayhinay nga natunaw"
+            },
+            {
+              "front": "valley stretched wide",
+              "back": "walog mituyhad halapad"
+            },
+            {
+              "front": "canyon cut deep",
+              "back": "lawom nga giputol sa canyon"
+            },
+            {
+              "front": "desert heated under sun",
+              "back": "desyerto nga gipainit ubos sa adlaw"
+            },
+            {
+              "front": "coast eroded gradually",
+              "back": "anam-anam nga nahurot ang baybayon"
+            },
+            {
+              "front": "ocean surged violently",
+              "back": "kusog nga misulbong ang kadagatan"
+            },
+            {
+              "front": "bay calmed boats",
+              "back": "bay nagpakalma sa mga sakayan"
+            },
+            {
+              "front": "island offered refuge",
+              "back": "isla nga gitanyag nga dangpanan"
+            },
+            {
+              "front": "hill rose gently",
+              "back": "hinay nga mibangon ang bungtod"
+            },
+            {
+              "front": "cliff crumbled suddenly",
+              "back": "kalit nga nahugno ang pangpang"
+            },
+            {
+              "front": "stream babbled softly",
+              "back": "hinay nga nagbaha ang sapa"
+            },
+            {
+              "front": "swamp teemed with life",
+              "back": "lamakan nga puno sa kinabuhi"
+            },
+            {
+              "front": "marsh dried up",
+              "back": "nauga ang kalamakan"
+            },
+            {
+              "front": "field flourished beautifully",
+              "back": "talan-awon milambo pag-ayo"
+            },
+            {
+              "front": "meadow bloomed with colors",
+              "back": "meadow namulak sa mga kolor"
+            },
+            {
+              "front": "woods provided shelter",
+              "back": "kakahoyan naghatag ug kapasilongan"
+            },
+            {
+              "front": "thicket concealed animals",
+              "back": "kalibonan natago nga mga mananap"
+            },
+            {
+              "front": "canopy shaded travelers",
+              "back": "canopy shaded nga mga biyahedor"
+            },
+            {
+              "front": "branch broke off",
+              "back": "naputol ang sanga"
+            },
+            {
+              "front": "blossom opened wide",
+              "back": "ang bulak nabuka pag-ayo"
+            },
+            {
+              "front": "fruit ripened slowly",
+              "back": "hinay nga hinog nga prutas"
+            },
+            {
+              "front": "seed sprouted quickly",
+              "back": "dali nga miturok ang liso"
+            },
+            {
+              "front": "pine swayed gently",
+              "back": "ang pino hinay nga nag-uyog"
+            },
+            {
+              "front": "cedar thrived well",
+              "back": "ang sedro milambo pag-ayo"
+            },
+            {
+              "front": "maple turned bright",
+              "back": "maple nahimong hayag"
+            },
+            {
+              "front": "oak grew strong",
+              "back": "oak mitubo nga lig-on"
+            },
+            {
+              "front": "birch swayed softly",
+              "back": "Ang birch hinay nga nag-uyog"
+            },
+            {
+              "front": "willow bent low",
+              "back": "ang willow gibawog ubos"
+            },
+            {
+              "front": "aspen quaked gently",
+              "back": "hinay nga mikurog si aspen"
+            },
+            {
+              "front": "cactus thrived resiliently",
+              "back": "Ang cactus milambo nga lig-on"
+            },
+            {
+              "front": "fern unfurled gracefully",
+              "back": "pako nga gibuklad nga matahum"
+            },
+            {
+              "front": "lichen spread widely",
+              "back": "kaylap nga mikaylap ang lichen"
+            },
+            {
+              "front": "moss covered ground",
+              "back": "yuta nga gitabonan sa lumot"
+            },
+            {
+              "front": "clover bloomed beautifully",
+              "back": "nindot nga namulak ang clover"
+            },
+            {
+              "front": "tulip opened fully",
+              "back": "bug-os nga gibuksan ang tulip"
+            },
+            {
+              "front": "rose bloomed brightly",
+              "back": "hayag nga namulak ang rosas"
+            },
+            {
+              "front": "daisy stood tall",
+              "back": "Nagbarog nga taas si daisy"
+            },
+            {
+              "front": "ivy climbed walls",
+              "back": "ivy mikatkat sa mga bungbong"
+            },
+            {
+              "front": "cypress reached sky",
+              "back": "ang cypress nakaabot sa langit"
+            },
+            {
+              "front": "hazel produced nuts",
+              "back": "hazel nga gihimo nuts"
+            },
+            {
+              "front": "yew thrived nearby",
+              "back": "yew milambo sa duol"
+            },
+            {
+              "front": "palm swayed gently",
+              "back": "hinay nga mikuyup ang palad"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "tree stood in forest",
+              "back": "nagbarog ang kahoy sa lasang"
+            },
+            {
+              "front": "mountain rose above valley",
+              "back": "bukid misaka ibabaw sa walog"
+            },
+            {
+              "front": "river flowed through landscape",
+              "back": "suba midagayday sa talan-awon"
+            },
+            {
+              "front": "lake sparkled under sun",
+              "back": "linaw nga nagkidlap sa ilawom sa adlaw"
+            },
+            {
+              "front": "forest grew with trees",
+              "back": "lasang mitubo uban sa mga kahoy"
+            },
+            {
+              "front": "plant thrived in sunlight",
+              "back": "ang tanom milambo sa kahayag sa adlaw"
+            },
+            {
+              "front": "flower bloomed in spring",
+              "back": "bulak namulak sa tingpamulak"
+            },
+            {
+              "front": "grass grew in ground",
+              "back": "sagbot mitubo sa yuta"
+            },
+            {
+              "front": "rock supported life ecosystem",
+              "back": "ecosystem sa kinabuhi nga gisuportahan sa bato"
+            },
+            {
+              "front": "leaf fell to ground",
+              "back": "dahon nahulog sa yuta"
+            },
+            {
+              "front": "root anchored in soil",
+              "back": "gamot nga nakaangkla sa yuta"
+            },
+            {
+              "front": "bush attracted wildlife garden",
+              "back": "bush nakadani sa wildlife garden"
+            },
+            {
+              "front": "stone weathered over time",
+              "back": "ang bato naguba sa paglabay sa panahon"
+            },
+            {
+              "front": "valley stretched wide and far",
+              "back": "walog nga mikaylap ug halayo"
+            },
+            {
+              "front": "canyon cut into earth",
+              "back": "canyon giputol sa yuta"
+            },
+            {
+              "front": "desert heated under sun",
+              "back": "desyerto nga gipainit ubos sa adlaw"
+            },
+            {
+              "front": "coast eroded with storms",
+              "back": "kabaybayonan nga naguba sa mga bagyo"
+            },
+            {
+              "front": "ocean surged against shore",
+              "back": "mibanos ang dagat batok sa baybayon"
+            },
+            {
+              "front": "bay calmed boats at sunset",
+              "back": "bay nagpakalma sa mga sakayan sa pagsalop sa adlaw"
+            },
+            {
+              "front": "island offered needed refuge",
+              "back": "isla nagtanyag ug gikinahanglan nga dangpanan"
+            },
+            {
+              "front": "hill rose into clouds",
+              "back": "bungtod mitubo ngadto sa mga panganod"
+            },
+            {
+              "front": "cliff crumbled into sea",
+              "back": "pangpang nahugno sa dagat"
+            },
+            {
+              "front": "stream babbled through rocks",
+              "back": "sapa nga nagbaha sa mga bato"
+            },
+            {
+              "front": "swamp teemed with life",
+              "back": "lamakan nga puno sa kinabuhi"
+            },
+            {
+              "front": "marsh dried up summer",
+              "back": "marsh nauga sa ting-init"
+            },
+            {
+              "front": "field flourished under sun",
+              "back": "kapatagan milambo ubos sa adlaw"
+            },
+            {
+              "front": "meadow bloomed with flowers",
+              "back": "kabalilihan namulak sa mga bulak"
+            },
+            {
+              "front": "woods provided shelter from storms",
+              "back": "kakahoyan naghatag kapasilongan gikan sa mga bagyo"
+            },
+            {
+              "front": "dark thicket concealed animals",
+              "back": "itom nga kalibonan gitagoan mga mananap"
+            },
+            {
+              "front": "canopy shaded weary travelers",
+              "back": "canopy shaded gikapoy nga mga magpapanaw"
+            },
+            {
+              "front": "branch broke off in wind",
+              "back": "naputol ang sanga sa hangin"
+            },
+            {
+              "front": "blossom opened for bees",
+              "back": "bulak nga giablihan alang sa mga putyokan"
+            },
+            {
+              "front": "fruit ripened on tree",
+              "back": "bunga nga hinog sa kahoy"
+            },
+            {
+              "front": "seed sprouted in garden",
+              "back": "liso nga miturok sa tanaman"
+            },
+            {
+              "front": "pine swayed in breeze",
+              "back": "ang pino nga natay-og sa hangin"
+            },
+            {
+              "front": "cedar thrived in soil",
+              "back": "ang sedro milambo sa yuta"
+            },
+            {
+              "front": "maple turned in autumn",
+              "back": "maple mibalik sa tingdagdag"
+            },
+            {
+              "front": "oak grew strong tree",
+              "back": "oak mitubo nga lig-on nga kahoy"
+            },
+            {
+              "front": "birch swayed in wind",
+              "back": "birch nga natay-og sa hangin"
+            },
+            {
+              "front": "willow bent to ground",
+              "back": "willow gibawog sa yuta"
+            },
+            {
+              "front": "aspen quaked in breeze",
+              "back": "si aspen mikurog sa hangin"
+            },
+            {
+              "front": "cactus thrived in drought",
+              "back": "Ang cactus milambo sa hulaw"
+            },
+            {
+              "front": "fern unfurled in shade",
+              "back": "pako nga gibuklad sa landong"
+            },
+            {
+              "front": "lichen spread across rock",
+              "back": "lichen mikaylap sa bato"
+            },
+            {
+              "front": "moss covered shaded ground",
+              "back": "gitabonan sa lumot nga landong nga yuta"
+            },
+            {
+              "front": "clover filled with green",
+              "back": "clover nga puno sa berde"
+            },
+            {
+              "front": "tulip opened in sun",
+              "back": "ang tulip gibuksan sa adlaw"
+            },
+            {
+              "front": "rose bloomed in garden",
+              "back": "rosas nga namulak sa tanaman"
+            },
+            {
+              "front": "daisy stood in grass",
+              "back": "daisy mibarog sa sagbot"
+            },
+            {
+              "front": "ivy climbed tall walls",
+              "back": "si ivy misaka sa taas nga mga bungbong"
+            },
+            {
+              "front": "cypress reached sky above",
+              "back": "ang cypress nakaabot sa langit sa ibabaw"
+            },
+            {
+              "front": "hazel produced nuts autumn",
+              "back": "Ang hazel nagpatunghag mga mani sa tingdagdag"
+            },
+            {
+              "front": "yew thrived near stream",
+              "back": "yew milambo duol sa sapa"
+            },
+            {
+              "front": "palm swayed in wind",
+              "back": "palad nga gikuso-kuso sa hangin"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "tree stood tall in forest",
+              "back": "taas nga punoan sa lasang"
+            },
+            {
+              "front": "mountain rose high above valley",
+              "back": "ang bukid mitaas sa ibabaw sa walog"
+            },
+            {
+              "front": "river flowed swiftly through landscape",
+              "back": "ang suba tulin nga midagayday sa talan-awon"
+            },
+            {
+              "front": "lake sparkled under the sun",
+              "back": "linaw nagkidlap ilalom sa adlaw"
+            },
+            {
+              "front": "forest grew thick with trees",
+              "back": "lasang mitubo nga baga sa mga kahoy"
+            },
+            {
+              "front": "plant thrived in sunlight yesterday",
+              "back": "Ang tanom milambo sa kahayag sa adlaw kagahapon"
+            },
+            {
+              "front": "flower bloomed brightly in spring",
+              "back": "bulak hayag nga namulak sa tingpamulak"
+            },
+            {
+              "front": "grass grew lush and green",
+              "back": "ang sagbot mitubo nga labong ug lunhaw"
+            },
+            {
+              "front": "rock supported life in ecosystem",
+              "back": "gisuportahan sa bato ang kinabuhi sa ekosistema"
+            },
+            {
+              "front": "leaf fell softly to ground",
+              "back": "hinay nga nahulog ang dahon sa yuta"
+            },
+            {
+              "front": "root anchored deeply in soil",
+              "back": "gamot nga nakaangkla sa lawom nga yuta"
+            },
+            {
+              "front": "bush attracted wildlife to garden",
+              "back": "bush nakadani sa wildlife sa tanaman"
+            },
+            {
+              "front": "stone weathered over long time",
+              "back": "ang bato nabuak sa dugay nga panahon"
+            },
+            {
+              "front": "valley stretched wide and far",
+              "back": "walog nga mikaylap ug halayo"
+            },
+            {
+              "front": "canyon cut deep into earth",
+              "back": "canyon giputol sa lawom nga yuta"
+            },
+            {
+              "front": "desert heated under bright sun",
+              "back": "desyerto nga gipainit ubos sa masanag nga adlaw"
+            },
+            {
+              "front": "coast eroded with passing storms",
+              "back": "kabaybayonan nahurot tungod sa paglabay sa mga bagyo"
+            },
+            {
+              "front": "ocean surged against rocky shore",
+              "back": "ang dagat mikusokuso batok sa batoon nga baybayon"
+            },
+            {
+              "front": "bay calmed boats at sunset",
+              "back": "bay nagpakalma sa mga sakayan sa pagsalop sa adlaw"
+            },
+            {
+              "front": "island offered refuge to travelers",
+              "back": "isla nagtanyag dangpanan sa mga magpapanaw"
+            },
+            {
+              "front": "hill rose gently into clouds",
+              "back": "ang bungtod hinay nga mitaas ngadto sa mga panganod"
+            },
+            {
+              "front": "cliff crumbled into the sea",
+              "back": "pangpang nahugno sa dagat"
+            },
+            {
+              "front": "stream babbled softly through rocks",
+              "back": "ang sapa hinay nga nag-agay sa mga bato"
+            },
+            {
+              "front": "swamp teemed with vibrant life",
+              "back": "kalamakan nga puno sa buhi nga kinabuhi"
+            },
+            {
+              "front": "marsh dried up during summer",
+              "back": "mamala ang kalamakan panahon sa ting-init"
+            },
+            {
+              "front": "field flourished under warm sun",
+              "back": "uma milambo ubos sa init nga adlaw"
+            },
+            {
+              "front": "meadow bloomed with colorful flowers",
+              "back": "kabalilihan namulak sa mabulukon nga mga bulak"
+            },
+            {
+              "front": "woods provided shelter from storms",
+              "back": "kakahoyan naghatag kapasilongan gikan sa mga bagyo"
+            },
+            {
+              "front": "thicket concealed many small animals",
+              "back": "kalibonan nagtago sa daghang gagmay nga mga mananap"
+            },
+            {
+              "front": "canopy shaded travelers from sun",
+              "back": "canopy shaded manlalakbay gikan sa adlaw"
+            },
+            {
+              "front": "branch broke off in wind",
+              "back": "naputol ang sanga sa hangin"
+            },
+            {
+              "front": "blossom opened wide for bees",
+              "back": "blossom gibuksan sa halapad alang sa mga putyokan"
+            },
+            {
+              "front": "fruit ripened slowly on tree",
+              "back": "bunga hinay nga nahinog sa kahoy"
+            },
+            {
+              "front": "seed sprouted quickly in garden",
+              "back": "ang liso miturok dayon sa tanaman"
+            },
+            {
+              "front": "pine swayed gently in breeze",
+              "back": "Ang pino hinay nga nag-uyog sa hangin"
+            },
+            {
+              "front": "cedar thrived in rich soil",
+              "back": "Ang sedro milambo sa tabunok nga yuta"
+            },
+            {
+              "front": "maple turned bright in autumn",
+              "back": "Ang maple nahimong hayag sa tingdagdag"
+            },
+            {
+              "front": "oak grew strong and sturdy",
+              "back": "oak mitubo nga lig-on ug lig-on"
+            },
+            {
+              "front": "birch swayed softly in wind",
+              "back": "Ang birch hinay nga nag-uyog sa hangin"
+            },
+            {
+              "front": "willow bent low to ground",
+              "back": "ang willow gibawog ubos sa yuta"
+            },
+            {
+              "front": "aspen quaked gently in breeze",
+              "back": "Hinay nga mikurog si aspen sa huyohoy"
+            },
+            {
+              "front": "cactus thrived despite dry conditions",
+              "back": "Ang cactus milambo bisan pa sa uga nga kahimtang"
+            },
+            {
+              "front": "fern unfurled gracefully in shade",
+              "back": "Ang pako maayo nga gibuklad sa landong"
+            },
+            {
+              "front": "lichen spread across the rock",
+              "back": "lichen mikaylap sa bato"
+            },
+            {
+              "front": "moss covered ground near stream",
+              "back": "yuta nga natabonan sa lumot duol sa sapa"
+            },
+            {
+              "front": "clover filled fields with green",
+              "back": "clover nga puno sa mga umahan nga adunay berde"
+            },
+            {
+              "front": "tulip opened fully in sun",
+              "back": "Ang tulip gibuksan sa hingpit sa adlaw"
+            },
+            {
+              "front": "rose bloomed beautifully in garden",
+              "back": "nindot nga namulak ang rosas sa tanaman"
+            },
+            {
+              "front": "daisy stood tall in grass",
+              "back": "Ang daisy nagbarog nga taas sa sagbot"
+            },
+            {
+              "front": "ivy climbed walls of building",
+              "back": "ivy mikatkat sa mga bungbong sa bilding"
+            },
+            {
+              "front": "cypress reached sky above others",
+              "back": "ang cypress nakaabot sa langit labaw sa uban"
+            },
+            {
+              "front": "hazel produced nuts in autumn",
+              "back": "Ang hazel nagpatunghag mga nut sa tingdagdag"
+            },
+            {
+              "front": "yew thrived near the stream",
+              "back": "yew milambo duol sa sapa"
+            },
+            {
+              "front": "palm swayed gently in wind",
+              "back": "palad nga hinay nga gikuyugyog sa hangin"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "tree stood tall in the forest",
+              "back": "ang kahoy nagbarog nga taas sa lasang"
+            },
+            {
+              "front": "mountain rose high above the valley",
+              "back": "ang bukid mitaas sa ibabaw sa walog"
+            },
+            {
+              "front": "river flowed swiftly through the landscape",
+              "back": "ang suba tulin nga midagayday sa talan-awon"
+            },
+            {
+              "front": "lake sparkled under the bright sun",
+              "back": "linaw nga misidlak ilalom sa masanag nga adlaw"
+            },
+            {
+              "front": "forest grew thick with ancient trees",
+              "back": "lasang mitubo nga baga sa karaang mga kahoy"
+            },
+            {
+              "front": "plant thrived in the warm sunlight",
+              "back": "ang tanom milambo sa init nga kahayag sa adlaw"
+            },
+            {
+              "front": "flower bloomed brightly in the spring",
+              "back": "bulak namulak hayag sa tingpamulak"
+            },
+            {
+              "front": "grass grew lush across the field",
+              "back": "sagbot mitubo nga labong sa kapatagan"
+            },
+            {
+              "front": "rock supported life in the ecosystem",
+              "back": "gisuportahan sa bato ang kinabuhi sa ekosistema"
+            },
+            {
+              "front": "leaf fell gently to the ground",
+              "back": "hinay nga nahulog ang dahon sa yuta"
+            },
+            {
+              "front": "root anchored deep in the soil",
+              "back": "gamot nga nakaangkla lawom sa yuta"
+            },
+            {
+              "front": "bush attracted wildlife seeking shelter",
+              "back": "bush nakadani sa ihalas nga mga mananap nga nangita ug kapuy-an"
+            },
+            {
+              "front": "stone weathered over a long time",
+              "back": "bato nga naguba sa dugay nga panahon"
+            },
+            {
+              "front": "valley stretched wide into the distance",
+              "back": "walog nga mikaylap sa halayo"
+            },
+            {
+              "front": "canyon cut deep into the earth",
+              "back": "canyon giputol sa lawom nga yuta"
+            },
+            {
+              "front": "desert heated under the bright sun",
+              "back": "desyerto nga gipainit ubos sa masanag nga adlaw"
+            },
+            {
+              "front": "coast eroded gradually over many storms",
+              "back": "ang baybayon anam-anam nga naguba tungod sa daghang mga bagyo"
+            },
+            {
+              "front": "ocean surged against the rocky shore",
+              "back": "ang dagat mikusokuso batok sa batoon nga baybayon"
+            },
+            {
+              "front": "bay calmed boats during the sunset",
+              "back": "bay nagpakalma sa mga sakayan panahon sa pagsalop sa adlaw"
+            },
+            {
+              "front": "island offered refuge for weary travelers",
+              "back": "ang isla nagtanyag ug dangpanan alang sa gikapoy nga mga magpapanaw"
+            },
+            {
+              "front": "hill rose gently into the clouds",
+              "back": "bungtod nga hinay nga misaka ngadto sa mga panganod"
+            },
+            {
+              "front": "cliff crumbled into the raging sea",
+              "back": "pangpang nahugno ngadto sa mabangis nga dagat"
+            },
+            {
+              "front": "stream babbled softly over the rocks",
+              "back": "hinay nga nagbaha ang sapa ibabaw sa mga bato"
+            },
+            {
+              "front": "swamp teemed with life and beauty",
+              "back": "lamakan nga puno sa kinabuhi ug katahum"
+            },
+            {
+              "front": "marsh dried up during the summer",
+              "back": "ang kalamakan nauga sa panahon sa ting-init"
+            },
+            {
+              "front": "field flourished under the warm sun",
+              "back": "ang uma milambo ubos sa init nga adlaw"
+            },
+            {
+              "front": "meadow bloomed with colorful wildflowers",
+              "back": "kabalilihan namulak sa mabulukon nga ihalas nga mga bulak"
+            },
+            {
+              "front": "woods provided shelter from fierce storms",
+              "back": "kakahoyan naghatag kapasilongan gikan sa mabangis nga mga bagyo"
+            },
+            {
+              "front": "thicket concealed many small animals",
+              "back": "kalibonan nagtago sa daghang gagmay nga mga mananap"
+            },
+            {
+              "front": "canopy shaded travelers from the sun",
+              "back": "canopy shaded manlalakbay gikan sa adlaw"
+            },
+            {
+              "front": "branch broke off during the storm",
+              "back": "naputol ang sanga sa panahon sa bagyo"
+            },
+            {
+              "front": "blossom opened wide for the bees",
+              "back": "blossom miabli sa halapad nga alang sa mga putyokan"
+            },
+            {
+              "front": "fruit ripened slowly on the tree",
+              "back": "hinayhinay nga nahinog ang prutas sa punoan"
+            },
+            {
+              "front": "seed sprouted quickly in the garden",
+              "back": "ang liso miturok dayon sa tanaman"
+            },
+            {
+              "front": "pine swayed gently in the breeze",
+              "back": "ang pino hinay nga nag-uyog sa hangin"
+            },
+            {
+              "front": "cedar thrived well in the soil",
+              "back": "Ang sedro milambo pag-ayo sa yuta"
+            },
+            {
+              "front": "maple turned bright during the fall",
+              "back": "maple nahimong hayag sa panahon sa tingdagdag"
+            },
+            {
+              "front": "oak grew strong over many years",
+              "back": "oak mitubo nga lig-on sa daghang mga tuig"
+            },
+            {
+              "front": "birch swayed softly in the wind",
+              "back": "Ang birch hinay nga nag-uyog sa hangin"
+            },
+            {
+              "front": "willow bent low to the ground",
+              "back": "ang willow gibawog ubos sa yuta"
+            },
+            {
+              "front": "aspen quaked lightly in the breeze",
+              "back": "hinay nga nitay-og si aspen sa hangin"
+            },
+            {
+              "front": "cactus thrived despite the dry conditions",
+              "back": "Ang cactus milambo bisan pa sa uga nga kahimtang"
+            },
+            {
+              "front": "fern unfurled gracefully in the shade",
+              "back": "Ang pako nindot nga gibuklad sa landong"
+            },
+            {
+              "front": "lichen spread widely across the rock",
+              "back": "lichen mikaylap sa tibuok bato"
+            },
+            {
+              "front": "moss covered ground near the stream",
+              "back": "natabonan sa lumot duol sa sapa"
+            },
+            {
+              "front": "clover filled fields with bright green",
+              "back": "Ang clover nga puno sa mga umahan nga adunay mahayag nga berde"
+            },
+            {
+              "front": "tulip opened fully in the sun",
+              "back": "ang tulip naabli sa hingpit sa adlaw"
+            },
+            {
+              "front": "rose bloomed beautifully in the garden",
+              "back": "nindot nga namulak ang rosas sa tanaman"
+            },
+            {
+              "front": "daisy stood tall in the grass",
+              "back": "Si daisy mibarog nga taas sa kasagbutan"
+            },
+            {
+              "front": "ivy climbed walls of the building",
+              "back": "si ivy mikatkat sa mga bungbong sa bilding"
+            },
+            {
+              "front": "cypress reached sky above the others",
+              "back": "ang cypress nakaabot sa langit labaw sa uban"
+            },
+            {
+              "front": "hazel produced nuts during the autumn",
+              "back": "Ang hazel nagpatunghag mga nut sa panahon sa tingdagdag"
+            },
+            {
+              "front": "yew thrived near the flowing stream",
+              "back": "yew milambo duol sa nagaagay nga sapa"
+            },
+            {
+              "front": "palm swayed gently in the wind",
+              "back": "palad nga mahinay nga nagkuyugyog sa hangin"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "tree will grow",
+              "back": "motubo ang kahoy"
+            },
+            {
+              "front": "mountain will rise",
+              "back": "motaas ang bukid"
+            },
+            {
+              "front": "river will flow",
+              "back": "modagayday ang suba"
+            },
+            {
+              "front": "lake will sparkle",
+              "back": "linaw mokidlap"
+            },
+            {
+              "front": "forest will expand",
+              "back": "molapad ang lasang"
+            },
+            {
+              "front": "plant will thrive",
+              "back": "molambo ang tanom"
+            },
+            {
+              "front": "flower will bloom",
+              "back": "mamulak ang bulak"
+            },
+            {
+              "front": "grass will grow",
+              "back": "motubo ang balili"
+            },
+            {
+              "front": "rock will weather",
+              "back": "bato ang mag-agwanta"
+            },
+            {
+              "front": "leaf will fall",
+              "back": "mahulog ang dahon"
+            },
+            {
+              "front": "root will anchor",
+              "back": "gamut moangkla"
+            },
+            {
+              "front": "bush will attract",
+              "back": "bush makadani"
+            },
+            {
+              "front": "stone will support",
+              "back": "bato ang mosuporta"
+            },
+            {
+              "front": "valley will stretch",
+              "back": "walog moinat"
+            },
+            {
+              "front": "canyon will deepen",
+              "back": "molawom ang canyon"
+            },
+            {
+              "front": "desert will heat",
+              "back": "ang desyerto moinit"
+            },
+            {
+              "front": "coast will erode",
+              "back": "maguba ang baybayon"
+            },
+            {
+              "front": "ocean will surge",
+              "back": "modagayday ang dagat"
+            },
+            {
+              "front": "bay will calm",
+              "back": "bay mokalma"
+            },
+            {
+              "front": "island will appear",
+              "back": "isla makita"
+            },
+            {
+              "front": "hill will rise",
+              "back": "bungtod mobangon"
+            },
+            {
+              "front": "cliff will crumble",
+              "back": "madugmok ang pangpang"
+            },
+            {
+              "front": "stream will babble",
+              "back": "ang sapa magbugalbugal"
+            },
+            {
+              "front": "swamp will teem",
+              "back": "mapuno ang kalamakan"
+            },
+            {
+              "front": "marsh will dry",
+              "back": "mamala ang kalamakan"
+            },
+            {
+              "front": "field will flourish",
+              "back": "uma molambo"
+            },
+            {
+              "front": "meadow will bloom",
+              "back": "mamulak ang kasagbutan"
+            },
+            {
+              "front": "woods will provide",
+              "back": "kahoy ang maghatag"
+            },
+            {
+              "front": "thicket will conceal",
+              "back": "ang kalibonan motago"
+            },
+            {
+              "front": "canopy will shade",
+              "back": "palandongan ang canopy"
+            },
+            {
+              "front": "branch will break",
+              "back": "mabali ang sanga"
+            },
+            {
+              "front": "blossom will open",
+              "back": "mabuklad ang bulak"
+            },
+            {
+              "front": "fruit will ripen",
+              "back": "ang bunga mahinog"
+            },
+            {
+              "front": "seed will sprout",
+              "back": "ang liso moturok"
+            },
+            {
+              "front": "pine will sway",
+              "back": "magkurog ang pino"
+            },
+            {
+              "front": "cedar will thrive",
+              "back": "molambo ang cedro"
+            },
+            {
+              "front": "maple will turn",
+              "back": "moliko ang maple"
+            },
+            {
+              "front": "oak will grow",
+              "back": "motubo ang oak"
+            },
+            {
+              "front": "birch will sway",
+              "back": "ang birch mag-uyog"
+            },
+            {
+              "front": "willow will bend",
+              "back": "ang willow moliko"
+            },
+            {
+              "front": "aspen will quake",
+              "back": "magkurog si aspen"
+            },
+            {
+              "front": "cactus will thrive",
+              "back": "molambo ang cactus"
+            },
+            {
+              "front": "fern will unfurl",
+              "back": "mobukhad ang pako"
+            },
+            {
+              "front": "lichen will spread",
+              "back": "mokatap ang lichen"
+            },
+            {
+              "front": "moss will cover",
+              "back": "motabon ang lumot"
+            },
+            {
+              "front": "clover will fill",
+              "back": "mapuno ang clover"
+            },
+            {
+              "front": "tulip will open",
+              "back": "maablihan ang tulip"
+            },
+            {
+              "front": "rose will bloom",
+              "back": "mamulak ang rosas"
+            },
+            {
+              "front": "daisy will stand",
+              "back": "mobarog si daisy"
+            },
+            {
+              "front": "ivy will climb",
+              "back": "mosaka si ivy"
+            },
+            {
+              "front": "cypress will reach",
+              "back": "moabot ang cypress"
+            },
+            {
+              "front": "hazel will produce",
+              "back": "mamunga ang hazel"
+            },
+            {
+              "front": "yew will thrive",
+              "back": "yew molambo"
+            },
+            {
+              "front": "palm will sway",
+              "back": "palad magkuyugyog"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "tree will grow tall",
+              "back": "motaas ang kahoy"
+            },
+            {
+              "front": "mountain will rise high",
+              "back": "motaas ang bukid"
+            },
+            {
+              "front": "river will flow smoothly",
+              "back": "ang suba modagayday nga hapsay"
+            },
+            {
+              "front": "lake will sparkle brightly",
+              "back": "linaw mokidlap hayag"
+            },
+            {
+              "front": "forest will expand gradually",
+              "back": "lasang molapad sa hinay-hinay"
+            },
+            {
+              "front": "plant will thrive abundantly",
+              "back": "ang tanom molambo nga madagayaon"
+            },
+            {
+              "front": "flower will bloom beautifully",
+              "back": "mamulak nga nindot ang bulak"
+            },
+            {
+              "front": "grass will grow lush",
+              "back": "ang sagbot motubo nga labong"
+            },
+            {
+              "front": "rock will support life",
+              "back": "bato mosuporta sa kinabuhi"
+            },
+            {
+              "front": "leaf will fall gently",
+              "back": "hinay nga mahulog ang dahon"
+            },
+            {
+              "front": "root will anchor deeply",
+              "back": "gamut moangkla og lawom"
+            },
+            {
+              "front": "bush will attract wildlife",
+              "back": "bush makadani sa wildlife"
+            },
+            {
+              "front": "stone will weather slowly",
+              "back": "Ang bato hinayhinay nga magbag-o"
+            },
+            {
+              "front": "valley will stretch wide",
+              "back": "ang walog mosangkad"
+            },
+            {
+              "front": "canyon will cut deep",
+              "back": "ang canyon moputol ug lawom"
+            },
+            {
+              "front": "desert will heat up",
+              "back": "ang desyerto moinit"
+            },
+            {
+              "front": "coast will erode gradually",
+              "back": "anam-anam nga maguba ang baybayon"
+            },
+            {
+              "front": "ocean will surge powerfully",
+              "back": "kusog nga modagayday ang dagat"
+            },
+            {
+              "front": "bay will calm boats",
+              "back": "bay magpakalma sa mga sakayan"
+            },
+            {
+              "front": "island will appear suddenly",
+              "back": "kalit nga makita ang isla"
+            },
+            {
+              "front": "hill will rise gently",
+              "back": "bungtod mobangon sa hinay"
+            },
+            {
+              "front": "cliff will crumble slowly",
+              "back": "pangpang hinay nga madugmok"
+            },
+            {
+              "front": "stream will babble happily",
+              "back": "ang sapa magbugalbugal nga malipayon"
+            },
+            {
+              "front": "swamp will teem with life",
+              "back": "ang kalamakan mapuno sa kinabuhi"
+            },
+            {
+              "front": "marsh will dry up",
+              "back": "mamala ang kalamakan"
+            },
+            {
+              "front": "field will flourish beautifully",
+              "back": "uma molambo nga nindot"
+            },
+            {
+              "front": "meadow will bloom brightly",
+              "back": "sibsibanan mamulak nga hayag"
+            },
+            {
+              "front": "woods will provide shelter",
+              "back": "kakahoyan maghatag ug kapasilongan"
+            },
+            {
+              "front": "thicket will conceal animals",
+              "back": "kalibonan motago sa mga mananap"
+            },
+            {
+              "front": "canopy will shade travelers",
+              "back": "canopy molandong sa mga magpapanaw"
+            },
+            {
+              "front": "branch will break easily",
+              "back": "dali ra mabali ang sanga"
+            },
+            {
+              "front": "blossom will open wide",
+              "back": "ang bulak mobukad ug lapad"
+            },
+            {
+              "front": "fruit will ripen fully",
+              "back": "ang bunga mahinog sa hingpit"
+            },
+            {
+              "front": "seed will sprout quickly",
+              "back": "ang liso mogitib dayon"
+            },
+            {
+              "front": "pine will sway gently",
+              "back": "ang pino mag-uyog nga hinay"
+            },
+            {
+              "front": "cedar will thrive well",
+              "back": "ang cedro molambo ug maayo"
+            },
+            {
+              "front": "maple will turn red",
+              "back": "maple mahimong pula"
+            },
+            {
+              "front": "oak will grow strong",
+              "back": "motubo nga lig-on ang oak"
+            },
+            {
+              "front": "birch will sway lazily",
+              "back": "Ang birch mag-uyog nga tapolan"
+            },
+            {
+              "front": "willow will bend gracefully",
+              "back": "ang willow moliko nga nindot"
+            },
+            {
+              "front": "aspen will quake lightly",
+              "back": "aspen mutay-og gamay"
+            },
+            {
+              "front": "cactus will thrive abundantly",
+              "back": "Ang cactus molambo nga madagayaon"
+            },
+            {
+              "front": "fern will unfurl slowly",
+              "back": "Ang pako hinay nga mobukhad"
+            },
+            {
+              "front": "lichen will spread widely",
+              "back": "mokaylap ang lichen"
+            },
+            {
+              "front": "moss will cover ground",
+              "back": "ang lumot motabon sa yuta"
+            },
+            {
+              "front": "clover will fill fields",
+              "back": "ang clover mopuno sa mga uma"
+            },
+            {
+              "front": "tulip will open fully",
+              "back": "Ang tulip moabli sa hingpit"
+            },
+            {
+              "front": "rose will bloom beautifully",
+              "back": "mamulak nga nindot ang rosas"
+            },
+            {
+              "front": "daisy will stand tall",
+              "back": "daisy mobarog nga taas"
+            },
+            {
+              "front": "ivy will climb high",
+              "back": "ivy mosaka sa taas"
+            },
+            {
+              "front": "cypress will reach sky",
+              "back": "ang sipres moabot sa langit"
+            },
+            {
+              "front": "hazel will produce nuts",
+              "back": "ang hazel magpatunghag mga nut"
+            },
+            {
+              "front": "yew will thrive well",
+              "back": "yew molambo pag-ayo"
+            },
+            {
+              "front": "palm will sway gently",
+              "back": "ang palad hinayhinay nga magkuyugyog"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "tree will grow tall soon",
+              "back": "ang kahoy motubo sa dili madugay"
+            },
+            {
+              "front": "mountain will rise above valley",
+              "back": "bukid mobangon ibabaw sa walog"
+            },
+            {
+              "front": "river will flow through landscape",
+              "back": "suba modagayday sa talan-awon"
+            },
+            {
+              "front": "lake will sparkle in sunlight",
+              "back": "lanaw mokidlap sa kahayag sa adlaw"
+            },
+            {
+              "front": "forest will expand over time",
+              "back": "molapad ang kalasangan sa paglabay sa panahon"
+            },
+            {
+              "front": "plant will thrive in sunlight",
+              "back": "ang tanom molambo sa kahayag sa adlaw"
+            },
+            {
+              "front": "flower will bloom in spring",
+              "back": "bulak mamulak sa tingpamulak"
+            },
+            {
+              "front": "grass will grow lush green",
+              "back": "ang balili motubo nga malunhaw nga berde"
+            },
+            {
+              "front": "rock will support ecosystem life",
+              "back": "bato mosuporta sa kinabuhi sa ekosistema"
+            },
+            {
+              "front": "leaf will fall to ground",
+              "back": "dahon mahulog sa yuta"
+            },
+            {
+              "front": "root will anchor deeply tomorrow",
+              "back": "gamut moangkla pag-ayo ugma"
+            },
+            {
+              "front": "bush will attract local wildlife",
+              "back": "bush makadani sa lokal nga wildlife"
+            },
+            {
+              "front": "stone will weather over years",
+              "back": "Ang bato molungtad sa daghang mga tuig"
+            },
+            {
+              "front": "valley will stretch far away",
+              "back": "ang walog mosangkad sa halayo"
+            },
+            {
+              "front": "canyon will cut through earth",
+              "back": "ang canyon moguba sa yuta"
+            },
+            {
+              "front": "desert will heat under sun",
+              "back": "ang desyerto moinit sa ilawom sa adlaw"
+            },
+            {
+              "front": "coast will erode over time",
+              "back": "ang baybayon maguba sa paglabay sa panahon"
+            },
+            {
+              "front": "ocean will surge against shore",
+              "back": "ang dagat mosulbong batok sa baybayon"
+            },
+            {
+              "front": "bay will calm boats overnight",
+              "back": "bay magpakalma sa mga sakayan sa tibuok gabii"
+            },
+            {
+              "front": "island will appear in distance",
+              "back": "ang isla makita sa layo"
+            },
+            {
+              "front": "hill will rise gently again",
+              "back": "bungtod mobangon sa hinayhinay pag-usab"
+            },
+            {
+              "front": "cliff will crumble into sea",
+              "back": "pangpang madugmok sa dagat"
+            },
+            {
+              "front": "stream will babble over rocks",
+              "back": "ang sapa mag-uwang sa ibabaw sa mga bato"
+            },
+            {
+              "front": "swamp will teem with life",
+              "back": "ang kalamakan mapuno sa kinabuhi"
+            },
+            {
+              "front": "marsh will dry during summer",
+              "back": "mamala ang kalamakan panahon sa ting-init"
+            },
+            {
+              "front": "field will flourish with flowers",
+              "back": "uma molambo sa mga bulak"
+            },
+            {
+              "front": "meadow will bloom with colors",
+              "back": "kabalilihan mamulak sa mga kolor"
+            },
+            {
+              "front": "woods will provide shelter soon",
+              "back": "kakahoyan maghatag ug kapasilongan sa dili madugay"
+            },
+            {
+              "front": "thicket will conceal many animals",
+              "back": "kalibonan motago sa daghang mga mananap"
+            },
+            {
+              "front": "canopy will shade travelers from sun",
+              "back": "Ang canopy maglandong sa mga magpapanaw gikan sa adlaw"
+            },
+            {
+              "front": "branch will break in storm",
+              "back": "maguba ang sanga sa bagyo"
+            },
+            {
+              "front": "blossom will open for bees",
+              "back": "ang bulak moabli alang sa mga putyokan"
+            },
+            {
+              "front": "fruit will ripen on tree",
+              "back": "ang bunga mahinog sa kahoy"
+            },
+            {
+              "front": "seed will sprout in garden",
+              "back": "ang liso moturok sa tanaman"
+            },
+            {
+              "front": "pine will sway in breeze",
+              "back": "ang pino mag-uyog sa hangin"
+            },
+            {
+              "front": "cedar will thrive in soil",
+              "back": "ang cedro molambo sa yuta"
+            },
+            {
+              "front": "maple will turn in autumn",
+              "back": "maple mobalik sa tingdagdag"
+            },
+            {
+              "front": "oak will grow strong tree",
+              "back": "Ang oak motubo nga lig-on nga kahoy"
+            },
+            {
+              "front": "birch will sway in wind",
+              "back": "Ang birch mag-uyog sa hangin"
+            },
+            {
+              "front": "willow will bend to ground",
+              "back": "ang willow moliko sa yuta"
+            },
+            {
+              "front": "aspen will quake in breeze",
+              "back": "Ang aspen mokurog sa hangin"
+            },
+            {
+              "front": "cactus will thrive in drought",
+              "back": "Ang cactus molambo sa hulaw"
+            },
+            {
+              "front": "fern will unfurl in shade",
+              "back": "ang pako mobukhad sa landong"
+            },
+            {
+              "front": "lichen will spread across rock",
+              "back": "Ang lichen mokaylap sa bato"
+            },
+            {
+              "front": "moss will cover ground near stream",
+              "back": "ang lumot motabon sa yuta duol sa sapa"
+            },
+            {
+              "front": "clover will fill with green",
+              "back": "ang clover mapuno sa berde"
+            },
+            {
+              "front": "tulip will open in sun",
+              "back": "Ang tulip moabli sa adlaw"
+            },
+            {
+              "front": "rose will bloom in garden",
+              "back": "mamulak ang rosas sa tanaman"
+            },
+            {
+              "front": "daisy will stand in grass",
+              "back": "daisy mobarog sa balili"
+            },
+            {
+              "front": "ivy will climb walls of building",
+              "back": "Ang ivy mosaka sa mga bungbong sa bilding"
+            },
+            {
+              "front": "cypress will reach sky above",
+              "back": "ang cypress moabot sa langit sa itaas"
+            },
+            {
+              "front": "hazel will produce nuts autumn",
+              "back": "Ang hazel magpatunghag mga nuts sa tingdagdag"
+            },
+            {
+              "front": "yew will thrive near stream",
+              "back": "yew molambo duol sa sapa"
+            },
+            {
+              "front": "palm will sway in wind",
+              "back": "ang palad magkuyugyog sa hangin"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "tree will grow tall in the forest",
+              "back": "ang kahoy motubo nga taas sa lasang"
+            },
+            {
+              "front": "mountain will rise high above the valley",
+              "back": "ang bukid motaas sa ibabaw sa walog"
+            },
+            {
+              "front": "river will flow smoothly through the landscape",
+              "back": "suba nga hapsay nga modagayday sa talan-awon"
+            },
+            {
+              "front": "lake will sparkle brightly in the sunlight",
+              "back": "linaw mokidlap hayag sa kahayag sa adlaw"
+            },
+            {
+              "front": "forest will expand gradually over the years",
+              "back": "lasang molapad sa hinay-hinay sulod sa katuigan"
+            },
+            {
+              "front": "plant will thrive abundantly in sunlight",
+              "back": "Ang tanom molambo nga madagayaon sa kahayag sa adlaw"
+            },
+            {
+              "front": "flower will bloom beautifully in springtime",
+              "back": "nindot nga mamulak ang bulak sa panahon sa tingpamulak"
+            },
+            {
+              "front": "grass will grow lush across the field",
+              "back": "ang sagbot motubo nga labong latas sa uma"
+            },
+            {
+              "front": "rock will support life in ecosystem",
+              "back": "bato mosuporta sa kinabuhi sa ekosistema"
+            },
+            {
+              "front": "leaf will fall gently to the ground",
+              "back": "hinay nga mahulog ang dahon sa yuta"
+            },
+            {
+              "front": "root will anchor deeply in the soil",
+              "back": "gamut moangkla og lawom sa yuta"
+            },
+            {
+              "front": "bush will attract wildlife seeking shelter",
+              "back": "bush makadani sa wildlife nga nangita ug kapuy-an"
+            },
+            {
+              "front": "stone will weather slowly over many years",
+              "back": "Ang bato hinayhinay nga magbag-o sa daghang mga tuig"
+            },
+            {
+              "front": "valley will stretch wide into the distance",
+              "back": "ang walog mosangkad sa halayo"
+            },
+            {
+              "front": "canyon will cut deep into the earth",
+              "back": "ang canyon maputol sa lawom nga yuta"
+            },
+            {
+              "front": "desert will heat up under the sun",
+              "back": "ang desyerto moinit ilalom sa adlaw"
+            },
+            {
+              "front": "coast will erode gradually with storms",
+              "back": "ang baybayon anam-anam nga maguba uban sa mga bagyo"
+            },
+            {
+              "front": "ocean will surge against the rocky shore",
+              "back": "ang dagat modagsa batok sa batoon nga baybayon"
+            },
+            {
+              "front": "bay will calm boats at sunset",
+              "back": "bay magpakalma sa mga sakayan sa pagsalop sa adlaw"
+            },
+            {
+              "front": "island will appear suddenly on horizon",
+              "back": "kalit nga makita sa kapunawpunawan ang isla"
+            },
+            {
+              "front": "hill will rise gently into the sky",
+              "back": "ang bungtod hinayhinay nga mosaka ngadto sa langit"
+            },
+            {
+              "front": "cliff will crumble slowly into the sea",
+              "back": "pangpang hinayhinay nga madugmok ngadto sa dagat"
+            },
+            {
+              "front": "stream will babble happily over rocks",
+              "back": "ang sapa maglibak nga malipayon ibabaw sa mga bato"
+            },
+            {
+              "front": "swamp will teem with life and beauty",
+              "back": "ang kalamakan mapuno sa kinabuhi ug katahum"
+            },
+            {
+              "front": "marsh will dry up during hot summer",
+              "back": "mamala ang kalamakan panahon sa init nga ting-init"
+            },
+            {
+              "front": "field will flourish beautifully under sunshine",
+              "back": "Ang uma molambo nga matahum sa ilawom sa silaw sa adlaw"
+            },
+            {
+              "front": "meadow will bloom with colorful wildflowers",
+              "back": "mamulak ang sibsibanan uban sa mabulukon nga ihalas nga mga bulak"
+            },
+            {
+              "front": "woods will provide shelter from storms",
+              "back": "kakahoyan maghatag ug kapasilongan gikan sa mga bagyo"
+            },
+            {
+              "front": "thicket will conceal many small animals",
+              "back": "kalibonan motago sa daghang gagmay nga mga mananap"
+            },
+            {
+              "front": "canopy will shade travelers from sun",
+              "back": "Ang canopy maglandong sa mga magpapanaw gikan sa adlaw"
+            },
+            {
+              "front": "branch will break off in strong wind",
+              "back": "ang sanga maputol tungod sa kusog nga hangin"
+            },
+            {
+              "front": "blossom will open wide for the bees",
+              "back": "ang bulak mobuka ug lapad para sa mga putyokan"
+            },
+            {
+              "front": "fruit will ripen slowly on tree",
+              "back": "ang bunga hinayhinay nga mahinog sa kahoy"
+            },
+            {
+              "front": "seed will sprout quickly in the garden",
+              "back": "Ang liso moturok dayon sa tanaman"
+            },
+            {
+              "front": "pine will sway gently in the breeze",
+              "back": "ang pino hinay nga mag-uyog sa hangin"
+            },
+            {
+              "front": "cedar will thrive well in the soil",
+              "back": "ang cedro molambo pag-ayo sa yuta"
+            },
+            {
+              "front": "maple will turn bright during autumn",
+              "back": "maple mahimong hayag sa panahon sa tingdagdag"
+            },
+            {
+              "front": "oak will grow strong over the years",
+              "back": "oak motubo nga lig-on sa ibabaw sa mga tuig"
+            },
+            {
+              "front": "birch will sway softly in the wind",
+              "back": "Ang birch hinay nga mag-uyog sa hangin"
+            },
+            {
+              "front": "willow will bend gracefully to ground",
+              "back": "ang willow mobawog nga nindot sa yuta"
+            },
+            {
+              "front": "aspen will quake lightly in the breeze",
+              "back": "Ang aspen motay-og gamay sa hangin"
+            },
+            {
+              "front": "cactus will thrive despite dry conditions",
+              "back": "Ang cactus molambo bisan pa sa uga nga kahimtang"
+            },
+            {
+              "front": "fern will unfurl gracefully in the shade",
+              "back": "Ang pako mobukhad nga matahum sa landong"
+            },
+            {
+              "front": "lichen will spread widely across the rock",
+              "back": "Ang lichen mokaylap sa bato"
+            },
+            {
+              "front": "moss will cover ground near the stream",
+              "back": "ang lumot motabon sa yuta duol sa sapa"
+            },
+            {
+              "front": "clover will fill fields with green growth",
+              "back": "Ang clover mopuno sa mga umahan nga adunay berde nga pagtubo"
+            },
+            {
+              "front": "tulip will open fully in the sun",
+              "back": "Ang tulip moabli sa hingpit sa adlaw"
+            },
+            {
+              "front": "rose will bloom beautifully in the garden",
+              "back": "nindot nga mamulak ang rosas sa tanaman"
+            },
+            {
+              "front": "daisy will stand in the grass",
+              "back": "daisy mobarog sa balili"
+            },
+            {
+              "front": "ivy will climb tall building walls",
+              "back": "Ang ivy mosaka sa taas nga mga bungbong sa bilding"
+            },
+            {
+              "front": "cypress will reach for the sky",
+              "back": "ang sipres makaabot sa langit"
+            },
+            {
+              "front": "hazel will produce nuts during autumn",
+              "back": "Ang hazel magpatunghag mga nut panahon sa tingdagdag"
+            },
+            {
+              "front": "yew will thrive near the stream",
+              "back": "yew molambo duol sa sapa"
+            },
+            {
+              "front": "palm will sway in the wind",
+              "back": "ang palad magkuyugyog sa hangin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

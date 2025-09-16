@@ -1,0 +1,1668 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Family",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Mother",
+              "back": "inahan"
+            },
+            {
+              "front": "Father",
+              "back": "amahan"
+            },
+            {
+              "front": "Daughter",
+              "back": "anak nga babaye"
+            },
+            {
+              "front": "Son",
+              "back": "anak"
+            },
+            {
+              "front": "Brother",
+              "back": "igsoon"
+            },
+            {
+              "front": "Sister",
+              "back": "igsoon nga babaye"
+            },
+            {
+              "front": "Uncle",
+              "back": "uyoan"
+            },
+            {
+              "front": "Aunt",
+              "back": "iyaan"
+            },
+            {
+              "front": "Cousin",
+              "back": "ig-agaw"
+            },
+            {
+              "front": "Grandmother",
+              "back": "lola"
+            },
+            {
+              "front": "Grandfather",
+              "back": "apohan"
+            },
+            {
+              "front": "Niece",
+              "back": "pag-umangkon"
+            },
+            {
+              "front": "Nephew",
+              "back": "pag-umangkon"
+            },
+            {
+              "front": "Parent",
+              "back": "ginikanan"
+            },
+            {
+              "front": "Child",
+              "back": "bata"
+            },
+            {
+              "front": "Family",
+              "back": "pamilya"
+            },
+            {
+              "front": "Relative",
+              "back": "paryente"
+            },
+            {
+              "front": "Spouse",
+              "back": "kapikas"
+            },
+            {
+              "front": "Partner",
+              "back": "kauban"
+            },
+            {
+              "front": "Sibling",
+              "back": "igsoon"
+            },
+            {
+              "front": "Kin",
+              "back": "kaparyentihan"
+            },
+            {
+              "front": "Guardian",
+              "back": "magbalantay"
+            },
+            {
+              "front": "Stepchild",
+              "back": "stepchild"
+            },
+            {
+              "front": "Stepparent",
+              "back": "amaama"
+            },
+            {
+              "front": "Half-sister",
+              "back": "igsoon nga babaye"
+            },
+            {
+              "front": "Half-brother",
+              "back": "igsoon sa amahan"
+            },
+            {
+              "front": "Foster",
+              "back": "pag-amuma"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "tall nephew",
+              "back": "taas nga pag-umangkon"
+            },
+            {
+              "front": "beautiful daughter",
+              "back": "matahum nga anak nga babaye"
+            },
+            {
+              "front": "old grandfather",
+              "back": "tigulang nga lolo"
+            },
+            {
+              "front": "young grandmother",
+              "back": "batan-ong lola"
+            },
+            {
+              "front": "smart brother",
+              "back": "maalamon nga igsoon"
+            },
+            {
+              "front": "kind sister",
+              "back": "buotan nga ate"
+            },
+            {
+              "front": "loving mother",
+              "back": "mahigugmaong inahan"
+            },
+            {
+              "front": "caring father",
+              "back": "mapinanggaon nga amahan"
+            },
+            {
+              "front": "fun cousin",
+              "back": "lingaw nga ig-agaw"
+            },
+            {
+              "front": "supportive partner",
+              "back": "matinabangon nga kauban"
+            },
+            {
+              "front": "hardworking aunt",
+              "back": "kugihan tita"
+            },
+            {
+              "front": "funny uncle",
+              "back": "kataw-anan uy"
+            },
+            {
+              "front": "sweet niece",
+              "back": "sweet nga pag-umangkon"
+            },
+            {
+              "front": "playful son",
+              "back": "playful nga anak"
+            },
+            {
+              "front": "friendly daughter",
+              "back": "mahigalaon nga anak nga babaye"
+            },
+            {
+              "front": "dedicated spouse",
+              "back": "dedikado nga kapikas"
+            },
+            {
+              "front": "caring guardian",
+              "back": "mabinantayon nga magbalantay"
+            },
+            {
+              "front": "helpful stepchild",
+              "back": "matinabangon nga stepchild"
+            },
+            {
+              "front": "old half-brother",
+              "back": "tigulang nga igsoon sa amahan"
+            },
+            {
+              "front": "young half-sister",
+              "back": "batan-ong half-sister"
+            },
+            {
+              "front": "supportive in-law",
+              "back": "nagsuporta sa ugangan"
+            },
+            {
+              "front": "close relative",
+              "back": "suod nga paryente"
+            },
+            {
+              "front": "reliable sibling",
+              "back": "kasaligan nga igsoon"
+            },
+            {
+              "front": "loving kin",
+              "back": "mahigugmaong kabanay"
+            },
+            {
+              "front": "happy family",
+              "back": "malipayong pamilya"
+            },
+            {
+              "front": "cherished friend",
+              "back": "pinangga nga higala"
+            },
+            {
+              "front": "trusted confidant",
+              "back": "kasaligan nga sinaligan"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "tall nephew plays",
+              "back": "taas nga pag-umangkon nga nagdula"
+            },
+            {
+              "front": "beautiful daughter smiles",
+              "back": "matahum nga anak nga babaye nga nagpahiyom"
+            },
+            {
+              "front": "grandfather tells stories",
+              "back": "nag storya si lolo"
+            },
+            {
+              "front": "grandmother bakes cookies",
+              "back": "si lola nagluto ug cookies"
+            },
+            {
+              "front": "brother studies hard",
+              "back": "kuya nagtuon ug maayo"
+            },
+            {
+              "front": "sister helps out",
+              "back": "mitabang si ate"
+            },
+            {
+              "front": "mother hugs tightly",
+              "back": "hugot nga gakos si mama"
+            },
+            {
+              "front": "father supports family",
+              "back": "amahan nagsuporta sa pamilya"
+            },
+            {
+              "front": "cousin visits often",
+              "back": "kanunay magbisita ang ig-agaw"
+            },
+            {
+              "front": "partner listens patiently",
+              "back": "mapailubon nga naminaw ang kauban"
+            },
+            {
+              "front": "aunt cooks dinner",
+              "back": "tita nagluto ug panihapon"
+            },
+            {
+              "front": "uncle cracks jokes",
+              "back": "tiyo crack jokes"
+            },
+            {
+              "front": "niece giggles happily",
+              "back": "malipayong nagngisi ang pag-umangkon"
+            },
+            {
+              "front": "son enjoys games",
+              "back": "anak nalingaw sa mga dula"
+            },
+            {
+              "front": "daughter makes friends",
+              "back": "anak nga babaye nakighigala"
+            },
+            {
+              "front": "spouse works hard",
+              "back": "ang kapikas nagtrabaho pag-ayo"
+            },
+            {
+              "front": "guardian watches closely",
+              "back": "guardian nagtan-aw pag-ayo"
+            },
+            {
+              "front": "stepchild cleans up",
+              "back": "stepchild nanglimpyo"
+            },
+            {
+              "front": "half-brother shares wisdom",
+              "back": "ang igsoon sa amahan nakigbahin sa kaalam"
+            },
+            {
+              "front": "half-sister loves drawing",
+              "back": "ang half-sister ganahan mag drawing"
+            },
+            {
+              "front": "in-law offers help",
+              "back": "in-law nagtanyag og tabang"
+            },
+            {
+              "front": "relative visits frequently",
+              "back": "kanunay nga pagbisita sa mga paryente"
+            },
+            {
+              "front": "sibling always listens",
+              "back": "maminaw kanunay ang igsoon"
+            },
+            {
+              "front": "kin gathers together",
+              "back": "mga paryente nagtigom"
+            },
+            {
+              "front": "family enjoys meals",
+              "back": "ang pamilya malingaw sa pagkaon"
+            },
+            {
+              "front": "friend brings joy",
+              "back": "higala nagdala og kalipay"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "tall nephew plays cards",
+              "back": "taas nga pag-umangkon nagdula og mga baraha"
+            },
+            {
+              "front": "beautiful daughter smiles sweetly",
+              "back": "matam-is nga pahiyom ang matahum nga anak nga babaye"
+            },
+            {
+              "front": "old grandfather tells stories",
+              "back": "tigulang nga lolo nag-asoy og mga istorya"
+            },
+            {
+              "front": "young grandmother bakes cookies",
+              "back": "ang batan-ong lola nagluto og cookies"
+            },
+            {
+              "front": "smart brother studies hard",
+              "back": "maalamon nga igsoon nagtuon pag-ayo"
+            },
+            {
+              "front": "kind sister helps out",
+              "back": "buotan nga sister mitabang"
+            },
+            {
+              "front": "loving mother hugs tightly",
+              "back": "hugot nga gakos ang mahigugmaong inahan"
+            },
+            {
+              "front": "caring father supports family",
+              "back": "Ang mapinanggaon nga amahan nagsuporta sa pamilya"
+            },
+            {
+              "front": "fun cousin visits often",
+              "back": "lingaw nga cousin mubisita kanunay"
+            },
+            {
+              "front": "supportive partner listens patiently",
+              "back": "Ang matinabangon nga kauban mapailobon nga naminaw"
+            },
+            {
+              "front": "hardworking aunt cooks dinner",
+              "back": "kugihan tita nagluto ug panihapon"
+            },
+            {
+              "front": "funny uncle cracks jokes",
+              "back": "funny uncle crack jokes"
+            },
+            {
+              "front": "sweet niece giggles happily",
+              "back": "matam-is nga pag-umangkon nga agik-ik nga malipayon"
+            },
+            {
+              "front": "playful son enjoys games",
+              "back": "malingaw nga anak nga lalaki malingaw sa mga dula"
+            },
+            {
+              "front": "friendly daughter makes friends",
+              "back": "mahigalaon nga anak nga babaye nakighigala"
+            },
+            {
+              "front": "dedicated spouse works hard",
+              "back": "dedikado nga kapikas nagtrabaho pag-ayo"
+            },
+            {
+              "front": "caring guardian watches closely",
+              "back": "mabinantayon nga magbalantay nagbantay pag-ayo"
+            },
+            {
+              "front": "helpful stepchild cleans up",
+              "back": "matinabangon nga stepchild nanglimpyo"
+            },
+            {
+              "front": "old half-brother shares wisdom",
+              "back": "tigulang nga igsoon sa amahan nakigbahin sa kaalam"
+            },
+            {
+              "front": "young half-sister loves drawing",
+              "back": "Ang batan-ong igsoon sa amahan ganahang magdrowing"
+            },
+            {
+              "front": "supportive in-law offers help",
+              "back": "Ang matinabangon nga ugangan nagtanyag og tabang"
+            },
+            {
+              "front": "close relative visits frequently",
+              "back": "suod nga paryente nga pagbisita kanunay"
+            },
+            {
+              "front": "reliable sibling always listens",
+              "back": "kasaligan nga igsoon kanunay maminaw"
+            },
+            {
+              "front": "loving kin gathers together",
+              "back": "Ang mahigugmaong mga paryente nagtigom"
+            },
+            {
+              "front": "happy family enjoys meals",
+              "back": "malipayong pamilya nalingaw sa pagkaon"
+            },
+            {
+              "front": "cherished friend brings joy",
+              "back": "ang gimahal nga higala nagdala ug kalipay"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "nephew plays basketball with friends",
+              "back": "pag-umangkon nagdula og basketball uban sa mga higala"
+            },
+            {
+              "front": "daughter sings in the choir",
+              "back": "anak nga babaye mokanta sa choir"
+            },
+            {
+              "front": "grandfather tells stories about history",
+              "back": "si lolo nagsugilon og mga istorya mahitungod sa kasaysayan"
+            },
+            {
+              "front": "grandmother bakes cookies every week",
+              "back": "si lola nagluto ug cookies kada semana"
+            },
+            {
+              "front": "brother studies hard for exams",
+              "back": "kuya nagtuon pag-ayo para sa mga eksaminasyon"
+            },
+            {
+              "front": "sister helps with homework daily",
+              "back": "mitabang si sister sa homework kada adlaw"
+            },
+            {
+              "front": "mother hugs her children tightly",
+              "back": "hugot nga gigakos sa inahan ang iyang mga anak"
+            },
+            {
+              "front": "father supports his family always",
+              "back": "ang amahan nagsuporta sa iyang pamilya kanunay"
+            },
+            {
+              "front": "cousin visits during the summer",
+              "back": "pagduaw sa ig-agaw panahon sa ting-init"
+            },
+            {
+              "front": "partner listens to my concerns",
+              "back": "ang kauban naminaw sa akong mga kabalaka"
+            },
+            {
+              "front": "aunt cooks dinner every evening",
+              "back": "tiya magluto og panihapon kada gabii"
+            },
+            {
+              "front": "uncle cracks jokes at dinner",
+              "back": "tiyo crack jokes sa panihapon"
+            },
+            {
+              "front": "niece giggles and plays around",
+              "back": "niece agik-ik ug nagduwa-duwa"
+            },
+            {
+              "front": "son enjoys video games daily",
+              "back": "anak nalingaw sa mga video game kada adlaw"
+            },
+            {
+              "front": "daughter makes friends at school",
+              "back": "anak nga babaye nakighigala sa eskwelahan"
+            },
+            {
+              "front": "spouse works hard for family",
+              "back": "ang kapikas nagtrabaho pag-ayo alang sa pamilya"
+            },
+            {
+              "front": "guardian watches over the children",
+              "back": "guardian nagbantay sa mga bata"
+            },
+            {
+              "front": "stepchild cleans their own room",
+              "back": "stepchild nanglimpyo sa ilang kaugalingong kwarto"
+            },
+            {
+              "front": "half-brother shares wisdom and advice",
+              "back": "ang igsoon sa amahan nakigbahin sa kaalam ug tambag"
+            },
+            {
+              "front": "half-sister loves drawing and painting",
+              "back": "ang half-sister ganahan mag drawing ug painting"
+            },
+            {
+              "front": "in-law offers help and guidance",
+              "back": "in-law nagtanyag og tabang ug giya"
+            },
+            {
+              "front": "relative visits often and brings gifts",
+              "back": "ang mga paryente kanunay nga mobisita ug magdala og mga regalo"
+            },
+            {
+              "front": "sibling always listens to problems",
+              "back": "ang igsoon kanunay maminaw sa mga problema"
+            },
+            {
+              "front": "kin gathers together for holidays",
+              "back": "ang mga paryente nagpundok alang sa mga holidays"
+            },
+            {
+              "front": "family enjoys meals together daily",
+              "back": "ang pamilya malingaw sa pagpangaon kada adlaw"
+            },
+            {
+              "front": "friend brings joy and laughter",
+              "back": "higala nagdala kalipay ug katawa"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "nephew plays basketball with his friends",
+              "back": "pag-umangkon nga nagdula og basketball uban sa iyang mga higala"
+            },
+            {
+              "front": "daughter sings beautifully in the choir",
+              "back": "nindot nga pagkanta sa choir ang anak nga babaye"
+            },
+            {
+              "front": "grandfather tells fascinating stories about history",
+              "back": "ang apohan nagsugilon og makaiikag nga mga istorya mahitungod sa kasaysayan"
+            },
+            {
+              "front": "grandmother bakes delicious cookies every week",
+              "back": "si lola nagluto ug lamiang biskwit kada semana"
+            },
+            {
+              "front": "brother studies hard for his exams",
+              "back": "si kuya nagtuon pag-ayo para sa iyang mga pasulit"
+            },
+            {
+              "front": "sister helps with homework every day",
+              "back": "ang sister nagtabang sa homework kada adlaw"
+            },
+            {
+              "front": "mother hugs her children very tightly",
+              "back": "hugot kaayo nga gigakos sa inahan ang iyang mga anak"
+            },
+            {
+              "front": "father supports his family at home",
+              "back": "ang amahan nagsuporta sa iyang pamilya sa balay"
+            },
+            {
+              "front": "cousin visits during the summer holidays",
+              "back": "pagbisita sa ig-agaw sa panahon sa mga holiday sa ting-init"
+            },
+            {
+              "front": "partner listens to my concerns carefully",
+              "back": "Ang kauban naminaw pag-ayo sa akong mga kabalaka"
+            },
+            {
+              "front": "aunt cooks wonderful dinner every evening",
+              "back": "tiya magluto og nindot nga panihapon kada gabii"
+            },
+            {
+              "front": "uncle cracks funny jokes at dinner",
+              "back": "si tiyo nagbuak ug kataw-anan nga mga komedya sa panihapon"
+            },
+            {
+              "front": "niece giggles and plays with everyone",
+              "back": "niece agik-ik ug nakigdula sa tanan"
+            },
+            {
+              "front": "son enjoys playing video games daily",
+              "back": "ang anak malingaw sa pagdula og video game kada adlaw"
+            },
+            {
+              "front": "daughter makes friends at her school",
+              "back": "anak nga babaye nakighigala sa iyang eskwelahan"
+            },
+            {
+              "front": "spouse works hard for our family",
+              "back": "ang kapikas nagtrabaho pag-ayo alang sa among pamilya"
+            },
+            {
+              "front": "guardian watches over the children closely",
+              "back": "guardian nagbantay pag-ayo sa mga bata"
+            },
+            {
+              "front": "stepchild cleans their room every day",
+              "back": "ang stepchild manglimpyo sa ilang kwarto kada adlaw"
+            },
+            {
+              "front": "half-brother shares wise advice with me",
+              "back": "ang igsoon sa amahan nakigbahin sa maalamon nga tambag kanako"
+            },
+            {
+              "front": "half-sister loves drawing and painting often",
+              "back": "ang half-sister ganahan nga magdrowing ug magpintura kanunay"
+            },
+            {
+              "front": "in-law offers helpful advice and support",
+              "back": "in-law nagtanyag makatabang nga tambag ug suporta"
+            },
+            {
+              "front": "relative visits often and brings gifts",
+              "back": "ang mga paryente kanunay nga mobisita ug magdala og mga regalo"
+            },
+            {
+              "front": "sibling always listens to my problems",
+              "back": "si kuya pirmi maminaw sa akong mga problema"
+            },
+            {
+              "front": "kin gathers together for family holidays",
+              "back": "ang mga paryente nagpundok alang sa mga holiday sa pamilya"
+            },
+            {
+              "front": "family enjoys meals together every day",
+              "back": "ang pamilya malingaw sa pagpangaon kada adlaw"
+            },
+            {
+              "front": "friend brings joy and laughter always",
+              "back": "higala nagdala kalipay ug katawa kanunay"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "nephew played",
+              "back": "nagdula ang pag-umangkon"
+            },
+            {
+              "front": "father visited",
+              "back": "mibisita si papa"
+            },
+            {
+              "front": "mother baked",
+              "back": "giluto ni mama"
+            },
+            {
+              "front": "daughter sang",
+              "back": "anak nga babaye nikanta"
+            },
+            {
+              "front": "son studied",
+              "back": "anak nagtuon"
+            },
+            {
+              "front": "brother helped",
+              "back": "nitabang si kuya"
+            },
+            {
+              "front": "sister laughed",
+              "back": "nikatawa si ate"
+            },
+            {
+              "front": "grandmother cooked",
+              "back": "nagluto si lola"
+            },
+            {
+              "front": "grandfather told",
+              "back": "giingnan ni lolo"
+            },
+            {
+              "front": "uncle joked",
+              "back": "nagkomedya si uncle"
+            },
+            {
+              "front": "aunt traveled",
+              "back": "tiya nibiyahe"
+            },
+            {
+              "front": "cousin joined",
+              "back": "niapil ang ig-agaw"
+            },
+            {
+              "front": "niece danced",
+              "back": "nisayaw ang pag-umangkon"
+            },
+            {
+              "front": "nephew drew",
+              "back": "pag-umangkon nagdrawing"
+            },
+            {
+              "front": "partner supported",
+              "back": "gisuportahan sa kauban"
+            },
+            {
+              "front": "spouse worked",
+              "back": "ang kapikas nagtrabaho"
+            },
+            {
+              "front": "guardian watched",
+              "back": "guardian nagtan-aw"
+            },
+            {
+              "front": "relative called",
+              "back": "paryente nga gitawag"
+            },
+            {
+              "front": "in-law helped",
+              "back": "mitabang ang ugangan"
+            },
+            {
+              "front": "stepchild cleaned",
+              "back": "stepchild gilimpyohan"
+            },
+            {
+              "front": "half-brother shared",
+              "back": "igsoon sa amahan gipaambit"
+            },
+            {
+              "front": "half-sister painted",
+              "back": "half-sister nga gipintalan"
+            },
+            {
+              "front": "kin gathered",
+              "back": "nagtipon ang mga paryente"
+            },
+            {
+              "front": "family celebrated",
+              "back": "gisaulog sa pamilya"
+            },
+            {
+              "front": "friend comforted",
+              "back": "gihupay ang higala"
+            },
+            {
+              "front": "parent encouraged",
+              "back": "gidasig sa ginikanan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "spouse worked hard",
+              "back": "ang kapikas nagtrabaho pag-ayo"
+            },
+            {
+              "front": "aunt traveled far",
+              "back": "tita nagbiyahe ug layo"
+            },
+            {
+              "front": "nephew played soccer",
+              "back": "nagdula og soccer ang pag-umangkon"
+            },
+            {
+              "front": "father visited yesterday",
+              "back": "nibisita si papa gahapon"
+            },
+            {
+              "front": "mother baked cookies",
+              "back": "nagluto si mama og cookies"
+            },
+            {
+              "front": "daughter sang beautifully",
+              "back": "nindot nga pagkanta ang anak nga babaye"
+            },
+            {
+              "front": "son studied late",
+              "back": "ulahi nga nagtuon ang anak"
+            },
+            {
+              "front": "brother helped me",
+              "back": "gitabangan ko ni kuya"
+            },
+            {
+              "front": "sister laughed loudly",
+              "back": "nikatawa si ate"
+            },
+            {
+              "front": "grandmother cooked dinner",
+              "back": "si lola nagluto ug panihapon"
+            },
+            {
+              "front": "grandfather told stories",
+              "back": "nag storya si lolo"
+            },
+            {
+              "front": "uncle joked around",
+              "back": "nagkomedya si uncle"
+            },
+            {
+              "front": "cousin joined us",
+              "back": "cousin mikuyog namo"
+            },
+            {
+              "front": "niece danced happily",
+              "back": "malipayong nisayaw ang pag-umangkon"
+            },
+            {
+              "front": "nephew drew pictures",
+              "back": "pag-umangkon nagdrowing og mga hulagway"
+            },
+            {
+              "front": "partner supported me",
+              "back": "gisuportahan ko sa kauban"
+            },
+            {
+              "front": "guardian watched closely",
+              "back": "guardian nagtan-aw pag-ayo"
+            },
+            {
+              "front": "relative called back",
+              "back": "paryente nitawag og balik"
+            },
+            {
+              "front": "in-law helped out",
+              "back": "nitabang ug in-law"
+            },
+            {
+              "front": "stepchild cleaned room",
+              "back": "stepchild naglimpyo sa lawak"
+            },
+            {
+              "front": "half-brother shared secrets",
+              "back": "igsoon sa amahan mipakigbahin sa mga sekreto"
+            },
+            {
+              "front": "half-sister painted pictures",
+              "back": "half-sister nga gipintalan og mga hulagway"
+            },
+            {
+              "front": "kin gathered together",
+              "back": "mga paryente nagtigom"
+            },
+            {
+              "front": "family celebrated together",
+              "back": "pamilya nga nagsaulog nga magkauban"
+            },
+            {
+              "front": "friend comforted me",
+              "back": "amigo mi comfort nako"
+            },
+            {
+              "front": "parent encouraged me",
+              "back": "gidasig ko sa ginikanan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "spouse worked for family",
+              "back": "ang asawa nagtrabaho para sa pamilya"
+            },
+            {
+              "front": "aunt traveled last summer",
+              "back": "tiya nibiyahe last summer"
+            },
+            {
+              "front": "nephew played soccer well",
+              "back": "maayo nga nagdula og soccer ang pag-umangkon"
+            },
+            {
+              "front": "father visited us yesterday",
+              "back": "gibisita mi ni papa gahapon"
+            },
+            {
+              "front": "mother baked cookies skillfully",
+              "back": "hanas nga nagluto si mama og cookies"
+            },
+            {
+              "front": "daughter sang at recital",
+              "back": "anak nga babaye gikanta sa recital"
+            },
+            {
+              "front": "son studied for exams",
+              "back": "anak nga nagtuon alang sa mga eksaminasyon"
+            },
+            {
+              "front": "brother helped with homework",
+              "back": "si kuya mitabang sa homework"
+            },
+            {
+              "front": "sister laughed at joke",
+              "back": "nikatawa si ate sa joke"
+            },
+            {
+              "front": "grandmother cooked dinner happily",
+              "back": "malipayong nagluto si lola ug panihapon"
+            },
+            {
+              "front": "grandfather told good stories",
+              "back": "maayo nga mga istorya si lolo"
+            },
+            {
+              "front": "uncle joked around happily",
+              "back": "malipayong nagkomedya si uncle"
+            },
+            {
+              "front": "cousin joined our dinner",
+              "back": "niapil sa among panihapon si cousin"
+            },
+            {
+              "front": "niece danced at party",
+              "back": "nisayaw ang pag-umangkon sa party"
+            },
+            {
+              "front": "nephew drew dinosaur pictures",
+              "back": "pag-umangkon nagdrowing og mga hulagway sa dinosaur"
+            },
+            {
+              "front": "partner supported me everytime",
+              "back": "Gisuportahan ko sa kauban matag higayon"
+            },
+            {
+              "front": "guardian watched over children",
+              "back": "guardian nagbantay sa mga bata"
+            },
+            {
+              "front": "relative called back today",
+              "back": "paryente nitawag balik karon"
+            },
+            {
+              "front": "in-law helped with preparations",
+              "back": "in-law mitabang sa mga pagpangandam"
+            },
+            {
+              "front": "stepchild cleaned their room",
+              "back": "stepchild nanglimpyo sa ilang kwarto"
+            },
+            {
+              "front": "half-brother shared his secrets",
+              "back": "ang igsoon sa amahan mipaambit sa iyang mga sekreto"
+            },
+            {
+              "front": "half-sister painted pictures yesterday",
+              "back": "half-sister nga nagpintal sa mga litrato kagahapon"
+            },
+            {
+              "front": "kin gathered for holidays",
+              "back": "mga kaparyentihan nagtigom alang sa mga holiday"
+            },
+            {
+              "front": "family celebrated birthdays joyfully",
+              "back": "malipayong gisaulog sa pamilya ang mga adlawng natawhan"
+            },
+            {
+              "front": "friend comforted my pain",
+              "back": "higala naghupay sa akong kasakit"
+            },
+            {
+              "front": "parent encouraged my success",
+              "back": "ginikanan nagdasig sa akong kalampusan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "spouse worked hard for family",
+              "back": "kapikas nagtrabaho og maayo alang sa pamilya"
+            },
+            {
+              "front": "aunt traveled far last summer",
+              "back": "tita mibiyahe ug layo sa miaging ting-init"
+            },
+            {
+              "front": "nephew played soccer with friends",
+              "back": "pag-umangkon nagdula og soccer uban sa mga higala"
+            },
+            {
+              "front": "father visited our home yesterday",
+              "back": "mibisita si papa sa among balay gahapon"
+            },
+            {
+              "front": "mother baked cookies for everyone",
+              "back": "nagluto si mama og cookies para sa tanan"
+            },
+            {
+              "front": "daughter sang beautifully at recital",
+              "back": "nindot nga pagkanta ang anak nga babaye sa recital"
+            },
+            {
+              "front": "son studied hard for exams",
+              "back": "anak nagtuon pag-ayo alang sa mga pasulit"
+            },
+            {
+              "front": "brother helped me with homework",
+              "back": "gitabangan ko ni kuya sa homework"
+            },
+            {
+              "front": "sister laughed at silly joke",
+              "back": "nikatawa si ate sa binuang nga joke"
+            },
+            {
+              "front": "grandmother cooked dinner for family",
+              "back": "si lola nagluto ug panihapon para sa pamilya"
+            },
+            {
+              "front": "grandfather told stories by fire",
+              "back": "apohan nag-istorya pinaagi sa kalayo"
+            },
+            {
+              "front": "uncle joked around at dinner",
+              "back": "nagkomedya si uncle sa panihapon"
+            },
+            {
+              "front": "cousin joined us for dinner",
+              "back": "nagkuyog mig panihapon"
+            },
+            {
+              "front": "niece danced excitedly at party",
+              "back": "nagsayaw-sayaw ang pag-umangkon sa party"
+            },
+            {
+              "front": "nephew drew pictures of dinosaurs",
+              "back": "pag-umangkon nagdrowing og mga hulagway sa mga dinosaur"
+            },
+            {
+              "front": "partner supported me through everything",
+              "back": "gisuportahan ko sa akong kauban sa tanan"
+            },
+            {
+              "front": "guardian watched over all children",
+              "back": "guardian nagbantay sa tanang mga bata"
+            },
+            {
+              "front": "relative called back last night",
+              "back": "nitawag og balik ang paryente kagabii"
+            },
+            {
+              "front": "in-law helped with dinner preparations",
+              "back": "ug ugangan mitabang sa pag-andam sa panihapon"
+            },
+            {
+              "front": "stepchild cleaned their messy room",
+              "back": "stepchild nanglimpyo sa ilang gubot nga kwarto"
+            },
+            {
+              "front": "half-brother shared secrets with me",
+              "back": "ang akong igsoon sa amahan nakigbahin sa mga sekreto kanako"
+            },
+            {
+              "front": "half-sister painted pictures last weekend",
+              "back": "half-sister nga gipintalan og mga hulagway sa miaging semana"
+            },
+            {
+              "front": "kin gathered for national holidays",
+              "back": "mga kaparyentihan nagtigom alang sa mga pista opisyal"
+            },
+            {
+              "front": "family celebrated birthdays with joy",
+              "back": "pamilya nagsaulog sa adlawng natawhan uban sa kalipay"
+            },
+            {
+              "front": "friend comforted me during struggles",
+              "back": "higala mihupay kanako sa panahon sa mga pakigbisog"
+            },
+            {
+              "front": "parent encouraged me to succeed",
+              "back": "gidasig ko sa akong ginikanan nga magmalampuson"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "spouse worked hard for the family",
+              "back": "ang kapikas nagtrabaho og maayo alang sa pamilya"
+            },
+            {
+              "front": "aunt traveled far last summer vacation",
+              "back": "layo ang biyahe ni tita sa miaging summer vacation"
+            },
+            {
+              "front": "nephew played soccer with his friends",
+              "back": "pag-umangkon nagdula og soccer uban sa iyang mga higala"
+            },
+            {
+              "front": "father visited us for the weekend",
+              "back": "mibisita kanamo si papa sa katapusan sa semana"
+            },
+            {
+              "front": "mother baked cookies for the party",
+              "back": "nagluto si mama og cookies para sa party"
+            },
+            {
+              "front": "daughter sang beautifully in the recital",
+              "back": "nindot nga pagkanta ang anak nga babaye sa recital"
+            },
+            {
+              "front": "son studied hard for his exams",
+              "back": "anak nagtuon pag-ayo alang sa iyang mga pasulit"
+            },
+            {
+              "front": "brother helped me with my homework",
+              "back": "gitabangan ko ni kuya sa akong homework"
+            },
+            {
+              "front": "sister laughed at the funny joke",
+              "back": "nikatawa si ate sa kataw-anan nga joke"
+            },
+            {
+              "front": "grandmother cooked dinner for the family",
+              "back": "si lola nagluto ug panihapon para sa pamilya"
+            },
+            {
+              "front": "grandfather told interesting stories by fire",
+              "back": "apohan misulti makapaikag nga mga istorya pinaagi sa kalayo"
+            },
+            {
+              "front": "uncle joked around during family gatherings",
+              "back": "nagkomedya si uncle panahon sa family gatherings"
+            },
+            {
+              "front": "cousin joined us for the dinner",
+              "back": "cousin mikuyog namo sa panihapon"
+            },
+            {
+              "front": "niece danced happily at the party",
+              "back": "pag-umangkon nga malipayon nga misayaw sa party"
+            },
+            {
+              "front": "nephew drew pictures of dinosaurs yesterday",
+              "back": "pag-umangkon nagdrowing og mga hulagway sa mga dinosaur kagahapon"
+            },
+            {
+              "front": "partner supported me through tough times",
+              "back": "gisuportahan ako sa kauban sa lisud nga mga panahon"
+            },
+            {
+              "front": "guardian watched over the children closely",
+              "back": "guardian nagbantay pag-ayo sa mga bata"
+            },
+            {
+              "front": "relative called back after family meeting",
+              "back": "paryente mitawag og balik human sa miting sa pamilya"
+            },
+            {
+              "front": "in-law helped out with family plans",
+              "back": "ug ugangan mitabang sa mga plano sa pamilya"
+            },
+            {
+              "front": "stepchild cleaned their room every day",
+              "back": "ang stepchild nanglimpyo sa ilang kwarto kada adlaw"
+            },
+            {
+              "front": "half-brother shared wise advice with me",
+              "back": "ang igsoon sa amahan mipaambit sa maalamon nga tambag kanako"
+            },
+            {
+              "front": "half-sister painted beautiful pictures last weekend",
+              "back": "half-sister nga nagpintal ug nindot nga mga hulagway sa miaging semana"
+            },
+            {
+              "front": "kin gathered together for family reunion",
+              "back": "ang mga kaparyentihan nagtigom para sa family reunion"
+            },
+            {
+              "front": "family celebrated birthdays with lots of joy",
+              "back": "pamilya nagsaulog sa adlawng natawhan uban sa daghang kalipay"
+            },
+            {
+              "front": "friend comforted me during difficult times",
+              "back": "higala mihupay kanako sa panahon sa kalisdanan"
+            },
+            {
+              "front": "parent encouraged me to achieve goals",
+              "back": "ang akong ginikanan nagdasig kanako sa pagkab-ot sa mga tumong"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "father will eat",
+              "back": "ang amahan mokaon"
+            },
+            {
+              "front": "mother will cook",
+              "back": "magluto si mama"
+            },
+            {
+              "front": "son will play",
+              "back": "anak magdula"
+            },
+            {
+              "front": "daughter will sing",
+              "back": "anak nga babaye mokanta"
+            },
+            {
+              "front": "brother will help",
+              "back": "tabangi si kuya"
+            },
+            {
+              "front": "sister will laugh",
+              "back": "magkatawa si ate"
+            },
+            {
+              "front": "uncle will visit",
+              "back": "mamisita si uncle"
+            },
+            {
+              "front": "aunt will travel",
+              "back": "tita mobiyahe"
+            },
+            {
+              "front": "cousin will join",
+              "back": "ig-agaw moapil"
+            },
+            {
+              "front": "grandmother will bake",
+              "back": "magluto si lola"
+            },
+            {
+              "front": "grandfather will tell",
+              "back": "isulti ni lolo"
+            },
+            {
+              "front": "niece will dance",
+              "back": "mosayaw ang pag-umangkon"
+            },
+            {
+              "front": "nephew will draw",
+              "back": "magdrawing ang pag-umangkon"
+            },
+            {
+              "front": "partner will support",
+              "back": "partner mosuporta"
+            },
+            {
+              "front": "spouse will work",
+              "back": "ang kapikas magtrabaho"
+            },
+            {
+              "front": "guardian will watch",
+              "back": "guardian magbantay"
+            },
+            {
+              "front": "relative will call",
+              "back": "paryente ang motawag"
+            },
+            {
+              "front": "in-law will help",
+              "back": "in-law makatabang"
+            },
+            {
+              "front": "stepchild will clean",
+              "back": "manglimpyo ang stepchild"
+            },
+            {
+              "front": "half-brother will share",
+              "back": "ang igsoon sa amahan mopaambit"
+            },
+            {
+              "front": "half-sister will paint",
+              "back": "magpintura si half-sister"
+            },
+            {
+              "front": "kin will gather",
+              "back": "magtapok ang mga paryente"
+            },
+            {
+              "front": "family will celebrate",
+              "back": "magsaulog ang pamilya"
+            },
+            {
+              "front": "friend will visit",
+              "back": "amigo mobisita"
+            },
+            {
+              "front": "parent will encourage",
+              "back": "dasigon sa ginikanan"
+            },
+            {
+              "front": "child will play",
+              "back": "bata magdula"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "father will eat dinner",
+              "back": "manihapon si papa"
+            },
+            {
+              "front": "mother will cook food",
+              "back": "magluto si mama ug pagkaon"
+            },
+            {
+              "front": "son will play today",
+              "back": "anak magdula karon"
+            },
+            {
+              "front": "daughter will sing tomorrow",
+              "back": "anak nga babaye mokanta ugma"
+            },
+            {
+              "front": "brother will do chores",
+              "back": "magbuhat si kuya og mga buluhaton"
+            },
+            {
+              "front": "sister will laugh loudly",
+              "back": "kusog kaayo mokatawa si ate"
+            },
+            {
+              "front": "uncle will visit us",
+              "back": "mamisita si uncle"
+            },
+            {
+              "front": "aunt will travel home",
+              "back": "tita mobiyahe pauli"
+            },
+            {
+              "front": "cousin will join us",
+              "back": "mag kuyog mi"
+            },
+            {
+              "front": "grandmother will bake pies",
+              "back": "magluto si lola ug pie"
+            },
+            {
+              "front": "grandfather will tell stories",
+              "back": "mag storya si lolo"
+            },
+            {
+              "front": "niece will practice dance",
+              "back": "magpraktis og sayaw ang pag-umangkon"
+            },
+            {
+              "front": "nephew will draw pictures",
+              "back": "pag-umangkon magdrowing og mga hulagway"
+            },
+            {
+              "front": "partner will support dreams",
+              "back": "partner mosuporta sa mga damgo"
+            },
+            {
+              "front": "spouse will work hard",
+              "back": "ang kapikas magtrabaho og maayo"
+            },
+            {
+              "front": "guardian will watch children",
+              "back": "guardian magbantay sa mga bata"
+            },
+            {
+              "front": "relative will call later",
+              "back": "ang paryente motawag unya"
+            },
+            {
+              "front": "in-law will help planning",
+              "back": "in-law makatabang sa pagplano"
+            },
+            {
+              "front": "stepchild will clean room",
+              "back": "stepchild manglimpyo lawak"
+            },
+            {
+              "front": "half-brother will share toys",
+              "back": "ang igsoon sa amahan magpaambit sa mga dulaan"
+            },
+            {
+              "front": "half-sister will paint room",
+              "back": "half-sister magpintura ug kwarto"
+            },
+            {
+              "front": "kin will gather soon",
+              "back": "magtigom dayon ang mga paryente"
+            },
+            {
+              "front": "family will celebrate occasions",
+              "back": "pamilya magsaulog sa mga okasyon"
+            },
+            {
+              "front": "friend will visit soon",
+              "back": "amigo mobisita dayon"
+            },
+            {
+              "front": "parent will encourage habits",
+              "back": "ang ginikanan modasig sa mga batasan"
+            },
+            {
+              "front": "child will play tomorrow",
+              "back": "bata magdula ugma"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "father will eat dinner together",
+              "back": "magdungan og panihapon si papa"
+            },
+            {
+              "front": "mother will cook for us",
+              "back": "magluto si mama para namo"
+            },
+            {
+              "front": "son will play with friends",
+              "back": "anak makigdula uban sa mga higala"
+            },
+            {
+              "front": "daughter will sing at school",
+              "back": "anak nga babaye mokanta sa eskwelahan"
+            },
+            {
+              "front": "brother will help with chores",
+              "back": "motabang si kuya sa mga buluhaton"
+            },
+            {
+              "front": "sister will laugh at jokes",
+              "back": "mag katawa si ate sa mga jokes"
+            },
+            {
+              "front": "uncle will visit us tomorrow",
+              "back": "mamisita si uncle ugma"
+            },
+            {
+              "front": "aunt will travel to Canada",
+              "back": "tita mobiyahe sa canada"
+            },
+            {
+              "front": "cousin will join the party",
+              "back": "cousin moapil sa party"
+            },
+            {
+              "front": "grandmother will bake a pie",
+              "back": "magluto si lola ug pie"
+            },
+            {
+              "front": "grandfather will tell us stories",
+              "back": "mag storya mi ni lolo"
+            },
+            {
+              "front": "niece will dance at recital",
+              "back": "niece mosayaw sa recital"
+            },
+            {
+              "front": "nephew will draw amazing pictures",
+              "back": "pag-umangkon magdrowing og talagsaong mga hulagway"
+            },
+            {
+              "front": "partner will support my dreams",
+              "back": "partner musuporta sa akong mga pangandoy"
+            },
+            {
+              "front": "spouse will work on project",
+              "back": "ang kapikas magtrabaho sa proyekto"
+            },
+            {
+              "front": "guardian will watch over children",
+              "back": "guardian magbantay sa mga bata"
+            },
+            {
+              "front": "relative will call us later",
+              "back": "tawgon mi unya paryente"
+            },
+            {
+              "front": "in-law will help with planning",
+              "back": "in-law motabang sa pagplano"
+            },
+            {
+              "front": "stepchild will clean their room",
+              "back": "ang stepchild manglimpyo sa ilang kwarto"
+            },
+            {
+              "front": "half-brother will share his toys",
+              "back": "ang igsoon sa amahan mopaambit sa iyang mga dulaan"
+            },
+            {
+              "front": "half-sister will paint her room",
+              "back": "magpintura sa iyang kwarto si half-sister"
+            },
+            {
+              "front": "kin will gather for holidays",
+              "back": "magtapok ang mga kaparyentihan alang sa mga holiday"
+            },
+            {
+              "front": "family will celebrate special occasions",
+              "back": "pamilya magsaulog sa mga espesyal nga okasyon"
+            },
+            {
+              "front": "friend will visit us soon",
+              "back": "amigo mobisita namo sa dili madugay"
+            },
+            {
+              "front": "parent will encourage good habits",
+              "back": "ang ginikanan modasig sa maayong mga batasan"
+            },
+            {
+              "front": "child will play outside tomorrow",
+              "back": "bata magdula sa gawas ugma"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "father will eat dinner with us",
+              "back": "mangaon si tatay uban namo"
+            },
+            {
+              "front": "mother will cook a special meal",
+              "back": "ang inahan magluto ug espesyal nga pagkaon"
+            },
+            {
+              "front": "son will play soccer with friends",
+              "back": "ang anak nga lalaki magdula og soccer uban sa mga higala"
+            },
+            {
+              "front": "daughter will sing at school recital",
+              "back": "anak nga babaye mokanta sa eskwelahan recital"
+            },
+            {
+              "front": "brother will help with the chores",
+              "back": "motabang si kuya sa mga buluhaton"
+            },
+            {
+              "front": "sister will laugh at the jokes",
+              "back": "magkatawa si ate sa mga jokes"
+            },
+            {
+              "front": "uncle will visit us during summer",
+              "back": "mamisita si uncle panahon sa summer"
+            },
+            {
+              "front": "aunt will travel to Canada next",
+              "back": "tita mubiyahe sa canada sunod"
+            },
+            {
+              "front": "cousin will join the family gathering",
+              "back": "cousin moapil sa family gathering"
+            },
+            {
+              "front": "grandmother will bake a chocolate pie",
+              "back": "magluto si lola ug chocolate pie"
+            },
+            {
+              "front": "grandfather will tell us scary stories",
+              "back": "si lolo magsugilon kanato ug makahadlok nga mga istorya"
+            },
+            {
+              "front": "niece will dance at the recital",
+              "back": "niece mosayaw sa recital"
+            },
+            {
+              "front": "nephew will draw us amazing pictures",
+              "back": "pag-umangkon nga magdrowing kanato ug talagsaong mga hulagway"
+            },
+            {
+              "front": "partner will support through tough times",
+              "back": "ang kauban mosuporta sa lisud nga mga panahon"
+            },
+            {
+              "front": "spouse will work on the project",
+              "back": "ang kapikas magtrabaho sa proyekto"
+            },
+            {
+              "front": "guardian will watch over the children",
+              "back": "guardian ang magbantay sa mga bata"
+            },
+            {
+              "front": "relative will call us after dinner",
+              "back": "tawgon mi sa paryente human sa panihapon"
+            },
+            {
+              "front": "in-law will help with party planning",
+              "back": "in-law motabang sa party planning"
+            },
+            {
+              "front": "stepchild will clean their room soon",
+              "back": "ang stepchild manglimpyo sa ilang kwarto sa dili madugay"
+            },
+            {
+              "front": "half-brother will share his toys tomorrow",
+              "back": "ugma magpaambit si kuya sa iyang mga dulaan"
+            },
+            {
+              "front": "half-sister will paint her room later",
+              "back": "magpintura sa iyang kwarto unya ang half-sister"
+            },
+            {
+              "front": "kin will gather together for reunion",
+              "back": "ang mga kaparyentihan magtigom alang sa reunion"
+            },
+            {
+              "front": "family will celebrate holidays with everyone",
+              "back": "pamilya magsaulog sa holiday uban sa tanan"
+            },
+            {
+              "front": "friend will visit us for dinner",
+              "back": "amigo mubisita namo para manihapon"
+            },
+            {
+              "front": "parent will encourage habits for children",
+              "back": "ang ginikanan magdasig ug batasan para sa mga anak"
+            },
+            {
+              "front": "child will play outside with friends",
+              "back": "bata magdula sa gawas uban sa mga higala"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

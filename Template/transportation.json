@@ -1,0 +1,1076 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Transportation",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Route", "back": "" },
+            { "front": "Schedule", "back": "" },
+            { "front": "Ticket", "back": "" },
+            { "front": "Station", "back": "" },
+            { "front": "Platform", "back": "" },
+            { "front": "Transfer", "back": "" },
+            { "front": "Cargo", "back": "" },
+            { "front": "Freight", "back": "" },
+            { "front": "Transit", "back": "" },
+            { "front": "Commute", "back": "" },
+            { "front": "Journey", "back": "" },
+            { "front": "Connection", "back": "" },
+            { "front": "Departure", "back": "" },
+            { "front": "Arrival", "back": "" },
+            { "front": "Boarding", "back": "" },
+            { "front": "Queue", "back": "" },
+            { "front": "Fare", "back": "" },
+            { "front": "Luggage", "back": "" },
+            { "front": "Safety", "back": "" },
+            { "front": "Regulation", "back": "" },
+            { "front": "Signage", "back": "" },
+            { "front": "Conductor", "back": "" },
+            { "front": "Passenger", "back": "" },
+            { "front": "Navigation", "back": "" },
+            { "front": "Inspection", "back": "" },
+            { "front": "Traffic", "back": "" },
+            { "front": "Control", "back": "" },
+            { "front": "Signaling", "back": "" },
+            { "front": "Distance", "back": "" },
+            { "front": "Destination", "back": "" },
+            { "front": "Reservation", "back": "" },
+            { "front": "Payment", "back": "" },
+            { "front": "Accessibility", "back": "" },
+            { "front": "Transportation", "back": "" },
+            { "front": "Infrastructure", "back": "" },
+            { "front": "Service", "back": "" },
+            { "front": "Operation", "back": "" },
+            { "front": "Capacity", "back": "" },
+            { "front": "Compliance", "back": "" },
+            { "front": "Conveyance", "back": "" },
+            { "front": "Movement", "back": "" },
+            { "front": "Modal", "back": "" },
+            { "front": "Planning", "back": "" },
+            { "front": "Allocation", "back": "" },
+            { "front": "Logistics", "back": "" },
+            { "front": "Network", "back": "" },
+            { "front": "Hub", "back": "" },
+            { "front": "Interchange", "back": "" },
+            { "front": "Routing", "back": "" },
+            { "front": "System", "back": "" },
+            { "front": "Cycle", "back": "" },
+            { "front": "Efficiency", "back": "" },
+            { "front": "Compliance", "back": "" },
+            { "front": "Consultation", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "departure time", "back": "" },
+            { "front": "arrival schedule", "back": "" },
+            { "front": "ticket counter", "back": "" },
+            { "front": "platform number", "back": "" },
+            { "front": "route map", "back": "" },
+            { "front": "cargo space", "back": "" },
+            { "front": "freight load", "back": "" },
+            { "front": "commute route", "back": "" },
+            { "front": "queue line", "back": "" },
+            { "front": "fare price", "back": "" },
+            { "front": "passenger service", "back": "" },
+            { "front": "transfer station", "back": "" },
+            { "front": "traffic signal", "back": "" },
+            { "front": "safety measure", "back": "" },
+            { "front": "inspection area", "back": "" },
+            { "front": "journey plan", "back": "" },
+            { "front": "navigation tool", "back": "" },
+            { "front": "bus stop", "back": "" },
+            { "front": "rail line", "back": "" },
+            { "front": "logistics network", "back": "" },
+            { "front": "modal transport", "back": "" },
+            { "front": "travel allowance", "back": "" },
+            { "front": "system upgrade", "back": "" },
+            { "front": "capacity limit", "back": "" },
+            { "front": "accessibility feature", "back": "" },
+            { "front": "route planner", "back": "" },
+            { "front": "connection point", "back": "" },
+            { "front": "service area", "back": "" },
+            { "front": "consultation meeting", "back": "" },
+            { "front": "compliance check", "back": "" },
+            { "front": "operation schedule", "back": "" },
+            { "front": "movement tracking", "back": "" },
+            { "front": "distance measurement", "back": "" },
+            { "front": "hub location", "back": "" },
+            { "front": "network analysis", "back": "" },
+            { "front": "allocation strategy", "back": "" },
+            { "front": "signage system", "back": "" },
+            { "front": "traffic report", "back": "" },
+            { "front": "consultation service", "back": "" },
+            { "front": "logistics plan", "back": "" },
+            { "front": "bicycle lane", "back": "" },
+            { "front": "emergency response", "back": "" },
+            { "front": "driving rule", "back": "" },
+            { "front": "road safety", "back": "" },
+            { "front": "service route", "back": "" },
+            { "front": "schedule update", "back": "" },
+            { "front": "traffic congestion", "back": "" },
+            { "front": "reservation system", "back": "" },
+            { "front": "planning meeting", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "good departure time", "back": "" },
+            { "front": "reliable arrival schedule", "back": "" },
+            { "front": "busy ticket counter", "back": "" },
+            { "front": "correct platform number", "back": "" },
+            { "front": "clear route map", "back": "" },
+            { "front": "limited cargo space", "back": "" },
+            { "front": "heavy freight load", "back": "" },
+            { "front": "long commute route", "back": "" },
+            { "front": "active queue line", "back": "" },
+            { "front": "rising fare price", "back": "" },
+            { "front": "excellent passenger service", "back": "" },
+            { "front": "crowded transfer station", "back": "" },
+            { "front": "green traffic signal", "back": "" },
+            { "front": "important safety measure", "back": "" },
+            { "front": "busy inspection area", "back": "" },
+            { "front": "clear journey plan", "back": "" },
+            { "front": "accurate navigation tool", "back": "" },
+            { "front": "nearby bus stop", "back": "" },
+            { "front": "smooth rail line", "back": "" },
+            { "front": "efficient logistics network", "back": "" },
+            { "front": "varied modal transport", "back": "" },
+            { "front": "flexible travel allowance", "back": "" },
+            { "front": "beneficial system upgrade", "back": "" },
+            { "front": "reached capacity limit", "back": "" },
+            { "front": "useful accessibility feature", "back": "" },
+            { "front": "handy route planner", "back": "" },
+            { "front": "convenient connection point", "back": "" },
+            { "front": "clean service area", "back": "" },
+            { "front": "productive consultation meeting", "back": "" },
+            { "front": "necessary compliance check", "back": "" },
+            { "front": "updated operation schedule", "back": "" },
+            { "front": "accurate movement tracking", "back": "" },
+            { "front": "precise distance measurement", "back": "" },
+            { "front": "accessible hub location", "back": "" },
+            { "front": "insightful network analysis", "back": "" },
+            { "front": "efficient allocation strategy", "back": "" },
+            { "front": "clear signage system", "back": "" },
+            { "front": "informative traffic report", "back": "" },
+            { "front": "helpful consultation service", "back": "" },
+            { "front": "effective logistics plan", "back": "" },
+            { "front": "safe bicycle lane", "back": "" },
+            { "front": "swift emergency response", "back": "" },
+            { "front": "universal driving rule", "back": "" },
+            { "front": "crucial road safety", "back": "" },
+            { "front": "adjusted service route", "back": "" },
+            { "front": "necessary schedule update", "back": "" },
+            { "front": "traffic congestion issue", "back": "" },
+            { "front": "efficient reservation system", "back": "" },
+            { "front": "important planning meeting", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "departure time is approaching", "back": "" },
+            { "front": "arrival schedule shows delays", "back": "" },
+            { "front": "ticket counter is busy", "back": "" },
+            { "front": "platform number is changing", "back": "" },
+            { "front": "route map indicates detour", "back": "" },
+            { "front": "cargo space is limited", "back": "" },
+            { "front": "freight load is heavy", "back": "" },
+            { "front": "commute route takes longer", "back": "" },
+            { "front": "queue line is forming", "back": "" },
+            { "front": "fare price is rising", "back": "" },
+            { "front": "passenger service is excellent", "back": "" },
+            { "front": "transfer station is crowded", "back": "" },
+            { "front": "traffic signal turns red", "back": "" },
+            { "front": "safety measure is essential", "back": "" },
+            { "front": "inspection area is busy", "back": "" },
+            { "front": "journey plan is confirmed", "back": "" },
+            { "front": "navigation tool is accurate", "back": "" },
+            { "front": "bus stop is nearby", "back": "" },
+            { "front": "rail line operates smoothly", "back": "" },
+            { "front": "logistics network is efficient", "back": "" },
+            { "front": "modal transport includes options", "back": "" },
+            { "front": "travel allowance is sufficient", "back": "" },
+            { "front": "system upgrade improves efficiency", "back": "" },
+            { "front": "capacity limit is reached", "back": "" },
+            { "front": "accessibility feature helps everyone", "back": "" },
+            { "front": "route planner is useful", "back": "" },
+            { "front": "connection point is convenient", "back": "" },
+            { "front": "service area is clean", "back": "" },
+            { "front": "consultation meeting is scheduled", "back": "" },
+            { "front": "compliance check is mandatory", "back": "" },
+            { "front": "operation schedule is posted", "back": "" },
+            { "front": "movement tracking is accurate", "back": "" },
+            { "front": "distance measurement is precise", "back": "" },
+            { "front": "hub location is accessible", "back": "" },
+            { "front": "network analysis provides insights", "back": "" },
+            { "front": "allocation strategy is efficient", "back": "" },
+            { "front": "signage system is clear", "back": "" },
+            { "front": "traffic report indicates congestion", "back": "" },
+            { "front": "consultation service is available", "back": "" },
+            { "front": "logistics plan is effective", "back": "" },
+            { "front": "bicycle lane encourages cycling", "back": "" },
+            { "front": "emergency response is swift", "back": "" },
+            { "front": "driving rule is essential", "back": "" },
+            { "front": "road safety is prioritized", "back": "" },
+            { "front": "service route is established", "back": "" },
+            { "front": "schedule update is necessary", "back": "" },
+            { "front": "traffic congestion affects commute", "back": "" },
+            { "front": "reservation system is efficient", "back": "" },
+            { "front": "planning meeting is important", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "departure time is approaching soon", "back": "" },
+            { "front": "arrival schedule shows some delays", "back": "" },
+            { "front": "ticket counter opens at eight", "back": "" },
+            { "front": "platform number is changing frequently", "back": "" },
+            { "front": "route map indicates a detour", "back": "" },
+            { "front": "cargo space remains very limited", "back": "" },
+            { "front": "freight load increases with demand", "back": "" },
+            { "front": "commute route takes much longer", "back": "" },
+            { "front": "queue line forms very quickly", "back": "" },
+            { "front": "fare price increases every month", "back": "" },
+            { "front": "passenger service excels in quality", "back": "" },
+            { "front": "transfer station is crowded during rush", "back": "" },
+            { "front": "traffic signal turns green for vehicles", "back": "" },
+            { "front": "safety measure is critically important", "back": "" },
+            { "front": "inspection area is very busy", "back": "" },
+            { "front": "journey plan outlines travel route", "back": "" },
+            { "front": "navigation tool guides all travelers", "back": "" },
+            { "front": "bus stop location is convenient", "back": "" },
+            { "front": "rail line operates smoothly every day", "back": "" },
+            {
+              "front": "logistics network improves overall efficiency",
+              "back": ""
+            },
+            { "front": "modal transport includes various options", "back": "" },
+            {
+              "front": "travel allowance provides some flexibility",
+              "back": ""
+            },
+            {
+              "front": "system upgrade enhances performance significantly",
+              "back": ""
+            },
+            { "front": "capacity limit reached very recently", "back": "" },
+            {
+              "front": "accessibility feature assists many passengers",
+              "back": ""
+            },
+            { "front": "route planner helps all travelers", "back": "" },
+            {
+              "front": "connection point facilitates easy transfers",
+              "back": ""
+            },
+            { "front": "service area offers various amenities", "back": "" },
+            {
+              "front": "consultation meeting addresses urgent concerns",
+              "back": ""
+            },
+            {
+              "front": "compliance check ensures passenger safety",
+              "back": ""
+            },
+            { "front": "operation schedule updates every week", "back": "" },
+            {
+              "front": "movement tracking monitors vehicle routes",
+              "back": ""
+            },
+            {
+              "front": "distance measurement ensures travel accuracy",
+              "back": ""
+            },
+            {
+              "front": "hub location simplifies access for everyone",
+              "back": ""
+            },
+            {
+              "front": "network analysis identifies key improvements",
+              "back": ""
+            },
+            {
+              "front": "allocation strategy optimizes resource use",
+              "back": ""
+            },
+            { "front": "signage system directs all travelers", "back": "" },
+            {
+              "front": "traffic report indicates heavy congestion",
+              "back": ""
+            },
+            {
+              "front": "consultation service provides valuable assistance",
+              "back": ""
+            },
+            { "front": "logistics plan streamlines all processes", "back": "" },
+            { "front": "bicycle lane promotes safe cycling", "back": "" },
+            { "front": "emergency response saves many lives", "back": "" },
+            { "front": "driving rule applies to everyone", "back": "" },
+            { "front": "road safety is always prioritized", "back": "" },
+            {
+              "front": "service route requires regular adjustments",
+              "back": ""
+            },
+            { "front": "schedule update is very necessary", "back": "" },
+            { "front": "traffic congestion impacts daily travel", "back": "" },
+            {
+              "front": "reservation system simplifies travel bookings",
+              "back": ""
+            },
+            { "front": "planning meeting sets clear agenda", "back": "" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "departure time is approaching very soon", "back": "" },
+            {
+              "front": "arrival schedule shows delays this morning",
+              "back": ""
+            },
+            { "front": "ticket counter opens at eight o'clock", "back": "" },
+            {
+              "front": "platform number is changing very frequently",
+              "back": ""
+            },
+            { "front": "route map indicates a detour ahead", "back": "" },
+            {
+              "front": "cargo space remains very limited right now",
+              "back": ""
+            },
+            {
+              "front": "freight load increases with seasonal demand",
+              "back": ""
+            },
+            { "front": "commute route takes much longer today", "back": "" },
+            { "front": "queue line forms very quickly at rush", "back": "" },
+            { "front": "fare price increases every single month", "back": "" },
+            {
+              "front": "passenger service excels in quality and reliability",
+              "back": ""
+            },
+            {
+              "front": "transfer station is crowded during peak hours",
+              "back": ""
+            },
+            {
+              "front": "traffic signal turns green for vehicles now",
+              "back": ""
+            },
+            {
+              "front": "safety measure is critically important for everyone",
+              "back": ""
+            },
+            { "front": "inspection area is very busy today", "back": "" },
+            {
+              "front": "journey plan outlines detailed travel route",
+              "back": ""
+            },
+            {
+              "front": "navigation tool guides all travelers easily",
+              "back": ""
+            },
+            { "front": "bus stop location is very convenient", "back": "" },
+            {
+              "front": "rail line operates smoothly every single day",
+              "back": ""
+            },
+            {
+              "front": "logistics network improves overall operational efficiency",
+              "back": ""
+            },
+            {
+              "front": "modal transport includes various available options",
+              "back": ""
+            },
+            {
+              "front": "travel allowance provides flexibility for travelers",
+              "back": ""
+            },
+            {
+              "front": "system upgrade enhances performance significantly now",
+              "back": ""
+            },
+            {
+              "front": "capacity limit reached very recently last month",
+              "back": ""
+            },
+            {
+              "front": "accessibility feature assists many passengers today",
+              "back": ""
+            },
+            { "front": "route planner helps all travelers find", "back": "" },
+            {
+              "front": "connection point facilitates easy transfers between modes",
+              "back": ""
+            },
+            {
+              "front": "service area offers various helpful amenities",
+              "back": ""
+            },
+            {
+              "front": "consultation meeting addresses urgent safety concerns",
+              "back": ""
+            },
+            {
+              "front": "compliance check ensures passenger safety and comfort",
+              "back": ""
+            },
+            {
+              "front": "operation schedule updates every single week",
+              "back": ""
+            },
+            {
+              "front": "movement tracking monitors vehicle routes effectively",
+              "back": ""
+            },
+            {
+              "front": "distance measurement ensures travel accuracy and efficiency",
+              "back": ""
+            },
+            {
+              "front": "hub location simplifies access for all travelers",
+              "back": ""
+            },
+            {
+              "front": "network analysis identifies key improvements for logistics",
+              "back": ""
+            },
+            {
+              "front": "allocation strategy optimizes resource use for operations",
+              "back": ""
+            },
+            {
+              "front": "signage system directs all travelers clearly",
+              "back": ""
+            },
+            {
+              "front": "traffic report indicates heavy congestion today",
+              "back": ""
+            },
+            {
+              "front": "consultation service provides valuable assistance to everyone",
+              "back": ""
+            },
+            {
+              "front": "logistics plan streamlines all processes effectively",
+              "back": ""
+            },
+            {
+              "front": "bicycle lane promotes safe cycling for everyone",
+              "back": ""
+            },
+            {
+              "front": "emergency response saves many lives during crisis",
+              "back": ""
+            },
+            {
+              "front": "driving rule applies to all drivers equally",
+              "back": ""
+            },
+            {
+              "front": "road safety is always prioritized by authorities",
+              "back": ""
+            },
+            {
+              "front": "service route requires regular adjustments for efficiency",
+              "back": ""
+            },
+            {
+              "front": "schedule update is very necessary for operations",
+              "back": ""
+            },
+            {
+              "front": "traffic congestion impacts daily travel for everyone",
+              "back": ""
+            },
+            {
+              "front": "reservation system simplifies travel bookings for passengers",
+              "back": ""
+            },
+            {
+              "front": "planning meeting sets clear agenda for discussion",
+              "back": ""
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "changed departure time", "back": "" },
+            { "front": "showed arrival delays", "back": "" },
+            { "front": "closed ticket counter", "back": "" },
+            { "front": "shifted platform number", "back": "" },
+            { "front": "indicated route detour", "back": "" },
+            { "front": "limited cargo space", "back": "" },
+            { "front": "increased freight load", "back": "" },
+            { "front": "lengthened commute route", "back": "" },
+            { "front": "formed queue line", "back": "" },
+            { "front": "rose fare price", "back": "" },
+            { "front": "excelled passenger service", "back": "" },
+            { "front": "crowded transfer station", "back": "" },
+            { "front": "turned traffic signal", "back": "" },
+            { "front": "proved safety measure", "back": "" },
+            { "front": "became busy inspection", "back": "" },
+            { "front": "worked journey plan", "back": "" },
+            { "front": "guided navigation tool", "back": "" },
+            { "front": "changed bus stop", "back": "" },
+            { "front": "operated rail line", "back": "" },
+            { "front": "improved logistics network", "back": "" },
+            { "front": "included modal transport", "back": "" },
+            { "front": "provided travel allowance", "back": "" },
+            { "front": "enhanced system upgrade", "back": "" },
+            { "front": "reached capacity limit", "back": "" },
+            { "front": "assisted accessibility feature", "back": "" },
+            { "front": "helped route planner", "back": "" },
+            { "front": "facilitated connection point", "back": "" },
+            { "front": "offered service area", "back": "" },
+            { "front": "addressed consultation meeting", "back": "" },
+            { "front": "ensured compliance check", "back": "" },
+            { "front": "updated operation schedule", "back": "" },
+            { "front": "monitored movement tracking", "back": "" },
+            { "front": "ensured distance accuracy", "back": "" },
+            { "front": "simplified hub location", "back": "" },
+            { "front": "identified network improvements", "back": "" },
+            { "front": "optimized allocation strategy", "back": "" },
+            { "front": "directed signage system", "back": "" },
+            { "front": "indicated traffic congestion", "back": "" },
+            { "front": "provided consultation assistance", "back": "" },
+            { "front": "streamlined logistics plan", "back": "" },
+            { "front": "promoted bicycle lane", "back": "" },
+            { "front": "saved emergency response", "back": "" },
+            { "front": "applied driving rule", "back": "" },
+            { "front": "prioritized road safety", "back": "" },
+            { "front": "required service route", "back": "" },
+            { "front": "became necessary schedule", "back": "" },
+            { "front": "impacted traffic congestion", "back": "" },
+            { "front": "simplified reservation bookings", "back": "" },
+            { "front": "set planning meeting", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "departure time changed", "back": "" },
+            { "front": "arrival schedule showed delays", "back": "" },
+            { "front": "ticket counter closed early", "back": "" },
+            { "front": "platform number shifted suddenly", "back": "" },
+            { "front": "route map indicated detour", "back": "" },
+            { "front": "cargo space limited", "back": "" },
+            { "front": "freight load increased significantly", "back": "" },
+            { "front": "commute route lengthened unexpectedly", "back": "" },
+            { "front": "queue line formed quickly", "back": "" },
+            { "front": "fare price rose", "back": "" },
+            { "front": "passenger service excelled yesterday", "back": "" },
+            { "front": "transfer station got crowded", "back": "" },
+            { "front": "traffic signal turned red", "back": "" },
+            { "front": "safety measure proved essential", "back": "" },
+            { "front": "inspection area became busy", "back": "" },
+            { "front": "journey plan worked well", "back": "" },
+            { "front": "navigation tool guided travelers", "back": "" },
+            { "front": "bus stop changed location", "back": "" },
+            { "front": "rail line operated smoothly", "back": "" },
+            { "front": "logistics network improved efficiency", "back": "" },
+            { "front": "modal transport included options", "back": "" },
+            { "front": "travel allowance provided flexibility", "back": "" },
+            { "front": "system upgrade enhanced performance", "back": "" },
+            { "front": "capacity limit reached recently", "back": "" },
+            {
+              "front": "accessibility feature assisted passengers",
+              "back": ""
+            },
+            { "front": "route planner helped travelers", "back": "" },
+            { "front": "connection point facilitated transfers", "back": "" },
+            { "front": "service area offered amenities", "back": "" },
+            { "front": "consultation meeting addressed concerns", "back": "" },
+            { "front": "compliance check ensured safety", "back": "" },
+            { "front": "operation schedule updated regularly", "back": "" },
+            { "front": "movement tracking monitored routes", "back": "" },
+            { "front": "distance measurement ensured accuracy", "back": "" },
+            { "front": "hub location simplified access", "back": "" },
+            { "front": "network analysis identified improvements", "back": "" },
+            { "front": "allocation strategy optimized resources", "back": "" },
+            { "front": "signage system directed travelers", "back": "" },
+            { "front": "traffic report indicated congestion", "back": "" },
+            { "front": "consultation service provided assistance", "back": "" },
+            { "front": "logistics plan streamlined processes", "back": "" },
+            { "front": "bicycle lane promoted cycling", "back": "" },
+            { "front": "emergency response saved lives", "back": "" },
+            { "front": "driving rule applied universally", "back": "" },
+            { "front": "road safety prioritized last year", "back": "" },
+            { "front": "service route required adjustments", "back": "" },
+            { "front": "schedule update became necessary", "back": "" },
+            { "front": "traffic congestion impacted travel", "back": "" },
+            { "front": "reservation system simplified bookings", "back": "" },
+            { "front": "planning meeting set agenda", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "departure time changed unexpectedly last", "back": "" },
+            {
+              "front": "arrival schedule showed significant delays",
+              "back": ""
+            },
+            { "front": "ticket counter closed before boarding", "back": "" },
+            { "front": "platform number shifted during minute", "back": "" },
+            { "front": "route map indicated necessary detour", "back": "" },
+            { "front": "cargo space remained very limited", "back": "" },
+            { "front": "freight load increased due to demand", "back": "" },
+            {
+              "front": "commute route lengthened unexpectedly morning",
+              "back": ""
+            },
+            { "front": "the queue line formed quickly", "back": "" },
+            { "front": "fare price rose significantly month", "back": "" },
+            {
+              "front": "passenger service excelled throughout journey",
+              "back": ""
+            },
+            { "front": "transfer station became crowded during", "back": "" },
+            { "front": "traffic signal turned red vehicles", "back": "" },
+            { "front": "good safety measure proved essential", "back": "" },
+            { "front": "inspection area was busy day", "back": "" },
+            { "front": "journey plan worked well everyone", "back": "" },
+            {
+              "front": "navigation tool guided travelers successfully",
+              "back": ""
+            },
+            { "front": "bus stop location changed week", "back": "" },
+            { "front": "rail line operated smoothly week", "back": "" },
+            {
+              "front": "logistics network improved efficiency board",
+              "back": ""
+            },
+            {
+              "front": "modal transport included various yesterday",
+              "back": ""
+            },
+            {
+              "front": "travel allowance provided needed flexibility",
+              "back": ""
+            },
+            { "front": "the system upgrade enhanced performance", "back": "" },
+            { "front": "capacity limit reached after season", "back": "" },
+            {
+              "front": "accessibility feature assisted many passengers",
+              "back": ""
+            },
+            { "front": "route planner helped travelers navigate", "back": "" },
+            {
+              "front": "connection point facilitated quick transfers",
+              "back": ""
+            },
+            { "front": "service area offered helpful amenities", "back": "" },
+            {
+              "front": "consultation meeting addressed safety concerns",
+              "back": ""
+            },
+            { "front": "compliance check ensured safety for", "back": "" },
+            {
+              "front": "operation schedule updated regularly month",
+              "back": ""
+            },
+            {
+              "front": "movement tracking monitored routes effectively",
+              "back": ""
+            },
+            {
+              "front": "distance measurement ensured travel accuracy",
+              "back": ""
+            },
+            { "front": "hub location simplified access travelers", "back": "" },
+            {
+              "front": "network analysis identified key improvements",
+              "back": ""
+            },
+            {
+              "front": "allocation strategy optimized resource use",
+              "back": ""
+            },
+            {
+              "front": "signage system directed travelers clearly",
+              "back": ""
+            },
+            {
+              "front": "traffic report indicated congestion today",
+              "back": ""
+            },
+            {
+              "front": "consultation service provided valuable assistance",
+              "back": ""
+            },
+            {
+              "front": "logistics plan streamlined processes smoothly",
+              "back": ""
+            },
+            { "front": "bicycle lane promoted safe cycling", "back": "" },
+            { "front": "emergency response saved lives crisis", "back": "" },
+            { "front": "driving rule applied universally safety", "back": "" },
+            {
+              "front": "road safety prioritized year consistently",
+              "back": ""
+            },
+            {
+              "front": "service route required adjustments efficiency",
+              "back": ""
+            },
+            { "front": "schedule update became necessary due", "back": "" },
+            { "front": "traffic congestion impacted daily travel", "back": "" },
+            {
+              "front": "reservation system simplified travel bookings",
+              "back": ""
+            },
+            { "front": "planning meeting set clear agenda", "back": "" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "changed departure time", "back": "" },
+            { "front": "showed arrival delays", "back": "" },
+            { "front": "closed ticket counter", "back": "" },
+            { "front": "shifted platform number", "back": "" },
+            { "front": "indicated route detour", "back": "" },
+            { "front": "limited cargo space", "back": "" },
+            { "front": "increased freight load", "back": "" },
+            { "front": "lengthened commute route", "back": "" },
+            { "front": "formed queue line", "back": "" },
+            { "front": "rose fare price", "back": "" },
+            { "front": "excelled passenger service", "back": "" },
+            { "front": "crowded transfer station", "back": "" },
+            { "front": "turned traffic signal", "back": "" },
+            { "front": "proved safety measure", "back": "" },
+            { "front": "became busy inspection", "back": "" },
+            { "front": "worked journey plan", "back": "" },
+            { "front": "guided navigation tool", "back": "" },
+            { "front": "changed bus stop", "back": "" },
+            { "front": "operated rail line", "back": "" },
+            { "front": "improved logistics network", "back": "" },
+            { "front": "included modal transport", "back": "" },
+            { "front": "provided travel allowance", "back": "" },
+            { "front": "enhanced system upgrade", "back": "" },
+            { "front": "reached capacity limit", "back": "" },
+            { "front": "assisted accessibility feature", "back": "" },
+            { "front": "helped route planner", "back": "" },
+            { "front": "facilitated connection point", "back": "" },
+            { "front": "offered service area", "back": "" },
+            { "front": "addressed consultation meeting", "back": "" },
+            { "front": "ensured compliance check", "back": "" },
+            { "front": "updated operation schedule", "back": "" },
+            { "front": "monitored movement tracking", "back": "" },
+            { "front": "ensured distance accuracy", "back": "" },
+            { "front": "simplified hub location", "back": "" },
+            { "front": "identified network improvements", "back": "" },
+            { "front": "optimized allocation strategy", "back": "" },
+            { "front": "directed signage system", "back": "" },
+            { "front": "indicated traffic congestion", "back": "" },
+            { "front": "provided consultation assistance", "back": "" },
+            { "front": "streamlined logistics plan", "back": "" },
+            { "front": "promoted bicycle lane", "back": "" },
+            { "front": "saved emergency response", "back": "" },
+            { "front": "applied driving rule", "back": "" },
+            { "front": "prioritized road safety", "back": "" },
+            { "front": "required service route", "back": "" },
+            { "front": "became necessary schedule", "back": "" },
+            { "front": "impacted traffic congestion", "back": "" },
+            { "front": "simplified reservation bookings", "back": "" },
+            { "front": "set planning meeting", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "departure time approaches", "back": "" },
+            { "front": "arrival schedule changes", "back": "" },
+            { "front": "ticket counter opens", "back": "" },
+            { "front": "platform number changes", "back": "" },
+            { "front": "route map indicates", "back": "" },
+            { "front": "cargo space increases", "back": "" },
+            { "front": "freight load grows", "back": "" },
+            { "front": "commute route lengthens", "back": "" },
+            { "front": "queue line forms", "back": "" },
+            { "front": "fare price rises", "back": "" },
+            { "front": "passenger service excels", "back": "" },
+            { "front": "transfer station crowd", "back": "" },
+            { "front": "traffic signal turns", "back": "" },
+            { "front": "good safety measure", "back": "" },
+            { "front": "inspection area begins", "back": "" },
+            { "front": "journey plan works", "back": "" },
+            { "front": "navigation tool guides", "back": "" },
+            { "front": "bus stop changes", "back": "" },
+            { "front": "rail line operates", "back": "" },
+            { "front": "logistics network improves", "back": "" },
+            { "front": "modal transport improves", "back": "" },
+            { "front": "travel allowance provides", "back": "" },
+            { "front": "system upgrade enhances", "back": "" },
+            { "front": "small capacity limit", "back": "" },
+            { "front": "accessibility feature assists", "back": "" },
+            { "front": "route planner helps", "back": "" },
+            { "front": "connection point transfers", "back": "" },
+            { "front": "service area offers", "back": "" },
+            { "front": "consultation meeting soon", "back": "" },
+            { "front": "compliance check ensures", "back": "" },
+            { "front": "operation schedule updates", "back": "" },
+            { "front": "movement tracking monitors", "back": "" },
+            { "front": "accurate distance measurement", "back": "" },
+            { "front": "central hub location", "back": "" },
+            { "front": "network analysis improves", "back": "" },
+            { "front": "allocation strategy optimizes", "back": "" },
+            { "front": "sign system directs", "back": "" },
+            { "front": "good traffic report", "back": "" },
+            { "front": "good consultation service", "back": "" },
+            { "front": "nice logistics plan", "back": "" },
+            { "front": "wide bicycle lane", "back": "" },
+            { "front": "fast emergency response", "back": "" },
+            { "front": "driving rule applies", "back": "" },
+            { "front": "good road safety", "back": "" },
+            { "front": "new service route", "back": "" },
+            { "front": "schedule updates tomorrow", "back": "" },
+            { "front": "traffic congestion worsens", "back": "" },
+            { "front": "reservation system simplifie", "back": "" },
+            { "front": "scheduled planning meeting", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "departure time approaches soon", "back": "" },
+            { "front": "arrival schedule shows changes", "back": "" },
+            { "front": "ticket counter opens early", "back": "" },
+            { "front": "platform number will change", "back": "" },
+            { "front": "route map indicates detour", "back": "" },
+            { "front": "cargo space will increase", "back": "" },
+            { "front": "freight load will grow", "back": "" },
+            { "front": "commute route will lengthen", "back": "" },
+            { "front": "queue line forms quickly", "back": "" },
+            { "front": "fare price will rise", "back": "" },
+            { "front": "passenger service will excel", "back": "" },
+            { "front": "transfer station will be busy", "back": "" },
+            { "front": "traffic signal will turn", "back": "" },
+            { "front": "safety will be essential", "back": "" },
+            { "front": "inspection will be soon", "back": "" },
+            { "front": "journey plan will work", "back": "" },
+            { "front": "navigation tool will guide", "back": "" },
+            { "front": "bus stop will change", "back": "" },
+            { "front": "rail line will operate", "back": "" },
+            { "front": "logistics network will improve", "back": "" },
+            { "front": "transport will include options", "back": "" },
+            { "front": "travel allowance will provide", "back": "" },
+            { "front": "system upgrade will enhance", "back": "" },
+            { "front": "capacity limit will apply", "back": "" },
+            { "front": "accessibility will assist passengers", "back": "" },
+            { "front": "planner will help travelers", "back": "" },
+            { "front": "connection will facilitate transfers", "back": "" },
+            { "front": "service area will offer amenities", "back": "" },
+            { "front": "consultation will address concerns", "back": "" },
+            { "front": "compliance check will happen", "back": "" },
+            { "front": "operation schedule will update", "back": "" },
+            { "front": "movement tracking will monitor", "back": "" },
+            { "front": "distance measurement will check", "back": "" },
+            { "front": "hub location will access", "back": "" },
+            { "front": "network analysis will identify", "back": "" },
+            { "front": "allocation strategy will optimize", "back": "" },
+            { "front": "signs will direct travelers home", "back": "" },
+            { "front": "traffic report will indicate", "back": "" },
+            { "front": "consultation service will provide", "back": "" },
+            { "front": "logistics plan will streamline", "back": "" },
+            { "front": "bicycle lane will promote", "back": "" },
+            { "front": "response will save lives", "back": "" },
+            { "front": "driving rule will apply", "back": "" },
+            { "front": "safety will be prioritized", "back": "" },
+            { "front": "service route will adjust", "back": "" },
+            { "front": "schedule will become necessary", "back": "" },
+            { "front": "congestion will impact travel", "back": "" },
+            { "front": "reservation system will simplify", "back": "" },
+            { "front": "planning meeting will set", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "departure time will change again", "back": "" },
+            { "front": "arrival schedule will adjust soon", "back": "" },
+            { "front": "ticket counter will open early", "back": "" },
+            { "front": "platform number will be updated", "back": "" },
+            { "front": "route map will show detours", "back": "" },
+            { "front": "cargo space will be limited", "back": "" },
+            { "front": "freight load will increase significantly", "back": "" },
+            { "front": "commute route will take longer", "back": "" },
+            { "front": "queue line will form quickly", "back": "" },
+            { "front": "fare price will rise next", "back": "" },
+            {
+              "front": "passenger service will exceed expectations",
+              "back": ""
+            },
+            { "front": "transfer station will be busy", "back": "" },
+            { "front": "traffic signal will turn green", "back": "" },
+            { "front": "safety measure will be implemented", "back": "" },
+            { "front": "inspection area will be crowded", "back": "" },
+            { "front": "journey plan will work perfectly", "back": "" },
+            { "front": "navigation tool will guide us", "back": "" },
+            { "front": "bus stop will change location", "back": "" },
+            { "front": "rail line will operate smoothly", "back": "" },
+            {
+              "front": "logistics network will improve efficiency",
+              "back": ""
+            },
+            { "front": "modal transport will include options", "back": "" },
+            { "front": "travel allowance will be flexible", "back": "" },
+            { "front": "system upgrade will enhance performance", "back": "" },
+            { "front": "capacity limit will be reached", "back": "" },
+            {
+              "front": "accessibility feature will assist passengers",
+              "back": ""
+            },
+            { "front": "route planner will help travelers", "back": "" },
+            {
+              "front": "connection point will facilitate transfers",
+              "back": ""
+            },
+            { "front": "service area will offer amenities", "back": "" },
+            {
+              "front": "consultation meeting will address concerns",
+              "back": ""
+            },
+            { "front": "compliance check will ensure safety", "back": "" },
+            { "front": "operation schedule will update weekly", "back": "" },
+            { "front": "movement tracking will monitor routes", "back": "" },
+            {
+              "front": "distance measurement will ensure accuracy",
+              "back": ""
+            },
+            { "front": "hub location will simplify access", "back": "" },
+            {
+              "front": "network analysis will identify improvements",
+              "back": ""
+            },
+            {
+              "front": "allocation strategy will optimize resources",
+              "back": ""
+            },
+            { "front": "signage system will direct travelers", "back": "" },
+            { "front": "traffic report will indicate congestion", "back": "" },
+            {
+              "front": "consultation service will provide assistance",
+              "back": ""
+            },
+            { "front": "logistics plan will streamline processes", "back": "" },
+            { "front": "bicycle lane will promote cycling", "back": "" },
+            { "front": "emergency response will save lives", "back": "" },
+            { "front": "driving rule will apply universally", "back": "" },
+            { "front": "road safety will be prioritized", "back": "" },
+            { "front": "service route will require adjustments", "back": "" },
+            { "front": "schedule update will be necessary", "back": "" },
+            { "front": "traffic congestion will impact travel", "back": "" },
+            {
+              "front": "reservation system will simplify bookings",
+              "back": ""
+            },
+            { "front": "planning meeting will set agenda", "back": "" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            { "front": "station will close before dinner time", "back": "" },
+            { "front": "departure time is good for us", "back": "" },
+            { "front": "they will perform good network analysis", "back": "" },
+            { "front": "traffic report runs every single hour", "back": "" },
+            { "front": "we will obey all traffic signals", "back": "" },
+            { "front": "they will arrive here on schedule", "back": "" },
+            { "front": "we need to arrive at airport", "back": "" },
+            { "front": "cargo space will become available soon", "back": "" },
+            { "front": "fare price will increase next month", "back": "" },
+            { "front": "rail line will be fully operational", "back": "" },
+            { "front": "route map will indicate all detours", "back": "" },
+            { "front": "arrival schedule will be posted soon", "back": "" },
+            {
+              "front": "safety measures will ensure passenger security",
+              "back": ""
+            },
+            {
+              "front": "commute route will include multiple options",
+              "back": ""
+            },
+            {
+              "front": "service area will have essential amenities",
+              "back": ""
+            },
+            {
+              "front": "transfer station will provide convenient connections",
+              "back": ""
+            },
+            { "front": "traffic signal will turn green shortly", "back": "" },
+            { "front": "navigation tool will guide our route", "back": "" },
+            { "front": "bicycle lane will promote safer cycling", "back": "" },
+            {
+              "front": "operation schedule will be updated regularly",
+              "back": ""
+            },
+            {
+              "front": "network analysis will improve overall logistics",
+              "back": ""
+            },
+            { "front": "capacity limit will be enforced soon", "back": "" },
+            {
+              "front": "they will adjust service route accordingly",
+              "back": ""
+            },
+            { "front": "emergency response will save many lives", "back": "" },
+            {
+              "front": "we will implement necessary safety protocols",
+              "back": ""
+            },
+            { "front": "inspection area will be very busy", "back": "" },
+            {
+              "front": "traffic report will highlight major issues",
+              "back": ""
+            },
+            {
+              "front": "consultation meeting will discuss important topics",
+              "back": ""
+            },
+            { "front": "travel allowance will cover all expenses", "back": "" },
+            {
+              "front": "reservation system will streamline travel bookings",
+              "back": ""
+            },
+            {
+              "front": "distance measurement will ensure accurate travel",
+              "back": ""
+            },
+            {
+              "front": "hub location will simplify passenger access",
+              "back": ""
+            },
+            { "front": "signage system will direct all travelers", "back": "" },
+            { "front": "we will analyze logistics for efficiency", "back": "" }
+          ]
+        }
+      ]
+    }
+  ]
+}

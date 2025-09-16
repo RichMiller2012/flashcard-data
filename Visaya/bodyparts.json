@@ -1,0 +1,2514 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Body Parts",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Head",
+              "back": "ulo"
+            },
+            {
+              "front": "Eye",
+              "back": "mata"
+            },
+            {
+              "front": "Ear",
+              "back": "dalunggan"
+            },
+            {
+              "front": "Nose",
+              "back": "ilong"
+            },
+            {
+              "front": "Mouth",
+              "back": "baba"
+            },
+            {
+              "front": "Teeth",
+              "back": "ngipon"
+            },
+            {
+              "front": "Tongue",
+              "back": "dila"
+            },
+            {
+              "front": "Neck",
+              "back": "liog"
+            },
+            {
+              "front": "Shoulder",
+              "back": "abaga"
+            },
+            {
+              "front": "Arm",
+              "back": "bukton"
+            },
+            {
+              "front": "Elbow",
+              "back": "siko"
+            },
+            {
+              "front": "Wrist",
+              "back": "pulso"
+            },
+            {
+              "front": "Hand",
+              "back": "kamot"
+            },
+            {
+              "front": "Finger",
+              "back": "tudlo"
+            },
+            {
+              "front": "Chest",
+              "back": "dughan"
+            },
+            {
+              "front": "Back",
+              "back": "balik"
+            },
+            {
+              "front": "Stomach",
+              "back": "tiyan"
+            },
+            {
+              "front": "Waist",
+              "back": "hawak"
+            },
+            {
+              "front": "Hip",
+              "back": "bat-ang"
+            },
+            {
+              "front": "Leg",
+              "back": "bitiis"
+            },
+            {
+              "front": "Knee",
+              "back": "tuhod"
+            },
+            {
+              "front": "Ankle",
+              "back": "buolbuol"
+            },
+            {
+              "front": "Foot",
+              "back": "tiil"
+            },
+            {
+              "front": "Toe",
+              "back": "unya"
+            },
+            {
+              "front": "Skin",
+              "back": "panit"
+            },
+            {
+              "front": "Hair",
+              "back": "buhok"
+            },
+            {
+              "front": "Nail",
+              "back": "lansang"
+            },
+            {
+              "front": "Brain",
+              "back": "utok"
+            },
+            {
+              "front": "Heart",
+              "back": "kasingkasing"
+            },
+            {
+              "front": "Lung",
+              "back": "baga"
+            },
+            {
+              "front": "Liver",
+              "back": "atay"
+            },
+            {
+              "front": "Kidney",
+              "back": "kidney"
+            },
+            {
+              "front": "Bladder",
+              "back": "pantog"
+            },
+            {
+              "front": "Spleen",
+              "back": "spleen"
+            },
+            {
+              "front": "Intestine",
+              "back": "tinai"
+            },
+            {
+              "front": "Vein",
+              "back": "ugat"
+            },
+            {
+              "front": "Artery",
+              "back": "ugat"
+            },
+            {
+              "front": "Muscle",
+              "back": "kaunoran"
+            },
+            {
+              "front": "Joint",
+              "back": "hiniusang"
+            },
+            {
+              "front": "Tissue",
+              "back": "tissue"
+            },
+            {
+              "front": "Cell",
+              "back": "selda"
+            },
+            {
+              "front": "Blood",
+              "back": "dugo"
+            },
+            {
+              "front": "Nerve",
+              "back": "nerbiyos"
+            },
+            {
+              "front": "Digestive",
+              "back": "digestive"
+            },
+            {
+              "front": "Endocrine",
+              "back": "endocrine"
+            },
+            {
+              "front": "Respiratory",
+              "back": "pagginhawa"
+            },
+            {
+              "front": "Reproductive",
+              "back": "reproductive"
+            },
+            {
+              "front": "Immune",
+              "back": "immune"
+            },
+            {
+              "front": "Lymph",
+              "back": "lymph"
+            },
+            {
+              "front": "Skeleton",
+              "back": "kalabera"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "blue vein",
+              "back": "asul nga ugat"
+            },
+            {
+              "front": "full bladder",
+              "back": "puno sa pantog"
+            },
+            {
+              "front": "strong muscle",
+              "back": "lig-on nga kaunoran"
+            },
+            {
+              "front": "tall spine",
+              "back": "taas nga dugokan"
+            },
+            {
+              "front": "large heart",
+              "back": "dako nga kasingkasing"
+            },
+            {
+              "front": "healthy liver",
+              "back": "himsog nga atay"
+            },
+            {
+              "front": "strong bone",
+              "back": "lig-on nga bukog"
+            },
+            {
+              "front": "flexible joint",
+              "back": "flexible joint"
+            },
+            {
+              "front": "thick skin",
+              "back": "baga nga panit"
+            },
+            {
+              "front": "sharp nail",
+              "back": "hait nga lansang"
+            },
+            {
+              "front": "strong tooth",
+              "back": "lig-on nga ngipon"
+            },
+            {
+              "front": "long hair",
+              "back": "taas nga buhok"
+            },
+            {
+              "front": "small toe",
+              "back": "gamay nga tudlo sa tiil"
+            },
+            {
+              "front": "big foot",
+              "back": "dako nga tiil"
+            },
+            {
+              "front": "thick brow",
+              "back": "baga nga kilay"
+            },
+            {
+              "front": "round belly",
+              "back": "lingin nga tiyan"
+            },
+            {
+              "front": "long arm",
+              "back": "taas nga bukton"
+            },
+            {
+              "front": "short leg",
+              "back": "mubo nga bitiis"
+            },
+            {
+              "front": "flat stomach",
+              "back": "patag nga tiyan"
+            },
+            {
+              "front": "broad shoulder",
+              "back": "lapad nga abaga"
+            },
+            {
+              "front": "big eye",
+              "back": "dako nga mata"
+            },
+            {
+              "front": "tender tongue",
+              "back": "malumo nga dila"
+            },
+            {
+              "front": "pointed elbow",
+              "back": "gipunting nga siko"
+            },
+            {
+              "front": "nimble finger",
+              "back": "abtik nga tudlo"
+            },
+            {
+              "front": "wrinkled forehead",
+              "back": "nagkunot ang agtang"
+            },
+            {
+              "front": "smooth cheek",
+              "back": "hamis nga aping"
+            },
+            {
+              "front": "long neck",
+              "back": "taas nga liog"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "vein is blue",
+              "back": "asul ang ugat"
+            },
+            {
+              "front": "bladder is full",
+              "back": "puno ang pantog"
+            },
+            {
+              "front": "muscle grows stronger",
+              "back": "mas molig-on ang kaunoran"
+            },
+            {
+              "front": "spine remains healthy",
+              "back": "ang dugokan nagpabiling himsog"
+            },
+            {
+              "front": "heart pumps blood",
+              "back": "kasingkasing nagbomba sa dugo"
+            },
+            {
+              "front": "liver processes toxins",
+              "back": "atay nagproseso sa mga hilo"
+            },
+            {
+              "front": "bone heals completely",
+              "back": "bukog naayo sa hingpit"
+            },
+            {
+              "front": "joint improves flexibility",
+              "back": "joint pagpalambo sa pagka-flexible"
+            },
+            {
+              "front": "skin feels soft",
+              "back": "humok ang panit"
+            },
+            {
+              "front": "nail grows long",
+              "back": "lansang motubo taas"
+            },
+            {
+              "front": "tooth remains strong",
+              "back": "ngipon nagpabiling lig-on"
+            },
+            {
+              "front": "hair grows faster",
+              "back": "mas paspas ang pagtubo sa buhok"
+            },
+            {
+              "front": "toe regains balance",
+              "back": "mabalik ang balanse sa tiil"
+            },
+            {
+              "front": "foot supports weight",
+              "back": "tiil nagsuporta sa gibug-aton"
+            },
+            {
+              "front": "brow furrows again",
+              "back": "nagkunot na usab ang agtang"
+            },
+            {
+              "front": "belly flattens out",
+              "back": "ang tiyan nag-flat"
+            },
+            {
+              "front": "arm lifts weights",
+              "back": "bukton nagpataas sa mga gibug-aton"
+            },
+            {
+              "front": "leg gets stronger",
+              "back": "bitiis mahimong mas lig-on"
+            },
+            {
+              "front": "stomach digests food",
+              "back": "tiyan makahilis sa pagkaon"
+            },
+            {
+              "front": "shoulder carries burdens",
+              "back": "abaga nagdala sa mga palas-anon"
+            },
+            {
+              "front": "eye sees clearly",
+              "back": "tin-aw nga makakita ang mata"
+            },
+            {
+              "front": "tongue tastes flavors",
+              "back": "dila makatilaw sa lami"
+            },
+            {
+              "front": "elbow bends easily",
+              "back": "daling moliko ang siko"
+            },
+            {
+              "front": "finger points accurately",
+              "back": "tukma nga mga punto sa tudlo"
+            },
+            {
+              "front": "forehead wrinkles again",
+              "back": "nangunot na usab ang agtang"
+            },
+            {
+              "front": "cheek flushes red",
+              "back": "pula ang aping"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My back is strong",
+              "back": "lig-on ang akong likod"
+            },
+            {
+              "front": "My toe is broken",
+              "back": "nabali ang akong tudlo sa tiil"
+            },
+            {
+              "front": "My eye hurts badly",
+              "back": "sakit kaayo akong mata"
+            },
+            {
+              "front": "His arm is sore",
+              "back": "sakit iyang bukton"
+            },
+            {
+              "front": "Her knee is swollen",
+              "back": "nanghubag iyang tuhod"
+            },
+            {
+              "front": "Your leg is injured",
+              "back": "nasamad imong paa"
+            },
+            {
+              "front": "Our hands are clean",
+              "back": "limpyo ang atong mga kamot"
+            },
+            {
+              "front": "His foot is swollen",
+              "back": "hubag ang iyang tiil"
+            },
+            {
+              "front": "Her finger is bleeding",
+              "back": "nagdugo ang iyang tudlo"
+            },
+            {
+              "front": "My mouth is dry",
+              "back": "uga ang akong baba"
+            },
+            {
+              "front": "Their necks are stiff",
+              "back": "gahi ang ilang mga liog"
+            },
+            {
+              "front": "Our shoulders are tense",
+              "back": "tensyon ang among mga abaga"
+            },
+            {
+              "front": "His chest is sore",
+              "back": "gasakit iyang dughan"
+            },
+            {
+              "front": "My wrist is sprained",
+              "back": "napiang ang akong pulso"
+            },
+            {
+              "front": "Her ear is ringing",
+              "back": "nagbagting ang iyang dunggan"
+            },
+            {
+              "front": "His lips are chapped",
+              "back": "ang iyang mga ngabil nabuak"
+            },
+            {
+              "front": "My nose is stuffy",
+              "back": "bagot akong ilong"
+            },
+            {
+              "front": "Your stomach is upset",
+              "back": "nagsakit imong tiyan"
+            },
+            {
+              "front": "Our eyes are tired",
+              "back": "gikapoy among mata"
+            },
+            {
+              "front": "His hair is messy",
+              "back": "gubot ang iyang buhok"
+            },
+            {
+              "front": "My skin is itchy",
+              "back": "gatol akong panit"
+            },
+            {
+              "front": "Her teeth are sharp",
+              "back": "hait ang iyang mga ngipon"
+            },
+            {
+              "front": "Our feet are cold",
+              "back": "bugnaw ang among mga tiil"
+            },
+            {
+              "front": "His head is pounding",
+              "back": "naglabad ang iyang ulo"
+            },
+            {
+              "front": "My hand is numb",
+              "back": "nanuol akong kamot"
+            },
+            {
+              "front": "Your back is aching",
+              "back": "nagsakit imong likod"
+            },
+            {
+              "front": "His leg is broken",
+              "back": "nabali ang iyang paa"
+            },
+            {
+              "front": "My shoulder is tight",
+              "back": "huot akong abaga"
+            },
+            {
+              "front": "Her neck is stiff",
+              "back": "gahi iyang liog"
+            },
+            {
+              "front": "Our fingers are clean",
+              "back": "limpyo ang atong mga tudlo"
+            },
+            {
+              "front": "My foot is sore",
+              "back": "sakit akong tiil"
+            },
+            {
+              "front": "His ear is blocked",
+              "back": "nabara ang iyang dalunggan"
+            },
+            {
+              "front": "My chest is hurting",
+              "back": "nagsakit akong dughan"
+            },
+            {
+              "front": "Her wrist is swollen",
+              "back": "nanghubag ang iyang pulso"
+            },
+            {
+              "front": "Our knees are bruised",
+              "back": "nangadugmok ang among mga tuhod"
+            },
+            {
+              "front": "My toe is swollen",
+              "back": "hubag akong tudlo sa tiil"
+            },
+            {
+              "front": "Your mouth is dry",
+              "back": "uga ang imong baba"
+            },
+            {
+              "front": "His nose is running",
+              "back": "nagdagan iyang ilong"
+            },
+            {
+              "front": "My teeth are clean",
+              "back": "limpyo akong ngipon"
+            },
+            {
+              "front": "Her eyes are red",
+              "back": "pula ang iyang mga mata"
+            },
+            {
+              "front": "Our hands are dirty",
+              "back": "hugaw among mga kamot"
+            },
+            {
+              "front": "His hair is falling",
+              "back": "nangahulog iyang buhok"
+            },
+            {
+              "front": "My lips are cracked",
+              "back": "nabuak akong lips"
+            },
+            {
+              "front": "Your stomach is growling",
+              "back": "nagkuba ang imong tiyan"
+            },
+            {
+              "front": "Her head is spinning",
+              "back": "naglabad iyang ulo"
+            },
+            {
+              "front": "Our back is sore",
+              "back": "sakit among likod"
+            },
+            {
+              "front": "My finger is swollen",
+              "back": "nanghubag akong tudlo"
+            },
+            {
+              "front": "Their lips are dry",
+              "back": "nauga ang ilang mga ngabil"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My back feels sore today",
+              "back": "sakit akong likod karon"
+            },
+            {
+              "front": "His arm hurts after exercise",
+              "back": "nagsakit iyang bukton human sa ehersisyo"
+            },
+            {
+              "front": "Her knee is swollen badly",
+              "back": "hubag kaayo iyang tuhod"
+            },
+            {
+              "front": "Our hands are clean now",
+              "back": "limpyo na among mga kamot karon"
+            },
+            {
+              "front": "Their feet are cold again",
+              "back": "bugnaw na usab ang ilang mga tiil"
+            },
+            {
+              "front": "I feel my body aching",
+              "back": "gibati nako nga nagsakit akong lawas"
+            },
+            {
+              "front": "Your finger is bleeding slightly",
+              "back": "medyo nagdugo imong tudlo"
+            },
+            {
+              "front": "She touches her ear gently",
+              "back": "gihikap niya ang iyang dalunggan"
+            },
+            {
+              "front": "We see the nose bleeding",
+              "back": "atong makita ang ilong nga nagdugo"
+            },
+            {
+              "front": "He lifts his heavy foot",
+              "back": "iyang giisa ang iyang bug-at nga tiil"
+            },
+            {
+              "front": "My lips are cracked today",
+              "back": "liki akong lips karon"
+            },
+            {
+              "front": "Her eyes are tired now",
+              "back": "kapoy na iyang mata karon"
+            },
+            {
+              "front": "I feel my heart racing",
+              "back": "gibati nako ang pagdagan sa akong kasingkasing"
+            },
+            {
+              "front": "Our lips are dry again",
+              "back": "nauga na usab ang among mga ngabil"
+            },
+            {
+              "front": "His mouth feels very dry",
+              "back": "mura najud kaayo iyang baba"
+            },
+            {
+              "front": "She rubs her sore back",
+              "back": "gikumot niya ang iyang sakit sa likod"
+            },
+            {
+              "front": "They both stretch their arms",
+              "back": "silang duha nag-inat sa ilang mga bukton"
+            },
+            {
+              "front": "I rest my tired legs",
+              "back": "Gipahuway ko ang akong gikapoy nga mga bitiis"
+            },
+            {
+              "front": "Your chest is hurting again",
+              "back": "nagsakit na sab imong dughan"
+            },
+            {
+              "front": "We touch our sore feet",
+              "back": "gihikap namo ang among masakit nga mga tiil"
+            },
+            {
+              "front": "He rubs his swollen wrist",
+              "back": "iyang gikumot ang iyang naghubag nga pulso"
+            },
+            {
+              "front": "My shoulder is stiff today",
+              "back": "gahi akong abaga karon"
+            },
+            {
+              "front": "Her skin is smooth now",
+              "back": "hamis na iyang panit karon"
+            },
+            {
+              "front": "I smell with my nose",
+              "back": "baho ko sa akong ilong"
+            },
+            {
+              "front": "His eyes are looking tired",
+              "back": "kapoy daw iyang mata"
+            },
+            {
+              "front": "We breathe with our lungs",
+              "back": "kita moginhawa sa atong mga baga"
+            },
+            {
+              "front": "She stands on her toes",
+              "back": "siya nagatindog sa iyang mga tudlo sa tiil"
+            },
+            {
+              "front": "Your back is hurting badly",
+              "back": "sakit kaayo imong likod"
+            },
+            {
+              "front": "My finger is feeling numb",
+              "back": "akong tudlo murag manhid"
+            },
+            {
+              "front": "Their stomachs are growling loudly",
+              "back": "kusog kaayo ang ilang mga tiyan"
+            },
+            {
+              "front": "I wash my dirty hands",
+              "back": "nanghugas ko sa akong hugaw nga kamot"
+            },
+            {
+              "front": "His hair is getting longer",
+              "back": "nagkataas ang iyang buhok"
+            },
+            {
+              "front": "We touch our sore necks",
+              "back": "gihikap namo ang among sakit nga liog"
+            },
+            {
+              "front": "Her teeth are very white",
+              "back": "puti kaayo iyang ngipon"
+            },
+            {
+              "front": "You clench your strong fists",
+              "back": "gikuyop nimo ang imong kusgan nga mga kumo"
+            },
+            {
+              "front": "My ears are ringing loudly",
+              "back": "kusog kaayo akong dunggan"
+            },
+            {
+              "front": "Our feet are getting warmer",
+              "back": "nagkainit ang among mga tiil"
+            },
+            {
+              "front": "I see with my eyes",
+              "back": "akong nakita sa akong mga mata"
+            },
+            {
+              "front": "Their hands are cold now",
+              "back": "bugnaw na ang ilang mga kamot"
+            },
+            {
+              "front": "His head is feeling light",
+              "back": "gaan ang iyang ulo"
+            },
+            {
+              "front": "She rubs her dry lips",
+              "back": "gihaplasan niya ang iyang uga nga mga ngabil"
+            },
+            {
+              "front": "We feel our pulse racing",
+              "back": "gibati namo ang pagdagan sa among pulso"
+            },
+            {
+              "front": "My skin is feeling dry",
+              "back": "mura kog panit"
+            },
+            {
+              "front": "Your chest is rising quickly",
+              "back": "kusog motaas imong dughan"
+            },
+            {
+              "front": "Our necks are stiff today",
+              "back": "gahi ang atong mga liog karon"
+            },
+            {
+              "front": "I stretch my aching legs",
+              "back": "giinat nako akong nagsakit nga mga paa"
+            },
+            {
+              "front": "Her finger is swollen badly",
+              "back": "hubag kaayo iyang tudlo"
+            },
+            {
+              "front": "We notice our sore throats",
+              "back": "namatikdan namo ang among mga sakit nga tutunlan"
+            },
+            {
+              "front": "His foot is throbbing badly",
+              "back": "grabe ang pagkurog sa iyang tiil"
+            },
+            {
+              "front": "I feel the muscles aching",
+              "back": "Gibati nako nga nagsakit ang mga kaunuran"
+            },
+            {
+              "front": "You hear with your ears",
+              "back": "makadungog ka sa imong mga dalunggan"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "My back hurts after working today",
+              "back": "nagsakit akong bukobuko human sa pagtrabaho karon"
+            },
+            {
+              "front": "His arm feels sore from lifting",
+              "back": "sakit ang iyang bukton tungod sa pag-alsa"
+            },
+            {
+              "front": "Her knee is swollen and painful",
+              "back": "hubag ug sakit ang iyang tuhod"
+            },
+            {
+              "front": "Our hands are clean and soft",
+              "back": "limpyo ug humok ang atong mga kamot"
+            },
+            {
+              "front": "Their feet are cold and tired",
+              "back": "ang ilang mga tiil bugnaw ug gikapoy"
+            },
+            {
+              "front": "I feel my body aching everywhere",
+              "back": "Gibati nako nga nagsakit akong lawas bisan asa"
+            },
+            {
+              "front": "Your finger is bleeding just slightly",
+              "back": "gamay ra ang pagdugo sa imong tudlo"
+            },
+            {
+              "front": "She touches her ear with care",
+              "back": "gihikap niya ang iyang dalunggan uban ang pag-amping"
+            },
+            {
+              "front": "We see the nose is bleeding",
+              "back": "atong nakita nga nagdugo ang ilong"
+            },
+            {
+              "front": "He lifts his foot with difficulty",
+              "back": "giisa niya ang iyang tiil nga naglisod"
+            },
+            {
+              "front": "My lips are cracked and dry",
+              "back": "ang akong mga ngabil nangliki ug uga"
+            },
+            {
+              "front": "Her eyes are tired from reading",
+              "back": "ang iyang mga mata gikapoy sa pagbasa"
+            },
+            {
+              "front": "I feel my heart racing fast",
+              "back": "Gibati nako nga kusog ang pagdagan sa akong kasingkasing"
+            },
+            {
+              "front": "Our lips are dry again today",
+              "back": "uga na usab ang atong mga ngabil karon"
+            },
+            {
+              "front": "His mouth feels dry and uncomfortable",
+              "back": "ang iyang baba mobati nga uga ug dili komportable"
+            },
+            {
+              "front": "She rubs her sore back gently",
+              "back": "Hinayhinay niyang gihaplasan ang iyang sakit nga bukobuko"
+            },
+            {
+              "front": "They both stretch their arms wide",
+              "back": "silang duha mituyhad sa ilang mga bukton nga halapad"
+            },
+            {
+              "front": "I rest my tired legs here",
+              "back": "Gipapahulay nako ang akong gikapoy nga mga bitiis dinhi"
+            },
+            {
+              "front": "Your chest is hurting from coughing",
+              "back": "nagsakit imong dughan sa ubo"
+            },
+            {
+              "front": "We touch our sore feet now",
+              "back": "gihikap namo ang among masakit nga mga tiil karon"
+            },
+            {
+              "front": "He rubs his swollen wrist gently",
+              "back": "hinay niyang gikumot ang iyang naghubag nga pulso"
+            },
+            {
+              "front": "My shoulder is stiff and sore",
+              "back": "gahi ug sakit akong abaga"
+            },
+            {
+              "front": "Her skin is smooth and soft",
+              "back": "hamis ug humok ang iyang panit"
+            },
+            {
+              "front": "I smell with my nose clearly",
+              "back": "baho ko sa akong ilong klaro"
+            },
+            {
+              "front": "His eyes are looking quite tired",
+              "back": "kapoy na kaayo iyang mata"
+            },
+            {
+              "front": "We breathe with our lungs deeply",
+              "back": "kita moginhawa uban sa atong mga baga sa lawom nga"
+            },
+            {
+              "front": "She stands on her toes carefully",
+              "back": "siya nagtindog sa iyang mga tudlo sa tiil pag-ayo"
+            },
+            {
+              "front": "Your back is hurting quite badly",
+              "back": "sakit kaayo imong likod"
+            },
+            {
+              "front": "My finger is feeling quite numb",
+              "back": "mura najud kog tudlo"
+            },
+            {
+              "front": "Their stomachs are growling loudly now",
+              "back": "kusog na kaayo ang ilang tiyan karon"
+            },
+            {
+              "front": "I wash my dirty hands regularly",
+              "back": "Kanunay kong manghugas sa akong hugaw nga kamot"
+            },
+            {
+              "front": "His hair is growing longer each day",
+              "back": "motaas ang iyang buhok kada adlaw"
+            },
+            {
+              "front": "We touch our sore necks now",
+              "back": "gihikap namo ang among sakit nga liog karon"
+            },
+            {
+              "front": "Her teeth are very white indeed",
+              "back": "puti kaayo iyang ngipon"
+            },
+            {
+              "front": "You clench your strong fists tightly",
+              "back": "gigunitan nimo pag-ayo ang imong kusgan nga mga kumo"
+            },
+            {
+              "front": "My ears are ringing very loudly",
+              "back": "kusog kaayo akong dunggan"
+            },
+            {
+              "front": "Our feet are getting warmer slowly",
+              "back": "hinayhinay nang nanginit ang atong mga tiil"
+            },
+            {
+              "front": "I see with my eyes clearly",
+              "back": "Klaro akong nakita sa akong mga mata"
+            },
+            {
+              "front": "Their hands are cold and numb",
+              "back": "bugnaw ug manhid ang ilang mga kamot"
+            },
+            {
+              "front": "His head is feeling light now",
+              "back": "gaan ang iyang ulo karon"
+            },
+            {
+              "front": "She rubs her dry lips gently",
+              "back": "gihaplasan niya ang iyang uga nga mga ngabil"
+            },
+            {
+              "front": "We feel our pulse racing fast",
+              "back": "gibati namo nga paspas ang among pulso"
+            },
+            {
+              "front": "My skin is feeling dry today",
+              "back": "mura kog panit karon"
+            },
+            {
+              "front": "Your chest is rising quickly now",
+              "back": "paspas nga motaas ang imong dughan karon"
+            },
+            {
+              "front": "Our necks are stiff from sitting",
+              "back": "gahi ang among mga liog tungod sa paglingkod"
+            },
+            {
+              "front": "I stretch my aching legs slowly",
+              "back": "gihinayhinay nako ang nagsakit nga mga bitiis"
+            },
+            {
+              "front": "Her finger is swollen and painful",
+              "back": "hubag ug sakit ang iyang tudlo"
+            },
+            {
+              "front": "We notice our sore throats today",
+              "back": "namatikdan namo ang among mga sakit nga tutunlan karon"
+            },
+            {
+              "front": "His foot is throbbing very badly",
+              "back": "grabe ang pagkurog sa iyang tiil"
+            },
+            {
+              "front": "I feel the muscles aching deeply",
+              "back": "Gibati nako ang mga kaunuran nga nagsakit pag-ayo"
+            },
+            {
+              "front": "You hear with your ears clearly",
+              "back": "makadungog ka sa imong mga igdulungog klaro"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "belly was bloated",
+              "back": "niburot ang tiyan"
+            },
+            {
+              "front": "nail grew slowly",
+              "back": "hinay nga mitubo ang lansang"
+            },
+            {
+              "front": "vein turned blue",
+              "back": "ugat nahimong asul"
+            },
+            {
+              "front": "bladder felt full",
+              "back": "pantog gibati puno"
+            },
+            {
+              "front": "muscle ached after",
+              "back": "sakit sa kaunoran pagkahuman"
+            },
+            {
+              "front": "spine supported weight",
+              "back": "gibug-aton nga gisuportahan sa dugokan"
+            },
+            {
+              "front": "heart raced earlier",
+              "back": "ang kasing-kasing nagdagan sa sayo pa"
+            },
+            {
+              "front": "liver processed toxins",
+              "back": "atay giproseso nga mga hilo"
+            },
+            {
+              "front": "bone healed completely",
+              "back": "bukog naayo sa hingpit"
+            },
+            {
+              "front": "joint felt stiff",
+              "back": "lutahan mibati nga matig-a"
+            },
+            {
+              "front": "skin was dry",
+              "back": "uga ang panit"
+            },
+            {
+              "front": "hair fell out",
+              "back": "nangawala ang buhok"
+            },
+            {
+              "front": "toe was injured",
+              "back": "nasamdan ang tiil"
+            },
+            {
+              "front": "foot hurt badly",
+              "back": "sakit kaayo ang tiil"
+            },
+            {
+              "front": "brow furrowed slightly",
+              "back": "medyo nagkunot ang agtang"
+            },
+            {
+              "front": "arm was sore",
+              "back": "sakit sa bukton"
+            },
+            {
+              "front": "leg was weak",
+              "back": "luya ang tiil"
+            },
+            {
+              "front": "stomach grumbled loudly",
+              "back": "kusog nga nagbagulbol ang tiyan"
+            },
+            {
+              "front": "shoulder felt tight",
+              "back": "abaga gibati hugot"
+            },
+            {
+              "front": "eye twitched unexpectedly",
+              "back": "Mikibot ang mata sa wala damha"
+            },
+            {
+              "front": "tongue tasted bitterness",
+              "back": "dila nakatilaw sa kapaitan"
+            },
+            {
+              "front": "elbow bent awkwardly",
+              "back": "siko gibawog awkwardly"
+            },
+            {
+              "front": "finger pointed sharply",
+              "back": "tudlo nga gipunting pag-ayo"
+            },
+            {
+              "front": "forehead glistened heavily",
+              "back": "misanag pag-ayo ang agtang"
+            },
+            {
+              "front": "cheek flushed red",
+              "back": "napula ang aping"
+            },
+            {
+              "front": "palm felt clammy",
+              "back": "ang palad mibati nga humok"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My back hurt badly",
+              "back": "sakit kaayo akong likod"
+            },
+            {
+              "front": "His arm was sore",
+              "back": "sakit iyang bukton"
+            },
+            {
+              "front": "Her knee felt swollen",
+              "back": "nihubag iyang tuhod"
+            },
+            {
+              "front": "Our hands were dirty",
+              "back": "hugaw among mga kamot"
+            },
+            {
+              "front": "Their feet were cold",
+              "back": "bugnaw ang ilang mga tiil"
+            },
+            {
+              "front": "I felt my body ache",
+              "back": "nabati nako nga sakit akong lawas"
+            },
+            {
+              "front": "Your finger bled badly",
+              "back": "grabe nagdugo imong tudlo"
+            },
+            {
+              "front": "She touched her ear",
+              "back": "gihikap niya ang iyang dunggan"
+            },
+            {
+              "front": "We saw the nose",
+              "back": "nakita namo ang ilong"
+            },
+            {
+              "front": "He lifted his foot",
+              "back": "gialsa niya ang iyang tiil"
+            },
+            {
+              "front": "My lips cracked badly",
+              "back": "grabe nag liki akong lips"
+            },
+            {
+              "front": "Her eyes were tired",
+              "back": "ang iyang mga mata gikapoy"
+            },
+            {
+              "front": "I felt my heart race",
+              "back": "gibati nako ang pagkurog sa akong kasingkasing"
+            },
+            {
+              "front": "Our lips felt dry",
+              "back": "nauga ang among mga ngabil"
+            },
+            {
+              "front": "His mouth felt dry",
+              "back": "nauga ang iyang baba"
+            },
+            {
+              "front": "She rubbed her back",
+              "back": "iyang gikumot iyang likod"
+            },
+            {
+              "front": "They stretched their arms",
+              "back": "ilang gituy-od ang ilang mga bukton"
+            },
+            {
+              "front": "I rested my legs",
+              "back": "gipahulay nako akong mga paa"
+            },
+            {
+              "front": "Your chest hurt badly",
+              "back": "sakit kaayo imong dughan"
+            },
+            {
+              "front": "We touched our feet",
+              "back": "gihikap namo ang among mga tiil"
+            },
+            {
+              "front": "He rubbed his wrist",
+              "back": "iyang gikumot iyang pulso"
+            },
+            {
+              "front": "My shoulder was sore",
+              "back": "sakit akong abaga"
+            },
+            {
+              "front": "Her skin felt smooth",
+              "back": "hamis ang iyang panit"
+            },
+            {
+              "front": "I smelled with nose",
+              "back": "nanimaho ko sa ilong"
+            },
+            {
+              "front": "His eyes looked tired",
+              "back": "kapoy daw iyang mata"
+            },
+            {
+              "front": "We breathed with lungs",
+              "back": "miginhawa kami sa baga"
+            },
+            {
+              "front": "She stood on toes",
+              "back": "siya mitindog sa mga tudlo sa tiil"
+            },
+            {
+              "front": "Your back hurt badly",
+              "back": "sakit kaayo imong likod"
+            },
+            {
+              "front": "My finger felt numb",
+              "back": "mura kog tudlo"
+            },
+            {
+              "front": "Their stomachs growled loudly",
+              "back": "kusog kaayo ang ilang tiyan"
+            },
+            {
+              "front": "I washed my hands",
+              "back": "nanghugas ko sa akong mga kamot"
+            },
+            {
+              "front": "His hair grew longer",
+              "back": "nitaas ang iyang buhok"
+            },
+            {
+              "front": "We touched our necks",
+              "back": "gihikap namo among liog"
+            },
+            {
+              "front": "Her teeth were white",
+              "back": "puti ang iyang mga ngipon"
+            },
+            {
+              "front": "You clenched your fists",
+              "back": "gikumot nimo imong mga kumo"
+            },
+            {
+              "front": "My ears rang loudly",
+              "back": "kusog kaayo akong dunggan"
+            },
+            {
+              "front": "Our feet grew warmer",
+              "back": "nanginit ang among mga tiil"
+            },
+            {
+              "front": "I saw with eyes",
+              "back": "nakita nako sa mga mata"
+            },
+            {
+              "front": "Their hands felt cold",
+              "back": "nabugnaw ang ilang mga kamot"
+            },
+            {
+              "front": "His head felt light",
+              "back": "gaan ang iyang ulo"
+            },
+            {
+              "front": "She rubbed her lips",
+              "back": "gikumot niya ang iyang mga ngabil"
+            },
+            {
+              "front": "We felt pulse race",
+              "back": "gibati namo ang lumba sa pulso"
+            },
+            {
+              "front": "My skin felt dry",
+              "back": "nauga akong panit"
+            },
+            {
+              "front": "Your chest rose quickly",
+              "back": "mitaas dayon imong dughan"
+            },
+            {
+              "front": "Our necks were stiff",
+              "back": "gahi ang among mga liog"
+            },
+            {
+              "front": "I stretched my legs",
+              "back": "giinat nako akong mga paa"
+            },
+            {
+              "front": "Her finger swelled badly",
+              "back": "grabe nanghubag iyang tudlo"
+            },
+            {
+              "front": "We noticed sore throats",
+              "back": "namatikdan namo ang sakit nga tutunlan"
+            },
+            {
+              "front": "His foot throbbed badly",
+              "back": "grabe nga nagpitik ang iyang tiil"
+            },
+            {
+              "front": "I felt muscles ache",
+              "back": "Gibati nako ang kasakit sa kaunoran"
+            },
+            {
+              "front": "You heard with ears",
+              "back": "nadungog nimo sa mga dalunggan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My back hurt so badly",
+              "back": "sakit kaayo akong likod"
+            },
+            {
+              "front": "His arm was sore yesterday",
+              "back": "sakit iyang bukton gahapon"
+            },
+            {
+              "front": "Her knee swelled up badly",
+              "back": "grabe nanghubag iyang tuhod"
+            },
+            {
+              "front": "Our hands were dirty yesterday",
+              "back": "hugaw among mga kamot gahapon"
+            },
+            {
+              "front": "Their feet were cold last",
+              "back": "bugnaw ang ilang mga tiil sa kataposan"
+            },
+            {
+              "front": "I felt my body aching",
+              "back": "nabati nako nga nagsakit akong lawas"
+            },
+            {
+              "front": "Your finger bled a lot",
+              "back": "nagdugo kaayo imong tudlo"
+            },
+            {
+              "front": "She touched her ear gently",
+              "back": "hinay niyang gihikap ang iyang dunggan"
+            },
+            {
+              "front": "We saw the nose bleeding",
+              "back": "nakita namo nga nagdugo ang ilong"
+            },
+            {
+              "front": "He lifted his foot slowly",
+              "back": "hinay niyang giisa ang iyang tiil"
+            },
+            {
+              "front": "My lips cracked and bled",
+              "back": "niliki ug nagdugo akong lips"
+            },
+            {
+              "front": "Her eyes were very tired",
+              "back": "kapoy kaayo iyang mata"
+            },
+            {
+              "front": "I felt my heart racing",
+              "back": "Gibati nako ang pagkurog sa akong kasingkasing"
+            },
+            {
+              "front": "Our lips were dry again",
+              "back": "nauga na usab ang among mga ngabil"
+            },
+            {
+              "front": "His mouth felt dry again",
+              "back": "nauga na usab ang iyang baba"
+            },
+            {
+              "front": "She rubbed her sore back",
+              "back": "gihaplasan niya ang iyang sakit nga likod"
+            },
+            {
+              "front": "They stretched their arms wide",
+              "back": "gibayaw nila ang ilang mga bukton"
+            },
+            {
+              "front": "I rested my aching legs",
+              "back": "gipahulay nako akong nagsakit nga mga bitiis"
+            },
+            {
+              "front": "Your chest hurt from coughing",
+              "back": "nagsakit imong dughan sa ubo"
+            },
+            {
+              "front": "We touched our sore feet",
+              "back": "gihikap namo ang among masakit nga mga tiil"
+            },
+            {
+              "front": "He rubbed his swollen wrist",
+              "back": "iyang gikumot ang iyang naghubag nga pulso"
+            },
+            {
+              "front": "My shoulder was sore yesterday",
+              "back": "sakit akong abaga gahapon"
+            },
+            {
+              "front": "Her skin was soft and smooth",
+              "back": "humok ug hamis ang iyang panit"
+            },
+            {
+              "front": "I smelled with my nose",
+              "back": "nanimaho ko sa akong ilong"
+            },
+            {
+              "front": "His eyes were very tired",
+              "back": "kapoy kaayo iyang mata"
+            },
+            {
+              "front": "We breathed with our lungs",
+              "back": "miginhawa kami sa among mga baga"
+            },
+            {
+              "front": "She stood on her toes",
+              "back": "siya mitindog sa iyang mga tudlo sa tiil"
+            },
+            {
+              "front": "Your back hurt quite badly",
+              "back": "sakit kaayo imong likod"
+            },
+            {
+              "front": "My finger felt completely numb",
+              "back": "ang akong tudlo mibati sa hingpit nga manhid"
+            },
+            {
+              "front": "Their stomachs growled very loudly",
+              "back": "kusog kaayo ilang tiyan"
+            },
+            {
+              "front": "I washed my dirty hands",
+              "back": "nanghugas ko sa akong hugaw nga kamot"
+            },
+            {
+              "front": "His hair grew longer daily",
+              "back": "nitaas ang iyang buhok kada adlaw"
+            },
+            {
+              "front": "We touched our stiff necks",
+              "back": "gihikap namo ang among mga gahi nga liog"
+            },
+            {
+              "front": "Her teeth were very white",
+              "back": "puti kaayo iyang ngipon"
+            },
+            {
+              "front": "You clenched your fists tightly",
+              "back": "gikuyop nimo pag-ayo ang imong mga kumo"
+            },
+            {
+              "front": "My ears rang in pain",
+              "back": "nibagting akong dunggan sa kasakit"
+            },
+            {
+              "front": "Our feet grew warmer quickly",
+              "back": "ang among mga tiil dali nga miinit"
+            },
+            {
+              "front": "I saw with my eyes",
+              "back": "nakita nako sa akong mga mata"
+            },
+            {
+              "front": "Their hands felt cold and stiff",
+              "back": "bugnaw ug gahi ang ilang mga kamot"
+            },
+            {
+              "front": "His head felt light and dizzy",
+              "back": "gaan ang iyang ulo ug nalipong"
+            },
+            {
+              "front": "She rubbed her dry lips",
+              "back": "iyang gikumot ang iyang uga nga mga ngabil"
+            },
+            {
+              "front": "We felt our pulse race",
+              "back": "nabati namo ang among pulso"
+            },
+            {
+              "front": "My skin felt so dry",
+              "back": "akong panit gibati nga uga kaayo"
+            },
+            {
+              "front": "Your chest rose quickly again",
+              "back": "mitaas na usab ang imong dughan"
+            },
+            {
+              "front": "Our necks were stiff all day",
+              "back": "ang among mga liog bug-os nga adlaw"
+            },
+            {
+              "front": "I stretched my aching legs",
+              "back": "giinat nako akong nagsakit nga mga bitiis"
+            },
+            {
+              "front": "Her finger swelled up badly",
+              "back": "grabe nanghubag iyang tudlo"
+            },
+            {
+              "front": "We noticed our sore throats",
+              "back": "namatikdan namo ang among sakit nga tutunlan"
+            },
+            {
+              "front": "His foot throbbed with pain",
+              "back": "nagkurog ang iyang tiil sa kasakit"
+            },
+            {
+              "front": "I felt the muscles aching",
+              "back": "Gibati nako nga nagsakit ang mga kaunuran"
+            },
+            {
+              "front": "You heard with your ears",
+              "back": "nakadungog ka sa imong mga dalunggan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "My back hurt so badly yesterday",
+              "back": "sakit kaayo akong likod gahapon"
+            },
+            {
+              "front": "His arm was sore after lifting",
+              "back": "sakit ang iyang bukton human gibayaw"
+            },
+            {
+              "front": "Her knee swelled up after walking",
+              "back": "nanghubag ang iyang tuhod human makalakaw"
+            },
+            {
+              "front": "Our hands were dirty after work",
+              "back": "hugaw among mga kamot human sa trabaho"
+            },
+            {
+              "front": "Their feet were cold all night",
+              "back": "ang ilang mga tiil bugnaw sa tibuok gabii"
+            },
+            {
+              "front": "I felt my body aching everywhere",
+              "back": "Gibati nako nga nagsakit akong lawas bisan asa"
+            },
+            {
+              "front": "Your finger bled a lot yesterday",
+              "back": "nagdugo kaayo imong tudlo gahapon"
+            },
+            {
+              "front": "She touched her ear in pain",
+              "back": "gihikap niya ang iyang dalunggan sa kasakit"
+            },
+            {
+              "front": "We saw the nose bleeding badly",
+              "back": "nakita namo ang ilong nga nagkadugo pag ayo"
+            },
+            {
+              "front": "He lifted his foot with difficulty",
+              "back": "gialsa niya ang iyang tiil nga naglisod"
+            },
+            {
+              "front": "My lips cracked and bled badly",
+              "back": "niliki akong ngabil ug grabe ang dugo"
+            },
+            {
+              "front": "Her eyes were very tired today",
+              "back": "kapoy kaayo iyang mata karon"
+            },
+            {
+              "front": "I felt my heart racing fast",
+              "back": "Gibati nako nga kusog ang pagdagan sa akong kasingkasing"
+            },
+            {
+              "front": "Our lips were dry and cracked",
+              "back": "nauga ug nangliki ang among mga ngabil"
+            },
+            {
+              "front": "His mouth felt dry all night",
+              "back": "nauga ang iyang baba sa tibuok gabii"
+            },
+            {
+              "front": "She rubbed her sore back gently",
+              "back": "gihaplasan niyag hinay ang iyang sakit nga bukobuko"
+            },
+            {
+              "front": "They stretched their arms wide apart",
+              "back": "gibayaw nila ang ilang mga bukton nga halapad"
+            },
+            {
+              "front": "I rested my aching legs here",
+              "back": "Gipahulay nako ang nagsakit nga mga bitiis dinhi"
+            },
+            {
+              "front": "Your chest hurt badly from coughing",
+              "back": "sakit kaayo imong dughan tungod sa ubo"
+            },
+            {
+              "front": "We touched our sore feet slowly",
+              "back": "hinayhinay namong gihikap among mga tiil nga nagsakit"
+            },
+            {
+              "front": "He rubbed his swollen wrist carefully",
+              "back": "gikumot niya pag-ayo ang iyang naghubag nga pulso"
+            },
+            {
+              "front": "My shoulder was sore from lifting",
+              "back": "sakit ang akong abaga tungod sa pag-alsa"
+            },
+            {
+              "front": "Her skin was soft and smooth",
+              "back": "humok ug hamis ang iyang panit"
+            },
+            {
+              "front": "I smelled with my nose carefully",
+              "back": "nanimaho ko sa akong ilong pag-ayo"
+            },
+            {
+              "front": "His eyes were very tired today",
+              "back": "kapoy kaayo iyang mata karon"
+            },
+            {
+              "front": "We breathed with our lungs deeply",
+              "back": "kami miginhawa uban sa among mga baga sa lawom nga"
+            },
+            {
+              "front": "She stood on her toes carefully",
+              "back": "siya mitindog sa iyang mga tudlo sa tiil pag-ayo"
+            },
+            {
+              "front": "Your back hurt badly after sitting",
+              "back": "sakit kaayo ang imong bukobuko human makalingkod"
+            },
+            {
+              "front": "My finger felt completely numb today",
+              "back": "ang akong tudlo mibati og hingpit nga manhid karon"
+            },
+            {
+              "front": "Their stomachs growled loudly after eating",
+              "back": "kusog kaayo ang pag-ulbo sa ilang mga tiyan human makakaon"
+            },
+            {
+              "front": "I washed my dirty hands thoroughly",
+              "back": "gihugasan nako pag-ayo ang akong hugaw nga mga kamot"
+            },
+            {
+              "front": "His hair grew longer each week",
+              "back": "motaas ang iyang buhok kada semana"
+            },
+            {
+              "front": "We touched our stiff necks gently",
+              "back": "gihikap namo ang among mga gahi nga liog nga hinay"
+            },
+            {
+              "front": "Her teeth were very white today",
+              "back": "puti kaayo iyang ngipon karon"
+            },
+            {
+              "front": "You clenched your fists in anger",
+              "back": "gikuyom nimo ang imong mga kumo sa kasuko"
+            },
+            {
+              "front": "My ears rang with loud noise",
+              "back": "mibagting ang akong dunggan sa kusog nga kasaba"
+            },
+            {
+              "front": "Our feet grew warmer after walking",
+              "back": "nanginit ang among mga tiil pagkahuman sa paglakaw"
+            },
+            {
+              "front": "I saw with my eyes clearly",
+              "back": "nakita nako sa akong mga mata nga klaro"
+            },
+            {
+              "front": "Their hands felt cold and stiff",
+              "back": "bugnaw ug gahi ang ilang mga kamot"
+            },
+            {
+              "front": "His head felt light and dizzy",
+              "back": "gaan ang iyang ulo ug nalipong"
+            },
+            {
+              "front": "She rubbed her dry lips gently",
+              "back": "gihaplasan niyag hinay ang iyang uga nga mga ngabil"
+            },
+            {
+              "front": "We felt our pulse racing fast",
+              "back": "nabati namo nga paspas ang among pulso"
+            },
+            {
+              "front": "My skin felt so dry today",
+              "back": "ang akong panit gibati nga uga kaayo karon"
+            },
+            {
+              "front": "Your chest rose quickly from running",
+              "back": "mibangon dayon ang imong dughan gikan sa pagdagan"
+            },
+            {
+              "front": "Our necks were stiff from sitting",
+              "back": "gahi ang among mga liog tungod sa paglingkod"
+            },
+            {
+              "front": "I stretched my aching legs slowly",
+              "back": "gihinay-hinay nako ang akong nagsakit nga mga bitiis"
+            },
+            {
+              "front": "Her finger swelled up badly yesterday",
+              "back": "grabe nanghubag iyang tudlo gahapon"
+            },
+            {
+              "front": "We noticed our sore throats clearly",
+              "back": "namatikdan namo nga klaro ang among sakit nga tutunlan"
+            },
+            {
+              "front": "His foot throbbed with pain badly",
+              "back": "ang iyang tiil nagkumot sa kasakit"
+            },
+            {
+              "front": "I felt the muscles aching badly",
+              "back": "Gibati nako ang mga kaunuran nga nagsakit pag-ayo"
+            },
+            {
+              "front": "You heard with your ears clearly",
+              "back": "tin-aw nimong nadungog sa imong mga igdulungog"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "vein will turn",
+              "back": "moliko ang ugat"
+            },
+            {
+              "front": "bladder will feel",
+              "back": "mabati ang pantog"
+            },
+            {
+              "front": "muscle will grow",
+              "back": "motubo ang kaunoran"
+            },
+            {
+              "front": "spine will support",
+              "back": "dugokan mosuporta"
+            },
+            {
+              "front": "heart will pump",
+              "back": "mobomba ang kasingkasing"
+            },
+            {
+              "front": "liver will process",
+              "back": "magproseso ang atay"
+            },
+            {
+              "front": "bone will heal",
+              "back": "bukog moayo"
+            },
+            {
+              "front": "joint will improve",
+              "back": "joint molambo"
+            },
+            {
+              "front": "skin will feel",
+              "back": "mabati ang panit"
+            },
+            {
+              "front": "nail will grow",
+              "back": "motubo ang lansang"
+            },
+            {
+              "front": "tooth will remain",
+              "back": "ngipon magpabilin"
+            },
+            {
+              "front": "hair will grow",
+              "back": "motubo ang buhok"
+            },
+            {
+              "front": "toe will regain",
+              "back": "toe mabawi"
+            },
+            {
+              "front": "foot will support",
+              "back": "tiil mosuporta"
+            },
+            {
+              "front": "brow will furrow",
+              "back": "magkunot ang agtang"
+            },
+            {
+              "front": "belly will flatten",
+              "back": "mabuak ang tiyan"
+            },
+            {
+              "front": "arm will lift",
+              "back": "bukton mopataas"
+            },
+            {
+              "front": "leg will get",
+              "back": "makuha ang paa"
+            },
+            {
+              "front": "stomach will digest",
+              "back": "matunaw ang tiyan"
+            },
+            {
+              "front": "shoulder will carry",
+              "back": "abaga dad-on"
+            },
+            {
+              "front": "eye will see",
+              "back": "makakita ang mata"
+            },
+            {
+              "front": "tongue will taste",
+              "back": "makatilaw ang dila"
+            },
+            {
+              "front": "elbow will bend",
+              "back": "siko moliko"
+            },
+            {
+              "front": "finger will point",
+              "back": "itudlo ang tudlo"
+            },
+            {
+              "front": "forehead will wrinkle",
+              "back": "mangunot ang agtang"
+            },
+            {
+              "front": "cheek will flush",
+              "back": "mapula ang aping"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My vein will show",
+              "back": "ang akong ugat magpakita"
+            },
+            {
+              "front": "My muscle will grow",
+              "back": "motubo akong kaunoran"
+            },
+            {
+              "front": "My foot will heal",
+              "back": "mamaayo ang akong tiil"
+            },
+            {
+              "front": "His tooth will ache",
+              "back": "magsakit iyang ngipon"
+            },
+            {
+              "front": "His liver will heal",
+              "back": "mamaayo ang iyang atay"
+            },
+            {
+              "front": "My skin will clear",
+              "back": "maklaro akong panit"
+            },
+            {
+              "front": "Her eye will twitch",
+              "back": "mokibot iyang mata"
+            },
+            {
+              "front": "His finger will break",
+              "back": "mabali ang iyang tudlo"
+            },
+            {
+              "front": "My hand will shake",
+              "back": "mangurog akong kamot"
+            },
+            {
+              "front": "Her leg will ache",
+              "back": "magsakit iyang paa"
+            },
+            {
+              "front": "My arm will hurt",
+              "back": "magsakit akong bukton"
+            },
+            {
+              "front": "Your chest will tighten",
+              "back": "mohuot imong dughan"
+            },
+            {
+              "front": "His heart will race",
+              "back": "modagan ang iyang kasingkasing"
+            },
+            {
+              "front": "Our stomachs will growl",
+              "back": "modako ang among tiyan"
+            },
+            {
+              "front": "My nose will run",
+              "back": "modagan akong ilong"
+            },
+            {
+              "front": "Her wrist will sprain",
+              "back": "mabuak ang iyang pulso"
+            },
+            {
+              "front": "My knee will bend",
+              "back": "moluhod akong tuhod"
+            },
+            {
+              "front": "Your toe will bruise",
+              "back": "masamad ang imong tudlo sa tiil"
+            },
+            {
+              "front": "His back will straighten",
+              "back": "matul-id ang iyang likod"
+            },
+            {
+              "front": "My mouth will dry",
+              "back": "mouga ang akong baba"
+            },
+            {
+              "front": "Her foot will swell",
+              "back": "manghubag ang iyang tiil"
+            },
+            {
+              "front": "His ear will pop",
+              "back": "mopatik ang iyang dunggan"
+            },
+            {
+              "front": "My neck will crack",
+              "back": "mabuak akong liog"
+            },
+            {
+              "front": "Your teeth will sparkle",
+              "back": "mokidlap ang imong ngipon"
+            },
+            {
+              "front": "His ankle will twist",
+              "back": "ang iyang buolbuol moliko"
+            },
+            {
+              "front": "My vein will throb",
+              "back": "magkurog ang akong ugat"
+            },
+            {
+              "front": "Her finger will swell",
+              "back": "manghubag ang iyang tudlo"
+            },
+            {
+              "front": "My chest will expand",
+              "back": "molapad akong dughan"
+            },
+            {
+              "front": "His leg will cramp",
+              "back": "mag cramp ang iyang bitiis"
+            },
+            {
+              "front": "Our veins will pulse",
+              "back": "magpulsi ang atong mga ugat"
+            },
+            {
+              "front": "My eye will twitch",
+              "back": "mokibot akong mata"
+            },
+            {
+              "front": "Her skin will smooth",
+              "back": "mahapsay ang iyang panit"
+            },
+            {
+              "front": "My muscle will strain",
+              "back": "mogahi ang akong kaunoran"
+            },
+            {
+              "front": "His lip will bleed",
+              "back": "magdugo ang iyang ngabil"
+            },
+            {
+              "front": "Our ears will ring",
+              "back": "motingog ang among mga dalunggan"
+            },
+            {
+              "front": "My knee will lock",
+              "back": "ma lock akong tuhod"
+            },
+            {
+              "front": "Her hair will grow",
+              "back": "motubo ang iyang buhok"
+            },
+            {
+              "front": "His head will spin",
+              "back": "maglabad ang iyang ulo"
+            },
+            {
+              "front": "My mouth will open",
+              "back": "mobuka ang akong baba"
+            },
+            {
+              "front": "Your hand will stretch",
+              "back": "ang imong kamot magatuy-od"
+            },
+            {
+              "front": "Her muscle will tighten",
+              "back": "muhugot ang iyang kaunoran"
+            },
+            {
+              "front": "My foot will blister",
+              "back": "mabuslot akong tiil"
+            },
+            {
+              "front": "His hand will freeze",
+              "back": "mo-freeze ang iyang kamot"
+            },
+            {
+              "front": "My teeth will whiten",
+              "back": "moputi akong ngipon"
+            },
+            {
+              "front": "Your back will ache",
+              "back": "magsakit imong likod"
+            },
+            {
+              "front": "Her throat will close",
+              "back": "mosirado ang iyang tutunlan"
+            },
+            {
+              "front": "My chest will ache",
+              "back": "magsakit akong dughan"
+            },
+            {
+              "front": "His tongue will swell",
+              "back": "mohubag ang iyang dila"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My back will hurt soon",
+              "back": "magsakit dayon akong likod"
+            },
+            {
+              "front": "His arm will be sore",
+              "back": "magsakit iyang bukton"
+            },
+            {
+              "front": "Her knee will be swollen",
+              "back": "manghubag ang iyang tuhod"
+            },
+            {
+              "front": "Our hands will be clean",
+              "back": "mahinlo ang atong mga kamot"
+            },
+            {
+              "front": "Their feet will be cold",
+              "back": "ang ilang mga tiil matugnaw"
+            },
+            {
+              "front": "I will feel my body",
+              "back": "mabati nako akong lawas"
+            },
+            {
+              "front": "Your finger will bleed badly",
+              "back": "grabe magdugo imong tudlo"
+            },
+            {
+              "front": "She will touch her ear",
+              "back": "siya mohikap sa iyang dalunggan"
+            },
+            {
+              "front": "We will see the nose",
+              "back": "atong makita ang ilong"
+            },
+            {
+              "front": "He will lift his foot",
+              "back": "iyang ipataas ang iyang tiil"
+            },
+            {
+              "front": "My lips will be dry",
+              "back": "mamala ang akong mga ngabil"
+            },
+            {
+              "front": "Her eyes will be tired",
+              "back": "kapoy na iyang mata"
+            },
+            {
+              "front": "I will feel my heart",
+              "back": "mabati nako akong kasingkasing"
+            },
+            {
+              "front": "Our lips will be dry",
+              "back": "mamala ang atong mga ngabil"
+            },
+            {
+              "front": "His mouth will be dry",
+              "back": "mamala ang iyang baba"
+            },
+            {
+              "front": "She will rub her back",
+              "back": "haplasan niya iyang likod"
+            },
+            {
+              "front": "They will stretch their arms",
+              "back": "ilang ituy-od ang ilang mga bukton"
+            },
+            {
+              "front": "I will rest my legs",
+              "back": "ipahulay ko ang akong mga bitiis"
+            },
+            {
+              "front": "Your chest will hurt badly",
+              "back": "magsakit imong dughan"
+            },
+            {
+              "front": "We will touch our feet",
+              "back": "atong hikapon ang atong mga tiil"
+            },
+            {
+              "front": "He will rub his wrist",
+              "back": "iyang kuskuson ang iyang pulso"
+            },
+            {
+              "front": "My shoulder will be sore",
+              "back": "magsakit akong abaga"
+            },
+            {
+              "front": "Her skin will be smooth",
+              "back": "mahapsay ang iyang panit"
+            },
+            {
+              "front": "I will smell with nose",
+              "back": "manimaho ko ug ilong"
+            },
+            {
+              "front": "His eyes will be tired",
+              "back": "kapoy na iyang mata"
+            },
+            {
+              "front": "We will breathe with lungs",
+              "back": "kita moginhawa uban sa baga"
+            },
+            {
+              "front": "She will stand on toes",
+              "back": "siya motindog sa mga tudlo sa tiil"
+            },
+            {
+              "front": "Your back will hurt badly",
+              "back": "sakit kaayo imong likod"
+            },
+            {
+              "front": "My finger will feel numb",
+              "back": "mamanhid ang akong tudlo"
+            },
+            {
+              "front": "Their stomachs will growl loudly",
+              "back": "magsaba-saba ang ilang tiyan"
+            },
+            {
+              "front": "I will wash my hands",
+              "back": "manghugas ko sa akong kamot"
+            },
+            {
+              "front": "His hair will grow longer",
+              "back": "motaas ang iyang buhok"
+            },
+            {
+              "front": "We will touch our necks",
+              "back": "atong hikapon ang atong mga liog"
+            },
+            {
+              "front": "Her teeth will be white",
+              "back": "maputi ang iyang mga ngipon"
+            },
+            {
+              "front": "You will clench your fists",
+              "back": "magkuyom ka sa imong mga kumo"
+            },
+            {
+              "front": "My ears will ring loudly",
+              "back": "motingog ang akong dunggan"
+            },
+            {
+              "front": "Our feet will grow warmer",
+              "back": "moinit ang atong mga tiil"
+            },
+            {
+              "front": "I will see with eyes",
+              "back": "makakita ko sa mga mata"
+            },
+            {
+              "front": "Their hands will feel cold",
+              "back": "mabugnaw ang ilang mga kamot"
+            },
+            {
+              "front": "His head will feel light",
+              "back": "magaan ang iyang ulo"
+            },
+            {
+              "front": "She will rub her lips",
+              "back": "iyang ubuson ang iyang mga ngabil"
+            },
+            {
+              "front": "We will feel pulse race",
+              "back": "mabati nato ang lumba sa pulso"
+            },
+            {
+              "front": "My skin will feel dry",
+              "back": "mamala ang akong panit"
+            },
+            {
+              "front": "Your chest will rise quickly",
+              "back": "motaas dayon imong dughan"
+            },
+            {
+              "front": "Our necks will be stiff",
+              "back": "matig-a ang atong mga liog"
+            },
+            {
+              "front": "I will stretch my legs",
+              "back": "akong ituy-od akong mga bitiis"
+            },
+            {
+              "front": "Her finger will swell badly",
+              "back": "manghubag ang iyang tudlo"
+            },
+            {
+              "front": "We will notice sore throats",
+              "back": "atong mamatikdan ang sakit nga tutunlan"
+            },
+            {
+              "front": "His foot will throb badly",
+              "back": "magkurog ang iyang tiil"
+            },
+            {
+              "front": "I will feel muscles ache",
+              "back": "mabati nako ang kasakit sa kaunoran"
+            },
+            {
+              "front": "You will hear with ears",
+              "back": "makadungog ka uban sa mga igdulungog"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "My vein will show on my arm",
+              "back": "ang akong ugat magpakita sa akong bukton"
+            },
+            {
+              "front": "My muscle will grow in strength",
+              "back": "motubo sa kusog ang akong kaunoran"
+            },
+            {
+              "front": "My foot will heal after surgery",
+              "back": "moayo ang akong tiil human sa operasyon"
+            },
+            {
+              "front": "His tooth will ache during night",
+              "back": "magsakit iyang ngipon panahon sa kagabhion"
+            },
+            {
+              "front": "His liver will heal with rest",
+              "back": "ang iyang atay mamaayo uban sa pagpahulay"
+            },
+            {
+              "front": "My skin will clear up soon",
+              "back": "maklaro dayon akong panit"
+            },
+            {
+              "front": "Her eye will twitch nervously soon",
+              "back": "ang iyang mata mokibot sa kakulba sa dili madugay"
+            },
+            {
+              "front": "His finger will break with force",
+              "back": "mabali ang iyang tudlo sa kusog"
+            },
+            {
+              "front": "My hand will shake with fear",
+              "back": "mangurog ang akong kamot sa kahadlok"
+            },
+            {
+              "front": "Her leg will ache after walking",
+              "back": "magsakit iyang bitiis pag lakaw"
+            },
+            {
+              "front": "My arm will hurt for days",
+              "back": "magsakit akong bukton pila ka adlaw"
+            },
+            {
+              "front": "Your chest will tighten with anxiety",
+              "back": "mohuot ang imong dughan sa kabalaka"
+            },
+            {
+              "front": "His heart will race with excitement",
+              "back": "modagan ang iyang kasingkasing sa kahinam"
+            },
+            {
+              "front": "Our stomachs will growl with hunger",
+              "back": "ang atong mga tiyan magsaba sa kagutom"
+            },
+            {
+              "front": "My nose will run from allergies",
+              "back": "modagan akong ilong tungod sa allergy"
+            },
+            {
+              "front": "Her wrist will sprain while stretching",
+              "back": "mapislay ang iyang pulso samtang mag-inat"
+            },
+            {
+              "front": "My knee will bend easily now",
+              "back": "dali ra mapiko akong tuhod karon"
+            },
+            {
+              "front": "Your toe will bruise from impact",
+              "back": "mabun-og ang imong tudlo sa tiil tungod sa impact"
+            },
+            {
+              "front": "His back will straighten after rest",
+              "back": "matul-id ang iyang likod human sa pagpahulay"
+            },
+            {
+              "front": "My mouth will dry out quickly",
+              "back": "mamala dayon ang akong baba"
+            },
+            {
+              "front": "Her foot will swell from walking",
+              "back": "manghubag ang iyang tiil tungod sa paglakaw"
+            },
+            {
+              "front": "His ear will pop on plane",
+              "back": "ang iyang dalunggan mopatong sa eroplano"
+            },
+            {
+              "front": "My neck will crack from stress",
+              "back": "moliki akong liog tungod sa stress"
+            },
+            {
+              "front": "Your teeth will sparkle after brushing",
+              "back": "mokidlap ang imong ngipon pagkahuman sa pag-brush"
+            },
+            {
+              "front": "His ankle will twist on uneven ground",
+              "back": "ang iyang buolbuol moliko sa dili patag nga yuta"
+            },
+            {
+              "front": "My vein will throb in wrist",
+              "back": "magkurog ang akong ugat sa pulso"
+            },
+            {
+              "front": "Her finger will swell up badly",
+              "back": "manghubag pag-ayo ang iyang tudlo"
+            },
+            {
+              "front": "My chest will expand with breath",
+              "back": "modako ang akong dughan sa gininhawa"
+            },
+            {
+              "front": "His leg will cramp from standing",
+              "back": "magkurog ang iyang bitiis tungod sa pagbarog"
+            },
+            {
+              "front": "Our veins will pulse with energy",
+              "back": "ang atong mga ugat mopulso sa kusog"
+            },
+            {
+              "front": "My eye will twitch in stress",
+              "back": "mukibot akong mata sa stress"
+            },
+            {
+              "front": "Her skin will smooth with care",
+              "back": "mahapsay ang iyang panit sa pag-amping"
+            },
+            {
+              "front": "My muscle will strain with exertion",
+              "back": "ang akong kaunoran mabug-atan sa pagpaningkamot"
+            },
+            {
+              "front": "His lip will bleed after biting",
+              "back": "magdugo ang iyang ngabil human mapaak"
+            },
+            {
+              "front": "Our ears will ring from noise",
+              "back": "mobagting ang among mga dalunggan tungod sa kasaba"
+            },
+            {
+              "front": "My knee will lock up suddenly",
+              "back": "mokalit ug lock akong tuhod"
+            },
+            {
+              "front": "Her hair will grow out beautifully",
+              "back": "motubo nga nindot ang iyang buhok"
+            },
+            {
+              "front": "His head will spin from dizziness",
+              "back": "ang iyang ulo magliyok tungod sa pagkalipong"
+            },
+            {
+              "front": "My mouth will open in surprise",
+              "back": "mabuka ang akong baba sa katingala"
+            },
+            {
+              "front": "Your hand will stretch with effort",
+              "back": "ang imong kamot magtuy-od sa paningkamot"
+            },
+            {
+              "front": "Her muscle will tighten with stress",
+              "back": "mohugot ang iyang kaunoran sa kapit-os"
+            },
+            {
+              "front": "My foot will blister from walking",
+              "back": "ang akong tiil mabuslot tungod sa paglakaw"
+            },
+            {
+              "front": "His hand will freeze in cold",
+              "back": "mag-freeze ang iyang kamot sa katugnaw"
+            },
+            {
+              "front": "My teeth will whiten over time",
+              "back": "moputi akong ngipon paglabay sa panahon"
+            },
+            {
+              "front": "Your back will ache from sitting",
+              "back": "magsakit imong likod sa paglingkod"
+            },
+            {
+              "front": "Her throat will close from fear",
+              "back": "ang iyang tutonlan mosirado tungod sa kahadlok"
+            },
+            {
+              "front": "My chest will ache from coughing",
+              "back": "magsakit akong dughan sa ubo"
+            },
+            {
+              "front": "His tongue will swell after burn",
+              "back": "ang iyang dila mohubag human masunog"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

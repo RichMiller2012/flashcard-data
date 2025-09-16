@@ -1,0 +1,2144 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Colors",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Blue",
+              "back": "asul"
+            },
+            {
+              "front": "Red",
+              "back": "pula"
+            },
+            {
+              "front": "Green",
+              "back": "berde"
+            },
+            {
+              "front": "Yellow",
+              "back": "dalag"
+            },
+            {
+              "front": "Black",
+              "back": "itom"
+            },
+            {
+              "front": "White",
+              "back": "puti"
+            },
+            {
+              "front": "Orange",
+              "back": "kahel"
+            },
+            {
+              "front": "Purple",
+              "back": "purpura"
+            },
+            {
+              "front": "Pink",
+              "back": "pink"
+            },
+            {
+              "front": "Brown",
+              "back": "kape"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "is Blue",
+              "back": "asul"
+            },
+            {
+              "front": "is Red",
+              "back": "pula"
+            },
+            {
+              "front": "is Green",
+              "back": "berde"
+            },
+            {
+              "front": "is Yellow",
+              "back": "kay yellow"
+            },
+            {
+              "front": "is Black",
+              "back": "itom"
+            },
+            {
+              "front": "is White",
+              "back": "puti"
+            },
+            {
+              "front": "is Orange",
+              "back": "orange nga"
+            },
+            {
+              "front": "is Purple",
+              "back": "kay purpura"
+            },
+            {
+              "front": "is Pink",
+              "back": "kay pink"
+            },
+            {
+              "front": "is Brown",
+              "back": "kay brown"
+            },
+            {
+              "front": "appears Blue",
+              "back": "makita nga asul"
+            },
+            {
+              "front": "appears Red",
+              "back": "makita nga pula"
+            },
+            {
+              "front": "appears Green",
+              "back": "makita nga berde"
+            },
+            {
+              "front": "appears Yellow",
+              "back": "makita nga yellow"
+            },
+            {
+              "front": "appears Black",
+              "back": "makita nga itom"
+            },
+            {
+              "front": "appears White",
+              "back": "makita nga puti"
+            },
+            {
+              "front": "appears Orange",
+              "back": "murag orange"
+            },
+            {
+              "front": "appears Purple",
+              "back": "makita nga purpura"
+            },
+            {
+              "front": "appears Pink",
+              "back": "makita nga pink"
+            },
+            {
+              "front": "appears Brown",
+              "back": "makita nga brown"
+            },
+            {
+              "front": "looks Blue",
+              "back": "murag asul"
+            },
+            {
+              "front": "looks Red",
+              "back": "murag pula"
+            },
+            {
+              "front": "looks Green",
+              "back": "murag berde"
+            },
+            {
+              "front": "looks Yellow",
+              "back": "murag yellow"
+            },
+            {
+              "front": "looks Black",
+              "back": "murag itom"
+            },
+            {
+              "front": "looks White",
+              "back": "murag puti"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I see red",
+              "back": "nakita ko nga pula"
+            },
+            {
+              "front": "They are black",
+              "back": "itom sila"
+            },
+            {
+              "front": "He is white",
+              "back": "puti siya"
+            },
+            {
+              "front": "Sky is blue",
+              "back": "asul ang langit"
+            },
+            {
+              "front": "Grass is green",
+              "back": "balili berde"
+            },
+            {
+              "front": "Sun is yellow",
+              "back": "yellow ang adlaw"
+            },
+            {
+              "front": "He wears orange",
+              "back": "nagsuot siyag orange"
+            },
+            {
+              "front": "It is purple",
+              "back": "kini purpura"
+            },
+            {
+              "front": "Flower is pink",
+              "back": "pink ang bulak"
+            },
+            {
+              "front": "Wood is brown",
+              "back": "brown ang kahoy"
+            },
+            {
+              "front": "My shirt is red",
+              "back": "pula ang akong kamiseta"
+            },
+            {
+              "front": "My car is black",
+              "back": "itom akong sakyanan"
+            },
+            {
+              "front": "Her dress is blue",
+              "back": "asul ang iyang sinina"
+            },
+            {
+              "front": "House is white",
+              "back": "puti ang balay"
+            },
+            {
+              "front": "Sky is gray",
+              "back": "abohon ang langit"
+            },
+            {
+              "front": "Grass is green",
+              "back": "balili berde"
+            },
+            {
+              "front": "Wall is orange",
+              "back": "orange ang dingding"
+            },
+            {
+              "front": "Hat is pink",
+              "back": "pink ang kalo"
+            },
+            {
+              "front": "Paint is purple",
+              "back": "purpura ang pintura"
+            },
+            {
+              "front": "Table is brown",
+              "back": "brown ang lamesa"
+            },
+            {
+              "front": "He likes yellow",
+              "back": "ganahan siya ug yellow"
+            },
+            {
+              "front": "Her red shoes",
+              "back": "iyang pula nga sapatos"
+            },
+            {
+              "front": "I paint white",
+              "back": "nagpintal ko og puti"
+            },
+            {
+              "front": "They wore black",
+              "back": "itom sila"
+            },
+            {
+              "front": "Sunflower is yellow",
+              "back": "dilaw ang sunflower"
+            },
+            {
+              "front": "Apple is red",
+              "back": "pula ang mansanas"
+            },
+            {
+              "front": "Sea is blue",
+              "back": "asul ang dagat"
+            },
+            {
+              "front": "her green eyes",
+              "back": "iyang berde nga mata"
+            },
+            {
+              "front": "My black bag",
+              "back": "akong itom nga bag"
+            },
+            {
+              "front": "His brown shoes",
+              "back": "iyang brown nga sapatos"
+            },
+            {
+              "front": "Her brown hair",
+              "back": "iyang brown nga buhok"
+            },
+            {
+              "front": "Dress is green",
+              "back": "berde ang sinina"
+            },
+            {
+              "front": "His orange pants",
+              "back": "iyang karsones nga orange"
+            },
+            {
+              "front": "Rose is red",
+              "back": "pula ang rosas"
+            },
+            {
+              "front": "Her purple jacket",
+              "back": "iyang purple nga jacket"
+            },
+            {
+              "front": "Lamp is yellow",
+              "back": "dalag ang lampara"
+            },
+            {
+              "front": "Sky is blue",
+              "back": "asul ang langit"
+            },
+            {
+              "front": "His white shirt",
+              "back": "iyang white shirt"
+            },
+            {
+              "front": "Lamp is green",
+              "back": "berde ang lampara"
+            },
+            {
+              "front": "Couch is brown",
+              "back": "ang sopa kay brown"
+            },
+            {
+              "front": "Ball is orange",
+              "back": "orange ang bola"
+            },
+            {
+              "front": "My hat is purple",
+              "back": "ang akong kalo kay purpura"
+            },
+            {
+              "front": "pink painted walls",
+              "back": "pink nga gipintalan nga mga dingding"
+            },
+            {
+              "front": "Bird is yellow",
+              "back": "dilaw ang langgam"
+            },
+            {
+              "front": "Boat is blue",
+              "back": "asul ang sakayan"
+            },
+            {
+              "front": "Her green shoes",
+              "back": "iyang berde nga sapatos"
+            },
+            {
+              "front": "His blonde hair",
+              "back": "iyang blonde nga buhok"
+            },
+            {
+              "front": "I paint red",
+              "back": "nagpintal kog pula"
+            },
+            {
+              "front": "Table is white",
+              "back": "puti ang lamesa"
+            },
+            {
+              "front": "His black coat",
+              "back": "iyang itom nga coat"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "We wear red pants",
+              "back": "nagsul-ob kami og pula nga pantalon"
+            },
+            {
+              "front": "They see grey clouds",
+              "back": "nakakita silag abuhon nga mga panganod"
+            },
+            {
+              "front": "He uses black tools",
+              "back": "gamit niya ang itom nga mga himan"
+            },
+            {
+              "front": "They paint white walls",
+              "back": "nagpintal sila ug puti nga mga bungbong"
+            },
+            {
+              "front": "She picks purple flowers",
+              "back": "manguha siyag purpura nga mga bulak"
+            },
+            {
+              "front": "We wear green shirts",
+              "back": "nagsul-ob kami ug green nga kamiseta"
+            },
+            {
+              "front": "He paints black chairs",
+              "back": "nagpintal siya ug itom nga mga lingkuranan"
+            },
+            {
+              "front": "She loves yellow dresses",
+              "back": "ganahan siya ug yellow nga mga sinina"
+            },
+            {
+              "front": "They drive blue cars",
+              "back": "nagdrayb sila ug blue nga mga sakyanan"
+            },
+            {
+              "front": "My shoes are white",
+              "back": "puti ang akong sapatos"
+            },
+            {
+              "front": "His hair is brown",
+              "back": "brown ang iyang buhok"
+            },
+            {
+              "front": "The house is white",
+              "back": "puti ang balay"
+            },
+            {
+              "front": "They eat green apples",
+              "back": "mokaon sila ug berdeng mansanas"
+            },
+            {
+              "front": "Her coat is purple",
+              "back": "purpura ang iyang kupo"
+            },
+            {
+              "front": "I see yellow lights",
+              "back": "nakakita ko ug yellow nga suga"
+            },
+            {
+              "front": "We wear black gloves",
+              "back": "nagsul-ob kami og itom nga gwantis"
+            },
+            {
+              "front": "They plant green trees",
+              "back": "nagtanom sila ug berdeng mga kahoy"
+            },
+            {
+              "front": "His shirt is blue",
+              "back": "asul ang iyang kamiseta"
+            },
+            {
+              "front": "She likes pink flowers",
+              "back": "ganahan siya ug pink nga mga bulak"
+            },
+            {
+              "front": "We paint red doors",
+              "back": "nagpintal kami ug pula nga mga pultahan"
+            },
+            {
+              "front": "He wears black boots",
+              "back": "siya nagsul-ob og itom nga botas"
+            },
+            {
+              "front": "Their house is yellow",
+              "back": "yellow ang ilang balay"
+            },
+            {
+              "front": "I have blue jeans",
+              "back": "naa koy blue jeans"
+            },
+            {
+              "front": "She picks red berries",
+              "back": "namili siya ug pula nga berry"
+            },
+            {
+              "front": "We use white towels",
+              "back": "migamit kami ug puti nga tualya"
+            },
+            {
+              "front": "His pants are green",
+              "back": "berde ang iyang karsones"
+            },
+            {
+              "front": "Her dress is yellow",
+              "back": "yellow ang iyang sinina"
+            },
+            {
+              "front": "I wear purple shoes",
+              "back": "Nagsul-ob kog purpura nga sapatos"
+            },
+            {
+              "front": "They collect brown leaves",
+              "back": "nagkolekta sila og brown nga mga dahon"
+            },
+            {
+              "front": "We build grey houses",
+              "back": "nagtukod mig mga balay nga gray"
+            },
+            {
+              "front": "His gloves are red",
+              "back": "pula ang iyang gwantis"
+            },
+            {
+              "front": "She likes white roses",
+              "back": "ganahan siya ug puti nga rosas"
+            },
+            {
+              "front": "He wears purple shirts",
+              "back": "nagsul-ob siyag purple shirt"
+            },
+            {
+              "front": "We pick blue flowers",
+              "back": "manguha mi ug asul nga mga bulak"
+            },
+            {
+              "front": "Her dress is green",
+              "back": "berde ang iyang sinina"
+            },
+            {
+              "front": "I see orange clouds",
+              "back": "nakakita kog orange nga mga panganod"
+            },
+            {
+              "front": "They enjoy green salad",
+              "back": "nalingaw sila sa green salad"
+            },
+            {
+              "front": "We buy brown shoes",
+              "back": "mupalit mig brown nga sapatos"
+            },
+            {
+              "front": "He wears grey hats",
+              "back": "nagsul-ob siyag gray nga kalo"
+            },
+            {
+              "front": "She finds white stones",
+              "back": "nakakaplag siya ug puti nga mga bato"
+            },
+            {
+              "front": "Their coats are purple",
+              "back": "purpura ang ilang mga kupo"
+            },
+            {
+              "front": "I see red berries",
+              "back": "nakakita ko ug pula nga berry"
+            },
+            {
+              "front": "We paint grey fences",
+              "back": "nagpintal kami sa abuhon nga mga koral"
+            },
+            {
+              "front": "His coat is black",
+              "back": "itom ang iyang kupo"
+            },
+            {
+              "front": "She wears yellow boots",
+              "back": "siya nagsul-ob og yellow nga botas"
+            },
+            {
+              "front": "They cook green vegetables",
+              "back": "nagluto silag berdeng utanon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I love the blue sky",
+              "back": "ganahan ko sa asul nga langit"
+            },
+            {
+              "front": "He cuts green grass quickly",
+              "back": "dali siyang namutol ug berdeng sagbot"
+            },
+            {
+              "front": "They wore black robes inside",
+              "back": "nagsul-ob silag itom nga bisti sa sulod"
+            },
+            {
+              "front": "We use white towels here",
+              "back": "migamit kami ug puti nga tualya dinhi"
+            },
+            {
+              "front": "She picks yellow flowers carefully",
+              "back": "maampingon siyang nanguha ug dalag nga mga bulak"
+            },
+            {
+              "front": "He wears a red jacket",
+              "back": "siya nagsul-ob og pula nga jacket"
+            },
+            {
+              "front": "They eat green apples often",
+              "back": "kanunay silang mokaon ug berdeng mansanas"
+            },
+            {
+              "front": "I paint the black door",
+              "back": "gipintalan nako ang itom nga pultahan"
+            },
+            {
+              "front": "We see the purple sky",
+              "back": "atong makita ang purpura nga langit"
+            },
+            {
+              "front": "Her shoes are bright yellow",
+              "back": "hayag nga yellow ang iyang sapatos"
+            },
+            {
+              "front": "I like the white dress",
+              "back": "ganahan ko sa puti nga sinina"
+            },
+            {
+              "front": "They enjoy the orange sunset",
+              "back": "nalingaw sila sa orange nga pagsalop sa adlaw"
+            },
+            {
+              "front": "We built a brown house",
+              "back": "nagtukod mi ug brown nga balay"
+            },
+            {
+              "front": "His coat is green today",
+              "back": "berde ang iyang kupo karon"
+            },
+            {
+              "front": "She loves the pink roses",
+              "back": "ganahan siya sa pink roses"
+            },
+            {
+              "front": "I see the blue ocean",
+              "back": "nakita ko ang asul nga dagat"
+            },
+            {
+              "front": "He wears a purple scarf",
+              "back": "nagsul-ob siya og purpura nga scarf"
+            },
+            {
+              "front": "We bought red shoes today",
+              "back": "nagpalit mig pula nga sapatos karon"
+            },
+            {
+              "front": "Her dress is yellow and bright",
+              "back": "yellow ug bright ang iyang sinina"
+            },
+            {
+              "front": "I wear a green hat",
+              "back": "nagsul-ob ko og green nga kalo"
+            },
+            {
+              "front": "They have black leather gloves",
+              "back": "naa silay itom nga panit nga guwantis"
+            },
+            {
+              "front": "We paint the white wall",
+              "back": "among gipintalan ang puti nga bungbong"
+            },
+            {
+              "front": "He wears a brown coat",
+              "back": "nagsul-ob siya og brown nga coat"
+            },
+            {
+              "front": "My boots are green and new",
+              "back": "berde ug bag-o ang akong botas"
+            },
+            {
+              "front": "She bought a purple dress",
+              "back": "mipalit siya ug purpura nga sinina"
+            },
+            {
+              "front": "The grass is green today",
+              "back": "berde ang sagbot karon"
+            },
+            {
+              "front": "I like my red shoes",
+              "back": "ganahan ko sa akong pula nga sapatos"
+            },
+            {
+              "front": "He wears black shoes daily",
+              "back": "siya nagsul-ob og itom nga sapatos kada adlaw"
+            },
+            {
+              "front": "They planted green trees outside",
+              "back": "nagtanom silag mga berdeng kahoy sa gawas"
+            },
+            {
+              "front": "We painted the purple wall",
+              "back": "among gipintalan ang purpura nga bungbong"
+            },
+            {
+              "front": "His shirt is yellow today",
+              "back": "yellow ang iyang kamiseta karon"
+            },
+            {
+              "front": "She likes the pink flowers",
+              "back": "ganahan siya sa pink nga mga bulak"
+            },
+            {
+              "front": "We wear brown shoes here",
+              "back": "nagsul-ob kami og brown nga sapatos dinhi"
+            },
+            {
+              "front": "They made a red cake",
+              "back": "naghimo sila ug pula nga cake"
+            },
+            {
+              "front": "His coat is white today",
+              "back": "puti ang iyang kupo karon"
+            },
+            {
+              "front": "She wore a blue hat",
+              "back": "nagsul-ob siya og asul nga kalo"
+            },
+            {
+              "front": "We painted the brown table",
+              "back": "gipintalan namo ang brown nga lamesa"
+            },
+            {
+              "front": "Her shirt is red now",
+              "back": "pula na ang iyang kamiseta karon"
+            },
+            {
+              "front": "They bought a green sofa",
+              "back": "nipalit sila ug green nga sofa"
+            },
+            {
+              "front": "I see the purple flowers",
+              "back": "Nakita nako ang mga bulak nga purpura"
+            },
+            {
+              "front": "He loves the black sky",
+              "back": "gihigugma niya ang itom nga langit"
+            },
+            {
+              "front": "We enjoy the yellow sun",
+              "back": "nalingaw mi sa yellow nga adlaw"
+            },
+            {
+              "front": "Her dress is black now",
+              "back": "itom ang iyang sinina karon"
+            },
+            {
+              "front": "They made the green garden",
+              "back": "gihimo nila ang lunhaw nga tanaman"
+            },
+            {
+              "front": "My bag is red today",
+              "back": "pula ang akong bag karon"
+            },
+            {
+              "front": "We use blue towels here",
+              "back": "asul nga tualya ang among gigamit dinhi"
+            },
+            {
+              "front": "He cut the green grass",
+              "back": "giputol niya ang lunhaw nga sagbot"
+            },
+            {
+              "front": "She picked yellow flowers today",
+              "back": "nanguha siya ug yellow nga mga bulak karon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I love the blue sky today",
+              "back": "Ganahan ko sa asul nga langit karon"
+            },
+            {
+              "front": "He cuts green grass quickly now",
+              "back": "dali siyang namutol ug berdeng sagbot karon"
+            },
+            {
+              "front": "They wore black robes inside today",
+              "back": "nagsul-ob silag itom nga bisti sa sulod karon"
+            },
+            {
+              "front": "We use white towels here daily",
+              "back": "migamit kami ug puti nga tualya dinhi kada adlaw"
+            },
+            {
+              "front": "She picks yellow flowers carefully every day",
+              "back": "maampingon siyang manguha ug dalag nga mga bulak kada adlaw"
+            },
+            {
+              "front": "He wears a red jacket today",
+              "back": "nagsuot siya ug pula nga jacket karon"
+            },
+            {
+              "front": "They eat green apples often here",
+              "back": "Kanunay silang mokaon ug berdeng mansanas dinhi"
+            },
+            {
+              "front": "I paint the black door bright",
+              "back": "Gipintalan nako nga hayag ang itom nga pultahan"
+            },
+            {
+              "front": "We see the purple sky clearly",
+              "back": "tin-aw natong makita ang purpura nga kalangitan"
+            },
+            {
+              "front": "Her shoes are bright yellow today",
+              "back": "bright yellow ang iyang sapatos karon"
+            },
+            {
+              "front": "I like the white dress best",
+              "back": "ganahan ko sa puti nga besti"
+            },
+            {
+              "front": "They enjoy the orange sunset daily",
+              "back": "nalingaw sila sa orange nga pagsalop sa adlaw"
+            },
+            {
+              "front": "We built a brown house quickly",
+              "back": "nagtukod mi ug brown nga balay dali"
+            },
+            {
+              "front": "His coat is green and warm",
+              "back": "ang iyang kupo berde ug init"
+            },
+            {
+              "front": "She loves the pink roses always",
+              "back": "ganahan siya sa pink nga mga rosas kanunay"
+            },
+            {
+              "front": "I see the blue ocean today",
+              "back": "Nakita nako ang asul nga dagat karon"
+            },
+            {
+              "front": "He wears a purple scarf often",
+              "back": "kanunay siyang nagsul-ob og purpura nga scarf"
+            },
+            {
+              "front": "We bought red shoes yesterday afternoon",
+              "back": "nagpalit mig pulang sapatos gahapon sa hapon"
+            },
+            {
+              "front": "Her dress is yellow and bright",
+              "back": "yellow ug bright ang iyang sinina"
+            },
+            {
+              "front": "I wear a green hat daily",
+              "back": "Nagsul-ob ko og green nga kalo kada adlaw"
+            },
+            {
+              "front": "They have black leather gloves today",
+              "back": "naa silay black leather gloves karon"
+            },
+            {
+              "front": "We paint the white wall bright",
+              "back": "among gipintalan ang puti nga bungbong nga hayag"
+            },
+            {
+              "front": "He wears a brown coat now",
+              "back": "nagsul-ob siyag brown coat karon"
+            },
+            {
+              "front": "My boots are green and new",
+              "back": "berde ug bag-o ang akong botas"
+            },
+            {
+              "front": "She bought a purple dress today",
+              "back": "nagpalit siya ug purpura nga sinina karon"
+            },
+            {
+              "front": "The grass is green today outside",
+              "back": "berde ang sagbot karon sa gawas"
+            },
+            {
+              "front": "I like my red shoes today",
+              "back": "Ganahan ko sa akong pula nga sapatos karon"
+            },
+            {
+              "front": "He wears black shoes daily here",
+              "back": "nagsul-ob siyag itom nga sapatos kada adlaw dinhi"
+            },
+            {
+              "front": "They planted green trees outside yesterday",
+              "back": "nagtanom silag mga berdeng kahoy sa gawas kagahapon"
+            },
+            {
+              "front": "We painted the purple wall today",
+              "back": "gipintalan namo ang purpura nga bungbong karon"
+            },
+            {
+              "front": "His shirt is yellow and bright",
+              "back": "iyang shirt kay yellow ug bright"
+            },
+            {
+              "front": "She likes the pink flowers here",
+              "back": "ganahan siya sa pink nga mga bulak diri"
+            },
+            {
+              "front": "We wear brown shoes here often",
+              "back": "nagsul-ob kami og brown nga sapatos dinhi kanunay"
+            },
+            {
+              "front": "They made a red cake yesterday",
+              "back": "naghimo sila ug pula nga cake gahapon"
+            },
+            {
+              "front": "His coat is white today outside",
+              "back": "puti iyang coat karon sa gawas"
+            },
+            {
+              "front": "She wore a blue hat today",
+              "back": "nagsul-ob siya og asul nga kalo karon"
+            },
+            {
+              "front": "We painted the brown table today",
+              "back": "gipintalan namo ang brown nga lamesa karon"
+            },
+            {
+              "front": "Her shirt is red now today",
+              "back": "pula ang iyang kamiseta karon"
+            },
+            {
+              "front": "They bought a green sofa today",
+              "back": "nagpalit sila ug green nga sofa karon"
+            },
+            {
+              "front": "I see the purple flowers now",
+              "back": "Nakita nako ang purpura nga mga bulak karon"
+            },
+            {
+              "front": "He loves the black sky tonight",
+              "back": "ganahan siya sa itom nga langit karong gabhiona"
+            },
+            {
+              "front": "We enjoy the yellow sun daily",
+              "back": "nalingaw mi sa dalag nga adlaw kada adlaw"
+            },
+            {
+              "front": "Her dress is black now today",
+              "back": "itom ang iyang sinina karon"
+            },
+            {
+              "front": "They made the green garden perfect",
+              "back": "gihimo nila nga perpekto ang berdeng tanaman"
+            },
+            {
+              "front": "My bag is red today only",
+              "back": "ang akong bag pula karong adlawa"
+            },
+            {
+              "front": "We use blue towels here daily",
+              "back": "asul nga tualya ang among gigamit dinhi kada adlaw"
+            },
+            {
+              "front": "He cut the green grass today",
+              "back": "giputol niya ang berdeng sagbot karon"
+            },
+            {
+              "front": "She picked yellow flowers today only",
+              "back": "nanguha siya ug yellow nga mga bulak karon lang"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "was Blue",
+              "back": "asul"
+            },
+            {
+              "front": "was Red",
+              "back": "pula"
+            },
+            {
+              "front": "was Green",
+              "back": "berde"
+            },
+            {
+              "front": "was Yellow",
+              "back": "dilaw"
+            },
+            {
+              "front": "was Black",
+              "back": "itom"
+            },
+            {
+              "front": "was White",
+              "back": "puti"
+            },
+            {
+              "front": "was Orange",
+              "back": "kahel"
+            },
+            {
+              "front": "was Purple",
+              "back": "kay purpura"
+            },
+            {
+              "front": "was Pink",
+              "back": "pink diay"
+            },
+            {
+              "front": "was Brown",
+              "back": "kay brown"
+            },
+            {
+              "front": "appeared Blue",
+              "back": "nagpakita nga asul"
+            },
+            {
+              "front": "appeared Red",
+              "back": "nagpakita nga pula"
+            },
+            {
+              "front": "appeared Green",
+              "back": "nagpakita nga berde"
+            },
+            {
+              "front": "appeared Yellow",
+              "back": "nagpakita nga yellow"
+            },
+            {
+              "front": "appeared Black",
+              "back": "nagpakita nga itom"
+            },
+            {
+              "front": "appeared White",
+              "back": "nagpakita nga puti"
+            },
+            {
+              "front": "appeared Orange",
+              "back": "nagpakita nga orange"
+            },
+            {
+              "front": "appeared Purple",
+              "back": "nagpakita nga purpura"
+            },
+            {
+              "front": "appeared Pink",
+              "back": "nagpakita nga pink"
+            },
+            {
+              "front": "appeared Brown",
+              "back": "nagpakita nga brown"
+            },
+            {
+              "front": "looked Blue",
+              "back": "mitan-aw asul"
+            },
+            {
+              "front": "looked Red",
+              "back": "murag pula"
+            },
+            {
+              "front": "looked Green",
+              "back": "tan-awon berde"
+            },
+            {
+              "front": "looked Yellow",
+              "back": "murag yellow"
+            },
+            {
+              "front": "looked Black",
+              "back": "itom tan-awon"
+            },
+            {
+              "front": "looked White",
+              "back": "mitan-aw puti"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "was Blue yesterday",
+              "back": "asul kahapon"
+            },
+            {
+              "front": "was Red earlier",
+              "back": "pula kaniadto"
+            },
+            {
+              "front": "was Green before",
+              "back": "berde kaniadto"
+            },
+            {
+              "front": "was Yellow then",
+              "back": "yellow pa kaniadto"
+            },
+            {
+              "front": "was Black yesterday",
+              "back": "itom kahapon"
+            },
+            {
+              "front": "was White before",
+              "back": "puti kaniadto"
+            },
+            {
+              "front": "was Orange recently",
+              "back": "bag-o lang nga orange"
+            },
+            {
+              "front": "was Purple earlier",
+              "back": "purpura kaniadto"
+            },
+            {
+              "front": "was Pink yesterday",
+              "back": "pink kahapon"
+            },
+            {
+              "front": "was Brown earlier",
+              "back": "brown na nga kanina"
+            },
+            {
+              "front": "appeared as Blue",
+              "back": "nagpakita nga asul"
+            },
+            {
+              "front": "appeared as Red",
+              "back": "nagpakita nga pula"
+            },
+            {
+              "front": "appeared as Green",
+              "back": "nagpakita nga berde"
+            },
+            {
+              "front": "appeared as Yellow",
+              "back": "nagpakita nga yellow"
+            },
+            {
+              "front": "appeared as Black",
+              "back": "nagpakita nga itom"
+            },
+            {
+              "front": "appeared as White",
+              "back": "nagpakita nga puti"
+            },
+            {
+              "front": "looked like Blue",
+              "back": "murag blue"
+            },
+            {
+              "front": "looked like Red",
+              "back": "murag pula"
+            },
+            {
+              "front": "looked like Green",
+              "back": "murag green"
+            },
+            {
+              "front": "looked like Yellow",
+              "back": "murag yellow"
+            },
+            {
+              "front": "looked like Black",
+              "back": "murag itom"
+            },
+            {
+              "front": "looked like White",
+              "back": "murag puti"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The sky was red",
+              "back": "pula ang langit"
+            },
+            {
+              "front": "The sea turned green",
+              "back": "ang dagat nahimong berde"
+            },
+            {
+              "front": "His eyes were blue",
+              "back": "asul ang iyang mga mata"
+            },
+            {
+              "front": "Her flowers were white",
+              "back": "puti ang iyang mga bulak"
+            },
+            {
+              "front": "His face turned blue",
+              "back": "asul ang iyang nawong"
+            },
+            {
+              "front": "The sun was yellow",
+              "back": "dilaw ang adlaw"
+            },
+            {
+              "front": "Her dress was purple",
+              "back": "purpura ang iyang sinina"
+            },
+            {
+              "front": "The sky turned grey",
+              "back": "ang langit nahimong abo"
+            },
+            {
+              "front": "The grass was green",
+              "back": "berde ang sagbot"
+            },
+            {
+              "front": "His shirt was red",
+              "back": "pula ang iyang kamiseta"
+            },
+            {
+              "front": "Her coat was black",
+              "back": "itom ang iyang coat"
+            },
+            {
+              "front": "The clouds were white",
+              "back": "puti ang mga panganod"
+            },
+            {
+              "front": "His shoes were brown",
+              "back": "brown ang iyang sapatos"
+            },
+            {
+              "front": "We wore blue jackets",
+              "back": "nagsul-ob kami og asul nga mga jacket"
+            },
+            {
+              "front": "The flowers were pink",
+              "back": "pink ang mga bulak"
+            },
+            {
+              "front": "Their coats were yellow",
+              "back": "dilaw ang ilang mga kupo"
+            },
+            {
+              "front": "Her pants were black",
+              "back": "itom ang iyang karsones"
+            },
+            {
+              "front": "The shirt was green",
+              "back": "berde ang kamiseta"
+            },
+            {
+              "front": "His pants were blue",
+              "back": "asul ang iyang karsones"
+            },
+            {
+              "front": "She wore red boots",
+              "back": "nagsul-ob siya og pula nga botas"
+            },
+            {
+              "front": "Their hats were orange",
+              "back": "orange ang ilang mga kalo"
+            },
+            {
+              "front": "His jacket was brown",
+              "back": "brown ang iyang jacket"
+            },
+            {
+              "front": "My shoes were black",
+              "back": "itom ang akong sapatos"
+            },
+            {
+              "front": "The paint was purple",
+              "back": "purpura ang pintura"
+            },
+            {
+              "front": "Her hair was blonde",
+              "back": "blonde ang iyang buhok"
+            },
+            {
+              "front": "We wore black shoes",
+              "back": "nagsuot mi ug itom nga sapatos"
+            },
+            {
+              "front": "His bag was green",
+              "back": "berde ang iyang bag"
+            },
+            {
+              "front": "The chair was blue",
+              "back": "asul ang lingkuranan"
+            },
+            {
+              "front": "Her purse was yellow",
+              "back": "yellow ang iyang pitaka"
+            },
+            {
+              "front": "The walls were white",
+              "back": "puti ang mga dingding"
+            },
+            {
+              "front": "I saw a red car",
+              "back": "nakakita ko ug pula nga sakyanan"
+            },
+            {
+              "front": "They wore green hats",
+              "back": "nagsul-ob silag berdeng kalo"
+            },
+            {
+              "front": "Her scarf was orange",
+              "back": "orange ang iyang bandana"
+            },
+            {
+              "front": "He wore a purple hat",
+              "back": "nagsul-ob siya og purpura nga kalo"
+            },
+            {
+              "front": "The shoes were pink",
+              "back": "pink ang sapatos"
+            },
+            {
+              "front": "His shirt was white",
+              "back": "puti ang iyang kamiseta"
+            },
+            {
+              "front": "She wore green shoes",
+              "back": "nagsul-ob siya og berde nga sapatos"
+            },
+            {
+              "front": "We painted blue doors",
+              "back": "gipintalan namo ang asul nga mga pultahan"
+            },
+            {
+              "front": "Their jacket was red",
+              "back": "pula ang ilang jacket"
+            },
+            {
+              "front": "My coat was brown",
+              "back": "brown ang akong coat"
+            },
+            {
+              "front": "Her jacket was orange",
+              "back": "iyang jacket kay orange"
+            },
+            {
+              "front": "The field was green",
+              "back": "berde ang uma"
+            },
+            {
+              "front": "He wore black hats",
+              "back": "nagsul-ob siyag itom nga kalo"
+            },
+            {
+              "front": "Her boots were purple",
+              "back": "ang iyang botas purpura"
+            },
+            {
+              "front": "We wore yellow hats",
+              "back": "nagsuot mi ug yellow nga kalo"
+            },
+            {
+              "front": "They painted white houses",
+              "back": "nagpintura sila ug puti nga mga balay"
+            },
+            {
+              "front": "His gloves were grey",
+              "back": "gray ang iyang gwantis"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I saw the blue sky",
+              "back": "nakita nako ang asul nga langit"
+            },
+            {
+              "front": "He cut green grass quickly",
+              "back": "dali siyang namutol ug berdeng sagbot"
+            },
+            {
+              "front": "They wore black robes inside",
+              "back": "nagsul-ob silag itom nga bisti sa sulod"
+            },
+            {
+              "front": "We used white towels here",
+              "back": "migamit kami ug puti nga tualya dinhi"
+            },
+            {
+              "front": "She picked purple flowers daily",
+              "back": "nanguha siyag purpura nga mga bulak kada adlaw"
+            },
+            {
+              "front": "I wore the red shirt",
+              "back": "gisul-ob nako ang pula nga kamiseta"
+            },
+            {
+              "front": "He wore a white hat",
+              "back": "nagsul-ob siyag puti nga kalo"
+            },
+            {
+              "front": "They painted the orange fence",
+              "back": "gipintalan nila ang orange nga koral"
+            },
+            {
+              "front": "She wore a yellow dress",
+              "back": "nagsul-ob siya og yellow nga sinina"
+            },
+            {
+              "front": "We saw grey clouds forming",
+              "back": "among nakita ang abuhon nga mga panganod nga naporma"
+            },
+            {
+              "front": "They wore brown boots yesterday",
+              "back": "nagsuot silag brown nga botas gahapon"
+            },
+            {
+              "front": "He wore a purple tie",
+              "back": "nagsuot siya ug purpura nga kurbata"
+            },
+            {
+              "front": "She washed a white dress",
+              "back": "naglaba siya ug puti nga sinina"
+            },
+            {
+              "front": "I wore green shoes yesterday",
+              "back": "Nagsul-ob ko og berde nga sapatos kagahapon"
+            },
+            {
+              "front": "They saw the red sunset",
+              "back": "nakita nila ang pula nga pagsalop sa adlaw"
+            },
+            {
+              "front": "He wore black gloves yesterday",
+              "back": "nagsuot siya ug itom nga gloves gahapon"
+            },
+            {
+              "front": "She wore blue jeans today",
+              "back": "nagsul-ob siyag blue jeans karon"
+            },
+            {
+              "front": "We painted the blue wall",
+              "back": "gipintalan namo ang asul nga bungbong"
+            },
+            {
+              "front": "They wore yellow hats yesterday",
+              "back": "nagsuot sila ug yellow nga kalo gahapon"
+            },
+            {
+              "front": "He wore brown coat yesterday",
+              "back": "nagsuot siyag brown coat gahapon"
+            },
+            {
+              "front": "She wore purple scarf today",
+              "back": "nagsul-ob siya og purpura nga scarf karon"
+            },
+            {
+              "front": "I wore orange shirt yesterday",
+              "back": "nagsul-ob kog orange shirt gahapon"
+            },
+            {
+              "front": "They saw green trees outside",
+              "back": "nakakita sila ug berdeng mga kahoy sa gawas"
+            },
+            {
+              "front": "He wore grey pants yesterday",
+              "back": "nagsul-ob siyag gray nga karsones gahapon"
+            },
+            {
+              "front": "She wore white boots yesterday",
+              "back": "nagsul-ob siyag puti nga botas kagahapon"
+            },
+            {
+              "front": "We wore black shirts yesterday",
+              "back": "nagsul-ob mi ug itom nga kamiseta gahapon"
+            },
+            {
+              "front": "They wore pink dresses today",
+              "back": "nagsul-ob sila og pink nga mga sinina karon"
+            },
+            {
+              "front": "He wore black belt yesterday",
+              "back": "nag black belt siya gahapon"
+            },
+            {
+              "front": "She wore white hat yesterday",
+              "back": "nagsuot siya ug puti nga kalo gahapon"
+            },
+            {
+              "front": "I wore yellow sweater today",
+              "back": "nagsuot ko ug yellow nga sweater karon"
+            },
+            {
+              "front": "They saw red balloons flying",
+              "back": "nakakita silag pula nga mga balloon nga naglupad"
+            },
+            {
+              "front": "He wore green jacket yesterday",
+              "back": "nagsuot siya ug green nga jacket kagahapon"
+            },
+            {
+              "front": "She wore orange skirt today",
+              "back": "nagsul-ob siyag orange nga palda karon"
+            },
+            {
+              "front": "We wore purple shirts yesterday",
+              "back": "nagsul-ob mi ug purple shirt gahapon"
+            },
+            {
+              "front": "They painted blue door yesterday",
+              "back": "gipintalan nila ang asul nga pultahan kagahapon"
+            },
+            {
+              "front": "He wore grey pants yesterday",
+              "back": "nagsul-ob siyag gray nga karsones gahapon"
+            },
+            {
+              "front": "She wore yellow boots today",
+              "back": "nagsuot siya ug yellow nga botas karon"
+            },
+            {
+              "front": "I wore black shoes yesterday",
+              "back": "nagsul-ob kog itom nga sapatos gahapon"
+            },
+            {
+              "front": "They wore white dresses today",
+              "back": "nagsul-ob sila og puti nga mga sinina karon"
+            },
+            {
+              "front": "He wore brown gloves yesterday",
+              "back": "nagsuot siya ug brown nga gloves gahapon"
+            },
+            {
+              "front": "She wore pink scarf yesterday",
+              "back": "nagsul-ob siyag pink nga scarf gahapon"
+            },
+            {
+              "front": "We wore green jackets yesterday",
+              "back": "nagsul-ob mi ug green nga jacket gahapon"
+            },
+            {
+              "front": "They wore blue hats today",
+              "back": "nagsul-ob sila og asul nga kalo karon"
+            },
+            {
+              "front": "He wore red shirt yesterday",
+              "back": "nagsul-ob siyag red shirt gahapon"
+            },
+            {
+              "front": "She wore white gloves yesterday",
+              "back": "nagsul-ob siya ug puti nga gwantes kagahapon"
+            },
+            {
+              "front": "I wore purple dress yesterday",
+              "back": "Nagsul-ob kog purpura nga sinina kagahapon"
+            },
+            {
+              "front": "They wore yellow scarves today",
+              "back": "nagsuot sila ug yellow nga scarves karon"
+            },
+            {
+              "front": "He wore black jacket yesterday",
+              "back": "nagsuot siyag itom nga jacket gahapon"
+            },
+            {
+              "front": "She wore green shoes today",
+              "back": "nagsul-ob siya og berde nga sapatos karon"
+            },
+            {
+              "front": "We wore orange shirts yesterday",
+              "back": "nagsuot mi ug orange shirt gahapon"
+            },
+            {
+              "front": "They wore grey jackets yesterday",
+              "back": "nagsul-ob sila og gray nga mga jacket kagahapon"
+            },
+            {
+              "front": "He wore brown shoes yesterday",
+              "back": "nagsuot siyag brown nga sapatos gahapon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I loved the blue sky yesterday",
+              "back": "Ganahan ko sa asul nga langit kagahapon"
+            },
+            {
+              "front": "He cut green grass quickly today",
+              "back": "dali siyang namutol ug berdeng sagbot karon"
+            },
+            {
+              "front": "They wore black robes inside yesterday",
+              "back": "nagsul-ob silag itom nga bisti sa sulod gahapon"
+            },
+            {
+              "front": "We used white towels here yesterday",
+              "back": "migamit mi ug puti nga tualya dinhi gahapon"
+            },
+            {
+              "front": "She picked purple flowers yesterday morning",
+              "back": "nanguha siyag purpura nga mga bulak kagahapon sa buntag"
+            },
+            {
+              "front": "I saw the red car yesterday",
+              "back": "Nakita nako ang pula nga awto gahapon"
+            },
+            {
+              "front": "He wore a white hat yesterday",
+              "back": "nagsuot siya ug puti nga kalo gahapon"
+            },
+            {
+              "front": "They painted the orange fence yesterday",
+              "back": "gipintalan nila ang orange nga koral gahapon"
+            },
+            {
+              "front": "She wore a yellow dress yesterday",
+              "back": "nagsul-ob siya og yellow nga sinina kagahapon"
+            },
+            {
+              "front": "We saw grey clouds forming yesterday",
+              "back": "nakita namo ang abohon nga mga panganod nga naporma kagahapon"
+            },
+            {
+              "front": "They wore brown boots yesterday afternoon",
+              "back": "nagsul-ob sila og brown nga botas kagahapon sa hapon"
+            },
+            {
+              "front": "He wore a purple tie yesterday",
+              "back": "nagsuot siya ug purple nga kurbata gahapon"
+            },
+            {
+              "front": "She washed a white dress yesterday",
+              "back": "naglaba siya ug puti nga sinina gahapon"
+            },
+            {
+              "front": "I wore green shoes yesterday evening",
+              "back": "Nagsul-ob ko og berde nga sapatos kagahapon sa gabii"
+            },
+            {
+              "front": "They saw the red sunset yesterday",
+              "back": "nakita nila ang pula nga pagsalop sa adlaw kagahapon"
+            },
+            {
+              "front": "He wore black gloves yesterday morning",
+              "back": "nagsuot siya ug itom nga gwantes kagahapon sa buntag"
+            },
+            {
+              "front": "She wore blue jeans yesterday evening",
+              "back": "nagsul-ob siya og blue jeans kagahapon sa gabii"
+            },
+            {
+              "front": "We painted the blue wall yesterday",
+              "back": "gipintalan namo ang asul nga bungbong kagahapon"
+            },
+            {
+              "front": "They wore yellow hats yesterday morning",
+              "back": "nagsuot sila og yellow nga kalo gahapon sa buntag"
+            },
+            {
+              "front": "He wore brown coat yesterday winter",
+              "back": "nagsul-ob siya og brown coat kagahapon sa tingtugnaw"
+            },
+            {
+              "front": "She wore purple scarf yesterday evening",
+              "back": "nagsul-ob siya og purpura nga scarf kagahapon sa gabii"
+            },
+            {
+              "front": "I wore orange shirt yesterday evening",
+              "back": "nagsul-ob kog orange shirt gahapon sa gabii"
+            },
+            {
+              "front": "They saw green trees outside yesterday",
+              "back": "nakakita silag mga berdeng kahoy sa gawas gahapon"
+            },
+            {
+              "front": "He wore grey pants yesterday morning",
+              "back": "nagsul-ob siyag gray nga karsones kagahapon sa buntag"
+            },
+            {
+              "front": "She wore white boots yesterday evening",
+              "back": "nagsul-ob siya og puti nga botas kagahapon sa gabii"
+            },
+            {
+              "front": "We wore black shirts yesterday evening",
+              "back": "nagsul-ob mi ug itom nga kamiseta gahapon sa gabii"
+            },
+            {
+              "front": "They wore pink dresses yesterday evening",
+              "back": "nagsul-ob sila og pink nga mga sinina kagahapon sa gabii"
+            },
+            {
+              "front": "He wore black belt yesterday evening",
+              "back": "nag black belt siya gahapon sa gabii"
+            },
+            {
+              "front": "She wore white hat yesterday morning",
+              "back": "nagsul-ob siyag puti nga kalo gahapon sa buntag"
+            },
+            {
+              "front": "I wore yellow sweater yesterday evening",
+              "back": "Nagsul-ob ko og yellow nga sweater kagahapon sa gabii"
+            },
+            {
+              "front": "They saw red balloons yesterday afternoon",
+              "back": "nakakita sila ug pula nga mga balloon gahapon sa hapon"
+            },
+            {
+              "front": "He wore green jacket yesterday winter",
+              "back": "nagsul-ob siya og green nga jacket kagahapon sa tingtugnaw"
+            },
+            {
+              "front": "She wore orange skirt yesterday morning",
+              "back": "nagsul-ob siyag orange nga palda kagahapon sa buntag"
+            },
+            {
+              "front": "We wore purple shirts yesterday evening",
+              "back": "nagsul-ob mi ug purple shirt gahapon sa gabii"
+            },
+            {
+              "front": "They painted blue door yesterday evening",
+              "back": "gipintalan nila ang asul nga pultahan kagahapon sa gabii"
+            },
+            {
+              "front": "He wore grey pants yesterday morning",
+              "back": "nagsul-ob siyag gray nga karsones kagahapon sa buntag"
+            },
+            {
+              "front": "She wore yellow boots yesterday evening",
+              "back": "nagsul-ob siya og yellow nga botas kagahapon sa gabii"
+            },
+            {
+              "front": "I wore black shoes yesterday evening",
+              "back": "nagsul-ob kog itom nga sapatos gahapon sa gabii"
+            },
+            {
+              "front": "They wore white dresses yesterday evening",
+              "back": "nagsul-ob sila og puti nga mga sinina kagahapon sa gabii"
+            },
+            {
+              "front": "He wore brown gloves yesterday morning",
+              "back": "nagsuot siyag brown nga gloves gahapon sa buntag"
+            },
+            {
+              "front": "She wore pink scarf yesterday morning",
+              "back": "nagsul-ob siya og pink nga scarf kagahapon sa buntag"
+            },
+            {
+              "front": "We wore green jackets yesterday morning",
+              "back": "nagsul-ob kami og green nga mga jacket kagahapon sa buntag"
+            },
+            {
+              "front": "They wore blue hats yesterday morning",
+              "back": "nagsul-ob sila og asul nga kalo kagahapon sa buntag"
+            },
+            {
+              "front": "He wore red shirt yesterday morning",
+              "back": "siya nagsul-ob og pula nga kamiseta kagahapon sa buntag"
+            },
+            {
+              "front": "She wore white gloves yesterday morning",
+              "back": "nagsul-ob siyag puti nga gwantis kagahapon sa buntag"
+            },
+            {
+              "front": "I wore purple dress yesterday evening",
+              "back": "Nagsul-ob ako og purpura nga sinina kagahapon sa gabii"
+            },
+            {
+              "front": "They wore yellow scarves yesterday evening",
+              "back": "nagsul-ob sila og yellow nga scarves kagahapon sa gabii"
+            },
+            {
+              "front": "He wore black jacket yesterday evening",
+              "back": "nagsuot siya og itom nga jacket kagahapon sa gabii"
+            },
+            {
+              "front": "She wore green shoes yesterday evening",
+              "back": "nagsul-ob siya og berde nga sapatos kagahapon sa gabii"
+            },
+            {
+              "front": "We wore orange shirts yesterday morning",
+              "back": "nagsuot mi ug orange shirt gahapon sa buntag"
+            },
+            {
+              "front": "They wore grey jackets yesterday morning",
+              "back": "nagsul-ob sila og gray nga mga jacket kagahapon sa buntag"
+            },
+            {
+              "front": "He wore brown shoes yesterday evening",
+              "back": "nagsul-ob siyag brown nga sapatos gahapon sa gabii"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "will be Blue",
+              "back": "mahimong asul"
+            },
+            {
+              "front": "will be Red",
+              "back": "mahimong pula"
+            },
+            {
+              "front": "will be Green",
+              "back": "mahimong berde"
+            },
+            {
+              "front": "will be Yellow",
+              "back": "mahimong yellow"
+            },
+            {
+              "front": "will be Black",
+              "back": "mahimong itom"
+            },
+            {
+              "front": "will be White",
+              "back": "mahimong puti"
+            },
+            {
+              "front": "will be Orange",
+              "back": "mahimong orange"
+            },
+            {
+              "front": "will be Purple",
+              "back": "mahimong purpura"
+            },
+            {
+              "front": "will be Pink",
+              "back": "mahimong pink"
+            },
+            {
+              "front": "will be Brown",
+              "back": "mahimong brown"
+            },
+            {
+              "front": "will appear Blue",
+              "back": "makita nga asul"
+            },
+            {
+              "front": "will appear Red",
+              "back": "makita nga pula"
+            },
+            {
+              "front": "will appear Green",
+              "back": "makita nga berde"
+            },
+            {
+              "front": "will appear Yellow",
+              "back": "makita nga yellow"
+            },
+            {
+              "front": "will appear Black",
+              "back": "makita nga itom"
+            },
+            {
+              "front": "will appear White",
+              "back": "makita nga puti"
+            },
+            {
+              "front": "will look Blue",
+              "back": "tan-awon nga asul"
+            },
+            {
+              "front": "will look Red",
+              "back": "tan-awon nga pula"
+            },
+            {
+              "front": "will look Green",
+              "back": "tan-awon nga berde"
+            },
+            {
+              "front": "will look Yellow",
+              "back": "tan-awon nga yellow"
+            },
+            {
+              "front": "will look Black",
+              "back": "itom tan-awon"
+            },
+            {
+              "front": "will look White",
+              "back": "maputi tan-awon"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "will soon be Blue",
+              "back": "sa dili madugay mahimong asul"
+            },
+            {
+              "front": "will eventually be Red",
+              "back": "sa katapusan mahimong pula"
+            },
+            {
+              "front": "will turn Green tomorrow",
+              "back": "mahimong berde ugma"
+            },
+            {
+              "front": "will be Yellow soon",
+              "back": "mahimong yellow dayon"
+            },
+            {
+              "front": "will turn Black eventually",
+              "back": "mahimong itom sa katapusan"
+            },
+            {
+              "front": "will be White later",
+              "back": "maputi unya"
+            },
+            {
+              "front": "will soon appear Orange",
+              "back": "sa dili madugay makita nga orange"
+            },
+            {
+              "front": "will eventually look Purple",
+              "back": "sa kadugayan tan-awon nga purpura"
+            },
+            {
+              "front": "will soon turn Pink",
+              "back": "sa dili madugay mahimong pink"
+            },
+            {
+              "front": "will change to Brown soon",
+              "back": "mausab dayon ug brown"
+            },
+            {
+              "front": "will soon glow Blue",
+              "back": "sa dili madugay mosidlak nga asul"
+            },
+            {
+              "front": "will gradually become Red",
+              "back": "anam-anam nga mahimong pula"
+            },
+            {
+              "front": "will shine Green shortly",
+              "back": "mosidlak nga berde sa dili madugay"
+            },
+            {
+              "front": "will be Yellow tomorrow",
+              "back": "mahimong yellow ugma"
+            },
+            {
+              "front": "will darken to Black soon",
+              "back": "mongitngit sa dili madugay"
+            },
+            {
+              "front": "will brighten to White eventually",
+              "back": "mosanag sa puti sa katapusan"
+            },
+            {
+              "front": "will soon radiate Orange",
+              "back": "sa dili madugay modan-ag nga orange"
+            },
+            {
+              "front": "will soon appear Purple",
+              "back": "sa dili madugay makita nga purpura"
+            },
+            {
+              "front": "will eventually look Pink",
+              "back": "sa kadugayan tan-awon nga pink"
+            },
+            {
+              "front": "will change to Brown later",
+              "back": "mausab sa brown unya"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "will be a Blue sky",
+              "back": "mahimong asul nga langit"
+            },
+            {
+              "front": "will be a Red apple",
+              "back": "mahimong pula nga mansanas"
+            },
+            {
+              "front": "will be a Green leaf",
+              "back": "mahimong berde nga dahon"
+            },
+            {
+              "front": "will be a Yellow sun",
+              "back": "mahimong yellow nga adlaw"
+            },
+            {
+              "front": "will be a Black night",
+              "back": "mahimong usa ka itom nga gabii"
+            },
+            {
+              "front": "will be a White cloud",
+              "back": "mahimong puti nga panganod"
+            },
+            {
+              "front": "will be an Orange sunset",
+              "back": "mahimong usa ka orange nga pagsalop sa adlaw"
+            },
+            {
+              "front": "will be a Purple flower",
+              "back": "mahimong purpura nga bulak"
+            },
+            {
+              "front": "will be a Pink rose",
+              "back": "mahimong usa ka rosas nga rosas"
+            },
+            {
+              "front": "will be a Brown tree",
+              "back": "mahimong brown nga kahoy"
+            },
+            {
+              "front": "will appear as Blue water",
+              "back": "makita nga asul nga tubig"
+            },
+            {
+              "front": "will appear as Red fire",
+              "back": "makita nga pula nga kalayo"
+            },
+            {
+              "front": "will appear as Green grass",
+              "back": "motungha sama sa lunhaw nga balili"
+            },
+            {
+              "front": "will appear as Yellow lemon",
+              "back": "makita nga yellow nga lemon"
+            },
+            {
+              "front": "will appear as Black coal",
+              "back": "makita nga itom nga karbon"
+            },
+            {
+              "front": "will appear as White snow",
+              "back": "makita nga puti nga niyebe"
+            },
+            {
+              "front": "will look like Blue ocean",
+              "back": "morag asul nga dagat"
+            },
+            {
+              "front": "will look like Red rose",
+              "back": "murag red rose"
+            },
+            {
+              "front": "will look like Green apple",
+              "back": "morag berde nga mansanas"
+            },
+            {
+              "front": "will look like Yellow daffodil",
+              "back": "morag dalag nga daffodil"
+            },
+            {
+              "front": "will look like Black asphalt",
+              "back": "morag itom nga aspalto"
+            },
+            {
+              "front": "will look like White cotton",
+              "back": "morag puti nga gapas"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "the sky will soon be Blue",
+              "back": "ang langit sa dili madugay mahimong asul"
+            },
+            {
+              "front": "the apple will soon turn Red",
+              "back": "ang mansanas sa dili madugay mahimong pula"
+            },
+            {
+              "front": "the leaf will turn Green tomorrow",
+              "back": "ugma mahimong berde ang dahon"
+            },
+            {
+              "front": "the sun will be Yellow soon",
+              "back": "ang adlaw mahimong yellow sa dili madugay"
+            },
+            {
+              "front": "the night will turn Black eventually",
+              "back": "ang kagabhion moitom sa katapusan"
+            },
+            {
+              "front": "the snow will be White later",
+              "back": "maputi unya ang niyebe"
+            },
+            {
+              "front": "the sunset will soon appear Orange",
+              "back": "ang pagsalop sa adlaw sa dili madugay makita nga orange"
+            },
+            {
+              "front": "the flower will eventually look Purple",
+              "back": "ang bulak sa katapusan tan-awon nga purpura"
+            },
+            {
+              "front": "the rose will soon turn Pink",
+              "back": "ang rosas sa dili madugay mahimong pink"
+            },
+            {
+              "front": "the tree will change to Brown soon",
+              "back": "ang kahoy mausab sa dili madugay"
+            },
+            {
+              "front": "the ocean will soon glow Blue",
+              "back": "ang kadagatan sa dili madugay mosidlak nga asul"
+            },
+            {
+              "front": "the fire will gradually become Red",
+              "back": "ang kalayo anam-anam nga mahimong pula"
+            },
+            {
+              "front": "the grass will shine Green shortly",
+              "back": "ang balili mosidlak nga berde sa dili madugay"
+            },
+            {
+              "front": "the lemon will be Yellow tomorrow",
+              "back": "ugma yellow na ang lemon"
+            },
+            {
+              "front": "the coal will darken to Black soon",
+              "back": "ang uling mongitngit sa dili madugay"
+            },
+            {
+              "front": "the clouds will brighten to White eventually",
+              "back": "ang mga panganod modan-ag ngadto sa puti sa katapusan"
+            },
+            {
+              "front": "the pumpkin will soon radiate Orange",
+              "back": "ang kalabasa sa dili madugay modan-ag nga orange"
+            },
+            {
+              "front": "the grape will soon appear Purple",
+              "back": "ang ubas sa dili madugay motungha nga purpura"
+            },
+            {
+              "front": "the cotton will eventually look Pink",
+              "back": "ang gapas sa kadugayan tan-awon nga pink"
+            },
+            {
+              "front": "the wood will change to Brown later",
+              "back": "ang kahoy mausab sa brown unya"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

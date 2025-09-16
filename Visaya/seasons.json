@@ -1,0 +1,1540 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Seasons",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Spring",
+              "back": "tingpamulak"
+            },
+            {
+              "front": "Summer",
+              "back": "ting-init"
+            },
+            {
+              "front": "Autumn",
+              "back": "tingdagdag"
+            },
+            {
+              "front": "Winter",
+              "back": "tingtugnaw"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Is spring",
+              "back": "mao ang tingpamulak"
+            },
+            {
+              "front": "Autumn leaves",
+              "back": "mga dahon sa tingdagdag"
+            },
+            {
+              "front": "Summer sun",
+              "back": "adlaw sa ting-init"
+            },
+            {
+              "front": "Winter snow",
+              "back": "tingtugnaw nga niyebe"
+            },
+            {
+              "front": "Spring flowers",
+              "back": "mga bulak sa tingpamulak"
+            },
+            {
+              "front": "Summer rain",
+              "back": "ulan sa ting-init"
+            },
+            {
+              "front": "Autumn breeze",
+              "back": "hangin sa tingdagdag"
+            },
+            {
+              "front": "Winter chill",
+              "back": "katugnaw sa tingtugnaw"
+            },
+            {
+              "front": "Spring growth",
+              "back": "pagtubo sa tingpamulak"
+            },
+            {
+              "front": "Summer heat",
+              "back": "init sa ting-init"
+            },
+            {
+              "front": "Autumn harvest",
+              "back": "ting-ani sa tingdagdag"
+            },
+            {
+              "front": "Winter nights",
+              "back": "mga gabii sa tingtugnaw"
+            },
+            {
+              "front": "Spring showers",
+              "back": "ulan sa tingpamulak"
+            },
+            {
+              "front": "Summer vacation",
+              "back": "bakasyon sa ting-init"
+            },
+            {
+              "front": "Autumn colors",
+              "back": "mga kolor sa tingdagdag"
+            },
+            {
+              "front": "Winter wonderland",
+              "back": "winter wonderland"
+            },
+            {
+              "front": "Spring awakening",
+              "back": "tingpamulak pagkahigmata"
+            },
+            {
+              "front": "Summer fun",
+              "back": "kalingawan sa ting-init"
+            },
+            {
+              "front": "Autumn festival",
+              "back": "tingdagdag festival"
+            },
+            {
+              "front": "Winter sports",
+              "back": "mga dula sa tingtugnaw"
+            },
+            {
+              "front": "Spring cleaning",
+              "back": "paghinlo sa tingpamulak"
+            },
+            {
+              "front": "Summer nights",
+              "back": "mga gabii sa ting-init"
+            },
+            {
+              "front": "Autumn vibes",
+              "back": "tingdagdag vibes"
+            },
+            {
+              "front": "Winter days",
+              "back": "mga adlaw sa tingtugnaw"
+            },
+            {
+              "front": "Spring blossoms",
+              "back": "mga bulak sa tingpamulak"
+            },
+            {
+              "front": "Summer activities",
+              "back": "mga kalihokan sa ting-init"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I love summer",
+              "back": "ganahan ko sa summer"
+            },
+            {
+              "front": "He hates winter",
+              "back": "gidumtan niya ang tingtugnaw"
+            },
+            {
+              "front": "She likes spring",
+              "back": "ganahan siya sa spring"
+            },
+            {
+              "front": "They enjoy autumn",
+              "back": "nalingaw sila sa tingdagdag"
+            },
+            {
+              "front": "We celebrate summer",
+              "back": "nag celebrate mi ug summer"
+            },
+            {
+              "front": "You appreciate spring",
+              "back": "gipabilhan nimo ang tingpamulak"
+            },
+            {
+              "front": "They dislike winter",
+              "back": "dili sila ganahan sa tingtugnaw"
+            },
+            {
+              "front": "I prefer autumn",
+              "back": "mas ganahan ko sa autumn"
+            },
+            {
+              "front": "She adores summer",
+              "back": "ganahan siya sa summer"
+            },
+            {
+              "front": "He dislikes autumn",
+              "back": "dili siya ganahan sa tingdagdag"
+            },
+            {
+              "front": "We enjoy spring",
+              "back": "nalingaw mi sa spring"
+            },
+            {
+              "front": "You love winter",
+              "back": "ganahan ka sa tingtugnaw"
+            },
+            {
+              "front": "They appreciate summer",
+              "back": "gi-appreciate nila ang summer"
+            },
+            {
+              "front": "I enjoy autumn",
+              "back": "Nalingaw ko sa tingdagdag"
+            },
+            {
+              "front": "She prefers winter",
+              "back": "mas gusto niya ang tingtugnaw"
+            },
+            {
+              "front": "He loves spring",
+              "back": "ganahan siya sa spring"
+            },
+            {
+              "front": "We hate autumn",
+              "back": "gidumtan namo ang tingdagdag"
+            },
+            {
+              "front": "You enjoy summer",
+              "back": "malingaw ka sa summer"
+            },
+            {
+              "front": "They like winter",
+              "back": "ganahan sila sa tingtugnaw"
+            },
+            {
+              "front": "I admire spring",
+              "back": "nakadayeg ko sa spring"
+            },
+            {
+              "front": "She hates summer",
+              "back": "gidumtan niya ang ting-init"
+            },
+            {
+              "front": "He loves winter",
+              "back": "ganahan siya sa tingtugnaw"
+            },
+            {
+              "front": "We like autumn",
+              "back": "ganahan mi ug autumn"
+            },
+            {
+              "front": "You prefer spring",
+              "back": "mas gusto nimo ang spring"
+            },
+            {
+              "front": "They adore summer",
+              "back": "ganahan sila sa summer"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I love summer days",
+              "back": "Ganahan ko sa mga adlaw sa ting-init"
+            },
+            {
+              "front": "She enjoys spring flowers",
+              "back": "nalingaw siya sa mga bulak sa tingpamulak"
+            },
+            {
+              "front": "They hate winter cold",
+              "back": "gidumtan nila ang katugnaw sa tingtugnaw"
+            },
+            {
+              "front": "We appreciate autumn colors",
+              "back": "gipabilhan namo ang mga kolor sa tingdagdag"
+            },
+            {
+              "front": "You prefer summer sunshine",
+              "back": "mas gusto nimo ang init sa adlaw"
+            },
+            {
+              "front": "He admires spring blooms",
+              "back": "nakadayeg siya sa mga bulak sa tingpamulak"
+            },
+            {
+              "front": "She cherishes autumn harvests",
+              "back": "gimahal niya ang mga ani sa tingdagdag"
+            },
+            {
+              "front": "They enjoy winter sports",
+              "back": "nalingaw sila sa mga dula sa tingtugnaw"
+            },
+            {
+              "front": "I appreciate spring mornings",
+              "back": "Gipabilhan nako ang mga buntag sa tingpamulak"
+            },
+            {
+              "front": "We love summer vacations",
+              "back": "ganahan mi ug summer vacation"
+            },
+            {
+              "front": "You dislike autumn winds",
+              "back": "dili ka ganahan sa hangin sa tinghunlak"
+            },
+            {
+              "front": "He prefers winter evenings",
+              "back": "mas gusto niya ang mga gabii sa tingtugnaw"
+            },
+            {
+              "front": "She enjoys summer nights",
+              "back": "nalingaw siya sa mga gabii sa ting-init"
+            },
+            {
+              "front": "They love spring rain",
+              "back": "ganahan sila sa ulan sa tingpamulak"
+            },
+            {
+              "front": "I dislike winter storms",
+              "back": "Dili ko ganahan sa mga bagyo sa tingtugnaw"
+            },
+            {
+              "front": "We cherish autumn sunsets",
+              "back": "gimahal namo ang mga pagsalop sa adlaw sa tingdagdag"
+            },
+            {
+              "front": "You admire spring growth",
+              "back": "nakadayeg ka sa pagtubo sa tingpamulak"
+            },
+            {
+              "front": "He enjoys summer hikes",
+              "back": "ganahan siyag summer hike"
+            },
+            {
+              "front": "She loves autumn leaves",
+              "back": "ganahan siya sa mga dahon sa tingdagdag"
+            },
+            {
+              "front": "They appreciate winter beauty",
+              "back": "gipabilhan nila ang katahum sa tingtugnaw"
+            },
+            {
+              "front": "I enjoy spring walks",
+              "back": "Nalingaw ko sa mga lakaw sa tingpamulak"
+            },
+            {
+              "front": "We love summer heat",
+              "back": "ganahan mi sa ting-init"
+            },
+            {
+              "front": "You cherish autumn moments",
+              "back": "gimahal nimo ang mga panahon sa tingdagdag"
+            },
+            {
+              "front": "He admires winter landscapes",
+              "back": "nakadayeg siya sa mga talan-awon sa tingtugnaw"
+            },
+            {
+              "front": "She prefers spring mornings",
+              "back": "mas gusto niya ang mga buntag sa tingpamulak"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I love summer evenings",
+              "back": "Ganahan ko sa mga gabii sa ting-init"
+            },
+            {
+              "front": "She enjoys spring mornings",
+              "back": "nalingaw siya sa mga buntag sa tingpamulak"
+            },
+            {
+              "front": "They cherish autumn sunsets",
+              "back": "gimahal nila ang pagsalop sa adlaw sa tingdagdag"
+            },
+            {
+              "front": "We appreciate winter landscapes",
+              "back": "gipabilhan namo ang mga talan-awon sa tingtugnaw"
+            },
+            {
+              "front": "You prefer spring flowers",
+              "back": "mas gusto nimo ang mga bulak sa tingpamulak"
+            },
+            {
+              "front": "He admires summer sunrises",
+              "back": "nakadayeg siya sa pagsubang sa adlaw sa ting-init"
+            },
+            {
+              "front": "She hates winter storms",
+              "back": "gidumtan niya ang mga bagyo sa tingtugnaw"
+            },
+            {
+              "front": "They celebrate autumn festivals",
+              "back": "gisaulog nila ang mga pista sa tingdagdag"
+            },
+            {
+              "front": "I appreciate spring growth",
+              "back": "gipabilhan nako ang pagtubo sa tingpamulak"
+            },
+            {
+              "front": "We enjoy summer vacations together",
+              "back": "nalingaw mi sa summer vacation together"
+            },
+            {
+              "front": "You love autumn colors",
+              "back": "ganahan ka sa mga kolor sa tingdagdag"
+            },
+            {
+              "front": "He dislikes winter chills",
+              "back": "dili niya gusto ang tingtugnaw nga tingtugnaw"
+            },
+            {
+              "front": "She adores spring blossoms",
+              "back": "ganahan siya sa mga bulak sa tingpamulak"
+            },
+            {
+              "front": "They enjoy summer activities",
+              "back": "nalingaw sila sa mga kalihokan sa ting-init"
+            },
+            {
+              "front": "I cherish autumn memories",
+              "back": "Gipabilhan nako ang mga panumduman sa tingdagdag"
+            },
+            {
+              "front": "We love winter nights",
+              "back": "ganahan mi ug winter nights"
+            },
+            {
+              "front": "You enjoy spring walks",
+              "back": "nalingaw ka sa mga lakaw sa tingpamulak"
+            },
+            {
+              "front": "He loves summer heat",
+              "back": "ganahan siya sa init sa ting-init"
+            },
+            {
+              "front": "She appreciates autumn harvests",
+              "back": "gipabilhan niya ang mga ani sa tingdagdag"
+            },
+            {
+              "front": "They adore winter snowflakes",
+              "back": "ganahan sila sa mga snowflake sa tingtugnaw"
+            },
+            {
+              "front": "I enjoy summer sunsets",
+              "back": "ganahan ko sa summer sunset"
+            },
+            {
+              "front": "We cherish spring days",
+              "back": "gimahal namo ang mga adlaw sa tingpamulak"
+            },
+            {
+              "front": "You love autumn breezes",
+              "back": "ganahan ka sa hangin sa tingdagdag"
+            },
+            {
+              "front": "He appreciates winter nights",
+              "back": "gipabilhan niya ang mga gabii sa tingtugnaw"
+            },
+            {
+              "front": "She enjoys summer nights",
+              "back": "nalingaw siya sa mga gabii sa ting-init"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I love summer warm evenings now",
+              "back": "Ganahan ko sa mainit nga mga gabii sa ting-init karon"
+            },
+            {
+              "front": "He hates winter cold weather days",
+              "back": "Gidumtan niya ang tingtugnaw nga bugnaw nga mga adlaw"
+            },
+            {
+              "front": "She enjoys spring blooming colorful flowers",
+              "back": "nalingaw siya sa tingpamulak nga namulak sa mabulukon nga mga bulak"
+            },
+            {
+              "front": "They celebrate autumn colorful falling leaves",
+              "back": "gisaulog nila ang tingdagdag nga mabulukon nga pagkahulog sa mga dahon"
+            },
+            {
+              "front": "We appreciate winter snowy beautiful landscapes",
+              "back": "gipabilhan namo ang tingtugnaw nga snowy nindot nga mga talan-awon"
+            },
+            {
+              "front": "You prefer spring gentle cool breezes",
+              "back": "mas gusto nimo ang spring malumo bugnaw nga hangin"
+            },
+            {
+              "front": "Nobody enjoys winter freezing cold nights",
+              "back": "walay nalingaw sa tingtugnaw nga nagyelo ug bugnaw nga mga gabii"
+            },
+            {
+              "front": "Everyone loves summer bright shining sunshine",
+              "back": "ang tanan nahigugma sa ting-init hayag nga nagdan-ag nga silaw sa adlaw"
+            },
+            {
+              "front": "I cherish autumn crisp fresh mornings",
+              "back": "Gimahal ko ang tingdagdag nga presko nga kabuntagon"
+            },
+            {
+              "front": "He admires spring vibrant colorful blossoms",
+              "back": "nakadayeg siya sa mabulukon nga mabulukon nga mga bulak sa tingpamulak"
+            },
+            {
+              "front": "She enjoys summer hot sunny days",
+              "back": "Nalingaw siya sa ting-init nga init nga sunny nga mga adlaw"
+            },
+            {
+              "front": "They love autumn bountiful harvest time",
+              "back": "ganahan sila sa tinghunlak nga dagayang panahon sa pag-ani"
+            },
+            {
+              "front": "We hate winter bitter freezing cold",
+              "back": "Gidumtan namo ang tingtugnaw nga mapait nga katugnaw"
+            },
+            {
+              "front": "You adore spring fresh blooming flowers",
+              "back": "ganahan ka sa tingpamulak nga lab-as nga namulak nga mga bulak"
+            },
+            {
+              "front": "Nobody likes winter long dark nights",
+              "back": "walay usa nga gusto sa tingtugnaw taas nga mangitngit nga mga gabii"
+            },
+            {
+              "front": "Everyone enjoys summer fun outdoor activities",
+              "back": "ang tanan nalingaw sa summer makalingaw nga mga kalihokan sa gawas"
+            },
+            {
+              "front": "I enjoy autumn walking through leaves",
+              "back": "Nalingaw ko sa tingdagdag nga naglakaw sa mga dahon"
+            },
+            {
+              "front": "He prefers spring rain gentle showers",
+              "back": "mas gusto niya ang ulan sa tingpamulak ug hinay nga ulan"
+            },
+            {
+              "front": "She loves summer outdoor lively events",
+              "back": "ganahan siya sa ting-init sa gawas nga buhi nga mga panghitabo"
+            },
+            {
+              "front": "They appreciate autumn falling golden leaves",
+              "back": "gipabilhan nila ang tingdagdag nga nahulog nga bulawan nga mga dahon"
+            },
+            {
+              "front": "We enjoy winter cozy warm firesides",
+              "back": "Nalingaw kami sa tingtugnaw nga komportable nga mainit nga mga fireside"
+            },
+            {
+              "front": "You cherish spring new green growth",
+              "back": "imong gimahal ang tingpamulak bag-ong berde nga pagtubo"
+            },
+            {
+              "front": "He likes summer beach relaxing trips",
+              "back": "ganahan siya ug summer beach relaxing trips"
+            },
+            {
+              "front": "She enjoys autumn evening peaceful walks",
+              "back": "nalingaw siya sa tingdagdag sa gabii nga malinawon nga mga lakaw"
+            },
+            {
+              "front": "They love winter holiday festive celebrations",
+              "back": "ganahan sila sa winter holiday festive celebrations"
+            },
+            {
+              "front": "I prefer spring warm sunny days",
+              "back": "Mas gusto ko ang ting-init sa ting-init nga mga adlaw sa tingpamulak"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Loved summer",
+              "back": "nahigugma sa ting-init"
+            },
+            {
+              "front": "Hated winter",
+              "back": "gidumtan sa tingtugnaw"
+            },
+            {
+              "front": "Enjoyed spring",
+              "back": "nalingaw sa tingpamulak"
+            },
+            {
+              "front": "Appreciated autumn",
+              "back": "gipabilhan tingdagdag"
+            },
+            {
+              "front": "Adored summer",
+              "back": "nahigugma sa ting-init"
+            },
+            {
+              "front": "Disliked winter",
+              "back": "dili ganahan sa tingtugnaw"
+            },
+            {
+              "front": "Cherished autumn",
+              "back": "gimahal nga tingdagdag"
+            },
+            {
+              "front": "Admired spring",
+              "back": "nakadayeg sa tingpamulak"
+            },
+            {
+              "front": "Preferred summer",
+              "back": "gipalabi nga ting-init"
+            },
+            {
+              "front": "Hated autumn",
+              "back": "gikasilagan tingdagdag"
+            },
+            {
+              "front": "Loved spring",
+              "back": "nahigugma sa tingpamulak"
+            },
+            {
+              "front": "Enjoyed autumn",
+              "back": "nalingaw sa tingdagdag"
+            },
+            {
+              "front": "Appreciated winter",
+              "back": "gipabilhan ang tingtugnaw"
+            },
+            {
+              "front": "Admired summer",
+              "back": "nakadayeg sa ting-init"
+            },
+            {
+              "front": "Disliked spring",
+              "back": "dili ganahan spring"
+            },
+            {
+              "front": "Cherished winter",
+              "back": "gimahal nga tingtugnaw"
+            },
+            {
+              "front": "Adored autumn",
+              "back": "gisimba ang tingdagdag"
+            },
+            {
+              "front": "Preferred spring",
+              "back": "gipalabi nga tingpamulak"
+            },
+            {
+              "front": "Loved winter",
+              "back": "nahigugma sa tingtugnaw"
+            },
+            {
+              "front": "Enjoyed summer",
+              "back": "nalingaw sa ting-init"
+            },
+            {
+              "front": "Appreciated spring",
+              "back": "gipabilhan tingpamulak"
+            },
+            {
+              "front": "Admired autumn",
+              "back": "nakadayeg sa tingdagdag"
+            },
+            {
+              "front": "Disliked summer",
+              "back": "dili ganahan sa summer"
+            },
+            {
+              "front": "Cherished spring",
+              "back": "gimahal nga tingpamulak"
+            },
+            {
+              "front": "Preferred autumn",
+              "back": "gipalabi tingdagdag"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I loved summer",
+              "back": "ganahan ko sa summer"
+            },
+            {
+              "front": "He hated winter",
+              "back": "gidumtan niya ang tingtugnaw"
+            },
+            {
+              "front": "She enjoyed spring",
+              "back": "nalingaw siya sa tingpamulak"
+            },
+            {
+              "front": "They appreciated autumn",
+              "back": "gipabilhan nila ang tingdagdag"
+            },
+            {
+              "front": "We adored summer",
+              "back": "gisimba namo ang summer"
+            },
+            {
+              "front": "You disliked winter",
+              "back": "dili ka ganahan sa tingtugnaw"
+            },
+            {
+              "front": "Everyone cherished autumn",
+              "back": "ang tanan nagmahal sa tingdagdag"
+            },
+            {
+              "front": "Nobody admired spring",
+              "back": "walay nakadayeg sa tingpamulak"
+            },
+            {
+              "front": "I preferred summer",
+              "back": "mas gipili nako ang summer"
+            },
+            {
+              "front": "He loved autumn",
+              "back": "nahigugma siya sa tingdagdag"
+            },
+            {
+              "front": "She enjoyed winter",
+              "back": "nalingaw siya sa tingtugnaw"
+            },
+            {
+              "front": "They hated spring",
+              "back": "gidumtan nila ang tingpamulak"
+            },
+            {
+              "front": "We appreciated summer",
+              "back": "gi-appreciate namo ang summer"
+            },
+            {
+              "front": "You adored autumn",
+              "back": "gisimba nimo ang tingdagdag"
+            },
+            {
+              "front": "Everyone disliked winter",
+              "back": "ang tanan dili ganahan sa tingtugnaw"
+            },
+            {
+              "front": "Nobody cherished spring",
+              "back": "walay nagmahal sa tingpamulak"
+            },
+            {
+              "front": "I admired autumn",
+              "back": "nakadayeg ko sa tingdagdag"
+            },
+            {
+              "front": "He enjoyed summer",
+              "back": "nalingaw siya sa ting-init"
+            },
+            {
+              "front": "She preferred winter",
+              "back": "mas gusto niya ang tingtugnaw"
+            },
+            {
+              "front": "They adored spring",
+              "back": "sila nagsimba sa tingpamulak"
+            },
+            {
+              "front": "We hated autumn",
+              "back": "gidumtan namo ang tingdagdag"
+            },
+            {
+              "front": "You loved winter",
+              "back": "ganahan ka sa tingtugnaw"
+            },
+            {
+              "front": "Everyone enjoyed spring",
+              "back": "ang tanan nalingaw sa tingpamulak"
+            },
+            {
+              "front": "Nobody appreciated summer",
+              "back": "walay naka appreciate sa summer"
+            },
+            {
+              "front": "I disliked autumn",
+              "back": "dili ko ganahan sa autumn"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I loved summer days",
+              "back": "Ganahan ko sa mga adlaw sa ting-init"
+            },
+            {
+              "front": "She enjoyed spring mornings",
+              "back": "nalingaw siya sa mga buntag sa tingpamulak"
+            },
+            {
+              "front": "They hated winter cold",
+              "back": "gidumtan nila ang katugnaw sa tingtugnaw"
+            },
+            {
+              "front": "We appreciated autumn colors",
+              "back": "gipabilhan namo ang mga kolor sa tingdagdag"
+            },
+            {
+              "front": "You preferred summer sunshine",
+              "back": "gipalabi nimo ang kahayag sa adlaw sa ting-init"
+            },
+            {
+              "front": "He admired spring blooms",
+              "back": "nakadayeg siya sa mga bulak sa tingpamulak"
+            },
+            {
+              "front": "She cherished autumn harvests",
+              "back": "gimahal niya ang mga ani sa tingdagdag"
+            },
+            {
+              "front": "They enjoyed winter sports",
+              "back": "nalingaw sila sa mga dula sa tingtugnaw"
+            },
+            {
+              "front": "I appreciated spring mornings",
+              "back": "Gipabilhan nako ang mga buntag sa tingpamulak"
+            },
+            {
+              "front": "We loved summer vacations",
+              "back": "ganahan mi ug summer vacation"
+            },
+            {
+              "front": "You disliked autumn winds",
+              "back": "dili nimo gusto ang hangin sa tingdagdag"
+            },
+            {
+              "front": "He preferred winter evenings",
+              "back": "mas gusto niya ang mga gabii sa tingtugnaw"
+            },
+            {
+              "front": "She enjoyed summer nights",
+              "back": "nalingaw siya sa mga gabii sa ting-init"
+            },
+            {
+              "front": "They loved spring rain",
+              "back": "ganahan sila sa ulan sa tingpamulak"
+            },
+            {
+              "front": "I disliked winter storms",
+              "back": "Dili ko ganahan sa mga bagyo sa tingtugnaw"
+            },
+            {
+              "front": "We cherished autumn sunsets",
+              "back": "gimahal namo ang mga pagsalop sa adlaw sa tingdagdag"
+            },
+            {
+              "front": "You admired spring growth",
+              "back": "nakadayeg ka sa pagtubo sa tingpamulak"
+            },
+            {
+              "front": "He enjoyed summer hikes",
+              "back": "nalingaw siya sa summer hike"
+            },
+            {
+              "front": "She loved autumn leaves",
+              "back": "ganahan siya sa mga dahon sa tingdagdag"
+            },
+            {
+              "front": "They appreciated winter beauty",
+              "back": "gipabilhan nila ang katahum sa tingtugnaw"
+            },
+            {
+              "front": "I enjoyed spring walks",
+              "back": "nalingaw ko sa spring walks"
+            },
+            {
+              "front": "We loved summer heat",
+              "back": "ganahan mi sa init sa ting-init"
+            },
+            {
+              "front": "You cherished autumn moments",
+              "back": "gimahal nimo ang mga panahon sa tingdagdag"
+            },
+            {
+              "front": "He admired winter landscapes",
+              "back": "nakadayeg siya sa mga talan-awon sa tingtugnaw"
+            },
+            {
+              "front": "She preferred spring mornings",
+              "back": "mas gusto niya ang mga buntag sa tingpamulak"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I loved summer warm evenings",
+              "back": "Ganahan ko sa mainit nga mga gabii sa ting-init"
+            },
+            {
+              "front": "He hated winter cold weather",
+              "back": "gidumtan niya ang bugnaw nga panahon sa tingtugnaw"
+            },
+            {
+              "front": "She enjoyed spring blooming flowers",
+              "back": "nalingaw siya sa mga bulak sa tingpamulak"
+            },
+            {
+              "front": "They celebrated autumn colorful leaves",
+              "back": "gisaulog nila ang mabulukon nga mga dahon sa tingdagdag"
+            },
+            {
+              "front": "We appreciated winter snowy landscapes",
+              "back": "gipabilhan namo ang snowy nga mga talan-awon sa tingtugnaw"
+            },
+            {
+              "front": "You preferred spring gentle breezes",
+              "back": "gipalabi nimo ang malumo nga hangin sa tingpamulak"
+            },
+            {
+              "front": "Nobody enjoyed winter freezing nights",
+              "back": "walay nalingaw sa tingtugnaw nga nagyelo nga mga gabii"
+            },
+            {
+              "front": "Everyone loved summer shining sunshine",
+              "back": "ang tanan nahigugma sa ting-init nga nagsidlak nga kahayag sa adlaw"
+            },
+            {
+              "front": "I cherished autumn crisp mornings",
+              "back": "Gipabilhan nako ang mabugnaw nga kabuntagon sa tingdagdag"
+            },
+            {
+              "front": "He admired spring vibrant blossoms",
+              "back": "nakadayeg siya sa makusog nga mga bulak sa tingpamulak"
+            },
+            {
+              "front": "She enjoyed summer sunny days",
+              "back": "nalingaw siya sa mga adlaw sa ting-init"
+            },
+            {
+              "front": "They loved autumn falling leaves",
+              "back": "ganahan sila sa pagkahulog sa mga dahon sa tingdagdag"
+            },
+            {
+              "front": "We hated winter bitter chills",
+              "back": "gidumtan namo ang mapait nga katugnaw sa tingtugnaw"
+            },
+            {
+              "front": "You adored spring fresh flowers",
+              "back": "gisimba nimo ang lab-as nga mga bulak sa tingpamulak"
+            },
+            {
+              "front": "Nobody liked winter dark nights",
+              "back": "walay usa nga ganahan sa tingtugnaw mangitngit nga mga gabii"
+            },
+            {
+              "front": "Everyone enjoyed summer outdoor activities",
+              "back": "ang tanan nalingaw sa mga kalihokan sa gawas sa ting-init"
+            },
+            {
+              "front": "I enjoyed autumn walking through",
+              "back": "Nalingaw ko sa paglakaw sa tingdagdag"
+            },
+            {
+              "front": "He preferred spring rain showers",
+              "back": "gipalabi niya ang ulan sa tingpamulak"
+            },
+            {
+              "front": "She loved summer outdoor events",
+              "back": "ganahan siya sa summer outdoor event"
+            },
+            {
+              "front": "They appreciated autumn falling leaves",
+              "back": "gipabilhan nila ang pagkahulog sa mga dahon sa tingdagdag"
+            },
+            {
+              "front": "We enjoyed winter cozy firesides",
+              "back": "nalingaw kami sa tingtugnaw nga komportable nga mga fireside"
+            },
+            {
+              "front": "You cherished spring new growth",
+              "back": "gimahal nimo ang bag-ong pagtubo sa tingpamulak"
+            },
+            {
+              "front": "He liked summer beach trips",
+              "back": "ganahan siya sa summer beach trips"
+            },
+            {
+              "front": "She enjoyed autumn peaceful walks",
+              "back": "nalingaw siya sa malinawon nga paglakaw sa tingdagdag"
+            },
+            {
+              "front": "They loved winter festive celebrations",
+              "back": "ganahan sila sa mga selebrasyon sa tingtugnaw"
+            },
+            {
+              "front": "I preferred spring warm days",
+              "back": "Gipalabi nako ang mainit nga mga adlaw sa tingpamulak"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I loved summer warm evenings now",
+              "back": "Ganahan ko sa mainit nga mga gabii sa ting-init karon"
+            },
+            {
+              "front": "He hated winter cold weather days",
+              "back": "gidumtan niya ang tingtugnaw nga bugnaw nga mga adlaw"
+            },
+            {
+              "front": "She enjoyed spring blooming colorful flowers",
+              "back": "nalingaw siya sa tingpamulak nga namulak sa mabulukon nga mga bulak"
+            },
+            {
+              "front": "They celebrated autumn colorful falling leaves",
+              "back": "gisaulog nila ang tingdagdag nga mabulukon nga pagkahulog sa mga dahon"
+            },
+            {
+              "front": "We appreciated winter snowy beautiful landscapes",
+              "back": "gipabilhan namo ang tingtugnaw nga niyebe nga nindot nga mga talan-awon"
+            },
+            {
+              "front": "You preferred spring gentle cool breezes",
+              "back": "gipalabi nimo ang tingpamulak malumo ug bugnaw nga hangin"
+            },
+            {
+              "front": "Nobody enjoyed winter freezing cold nights",
+              "back": "walay nalingaw sa tingtugnaw nga nagyelo ug bugnaw nga mga gabii"
+            },
+            {
+              "front": "Everyone loved summer bright shining sunshine",
+              "back": "ang tanan nahigugma sa ting-init hayag nga kahayag sa adlaw"
+            },
+            {
+              "front": "I cherished autumn crisp fresh mornings",
+              "back": "Gimahal ko ang tingdagdag nga presko nga kabuntagon"
+            },
+            {
+              "front": "He admired spring vibrant colorful blossoms",
+              "back": "nakadayeg siya sa mabulukon nga mabulukon nga mga bulak sa tingpamulak"
+            },
+            {
+              "front": "She enjoyed summer hot sunny days",
+              "back": "nalingaw siya sa ting-init nga init nga sunny nga mga adlaw"
+            },
+            {
+              "front": "They loved autumn bountiful harvest time",
+              "back": "ganahan sila sa tingdagdag nga dagayang panahon sa pag-ani"
+            },
+            {
+              "front": "We hated winter bitter freezing cold",
+              "back": "gidumtan namo ang tingtugnaw nga mapait nga katugnaw"
+            },
+            {
+              "front": "You adored spring fresh blooming flowers",
+              "back": "gisimba nimo ang bag-ong namulak nga mga bulak sa tingpamulak"
+            },
+            {
+              "front": "Nobody liked winter long dark nights",
+              "back": "walay usa nga ganahan sa tingtugnaw taas nga ngitngit nga mga gabii"
+            },
+            {
+              "front": "Everyone enjoyed summer fun outdoor activities",
+              "back": "ang tanan nalingaw sa summer makalingaw nga mga kalihokan sa gawas"
+            },
+            {
+              "front": "I enjoyed autumn walking through leaves",
+              "back": "Nalingaw ko sa tingdagdag nga naglakaw sa mga dahon"
+            },
+            {
+              "front": "He preferred spring rain gentle showers",
+              "back": "gipalabi niya ang ulan sa tingpamulak ug hinay nga ulan"
+            },
+            {
+              "front": "She loved summer outdoor lively events",
+              "back": "ganahan siya sa summer outdoor lively event"
+            },
+            {
+              "front": "They appreciated autumn falling golden leaves",
+              "back": "gipabilhan nila ang tingdagdag nga nahulog nga bulawan nga mga dahon"
+            },
+            {
+              "front": "We enjoyed winter cozy warm firesides",
+              "back": "nalingaw kami sa tingtugnaw nga komportable nga mainit nga mga fireside"
+            },
+            {
+              "front": "You cherished spring new green growth",
+              "back": "imong gimahal ang tingpamulak bag-ong berde nga pagtubo"
+            },
+            {
+              "front": "He liked summer beach relaxing trips",
+              "back": "ganahan siya sa summer beach relaxing trips"
+            },
+            {
+              "front": "She enjoyed autumn evening peaceful walks",
+              "back": "nalingaw siya sa malinawon nga paglakaw sa gabii sa tingdagdag"
+            },
+            {
+              "front": "They loved winter holiday festive celebrations",
+              "back": "ganahan sila sa winter holiday festive celebrations"
+            },
+            {
+              "front": "I preferred spring warm sunny days",
+              "back": "Gipalabi nako ang ting-init sa ting-init nga mga adlaw sa tingpamulak"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will be summer",
+              "back": "mag summer na"
+            },
+            {
+              "front": "Will become autumn",
+              "back": "mahimong tingdagdag"
+            },
+            {
+              "front": "Will be winter",
+              "back": "mahimong tingtugnaw"
+            },
+            {
+              "front": "Will enjoy spring",
+              "back": "malingaw sa tingpamulak"
+            },
+            {
+              "front": "Will love summer",
+              "back": "ganahan sa summer"
+            },
+            {
+              "front": "Will hate winter",
+              "back": "magdumot sa tingtugnaw"
+            },
+            {
+              "front": "Will admire autumn",
+              "back": "makadayeg sa tingdagdag"
+            },
+            {
+              "front": "Will prefer spring",
+              "back": "mas gusto ang tingpamulak"
+            },
+            {
+              "front": "Will cherish summer",
+              "back": "magmahal sa ting-init"
+            },
+            {
+              "front": "Will adore autumn",
+              "back": "mosimba sa tingdagdag"
+            },
+            {
+              "front": "Will dislike winter",
+              "back": "dili ganahan sa tingtugnaw"
+            },
+            {
+              "front": "Will appreciate spring",
+              "back": "makadayeg sa tingpamulak"
+            },
+            {
+              "front": "Will adore summer",
+              "back": "mosimba sa ting-init"
+            },
+            {
+              "front": "Will dislike autumn",
+              "back": "dili ganahan sa tingdagdag"
+            },
+            {
+              "front": "Will admire winter",
+              "back": "makadayeg sa tingtugnaw"
+            },
+            {
+              "front": "Will prefer summer",
+              "back": "mas gusto ang ting-init"
+            },
+            {
+              "front": "Will cherish autumn",
+              "back": "magmahal sa tingdagdag"
+            },
+            {
+              "front": "Will adore winter",
+              "back": "mosimba sa tingtugnaw"
+            },
+            {
+              "front": "Will appreciate summer",
+              "back": "maapresyar ang ting-init"
+            },
+            {
+              "front": "Will dislike spring",
+              "back": "dili ganahan sa tingpamulak"
+            },
+            {
+              "front": "Will admire autumn",
+              "back": "makadayeg sa tingdagdag"
+            },
+            {
+              "front": "Will prefer winter",
+              "back": "mas gusto ang tingtugnaw"
+            },
+            {
+              "front": "Will cherish spring",
+              "back": "magmahal sa tingpamulak"
+            },
+            {
+              "front": "Will adore summer",
+              "back": "mosimba sa ting-init"
+            },
+            {
+              "front": "Will appreciate autumn",
+              "back": "makadayeg sa tingdagdag"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will love summer",
+              "back": "ganahan ko sa summer"
+            },
+            {
+              "front": "He will enjoy autumn",
+              "back": "malingaw siya sa tingdagdag"
+            },
+            {
+              "front": "She will hate winter",
+              "back": "dumtan niya ang tingtugnaw"
+            },
+            {
+              "front": "They will appreciate spring",
+              "back": "maapresyar nila ang tingpamulak"
+            },
+            {
+              "front": "We will prefer summer",
+              "back": "mas gusto namo ang summer"
+            },
+            {
+              "front": "You will admire spring",
+              "back": "makadayeg ka sa tingpamulak"
+            },
+            {
+              "front": "Everyone will love summer",
+              "back": "ang tanan mahigugma sa ting-init"
+            },
+            {
+              "front": "Nobody will enjoy winter",
+              "back": "walay malingaw sa tingtugnaw"
+            },
+            {
+              "front": "I will cherish autumn",
+              "back": "higugmaon ko ang tingdagdag"
+            },
+            {
+              "front": "He will prefer winter",
+              "back": "mas gusto niya ang tingtugnaw"
+            },
+            {
+              "front": "She will adore spring",
+              "back": "siya mosimba sa tingpamulak"
+            },
+            {
+              "front": "They will hate summer",
+              "back": "sila magdumot sa ting-init"
+            },
+            {
+              "front": "We will enjoy autumn",
+              "back": "malingaw mi sa ting-uwan"
+            },
+            {
+              "front": "You will love spring",
+              "back": "mahigugma ka sa tingpamulak"
+            },
+            {
+              "front": "He will cherish summer",
+              "back": "iyang mahalon ang ting-init"
+            },
+            {
+              "front": "She will prefer autumn",
+              "back": "mas gusto niya ang tingdagdag"
+            },
+            {
+              "front": "They will adore winter",
+              "back": "sila mosimba sa tingtugnaw"
+            },
+            {
+              "front": "I will admire spring",
+              "back": "modayeg ko sa tingpamulak"
+            },
+            {
+              "front": "We will hate autumn",
+              "back": "kita magdumot sa tingdagdag"
+            },
+            {
+              "front": "You will appreciate winter",
+              "back": "maapresyar nimo ang tingtugnaw"
+            },
+            {
+              "front": "He will enjoy spring",
+              "back": "malingaw siya sa tingpamulak"
+            },
+            {
+              "front": "She will cherish summer",
+              "back": "iyang mahalon ang ting-init"
+            },
+            {
+              "front": "They will prefer spring",
+              "back": "mas gusto nila ang tingpamulak"
+            },
+            {
+              "front": "I will adore autumn",
+              "back": "Ganahan ko sa tingdagdag"
+            },
+            {
+              "front": "You will hate spring",
+              "back": "magdumot ka sa tingpamulak"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will love summer evenings",
+              "back": "Ganahan ko sa mga gabii sa ting-init"
+            },
+            {
+              "front": "He will enjoy autumn evenings",
+              "back": "malingaw siya sa mga gabii sa tingdagdag"
+            },
+            {
+              "front": "She will hate winter storms",
+              "back": "dumtan niya ang mga bagyo sa tingtugnaw"
+            },
+            {
+              "front": "They will appreciate spring blooms",
+              "back": "maapresyar nila ang mga bulak sa tingpamulak"
+            },
+            {
+              "front": "We will prefer summer nights",
+              "back": "mas gusto namo ang mga gabii sa ting-init"
+            },
+            {
+              "front": "You will admire autumn colors",
+              "back": "makadayeg ka sa mga kolor sa tingdagdag"
+            },
+            {
+              "front": "Everyone will love spring flowers",
+              "back": "ang tanan mahigugma sa mga bulak sa tingpamulak"
+            },
+            {
+              "front": "Nobody will enjoy winter nights",
+              "back": "walay malingaw sa mga gabii sa tingtugnaw"
+            },
+            {
+              "front": "I will cherish autumn memories",
+              "back": "akong higugmaon ang mga panumduman sa tingdagdag"
+            },
+            {
+              "front": "He will prefer winter weather",
+              "back": "mas gusto niya ang panahon sa tingtugnaw"
+            },
+            {
+              "front": "She will adore spring mornings",
+              "back": "siya mosimba sa mga buntag sa tingpamulak"
+            },
+            {
+              "front": "They will hate summer heat",
+              "back": "sila magdumot sa kainit sa ting-init"
+            },
+            {
+              "front": "We will enjoy autumn walks",
+              "back": "malingaw mi sa autumn walks"
+            },
+            {
+              "front": "You will love spring days",
+              "back": "mahigugma ka sa mga adlaw sa tingpamulak"
+            },
+            {
+              "front": "He will cherish summer nights",
+              "back": "iyang higugmaon ang mga gabii sa ting-init"
+            },
+            {
+              "front": "She will prefer autumn leaves",
+              "back": "mas gusto niya ang mga dahon sa tingdagdag"
+            },
+            {
+              "front": "They will adore winter nights",
+              "back": "sila mosimba sa mga gabii sa tingtugnaw"
+            },
+            {
+              "front": "I will admire spring growth",
+              "back": "makadayeg ko sa pagtubo sa tingpamulak"
+            },
+            {
+              "front": "We will hate autumn rains",
+              "back": "dumtan namo ang ulan sa tinghunlak"
+            },
+            {
+              "front": "You will appreciate winter beauty",
+              "back": "maapresyar nimo ang katahum sa tingtugnaw"
+            },
+            {
+              "front": "He will enjoy spring showers",
+              "back": "malingaw siya sa mga ulan sa tingpamulak"
+            },
+            {
+              "front": "She will cherish summer vacations",
+              "back": "iyang gimahal ang mga bakasyon sa ting-init"
+            },
+            {
+              "front": "They will prefer spring growth",
+              "back": "mas gusto nila ang pagtubo sa tingpamulak"
+            },
+            {
+              "front": "I will adore autumn colors",
+              "back": "Ganahan ko sa mga kolor sa tingdagdag"
+            },
+            {
+              "front": "You will hate spring warmth",
+              "back": "ikaw magadumot sa kainit sa tingpamulak"
+            },
+            {
+              "front": "Everyone will love winter nights",
+              "back": "ang tanan mahigugma sa mga gabii sa tingtugnaw"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will love summer warm evenings",
+              "back": "Ganahan ko sa mainit nga mga gabii sa ting-init"
+            },
+            {
+              "front": "He will enjoy autumn colorful leaves",
+              "back": "malingaw siya sa mabulukon nga mga dahon sa tingdagdag"
+            },
+            {
+              "front": "She will hate winter cold weather",
+              "back": "dumtan niya ang bugnaw nga panahon sa tingtugnaw"
+            },
+            {
+              "front": "They will appreciate spring blooming colorful flowers",
+              "back": "maapresyar nila ang tingpamulak nga namulak nga mabulukon nga mga bulak"
+            },
+            {
+              "front": "We will prefer summer sunny bright days",
+              "back": "mas palabihon nato ang ting-init nga mahayag nga mga adlaw"
+            },
+            {
+              "front": "You will admire autumn vibrant colors",
+              "back": "ikaw makadayeg sa tingdagdag vibrant kolor"
+            },
+            {
+              "front": "Everyone will love spring beautiful flowers",
+              "back": "ang tanan mahigugma sa matahum nga mga bulak sa tingpamulak"
+            },
+            {
+              "front": "Nobody will enjoy winter freezing nights",
+              "back": "walay malingaw sa tingtugnaw nga nagyelo nga mga gabii"
+            },
+            {
+              "front": "I will cherish autumn warm memories",
+              "back": "ampingan ko ang mainit nga mga handumanan sa tingdagdag"
+            },
+            {
+              "front": "He will prefer winter snowy weather",
+              "back": "mas gusto niya ang winter snowy weather"
+            },
+            {
+              "front": "She will adore spring fresh blossoms",
+              "back": "siya mosimba sa bag-ong mga bulak sa tingpamulak"
+            },
+            {
+              "front": "They will hate summer intense heat",
+              "back": "sila magdumot sa ting-init grabe nga kainit"
+            },
+            {
+              "front": "We will enjoy autumn peaceful walks",
+              "back": "malingaw mi sa tingdagdag nga malinawon nga mga lakaw"
+            },
+            {
+              "front": "You will love spring bright days",
+              "back": "mahigugma ka sa mahayag nga mga adlaw sa tingpamulak"
+            },
+            {
+              "front": "He will cherish summer fun nights",
+              "back": "iyang higugmaon ang mga gabii nga makalingaw sa ting-init"
+            },
+            {
+              "front": "She will prefer autumn colorful leaves",
+              "back": "mas gusto niya ang mabulukon nga mga dahon sa tingdagdag"
+            },
+            {
+              "front": "They will adore winter chilly nights",
+              "back": "sila mosimba sa tingtugnaw tugnaw nga mga gabii"
+            },
+            {
+              "front": "I will admire spring new growth",
+              "back": "makadayeg ko sa bag-ong pagtubo sa tingpamulak"
+            },
+            {
+              "front": "We will hate autumn heavy rains",
+              "back": "dumtan namo ang kusog nga ulan sa tingdagdag"
+            },
+            {
+              "front": "You will appreciate winter beautiful scenery",
+              "back": "maapresyar nimo ang nindot nga talan-awon sa tingtugnaw"
+            },
+            {
+              "front": "He will enjoy spring gentle showers",
+              "back": "matagamtam niya ang malumo nga ulan sa tingpamulak"
+            },
+            {
+              "front": "She will cherish summer relaxing vacations",
+              "back": "iyang mahalon ang summer relaxing vacations"
+            },
+            {
+              "front": "They will prefer spring vibrant growth",
+              "back": "mas gusto nila ang tingpamulak nga kusog nga pagtubo"
+            },
+            {
+              "front": "I will adore autumn golden colors",
+              "back": "Ganahan ko sa mga kolor nga bulawan sa tingdagdag"
+            },
+            {
+              "front": "You will hate spring warm weather",
+              "back": "dili ka magdumot sa ting-init sa tingpamulak"
+            },
+            {
+              "front": "We will love winter peaceful nights",
+              "back": "higugmaon nato ang malinawon nga mga gabii sa tingtugnaw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

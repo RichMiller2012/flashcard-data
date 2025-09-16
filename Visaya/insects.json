@@ -1,0 +1,1600 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Insects",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Ant",
+              "back": "sa"
+            },
+            {
+              "front": "Bee",
+              "back": "buyog"
+            },
+            {
+              "front": "Beetle",
+              "back": "bakukang"
+            },
+            {
+              "front": "Butterfly",
+              "back": "alibangbang"
+            },
+            {
+              "front": "Moth",
+              "back": "tangkob"
+            },
+            {
+              "front": "Fly",
+              "back": "molupad"
+            },
+            {
+              "front": "Mosquito",
+              "back": "lamok"
+            },
+            {
+              "front": "Grasshopper",
+              "back": "apan"
+            },
+            {
+              "front": "Cricket",
+              "back": "kuliglig"
+            },
+            {
+              "front": "Ladybug",
+              "back": "ladybug"
+            },
+            {
+              "front": "Wasp",
+              "back": "tam-is"
+            },
+            {
+              "front": "Dragonfly",
+              "back": "alibangbang"
+            },
+            {
+              "front": "Spider",
+              "back": "kaka"
+            },
+            {
+              "front": "Termite",
+              "back": "anay"
+            },
+            {
+              "front": "Flea",
+              "back": "pulgas"
+            },
+            {
+              "front": "Tick",
+              "back": "tiktik"
+            },
+            {
+              "front": "Cockroach",
+              "back": "uk-ok"
+            },
+            {
+              "front": "Firefly",
+              "back": "alitaptap"
+            },
+            {
+              "front": "Caterpillar",
+              "back": "ulod"
+            },
+            {
+              "front": "Earwig",
+              "back": "earwig"
+            },
+            {
+              "front": "Centipede",
+              "back": "mga alipihan"
+            },
+            {
+              "front": "Millipede",
+              "back": "millipede"
+            },
+            {
+              "front": "Scarab",
+              "back": "scarab"
+            },
+            {
+              "front": "Praying mantis",
+              "back": "nag-ampo nga mantis"
+            },
+            {
+              "front": "Hornet",
+              "back": "tamboanan"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Busy ant",
+              "back": "busy nga hulmigas"
+            },
+            {
+              "front": "Flying bee",
+              "back": "nagalupad nga putyokan"
+            },
+            {
+              "front": "Small beetle",
+              "back": "gamay nga bakukang"
+            },
+            {
+              "front": "Colorful butterfly",
+              "back": "mabulukon nga alibangbang"
+            },
+            {
+              "front": "Nocturnal moth",
+              "back": "nocturnal moth"
+            },
+            {
+              "front": "Annoying fly",
+              "back": "makalagot nga langaw"
+            },
+            {
+              "front": "Buzzing mosquito",
+              "back": "nagsaba nga lamok"
+            },
+            {
+              "front": "Jumping grasshopper",
+              "back": "paglukso apan"
+            },
+            {
+              "front": "Loud cricket",
+              "back": "kusog nga kuliglig"
+            },
+            {
+              "front": "Spotted ladybug",
+              "back": "nakita nga ladybug"
+            },
+            {
+              "front": "Aggressive wasp",
+              "back": "agresibo nga tambuboan"
+            },
+            {
+              "front": "Fast dragonfly",
+              "back": "paspas nga alibangbang"
+            },
+            {
+              "front": "Creepy spider",
+              "back": "makalilisang nga lawalawa"
+            },
+            {
+              "front": "Destructive termite",
+              "back": "makadaut nga anay"
+            },
+            {
+              "front": "Tiny flea",
+              "back": "gamay nga pulgas"
+            },
+            {
+              "front": "Dangerous tick",
+              "back": "delikado nga tiktik"
+            },
+            {
+              "front": "Dirty cockroach",
+              "back": "hugaw nga uk-ok"
+            },
+            {
+              "front": "Glowing firefly",
+              "back": "nagdan-ag nga alitaptap"
+            },
+            {
+              "front": "Hungry caterpillar",
+              "back": "gutom nga ulod"
+            },
+            {
+              "front": "Sharp earwig",
+              "back": "hait nga earwig"
+            },
+            {
+              "front": "Crawling centipede",
+              "back": "nagkamang alipihan"
+            },
+            {
+              "front": "Long millipede",
+              "back": "taas nga millipede"
+            },
+            {
+              "front": "Sacred scarab",
+              "back": "sagrado nga scarab"
+            },
+            {
+              "front": "Praying mantis",
+              "back": "nag-ampo nga mantis"
+            },
+            {
+              "front": "Fierce hornet",
+              "back": "mabangis nga trumpeta"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "The ant works",
+              "back": "nagtrabaho ang hulmigas"
+            },
+            {
+              "front": "A bee flies",
+              "back": "usa ka buyog nga molupad"
+            },
+            {
+              "front": "Small beetle crawls",
+              "back": "gamay nga bakukang nagakamang"
+            },
+            {
+              "front": "Colorful butterfly flutters",
+              "back": "mabulukon nga alibangbang nga naglupadlupad"
+            },
+            {
+              "front": "Moth seeks light",
+              "back": "ang anunugba nangitag kahayag"
+            },
+            {
+              "front": "Fly buzzes around",
+              "back": "mga langaw sa palibot"
+            },
+            {
+              "front": "Mosquito bites skin",
+              "back": "mopaak sa panit ang lamok"
+            },
+            {
+              "front": "Grasshopper jumps high",
+              "back": "ang apan molukso sa taas"
+            },
+            {
+              "front": "Cricket chirps loudly",
+              "back": "kusog nga huni sa kuliglig"
+            },
+            {
+              "front": "Ladybug lands gently",
+              "back": "hinay nga yuta ang ladybug"
+            },
+            {
+              "front": "Wasp stings hard",
+              "back": "kusog nga mopaak ang tambuboan"
+            },
+            {
+              "front": "Dragonfly flies fast",
+              "back": "paspas nga molupad ang alibangbang"
+            },
+            {
+              "front": "Spider spins web",
+              "back": "spider nagtuyok web"
+            },
+            {
+              "front": "Termite eats wood",
+              "back": "anay mokaon ug kahoy"
+            },
+            {
+              "front": "Flea jumps quickly",
+              "back": "Ang pulgas dali nga milukso"
+            },
+            {
+              "front": "Tick hides silently",
+              "back": "hilom nagtago si tick"
+            },
+            {
+              "front": "Cockroach runs fast",
+              "back": "kusog ang dagan sa uk-ok"
+            },
+            {
+              "front": "Firefly glows brightly",
+              "back": "ang alitaptap nagdan-ag nga hayag"
+            },
+            {
+              "front": "Caterpillar slowly crawls",
+              "back": "hantaod hinay nga nagkamang"
+            },
+            {
+              "front": "Earwig hides underground",
+              "back": "earwig nagtago sa ilawom sa yuta"
+            },
+            {
+              "front": "Centipede moves rapidly",
+              "back": "paspas nga naglihok ang centipede"
+            },
+            {
+              "front": "Millipede crawls slowly",
+              "back": "hinay nga mikamang ang millipede"
+            },
+            {
+              "front": "Scarab rolls dirt",
+              "back": "scarab roll hugaw"
+            },
+            {
+              "front": "Mantis hunts prey",
+              "back": "ang mantis nangitag tukbonon"
+            },
+            {
+              "front": "Hornet flies aggressively",
+              "back": "agresibo nga molupad ang trumpeta"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The ant carries food",
+              "back": "ang hulmigas nagdalag pagkaon"
+            },
+            {
+              "front": "A bee makes honey",
+              "back": "usa ka putyukan naghimo og dugos"
+            },
+            {
+              "front": "Small beetle crawls slowly",
+              "back": "ang gamay nga bakukang hinay nga nagakamang"
+            },
+            {
+              "front": "Colorful butterfly flutters gracefully",
+              "back": "mabulukon nga alibangbang nga nindot kaayong molupad"
+            },
+            {
+              "front": "The moth flies around",
+              "back": "naglupadlupad ang anunugba"
+            },
+            {
+              "front": "Fly lands on table",
+              "back": "langaw mitugpa sa lamesa"
+            },
+            {
+              "front": "Mosquito bites your arm",
+              "back": "mopaak sa imong bukton ang lamok"
+            },
+            {
+              "front": "Grasshopper jumps very high",
+              "back": "ang apan-ambak taas kaayo"
+            },
+            {
+              "front": "Cricket sings at night",
+              "back": "ang kuliglig mokanta sa gabii"
+            },
+            {
+              "front": "Ladybug crawls on leaf",
+              "back": "ladybug nagakamang sa dahon"
+            },
+            {
+              "front": "Wasp stings the intruder",
+              "back": "ang tambuboan mopaak sa manunulong"
+            },
+            {
+              "front": "Dragonfly flies very fast",
+              "back": "kusog kaayong molupad ang alibangbang"
+            },
+            {
+              "front": "Spider weaves a web",
+              "back": "spider naghabol sa usa ka web"
+            },
+            {
+              "front": "Termite destroys wooden furniture",
+              "back": "giguba sa anay ang mga muwebles nga kahoy"
+            },
+            {
+              "front": "The flea jumps quickly",
+              "back": "paspas nga molukso ang pulgas"
+            },
+            {
+              "front": "Tick hides on animals",
+              "back": "tiktik nagtago sa mga mananap"
+            },
+            {
+              "front": "Cockroach runs under furniture",
+              "back": "uk-ok midagan ubos sa muwebles"
+            },
+            {
+              "front": "Firefly lights up night",
+              "back": "alitaptap nagdan-ag sa gabii"
+            },
+            {
+              "front": "Caterpillar crawls on branches",
+              "back": "ulod nagakamang sa mga sanga"
+            },
+            {
+              "front": "Earwig hides in soil",
+              "back": "earwig nagtago sa yuta"
+            },
+            {
+              "front": "Centipede crawls very fast",
+              "back": "kusog kaayong mokamang ang alipihan"
+            },
+            {
+              "front": "Millipede moves very slowly",
+              "back": "hinay kaayo ang paglihok sa millipede"
+            },
+            {
+              "front": "Scarab rolls dirt balls",
+              "back": "Ang scarab nagligid sa mga bola nga hugaw"
+            },
+            {
+              "front": "Mantis catches its prey",
+              "back": "ang mantis modakop sa iyang tukbonon"
+            },
+            {
+              "front": "Hornet flies near flowers",
+              "back": "tamboanan molupad duol sa mga bulak"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The ant works very hard",
+              "back": "kugihan kaayo ang hulmigas"
+            },
+            {
+              "front": "A bee gathers nectar daily",
+              "back": "ang usa ka putyokan nagakuha ug nectar kada adlaw"
+            },
+            {
+              "front": "Small beetle crawls on leaves",
+              "back": "gamay nga bakukang nagakamang sa mga dahon"
+            },
+            {
+              "front": "Colorful butterfly flutters over flowers",
+              "back": "mabulukon nga alibangbang naglupadlupad ibabaw sa mga bulak"
+            },
+            {
+              "front": "The moth flies near lights",
+              "back": "ang anunugba molupad duol sa mga suga"
+            },
+            {
+              "front": "Fly buzzes around the kitchen",
+              "back": "mga langaw sa palibot sa kusina"
+            },
+            {
+              "front": "Mosquito bites in the evening",
+              "back": "mopaak sa lamok sa gabii"
+            },
+            {
+              "front": "Grasshopper jumps across the garden",
+              "back": "ang apan milambo sa tanaman"
+            },
+            {
+              "front": "Cricket sings loudly at night",
+              "back": "kusog nga mokanta ang kuliglig sa gabii"
+            },
+            {
+              "front": "Ladybug lands softly on leaf",
+              "back": "Ang ladybug hinay nga mitugpa sa dahon"
+            },
+            {
+              "front": "Wasp stings when it feels threatened",
+              "back": "ang tambuboan mopaak kung kini gibati nga gihulga"
+            },
+            {
+              "front": "Dragonfly flies quickly over water",
+              "back": "ang alibangbang dali nga molupad ibabaw sa tubig"
+            },
+            {
+              "front": "Spider weaves intricate webs daily",
+              "back": "Ang lawalawa maghabol ug makuti nga mga web matag adlaw"
+            },
+            {
+              "front": "Termite damages wood very easily",
+              "back": "Ang anay dali kaayong makadaot sa kahoy"
+            },
+            {
+              "front": "The flea jumps on animals",
+              "back": "ang pulgas molukso sa mga mananap"
+            },
+            {
+              "front": "Tick hides on dogs' fur",
+              "back": "tiktik nagtago sa balhibo sa iro"
+            },
+            {
+              "front": "Cockroach hides in dark corners",
+              "back": "ang uk-ok nagtago sa mangitngit nga mga suok"
+            },
+            {
+              "front": "Firefly glows brightly at night",
+              "back": "ang alitaptap modan-ag sa gabii"
+            },
+            {
+              "front": "Caterpillar eats leaves on branches",
+              "back": "Ang ulod mokaon ug dahon sa mga sanga"
+            },
+            {
+              "front": "Earwig burrows deep into soil",
+              "back": "Ang earwig nalubong sa lawom nga yuta"
+            },
+            {
+              "front": "Centipede crawls very quickly indoors",
+              "back": "dali kaayong mokamang ang centipede sulod sa balay"
+            },
+            {
+              "front": "Millipede moves slowly through grass",
+              "back": "Ang millipede hinay nga molihok pinaagi sa sagbot"
+            },
+            {
+              "front": "Scarab rolls dirt in the sand",
+              "back": "Ang scarab nagligid ug hugaw sa balas"
+            },
+            {
+              "front": "Mantis waits patiently for prey",
+              "back": "Ang mantis mapailubon nga naghulat alang sa tukbonon"
+            },
+            {
+              "front": "Hornet flies aggressively near nests",
+              "back": "agresibo nga molupad ang trumpeta duol sa mga salag"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The ant carries food to nest",
+              "back": "ang hulmigas nagdala ug pagkaon ngadto sa salag"
+            },
+            {
+              "front": "A bee gathers nectar from flowers",
+              "back": "ang usa ka putyokan nagakuha ug nectar gikan sa mga bulak"
+            },
+            {
+              "front": "Small beetle crawls across the ground",
+              "back": "gamay nga bakukang nagakamang sa yuta"
+            },
+            {
+              "front": "Colorful butterfly flutters above the garden",
+              "back": "mabulukon nga alibangbang naglupadlupad ibabaw sa tanaman"
+            },
+            {
+              "front": "The moth flies toward the light",
+              "back": "ang tangkob molupad paingon sa kahayag"
+            },
+            {
+              "front": "Fly buzzes around the food table",
+              "back": "mga langaw sa palibot sa lamesa sa pagkaon"
+            },
+            {
+              "front": "Mosquito bites skin during the night",
+              "back": "ang lamok mopaak sa panit panahon sa kagabhion"
+            },
+            {
+              "front": "Grasshopper jumps high across the grass",
+              "back": "ang dulon milukso ug taas sa balili"
+            },
+            {
+              "front": "Cricket sings loudly under the stars",
+              "back": "kusog nga nag-awit ang kuliglig ilalom sa mga bituon"
+            },
+            {
+              "front": "Ladybug rests gently on a leaf",
+              "back": "Ang ladybug hinay nga nagpahulay sa usa ka dahon"
+            },
+            {
+              "front": "Wasp stings when it feels threatened",
+              "back": "ang tambuboan mopaak kung kini gibati nga gihulga"
+            },
+            {
+              "front": "Dragonfly hovers quickly above the pond",
+              "back": "ang tutunlan paspas nga molupad ibabaw sa lim-aw"
+            },
+            {
+              "front": "Spider spins a web in corners",
+              "back": "spider nagtuyok sa usa ka web sa mga suok"
+            },
+            {
+              "front": "Termite damages wood in old houses",
+              "back": "anay nagdaot sa kahoy sa karaang mga balay"
+            },
+            {
+              "front": "The flea jumps onto the dog",
+              "back": "ang pulgas moambak sa iro"
+            },
+            {
+              "front": "Tick hides on the dog's fur",
+              "back": "tiktik nagtago sa balhibo sa iro"
+            },
+            {
+              "front": "Cockroach scurries fast across the floor",
+              "back": "Ang uk-ok kusog nga midagan sa salog"
+            },
+            {
+              "front": "Firefly glows brightly in the dark",
+              "back": "ang alitaptap modan-ag sa kangitngit"
+            },
+            {
+              "front": "Caterpillar munches on leaves in trees",
+              "back": "hantatalo nga mikaon sa mga dahon sa mga kahoy"
+            },
+            {
+              "front": "Earwig hides under rocks and soil",
+              "back": "earwig nagtago sa ilawom sa mga bato ug yuta"
+            },
+            {
+              "front": "Centipede moves quickly across the ground",
+              "back": "ang centipede dali nga molihok sa yuta"
+            },
+            {
+              "front": "Millipede crawls slowly through the garden",
+              "back": "Ang millipede hinay nga nagakamang sa tanaman"
+            },
+            {
+              "front": "Scarab rolls dirt into large balls",
+              "back": "Ang scarab nagligid sa hugaw ngadto sa dagkong mga bola"
+            },
+            {
+              "front": "Mantis waits silently for its prey",
+              "back": "Ang mantis hilom nga naghulat sa iyang tukbonon"
+            },
+            {
+              "front": "Hornet flies near flowers and trees",
+              "back": "tamboanan molupad duol sa mga bulak ug mga kahoy"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Ant carried",
+              "back": "hulmigas gidala"
+            },
+            {
+              "front": "Bee buzzed",
+              "back": "buyog nga nagsaba-saba"
+            },
+            {
+              "front": "Beetle crawled",
+              "back": "nikamang ang bakukang"
+            },
+            {
+              "front": "Butterfly fluttered",
+              "back": "alibangbang milupad"
+            },
+            {
+              "front": "Moth flew",
+              "back": "nilupad ang tangkob"
+            },
+            {
+              "front": "Fly buzzed",
+              "back": "langaw nagsaba"
+            },
+            {
+              "front": "Mosquito bit",
+              "back": "gat sa lamok"
+            },
+            {
+              "front": "Grasshopper jumped",
+              "back": "nilukso ang apan"
+            },
+            {
+              "front": "Cricket chirped",
+              "back": "huni sa kuliglig"
+            },
+            {
+              "front": "Ladybug landed",
+              "back": "nitugpa ang ladybug"
+            },
+            {
+              "front": "Wasp stung",
+              "back": "gipaak ang tambuboan"
+            },
+            {
+              "front": "Dragonfly hovered",
+              "back": "nilupad ang alibangbang"
+            },
+            {
+              "front": "Spider spun",
+              "back": "nagtuyok sa kaka"
+            },
+            {
+              "front": "Termite destroyed",
+              "back": "naguba ang anay"
+            },
+            {
+              "front": "Flea jumped",
+              "back": "milukso ang pulgas"
+            },
+            {
+              "front": "Tick hid",
+              "back": "gitagoan sa tik"
+            },
+            {
+              "front": "Cockroach scurried",
+              "back": "nagkurog ang uk-ok"
+            },
+            {
+              "front": "Firefly glowed",
+              "back": "misiga ang alitaptap"
+            },
+            {
+              "front": "Caterpillar munched",
+              "back": "mikaon ang ulod"
+            },
+            {
+              "front": "Earwig hid",
+              "back": "gitago sa earwig"
+            },
+            {
+              "front": "Centipede moved",
+              "back": "gibalhin ang alipihan"
+            },
+            {
+              "front": "Millipede crawled",
+              "back": "mikamang ang millipede"
+            },
+            {
+              "front": "Scarab rolled",
+              "back": "giligid ang scarab"
+            },
+            {
+              "front": "Mantis caught",
+              "back": "nadakpan ang mantis"
+            },
+            {
+              "front": "Hornet flew",
+              "back": "milupad ang trumpeta"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Ant carried food",
+              "back": "pagkaon nga dala sa hulmigas"
+            },
+            {
+              "front": "Bee gathered nectar",
+              "back": "putyukan nga nakolekta nectar"
+            },
+            {
+              "front": "Beetle crawled away",
+              "back": "nikamang ang bakukang"
+            },
+            {
+              "front": "Butterfly fluttered gently",
+              "back": "ang alibangbang hinay nga milupad"
+            },
+            {
+              "front": "Moth flew inside",
+              "back": "anunugba milupad sa sulod"
+            },
+            {
+              "front": "Fly buzzed loudly",
+              "back": "kusog kaayo ang langaw"
+            },
+            {
+              "front": "Mosquito bit me",
+              "back": "gipaak ko sa lamok"
+            },
+            {
+              "front": "Grasshopper jumped high",
+              "back": "ang apan milukso sa taas"
+            },
+            {
+              "front": "Cricket chirped outside",
+              "back": "huni sa cricket sa gawas"
+            },
+            {
+              "front": "Ladybug landed softly",
+              "back": "hinay nga nitugpa ang ladybug"
+            },
+            {
+              "front": "Wasp stung hard",
+              "back": "wasp natusok pag-ayo"
+            },
+            {
+              "front": "Dragonfly hovered nearby",
+              "back": "ang alibangbang naglupadlupad sa duol"
+            },
+            {
+              "front": "Spider spun webs",
+              "back": "spider spun webs"
+            },
+            {
+              "front": "Termite destroyed wood",
+              "back": "anay naguba nga kahoy"
+            },
+            {
+              "front": "Flea jumped quickly",
+              "back": "pulgas milukso dayon"
+            },
+            {
+              "front": "Tick hid quietly",
+              "back": "hilom nagtago si tick"
+            },
+            {
+              "front": "Cockroach scurried fast",
+              "back": "kusog nga mikurog ang uk-ok"
+            },
+            {
+              "front": "Firefly glowed brightly",
+              "back": "ang alitaptap misidlak pag-ayo"
+            },
+            {
+              "front": "Caterpillar munched leaves",
+              "back": "ulod nanguyap sa mga dahon"
+            },
+            {
+              "front": "Earwig hid underground",
+              "back": "earwig nagtago sa ilawom sa yuta"
+            },
+            {
+              "front": "Centipede moved fast",
+              "back": "paspas nga milihok ang alipihan"
+            },
+            {
+              "front": "Millipede crawled slowly",
+              "back": "hinay nga mikamang ang millipede"
+            },
+            {
+              "front": "Scarab rolled dirt",
+              "back": "scarab nga giligid nga hugaw"
+            },
+            {
+              "front": "Mantis caught prey",
+              "back": "nadakpan ang mantis"
+            },
+            {
+              "front": "Hornet flew aggressively",
+              "back": "agresibo nga milupad ang trumpeta"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The ant carried food",
+              "back": "ang hulmigas nagdalag pagkaon"
+            },
+            {
+              "front": "A bee buzzed loudly",
+              "back": "usa ka putyukan ang kusog nga mibagting"
+            },
+            {
+              "front": "The beetle crawled slowly",
+              "back": "hinay nga mikamang ang bakukang"
+            },
+            {
+              "front": "Butterfly fluttered over flowers",
+              "back": "alibangbang naglupadlupad ibabaw sa mga bulak"
+            },
+            {
+              "front": "The moth flew inside",
+              "back": "milupad ang tangkob sa sulod"
+            },
+            {
+              "front": "Fly buzzed around food",
+              "back": "langaw nga nag-alirong sa pagkaon"
+            },
+            {
+              "front": "Mosquito bit my arm",
+              "back": "gipaak sa lamok akong bukton"
+            },
+            {
+              "front": "Grasshopper jumped very high",
+              "back": "ang apan milukso pag-ayo"
+            },
+            {
+              "front": "Cricket chirped all night",
+              "back": "ang kuliglig mitukar sa tibuok gabii"
+            },
+            {
+              "front": "Ladybug landed on leaf",
+              "back": "ladybug mitugpa sa dahon"
+            },
+            {
+              "front": "Wasp stung my hand",
+              "back": "gidunggab sa wasp akong kamot"
+            },
+            {
+              "front": "Dragonfly hovered near water",
+              "back": "alindanaw naglupadlupad duol sa tubig"
+            },
+            {
+              "front": "Spider spun a web",
+              "back": "spider nagtuyok sa usa ka web"
+            },
+            {
+              "front": "Termite damaged the wood",
+              "back": "anay nakadaot sa kahoy"
+            },
+            {
+              "front": "Flea jumped onto dog",
+              "back": "pulgas milukso sa iro"
+            },
+            {
+              "front": "Tick hid on fur",
+              "back": "gitago ang tik sa balhibo"
+            },
+            {
+              "front": "Cockroach scurried under table",
+              "back": "uk-ok nga nag-uyog sa ilawom sa lamesa"
+            },
+            {
+              "front": "Firefly glowed last night",
+              "back": "nagdan-ag ang alitaptap kagabii"
+            },
+            {
+              "front": "Caterpillar munched on leaves",
+              "back": "hantaod mikaon sa mga dahon"
+            },
+            {
+              "front": "Earwig hid in soil",
+              "back": "earwig gitago sa yuta"
+            },
+            {
+              "front": "Centipede moved very quickly",
+              "back": "dali kaayong milihok ang alipihan"
+            },
+            {
+              "front": "Millipede crawled under rock",
+              "back": "millipede mikamang ilalom sa bato"
+            },
+            {
+              "front": "Scarab rolled dirt balls",
+              "back": "scarab giligid hugaw bola"
+            },
+            {
+              "front": "Mantis caught its prey",
+              "back": "ang mantis nakakuha sa iyang tukbonon"
+            },
+            {
+              "front": "Hornet flew around tree",
+              "back": "Ang tamboanan milupad libot sa kahoy"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The ant carried food home",
+              "back": "ang hulmigas nagdalag pagkaon pauli"
+            },
+            {
+              "front": "A bee buzzed near flowers",
+              "back": "usa ka putyukan nga nag-ungog duol sa mga bulak"
+            },
+            {
+              "front": "The beetle crawled across path",
+              "back": "ang bakukang mikamang sa dalan"
+            },
+            {
+              "front": "Butterfly fluttered over the flowers",
+              "back": "alibangbang naglupadlupad ibabaw sa mga bulak"
+            },
+            {
+              "front": "The moth flew into house",
+              "back": "ang tangkob milupad sa balay"
+            },
+            {
+              "front": "Fly buzzed around the table",
+              "back": "langaw nga nag-alirong sa lamesa"
+            },
+            {
+              "front": "Mosquito bit my leg yesterday",
+              "back": "gipaak sa lamok ang akong bitiis gahapon"
+            },
+            {
+              "front": "Grasshopper jumped very high today",
+              "back": "taas kaayo ang ambak sa apan karon"
+            },
+            {
+              "front": "Cricket chirped loudly all night",
+              "back": "kusog nga huni sa kuliglig tibuok gabii"
+            },
+            {
+              "front": "Ladybug landed softly on leaves",
+              "back": "Ang ladybug hinay nga mitugpa sa mga dahon"
+            },
+            {
+              "front": "Wasp stung him on hand",
+              "back": "gidunggab siya sa tambuboan"
+            },
+            {
+              "front": "Dragonfly hovered above the water",
+              "back": "alindanaw naglupadlupad ibabaw sa tubig"
+            },
+            {
+              "front": "Spider spun its web quietly",
+              "back": "Hilom nga nagtuyok ang balay sa lawalawa"
+            },
+            {
+              "front": "Termite damaged wood in house",
+              "back": "anay naguba nga kahoy sa balay"
+            },
+            {
+              "front": "Flea jumped onto the dog",
+              "back": "pulgas milukso sa iro"
+            },
+            {
+              "front": "Tick hid on animal's skin",
+              "back": "gitago ang tik sa panit sa hayop"
+            },
+            {
+              "front": "Cockroach scurried under the table",
+              "back": "uk-ok nga nag-uwang sa ilawom sa lamesa"
+            },
+            {
+              "front": "Firefly glowed brightly at night",
+              "back": "ang alitaptap nagdan-ag sa kagabhion"
+            },
+            {
+              "front": "Caterpillar munched on green leaves",
+              "back": "hantaod mikaon sa berdeng dahon"
+            },
+            {
+              "front": "Earwig hid deep in soil",
+              "back": "Ang earwig nagtago sa lawom nga yuta"
+            },
+            {
+              "front": "Centipede moved quickly yesterday",
+              "back": "daling milihok ang alipihan kagahapon"
+            },
+            {
+              "front": "Millipede crawled under a rock",
+              "back": "millipede mikamang ilawom sa bato"
+            },
+            {
+              "front": "Scarab rolled dirt on path",
+              "back": "scarab giligid hugaw sa dalan"
+            },
+            {
+              "front": "Mantis caught its prey quickly",
+              "back": "Ang mantis dali nga nakakuha sa iyang biktima"
+            },
+            {
+              "front": "Hornet flew around the tree",
+              "back": "Ang tamboanan milupad libot sa kahoy"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The ant carried food home",
+              "back": "ang hulmigas nagdalag pagkaon pauli"
+            },
+            {
+              "front": "A bee buzzed near the flowers",
+              "back": "usa ka putyukan ang nag-ungog duol sa mga bulak"
+            },
+            {
+              "front": "The beetle crawled across the path",
+              "back": "ang bakukang mikamang sa dalan"
+            },
+            {
+              "front": "Butterfly fluttered over colorful flowers",
+              "back": "alibangbang naglupadlupad ibabaw sa mabulukon nga mga bulak"
+            },
+            {
+              "front": "The moth flew into the house",
+              "back": "nilupad ang tangkob sa balay"
+            },
+            {
+              "front": "Fly buzzed around the kitchen table",
+              "back": "langaw nga nag-alirong sa lamesa sa kusina"
+            },
+            {
+              "front": "Mosquito bit my leg yesterday",
+              "back": "gipaak sa lamok ang akong bitiis gahapon"
+            },
+            {
+              "front": "Grasshopper jumped very high today",
+              "back": "taas kaayo ang ambak sa apan karon"
+            },
+            {
+              "front": "Cricket chirped loudly all night",
+              "back": "kusog nga huni sa kuliglig tibuok gabii"
+            },
+            {
+              "front": "Ladybug landed softly on leaves",
+              "back": "Ang ladybug hinay nga mitugpa sa mga dahon"
+            },
+            {
+              "front": "Wasp stung him on the hand",
+              "back": "gidunggab siya sa tambuboan sa kamot"
+            },
+            {
+              "front": "Dragonfly hovered quickly above water",
+              "back": "ang tutunlan daling milupad ibabaw sa tubig"
+            },
+            {
+              "front": "Spider spun its web quietly",
+              "back": "Hilom nga nagtuyok ang balay sa lawalawa"
+            },
+            {
+              "front": "Termite damaged wood in the house",
+              "back": "anay naguba nga kahoy sa balay"
+            },
+            {
+              "front": "Flea jumped onto the dog's fur",
+              "back": "ang pulgas milukso sa balhibo sa iro"
+            },
+            {
+              "front": "Tick hid on the animal's skin",
+              "back": "gitago ang tik sa panit sa mananap"
+            },
+            {
+              "front": "Cockroach scurried fast under the table",
+              "back": "Paspas nga mikuso-kuso ang uk-ok ilawom sa lamesa"
+            },
+            {
+              "front": "Firefly glowed brightly during the night",
+              "back": "ang alitaptap nagdan-ag nga hayag panahon sa kagabhion"
+            },
+            {
+              "front": "Caterpillar munched on green leaves",
+              "back": "hantaod mikaon sa berdeng dahon"
+            },
+            {
+              "front": "Earwig hid deep in the soil",
+              "back": "earwig mitago sa lawom nga sa yuta"
+            },
+            {
+              "front": "Centipede moved very quickly yesterday",
+              "back": "dali kaayong milihok ang alipihan kagahapon"
+            },
+            {
+              "front": "Millipede crawled slowly under a rock",
+              "back": "Ang millipede hinay nga mikamang ilalom sa bato"
+            },
+            {
+              "front": "Scarab rolled dirt along the path",
+              "back": "scarab giligid hugaw sa daplin sa dalan"
+            },
+            {
+              "front": "Mantis caught its prey quickly",
+              "back": "Ang mantis dali nga nakakuha sa iyang biktima"
+            },
+            {
+              "front": "Hornet flew aggressively around the tree",
+              "back": "agresibong milupad ang trumpeta libot sa kahoy"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Ant will carry",
+              "back": "hulmigas magdala"
+            },
+            {
+              "front": "Bee will buzz",
+              "back": "putyukan motingog"
+            },
+            {
+              "front": "Beetle will crawl",
+              "back": "bakukang mokamang"
+            },
+            {
+              "front": "Butterfly will flutter",
+              "back": "alibangbang molupad"
+            },
+            {
+              "front": "Moth will fly",
+              "back": "molupad ang anunugba"
+            },
+            {
+              "front": "Fly will buzz",
+              "back": "modangop ang langaw"
+            },
+            {
+              "front": "Mosquito will bite",
+              "back": "mopaak ang lamok"
+            },
+            {
+              "front": "Grasshopper will jump",
+              "back": "molukso ang dulon"
+            },
+            {
+              "front": "Cricket will chirp",
+              "back": "motingog ang kuliglig"
+            },
+            {
+              "front": "Ladybug will land",
+              "back": "ladybug motugpa"
+            },
+            {
+              "front": "Wasp will sting",
+              "back": "mopaak ang tambuboan"
+            },
+            {
+              "front": "Dragonfly will hover",
+              "back": "molupad ang alibangbang"
+            },
+            {
+              "front": "Spider will spin",
+              "back": "magtuyok ang lawalawa"
+            },
+            {
+              "front": "Termite will destroy",
+              "back": "maguba ang anay"
+            },
+            {
+              "front": "Flea will jump",
+              "back": "molukso ang pulgas"
+            },
+            {
+              "front": "Tick will hide",
+              "back": "tiktik magtago"
+            },
+            {
+              "front": "Cockroach will scurry",
+              "back": "uk-ok nga magkurog"
+            },
+            {
+              "front": "Firefly will glow",
+              "back": "mosiga ang alitaptap"
+            },
+            {
+              "front": "Caterpillar will munch",
+              "back": "ang ulod mokaon"
+            },
+            {
+              "front": "Earwig will hide",
+              "back": "earwig magtago"
+            },
+            {
+              "front": "Centipede will move",
+              "back": "mulihok ang alipihan"
+            },
+            {
+              "front": "Millipede will crawl",
+              "back": "millipede mokamang"
+            },
+            {
+              "front": "Scarab will roll",
+              "back": "magligid ang scarab"
+            },
+            {
+              "front": "Mantis will catch",
+              "back": "madakpan ang mantis"
+            },
+            {
+              "front": "Hornet will fly",
+              "back": "molupad ang trumpeta"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The ant will carry food",
+              "back": "ang hulmigas magdala ug pagkaon"
+            },
+            {
+              "front": "A bee will gather nectar",
+              "back": "usa ka putyukan magkuha ug dugos"
+            },
+            {
+              "front": "The beetle will crawl away",
+              "back": "ang bakukang mokamang"
+            },
+            {
+              "front": "Butterfly will flutter over flowers",
+              "back": "alibangbang molupad sa ibabaw sa mga bulak"
+            },
+            {
+              "front": "The moth will fly inside",
+              "back": "molupad ang tangkob sa sulod"
+            },
+            {
+              "front": "Fly will buzz near table",
+              "back": "Ang langaw mosaba duol sa lamesa"
+            },
+            {
+              "front": "Mosquito will bite your arm",
+              "back": "mopaak sa imong bukton ang lamok"
+            },
+            {
+              "front": "Grasshopper will jump very high",
+              "back": "ang apan molukso pag-ayo"
+            },
+            {
+              "front": "Cricket will chirp at night",
+              "back": "ang kuliglig mosinggit sa gabii"
+            },
+            {
+              "front": "Ladybug will land on leaf",
+              "back": "ladybug motugpa sa dahon"
+            },
+            {
+              "front": "Wasp will sting the intruder",
+              "back": "ang tambuboan mopaak sa manunulong"
+            },
+            {
+              "front": "Dragonfly will hover over water",
+              "back": "ang tutunlan molupad ibabaw sa tubig"
+            },
+            {
+              "front": "Spider will spin its web",
+              "back": "kaka magtuyok sa iyang balay"
+            },
+            {
+              "front": "Termite will damage the wood",
+              "back": "ang anay makadaot sa kahoy"
+            },
+            {
+              "front": "Flea will jump on dog",
+              "back": "pulgas ambak sa iro"
+            },
+            {
+              "front": "Tick will hide in fur",
+              "back": "ang tik motago sa balhibo"
+            },
+            {
+              "front": "Cockroach will scurry under table",
+              "back": "ang uk-ok mag-ilog sa ilawom sa lamesa"
+            },
+            {
+              "front": "Firefly will glow at night",
+              "back": "ang alitaptap modan-ag sa gabii"
+            },
+            {
+              "front": "Caterpillar will munch on leaves",
+              "back": "ang ulod mokaon sa mga dahon"
+            },
+            {
+              "front": "Earwig will hide in soil",
+              "back": "earwig magtago sa yuta"
+            },
+            {
+              "front": "Centipede will move very quickly",
+              "back": "dali ra kaayo molihok ang alipihan"
+            },
+            {
+              "front": "Millipede will crawl under rock",
+              "back": "millipede mokamang ilalom sa bato"
+            },
+            {
+              "front": "Scarab will roll dirt balls",
+              "back": "Ang scarab moligid sa mga bola sa hugaw"
+            },
+            {
+              "front": "Mantis will catch its prey",
+              "back": "ang mantis modakop sa iyang tukbonon"
+            },
+            {
+              "front": "Hornet will fly near flowers",
+              "back": "molupad ang tambobo duol sa mga bulak"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The ant will carry food",
+              "back": "ang hulmigas magdala ug pagkaon"
+            },
+            {
+              "front": "A bee will gather nectar",
+              "back": "usa ka putyukan magkuha ug dugos"
+            },
+            {
+              "front": "The beetle will crawl away",
+              "back": "ang bakukang mokamang"
+            },
+            {
+              "front": "Butterfly will flutter over",
+              "back": "alibangbang molupad sa ibabaw"
+            },
+            {
+              "front": "The moth will fly inside",
+              "back": "molupad ang anunugba sa sulod"
+            },
+            {
+              "front": "Fly will buzz near table",
+              "back": "Ang langaw mosaba duol sa lamesa"
+            },
+            {
+              "front": "Mosquito will bite your arm",
+              "back": "mopaak sa imong bukton ang lamok"
+            },
+            {
+              "front": "Grasshopper will jump very high",
+              "back": "ang apan molukso pag-ayo"
+            },
+            {
+              "front": "Cricket will chirp at night",
+              "back": "ang kuliglig mosinggit sa gabii"
+            },
+            {
+              "front": "Ladybug will land on leaf",
+              "back": "ladybug motugpa sa dahon"
+            },
+            {
+              "front": "Wasp will sting the intruder",
+              "back": "ang tambuboan mopaak sa manunulong"
+            },
+            {
+              "front": "Dragonfly will hover over water",
+              "back": "ang tutunlan molupad ibabaw sa tubig"
+            },
+            {
+              "front": "Spider will spin its web",
+              "back": "kaka magtuyok sa iyang balay"
+            },
+            {
+              "front": "Termite will damage the wood",
+              "back": "ang anay makadaot sa kahoy"
+            },
+            {
+              "front": "Flea will jump on dog",
+              "back": "pulgas moambak sa iro"
+            },
+            {
+              "front": "Tick will hide in fur",
+              "back": "ang tik motago sa balhibo"
+            },
+            {
+              "front": "Cockroach will scurry under table",
+              "back": "Ang uk-ok molupad sa ilawom sa lamesa"
+            },
+            {
+              "front": "Firefly will glow at night",
+              "back": "ang alitaptap modan-ag sa gabii"
+            },
+            {
+              "front": "Caterpillar will munch on leaves",
+              "back": "ang ulod mangaon sa mga dahon"
+            },
+            {
+              "front": "Earwig will hide in soil",
+              "back": "earwig magtago sa yuta"
+            },
+            {
+              "front": "Centipede will move very quickly",
+              "back": "dali ra kaayo molihok ang alipihan"
+            },
+            {
+              "front": "Millipede will crawl under rock",
+              "back": "millipede mokamang ilalom sa bato"
+            },
+            {
+              "front": "Scarab will roll dirt balls",
+              "back": "Ang scarab moligid sa mga bola sa hugaw"
+            },
+            {
+              "front": "Mantis will catch its prey",
+              "back": "ang mantis modakop sa iyang tukbonon"
+            },
+            {
+              "front": "Hornet will fly near flowers",
+              "back": "molupad ang tambobo duol sa mga bulak"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The ant will carry food home",
+              "back": "ang hulmigas magdala ug pagkaon pauli"
+            },
+            {
+              "front": "A bee will gather nectar tomorrow",
+              "back": "usa ka putyukan magtigom ug dugos ugma"
+            },
+            {
+              "front": "The beetle will crawl under rocks",
+              "back": "ang bakukang mokamang ilalom sa mga bato"
+            },
+            {
+              "front": "Butterfly will flutter across the garden",
+              "back": "alibangbang molupad tabok sa tanaman"
+            },
+            {
+              "front": "The moth will fly toward light",
+              "back": "ang anunugba molupad paingon sa kahayag"
+            },
+            {
+              "front": "Fly will buzz around the table",
+              "back": "Ang langaw mag-alirong sa lamesa"
+            },
+            {
+              "front": "Mosquito will bite when it’s dark",
+              "back": "mopaak ang lamok kung ngitngit na"
+            },
+            {
+              "front": "Grasshopper will jump high through grass",
+              "back": "ang dulon molukso sa taas nga sagbot"
+            },
+            {
+              "front": "Cricket will chirp loudly at night",
+              "back": "kusog nga huni ang kuliglig sa gabii"
+            },
+            {
+              "front": "Ladybug will land softly on leaf",
+              "back": "Ang ladybug hinay nga motugpa sa dahon"
+            },
+            {
+              "front": "Wasp will sting if provoked tomorrow",
+              "back": "ang tambuboan mopaak kon hagiton ugma"
+            },
+            {
+              "front": "Dragonfly will hover over still water",
+              "back": "ang tutunlan molupad ibabaw sa malinawon nga tubig"
+            },
+            {
+              "front": "Spider will spin a web tomorrow",
+              "back": "ugma magtuyok ug web ang lawalawa"
+            },
+            {
+              "front": "Termite will destroy wood in house",
+              "back": "ang anay moguba sa kahoy sa balay"
+            },
+            {
+              "front": "Flea will jump on the dog",
+              "back": "pulgas ambak sa iro"
+            },
+            {
+              "front": "Tick will hide in animal fur",
+              "back": "ang tik motago sa balhibo sa mananap"
+            },
+            {
+              "front": "Cockroach will scurry under the sink",
+              "back": "ang uk-ok mosuroy ilalom sa lababo"
+            },
+            {
+              "front": "Firefly will glow brightly at night",
+              "back": "ang alitaptap modan-ag pag-ayo sa gabii"
+            },
+            {
+              "front": "Caterpillar will munch on green leaves",
+              "back": "Ang hantatalo mokaon sa berdeng dahon"
+            },
+            {
+              "front": "Earwig will hide in the ground",
+              "back": "earwig motago sa yuta"
+            },
+            {
+              "front": "Centipede will move quickly across floor",
+              "back": "ang centipede dali nga molihok sa salog"
+            },
+            {
+              "front": "Millipede will crawl slowly through dirt",
+              "back": "Ang millipede hinay nga mokamang pinaagi sa hugaw"
+            },
+            {
+              "front": "Scarab will roll dirt into balls",
+              "back": "Ang scarab moligid sa hugaw ngadto sa bola"
+            },
+            {
+              "front": "Mantis will catch its prey tomorrow",
+              "back": "ang mantis modakop sa iyang tukbonon ugma"
+            },
+            {
+              "front": "Hornet will fly around the garden",
+              "back": "tamboanan molupad libot sa tanaman"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

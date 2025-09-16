@@ -1,0 +1,1494 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Cooking",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Boil",
+              "back": "hubag"
+            },
+            {
+              "front": "Chop",
+              "back": "chop"
+            },
+            {
+              "front": "Bake",
+              "back": "pagluto"
+            },
+            {
+              "front": "Fry",
+              "back": "fry"
+            },
+            {
+              "front": "Grill",
+              "back": "grill"
+            },
+            {
+              "front": "Steam",
+              "back": "alisngaw"
+            },
+            {
+              "front": "Sauté",
+              "back": "igisa"
+            },
+            {
+              "front": "Whisk",
+              "back": "habok"
+            },
+            {
+              "front": "Simmer",
+              "back": "simmer"
+            },
+            {
+              "front": "Blend",
+              "back": "timpla"
+            },
+            {
+              "front": "Stir",
+              "back": "pagpalihok"
+            },
+            {
+              "front": "Mix",
+              "back": "sagol"
+            },
+            {
+              "front": "Slice",
+              "back": "hiwa"
+            },
+            {
+              "front": "Dice",
+              "back": "dice"
+            },
+            {
+              "front": "Grate",
+              "back": "grate"
+            },
+            {
+              "front": "Peel",
+              "back": "panit"
+            },
+            {
+              "front": "Roast",
+              "back": "litson"
+            },
+            {
+              "front": "Season",
+              "back": "panahon"
+            },
+            {
+              "front": "Mash",
+              "back": "mash"
+            },
+            {
+              "front": "Knead",
+              "back": "pagmasa"
+            },
+            {
+              "front": "Broil",
+              "back": "ihaw"
+            },
+            {
+              "front": "Toast",
+              "back": "toast"
+            },
+            {
+              "front": "Carve",
+              "back": "pagkulit"
+            },
+            {
+              "front": "Marinate",
+              "back": "marinate"
+            },
+            {
+              "front": "Poach",
+              "back": "pagpanguha"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Boil water",
+              "back": "pabukala ang tubig"
+            },
+            {
+              "front": "Chop onions",
+              "back": "putlon ang sibuyas"
+            },
+            {
+              "front": "Bake bread",
+              "back": "pagluto og pan"
+            },
+            {
+              "front": "Fry eggs",
+              "back": "fry itlog"
+            },
+            {
+              "front": "Grill steak",
+              "back": "grill nga steak"
+            },
+            {
+              "front": "Steam vegetables",
+              "back": "alisngaw nga mga utanon"
+            },
+            {
+              "front": "Sauté mushrooms",
+              "back": "igisa ang mga uhong"
+            },
+            {
+              "front": "Whisk eggs",
+              "back": "whisk itlog"
+            },
+            {
+              "front": "Simmer soup",
+              "back": "simmer sabaw"
+            },
+            {
+              "front": "Blend ingredients",
+              "back": "pagsagol sa mga sangkap"
+            },
+            {
+              "front": "Stir sauce",
+              "back": "pagpalihok sa sarsa"
+            },
+            {
+              "front": "Mix flour",
+              "back": "isagol nga harina"
+            },
+            {
+              "front": "Slice tomatoes",
+              "back": "hiwa sa kamatis"
+            },
+            {
+              "front": "Dice peppers",
+              "back": "dice nga sili"
+            },
+            {
+              "front": "Grate cheese",
+              "back": "grate nga keso"
+            },
+            {
+              "front": "Peel potatoes",
+              "back": "panit nga patatas"
+            },
+            {
+              "front": "Roast chicken",
+              "back": "litson nga manok"
+            },
+            {
+              "front": "Season meat",
+              "back": "panahon nga karne"
+            },
+            {
+              "front": "Mash potatoes",
+              "back": "mash nga patatas"
+            },
+            {
+              "front": "Knead dough",
+              "back": "pagmasa sa minasa"
+            },
+            {
+              "front": "Broil fish",
+              "back": "lutoon nga isda"
+            },
+            {
+              "front": "Toast bread",
+              "back": "toast nga tinapay"
+            },
+            {
+              "front": "Carve turkey",
+              "back": "pagkulit sa pabo"
+            },
+            {
+              "front": "Marinate meat",
+              "back": "marinate nga karne"
+            },
+            {
+              "front": "Poach eggs",
+              "back": "mga itlog"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I peel potatoes",
+              "back": "akong panit sa patatas"
+            },
+            {
+              "front": "He is slicing",
+              "back": "siya naghiwa"
+            },
+            {
+              "front": "They are mixing",
+              "back": "nagsagol sila"
+            },
+            {
+              "front": "We are toasting",
+              "back": "nag-toast mi"
+            },
+            {
+              "front": "She is boiling",
+              "back": "nagbukal siya"
+            },
+            {
+              "front": "I chop onions",
+              "back": "giputol nako ang sibuyas"
+            },
+            {
+              "front": "He grills steak",
+              "back": "nag-ihaw siya og steak"
+            },
+            {
+              "front": "They fry eggs",
+              "back": "nag-fry sila og mga itlog"
+            },
+            {
+              "front": "We bake bread",
+              "back": "nagluto mig pan"
+            },
+            {
+              "front": "She seasons meat",
+              "back": "timplahan niya ang karne"
+            },
+            {
+              "front": "I whisk eggs",
+              "back": "gibira ko ang mga itlog"
+            },
+            {
+              "front": "They stir sauce",
+              "back": "gikutaw nila ang sarsa"
+            },
+            {
+              "front": "We simmer soup",
+              "back": "giluto namo ang sabaw"
+            },
+            {
+              "front": "He dices peppers",
+              "back": "gihiwa niya ang sili"
+            },
+            {
+              "front": "I grate cheese",
+              "back": "akong grate ug keso"
+            },
+            {
+              "front": "They roast chicken",
+              "back": "nagluto silag manok"
+            },
+            {
+              "front": "We steam vegetables",
+              "back": "alisngaw namo ang mga utanon"
+            },
+            {
+              "front": "He mashes potatoes",
+              "back": "nagmasa siyag patatas"
+            },
+            {
+              "front": "She kneads dough",
+              "back": "siya nagmasa sa minasa"
+            },
+            {
+              "front": "I marinate meat",
+              "back": "akong marinate ang karne"
+            },
+            {
+              "front": "They poach eggs",
+              "back": "nangaon sila ug mga itlog"
+            },
+            {
+              "front": "He carves turkey",
+              "back": "siya nagkulit ug pabo"
+            },
+            {
+              "front": "We are broiling",
+              "back": "nagluto mi"
+            },
+            {
+              "front": "I am blending",
+              "back": "nag blending ko"
+            },
+            {
+              "front": "She is sautéing",
+              "back": "nagsaut siya"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I am peeling potatoes",
+              "back": "nagpanit ko ug patatas"
+            },
+            {
+              "front": "He is slicing tomatoes",
+              "back": "naghiwa siya ug kamatis"
+            },
+            {
+              "front": "They are mixing ingredients",
+              "back": "nagsagol sila sa mga sangkap"
+            },
+            {
+              "front": "We are toasting bread",
+              "back": "nagtosta mi ug pan"
+            },
+            {
+              "front": "She is boiling water",
+              "back": "nagbukal siyag tubig"
+            },
+            {
+              "front": "I am chopping onions",
+              "back": "naghiwa ko ug sibuyas"
+            },
+            {
+              "front": "He is grilling steak",
+              "back": "nag-ihaw siya ug steak"
+            },
+            {
+              "front": "They are frying eggs",
+              "back": "nagprito sila ug itlog"
+            },
+            {
+              "front": "We are baking bread",
+              "back": "nagluto mi ug pan"
+            },
+            {
+              "front": "She is seasoning meat",
+              "back": "nagtimpla siya ug karne"
+            },
+            {
+              "front": "I am whisking eggs",
+              "back": "nagkupot kog itlog"
+            },
+            {
+              "front": "They are stirring sauce",
+              "back": "nag stirring sila ug sauce"
+            },
+            {
+              "front": "We are simmering soup",
+              "back": "nagsige mig sabaw"
+            },
+            {
+              "front": "He is dicing peppers",
+              "back": "naghiwa siya ug sili"
+            },
+            {
+              "front": "I am grating cheese",
+              "back": "gigasahan ko ang keso"
+            },
+            {
+              "front": "They are roasting chicken",
+              "back": "nag litson silag manok"
+            },
+            {
+              "front": "We are steaming vegetables",
+              "back": "nag alisngaw mig utanon"
+            },
+            {
+              "front": "He is mashing potatoes",
+              "back": "nag mashing siya ug patatas"
+            },
+            {
+              "front": "She is kneading dough",
+              "back": "siya nagmasa sa minasa"
+            },
+            {
+              "front": "I am marinating meat",
+              "back": "nag marinate ko ug karne"
+            },
+            {
+              "front": "They are poaching eggs",
+              "back": "nangayam sila ug mga itlog"
+            },
+            {
+              "front": "He is carving turkey",
+              "back": "siya nagkulit ug pabo"
+            },
+            {
+              "front": "We are broiling fish",
+              "back": "nagluto mig isda"
+            },
+            {
+              "front": "I am blending soup",
+              "back": "nag blend kog sabaw"
+            },
+            {
+              "front": "She is sautéing mushrooms",
+              "back": "naggisa siya ug uhong"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am peeling the potatoes",
+              "back": "akong gipanitan ang patatas"
+            },
+            {
+              "front": "He is slicing fresh tomatoes",
+              "back": "naghiwa siya ug presko nga kamatis"
+            },
+            {
+              "front": "They are mixing the ingredients",
+              "back": "gisagol nila ang mga sangkap"
+            },
+            {
+              "front": "We are toasting the bread",
+              "back": "kami nag-ihaw sa pan"
+            },
+            {
+              "front": "She is boiling hot water",
+              "back": "nagbukal siyag init nga tubig"
+            },
+            {
+              "front": "I am chopping some onions",
+              "back": "naghiwa ko ug sibuyas"
+            },
+            {
+              "front": "He is grilling juicy steak",
+              "back": "nag-ihaw siya ug juicy steak"
+            },
+            {
+              "front": "They are frying scrambled eggs",
+              "back": "nagprito sila ug piniritong itlog"
+            },
+            {
+              "front": "We are baking fresh bread",
+              "back": "nagluto mi ug lab-as nga pan"
+            },
+            {
+              "front": "She is seasoning the meat",
+              "back": "ginatimplahan niya ang karne"
+            },
+            {
+              "front": "I am whisking the eggs",
+              "back": "gikumot ko ang mga itlog"
+            },
+            {
+              "front": "They are stirring the sauce",
+              "back": "gikutaw nila ang sarsa"
+            },
+            {
+              "front": "We are simmering the soup",
+              "back": "giluto namo ang sabaw"
+            },
+            {
+              "front": "He is dicing green peppers",
+              "back": "naghiwa siya ug berdeng sili"
+            },
+            {
+              "front": "I am grating cheddar cheese",
+              "back": "nag grating ko ug cheddar cheese"
+            },
+            {
+              "front": "They are roasting the chicken",
+              "back": "ginaluto nila ang manok"
+            },
+            {
+              "front": "We are steaming fresh vegetables",
+              "back": "nag alisngaw mi ug presko nga utanon"
+            },
+            {
+              "front": "He is mashing the potatoes",
+              "back": "ginamasa niya ang patatas"
+            },
+            {
+              "front": "She is kneading soft dough",
+              "back": "ginamasa niya ang humok nga minasa"
+            },
+            {
+              "front": "I am marinating the meat",
+              "back": "gi-marinate nako ang karne"
+            },
+            {
+              "front": "They are poaching two eggs",
+              "back": "nanguha silag duha ka itlog"
+            },
+            {
+              "front": "He is carving the turkey",
+              "back": "gikulit niya ang pabo"
+            },
+            {
+              "front": "We are broiling some fish",
+              "back": "nagluto mi ug isda"
+            },
+            {
+              "front": "I am blending the soup",
+              "back": "gisagol nako ang sabaw"
+            },
+            {
+              "front": "She is sautéing the mushrooms",
+              "back": "ginagisa niya ang mga uhong"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am peeling the large potatoes",
+              "back": "akong gipanitan ang dagkong patatas"
+            },
+            {
+              "front": "He is slicing fresh red tomatoes",
+              "back": "naghiwa siya ug lab-as nga pula nga kamatis"
+            },
+            {
+              "front": "They are mixing all the ingredients",
+              "back": "gisagol nila ang tanan nga mga sangkap"
+            },
+            {
+              "front": "We are toasting the wheat bread",
+              "back": "kami nag-ihaw sa trigo nga pan"
+            },
+            {
+              "front": "She is boiling the hot water",
+              "back": "ginabukal niya ang init nga tubig"
+            },
+            {
+              "front": "I am chopping some yellow onions",
+              "back": "naghiwa ko ug yellow nga sibuyas"
+            },
+            {
+              "front": "He is grilling the juicy steak",
+              "back": "nag-ihaw siya sa juicy steak"
+            },
+            {
+              "front": "They are frying the scrambled eggs",
+              "back": "giprito nila ang piniritong itlog"
+            },
+            {
+              "front": "We are baking the fresh bread",
+              "back": "nagluto kami sa bag-ong pan"
+            },
+            {
+              "front": "She is seasoning the marinated meat",
+              "back": "gitimplahan niya ang adobo nga karne"
+            },
+            {
+              "front": "I am whisking the beaten eggs",
+              "back": "gikumot ko ang pinikpik nga itlog"
+            },
+            {
+              "front": "They are stirring the thick sauce",
+              "back": "ilang gikutaw ang baga nga sarsa"
+            },
+            {
+              "front": "We are simmering the vegetable soup",
+              "back": "giluto namo ang sabaw sa utanon"
+            },
+            {
+              "front": "He is dicing the green peppers",
+              "back": "iyang gihiwa ang berdeng sili"
+            },
+            {
+              "front": "I am grating some cheddar cheese",
+              "back": "nag grating ko ug cheddar cheese"
+            },
+            {
+              "front": "They are roasting the whole chicken",
+              "back": "giasal nila ang tibuok manok"
+            },
+            {
+              "front": "We are steaming the fresh vegetables",
+              "back": "gi-steaming namo ang presko nga mga utanon"
+            },
+            {
+              "front": "He is mashing the boiled potatoes",
+              "back": "ginamasa niya ang linuto nga patatas"
+            },
+            {
+              "front": "She is kneading the soft dough",
+              "back": "ginamasa niya ang humok nga minasa"
+            },
+            {
+              "front": "I am marinating the seasoned meat",
+              "back": "gi-marinate nako ang tinimplahan nga karne"
+            },
+            {
+              "front": "They are poaching two fresh eggs",
+              "back": "nanguha silag duha ka presko nga itlog"
+            },
+            {
+              "front": "He is carving the cooked turkey",
+              "back": "gikulit niya ang linuto nga pabo"
+            },
+            {
+              "front": "We are broiling the fresh fish",
+              "back": "among giluto ang presko nga isda"
+            },
+            {
+              "front": "I am blending the creamy soup",
+              "back": "gisagol nako ang creamy nga sabaw"
+            },
+            {
+              "front": "She is sautéing the sliced mushrooms",
+              "back": "ginagisa niya ang hiniwa nga uhong"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I sliced bread",
+              "back": "naghiwa kog pan"
+            },
+            {
+              "front": "Fish was cooked",
+              "back": "giluto ang isda"
+            },
+            {
+              "front": "Soup was creamy",
+              "back": "creamy ang sabaw"
+            },
+            {
+              "front": "They ate chicken",
+              "back": "nangaon silag manok"
+            },
+            {
+              "front": "She boiled water",
+              "back": "nagbukal siyag tubig"
+            },
+            {
+              "front": "He grilled steak",
+              "back": "nag grill siya ug steak"
+            },
+            {
+              "front": "We chopped onions",
+              "back": "giputol namo ang mga sibuyas"
+            },
+            {
+              "front": "They fried eggs",
+              "back": "nagprito silag itlog"
+            },
+            {
+              "front": "I baked bread",
+              "back": "nagluto kog pan"
+            },
+            {
+              "front": "We seasoned meat",
+              "back": "among gitimplahan nga karne"
+            },
+            {
+              "front": "She mashed potatoes",
+              "back": "gimasa niya ang patatas"
+            },
+            {
+              "front": "He stirred sauce",
+              "back": "iyang gikutaw ang sauce"
+            },
+            {
+              "front": "We steamed vegetables",
+              "back": "nag steam mi ug utanon"
+            },
+            {
+              "front": "I roasted chicken",
+              "back": "nagluto kog manok"
+            },
+            {
+              "front": "They grilled vegetables",
+              "back": "nag-ihaw silag mga utanon"
+            },
+            {
+              "front": "He broiled fish",
+              "back": "nagluto siyag isda"
+            },
+            {
+              "front": "She diced peppers",
+              "back": "naghiwa siyag sili"
+            },
+            {
+              "front": "I grated cheese",
+              "back": "akong grated cheese"
+            },
+            {
+              "front": "They poached eggs",
+              "back": "nangaon sila ug mga itlog"
+            },
+            {
+              "front": "He sautéed mushrooms",
+              "back": "naggisa siyag uhong"
+            },
+            {
+              "front": "We whisked eggs",
+              "back": "among gibira ang mga itlog"
+            },
+            {
+              "front": "They mixed flour",
+              "back": "nagsagol silag harina"
+            },
+            {
+              "front": "I simmered soup",
+              "back": "nagluto kog sabaw"
+            },
+            {
+              "front": "She marinated meat",
+              "back": "nag-marinate siyag karne"
+            },
+            {
+              "front": "He carved turkey",
+              "back": "gikulit niya ang pabo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I sliced fresh bread",
+              "back": "naghiwa kog bag-ong pan"
+            },
+            {
+              "front": "The fish was cooked",
+              "back": "giluto ang isda"
+            },
+            {
+              "front": "The soup was creamy",
+              "back": "creamy ang sabaw"
+            },
+            {
+              "front": "They ate grilled chicken",
+              "back": "nangaon silag sinugba nga manok"
+            },
+            {
+              "front": "She boiled hot water",
+              "back": "nagbukal siyag init nga tubig"
+            },
+            {
+              "front": "He grilled juicy steak",
+              "back": "nag-ihaw siyag juicy steak"
+            },
+            {
+              "front": "We chopped yellow onions",
+              "back": "giputol namo ang yellow nga sibuyas"
+            },
+            {
+              "front": "They fried scrambled eggs",
+              "back": "nagprito silag scrambled egg"
+            },
+            {
+              "front": "I baked fresh bread",
+              "back": "nagluto kog bag-ong pan"
+            },
+            {
+              "front": "We seasoned the meat",
+              "back": "gitimplahan namo ang karne"
+            },
+            {
+              "front": "She mashed boiled potatoes",
+              "back": "gimasa niya ang linuto nga patatas"
+            },
+            {
+              "front": "He stirred the sauce",
+              "back": "iyang gikutaw ang sarsa"
+            },
+            {
+              "front": "We steamed fresh vegetables",
+              "back": "nag-steamed kami ug presko nga mga utanon"
+            },
+            {
+              "front": "I roasted whole chicken",
+              "back": "giasal nako tibuok manok"
+            },
+            {
+              "front": "They grilled the vegetables",
+              "back": "giihaw nila ang mga utanon"
+            },
+            {
+              "front": "He broiled the fish",
+              "back": "iyang giluto ang isda"
+            },
+            {
+              "front": "She diced green peppers",
+              "back": "iyang gihiwa ang berdeng sili"
+            },
+            {
+              "front": "I grated cheddar cheese",
+              "back": "akong gigasahan ang cheddar cheese"
+            },
+            {
+              "front": "They poached fresh eggs",
+              "back": "nag-poach sila ug presko nga mga itlog"
+            },
+            {
+              "front": "He sautéed wild mushrooms",
+              "back": "naggisa siyag ihalas nga uhong"
+            },
+            {
+              "front": "We whisked the eggs",
+              "back": "gikumot namo ang mga itlog"
+            },
+            {
+              "front": "They mixed the flour",
+              "back": "gisagol nila ang harina"
+            },
+            {
+              "front": "I simmered vegetable soup",
+              "back": "nagsige kog vegetable soup"
+            },
+            {
+              "front": "She marinated the meat",
+              "back": "iyang gi-marinate ang karne"
+            },
+            {
+              "front": "He carved the turkey",
+              "back": "iyang gikulit ang pabo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I sliced the fresh bread",
+              "back": "gihiwa nako ang presko nga pan"
+            },
+            {
+              "front": "The fish was perfectly cooked",
+              "back": "ang isda hingpit nga naluto"
+            },
+            {
+              "front": "The soup was very creamy",
+              "back": "creamy kaayo ang sabaw"
+            },
+            {
+              "front": "They ate the grilled chicken",
+              "back": "gikaon nila ang sinugba nga manok"
+            },
+            {
+              "front": "She boiled the hot water",
+              "back": "iyang gibukal ang init nga tubig"
+            },
+            {
+              "front": "He grilled the juicy steak",
+              "back": "giihaw niya ang juicy steak"
+            },
+            {
+              "front": "We chopped the yellow onions",
+              "back": "giputol namo ang yellow nga sibuyas"
+            },
+            {
+              "front": "They fried the scrambled eggs",
+              "back": "giprito nila ang scrambled egg"
+            },
+            {
+              "front": "I baked some fresh bread",
+              "back": "Nagluto kog bag-ong pan"
+            },
+            {
+              "front": "We seasoned the roasted meat",
+              "back": "gitimplahan namo ang sinugba nga karne"
+            },
+            {
+              "front": "She mashed the boiled potatoes",
+              "back": "iyang gimasa ang linuto nga patatas"
+            },
+            {
+              "front": "He stirred the thick sauce",
+              "back": "iyang gikutaw ang baga nga sarsa"
+            },
+            {
+              "front": "We steamed all the vegetables",
+              "back": "gi-steamed namo ang tanang utanon"
+            },
+            {
+              "front": "I roasted the whole chicken",
+              "back": "giasal nako tibuok manok"
+            },
+            {
+              "front": "They grilled the green vegetables",
+              "back": "giihaw nila ang berde nga mga utanon"
+            },
+            {
+              "front": "He broiled the fresh fish",
+              "back": "giluto niya ang presko nga isda"
+            },
+            {
+              "front": "She diced the red peppers",
+              "back": "iyang gihiwa ang pula nga sili"
+            },
+            {
+              "front": "I grated some cheddar cheese",
+              "back": "nag grated ko ug cheddar cheese"
+            },
+            {
+              "front": "They poached the large eggs",
+              "back": "ilang gipanguha ang dagkong mga itlog"
+            },
+            {
+              "front": "He sautéed the wild mushrooms",
+              "back": "iyang gigisa ang mga ihalas nga uhong"
+            },
+            {
+              "front": "We whisked all the eggs",
+              "back": "gisagol namo ang tanang itlog"
+            },
+            {
+              "front": "They mixed all the flour",
+              "back": "gisagol nila ang tanang harina"
+            },
+            {
+              "front": "I simmered the vegetable soup",
+              "back": "akong gisudlan ang sabaw sa utanon"
+            },
+            {
+              "front": "She marinated the seasoned meat",
+              "back": "iyang gi-marinate ang tinimplahan nga karne"
+            },
+            {
+              "front": "He carved the big turkey",
+              "back": "iyang gikulit ang dakong pabo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I sliced the fresh baked bread",
+              "back": "akong gihiwa ang bag-ong linuto nga pan"
+            },
+            {
+              "front": "The fish was cooked to perfection",
+              "back": "ang isda giluto sa kahingpitan"
+            },
+            {
+              "front": "The soup was incredibly creamy yesterday",
+              "back": "ang sabaw mao ang incredibly creamy kagahapon"
+            },
+            {
+              "front": "They ate the grilled chicken together",
+              "back": "nagdungan silag kaon sa sinugba nga manok"
+            },
+            {
+              "front": "She boiled the hot water quickly",
+              "back": "gibukal dayon niya ang init nga tubig"
+            },
+            {
+              "front": "He grilled the juicy steak perfectly",
+              "back": "hingpit niyang gisugba ang juicy steak"
+            },
+            {
+              "front": "We chopped the yellow onions finely",
+              "back": "giputol namo ang mga yellow nga sibuyas nga maayong pagkabuhat"
+            },
+            {
+              "front": "They fried the scrambled eggs quickly",
+              "back": "giprito dayon nila ang scrambled egg"
+            },
+            {
+              "front": "I baked the fresh bread yesterday",
+              "back": "nagluto ko sa bag-ong pan gahapon"
+            },
+            {
+              "front": "We seasoned the roasted meat carefully",
+              "back": "gitimplahan namo pag-ayo ang sinugba nga karne"
+            },
+            {
+              "front": "She mashed the boiled potatoes gently",
+              "back": "hinay niyang gidugmok ang linuto nga patatas"
+            },
+            {
+              "front": "He stirred the thick sauce slowly",
+              "back": "hinayhinay niyang gikutaw ang baga nga sarsa"
+            },
+            {
+              "front": "We steamed all the fresh vegetables",
+              "back": "gi-steamed namo ang tanang presko nga utanon"
+            },
+            {
+              "front": "I roasted the whole chicken perfectly",
+              "back": "giasal nako ang tibuok manok"
+            },
+            {
+              "front": "They grilled the green vegetables together",
+              "back": "gisugba nila ang berdeng mga utanon"
+            },
+            {
+              "front": "He broiled the fresh fish quickly",
+              "back": "gisugba dayon niya ang presko nga isda"
+            },
+            {
+              "front": "She diced the red peppers perfectly",
+              "back": "hingpit niyang gihiwa ang pulang sili"
+            },
+            {
+              "front": "I grated some cheddar cheese yesterday",
+              "back": "nag grated ko ug cheddar cheese gahapon"
+            },
+            {
+              "front": "They poached the large eggs carefully",
+              "back": "ilang giluto pag-ayo ang dagkong mga itlog"
+            },
+            {
+              "front": "He sautéed the wild mushrooms quickly",
+              "back": "dali niyang gigisa ang mga ihalas nga uhong"
+            },
+            {
+              "front": "We whisked all the eggs thoroughly",
+              "back": "gisagol namo pag-ayo ang tanang mga itlog"
+            },
+            {
+              "front": "They mixed all the flour carefully",
+              "back": "gisagol nila pag-ayo ang tanang harina"
+            },
+            {
+              "front": "I simmered the vegetable soup slowly",
+              "back": "gihinay-hinay nakog simmer ang sabaw sa utanon"
+            },
+            {
+              "front": "She marinated the seasoned meat overnight",
+              "back": "iyang gi-marinate ang tinimplahan nga karne sa tibuok gabii"
+            },
+            {
+              "front": "He carved the big turkey perfectly",
+              "back": "gikulit niya ang dako nga pabo nga hingpit"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will boil water",
+              "back": "magbukal ug tubig"
+            },
+            {
+              "front": "Will mix vegetables",
+              "back": "magsagol og utanon"
+            },
+            {
+              "front": "Will season meat",
+              "back": "timplahan og karne"
+            },
+            {
+              "front": "Will slice bread",
+              "back": "maghiwa sa pan"
+            },
+            {
+              "front": "Will grill steak",
+              "back": "mag-ihaw ug steak"
+            },
+            {
+              "front": "Will fry eggs",
+              "back": "mag fry ug itlog"
+            },
+            {
+              "front": "Will bake bread",
+              "back": "magaluto ug pan"
+            },
+            {
+              "front": "Will roast chicken",
+              "back": "mag-ihaw og manok"
+            },
+            {
+              "front": "Will simmer soup",
+              "back": "mag-simmer sa sabaw"
+            },
+            {
+              "front": "Will sauté onions",
+              "back": "maggisa og sibuyas"
+            },
+            {
+              "front": "Will stir sauce",
+              "back": "magkutaw sa sarsa"
+            },
+            {
+              "front": "Will knead dough",
+              "back": "momasa sa minasa"
+            },
+            {
+              "front": "Will toast bread",
+              "back": "mag-toast og pan"
+            },
+            {
+              "front": "Will marinate meat",
+              "back": "mag-marinate ug karne"
+            },
+            {
+              "front": "Will blend soup",
+              "back": "magsagol sa sabaw"
+            },
+            {
+              "front": "Will broil fish",
+              "back": "magaluto ug isda"
+            },
+            {
+              "front": "Will dice peppers",
+              "back": "maghiwa sa sili"
+            },
+            {
+              "front": "Will whisk eggs",
+              "back": "mag-itsa sa mga itlog"
+            },
+            {
+              "front": "Will poach eggs",
+              "back": "mag-ilog sa mga itlog"
+            },
+            {
+              "front": "Will grate cheese",
+              "back": "mag grate ug keso"
+            },
+            {
+              "front": "Will chop onions",
+              "back": "magputol sa sibuyas"
+            },
+            {
+              "front": "Will peel potatoes",
+              "back": "mag panit sa patatas"
+            },
+            {
+              "front": "Will steam vegetables",
+              "back": "mag-alisngaw sa mga utanon"
+            },
+            {
+              "front": "Will carve turkey",
+              "back": "mokulit ug pabo"
+            },
+            {
+              "front": "Will mash potatoes",
+              "back": "mash patatas"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will boil water",
+              "back": "magbukal kog tubig"
+            },
+            {
+              "front": "They will mix vegetables",
+              "back": "magsagol silag utanon"
+            },
+            {
+              "front": "She will season meat",
+              "back": "timplahan niya ang karne"
+            },
+            {
+              "front": "We will slice bread",
+              "back": "maghiwa mi ug pan"
+            },
+            {
+              "front": "He will grill steak",
+              "back": "mag-ihaw siya ug steak"
+            },
+            {
+              "front": "They will fry eggs",
+              "back": "magprito sila ug itlog"
+            },
+            {
+              "front": "We will bake bread",
+              "back": "magaluto kami ug pan"
+            },
+            {
+              "front": "She will roast chicken",
+              "back": "magihaw siyag manok"
+            },
+            {
+              "front": "I will simmer soup",
+              "back": "magsige kog sabaw"
+            },
+            {
+              "front": "They will sauté onions",
+              "back": "maggisa sila ug sibuyas"
+            },
+            {
+              "front": "He will stir sauce",
+              "back": "siya magkutaw ug sarsa"
+            },
+            {
+              "front": "We will knead dough",
+              "back": "kami magmasa sa minasa"
+            },
+            {
+              "front": "She will toast bread",
+              "back": "mag-toast siya ug pan"
+            },
+            {
+              "front": "I will marinate meat",
+              "back": "mag marinate ko ug karne"
+            },
+            {
+              "front": "They will blend soup",
+              "back": "isagol nila ang sabaw"
+            },
+            {
+              "front": "He will broil fish",
+              "back": "magsugba siya ug isda"
+            },
+            {
+              "front": "We will dice peppers",
+              "back": "maghiwa kami ug sili"
+            },
+            {
+              "front": "I will whisk eggs",
+              "back": "kuhaan ko ug itlog"
+            },
+            {
+              "front": "She will poach eggs",
+              "back": "mangaon siyag itlog"
+            },
+            {
+              "front": "They will grate cheese",
+              "back": "ilang grate ang keso"
+            },
+            {
+              "front": "He will chop onions",
+              "back": "maghiwa siya ug sibuyas"
+            },
+            {
+              "front": "We will peel potatoes",
+              "back": "atong panitan ang patatas"
+            },
+            {
+              "front": "I will steam vegetables",
+              "back": "mag alisngaw kog utanon"
+            },
+            {
+              "front": "She will carve turkey",
+              "back": "siya mokulit ug pabo"
+            },
+            {
+              "front": "They will mash potatoes",
+              "back": "mag mash sila ug patatas"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will boil the water",
+              "back": "pabukal nako ang tubig"
+            },
+            {
+              "front": "They will mix the vegetables",
+              "back": "isagol nila ang mga utanon"
+            },
+            {
+              "front": "She will season the meat",
+              "back": "timplahan niya ang karne"
+            },
+            {
+              "front": "We will slice the bread",
+              "back": "atong ihiwa ang pan"
+            },
+            {
+              "front": "He will grill the steak",
+              "back": "mag-ihaw siya sa steak"
+            },
+            {
+              "front": "They will fry the eggs",
+              "back": "ilang iprito ang mga itlog"
+            },
+            {
+              "front": "We will bake the bread",
+              "back": "kami magaluto sa pan"
+            },
+            {
+              "front": "She will roast the chicken",
+              "back": "iyang litson ang manok"
+            },
+            {
+              "front": "I will simmer the soup",
+              "back": "akong lutoon ang sabaw"
+            },
+            {
+              "front": "They will sauté the onions",
+              "back": "ilang igisa ang mga sibuyas"
+            },
+            {
+              "front": "He will stir the sauce",
+              "back": "iyang sawawon ang sarsa"
+            },
+            {
+              "front": "We will knead the dough",
+              "back": "atong masahon ang minasa"
+            },
+            {
+              "front": "She will toast the bread",
+              "back": "mag-toast siya sa pan"
+            },
+            {
+              "front": "I will marinate the meat",
+              "back": "i-marinate nako ang karne"
+            },
+            {
+              "front": "They will blend the soup",
+              "back": "isagol nila ang sabaw"
+            },
+            {
+              "front": "He will broil the fish",
+              "back": "lutoon niya ang isda"
+            },
+            {
+              "front": "We will dice the peppers",
+              "back": "atong putlon ang mga sili"
+            },
+            {
+              "front": "I will whisk the eggs",
+              "back": "akong iduko ang mga itlog"
+            },
+            {
+              "front": "She will poach the eggs",
+              "back": "siya mag-poach sa mga itlog"
+            },
+            {
+              "front": "They will grate the cheese",
+              "back": "ilang grate ang keso"
+            },
+            {
+              "front": "He will chop the onions",
+              "back": "iyang putlon ang mga sibuyas"
+            },
+            {
+              "front": "We will peel the potatoes",
+              "back": "atong panitan ang patatas"
+            },
+            {
+              "front": "I will steam the vegetables",
+              "back": "akong alisngaw ang mga utanon"
+            },
+            {
+              "front": "She will carve the turkey",
+              "back": "siya mokulit sa pabo"
+            },
+            {
+              "front": "They will mash the potatoes",
+              "back": "ilang dugmokon ang patatas"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will boil the water tomorrow",
+              "back": "pabukal nako ang tubig ugma"
+            },
+            {
+              "front": "They will mix the vegetables carefully",
+              "back": "isagol nila pag-ayo ang mga utanon"
+            },
+            {
+              "front": "She will season the meat well",
+              "back": "timplahan niya sing maayo ang karne"
+            },
+            {
+              "front": "We will slice the bread evenly",
+              "back": "hiwaon nato ang pan nga parehas"
+            },
+            {
+              "front": "He will grill the steak perfectly",
+              "back": "siya mag-ihaw sa steak nga hingpit"
+            },
+            {
+              "front": "They will fry the eggs quickly",
+              "back": "dali ra nilang iprito ang mga itlog"
+            },
+            {
+              "front": "We will bake the bread tomorrow",
+              "back": "lutoon namo ang pan ugma"
+            },
+            {
+              "front": "She will roast the chicken slowly",
+              "back": "hinayhinayan niyag litson ang manok"
+            },
+            {
+              "front": "I will simmer the soup gently",
+              "back": "hinayhinayon nako ang sabaw"
+            },
+            {
+              "front": "They will sauté the onions tonight",
+              "back": "ilang igisa ang mga sibuyas karong gabii"
+            },
+            {
+              "front": "He will stir the sauce slowly",
+              "back": "hinayhinayon niya ang sarsa"
+            },
+            {
+              "front": "We will knead the dough soon",
+              "back": "atong masahon ang minasa sa dili madugay"
+            },
+            {
+              "front": "She will toast the bread later",
+              "back": "mag-toast siya sa pan unya"
+            },
+            {
+              "front": "I will marinate the meat overnight",
+              "back": "i-marinate nako ang karne sa tibuok gabii"
+            },
+            {
+              "front": "They will blend the soup tomorrow",
+              "back": "isagol nila ang sabaw ugma"
+            },
+            {
+              "front": "He will broil the fish tonight",
+              "back": "lutoon niya ang isda karong gabii"
+            },
+            {
+              "front": "We will dice the peppers carefully",
+              "back": "putlon namo pag-ayo ang mga sili"
+            },
+            {
+              "front": "I will whisk the eggs thoroughly",
+              "back": "akong iduko ang mga itlog pag-ayo"
+            },
+            {
+              "front": "She will poach the eggs perfectly",
+              "back": "hingpit nga lutoon niya ang mga itlog"
+            },
+            {
+              "front": "They will grate the cheese quickly",
+              "back": "dali ra nilang grate ang keso"
+            },
+            {
+              "front": "He will chop the onions finely",
+              "back": "putlon niya og maayo ang mga sibuyas"
+            },
+            {
+              "front": "We will peel the potatoes later",
+              "back": "panitan namo unya ang patatas"
+            },
+            {
+              "front": "I will steam the vegetables tomorrow",
+              "back": "ubuson nako ang mga utanon ugma"
+            },
+            {
+              "front": "She will carve the turkey perfectly",
+              "back": "siya mokulit sa pabo hingpit"
+            },
+            {
+              "front": "They will mash the potatoes soon",
+              "back": "dugmokon dayon nila ang patatas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

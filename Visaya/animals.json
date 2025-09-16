@@ -1,0 +1,1632 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Animals",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Dog",
+              "back": "iro"
+            },
+            {
+              "front": "Cat",
+              "back": "iring"
+            },
+            {
+              "front": "Bird",
+              "back": "langgam"
+            },
+            {
+              "front": "Fish",
+              "back": "isda"
+            },
+            {
+              "front": "Cow",
+              "back": "baka"
+            },
+            {
+              "front": "Horse",
+              "back": "kabayo"
+            },
+            {
+              "front": "Chicken",
+              "back": "manok"
+            },
+            {
+              "front": "Goat",
+              "back": "kanding"
+            },
+            {
+              "front": "Sheep",
+              "back": "karnero"
+            },
+            {
+              "front": "Pig",
+              "back": "baboy"
+            },
+            {
+              "front": "Rabbit",
+              "back": "koneho"
+            },
+            {
+              "front": "Lion",
+              "back": "leon"
+            },
+            {
+              "front": "Tiger",
+              "back": "tigre"
+            },
+            {
+              "front": "Elephant",
+              "back": "elepante"
+            },
+            {
+              "front": "Giraffe",
+              "back": "giraffe"
+            },
+            {
+              "front": "Bear",
+              "back": "oso"
+            },
+            {
+              "front": "Monkey",
+              "back": "unggoy"
+            },
+            {
+              "front": "Deer",
+              "back": "usa"
+            },
+            {
+              "front": "Frog",
+              "back": "baki"
+            },
+            {
+              "front": "Snake",
+              "back": "bitin"
+            },
+            {
+              "front": "Lizard",
+              "back": "tuko"
+            },
+            {
+              "front": "Squirrel",
+              "back": "squirrel"
+            },
+            {
+              "front": "Dolphin",
+              "back": "dolphin"
+            },
+            {
+              "front": "Whale",
+              "back": "balyena"
+            },
+            {
+              "front": "Kangaroo",
+              "back": "kangaroo"
+            },
+            {
+              "front": "Penguin",
+              "back": "penguin"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "big Dog",
+              "back": "dako nga iro"
+            },
+            {
+              "front": "small Cat",
+              "back": "gamay nga iring"
+            },
+            {
+              "front": "colorful Bird",
+              "back": "mabulukon nga langgam"
+            },
+            {
+              "front": "fast Fish",
+              "back": "paspas nga isda"
+            },
+            {
+              "front": "gentle Cow",
+              "back": "malumo nga baka"
+            },
+            {
+              "front": "strong Horse",
+              "back": "kusgan nga kabayo"
+            },
+            {
+              "front": "happy Chicken",
+              "back": "malipayong manok"
+            },
+            {
+              "front": "playful Goat",
+              "back": "dula nga kanding"
+            },
+            {
+              "front": "fluffy Sheep",
+              "back": "humok nga karnero"
+            },
+            {
+              "front": "fat Pig",
+              "back": "tambok nga baboy"
+            },
+            {
+              "front": "quick Rabbit",
+              "back": "dali nga koneho"
+            },
+            {
+              "front": "fierce Lion",
+              "back": "mabangis nga leon"
+            },
+            {
+              "front": "striped Tiger",
+              "back": "guhit nga tigre"
+            },
+            {
+              "front": "large Elephant",
+              "back": "dako nga elepante"
+            },
+            {
+              "front": "tall Giraffe",
+              "back": "taas nga giraffe"
+            },
+            {
+              "front": "grizzly Bear",
+              "back": "grizzly nga oso"
+            },
+            {
+              "front": "curious Monkey",
+              "back": "kuryuso nga unggoy"
+            },
+            {
+              "front": "graceful Deer",
+              "back": "buotan nga osa"
+            },
+            {
+              "front": "green Frog",
+              "back": "berde nga baki"
+            },
+            {
+              "front": "slithering Snake",
+              "back": "bitin nga nagkalayo"
+            },
+            {
+              "front": "colorful Lizard",
+              "back": "mabulukon nga tuko"
+            },
+            {
+              "front": "tiny Squirrel",
+              "back": "gamay nga squirrel"
+            },
+            {
+              "front": "friendly Dolphin",
+              "back": "mahigalaon nga dolphin"
+            },
+            {
+              "front": "mighty Whale",
+              "back": "gamhanang balyena"
+            },
+            {
+              "front": "jumping Kangaroo",
+              "back": "paglukso sa kangaroo"
+            },
+            {
+              "front": "cold Penguin",
+              "back": "bugnaw nga penguin"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "very cold penguin",
+              "back": "bugnaw kaayo nga penguin"
+            },
+            {
+              "front": "great mighty whale",
+              "back": "dakong gamhanang balyena"
+            },
+            {
+              "front": "bright green frog",
+              "back": "mahayag nga berde nga baki"
+            },
+            {
+              "front": "small playful dog",
+              "back": "gamay nga playful nga iro"
+            },
+            {
+              "front": "cute fluffy cat",
+              "back": "cute nga fluffy cat"
+            },
+            {
+              "front": "swift flying bird",
+              "back": "tulin nga naglupad nga langgam"
+            },
+            {
+              "front": "fast swimming fish",
+              "back": "paspas nga paglangoy sa isda"
+            },
+            {
+              "front": "gentle friendly cow",
+              "back": "malumo nga mahigalaon nga baka"
+            },
+            {
+              "front": "strong galloping horse",
+              "back": "kusog nga nagdagan nga kabayo"
+            },
+            {
+              "front": "happy clucking chicken",
+              "back": "malipayong pagkuot sa manok"
+            },
+            {
+              "front": "playful little goat",
+              "back": "playful gamay nga kanding"
+            },
+            {
+              "front": "soft woolly sheep",
+              "back": "humok nga balhibo sa karnero"
+            },
+            {
+              "front": "big snorting pig",
+              "back": "dako nga snorting baboy"
+            },
+            {
+              "front": "quick hopping rabbit",
+              "back": "dali nga paglukso nga koneho"
+            },
+            {
+              "front": "fierce roaring lion",
+              "back": "mabangis nga nagangulob nga leon"
+            },
+            {
+              "front": "striped prowling tiger",
+              "back": "striped prowling tigre"
+            },
+            {
+              "front": "large gentle elephant",
+              "back": "dako nga malumo nga elepante"
+            },
+            {
+              "front": "tall graceful giraffe",
+              "back": "taas nga matahum nga giraffe"
+            },
+            {
+              "front": "grizzly angry bear",
+              "back": "grizzly nasuko nga oso"
+            },
+            {
+              "front": "curious swinging monkey",
+              "back": "kuryuso nga nagtabyog nga unggoy"
+            },
+            {
+              "front": "bright orange lizard",
+              "back": "hayag nga orange nga butiki"
+            },
+            {
+              "front": "tiny agile squirrel",
+              "back": "gamay nga abtik nga squirrel"
+            },
+            {
+              "front": "friendly playful dolphin",
+              "back": "mahigalaon nga playful dolphin"
+            },
+            {
+              "front": "mighty powerful whale",
+              "back": "kusgan nga balyena"
+            },
+            {
+              "front": "leaping energetic kangaroo",
+              "back": "paglukso sa kusog nga kangaroo"
+            },
+            {
+              "front": "colorful dancing parrot",
+              "back": "mabulukon nga sayaw nga parrot"
+            },
+            {
+              "front": "swift slithering snake",
+              "back": "tulin nga nagkalayo nga bitin"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My dog is barking",
+              "back": "ang akong iro nag-uwang"
+            },
+            {
+              "front": "They have strong horses",
+              "back": "sila adunay kusgan nga mga kabayo"
+            },
+            {
+              "front": "We see big eagles",
+              "back": "nakakita kami ug dagkong mga agila"
+            },
+            {
+              "front": "They ran from lions",
+              "back": "nanagan sila gikan sa mga leon"
+            },
+            {
+              "front": "The cat is sleeping",
+              "back": "ang iring natulog"
+            },
+            {
+              "front": "The bird is chirping",
+              "back": "ang langgam nagtunog"
+            },
+            {
+              "front": "We hear frogs croaking",
+              "back": "makadungog mig mga baki nga nag-uwang"
+            },
+            {
+              "front": "The horse is galloping",
+              "back": "ang kabayo nagdagan"
+            },
+            {
+              "front": "My rabbit is hopping",
+              "back": "nilukso akong rabbit"
+            },
+            {
+              "front": "The monkey is swinging",
+              "back": "ang unggoy nagduyan"
+            },
+            {
+              "front": "The deer are running",
+              "back": "nagdagan ang mga osa"
+            },
+            {
+              "front": "We saw a lion",
+              "back": "nakakita kami ug leyon"
+            },
+            {
+              "front": "The frog is jumping",
+              "back": "nilukso ang baki"
+            },
+            {
+              "front": "My pig is wallowing",
+              "back": "akong baboy naglamoy"
+            },
+            {
+              "front": "The cow is grazing",
+              "back": "ang baka nanibsib"
+            },
+            {
+              "front": "The squirrel climbs trees",
+              "back": "ang squirrel mokatkat sa mga kahoy"
+            },
+            {
+              "front": "The giraffe eats leaves",
+              "back": "ang giraffe mokaon ug dahon"
+            },
+            {
+              "front": "The bear is hibernating",
+              "back": "ang oso nag-hibernate"
+            },
+            {
+              "front": "The tiger is stalking",
+              "back": "ang tigre nangawat"
+            },
+            {
+              "front": "We spotted a whale",
+              "back": "nakakita mig balyena"
+            },
+            {
+              "front": "They chased rabbits",
+              "back": "gigukod nila ang mga koneho"
+            },
+            {
+              "front": "The dolphin is swimming",
+              "back": "naglangoy ang dolphin"
+            },
+            {
+              "front": "The goat is climbing",
+              "back": "nagsaka ang kanding"
+            },
+            {
+              "front": "My chicken is laying",
+              "back": "nangitlog na akong manok"
+            },
+            {
+              "front": "The snake is slithering",
+              "back": "ang bitin nag-agay"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My big dog is running",
+              "back": "nagdagan ang akong dako nga iro"
+            },
+            {
+              "front": "They have many chickens now",
+              "back": "daghan na silag manok karon"
+            },
+            {
+              "front": "We see playful dolphins swimming",
+              "back": "makakita mig mga dolphin nga naglangoylangoy"
+            },
+            {
+              "front": "They ran from wild lions",
+              "back": "nanagan sila gikan sa ihalas nga mga leon"
+            },
+            {
+              "front": "The black cat is eating",
+              "back": "ang itom nga iring nagkaon"
+            },
+            {
+              "front": "The small bird is flying",
+              "back": "nagalupad ang gamay nga langgam"
+            },
+            {
+              "front": "We hear loud frogs croaking",
+              "back": "makadungog kami ug kusog nga mga baki nga nag-uwang"
+            },
+            {
+              "front": "The fast horse is galloping",
+              "back": "ang kusog nga kabayo nagdagan"
+            },
+            {
+              "front": "My cute rabbit is hopping",
+              "back": "ang akong cute nga koneho nagluksolukso"
+            },
+            {
+              "front": "The playful monkey is swinging",
+              "back": "ang duwa-duwa nga unggoy nagduyan"
+            },
+            {
+              "front": "The large deer are running",
+              "back": "nagdagan ang dagkong lagsaw"
+            },
+            {
+              "front": "We saw a fierce lion",
+              "back": "nakakita kami ug mabangis nga leyon"
+            },
+            {
+              "front": "The green frog is jumping",
+              "back": "ang berde nga baki nagluksolukso"
+            },
+            {
+              "front": "My dirty pig is wallowing",
+              "back": "ang akong hugaw nga baboy naglamoy"
+            },
+            {
+              "front": "The white cow is grazing",
+              "back": "ang puti nga baka nanibsib"
+            },
+            {
+              "front": "The furry squirrel climbs trees",
+              "back": "ang balhiboon nga squirrel mokatkat sa mga kahoy"
+            },
+            {
+              "front": "The tall giraffe eats leaves",
+              "back": "ang taas nga giraffe mokaon ug dahon"
+            },
+            {
+              "front": "The brown bear is hibernating",
+              "back": "ang brown nga oso nag-hibernate"
+            },
+            {
+              "front": "The hungry tiger is stalking",
+              "back": "ang gutom nga tigre nag-atang"
+            },
+            {
+              "front": "We spotted a giant whale",
+              "back": "nakakita mig higanteng balyena"
+            },
+            {
+              "front": "They chased fast rabbits",
+              "back": "gigukod nila ang paspas nga mga koneho"
+            },
+            {
+              "front": "The playful dolphin is swimming",
+              "back": "ang dula nga dolphin naglangoy"
+            },
+            {
+              "front": "The strong goat is climbing",
+              "back": "nagsaka ang kusgan nga kanding"
+            },
+            {
+              "front": "My young chicken is laying",
+              "back": "nangitlog ang akong batan-ong manok"
+            },
+            {
+              "front": "The large snake is slithering",
+              "back": "ang dako nga bitin nag-agay"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "the small playful dog barks loudly",
+              "back": "kusog kaayo ang pag-uwang sa gamay nga iro nga magdula-dula"
+            },
+            {
+              "front": "the graceful flying eagle soars high",
+              "back": "ang maanyag nga nagalupad nga agila milupad sa kahitas-an"
+            },
+            {
+              "front": "the bright singing bird chirps cheerfully",
+              "back": "ang hayag nga nag-awit nga langgam nga malipayong huni"
+            },
+            {
+              "front": "the fast swimming fish glides gracefully",
+              "back": "ang paspas nga paglangoy sa isda nindot nga molupad"
+            },
+            {
+              "front": "the gentle grazing cow munches grass",
+              "back": "ang malumo nga manibsib nga baka mikaon sa balili"
+            },
+            {
+              "front": "the strong galloping horse runs freely",
+              "back": "ang kusgan nga nagdagan nga kabayo gawasnon nga nagdagan"
+            },
+            {
+              "front": "the happy clucking chicken scratches dirt",
+              "back": "ang malipayong clucking manok scratches hugaw"
+            },
+            {
+              "front": "the curious climbing goat jumps around playfully",
+              "back": "ang mausisaon nga nagsaka nga kanding naglukso-lukso nga madulaon"
+            },
+            {
+              "front": "the soft woolly sheep bleats softly now",
+              "back": "ang humok nga balhiboon nga karnero hinayhinay nga nagduka karon"
+            },
+            {
+              "front": "the fat rolling pig enjoys muddy puddles",
+              "back": "ang tambok nga nagligid nga baboy nalingaw sa lapok nga lim-aw"
+            },
+            {
+              "front": "the quick hopping rabbit dashes away quickly",
+              "back": "ang dali nga paglukso nga koneho dali nga nagpalayo"
+            },
+            {
+              "front": "the fierce roaring lion guards its territory",
+              "back": "ang mabangis nga nagangulob nga leon nagbantay sa iyang teritoryo"
+            },
+            {
+              "front": "the striped prowling tiger stalks its prey",
+              "back": "ang budlis nga nagsuroysuroy nga tigre naggukod sa iyang tukbonon"
+            },
+            {
+              "front": "the large gentle elephant trumpets very loudly",
+              "back": "ang dako nga malumo nga mga trumpeta sa elepante kusog kaayo"
+            },
+            {
+              "front": "the tall graceful giraffe grazes on trees",
+              "back": "ang taas ug nindot nga giraffe nanibsib sa mga kahoy"
+            },
+            {
+              "front": "the grizzly angry bear roars fiercely now",
+              "back": "ang grizzly nasuko nga oso nagngulob pag-ayo karon"
+            },
+            {
+              "front": "the curious swinging monkey chatters happily all",
+              "back": "ang kuryuso nga swinging monkey chatters malipayon sa tanan"
+            },
+            {
+              "front": "the bright orange lizard basks in sunlight",
+              "back": "ang hayag nga orange nga butiki molutaw sa kahayag sa adlaw"
+            },
+            {
+              "front": "the tiny agile squirrel scurries up trees",
+              "back": "ang gamay nga abtik nga squirrel nag-agay sa mga kahoy"
+            },
+            {
+              "front": "the friendly playful dolphin jumps in waves",
+              "back": "ang mahigalaon nga dula nga dolphin molukso sa mga balud"
+            },
+            {
+              "front": "the mighty powerful whale sings deep songs",
+              "back": "ang gamhanang gamhanang balyena nag-awit ug lawom nga mga awit"
+            },
+            {
+              "front": "the leaping energetic kangaroo bounds through grass",
+              "back": "ang naglukso-lukso nga abtik nga kangaroo naglibot sa sagbot"
+            },
+            {
+              "front": "the colorful dancing parrot flaps its wings",
+              "back": "ang mabulukon nga sayaw nga parrot nagpapakapa sa iyang mga pako"
+            },
+            {
+              "front": "the swift slithering snake moves very silently",
+              "back": "hilom kaayo nga naglihok ang matulin nga nagkalayo nga bitin"
+            },
+            {
+              "front": "the strong barking dog alerts the owner",
+              "back": "ang kusgan nga nag-uwang nga iro nagpaalerto sa tag-iya"
+            },
+            {
+              "front": "the elegant swimming swan glides on water",
+              "back": "ang elegante nga swimming swan milupad sa tubig"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "swan glided",
+              "back": "swan milupad"
+            },
+            {
+              "front": "kangaroo hopped",
+              "back": "nilukso ang kangaroo"
+            },
+            {
+              "front": "dog barked",
+              "back": "iro nanguwang"
+            },
+            {
+              "front": "cat jumped",
+              "back": "iring nilukso"
+            },
+            {
+              "front": "bird sang",
+              "back": "awit sa langgam"
+            },
+            {
+              "front": "fish swam",
+              "back": "naglangoy ang isda"
+            },
+            {
+              "front": "cow grazed",
+              "back": "baka gipasibsib"
+            },
+            {
+              "front": "horse galloped",
+              "back": "kabayo nga nagdagan"
+            },
+            {
+              "front": "chicken scratched",
+              "back": "manok gikumot"
+            },
+            {
+              "front": "goat climbed",
+              "back": "kanding misaka"
+            },
+            {
+              "front": "sheep bleated",
+              "back": "mga karnero nga nagdugo"
+            },
+            {
+              "front": "pig rolled",
+              "back": "baboy giligid"
+            },
+            {
+              "front": "rabbit dashed",
+              "back": "nahugno ang koneho"
+            },
+            {
+              "front": "lion roared",
+              "back": "nagngulob ang leon"
+            },
+            {
+              "front": "tiger stalked",
+              "back": "tigre nga giuhaw"
+            },
+            {
+              "front": "elephant trumpeted",
+              "back": "elepante nga nagbudyong"
+            },
+            {
+              "front": "giraffe reached",
+              "back": "naabot ang giraffe"
+            },
+            {
+              "front": "bear roamed",
+              "back": "nagsuroysuroy ang oso"
+            },
+            {
+              "front": "monkey swung",
+              "back": "nituyok ang unggoy"
+            },
+            {
+              "front": "frog jumped",
+              "back": "nilukso ang baki"
+            },
+            {
+              "front": "snake slithered",
+              "back": "bitin nga milayat"
+            },
+            {
+              "front": "lizard basked",
+              "back": "tuko nabusog"
+            },
+            {
+              "front": "dolphin jumped",
+              "back": "nilukso ang dolphin"
+            },
+            {
+              "front": "whale sang",
+              "back": "nikanta ang balyena"
+            },
+            {
+              "front": "squirrel stored",
+              "back": "squirrel nga gitipigan"
+            },
+            {
+              "front": "parrot squawked",
+              "back": "mikurog ang parrot"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "swan glided smoothly",
+              "back": "ang sisne hapsay nga milupad"
+            },
+            {
+              "front": "kangaroo hopped energetically",
+              "back": "kusog nga milukso ang kangaroo"
+            },
+            {
+              "front": "dog barked loudly",
+              "back": "kusog nga misinggit ang iro"
+            },
+            {
+              "front": "cat jumped high",
+              "back": "iring nilukso ug taas"
+            },
+            {
+              "front": "bird sang beautifully",
+              "back": "nindot nga kanta ang langgam"
+            },
+            {
+              "front": "fish swam swiftly",
+              "back": "paspas nga milangoy ang isda"
+            },
+            {
+              "front": "cow grazed peacefully",
+              "back": "baka nanibsib nga malinawon"
+            },
+            {
+              "front": "horse galloped fast",
+              "back": "kusog nga midagan ang kabayo"
+            },
+            {
+              "front": "chicken scratched eagerly",
+              "back": "manok gikaskas nga mahinamon"
+            },
+            {
+              "front": "goat climbed skillfully",
+              "back": "kanding sa pagkatkat nga hanas"
+            },
+            {
+              "front": "sheep bleated softly",
+              "back": "ang mga karnero hinay nga nagdugo"
+            },
+            {
+              "front": "pig rolled happily",
+              "back": "baboy nga giligid nga malipayon"
+            },
+            {
+              "front": "rabbit dashed quickly",
+              "back": "dali nga midagan ang koneho"
+            },
+            {
+              "front": "lion roared fiercely",
+              "back": "leyon nagngulob sa mabangis"
+            },
+            {
+              "front": "tiger stalked quietly",
+              "back": "hilom nga nangulitawo ang tigre"
+            },
+            {
+              "front": "elephant trumpeted loudly",
+              "back": "kusog nga trumpeta ang elepante"
+            },
+            {
+              "front": "giraffe reached gracefully",
+              "back": "giraffe nga nakab-ot nga nindot"
+            },
+            {
+              "front": "bear roamed freely",
+              "back": "gawasnon nga nagsuroysuroy ang oso"
+            },
+            {
+              "front": "monkey swung playfully",
+              "back": "unggoy nga nagduladula"
+            },
+            {
+              "front": "frog jumped high",
+              "back": "nilukso og taas ang baki"
+            },
+            {
+              "front": "snake slithered silently",
+              "back": "halas nga milayat sa hilom"
+            },
+            {
+              "front": "lizard basked lazily",
+              "back": "tapolan ang lizard"
+            },
+            {
+              "front": "dolphin jumped joyfully",
+              "back": "milukso nga malipayon ang dolphin"
+            },
+            {
+              "front": "whale sang deeply",
+              "back": "halawom nga miawit ang balyena"
+            },
+            {
+              "front": "squirrel stored nuts",
+              "back": "squirrel gitipigan nuts"
+            },
+            {
+              "front": "parrot squawked loudly",
+              "back": "Kusog nga nagyawyaw ang parrot"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I saw a dog",
+              "back": "nakakita ko ug iro"
+            },
+            {
+              "front": "They chased the rabbit",
+              "back": "gigukod nila ang koneho"
+            },
+            {
+              "front": "We found the lion",
+              "back": "among nakit-an ang leon"
+            },
+            {
+              "front": "She fed the cat",
+              "back": "gipakaon niya ang iring"
+            },
+            {
+              "front": "He saw the bird",
+              "back": "nakita niya ang langgam"
+            },
+            {
+              "front": "I heard a frog",
+              "back": "nakadungog ko ug baki"
+            },
+            {
+              "front": "They caught the fish",
+              "back": "ilang nakuha ang isda"
+            },
+            {
+              "front": "We lost the goat",
+              "back": "nawala namo ang kanding"
+            },
+            {
+              "front": "You saw a monkey",
+              "back": "nakakita ka ug unggoy"
+            },
+            {
+              "front": "He killed a snake",
+              "back": "nakapatay siyag bitin"
+            },
+            {
+              "front": "We fed the pig",
+              "back": "gipakaon namo ang baboy"
+            },
+            {
+              "front": "She spotted a giraffe",
+              "back": "nakakita siyag giraffe"
+            },
+            {
+              "front": "They heard the bear",
+              "back": "nadungog nila ang oso"
+            },
+            {
+              "front": "I watched the deer",
+              "back": "Gitan-aw ko ang usa"
+            },
+            {
+              "front": "You found the rabbit",
+              "back": "nakit-an nimo ang koneho"
+            },
+            {
+              "front": "He ran from lions",
+              "back": "midagan siya gikan sa mga leon"
+            },
+            {
+              "front": "We met the dolphin",
+              "back": "nagkita mi sa dolphin"
+            },
+            {
+              "front": "She chased the squirrel",
+              "back": "gigukod niya ang squirrel"
+            },
+            {
+              "front": "They caught the tiger",
+              "back": "nadakpan nila ang tigre"
+            },
+            {
+              "front": "I saw a whale",
+              "back": "nakakita ko ug balyena"
+            },
+            {
+              "front": "We killed the snake",
+              "back": "gipatay namo ang bitin"
+            },
+            {
+              "front": "You helped the chicken",
+              "back": "gitabangan nimo ang manok"
+            },
+            {
+              "front": "He chased the frog",
+              "back": "gigukod niya ang baki"
+            },
+            {
+              "front": "They found a bear",
+              "back": "nakakita sila ug oso"
+            },
+            {
+              "front": "We heard the birds",
+              "back": "nadungog namo ang mga langgam"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I saw the big dog",
+              "back": "Nakita nako ang dakong iro"
+            },
+            {
+              "front": "They chased after the rabbit",
+              "back": "gigukod nila ang koneho"
+            },
+            {
+              "front": "We found a lost lion",
+              "back": "nakit-an namo ang nawala nga leon"
+            },
+            {
+              "front": "She fed the hungry cat",
+              "back": "gipakaon niya ang gigutom nga iring"
+            },
+            {
+              "front": "He saw the small bird",
+              "back": "nakita niya ang gamay nga langgam"
+            },
+            {
+              "front": "I heard the loud frog",
+              "back": "Nadungog nako ang kusog nga baki"
+            },
+            {
+              "front": "They caught the big fish",
+              "back": "nakuha nila ang dagkong isda"
+            },
+            {
+              "front": "We lost the wild goat",
+              "back": "nawala namo ang ihalas nga kanding"
+            },
+            {
+              "front": "You saw the cute monkey",
+              "back": "nakita nimo ang cute nga unggoy"
+            },
+            {
+              "front": "He killed the large snake",
+              "back": "gipatay niya ang dakong bitin"
+            },
+            {
+              "front": "We fed the fat pig",
+              "back": "gipakaon namo ang tambok nga baboy"
+            },
+            {
+              "front": "She spotted the tall giraffe",
+              "back": "iyang nakita ang taas nga giraffe"
+            },
+            {
+              "front": "They heard the big bear",
+              "back": "nadungog nila ang dakong oso"
+            },
+            {
+              "front": "I watched the fast deer",
+              "back": "Gitan-aw ko ang paspas nga osa"
+            },
+            {
+              "front": "You found the tiny rabbit",
+              "back": "nakit-an nimo ang gamay nga koneho"
+            },
+            {
+              "front": "He ran from the lions",
+              "back": "midagan siya gikan sa mga leon"
+            },
+            {
+              "front": "We met a playful dolphin",
+              "back": "nakahibalag mi ug playful dolphin"
+            },
+            {
+              "front": "She chased the small squirrel",
+              "back": "gigukod niya ang gamay nga squirrel"
+            },
+            {
+              "front": "They caught the hungry tiger",
+              "back": "ilang nadakpan ang gigutom nga tigre"
+            },
+            {
+              "front": "I saw the huge whale",
+              "back": "Nakita nako ang dakong balyena"
+            },
+            {
+              "front": "We killed the large snake",
+              "back": "gipatay namo ang dakong bitin"
+            },
+            {
+              "front": "You helped the small chicken",
+              "back": "gitabangan nimo ang gamay nga manok"
+            },
+            {
+              "front": "He chased the fast frog",
+              "back": "gigukod niya ang paspas nga baki"
+            },
+            {
+              "front": "They found a big bear",
+              "back": "nakakita sila ug dakong oso"
+            },
+            {
+              "front": "We heard the loud birds",
+              "back": "nadungog namo ang kusog nga mga langgam"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I saw the big brown dog",
+              "back": "Nakita nako ang dako nga brown nga iro"
+            },
+            {
+              "front": "They chased the rabbit through fields",
+              "back": "gigukod nila ang koneho agi sa kaumahan"
+            },
+            {
+              "front": "We found a lion in the jungle",
+              "back": "nakakita kami ug leyon sa lasang"
+            },
+            {
+              "front": "She fed the hungry cat yesterday",
+              "back": "gipakaon niya ang gigutom nga iring kagahapon"
+            },
+            {
+              "front": "He saw the small bird fly",
+              "back": "nakita niya ang gamay nga langgam nga naglupad"
+            },
+            {
+              "front": "I heard the loud frog croaking",
+              "back": "Nadungog ko ang kusog nga baki nga nag-uwang"
+            },
+            {
+              "front": "They caught the big fish today",
+              "back": "nakuha nila ang dagkong isda karon"
+            },
+            {
+              "front": "We lost the wild goat yesterday",
+              "back": "napildi mi sa ihalas nga kanding gahapon"
+            },
+            {
+              "front": "You saw the cute monkey swinging",
+              "back": "nakita nimo ang cute nga unggoy nga nagduyan"
+            },
+            {
+              "front": "He killed the large snake last",
+              "back": "katapusan niyang gipatay ang dakong bitin"
+            },
+            {
+              "front": "We fed the fat pig today",
+              "back": "gipakaon namo ang tambok nga baboy karon"
+            },
+            {
+              "front": "She spotted the tall giraffe eating",
+              "back": "iyang nakita ang taas nga giraffe nga nagkaon"
+            },
+            {
+              "front": "They heard the big brown bear",
+              "back": "nadungog nila ang dakong brown nga oso"
+            },
+            {
+              "front": "I watched the fast deer running",
+              "back": "Gitan-aw ko ang kusog nga lagsaw nga nagdagan"
+            },
+            {
+              "front": "You found the tiny rabbit burrowing",
+              "back": "nakit-an nimo ang gamay nga koneho nga naglubong"
+            },
+            {
+              "front": "He ran from the hungry lions",
+              "back": "midagan siya gikan sa gigutom nga mga leon"
+            },
+            {
+              "front": "We met a playful dolphin yesterday",
+              "back": "nagkita mi ug duwa-duwa nga dolphin gahapon"
+            },
+            {
+              "front": "She chased the small squirrel quickly",
+              "back": "dali niyang gigukod ang gamay nga squirrel"
+            },
+            {
+              "front": "They caught the hungry tiger today",
+              "back": "nadakpan nila ang gigutom nga tigre karon"
+            },
+            {
+              "front": "I saw the huge whale swimming",
+              "back": "Nakita nako ang dakong balyena nga naglangoy"
+            },
+            {
+              "front": "We killed the large snake today",
+              "back": "gipatay namo ang dakong bitin karon"
+            },
+            {
+              "front": "You helped the small chicken hatch",
+              "back": "gitabangan nimo ang gamay nga manok nga mapusa"
+            },
+            {
+              "front": "He chased the fast frog away",
+              "back": "giabog niya ang paspas nga baki"
+            },
+            {
+              "front": "They found a big bear hiding",
+              "back": "nakakita sila ug dakong oso nga nagtago"
+            },
+            {
+              "front": "We heard the loud birds chirping",
+              "back": "nadungog namo ang kusog nga huni sa mga langgam"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "swan will glide",
+              "back": "swan molupad"
+            },
+            {
+              "front": "kangaroo will hop",
+              "back": "molukso ang kangaroo"
+            },
+            {
+              "front": "dog will bark",
+              "back": "ang iro mouwang"
+            },
+            {
+              "front": "cat will jump",
+              "back": "iring moambak"
+            },
+            {
+              "front": "bird will sing",
+              "back": "mokanta ang langgam"
+            },
+            {
+              "front": "fish will swim",
+              "back": "molangoy ang isda"
+            },
+            {
+              "front": "cow will graze",
+              "back": "manibsib ang baka"
+            },
+            {
+              "front": "horse will gallop",
+              "back": "kabayo modagan"
+            },
+            {
+              "front": "chicken will scratch",
+              "back": "manok mokamot"
+            },
+            {
+              "front": "goat will climb",
+              "back": "kanding mosaka"
+            },
+            {
+              "front": "sheep will bleat",
+              "back": "ang mga karnero mag-uwang"
+            },
+            {
+              "front": "pig will roll",
+              "back": "baboy magligid"
+            },
+            {
+              "front": "rabbit will dash",
+              "back": "koneho modasmag"
+            },
+            {
+              "front": "lion will roar",
+              "back": "magngulob ang leon"
+            },
+            {
+              "front": "tiger will stalk",
+              "back": "tigre mag stalk"
+            },
+            {
+              "front": "elephant will trumpet",
+              "back": "elepante magbudyong"
+            },
+            {
+              "front": "giraffe will reach",
+              "back": "makaabot ang giraffe"
+            },
+            {
+              "front": "bear will roam",
+              "back": "magsuroysuroy ang oso"
+            },
+            {
+              "front": "monkey will swing",
+              "back": "unggoy magduyan"
+            },
+            {
+              "front": "frog will jump",
+              "back": "molukso ang baki"
+            },
+            {
+              "front": "snake will slither",
+              "back": "bitin molaag"
+            },
+            {
+              "front": "lizard will bask",
+              "back": "ang tuko mobaha"
+            },
+            {
+              "front": "dolphin will jump",
+              "back": "molukso ang dolphin"
+            },
+            {
+              "front": "whale will sing",
+              "back": "mokanta ang balyena"
+            },
+            {
+              "front": "squirrel will store",
+              "back": "squirrel magtipig"
+            },
+            {
+              "front": "parrot will squawk",
+              "back": "magkurog ang parrot"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will watch birds",
+              "back": "magbantay ko ug langgam"
+            },
+            {
+              "front": "They will chase frogs",
+              "back": "gukdon nila ang mga baki"
+            },
+            {
+              "front": "We will catch fish",
+              "back": "mangisda mi"
+            },
+            {
+              "front": "We will hunt pigs",
+              "back": "mangayam mi ug baboy"
+            },
+            {
+              "front": "He will find goats",
+              "back": "mangita siya ug mga kanding"
+            },
+            {
+              "front": "She will spot lions",
+              "back": "makakita siyag mga leyon"
+            },
+            {
+              "front": "I will feed pigs",
+              "back": "magpakaon ko ug baboy"
+            },
+            {
+              "front": "They will hear birds",
+              "back": "makadungog sila ug mga langgam"
+            },
+            {
+              "front": "We will see monkeys",
+              "back": "makakita mi ug unggoy"
+            },
+            {
+              "front": "I will catch rabbits",
+              "back": "mangdakop ko ug rabbit"
+            },
+            {
+              "front": "He will hunt deer",
+              "back": "mangayam siya ug usa"
+            },
+            {
+              "front": "We will find bears",
+              "back": "makakita kita ug mga oso"
+            },
+            {
+              "front": "She will chase squirrels",
+              "back": "iyang gukdon ang mga squirrel"
+            },
+            {
+              "front": "They will feed chickens",
+              "back": "magpakaon sila ug manok"
+            },
+            {
+              "front": "We will spot giraffes",
+              "back": "kita makakita sa mga giraffe"
+            },
+            {
+              "front": "I will see lions",
+              "back": "makakita kog mga leyon"
+            },
+            {
+              "front": "He will chase snakes",
+              "back": "iyang gukdon ang mga bitin"
+            },
+            {
+              "front": "They will spot whales",
+              "back": "makakita sila ug mga balyena"
+            },
+            {
+              "front": "We will catch frogs",
+              "back": "manakop mi ug baki"
+            },
+            {
+              "front": "I will find deer",
+              "back": "pangitaon ko ang usa"
+            },
+            {
+              "front": "We will see tigers",
+              "back": "makakita mi ug tigre"
+            },
+            {
+              "front": "He will hunt rabbits",
+              "back": "mangayam siya ug mga koneho"
+            },
+            {
+              "front": "They will watch bears",
+              "back": "magbantay sila ug mga oso"
+            },
+            {
+              "front": "I will feed horses",
+              "back": "pakan-on ko ang mga kabayo"
+            },
+            {
+              "front": "We will catch dolphins",
+              "back": "manakop mi ug mga dolphin"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will see a dog",
+              "back": "makakita ko ug iro"
+            },
+            {
+              "front": "They will chase the rabbit",
+              "back": "ilang gukdon ang koneho"
+            },
+            {
+              "front": "We will find the lion",
+              "back": "pangitaon nato ang leon"
+            },
+            {
+              "front": "She will feed the cat",
+              "back": "pakan-on niya ang iring"
+            },
+            {
+              "front": "He will see the bird",
+              "back": "makita niya ang langgam"
+            },
+            {
+              "front": "I will hear the frog",
+              "back": "makadungog ko sa baki"
+            },
+            {
+              "front": "They will catch the fish",
+              "back": "madakpan nila ang isda"
+            },
+            {
+              "front": "We will lose the goat",
+              "back": "mapildi nato ang kanding"
+            },
+            {
+              "front": "You will see a monkey",
+              "back": "makakita ka ug unggoy"
+            },
+            {
+              "front": "He will kill the snake",
+              "back": "patyon niya ang bitin"
+            },
+            {
+              "front": "We will feed the pig",
+              "back": "atong pakan-on ang baboy"
+            },
+            {
+              "front": "She will spot a giraffe",
+              "back": "makakita siyag giraffe"
+            },
+            {
+              "front": "They will hear the bear",
+              "back": "makadungog sila sa oso"
+            },
+            {
+              "front": "I will watch the deer",
+              "back": "tan-awon ko ang usa"
+            },
+            {
+              "front": "You will find the rabbit",
+              "back": "makit-an nimo ang koneho"
+            },
+            {
+              "front": "He will run from lions",
+              "back": "siya modagan gikan sa mga leon"
+            },
+            {
+              "front": "We will meet the dolphin",
+              "back": "magkita mi sa dolphin"
+            },
+            {
+              "front": "She will chase the squirrel",
+              "back": "iyang gukdon ang squirrel"
+            },
+            {
+              "front": "They will catch the tiger",
+              "back": "dakpon nila ang tigre"
+            },
+            {
+              "front": "I will see a whale",
+              "back": "makakita ko ug balyena"
+            },
+            {
+              "front": "We will kill the snake",
+              "back": "patyon namo ang bitin"
+            },
+            {
+              "front": "You will help the chicken",
+              "back": "tabangan nimo ang manok"
+            },
+            {
+              "front": "He will chase the frog",
+              "back": "iyang gukdon ang baki"
+            },
+            {
+              "front": "They will find a bear",
+              "back": "makakita sila ug oso"
+            },
+            {
+              "front": "We will hear the birds",
+              "back": "madungog namo ang mga langgam"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will watch birds fly today",
+              "back": "Magtan-aw ko sa mga langgam nga molupad karon"
+            },
+            {
+              "front": "They will chase frogs in fields",
+              "back": "gukdon nila ang mga baki sa kaumahan"
+            },
+            {
+              "front": "We will catch fish tomorrow morning",
+              "back": "mangisda mi ugma sa buntag"
+            },
+            {
+              "front": "We will hunt pigs near forest",
+              "back": "mangayam mi ug baboy duol sa lasang"
+            },
+            {
+              "front": "He will find goats in mountains",
+              "back": "makakita siya ug mga kanding sa kabukiran"
+            },
+            {
+              "front": "She will spot lions in jungle",
+              "back": "makakita siyag mga leyon sa lasang"
+            },
+            {
+              "front": "I will feed pigs every morning",
+              "back": "magpakaon ko ug baboy kada buntag"
+            },
+            {
+              "front": "They will hear birds singing loudly",
+              "back": "makadungog silag mga langgam nga nanag-awit ug kusog"
+            },
+            {
+              "front": "We will see monkeys in trees",
+              "back": "makakita mi ug unggoy sa mga kahoy"
+            },
+            {
+              "front": "I will catch rabbits in fields",
+              "back": "mangdakop ko ug koneho sa kaumahan"
+            },
+            {
+              "front": "He will hunt deer in woods",
+              "back": "mangayam siya ug usa sa kakahoyan"
+            },
+            {
+              "front": "We will find bears in caves",
+              "back": "makakita kita ug mga oso sa mga langob"
+            },
+            {
+              "front": "She will chase squirrels up trees",
+              "back": "iyang gukdon ang mga squirrel sa mga kahoy"
+            },
+            {
+              "front": "They will feed chickens every day",
+              "back": "kada adlaw sila magpakaon ug manok"
+            },
+            {
+              "front": "We will spot giraffes in plains",
+              "back": "kita makakita og mga giraffe sa kapatagan"
+            },
+            {
+              "front": "I will see lions in zoo",
+              "back": "makakita kog lion sa zoo"
+            },
+            {
+              "front": "He will chase snakes in grass",
+              "back": "iyang gukdon ang mga bitin sa balili"
+            },
+            {
+              "front": "They will spot whales in ocean",
+              "back": "makakita sila ug mga balyena sa kadagatan"
+            },
+            {
+              "front": "We will catch frogs by stream",
+              "back": "manakop mi ug baki sa sapa"
+            },
+            {
+              "front": "I will find deer in woods",
+              "back": "makakita ko og usa sa kakahoyan"
+            },
+            {
+              "front": "We will see tigers in jungle",
+              "back": "makakita mig tigre sa lasang"
+            },
+            {
+              "front": "He will hunt rabbits in fields",
+              "back": "mangayam siya ug mga koneho sa kaumahan"
+            },
+            {
+              "front": "They will watch bears in wild",
+              "back": "sila motan-aw sa mga oso sa ihalas"
+            },
+            {
+              "front": "I will feed horses in stable",
+              "back": "pakan-on ko ang mga kabayo sa kwadra"
+            },
+            {
+              "front": "We will catch dolphins in sea",
+              "back": "manakop mi ug dolphin sa dagat"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

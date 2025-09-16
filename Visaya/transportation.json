@@ -1,0 +1,2798 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Transportation",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Route",
+              "back": "rota"
+            },
+            {
+              "front": "Schedule",
+              "back": "eskedyul"
+            },
+            {
+              "front": "Ticket",
+              "back": "tiket"
+            },
+            {
+              "front": "Station",
+              "back": "estasyon"
+            },
+            {
+              "front": "Platform",
+              "back": "plataporma"
+            },
+            {
+              "front": "Transfer",
+              "back": "pagbalhin"
+            },
+            {
+              "front": "Cargo",
+              "back": "kargamento"
+            },
+            {
+              "front": "Freight",
+              "back": "kargamento"
+            },
+            {
+              "front": "Transit",
+              "back": "transit"
+            },
+            {
+              "front": "Commute",
+              "back": "commute"
+            },
+            {
+              "front": "Journey",
+              "back": "panaw"
+            },
+            {
+              "front": "Connection",
+              "back": "koneksyon"
+            },
+            {
+              "front": "Departure",
+              "back": "pagbiya"
+            },
+            {
+              "front": "Arrival",
+              "back": "pag-abot"
+            },
+            {
+              "front": "Boarding",
+              "back": "sakay"
+            },
+            {
+              "front": "Queue",
+              "back": "pila"
+            },
+            {
+              "front": "Fare",
+              "back": "Buhata"
+            },
+            {
+              "front": "Luggage",
+              "back": "bagahe"
+            },
+            {
+              "front": "Safety",
+              "back": "kaluwasan"
+            },
+            {
+              "front": "Regulation",
+              "back": "regulasyon"
+            },
+            {
+              "front": "Signage",
+              "back": "signage"
+            },
+            {
+              "front": "Conductor",
+              "back": "konduktor"
+            },
+            {
+              "front": "Passenger",
+              "back": "pasahero"
+            },
+            {
+              "front": "Navigation",
+              "back": "nabigasyon"
+            },
+            {
+              "front": "Inspection",
+              "back": "inspeksyon"
+            },
+            {
+              "front": "Traffic",
+              "back": "trapiko"
+            },
+            {
+              "front": "Control",
+              "back": "kontrol"
+            },
+            {
+              "front": "Signaling",
+              "back": "pagsenyas"
+            },
+            {
+              "front": "Distance",
+              "back": "gilay-on"
+            },
+            {
+              "front": "Destination",
+              "back": "destinasyon"
+            },
+            {
+              "front": "Reservation",
+              "back": "reserbasyon"
+            },
+            {
+              "front": "Payment",
+              "back": "pagbayad"
+            },
+            {
+              "front": "Accessibility",
+              "back": "accessibility"
+            },
+            {
+              "front": "Transportation",
+              "back": "transportasyon"
+            },
+            {
+              "front": "Infrastructure",
+              "back": "imprastraktura"
+            },
+            {
+              "front": "Service",
+              "back": "serbisyo"
+            },
+            {
+              "front": "Operation",
+              "back": "operasyon"
+            },
+            {
+              "front": "Capacity",
+              "back": "kapasidad"
+            },
+            {
+              "front": "Compliance",
+              "back": "pagsunod"
+            },
+            {
+              "front": "Conveyance",
+              "back": "transportasyon"
+            },
+            {
+              "front": "Movement",
+              "back": "paglihok"
+            },
+            {
+              "front": "Modal",
+              "back": "kapital"
+            },
+            {
+              "front": "Planning",
+              "back": "pagplano"
+            },
+            {
+              "front": "Allocation",
+              "back": "alokasyon"
+            },
+            {
+              "front": "Logistics",
+              "back": "logistik"
+            },
+            {
+              "front": "Network",
+              "back": "network"
+            },
+            {
+              "front": "Hub",
+              "back": "hub"
+            },
+            {
+              "front": "Interchange",
+              "back": "pagbayloay"
+            },
+            {
+              "front": "Routing",
+              "back": "pagruta"
+            },
+            {
+              "front": "System",
+              "back": "sistema"
+            },
+            {
+              "front": "Cycle",
+              "back": "siklo"
+            },
+            {
+              "front": "Efficiency",
+              "back": "pagkaepisyente"
+            },
+            {
+              "front": "Compliance",
+              "back": "pagsunod"
+            },
+            {
+              "front": "Consultation",
+              "back": "konsultasyon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "departure time",
+              "back": "oras sa pagbiya"
+            },
+            {
+              "front": "arrival schedule",
+              "back": "iskedyul sa pag-abot"
+            },
+            {
+              "front": "ticket counter",
+              "back": "ticket counter"
+            },
+            {
+              "front": "platform number",
+              "back": "numero sa plataporma"
+            },
+            {
+              "front": "route map",
+              "back": "mapa sa ruta"
+            },
+            {
+              "front": "cargo space",
+              "back": "luna sa kargamento"
+            },
+            {
+              "front": "freight load",
+              "back": "load sa kargamento"
+            },
+            {
+              "front": "commute route",
+              "back": "ruta sa pag-commute"
+            },
+            {
+              "front": "queue line",
+              "back": "linya sa pila"
+            },
+            {
+              "front": "fare price",
+              "back": "paghimo sa presyo"
+            },
+            {
+              "front": "passenger service",
+              "back": "serbisyo sa pasahero"
+            },
+            {
+              "front": "transfer station",
+              "back": "estasyon sa pagbalhin"
+            },
+            {
+              "front": "traffic signal",
+              "back": "signal sa trapiko"
+            },
+            {
+              "front": "safety measure",
+              "back": "sukod sa kaluwasan"
+            },
+            {
+              "front": "inspection area",
+              "back": "lugar sa inspeksyon"
+            },
+            {
+              "front": "journey plan",
+              "back": "plano sa pagbiyahe"
+            },
+            {
+              "front": "navigation tool",
+              "back": "himan sa nabigasyon"
+            },
+            {
+              "front": "bus stop",
+              "back": "hunonganan sa bus"
+            },
+            {
+              "front": "rail line",
+              "back": "linya sa tren"
+            },
+            {
+              "front": "logistics network",
+              "back": "logistik nga network"
+            },
+            {
+              "front": "modal transport",
+              "back": "modal nga transportasyon"
+            },
+            {
+              "front": "travel allowance",
+              "back": "allowance sa pagbiyahe"
+            },
+            {
+              "front": "system upgrade",
+              "back": "pag-upgrade sa sistema"
+            },
+            {
+              "front": "capacity limit",
+              "back": "limitasyon sa kapasidad"
+            },
+            {
+              "front": "accessibility feature",
+              "back": "feature sa accessibility"
+            },
+            {
+              "front": "route planner",
+              "back": "tigplano sa ruta"
+            },
+            {
+              "front": "connection point",
+              "back": "punto sa koneksyon"
+            },
+            {
+              "front": "service area",
+              "back": "lugar sa serbisyo"
+            },
+            {
+              "front": "consultation meeting",
+              "back": "miting sa konsultasyon"
+            },
+            {
+              "front": "compliance check",
+              "back": "pagsusi sa pagsunod"
+            },
+            {
+              "front": "operation schedule",
+              "back": "eskedyul sa operasyon"
+            },
+            {
+              "front": "movement tracking",
+              "back": "pagsubay sa lihok"
+            },
+            {
+              "front": "distance measurement",
+              "back": "pagsukod sa gilay-on"
+            },
+            {
+              "front": "hub location",
+              "back": "lokasyon sa hub"
+            },
+            {
+              "front": "network analysis",
+              "back": "pagtuki sa network"
+            },
+            {
+              "front": "allocation strategy",
+              "back": "estratehiya sa alokasyon"
+            },
+            {
+              "front": "signage system",
+              "back": "sistema sa signage"
+            },
+            {
+              "front": "traffic report",
+              "back": "report sa trapiko"
+            },
+            {
+              "front": "consultation service",
+              "back": "serbisyo sa konsultasyon"
+            },
+            {
+              "front": "logistics plan",
+              "back": "plano sa logistik"
+            },
+            {
+              "front": "bicycle lane",
+              "back": "lane sa bisikleta"
+            },
+            {
+              "front": "emergency response",
+              "back": "emerhensya nga tubag"
+            },
+            {
+              "front": "driving rule",
+              "back": "lagda sa pagmaneho"
+            },
+            {
+              "front": "road safety",
+              "back": "kaluwasan sa dalan"
+            },
+            {
+              "front": "service route",
+              "back": "ruta sa serbisyo"
+            },
+            {
+              "front": "schedule update",
+              "back": "update sa iskedyul"
+            },
+            {
+              "front": "traffic congestion",
+              "back": "kahuot sa trapiko"
+            },
+            {
+              "front": "reservation system",
+              "back": "sistema sa pagpareserba"
+            },
+            {
+              "front": "planning meeting",
+              "back": "miting sa pagplano"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "good departure time",
+              "back": "maayong oras sa pagbiya"
+            },
+            {
+              "front": "reliable arrival schedule",
+              "back": "kasaligan nga iskedyul sa pag-abot"
+            },
+            {
+              "front": "busy ticket counter",
+              "back": "busy nga ticket counter"
+            },
+            {
+              "front": "correct platform number",
+              "back": "husto nga numero sa plataporma"
+            },
+            {
+              "front": "clear route map",
+              "back": "klaro nga mapa sa ruta"
+            },
+            {
+              "front": "limited cargo space",
+              "back": "limitado nga espasyo sa kargamento"
+            },
+            {
+              "front": "heavy freight load",
+              "back": "bug-at nga kargamento"
+            },
+            {
+              "front": "long commute route",
+              "back": "taas nga ruta sa pagbiyahe"
+            },
+            {
+              "front": "active queue line",
+              "back": "aktibo nga linya sa pila"
+            },
+            {
+              "front": "rising fare price",
+              "back": "pagsaka sa presyo sa plitehan"
+            },
+            {
+              "front": "excellent passenger service",
+              "back": "maayo kaayo nga serbisyo sa pasahero"
+            },
+            {
+              "front": "crowded transfer station",
+              "back": "naghuot nga estasyon sa pagbalhin"
+            },
+            {
+              "front": "green traffic signal",
+              "back": "berde nga signal sa trapiko"
+            },
+            {
+              "front": "important safety measure",
+              "back": "importante nga sukod sa kaluwasan"
+            },
+            {
+              "front": "busy inspection area",
+              "back": "busy nga inspeksyon nga lugar"
+            },
+            {
+              "front": "clear journey plan",
+              "back": "klaro nga plano sa pagbiyahe"
+            },
+            {
+              "front": "accurate navigation tool",
+              "back": "tukma nga himan sa nabigasyon"
+            },
+            {
+              "front": "nearby bus stop",
+              "back": "duol nga bus stop"
+            },
+            {
+              "front": "smooth rail line",
+              "back": "hapsay nga linya sa tren"
+            },
+            {
+              "front": "efficient logistics network",
+              "back": "episyente nga logistics network"
+            },
+            {
+              "front": "varied modal transport",
+              "back": "lainlain nga modal nga transportasyon"
+            },
+            {
+              "front": "flexible travel allowance",
+              "back": "flexible nga allowance sa pagbiyahe"
+            },
+            {
+              "front": "beneficial system upgrade",
+              "back": "mapuslanon nga pag-upgrade sa sistema"
+            },
+            {
+              "front": "reached capacity limit",
+              "back": "nakaabot sa limitasyon sa kapasidad"
+            },
+            {
+              "front": "useful accessibility feature",
+              "back": "mapuslanon nga bahin sa pagka-access"
+            },
+            {
+              "front": "handy route planner",
+              "back": "magamit nga tigplano sa ruta"
+            },
+            {
+              "front": "convenient connection point",
+              "back": "kombenyente nga punto sa koneksyon"
+            },
+            {
+              "front": "clean service area",
+              "back": "limpyo nga lugar sa serbisyo"
+            },
+            {
+              "front": "productive consultation meeting",
+              "back": "produktibo nga miting sa konsultasyon"
+            },
+            {
+              "front": "necessary compliance check",
+              "back": "gikinahanglan nga compliance check"
+            },
+            {
+              "front": "updated operation schedule",
+              "back": "updated nga eskedyul sa operasyon"
+            },
+            {
+              "front": "accurate movement tracking",
+              "back": "tukma nga pagsubay sa paglihok"
+            },
+            {
+              "front": "precise distance measurement",
+              "back": "tukma nga pagsukod sa gilay-on"
+            },
+            {
+              "front": "accessible hub location",
+              "back": "accessible hub lokasyon"
+            },
+            {
+              "front": "insightful network analysis",
+              "back": "makahuluganon nga pagtuki sa network"
+            },
+            {
+              "front": "efficient allocation strategy",
+              "back": "episyente nga estratehiya sa alokasyon"
+            },
+            {
+              "front": "clear signage system",
+              "back": "klaro nga signage system"
+            },
+            {
+              "front": "informative traffic report",
+              "back": "informative report sa trapiko"
+            },
+            {
+              "front": "helpful consultation service",
+              "back": "makatabang nga serbisyo sa konsultasyon"
+            },
+            {
+              "front": "effective logistics plan",
+              "back": "epektibo nga plano sa logistik"
+            },
+            {
+              "front": "safe bicycle lane",
+              "back": "luwas nga bicycle lane"
+            },
+            {
+              "front": "swift emergency response",
+              "back": "paspas nga pagtubag sa emerhensya"
+            },
+            {
+              "front": "universal driving rule",
+              "back": "unibersal nga lagda sa pagmaneho"
+            },
+            {
+              "front": "crucial road safety",
+              "back": "importante nga kaluwasan sa dalan"
+            },
+            {
+              "front": "adjusted service route",
+              "back": "gipahiangay nga ruta sa serbisyo"
+            },
+            {
+              "front": "necessary schedule update",
+              "back": "gikinahanglan nga pag-update sa iskedyul"
+            },
+            {
+              "front": "traffic congestion issue",
+              "back": "isyu sa kahuot sa trapiko"
+            },
+            {
+              "front": "efficient reservation system",
+              "back": "episyente nga reservation system"
+            },
+            {
+              "front": "important planning meeting",
+              "back": "importante nga miting sa pagplano"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "departure time is approaching",
+              "back": "nagkaduol na ang oras sa pagbiya"
+            },
+            {
+              "front": "arrival schedule shows delays",
+              "back": "Ang iskedyul sa pag-abot nagpakita sa mga paglangan"
+            },
+            {
+              "front": "ticket counter is busy",
+              "back": "busy ang ticket counter"
+            },
+            {
+              "front": "platform number is changing",
+              "back": "nagbag-o ang numero sa plataporma"
+            },
+            {
+              "front": "route map indicates detour",
+              "back": "mapa sa ruta nagpakita sa detour"
+            },
+            {
+              "front": "cargo space is limited",
+              "back": "limitado ang espasyo sa kargamento"
+            },
+            {
+              "front": "freight load is heavy",
+              "back": "bug-at ang kargamento"
+            },
+            {
+              "front": "commute route takes longer",
+              "back": "mas dugay ang commute route"
+            },
+            {
+              "front": "queue line is forming",
+              "back": "naporma ang linya sa pila"
+            },
+            {
+              "front": "fare price is rising",
+              "back": "nagtaas ang presyo sa pamasahe"
+            },
+            {
+              "front": "passenger service is excellent",
+              "back": "maayo kaayo ang serbisyo sa pasahero"
+            },
+            {
+              "front": "transfer station is crowded",
+              "back": "naghuot ang transfer station"
+            },
+            {
+              "front": "traffic signal turns red",
+              "back": "ang signal sa trapiko nahimong pula"
+            },
+            {
+              "front": "safety measure is essential",
+              "back": "sukod sa kaluwasan mao ang importante"
+            },
+            {
+              "front": "inspection area is busy",
+              "back": "busy ang inspection area"
+            },
+            {
+              "front": "journey plan is confirmed",
+              "back": "gikumpirma ang plano sa pagbiyahe"
+            },
+            {
+              "front": "navigation tool is accurate",
+              "back": "tukma ang himan sa nabigasyon"
+            },
+            {
+              "front": "bus stop is nearby",
+              "back": "duol ang bus stop"
+            },
+            {
+              "front": "rail line operates smoothly",
+              "back": "hapsay nga naglihok ang linya sa tren"
+            },
+            {
+              "front": "logistics network is efficient",
+              "back": "episyente ang logistics network"
+            },
+            {
+              "front": "modal transport includes options",
+              "back": "Ang modal nga transportasyon naglakip sa mga kapilian"
+            },
+            {
+              "front": "travel allowance is sufficient",
+              "back": "igo na ang allowance sa pagbiyahe"
+            },
+            {
+              "front": "system upgrade improves efficiency",
+              "back": "ang pag-upgrade sa sistema nagpauswag sa kahusayan"
+            },
+            {
+              "front": "capacity limit is reached",
+              "back": "ang limitasyon sa kapasidad naabot"
+            },
+            {
+              "front": "accessibility feature helps everyone",
+              "back": "accessibility feature makatabang sa tanan"
+            },
+            {
+              "front": "route planner is useful",
+              "back": "ang tigplano sa ruta mapuslanon"
+            },
+            {
+              "front": "connection point is convenient",
+              "back": "kombenyente ang punto sa koneksyon"
+            },
+            {
+              "front": "service area is clean",
+              "back": "limpyo ang service area"
+            },
+            {
+              "front": "consultation meeting is scheduled",
+              "back": "ang miting sa konsultasyon gikatakda"
+            },
+            {
+              "front": "compliance check is mandatory",
+              "back": "mandatory ang compliance check"
+            },
+            {
+              "front": "operation schedule is posted",
+              "back": "Ang iskedyul sa operasyon gi-post"
+            },
+            {
+              "front": "movement tracking is accurate",
+              "back": "tukma ang pagsubay sa paglihok"
+            },
+            {
+              "front": "distance measurement is precise",
+              "back": "tukma ang pagsukod sa gilay-on"
+            },
+            {
+              "front": "hub location is accessible",
+              "back": "accessible ang lokasyon sa hub"
+            },
+            {
+              "front": "network analysis provides insights",
+              "back": "Ang pag-analisar sa network naghatag mga panabut"
+            },
+            {
+              "front": "allocation strategy is efficient",
+              "back": "episyente ang estratehiya sa alokasyon"
+            },
+            {
+              "front": "signage system is clear",
+              "back": "klaro ang signage system"
+            },
+            {
+              "front": "traffic report indicates congestion",
+              "back": "traffic report nagpakita sa kahuot"
+            },
+            {
+              "front": "consultation service is available",
+              "back": "serbisyo sa konsultasyon anaa"
+            },
+            {
+              "front": "logistics plan is effective",
+              "back": "Ang plano sa logistik epektibo"
+            },
+            {
+              "front": "bicycle lane encourages cycling",
+              "back": "bicycle lane nagdasig sa pagbisikleta"
+            },
+            {
+              "front": "emergency response is swift",
+              "back": "paspas ang pagtubag sa emerhensya"
+            },
+            {
+              "front": "driving rule is essential",
+              "back": "Ang lagda sa pagmaneho hinungdanon"
+            },
+            {
+              "front": "road safety is prioritized",
+              "back": "giuna ang kaluwasan sa dalan"
+            },
+            {
+              "front": "service route is established",
+              "back": "natukod ang ruta sa serbisyo"
+            },
+            {
+              "front": "schedule update is necessary",
+              "back": "gikinahanglan ang pag-update sa iskedyul"
+            },
+            {
+              "front": "traffic congestion affects commute",
+              "back": "Ang kahuot sa trapiko makaapekto sa pagbiyahe"
+            },
+            {
+              "front": "reservation system is efficient",
+              "back": "Ang sistema sa pagpareserba epektibo"
+            },
+            {
+              "front": "planning meeting is important",
+              "back": "importante ang pagplano sa miting"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "departure time is approaching soon",
+              "back": "hapit na ang oras sa pagbiya"
+            },
+            {
+              "front": "arrival schedule shows some delays",
+              "back": "Ang iskedyul sa pag-abot nagpakita sa pipila ka mga paglangan"
+            },
+            {
+              "front": "ticket counter opens at eight",
+              "back": "ticket counter abli sa alas otso"
+            },
+            {
+              "front": "platform number is changing frequently",
+              "back": "ang numero sa plataporma kanunay nga nagbag-o"
+            },
+            {
+              "front": "route map indicates a detour",
+              "back": "Ang mapa sa ruta nagpakita sa usa ka detour"
+            },
+            {
+              "front": "cargo space remains very limited",
+              "back": "cargo space nagpabilin nga limitado kaayo"
+            },
+            {
+              "front": "freight load increases with demand",
+              "back": "Ang kargamento sa kargamento nagdugang sa panginahanglan"
+            },
+            {
+              "front": "commute route takes much longer",
+              "back": "mas dugay ang commute route"
+            },
+            {
+              "front": "queue line forms very quickly",
+              "back": "dali kaayong naporma ang linya sa pila"
+            },
+            {
+              "front": "fare price increases every month",
+              "back": "pagtaas sa presyo sa plitehan matag bulan"
+            },
+            {
+              "front": "passenger service excels in quality",
+              "back": "ang serbisyo sa pasahero labaw sa kalidad"
+            },
+            {
+              "front": "transfer station is crowded during rush",
+              "back": "naghuot ang estasyon sa pagbalhin panahon sa pagdali"
+            },
+            {
+              "front": "traffic signal turns green for vehicles",
+              "back": "traffic signal turns green para sa mga sakyanan"
+            },
+            {
+              "front": "safety measure is critically important",
+              "back": "Ang lakang sa kaluwasan hinungdanon kaayo"
+            },
+            {
+              "front": "inspection area is very busy",
+              "back": "busy kaayo ang inspection area"
+            },
+            {
+              "front": "journey plan outlines travel route",
+              "back": "Ang plano sa pagbiyahe naglatid sa ruta sa pagbiyahe"
+            },
+            {
+              "front": "navigation tool guides all travelers",
+              "back": "himan sa nabigasyon naggiya sa tanan nga mga magpapanaw"
+            },
+            {
+              "front": "bus stop location is convenient",
+              "back": "Kombenyente ang lokasyon sa paghunong sa bus"
+            },
+            {
+              "front": "rail line operates smoothly every day",
+              "back": "Ang linya sa tren hapsay nga naglihok matag adlaw"
+            },
+            {
+              "front": "logistics network improves overall efficiency",
+              "back": "logistics network nagpalambo sa kinatibuk-ang kahusayan"
+            },
+            {
+              "front": "modal transport includes various options",
+              "back": "Ang modal nga transportasyon naglakip sa lainlaing mga kapilian"
+            },
+            {
+              "front": "travel allowance provides some flexibility",
+              "back": "Ang allowance sa pagbiyahe naghatag og pipila ka pagka-flexible"
+            },
+            {
+              "front": "system upgrade enhances performance significantly",
+              "back": "ang pag-upgrade sa sistema makapauswag pag-ayo sa performance"
+            },
+            {
+              "front": "capacity limit reached very recently",
+              "back": "ang limitasyon sa kapasidad naabot bag-o lang"
+            },
+            {
+              "front": "accessibility feature assists many passengers",
+              "back": "accessibility feature makatabang sa daghang mga pasahero"
+            },
+            {
+              "front": "route planner helps all travelers",
+              "back": "ruta planner makatabang sa tanan nga mga magpapanaw"
+            },
+            {
+              "front": "connection point facilitates easy transfers",
+              "back": "ang punto sa koneksyon nagpadali sa dali nga pagbalhin"
+            },
+            {
+              "front": "service area offers various amenities",
+              "back": "Ang service area nagtanyag sa lainlaing mga pasilidad"
+            },
+            {
+              "front": "consultation meeting addresses urgent concerns",
+              "back": "miting sa konsultasyon nagtubag sa dinalian nga mga kabalaka"
+            },
+            {
+              "front": "compliance check ensures passenger safety",
+              "back": "ang pagsusi sa pagsunod nagsiguro sa kaluwasan sa pasahero"
+            },
+            {
+              "front": "operation schedule updates every week",
+              "back": "mga update sa iskedyul sa operasyon matag semana"
+            },
+            {
+              "front": "movement tracking monitors vehicle routes",
+              "back": "Ang pagsubay sa paglihok nagsubay sa mga ruta sa sakyanan"
+            },
+            {
+              "front": "distance measurement ensures travel accuracy",
+              "back": "ang pagsukod sa gilay-on nagsiguro sa katukma sa pagbiyahe"
+            },
+            {
+              "front": "hub location simplifies access for everyone",
+              "back": "Ang lokasyon sa hub nagpasimple sa pag-access sa tanan"
+            },
+            {
+              "front": "network analysis identifies key improvements",
+              "back": "Ang pagtuki sa network nagpaila sa hinungdanon nga mga pag-uswag"
+            },
+            {
+              "front": "allocation strategy optimizes resource use",
+              "back": "estratehiya sa alokasyon nag-optimize sa paggamit sa kahinguhaan"
+            },
+            {
+              "front": "signage system directs all travelers",
+              "back": "Ang sistema sa signage nagdumala sa tanan nga mga magpapanaw"
+            },
+            {
+              "front": "traffic report indicates heavy congestion",
+              "back": "traffic report nagpakita sa grabeng kahuot"
+            },
+            {
+              "front": "consultation service provides valuable assistance",
+              "back": "serbisyo sa konsultasyon naghatag ug bililhong tabang"
+            },
+            {
+              "front": "logistics plan streamlines all processes",
+              "back": "logistics nga plano streamlines sa tanan nga mga proseso"
+            },
+            {
+              "front": "bicycle lane promotes safe cycling",
+              "back": "bicycle lane nagpasiugda sa luwas nga pagbisikleta"
+            },
+            {
+              "front": "emergency response saves many lives",
+              "back": "ang tubag sa emerhensya nagluwas sa daghang kinabuhi"
+            },
+            {
+              "front": "driving rule applies to everyone",
+              "back": "Ang lagda sa pagmaneho magamit sa tanan"
+            },
+            {
+              "front": "road safety is always prioritized",
+              "back": "ang kaluwasan sa dalan kanunay nga prayoridad"
+            },
+            {
+              "front": "service route requires regular adjustments",
+              "back": "ang ruta sa serbisyo nanginahanglan kanunay nga mga pagbag-o"
+            },
+            {
+              "front": "schedule update is very necessary",
+              "back": "gikinahanglan kaayo ang pag-update sa eskedyul"
+            },
+            {
+              "front": "traffic congestion impacts daily travel",
+              "back": "Ang kahuot sa trapiko nakaapekto sa adlaw-adlaw nga pagbiyahe"
+            },
+            {
+              "front": "reservation system simplifies travel bookings",
+              "back": "Ang sistema sa reserbasyon nagpasimple sa mga booking sa pagbiyahe"
+            },
+            {
+              "front": "planning meeting sets clear agenda",
+              "back": "Ang miting sa pagplano nagtakda og klaro nga agenda"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "departure time is approaching very soon",
+              "back": "ang oras sa pagbiya hapit na kaayo"
+            },
+            {
+              "front": "arrival schedule shows delays this morning",
+              "back": "Ang iskedyul sa pag-abot nagpakita sa mga pagkalangan karong buntag"
+            },
+            {
+              "front": "ticket counter opens at eight o'clock",
+              "back": "abli ang ticket counter sa alas otso"
+            },
+            {
+              "front": "platform number is changing very frequently",
+              "back": "ang numero sa plataporma kanunay nga nagbag-o"
+            },
+            {
+              "front": "route map indicates a detour ahead",
+              "back": "mapa sa ruta nagpakita sa usa ka detour sa unahan"
+            },
+            {
+              "front": "cargo space remains very limited right now",
+              "back": "cargo space nagpabilin nga limitado kaayo karon"
+            },
+            {
+              "front": "freight load increases with seasonal demand",
+              "back": "Ang kargamento sa kargamento nagdugang uban sa seasonal nga panginahanglan"
+            },
+            {
+              "front": "commute route takes much longer today",
+              "back": "mas dugay ang commute route karon"
+            },
+            {
+              "front": "queue line forms very quickly at rush",
+              "back": "Ang linya sa pila dali kaayo nga naporma sa pagdali"
+            },
+            {
+              "front": "fare price increases every single month",
+              "back": "pagtaas sa presyo sa plitehan matag bulan"
+            },
+            {
+              "front": "passenger service excels in quality and reliability",
+              "back": "ang serbisyo sa pasahero milabaw sa kalidad ug kasaligan"
+            },
+            {
+              "front": "transfer station is crowded during peak hours",
+              "back": "Ang estasyon sa pagbalhin naghuot sa peak hours"
+            },
+            {
+              "front": "traffic signal turns green for vehicles now",
+              "back": "traffic signal turns green para sa mga sakyanan karon"
+            },
+            {
+              "front": "safety measure is critically important for everyone",
+              "back": "Ang lakang sa kaluwasan hinungdanon kaayo alang sa tanan"
+            },
+            {
+              "front": "inspection area is very busy today",
+              "back": "busy kaayo ang inspection area karon"
+            },
+            {
+              "front": "journey plan outlines detailed travel route",
+              "back": "Ang plano sa pagbiyahe naglatid sa detalyado nga ruta sa pagbiyahe"
+            },
+            {
+              "front": "navigation tool guides all travelers easily",
+              "back": "Ang himan sa nabigasyon dali nga naggiya sa tanan nga mga magpapanaw"
+            },
+            {
+              "front": "bus stop location is very convenient",
+              "back": "Kombenyente kaayo ang lokasyon sa paghunong sa bus"
+            },
+            {
+              "front": "rail line operates smoothly every single day",
+              "back": "Ang linya sa tren hapsay nga naglihok matag adlaw"
+            },
+            {
+              "front": "logistics network improves overall operational efficiency",
+              "back": "logistics network nagpalambo sa kinatibuk-ang operational efficiency"
+            },
+            {
+              "front": "modal transport includes various available options",
+              "back": "Ang modal nga transportasyon naglakip sa lainlaing magamit nga mga kapilian"
+            },
+            {
+              "front": "travel allowance provides flexibility for travelers",
+              "back": "Ang allowance sa pagbiyahe naghatag og pagka-flexible alang sa mga magpapanaw"
+            },
+            {
+              "front": "system upgrade enhances performance significantly now",
+              "back": "Ang pag-upgrade sa sistema labi nga nagpauswag sa pasundayag karon"
+            },
+            {
+              "front": "capacity limit reached very recently last month",
+              "back": "Ang limitasyon sa kapasidad niabot bag-o lang sa miaging bulan"
+            },
+            {
+              "front": "accessibility feature assists many passengers today",
+              "back": "Ang feature sa accessibility nagtabang sa daghang mga pasahero karon"
+            },
+            {
+              "front": "route planner helps all travelers find",
+              "back": "Ang tigplano sa ruta makatabang sa tanan nga mga magpapanaw nga makit-an"
+            },
+            {
+              "front": "connection point facilitates easy transfers between modes",
+              "back": "Ang punto sa koneksyon nagpadali sa dali nga pagbalhin tali sa mga mode"
+            },
+            {
+              "front": "service area offers various helpful amenities",
+              "back": "ang service area nagtanyag sa nagkalain-laing makatabang nga mga pasilidad"
+            },
+            {
+              "front": "consultation meeting addresses urgent safety concerns",
+              "back": "miting sa konsultasyon nagtubag sa dinalian nga kahingawa sa kaluwasan"
+            },
+            {
+              "front": "compliance check ensures passenger safety and comfort",
+              "back": "ang pagsusi sa pagsunod nagsiguro sa kaluwasan ug kaharuhay sa pasahero"
+            },
+            {
+              "front": "operation schedule updates every single week",
+              "back": "pag-update sa iskedyul sa operasyon matag semana"
+            },
+            {
+              "front": "movement tracking monitors vehicle routes effectively",
+              "back": "Ang pagsubay sa paglihok nagmonitor sa mga ruta sa salakyanan nga epektibo"
+            },
+            {
+              "front": "distance measurement ensures travel accuracy and efficiency",
+              "back": "Ang pagsukod sa gilay-on nagsiguro sa katukma ug kaepektibo sa pagbiyahe"
+            },
+            {
+              "front": "hub location simplifies access for all travelers",
+              "back": "Ang lokasyon sa hub nagpasimple sa pag-access sa tanan nga mga magpapanaw"
+            },
+            {
+              "front": "network analysis identifies key improvements for logistics",
+              "back": "Ang pag-analisar sa network nagpaila sa hinungdanon nga mga pag-uswag alang sa logistik"
+            },
+            {
+              "front": "allocation strategy optimizes resource use for operations",
+              "back": "Ang estratehiya sa alokasyon nag-optimize sa paggamit sa kapanguhaan alang sa mga operasyon"
+            },
+            {
+              "front": "signage system directs all travelers clearly",
+              "back": "Ang sistema sa signage nagmando sa tanan nga mga magpapanaw nga tin-aw"
+            },
+            {
+              "front": "traffic report indicates heavy congestion today",
+              "back": "traffic report nagpakita sa grabeng kahuot karong adlawa"
+            },
+            {
+              "front": "consultation service provides valuable assistance to everyone",
+              "back": "serbisyo sa konsultasyon naghatag ug bililhong tabang sa tanan"
+            },
+            {
+              "front": "logistics plan streamlines all processes effectively",
+              "back": "Ang plano sa logistik nag-streamline sa tanan nga mga proseso nga epektibo"
+            },
+            {
+              "front": "bicycle lane promotes safe cycling for everyone",
+              "back": "bicycle lane nagpasiugda sa luwas nga pagbisikleta alang sa tanan"
+            },
+            {
+              "front": "emergency response saves many lives during crisis",
+              "back": "Ang tubag sa emerhensya nagluwas sa daghang kinabuhi sa panahon sa krisis"
+            },
+            {
+              "front": "driving rule applies to all drivers equally",
+              "back": "Ang lagda sa pagmaneho magamit sa tanan nga mga drayber parehas"
+            },
+            {
+              "front": "road safety is always prioritized by authorities",
+              "back": "Ang kaluwasan sa kadalanan kanunay nga giuna sa mga awtoridad"
+            },
+            {
+              "front": "service route requires regular adjustments for efficiency",
+              "back": "Ang ruta sa serbisyo nanginahanglan kanunay nga mga pagbag-o alang sa kahusayan"
+            },
+            {
+              "front": "schedule update is very necessary for operations",
+              "back": "Ang pag-update sa iskedyul kinahanglanon kaayo alang sa mga operasyon"
+            },
+            {
+              "front": "traffic congestion impacts daily travel for everyone",
+              "back": "Ang kahuot sa trapiko makaapekto sa matag adlaw nga pagbiyahe alang sa tanan"
+            },
+            {
+              "front": "reservation system simplifies travel bookings for passengers",
+              "back": "Ang sistema sa reserbasyon nagpasimple sa mga booking sa pagbiyahe alang sa mga pasahero"
+            },
+            {
+              "front": "planning meeting sets clear agenda for discussion",
+              "back": "Ang miting sa pagplano nagtakda og klaro nga agenda alang sa panaghisgot"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "changed departure time",
+              "back": "giusab ang oras sa pagbiya"
+            },
+            {
+              "front": "showed arrival delays",
+              "back": "nagpakita sa mga paglangan sa pag-abot"
+            },
+            {
+              "front": "closed ticket counter",
+              "back": "sirado nga ticket counter"
+            },
+            {
+              "front": "shifted platform number",
+              "back": "gibalhin nga numero sa plataporma"
+            },
+            {
+              "front": "indicated route detour",
+              "back": "gipakita nga rota detour"
+            },
+            {
+              "front": "limited cargo space",
+              "back": "limitado nga espasyo sa kargamento"
+            },
+            {
+              "front": "increased freight load",
+              "back": "dugang nga kargamento"
+            },
+            {
+              "front": "lengthened commute route",
+              "back": "gipataas nga ruta sa pag-commute"
+            },
+            {
+              "front": "formed queue line",
+              "back": "naporma nga linya sa pila"
+            },
+            {
+              "front": "rose fare price",
+              "back": "presyo sa mga rosas"
+            },
+            {
+              "front": "excelled passenger service",
+              "back": "maayo nga serbisyo sa pasahero"
+            },
+            {
+              "front": "crowded transfer station",
+              "back": "naghuot nga estasyon sa pagbalhin"
+            },
+            {
+              "front": "turned traffic signal",
+              "back": "nibalik nga signal sa trapiko"
+            },
+            {
+              "front": "proved safety measure",
+              "back": "napamatud-an nga safety measure"
+            },
+            {
+              "front": "became busy inspection",
+              "back": "nahimong busy sa inspeksyon"
+            },
+            {
+              "front": "worked journey plan",
+              "back": "nagtrabaho nga plano sa pagbiyahe"
+            },
+            {
+              "front": "guided navigation tool",
+              "back": "giya nga himan sa nabigasyon"
+            },
+            {
+              "front": "changed bus stop",
+              "back": "nagbag-o nga bus stop"
+            },
+            {
+              "front": "operated rail line",
+              "back": "gipadagan nga linya sa tren"
+            },
+            {
+              "front": "improved logistics network",
+              "back": "gipaayo nga logistics network"
+            },
+            {
+              "front": "included modal transport",
+              "back": "naglakip sa modal nga transportasyon"
+            },
+            {
+              "front": "provided travel allowance",
+              "back": "gihatagan ug allowance sa pagbiyahe"
+            },
+            {
+              "front": "enhanced system upgrade",
+              "back": "gipauswag nga pag-upgrade sa sistema"
+            },
+            {
+              "front": "reached capacity limit",
+              "back": "nakaabot sa limitasyon sa kapasidad"
+            },
+            {
+              "front": "assisted accessibility feature",
+              "back": "gitabangan nga bahin sa pagka-access"
+            },
+            {
+              "front": "helped route planner",
+              "back": "mitabang sa tigplano sa ruta"
+            },
+            {
+              "front": "facilitated connection point",
+              "back": "gipadali nga punto sa koneksyon"
+            },
+            {
+              "front": "offered service area",
+              "back": "gitanyag nga lugar sa serbisyo"
+            },
+            {
+              "front": "addressed consultation meeting",
+              "back": "gitubag nga miting sa konsultasyon"
+            },
+            {
+              "front": "ensured compliance check",
+              "back": "gisiguro ang pagsusi sa pagsunod"
+            },
+            {
+              "front": "updated operation schedule",
+              "back": "gi-update nga iskedyul sa operasyon"
+            },
+            {
+              "front": "monitored movement tracking",
+              "back": "gibantayan pagsubay sa paglihok"
+            },
+            {
+              "front": "ensured distance accuracy",
+              "back": "gisiguro ang katukma sa distansya"
+            },
+            {
+              "front": "simplified hub location",
+              "back": "gipasimple nga lokasyon sa hub"
+            },
+            {
+              "front": "identified network improvements",
+              "back": "giila nga mga kalamboan sa network"
+            },
+            {
+              "front": "optimized allocation strategy",
+              "back": "optimized nga estratehiya sa alokasyon"
+            },
+            {
+              "front": "directed signage system",
+              "back": "Direkta nga sistema sa signage"
+            },
+            {
+              "front": "indicated traffic congestion",
+              "back": "nagpakita sa kahuot sa trapiko"
+            },
+            {
+              "front": "provided consultation assistance",
+              "back": "naghatag ug tabang sa konsultasyon"
+            },
+            {
+              "front": "streamlined logistics plan",
+              "back": "streamline nga plano sa logistik"
+            },
+            {
+              "front": "promoted bicycle lane",
+              "back": "gi-promote nga bicycle lane"
+            },
+            {
+              "front": "saved emergency response",
+              "back": "naluwas nga tubag sa emerhensya"
+            },
+            {
+              "front": "applied driving rule",
+              "back": "gipadapat ang lagda sa pagmaneho"
+            },
+            {
+              "front": "prioritized road safety",
+              "back": "giuna ang kaluwasan sa dalan"
+            },
+            {
+              "front": "required service route",
+              "back": "gikinahanglan nga ruta sa serbisyo"
+            },
+            {
+              "front": "became necessary schedule",
+              "back": "nahimong gikinahanglan nga eskedyul"
+            },
+            {
+              "front": "impacted traffic congestion",
+              "back": "nakaapekto sa kahuot sa trapiko"
+            },
+            {
+              "front": "simplified reservation bookings",
+              "back": "gipasimple nga mga booking sa reservation"
+            },
+            {
+              "front": "set planning meeting",
+              "back": "set planning meeting"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "departure time changed",
+              "back": "nausab ang oras sa pagbiya"
+            },
+            {
+              "front": "arrival schedule showed delays",
+              "back": "Ang iskedyul sa pag-abot nagpakita sa mga paglangan"
+            },
+            {
+              "front": "ticket counter closed early",
+              "back": "sayo nga sirado ang ticket counter"
+            },
+            {
+              "front": "platform number shifted suddenly",
+              "back": "ang numero sa plataporma kalit nga nabalhin"
+            },
+            {
+              "front": "route map indicated detour",
+              "back": "mapa sa ruta nga gipakita nga detour"
+            },
+            {
+              "front": "cargo space limited",
+              "back": "limitado ang espasyo sa kargamento"
+            },
+            {
+              "front": "freight load increased significantly",
+              "back": "karga load misaka sa kamahinungdanon"
+            },
+            {
+              "front": "commute route lengthened unexpectedly",
+              "back": "commute rota gilugwayan wala damha"
+            },
+            {
+              "front": "queue line formed quickly",
+              "back": "dali nga naporma ang linya sa pila"
+            },
+            {
+              "front": "fare price rose",
+              "back": "paghimo og presyo nga mga rosas"
+            },
+            {
+              "front": "passenger service excelled yesterday",
+              "back": "milampos ang serbisyo sa pasahero kagahapon"
+            },
+            {
+              "front": "transfer station got crowded",
+              "back": "naghuot ang transfer station"
+            },
+            {
+              "front": "traffic signal turned red",
+              "back": "ang signal sa trapiko nahimong pula"
+            },
+            {
+              "front": "safety measure proved essential",
+              "back": "Ang lakang sa kaluwasan napamatud-an nga hinungdanon"
+            },
+            {
+              "front": "inspection area became busy",
+              "back": "ang lugar sa inspeksyon nahimong busy"
+            },
+            {
+              "front": "journey plan worked well",
+              "back": "Ang plano sa pagbiyahe nagtrabaho og maayo"
+            },
+            {
+              "front": "navigation tool guided travelers",
+              "back": "himan sa nabigasyon naggiya sa mga magpapanaw"
+            },
+            {
+              "front": "bus stop changed location",
+              "back": "bus stop nausab ang lokasyon"
+            },
+            {
+              "front": "rail line operated smoothly",
+              "back": "hapsay nga naglihok ang linya sa tren"
+            },
+            {
+              "front": "logistics network improved efficiency",
+              "back": "logistics network milambo efficiency"
+            },
+            {
+              "front": "modal transport included options",
+              "back": "Ang modal nga transportasyon naglakip sa mga kapilian"
+            },
+            {
+              "front": "travel allowance provided flexibility",
+              "back": "Ang allowance sa pagbiyahe naghatag og pagka-flexible"
+            },
+            {
+              "front": "system upgrade enhanced performance",
+              "back": "pag-upgrade sa sistema gipauswag ang pasundayag"
+            },
+            {
+              "front": "capacity limit reached recently",
+              "back": "ang limitasyon sa kapasidad naabot bag-o lang"
+            },
+            {
+              "front": "accessibility feature assisted passengers",
+              "back": "accessibility feature nagtabang sa mga pasahero"
+            },
+            {
+              "front": "route planner helped travelers",
+              "back": "ruta planner mitabang sa mga magpapanaw"
+            },
+            {
+              "front": "connection point facilitated transfers",
+              "back": "koneksyon punto gipadali pagbalhin"
+            },
+            {
+              "front": "service area offered amenities",
+              "back": "service area nga nagtanyag ug amenities"
+            },
+            {
+              "front": "consultation meeting addressed concerns",
+              "back": "miting sa konsultasyon nagtubag sa mga kabalaka"
+            },
+            {
+              "front": "compliance check ensured safety",
+              "back": "compliance check gisiguro kaluwasan"
+            },
+            {
+              "front": "operation schedule updated regularly",
+              "back": "Ang iskedyul sa operasyon kanunay nga gi-update"
+            },
+            {
+              "front": "movement tracking monitored routes",
+              "back": "mga ruta nga gibantayan sa pagsubay sa paglihok"
+            },
+            {
+              "front": "distance measurement ensured accuracy",
+              "back": "gisiguro sa pagsukod sa gilay-on ang katukma"
+            },
+            {
+              "front": "hub location simplified access",
+              "back": "lokasyon sa hub gipasimple nga pag-access"
+            },
+            {
+              "front": "network analysis identified improvements",
+              "back": "Ang pagtuki sa network nagpaila sa mga pag-uswag"
+            },
+            {
+              "front": "allocation strategy optimized resources",
+              "back": "estratehiya sa alokasyon nga na-optimize nga mga kapanguhaan"
+            },
+            {
+              "front": "signage system directed travelers",
+              "back": "signage system nga gitumong sa mga biyahedor"
+            },
+            {
+              "front": "traffic report indicated congestion",
+              "back": "traffic report nagpakita sa kahuot"
+            },
+            {
+              "front": "consultation service provided assistance",
+              "back": "serbisyo sa konsultasyon nga naghatag tabang"
+            },
+            {
+              "front": "logistics plan streamlined processes",
+              "back": "logistics plano streamlined nga mga proseso"
+            },
+            {
+              "front": "bicycle lane promoted cycling",
+              "back": "bicycle lane nga gipasiugdahan sa pagbisikleta"
+            },
+            {
+              "front": "emergency response saved lives",
+              "back": "emerhensya nga tubag nakaluwas sa mga kinabuhi"
+            },
+            {
+              "front": "driving rule applied universally",
+              "back": "Ang lagda sa pagmaneho kay gigamit sa tibuok kalibotan"
+            },
+            {
+              "front": "road safety prioritized last year",
+              "back": "road safety priority sa miaging tuig"
+            },
+            {
+              "front": "service route required adjustments",
+              "back": "rota sa serbisyo gikinahanglan nga mga kausaban"
+            },
+            {
+              "front": "schedule update became necessary",
+              "back": "gikinahanglan ang pag-update sa eskedyul"
+            },
+            {
+              "front": "traffic congestion impacted travel",
+              "back": "ang kahuot sa trapiko nakaapekto sa pagbiyahe"
+            },
+            {
+              "front": "reservation system simplified bookings",
+              "back": "reservation system nga gipasimple ang mga booking"
+            },
+            {
+              "front": "planning meeting set agenda",
+              "back": "pagplano sa miting set agenda"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "departure time changed unexpectedly last",
+              "back": "oras sa pagbiya nausab sa wala damha nga katapusan"
+            },
+            {
+              "front": "arrival schedule showed significant delays",
+              "back": "Ang iskedyul sa pag-abot nagpakita sa mahinungdanong mga paglangan"
+            },
+            {
+              "front": "ticket counter closed before boarding",
+              "back": "sirado ang ticket counter sa dili pa mosakay"
+            },
+            {
+              "front": "platform number shifted during minute",
+              "back": "ang numero sa plataporma gibalhin sulod sa minuto"
+            },
+            {
+              "front": "route map indicated necessary detour",
+              "back": "mapa sa ruta nagpakita sa gikinahanglan nga detour"
+            },
+            {
+              "front": "cargo space remained very limited",
+              "back": "cargo space nagpabilin nga limitado kaayo"
+            },
+            {
+              "front": "freight load increased due to demand",
+              "back": "karga load misaka tungod sa panginahanglan"
+            },
+            {
+              "front": "commute route lengthened unexpectedly morning",
+              "back": "commute rota gilugwayan wala damha buntag"
+            },
+            {
+              "front": "the queue line formed quickly",
+              "back": "dali nga naporma ang linya sa pila"
+            },
+            {
+              "front": "fare price rose significantly month",
+              "back": "Ang presyo sa pletihan miusbaw pag-ayo sa bulan"
+            },
+            {
+              "front": "passenger service excelled throughout journey",
+              "back": "ang serbisyo sa pasahero milabaw sa tibuok biyahe"
+            },
+            {
+              "front": "transfer station became crowded during",
+              "back": "transfer station nahimong crowded sa panahon sa"
+            },
+            {
+              "front": "traffic signal turned red vehicles",
+              "back": "signal sa trapiko nahimong pula nga mga sakyanan"
+            },
+            {
+              "front": "good safety measure proved essential",
+              "back": "maayo nga sukod sa kaluwasan napamatud-an nga kinahanglanon"
+            },
+            {
+              "front": "inspection area was busy day",
+              "back": "Ang lugar sa inspeksyon busy nga adlaw"
+            },
+            {
+              "front": "journey plan worked well everyone",
+              "back": "Ang plano sa pagbiyahe nagtrabaho og maayo sa tanan"
+            },
+            {
+              "front": "navigation tool guided travelers successfully",
+              "back": "Navigation tool naggiya sa mga magpapanaw nga malampuson"
+            },
+            {
+              "front": "bus stop location changed week",
+              "back": "nausab ang lokasyon sa bus stop nga semana"
+            },
+            {
+              "front": "rail line operated smoothly week",
+              "back": "Ang linya sa tren hapsay nga naglihok sa semana"
+            },
+            {
+              "front": "logistics network improved efficiency board",
+              "back": "logistics network milambo efficiency board"
+            },
+            {
+              "front": "modal transport included various yesterday",
+              "back": "modal transport naglakip sa lain-laing kagahapon"
+            },
+            {
+              "front": "travel allowance provided needed flexibility",
+              "back": "ang allowance sa pagbiyahe naghatag gikinahanglan nga pagka-flexible"
+            },
+            {
+              "front": "the system upgrade enhanced performance",
+              "back": "ang pag-upgrade sa sistema gipauswag ang pasundayag"
+            },
+            {
+              "front": "capacity limit reached after season",
+              "back": "ang limitasyon sa kapasidad naabot pagkahuman sa panahon"
+            },
+            {
+              "front": "accessibility feature assisted many passengers",
+              "back": "accessibility feature nakatabang sa daghang mga pasahero"
+            },
+            {
+              "front": "route planner helped travelers navigate",
+              "back": "ang tigplano sa ruta mitabang sa mga magpapanaw sa pag-navigate"
+            },
+            {
+              "front": "connection point facilitated quick transfers",
+              "back": "Ang punto sa koneksyon nagpadali sa dali nga pagbalhin"
+            },
+            {
+              "front": "service area offered helpful amenities",
+              "back": "service area nagtanyag makatabang nga mga pasilidad"
+            },
+            {
+              "front": "consultation meeting addressed safety concerns",
+              "back": "miting sa konsultasyon nagtubag sa mga kabalaka sa kaluwasan"
+            },
+            {
+              "front": "compliance check ensured safety for",
+              "back": "compliance check gisiguro kaluwasan alang sa"
+            },
+            {
+              "front": "operation schedule updated regularly month",
+              "back": "Ang iskedyul sa operasyon gi-update kanunay nga bulan"
+            },
+            {
+              "front": "movement tracking monitored routes effectively",
+              "back": "Ang pagsubay sa paglihok nagmonitor sa mga ruta nga epektibo"
+            },
+            {
+              "front": "distance measurement ensured travel accuracy",
+              "back": "gisiguro sa pagsukod sa distansya ang katukma sa pagbiyahe"
+            },
+            {
+              "front": "hub location simplified access travelers",
+              "back": "lokasyon sa hub gipasimple ang pag-access sa mga biyahero"
+            },
+            {
+              "front": "network analysis identified key improvements",
+              "back": "Ang pagtuki sa network nagpaila sa mahinungdanong mga kalamboan"
+            },
+            {
+              "front": "allocation strategy optimized resource use",
+              "back": "estratehiya sa alokasyon nga na-optimize nga paggamit sa kapanguhaan"
+            },
+            {
+              "front": "signage system directed travelers clearly",
+              "back": "Ang sistema sa signage nagmando sa mga biyahero nga tin-aw"
+            },
+            {
+              "front": "traffic report indicated congestion today",
+              "back": "traffic report nagpakita sa kahuot karong adlawa"
+            },
+            {
+              "front": "consultation service provided valuable assistance",
+              "back": "serbisyo sa konsultasyon naghatag ug bililhong tabang"
+            },
+            {
+              "front": "logistics plan streamlined processes smoothly",
+              "back": "Ang plano sa logistik nagpahapsay sa mga proseso nga hapsay"
+            },
+            {
+              "front": "bicycle lane promoted safe cycling",
+              "back": "bicycle lane gipasiugda ang luwas nga pagbisikleta"
+            },
+            {
+              "front": "emergency response saved lives crisis",
+              "back": "emerhensya nga tubag nagluwas sa krisis sa kinabuhi"
+            },
+            {
+              "front": "driving rule applied universally safety",
+              "back": "Ang lagda sa pagdrayb gigamit alang sa kaluwasan sa tanan"
+            },
+            {
+              "front": "road safety prioritized year consistently",
+              "back": "road safety prioritized tuig makanunayon"
+            },
+            {
+              "front": "service route required adjustments efficiency",
+              "back": "serbisyo ruta gikinahanglan adjustments efficiency"
+            },
+            {
+              "front": "schedule update became necessary due",
+              "back": "Ang pag-update sa iskedyul gikinahanglan tungod"
+            },
+            {
+              "front": "traffic congestion impacted daily travel",
+              "back": "ang kahuot sa trapiko nakaapekto sa adlaw-adlaw nga pagbiyahe"
+            },
+            {
+              "front": "reservation system simplified travel bookings",
+              "back": "sistema sa reserbasyon gipasimple ang mga booking sa pagbiyahe"
+            },
+            {
+              "front": "planning meeting set clear agenda",
+              "back": "Ang miting sa pagplano nagtakda ug klaro nga agenda"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "changed departure time",
+              "back": "giusab ang oras sa pagbiya"
+            },
+            {
+              "front": "showed arrival delays",
+              "back": "nagpakita sa mga paglangan sa pag-abot"
+            },
+            {
+              "front": "closed ticket counter",
+              "back": "sirado nga ticket counter"
+            },
+            {
+              "front": "shifted platform number",
+              "back": "gibalhin nga numero sa plataporma"
+            },
+            {
+              "front": "indicated route detour",
+              "back": "gipakita nga rota detour"
+            },
+            {
+              "front": "limited cargo space",
+              "back": "limitado nga espasyo sa kargamento"
+            },
+            {
+              "front": "increased freight load",
+              "back": "dugang nga kargamento"
+            },
+            {
+              "front": "lengthened commute route",
+              "back": "gilugwayan nga ruta sa pagbiyahe"
+            },
+            {
+              "front": "formed queue line",
+              "back": "naporma nga linya sa pila"
+            },
+            {
+              "front": "rose fare price",
+              "back": "presyo sa mga rosas"
+            },
+            {
+              "front": "excelled passenger service",
+              "back": "maayo nga serbisyo sa pasahero"
+            },
+            {
+              "front": "crowded transfer station",
+              "back": "naghuot nga estasyon sa pagbalhin"
+            },
+            {
+              "front": "turned traffic signal",
+              "back": "nibalik nga signal sa trapiko"
+            },
+            {
+              "front": "proved safety measure",
+              "back": "napamatud-an nga safety measure"
+            },
+            {
+              "front": "became busy inspection",
+              "back": "nahimong busy sa inspeksyon"
+            },
+            {
+              "front": "worked journey plan",
+              "back": "nagtrabaho nga plano sa pagbiyahe"
+            },
+            {
+              "front": "guided navigation tool",
+              "back": "giya nga himan sa nabigasyon"
+            },
+            {
+              "front": "changed bus stop",
+              "back": "nagbag-o nga bus stop"
+            },
+            {
+              "front": "operated rail line",
+              "back": "gipadagan nga linya sa tren"
+            },
+            {
+              "front": "improved logistics network",
+              "back": "gipaayo nga logistics network"
+            },
+            {
+              "front": "included modal transport",
+              "back": "naglakip sa modal nga transportasyon"
+            },
+            {
+              "front": "provided travel allowance",
+              "back": "gihatagan ug allowance sa pagbiyahe"
+            },
+            {
+              "front": "enhanced system upgrade",
+              "back": "gipauswag nga pag-upgrade sa sistema"
+            },
+            {
+              "front": "reached capacity limit",
+              "back": "nakaabot sa limitasyon sa kapasidad"
+            },
+            {
+              "front": "assisted accessibility feature",
+              "back": "gitabangan nga bahin sa pagka-access"
+            },
+            {
+              "front": "helped route planner",
+              "back": "mitabang sa tigplano sa ruta"
+            },
+            {
+              "front": "facilitated connection point",
+              "back": "gipadali nga punto sa koneksyon"
+            },
+            {
+              "front": "offered service area",
+              "back": "gitanyag nga lugar sa serbisyo"
+            },
+            {
+              "front": "addressed consultation meeting",
+              "back": "gitubag nga miting sa konsultasyon"
+            },
+            {
+              "front": "ensured compliance check",
+              "back": "gisiguro ang pagsusi sa pagsunod"
+            },
+            {
+              "front": "updated operation schedule",
+              "back": "gi-update nga iskedyul sa operasyon"
+            },
+            {
+              "front": "monitored movement tracking",
+              "back": "gibantayan pagsubay sa paglihok"
+            },
+            {
+              "front": "ensured distance accuracy",
+              "back": "gisiguro ang katukma sa distansya"
+            },
+            {
+              "front": "simplified hub location",
+              "back": "gipasimple nga lokasyon sa hub"
+            },
+            {
+              "front": "identified network improvements",
+              "back": "giila nga mga kalamboan sa network"
+            },
+            {
+              "front": "optimized allocation strategy",
+              "back": "optimized nga estratehiya sa alokasyon"
+            },
+            {
+              "front": "directed signage system",
+              "back": "Direkta nga sistema sa signage"
+            },
+            {
+              "front": "indicated traffic congestion",
+              "back": "nagpakita sa kahuot sa trapiko"
+            },
+            {
+              "front": "provided consultation assistance",
+              "back": "naghatag ug tabang sa konsultasyon"
+            },
+            {
+              "front": "streamlined logistics plan",
+              "back": "streamline nga plano sa logistik"
+            },
+            {
+              "front": "promoted bicycle lane",
+              "back": "gi-promote nga bicycle lane"
+            },
+            {
+              "front": "saved emergency response",
+              "back": "giluwas nga tubag sa emerhensya"
+            },
+            {
+              "front": "applied driving rule",
+              "back": "gipadapat ang lagda sa pagmaneho"
+            },
+            {
+              "front": "prioritized road safety",
+              "back": "giuna ang kaluwasan sa dalan"
+            },
+            {
+              "front": "required service route",
+              "back": "gikinahanglan nga ruta sa serbisyo"
+            },
+            {
+              "front": "became necessary schedule",
+              "back": "nahimong gikinahanglan nga eskedyul"
+            },
+            {
+              "front": "impacted traffic congestion",
+              "back": "nakaapekto sa kahuot sa trapiko"
+            },
+            {
+              "front": "simplified reservation bookings",
+              "back": "gipasimple nga mga booking sa reservation"
+            },
+            {
+              "front": "set planning meeting",
+              "back": "set planning meeting"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "departure time approaches",
+              "back": "nagkaduol na ang oras sa pagbiya"
+            },
+            {
+              "front": "arrival schedule changes",
+              "back": "pagbag-o sa iskedyul sa pag-abot"
+            },
+            {
+              "front": "ticket counter opens",
+              "back": "abli ang ticket counter"
+            },
+            {
+              "front": "platform number changes",
+              "back": "pagbag-o sa numero sa plataporma"
+            },
+            {
+              "front": "route map indicates",
+              "back": "ruta nga mapa nagpakita"
+            },
+            {
+              "front": "cargo space increases",
+              "back": "nagdugang ang luna sa kargamento"
+            },
+            {
+              "front": "freight load grows",
+              "back": "modako ang kargamento"
+            },
+            {
+              "front": "commute route lengthens",
+              "back": "gilugwayan ang ruta sa pag-commute"
+            },
+            {
+              "front": "queue line forms",
+              "back": "mga porma sa linya sa pila"
+            },
+            {
+              "front": "fare price rises",
+              "back": "pagsaka sa presyo sa plitehan"
+            },
+            {
+              "front": "passenger service excels",
+              "back": "ang serbisyo sa pasahero milabaw"
+            },
+            {
+              "front": "transfer station crowd",
+              "back": "transfer station nga panon sa katawhan"
+            },
+            {
+              "front": "traffic signal turns",
+              "back": "pagliko sa signal sa trapiko"
+            },
+            {
+              "front": "good safety measure",
+              "back": "maayong sukod sa kaluwasan"
+            },
+            {
+              "front": "inspection area begins",
+              "back": "nagsugod ang inspeksyon nga lugar"
+            },
+            {
+              "front": "journey plan works",
+              "back": "Ang plano sa pagbiyahe molihok"
+            },
+            {
+              "front": "navigation tool guides",
+              "back": "giya sa himan sa nabigasyon"
+            },
+            {
+              "front": "bus stop changes",
+              "back": "pagbag-o sa bus stop"
+            },
+            {
+              "front": "rail line operates",
+              "back": "naglihok ang linya sa tren"
+            },
+            {
+              "front": "logistics network improves",
+              "back": "logistics network milambo"
+            },
+            {
+              "front": "modal transport improves",
+              "back": "mouswag ang modal nga transportasyon"
+            },
+            {
+              "front": "travel allowance provides",
+              "back": "travel allowance naghatag"
+            },
+            {
+              "front": "system upgrade enhances",
+              "back": "ang pag-upgrade sa sistema nagpauswag"
+            },
+            {
+              "front": "small capacity limit",
+              "back": "gamay nga limitasyon sa kapasidad"
+            },
+            {
+              "front": "accessibility feature assists",
+              "back": "accessibility feature nagtabang"
+            },
+            {
+              "front": "route planner helps",
+              "back": "ang tigplano sa ruta makatabang"
+            },
+            {
+              "front": "connection point transfers",
+              "back": "mga pagbalhin sa punto sa koneksyon"
+            },
+            {
+              "front": "service area offers",
+              "back": "tanyag nga lugar sa serbisyo"
+            },
+            {
+              "front": "consultation meeting soon",
+              "back": "miting sa konsultasyon sa dili madugay"
+            },
+            {
+              "front": "compliance check ensures",
+              "back": "pagsiguro sa pagsunod check"
+            },
+            {
+              "front": "operation schedule updates",
+              "back": "mga update sa iskedyul sa operasyon"
+            },
+            {
+              "front": "movement tracking monitors",
+              "back": "mga monitor sa pagsubay sa paglihok"
+            },
+            {
+              "front": "accurate distance measurement",
+              "back": "tukma nga pagsukod sa gilay-on"
+            },
+            {
+              "front": "central hub location",
+              "back": "lokasyon sa sentro nga hub"
+            },
+            {
+              "front": "network analysis improves",
+              "back": "network analysis molambo"
+            },
+            {
+              "front": "allocation strategy optimizes",
+              "back": "pag-optimize sa estratehiya sa alokasyon"
+            },
+            {
+              "front": "sign system directs",
+              "back": "nagmando sa sistema sa pagpirma"
+            },
+            {
+              "front": "good traffic report",
+              "back": "maayong report sa trapiko"
+            },
+            {
+              "front": "good consultation service",
+              "back": "maayong serbisyo sa konsultasyon"
+            },
+            {
+              "front": "nice logistics plan",
+              "back": "nindot nga plano sa logistik"
+            },
+            {
+              "front": "wide bicycle lane",
+              "back": "lapad nga bicycle lane"
+            },
+            {
+              "front": "fast emergency response",
+              "back": "paspas nga pagtubag sa emerhensya"
+            },
+            {
+              "front": "driving rule applies",
+              "back": "Ang lagda sa pagmaneho magamit"
+            },
+            {
+              "front": "good road safety",
+              "back": "maayo nga road safety"
+            },
+            {
+              "front": "new service route",
+              "back": "bag-ong ruta sa serbisyo"
+            },
+            {
+              "front": "schedule updates tomorrow",
+              "back": "schedule updates ugma"
+            },
+            {
+              "front": "traffic congestion worsens",
+              "back": "nagkagrabe ang kahuot sa trapiko"
+            },
+            {
+              "front": "reservation system simplifie",
+              "back": "gipasimple ang sistema sa pagpareserba"
+            },
+            {
+              "front": "scheduled planning meeting",
+              "back": "gikatakda nga miting sa pagplano"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "departure time approaches soon",
+              "back": "hapit na ang oras sa pagbiya"
+            },
+            {
+              "front": "arrival schedule shows changes",
+              "back": "Ang iskedyul sa pag-abot nagpakita sa mga pagbag-o"
+            },
+            {
+              "front": "ticket counter opens early",
+              "back": "sayo nga bukas ang ticket counter"
+            },
+            {
+              "front": "platform number will change",
+              "back": "ang numero sa plataporma mausab"
+            },
+            {
+              "front": "route map indicates detour",
+              "back": "mapa sa ruta nagpakita sa detour"
+            },
+            {
+              "front": "cargo space will increase",
+              "back": "modaghan ang cargo space"
+            },
+            {
+              "front": "freight load will grow",
+              "back": "modako ang kargamento"
+            },
+            {
+              "front": "commute route will lengthen",
+              "back": "ang ruta sa pag-commute molugway"
+            },
+            {
+              "front": "queue line forms quickly",
+              "back": "dali nga naporma ang linya sa pila"
+            },
+            {
+              "front": "fare price will rise",
+              "back": "mutaas ang presyo sa plitehan"
+            },
+            {
+              "front": "passenger service will excel",
+              "back": "molambo ang serbisyo sa pasahero"
+            },
+            {
+              "front": "transfer station will be busy",
+              "back": "ang estasyon sa pagbalhin mahimong busy"
+            },
+            {
+              "front": "traffic signal will turn",
+              "back": "ang signal sa trapiko moliko"
+            },
+            {
+              "front": "safety will be essential",
+              "back": "ang kaluwasan kinahanglanon"
+            },
+            {
+              "front": "inspection will be soon",
+              "back": "sa dili madugay ang inspeksyon"
+            },
+            {
+              "front": "journey plan will work",
+              "back": "Ang plano sa pagbiyahe molihok"
+            },
+            {
+              "front": "navigation tool will guide",
+              "back": "himan sa nabigasyon mogiya"
+            },
+            {
+              "front": "bus stop will change",
+              "back": "mag-ilis ang bus stop"
+            },
+            {
+              "front": "rail line will operate",
+              "back": "ang linya sa tren molihok"
+            },
+            {
+              "front": "logistics network will improve",
+              "back": "ang logistics network molambo"
+            },
+            {
+              "front": "transport will include options",
+              "back": "ang transportasyon maglakip sa mga kapilian"
+            },
+            {
+              "front": "travel allowance will provide",
+              "back": "allowance sa pagbiyahe ihatag"
+            },
+            {
+              "front": "system upgrade will enhance",
+              "back": "ang pag-upgrade sa sistema molambo"
+            },
+            {
+              "front": "capacity limit will apply",
+              "back": "ang limitasyon sa kapasidad magamit"
+            },
+            {
+              "front": "accessibility will assist passengers",
+              "back": "accessibility makatabang sa mga pasahero"
+            },
+            {
+              "front": "planner will help travelers",
+              "back": "planner makatabang sa mga magpapanaw"
+            },
+            {
+              "front": "connection will facilitate transfers",
+              "back": "koneksyon makapadali sa pagbalhin"
+            },
+            {
+              "front": "service area will offer amenities",
+              "back": "ang service area maghatag ug amenities"
+            },
+            {
+              "front": "consultation will address concerns",
+              "back": "konsultasyon motubag sa mga kabalaka"
+            },
+            {
+              "front": "compliance check will happen",
+              "back": "compliance check mahitabo"
+            },
+            {
+              "front": "operation schedule will update",
+              "back": "Ang iskedyul sa operasyon ma-update"
+            },
+            {
+              "front": "movement tracking will monitor",
+              "back": "Ang pagsubay sa paglihok mag-monitor"
+            },
+            {
+              "front": "distance measurement will check",
+              "back": "ang pagsukod sa gilay-on magsusi"
+            },
+            {
+              "front": "hub location will access",
+              "back": "ma-access ang lokasyon sa hub"
+            },
+            {
+              "front": "network analysis will identify",
+              "back": "pagtuki sa network makaila"
+            },
+            {
+              "front": "allocation strategy will optimize",
+              "back": "ang estratehiya sa alokasyon ma-optimize"
+            },
+            {
+              "front": "signs will direct travelers home",
+              "back": "ang mga timailhan magtultol sa mga magpapanaw pauli"
+            },
+            {
+              "front": "traffic report will indicate",
+              "back": "ang report sa trapiko magpakita"
+            },
+            {
+              "front": "consultation service will provide",
+              "back": "serbisyo sa konsultasyon ang maghatag"
+            },
+            {
+              "front": "logistics plan will streamline",
+              "back": "Ang plano sa logistik mag-streamline"
+            },
+            {
+              "front": "bicycle lane will promote",
+              "back": "bicycle lane ang magpasiugda"
+            },
+            {
+              "front": "response will save lives",
+              "back": "tubag makaluwas ug kinabuhi"
+            },
+            {
+              "front": "driving rule will apply",
+              "back": "Ang lagda sa pagmaneho magamit"
+            },
+            {
+              "front": "safety will be prioritized",
+              "back": "ang kaluwasan maoy unahon"
+            },
+            {
+              "front": "service route will adjust",
+              "back": "ang ruta sa serbisyo mag-adjust"
+            },
+            {
+              "front": "schedule will become necessary",
+              "back": "ang iskedyul mahimong kinahanglanon"
+            },
+            {
+              "front": "congestion will impact travel",
+              "back": "ang kahuot makaapektar sa pagbiyahe"
+            },
+            {
+              "front": "reservation system will simplify",
+              "back": "ang sistema sa reserbasyon mosayon"
+            },
+            {
+              "front": "planning meeting will set",
+              "back": "itakda ang miting sa pagplano"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "departure time will change again",
+              "back": "ang oras sa pagbiya mausab na usab"
+            },
+            {
+              "front": "arrival schedule will adjust soon",
+              "back": "Ang eskedyul sa pag-abot mo-adjust sa dili madugay"
+            },
+            {
+              "front": "ticket counter will open early",
+              "back": "sayo nga ablihan ang ticket counter"
+            },
+            {
+              "front": "platform number will be updated",
+              "back": "ang numero sa plataporma ma-update"
+            },
+            {
+              "front": "route map will show detours",
+              "back": "Ang mapa sa ruta magpakita sa mga detour"
+            },
+            {
+              "front": "cargo space will be limited",
+              "back": "Ang luna sa kargamento mahimong limitado"
+            },
+            {
+              "front": "freight load will increase significantly",
+              "back": "karga load modaghan pag-ayo"
+            },
+            {
+              "front": "commute route will take longer",
+              "back": "magdugay ang commute route"
+            },
+            {
+              "front": "queue line will form quickly",
+              "back": "dali nga maporma ang linya sa pila"
+            },
+            {
+              "front": "fare price will rise next",
+              "back": "sunod nga motaas ang presyo sa plitehan"
+            },
+            {
+              "front": "passenger service will exceed expectations",
+              "back": "ang serbisyo sa pasahero molapas sa mga gilauman"
+            },
+            {
+              "front": "transfer station will be busy",
+              "back": "ang estasyon sa pagbalhin mahimong busy"
+            },
+            {
+              "front": "traffic signal will turn green",
+              "back": "ang signal sa trapiko mahimong berde"
+            },
+            {
+              "front": "safety measure will be implemented",
+              "back": "ipatuman ang safety measure"
+            },
+            {
+              "front": "inspection area will be crowded",
+              "back": "maghuot ang inspection area"
+            },
+            {
+              "front": "journey plan will work perfectly",
+              "back": "Ang plano sa pagbiyahe hingpit nga molihok"
+            },
+            {
+              "front": "navigation tool will guide us",
+              "back": "himan sa nabigasyon mogiya kanato"
+            },
+            {
+              "front": "bus stop will change location",
+              "back": "bus stop mausab ang lokasyon"
+            },
+            {
+              "front": "rail line will operate smoothly",
+              "back": "Ang linya sa tren molihok nga hapsay"
+            },
+            {
+              "front": "logistics network will improve efficiency",
+              "back": "logistics network makapauswag sa kahusayan"
+            },
+            {
+              "front": "modal transport will include options",
+              "back": "Ang modal nga transportasyon maglakip sa mga kapilian"
+            },
+            {
+              "front": "travel allowance will be flexible",
+              "back": "ang allowance sa pagbiyahe mahimong flexible"
+            },
+            {
+              "front": "system upgrade will enhance performance",
+              "back": "ang pag-upgrade sa sistema makapauswag sa performance"
+            },
+            {
+              "front": "capacity limit will be reached",
+              "back": "ang limitasyon sa kapasidad maabot"
+            },
+            {
+              "front": "accessibility feature will assist passengers",
+              "back": "accessibility feature makatabang sa mga pasahero"
+            },
+            {
+              "front": "route planner will help travelers",
+              "back": "Ang tigplano sa ruta makatabang sa mga magpapanaw"
+            },
+            {
+              "front": "connection point will facilitate transfers",
+              "back": "ang punto sa koneksyon makapadali sa mga pagbalhin"
+            },
+            {
+              "front": "service area will offer amenities",
+              "back": "ang service area maghatag ug amenities"
+            },
+            {
+              "front": "consultation meeting will address concerns",
+              "back": "Ang miting sa konsultasyon motubag sa mga kabalaka"
+            },
+            {
+              "front": "compliance check will ensure safety",
+              "back": "ang pagsusi sa pagsunod magsiguro sa kaluwasan"
+            },
+            {
+              "front": "operation schedule will update weekly",
+              "back": "Ang iskedyul sa operasyon ma-update kada semana"
+            },
+            {
+              "front": "movement tracking will monitor routes",
+              "back": "Ang pagsubay sa paglihok mag-monitor sa mga ruta"
+            },
+            {
+              "front": "distance measurement will ensure accuracy",
+              "back": "pagsukod sa gilay-on makasiguro sa katukma"
+            },
+            {
+              "front": "hub location will simplify access",
+              "back": "Ang lokasyon sa hub makapasayon sa pag-access"
+            },
+            {
+              "front": "network analysis will identify improvements",
+              "back": "pagtuki sa network makaila sa mga kalamboan"
+            },
+            {
+              "front": "allocation strategy will optimize resources",
+              "back": "Ang estratehiya sa alokasyon mag-optimize sa mga kapanguhaan"
+            },
+            {
+              "front": "signage system will direct travelers",
+              "back": "Ang sistema sa signage mogiya sa mga magpapanaw"
+            },
+            {
+              "front": "traffic report will indicate congestion",
+              "back": "Ang report sa trapiko magpakita sa kahuot"
+            },
+            {
+              "front": "consultation service will provide assistance",
+              "back": "serbisyo sa konsultasyon mohatag og tabang"
+            },
+            {
+              "front": "logistics plan will streamline processes",
+              "back": "Ang plano sa logistik mag-streamline sa mga proseso"
+            },
+            {
+              "front": "bicycle lane will promote cycling",
+              "back": "bicycle lane magpasiugda sa pagbisikleta"
+            },
+            {
+              "front": "emergency response will save lives",
+              "back": "ang tubag sa emerhensya makaluwas sa mga kinabuhi"
+            },
+            {
+              "front": "driving rule will apply universally",
+              "back": "Ang lagda sa pagmaneho magamit sa tanan"
+            },
+            {
+              "front": "road safety will be prioritized",
+              "back": "ang kaluwasan sa dalan maoy unahon"
+            },
+            {
+              "front": "service route will require adjustments",
+              "back": "ang ruta sa serbisyo magkinahanglan og mga kausaban"
+            },
+            {
+              "front": "schedule update will be necessary",
+              "back": "kinahanglanon ang pag-update sa iskedyul"
+            },
+            {
+              "front": "traffic congestion will impact travel",
+              "back": "ang kahuot sa trapiko makaapekto sa pagbiyahe"
+            },
+            {
+              "front": "reservation system will simplify bookings",
+              "back": "ang sistema sa reserbasyon makapasayon sa mga booking"
+            },
+            {
+              "front": "planning meeting will set agenda",
+              "back": "Ang miting sa pagplano magtakda og agenda"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "station will close before dinner time",
+              "back": "ang istasyon magsira sa dili pa ang oras sa panihapon"
+            },
+            {
+              "front": "departure time is good for us",
+              "back": "Ang oras sa pagbiya maayo alang kanamo"
+            },
+            {
+              "front": "they will perform good network analysis",
+              "back": "maghimo sila ug maayong pagtuki sa network"
+            },
+            {
+              "front": "traffic report runs every single hour",
+              "back": "Ang report sa trapiko modagan matag usa ka oras"
+            },
+            {
+              "front": "we will obey all traffic signals",
+              "back": "atong sundon ang tanang traffic signal"
+            },
+            {
+              "front": "they will arrive here on schedule",
+              "back": "maabot sila diri sa schedule"
+            },
+            {
+              "front": "we need to arrive at airport",
+              "back": "kinahanglan namong moabot sa airport"
+            },
+            {
+              "front": "cargo space will become available soon",
+              "back": "cargo space mahimong magamit sa dili madugay"
+            },
+            {
+              "front": "fare price will increase next month",
+              "back": "mosaka ang presyo sa pletihan sunod buwan"
+            },
+            {
+              "front": "rail line will be fully operational",
+              "back": "ang linya sa tren mahimong hingpit nga magamit"
+            },
+            {
+              "front": "route map will indicate all detours",
+              "back": "Ang mapa sa ruta magpakita sa tanan nga mga detour"
+            },
+            {
+              "front": "arrival schedule will be posted soon",
+              "back": "Ang iskedyul sa pag-abot i-post sa dili madugay"
+            },
+            {
+              "front": "safety measures will ensure passenger security",
+              "back": "Ang mga lakang sa kaluwasan magsiguro sa seguridad sa pasahero"
+            },
+            {
+              "front": "commute route will include multiple options",
+              "back": "Ang ruta sa pag-commute maglakip sa daghang mga kapilian"
+            },
+            {
+              "front": "service area will have essential amenities",
+              "back": "Ang lugar sa serbisyo adunay hinungdanon nga mga pasilidad"
+            },
+            {
+              "front": "transfer station will provide convenient connections",
+              "back": "ang estasyon sa pagbalhin maghatag ug kombenyente nga mga koneksyon"
+            },
+            {
+              "front": "traffic signal will turn green shortly",
+              "back": "ang signal sa trapiko mahimong berde sa dili madugay"
+            },
+            {
+              "front": "navigation tool will guide our route",
+              "back": "Ang himan sa nabigasyon maggiya sa among ruta"
+            },
+            {
+              "front": "bicycle lane will promote safer cycling",
+              "back": "bicycle lane magpasiugda sa mas luwas nga pagbisikleta"
+            },
+            {
+              "front": "operation schedule will be updated regularly",
+              "back": "Ang iskedyul sa operasyon ma-update kanunay"
+            },
+            {
+              "front": "network analysis will improve overall logistics",
+              "back": "pagtuki sa network makapauswag sa kinatibuk-ang logistik"
+            },
+            {
+              "front": "capacity limit will be enforced soon",
+              "back": "ang limitasyon sa kapasidad ipatuman sa dili madugay"
+            },
+            {
+              "front": "they will adjust service route accordingly",
+              "back": "sila mag-adjust sa ruta sa serbisyo sumala niana"
+            },
+            {
+              "front": "emergency response will save many lives",
+              "back": "ang tubag sa emerhensya makaluwas sa daghang kinabuhi"
+            },
+            {
+              "front": "we will implement necessary safety protocols",
+              "back": "atong ipatuman ang gikinahanglan nga safety protocols"
+            },
+            {
+              "front": "inspection area will be very busy",
+              "back": "Ang lugar sa pag-inspeksyon mahimong busy kaayo"
+            },
+            {
+              "front": "traffic report will highlight major issues",
+              "back": "Ang report sa trapiko magpasiugda sa dagkong mga isyu"
+            },
+            {
+              "front": "consultation meeting will discuss important topics",
+              "back": "konsultasyon miting maghisgot sa importante nga mga hilisgutan"
+            },
+            {
+              "front": "travel allowance will cover all expenses",
+              "back": "Ang allowance sa pagbiyahe motabon sa tanan nga gasto"
+            },
+            {
+              "front": "reservation system will streamline travel bookings",
+              "back": "Ang sistema sa reserbasyon mag-streamline sa mga booking sa pagbiyahe"
+            },
+            {
+              "front": "distance measurement will ensure accurate travel",
+              "back": "pagsukod sa gilay-on makasiguro sa tukma nga pagbiyahe"
+            },
+            {
+              "front": "hub location will simplify passenger access",
+              "back": "Ang lokasyon sa hub makapasayon sa pag-access sa pasahero"
+            },
+            {
+              "front": "signage system will direct all travelers",
+              "back": "Ang signage system maoy modirekta sa tanang magpapanaw"
+            },
+            {
+              "front": "we will analyze logistics for efficiency",
+              "back": "atong analisahon ang logistics para sa efficiency"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

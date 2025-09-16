@@ -1,0 +1,2914 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Weather",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Sunny",
+              "back": "sunny"
+            },
+            {
+              "front": "Rainy",
+              "back": "ulan"
+            },
+            {
+              "front": "Cloudy",
+              "back": "dag-um"
+            },
+            {
+              "front": "Windy",
+              "back": "mahangin"
+            },
+            {
+              "front": "Stormy",
+              "back": "bagyo"
+            },
+            {
+              "front": "Snowy",
+              "back": "niyebe"
+            },
+            {
+              "front": "Foggy",
+              "back": "gabon"
+            },
+            {
+              "front": "Hot",
+              "back": "init"
+            },
+            {
+              "front": "Cold",
+              "back": "bugnaw"
+            },
+            {
+              "front": "Warm",
+              "back": "init"
+            },
+            {
+              "front": "Chilly",
+              "back": "tugnaw"
+            },
+            {
+              "front": "Humid",
+              "back": "umog"
+            },
+            {
+              "front": "Dry",
+              "back": "uga"
+            },
+            {
+              "front": "Thunder",
+              "back": "dalugdog"
+            },
+            {
+              "front": "Lightning",
+              "back": "kilat"
+            },
+            {
+              "front": "Hail",
+              "back": "ulan nga yelo"
+            },
+            {
+              "front": "Drizzle",
+              "back": "ulan"
+            },
+            {
+              "front": "Downpour",
+              "back": "pagbunok sa ulan"
+            },
+            {
+              "front": "Heatwave",
+              "back": "init nga balud"
+            },
+            {
+              "front": "Frost",
+              "back": "katugnaw"
+            },
+            {
+              "front": "Tornado",
+              "back": "buhawi"
+            },
+            {
+              "front": "Hurricane",
+              "back": "bagyo"
+            },
+            {
+              "front": "Typhoon",
+              "back": "bagyo"
+            },
+            {
+              "front": "Breeze",
+              "back": "hangin"
+            },
+            {
+              "front": "Gust",
+              "back": "huros"
+            },
+            {
+              "front": "Squall",
+              "back": "bagyo"
+            },
+            {
+              "front": "Precipitation",
+              "back": "ulan"
+            },
+            {
+              "front": "Overcast",
+              "back": "dag-um"
+            },
+            {
+              "front": "Clear",
+              "back": "klaro"
+            },
+            {
+              "front": "Dew",
+              "back": "yamog"
+            },
+            {
+              "front": "Icy",
+              "back": "nagyelo"
+            },
+            {
+              "front": "Sleet",
+              "back": "ulan nga yelo"
+            },
+            {
+              "front": "Blizzard",
+              "back": "blizzard"
+            },
+            {
+              "front": "Puddle",
+              "back": "lim-aw"
+            },
+            {
+              "front": "Rainbow",
+              "back": "balangaw"
+            },
+            {
+              "front": "Thermometer",
+              "back": "thermometer"
+            },
+            {
+              "front": "Forecast",
+              "back": "panagna"
+            },
+            {
+              "front": "Barometer",
+              "back": "barometro"
+            },
+            {
+              "front": "Windchill",
+              "back": "windchill"
+            },
+            {
+              "front": "Visibility",
+              "back": "visibility"
+            },
+            {
+              "front": "Weatherfront",
+              "back": "atubangan sa panahon"
+            },
+            {
+              "front": "Clouds",
+              "back": "mga panganod"
+            },
+            {
+              "front": "Humidity",
+              "back": "humidity"
+            },
+            {
+              "front": "Temperature",
+              "back": "temperatura"
+            },
+            {
+              "front": "Sunshine",
+              "back": "kahayag sa adlaw"
+            },
+            {
+              "front": "Sunstroke",
+              "back": "sunstroke"
+            },
+            {
+              "front": "Equinox",
+              "back": "equinox"
+            },
+            {
+              "front": "Solstice",
+              "back": "solstice"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "sunny day",
+              "back": "hayag nga adlaw"
+            },
+            {
+              "front": "rainy weather",
+              "back": "ting-ulan nga panahon"
+            },
+            {
+              "front": "cloudy skies",
+              "back": "madag-umon nga kalangitan"
+            },
+            {
+              "front": "windy afternoon",
+              "back": "hangin nga hapon"
+            },
+            {
+              "front": "stormy night",
+              "back": "bagyo nga gabii"
+            },
+            {
+              "front": "snowy landscape",
+              "back": "niyebe nga talan-awon"
+            },
+            {
+              "front": "foggy morning",
+              "back": "gabon nga buntag"
+            },
+            {
+              "front": "hot sun",
+              "back": "init nga adlaw"
+            },
+            {
+              "front": "cold breeze",
+              "back": "bugnaw nga hangin"
+            },
+            {
+              "front": "warm temperature",
+              "back": "init nga temperatura"
+            },
+            {
+              "front": "chilly air",
+              "back": "bugnaw nga hangin"
+            },
+            {
+              "front": "humid conditions",
+              "back": "humid nga kahimtang"
+            },
+            {
+              "front": "dry spell",
+              "back": "uga nga spell"
+            },
+            {
+              "front": "thunder rumble",
+              "back": "dalugdog nga dalugdog"
+            },
+            {
+              "front": "lightning flash",
+              "back": "kilat"
+            },
+            {
+              "front": "hail storm",
+              "back": "ulan nga yelo"
+            },
+            {
+              "front": "drizzle falls",
+              "back": "nitulo ang ulan"
+            },
+            {
+              "front": "downpour occurs",
+              "back": "ulan mahitabo"
+            },
+            {
+              "front": "heatwave hits",
+              "back": "naigo sa heatwave"
+            },
+            {
+              "front": "frost forms",
+              "back": "mga porma sa katugnaw"
+            },
+            {
+              "front": "tornado warning",
+              "back": "pasidaan sa buhawi"
+            },
+            {
+              "front": "hurricane approaches",
+              "back": "nagsingabot ang bagyo"
+            },
+            {
+              "front": "breeze blows",
+              "back": "huyop sa hangin"
+            },
+            {
+              "front": "gusty winds",
+              "back": "kusog nga hangin"
+            },
+            {
+              "front": "squall arrives",
+              "back": "niabot ang unos"
+            },
+            {
+              "front": "precipitation falls",
+              "back": "pag-ulan nahulog"
+            },
+            {
+              "front": "overcast skies",
+              "back": "madag-umon nga kalangitan"
+            },
+            {
+              "front": "clear skies",
+              "back": "tin-aw nga kalangitan"
+            },
+            {
+              "front": "dew settles",
+              "back": "tun-og"
+            },
+            {
+              "front": "icy conditions",
+              "back": "nagyelo nga mga kahimtang"
+            },
+            {
+              "front": "sleet falls",
+              "back": "ulan nga yelo"
+            },
+            {
+              "front": "blizzard hits",
+              "back": "naigo sa blizzard"
+            },
+            {
+              "front": "puddle forms",
+              "back": "mga porma sa lim-aw"
+            },
+            {
+              "front": "rainbow appears",
+              "back": "nagpakita ang balangaw"
+            },
+            {
+              "front": "thermometer reads",
+              "back": "mabasa ang thermometer"
+            },
+            {
+              "front": "weather forecast",
+              "back": "forecast sa panahon"
+            },
+            {
+              "front": "barometer drops",
+              "back": "naghulog ang barometer"
+            },
+            {
+              "front": "windchill affects",
+              "back": "makaapektar sa windchill"
+            },
+            {
+              "front": "visibility decreases",
+              "back": "mikunhod ang visibility"
+            },
+            {
+              "front": "weather front",
+              "back": "atubangan sa panahon"
+            },
+            {
+              "front": "clouds gather",
+              "back": "mga panganod nagtapok"
+            },
+            {
+              "front": "humidity rises",
+              "back": "motaas ang humidity"
+            },
+            {
+              "front": "temperature changes",
+              "back": "pagbag-o sa temperatura"
+            },
+            {
+              "front": "sunshine brightens",
+              "back": "nagsanag ang silaw sa adlaw"
+            },
+            {
+              "front": "funnel cloud",
+              "back": "funnel cloud"
+            },
+            {
+              "front": "heat index",
+              "back": "indeks sa kainit"
+            },
+            {
+              "front": "wind speed",
+              "back": "gikusgon sa hangin"
+            },
+            {
+              "front": "weather station",
+              "back": "estasyon sa panahon"
+            },
+            {
+              "front": "rain gauge",
+              "back": "gauge sa ulan"
+            },
+            {
+              "front": "sunstroke risk",
+              "back": "risgo sa sunstroke"
+            },
+            {
+              "front": "equinox arrives",
+              "back": "niabot ang equinox"
+            },
+            {
+              "front": "solstice occurs",
+              "back": "mahitabo ang solstice"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "day is here",
+              "back": "ania na ang adlaw"
+            },
+            {
+              "front": "weather is expected",
+              "back": "gipaabot ang panahon"
+            },
+            {
+              "front": "clouds loom ahead",
+              "back": "ang mga panganod naglantaw sa unahan"
+            },
+            {
+              "front": "wind arrives quickly",
+              "back": "kusog nga niabot ang hangin"
+            },
+            {
+              "front": "storm is coming",
+              "back": "moabot ang bagyo"
+            },
+            {
+              "front": "snow looks beautiful",
+              "back": "nindot tan-awon ang niyebe"
+            },
+            {
+              "front": "fog slows traffic",
+              "back": "ang gabon makapahinay sa trapiko"
+            },
+            {
+              "front": "sun beats down",
+              "back": "ang adlaw mosalop"
+            },
+            {
+              "front": "breeze refreshes air",
+              "back": "ang hangin makapa-refresh sa hangin"
+            },
+            {
+              "front": "temperature feels nice",
+              "back": "nindot ang temperatura"
+            },
+            {
+              "front": "air bites skin",
+              "back": "hangin mopaak sa panit"
+            },
+            {
+              "front": "humidity creates discomfort",
+              "back": "humidity nagmugna sa kahasol"
+            },
+            {
+              "front": "dry spell continues",
+              "back": "ang uga nga spell nagpadayon"
+            },
+            {
+              "front": "the thunder rumbles",
+              "back": "nagdaguhob ang dalugdog"
+            },
+            {
+              "front": "lightning strikes nearby",
+              "back": "mga kilat sa duol"
+            },
+            {
+              "front": "hail storm surprises",
+              "back": "mga sorpresa sa bagyo"
+            },
+            {
+              "front": "drizzle falls outside",
+              "back": "ulan mahulog sa gawas"
+            },
+            {
+              "front": "downpour causes flooding",
+              "back": "ang pagbunok sa ulan hinungdan sa pagbaha"
+            },
+            {
+              "front": "heatwave affects people",
+              "back": "heatwave makaapekto sa mga tawo"
+            },
+            {
+              "front": "frost forms quickly",
+              "back": "dali nga naporma ang katugnaw"
+            },
+            {
+              "front": "tornado warning issued",
+              "back": "buhawi nga pasidaan gi-isyu"
+            },
+            {
+              "front": "hurricane approaches coast",
+              "back": "ang bagyo nagpadulong sa baybayon"
+            },
+            {
+              "front": "breeze blows today",
+              "back": "huyuhoy sa hangin karon"
+            },
+            {
+              "front": "winds disrupt plans",
+              "back": "ang hangin makabalda sa mga plano"
+            },
+            {
+              "front": "squall arrives today",
+              "back": "niabot ang unos karong adlawa"
+            },
+            {
+              "front": "precipitation falls throughout",
+              "back": "ulan nahulog sa tibuok"
+            },
+            {
+              "front": "skies block sunlight",
+              "back": "gibabagan sa kalangitan ang kahayag sa adlaw"
+            },
+            {
+              "front": "skies promise sunshine",
+              "back": "ang kalangitan nagsaad sa kahayag sa adlaw"
+            },
+            {
+              "front": "the dew settles",
+              "back": "ang tun-og mihunong"
+            },
+            {
+              "front": "the sleet falls",
+              "back": "ang ulan nga yelo mahulog"
+            },
+            {
+              "front": "that blizzard hits",
+              "back": "kanang blizzard niigo"
+            },
+            {
+              "front": "many puddles form",
+              "back": "daghang puddles ang naporma"
+            },
+            {
+              "front": "beautiful rainbow appears",
+              "back": "nindot nga balangaw nagpakita"
+            },
+            {
+              "front": "thermometer reads accurately",
+              "back": "tukma nga mabasa ang thermometer"
+            },
+            {
+              "front": "weather forecast predicts",
+              "back": "panagna sa panahon"
+            },
+            {
+              "front": "barometer drops today",
+              "back": "Ang barometer mikunhod karon"
+            },
+            {
+              "front": "windchill affects temperature",
+              "back": "windchill makaapekto sa temperatura"
+            },
+            {
+              "front": "fog decreases visibility",
+              "back": "ang gabon makapakunhod sa visibility"
+            },
+            {
+              "front": "weather front moves",
+              "back": "lihok sa atubangan sa panahon"
+            },
+            {
+              "front": "clouds gather overhead",
+              "back": "ang mga panganod nagtapok sa ibabaw"
+            },
+            {
+              "front": "humidity rises today",
+              "back": "motaas ang humidity karon"
+            },
+            {
+              "front": "the temperature changes",
+              "back": "pagbag-o sa temperatura"
+            },
+            {
+              "front": "the sunshine brightens",
+              "back": "nagsanag ang silaw sa adlaw"
+            },
+            {
+              "front": "funnel cloud forms",
+              "back": "mga porma sa funnel cloud"
+            },
+            {
+              "front": "summer is hot",
+              "back": "init ang ting-init"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "sunny day is here",
+              "back": "masidlak nga adlaw dinhi"
+            },
+            {
+              "front": "rainy weather is expected",
+              "back": "ulan nga panahon gipaabot"
+            },
+            {
+              "front": "cloudy skies loom ahead",
+              "back": "madag-umon nga kalangitan anaa sa unahan"
+            },
+            {
+              "front": "windy afternoon arrives quickly",
+              "back": "kusog nga niabot ang mahangin nga hapon"
+            },
+            {
+              "front": "stormy night is coming",
+              "back": "nagsingabot nga gabii ang bagyo"
+            },
+            {
+              "front": "snowy landscape looks beautiful",
+              "back": "nindot tan-awon ang snowy landscape"
+            },
+            {
+              "front": "foggy morning slows traffic",
+              "back": "Ang gabon nga buntag nagpahinay sa trapiko"
+            },
+            {
+              "front": "hot sun beats down",
+              "back": "ang init nga adlaw mosalop"
+            },
+            {
+              "front": "cold breeze refreshes air",
+              "back": "ang bugnaw nga hangin makapapresko sa hangin"
+            },
+            {
+              "front": "warm temperature feels nice",
+              "back": "nindot ang init nga temperatura"
+            },
+            {
+              "front": "chilly air bites skin",
+              "back": "ang bugnaw nga hangin mopaak sa panit"
+            },
+            {
+              "front": "humid conditions create discomfort",
+              "back": "Ang humid nga mga kondisyon makamugna og dili komportable"
+            },
+            {
+              "front": "dry spell continues for weeks",
+              "back": "ang uga nga spell nagpadayon sulod sa mga semana"
+            },
+            {
+              "front": "thunder rumbles in distance",
+              "back": "dalugdog sa gilay-on"
+            },
+            {
+              "front": "lightning strikes nearby area",
+              "back": "kilat miigo sa duol nga dapit"
+            },
+            {
+              "front": "hail storm surprises everyone",
+              "back": "ulan nga yelo sorpresa sa tanan"
+            },
+            {
+              "front": "drizzle falls lightly outside",
+              "back": "hinay ang ulan sa gawas"
+            },
+            {
+              "front": "downpour causes flooding quickly",
+              "back": "ang pagbunok sa ulan hinungdan sa dali nga pagbaha"
+            },
+            {
+              "front": "heatwave affects many people",
+              "back": "Ang heatwave makaapekto sa daghang mga tawo"
+            },
+            {
+              "front": "frost forms on grass",
+              "back": "frost porma sa balili"
+            },
+            {
+              "front": "tornado warning is issued",
+              "back": "Ang pasidaan sa buhawi gi-isyu"
+            },
+            {
+              "front": "hurricane approaches coastal areas",
+              "back": "ang bagyo nagpadulong sa mga lugar sa baybayon"
+            },
+            {
+              "front": "breeze blows gently today",
+              "back": "hinay nga huyop sa hangin karon"
+            },
+            {
+              "front": "gusty winds disrupt plans",
+              "back": "ang kusog nga hangin makabalda sa mga plano"
+            },
+            {
+              "front": "squall arrives unexpectedly today",
+              "back": "wala damha niabot ang unos karong adlawa"
+            },
+            {
+              "front": "precipitation falls throughout day",
+              "back": "ang ulan mahulog sa tibuok adlaw"
+            },
+            {
+              "front": "overcast skies block sunlight",
+              "back": "ang madag-umon nga kalangitan nagbabag sa kahayag sa adlaw"
+            },
+            {
+              "front": "clear skies promise sunshine",
+              "back": "tin-aw nga kalangitan nagsaad sa kahayag sa adlaw"
+            },
+            {
+              "front": "dew settles on grass",
+              "back": "ang tun-og natunob sa sagbot"
+            },
+            {
+              "front": "icy conditions make driving difficult",
+              "back": "Ang mga nagyelo nga mga kahimtang makapalisud sa pagmaneho"
+            },
+            {
+              "front": "sleet falls in winter",
+              "back": "ulan ulan sa tingtugnaw"
+            },
+            {
+              "front": "blizzard hits the region",
+              "back": "Ang blizzard miigo sa rehiyon"
+            },
+            {
+              "front": "puddle forms on ground",
+              "back": "mga lim-aw nga porma sa yuta"
+            },
+            {
+              "front": "rainbow appears after rain",
+              "back": "balangaw makita human sa ulan"
+            },
+            {
+              "front": "thermometer reads thirty degrees",
+              "back": "ang thermometer kay traynta degrees"
+            },
+            {
+              "front": "weather forecast predicts sunshine",
+              "back": "weather forecast nagtagna sa kahayag sa adlaw"
+            },
+            {
+              "front": "barometer drops rapidly today",
+              "back": "Ang barometer kusog nga mius-os karon"
+            },
+            {
+              "front": "windchill affects perceived temperature",
+              "back": "Ang windchill makaapekto sa gitan-aw nga temperatura"
+            },
+            {
+              "front": "visibility decreases in fog",
+              "back": "mikunhod ang visibility sa gabon"
+            },
+            {
+              "front": "weather front moves in",
+              "back": "ang unahan sa panahon molihok"
+            },
+            {
+              "front": "clouds gather overhead quickly",
+              "back": "ang mga panganod dali nga nagpundok sa ibabaw"
+            },
+            {
+              "front": "humidity rises throughout day",
+              "back": "motaas ang humidity sa tibuok adlaw"
+            },
+            {
+              "front": "temperature changes throughout afternoon",
+              "back": "pagbag-o sa temperatura sa tibuok hapon"
+            },
+            {
+              "front": "sunshine brightens up day",
+              "back": "ang kahayag sa adlaw modan-ag sa adlaw"
+            },
+            {
+              "front": "weather station records data",
+              "back": "talaan sa datos sa weather station"
+            },
+            {
+              "front": "rain gauge measures rainfall",
+              "back": "ang rain gauge nagsukod sa ulan"
+            },
+            {
+              "front": "sunstroke risk increases in summer",
+              "back": "Ang risgo sa sunstroke nagdugang sa ting-init"
+            },
+            {
+              "front": "equinox marks seasonal change",
+              "back": "Ang equinox nagtimaan sa pagbag-o sa panahon"
+            },
+            {
+              "front": "solstice brings longest day",
+              "back": "Ang solstice nagdala sa labing taas nga adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "sunny day brings lovely warmth",
+              "back": "Ang sunny day nagdala ug nindot nga kainit"
+            },
+            {
+              "front": "rainy weather makes everything fresh",
+              "back": "Ang ting-ulan nga panahon naghimo sa tanan nga presko"
+            },
+            {
+              "front": "cloudy skies block out sunlight",
+              "back": "ang madag-umon nga kalangitan nagbabag sa kahayag sa adlaw"
+            },
+            {
+              "front": "windy afternoon causes tree branches",
+              "back": "hangin nga hapon hinungdan sa mga sanga sa kahoy"
+            },
+            {
+              "front": "stormy night keeps everyone indoors",
+              "back": "Ang mabagyo nga gabii nagpugong sa tanan sa sulod sa balay"
+            },
+            {
+              "front": "landscape looks like winter wonderland",
+              "back": "ang talan-awon morag winter wonderland"
+            },
+            {
+              "front": "morning reduces visibility significantly",
+              "back": "buntag pagkunhod visibility kamahinungdanon"
+            },
+            {
+              "front": "hot sun beats down today",
+              "back": "ang init nga adlaw mosalop karong adlawa"
+            },
+            {
+              "front": "cold breeze refreshes warm air",
+              "back": "ang bugnaw nga hangin makapa-refresh sa init nga hangin"
+            },
+            {
+              "front": "warm temperature feels pleasant outside",
+              "back": "init nga temperatura mobati nga makapahimuot sa gawas"
+            },
+            {
+              "front": "chilly air bites at skin",
+              "back": "bugnaw nga hangin mopaak sa panit"
+            },
+            {
+              "front": "humid conditions create sticky discomfort",
+              "back": "Ang humid nga mga kondisyon makahimo og sticky nga kahasol"
+            },
+            {
+              "front": "dry spell continues for weeks",
+              "back": "ang uga nga spell nagpadayon sulod sa mga semana"
+            },
+            {
+              "front": "thunder rumbles loudly in distance",
+              "back": "kusog nga dalugdog sa layo"
+            },
+            {
+              "front": "lightning flashes illuminate the night",
+              "back": "Ang mga kilat nagdan-ag sa kagabhion"
+            },
+            {
+              "front": "hail storm surprises everyone unexpectedly",
+              "back": "Ang ulan nga yelo natingala sa tanan nga wala damha"
+            },
+            {
+              "front": "drizzle falls lightly on pavement",
+              "back": "hinay ang ulan sa semento"
+            },
+            {
+              "front": "downpour causes streets to flood",
+              "back": "ang pagbunok sa ulan hinungdan sa pagbaha sa kadalanan"
+            },
+            {
+              "front": "heatwave affects people and animals",
+              "back": "heatwave makaapekto sa mga tawo ug mga mananap"
+            },
+            {
+              "front": "thick frost forms on windows",
+              "back": "mabaga nga katugnaw nga porma sa mga bintana"
+            },
+            {
+              "front": "tornado warning is issued immediately",
+              "back": "Ang pahimangno sa buhawi gi-isyu dayon"
+            },
+            {
+              "front": "hurricane approaches coastal areas quickly",
+              "back": "Ang bagyo dali nga moduol sa mga baybayon"
+            },
+            {
+              "front": "breeze blows gently through trees",
+              "back": "hinay nga huyuhoy sa hangin sa mga kahoy"
+            },
+            {
+              "front": "gusty winds disrupt outdoor activities",
+              "back": "ang kusog nga hangin makabalda sa mga kalihokan sa gawas"
+            },
+            {
+              "front": "squall arrives unexpectedly during afternoon",
+              "back": "wala damha nga moabot ang unos panahon sa hapon"
+            },
+            {
+              "front": "precipitation falls throughout the day",
+              "back": "ang ulan mahulog sa tibuok adlaw"
+            },
+            {
+              "front": "skies bring gray atmosphere today",
+              "back": "ang kalangitan nagdala ug abuhon nga atmospera karon"
+            },
+            {
+              "front": "skies promise beautiful weather ahead",
+              "back": "ang kalangitan nagsaad ug nindot nga panahon sa unahan"
+            },
+            {
+              "front": "dew settles on morning grass",
+              "back": "ang yamog namutang sa kabuntagon nga balili"
+            },
+            {
+              "front": "icy conditions make roads hazardous",
+              "back": "Ang nagyelo nga mga kahimtang naghimo sa mga dalan nga peligro"
+            },
+            {
+              "front": "sleet falls during the season",
+              "back": "ulan ulan sa panahon sa panahon"
+            },
+            {
+              "front": "blizzard hits the area hard",
+              "back": "kusog nga miigo ang blizzard sa lugar"
+            },
+            {
+              "front": "puddle forms after heavy rainfall",
+              "back": "maporma ang lim-aw human sa kusog nga ulan"
+            },
+            {
+              "front": "rainbow appears after the storm",
+              "back": "ang balangaw makita human sa bagyo"
+            },
+            {
+              "front": "thermometer reads high temperatures today",
+              "back": "Ang thermometer nagbasa sa taas nga temperatura karon"
+            },
+            {
+              "front": "weather forecast predicts sunny days",
+              "back": "Ang forecast sa panahon nagtagna sa sunny nga mga adlaw"
+            },
+            {
+              "front": "barometer drops indicating stormy weather",
+              "back": "barometer drops nga nagpakita sa bagyo nga panahon"
+            },
+            {
+              "front": "windchill affects how it feels",
+              "back": "windchill makaapekto sa unsay gibati niini"
+            },
+            {
+              "front": "visibility decreases due to fog",
+              "back": "mikunhod ang visibility tungod sa gabon"
+            },
+            {
+              "front": "weather front moves into region",
+              "back": "ang atubangan sa panahon mobalhin ngadto sa rehiyon"
+            },
+            {
+              "front": "clouds gather before the storm",
+              "back": "ang mga panganod nagtigom sa dili pa ang unos"
+            },
+            {
+              "front": "humidity rises as sun sets",
+              "back": "motaas ang kaumog sa pagsalop sa adlaw"
+            },
+            {
+              "front": "temperature changes as seasons shift",
+              "back": "pagbag-o sa temperatura samtang nagbag-o ang mga panahon"
+            },
+            {
+              "front": "sunshine brightens up the day",
+              "back": "ang silaw sa adlaw makapadan-ag sa adlaw"
+            },
+            {
+              "front": "the dangerous funnel cloud forms",
+              "back": "naporma ang peligro nga funnel cloud"
+            },
+            {
+              "front": "heat index rises with humidity",
+              "back": "ang indeks sa kainit mosaka uban ang humidity"
+            },
+            {
+              "front": "wind speed increases with storm",
+              "back": "Ang gikusgon sa hangin mosaka uban sa bagyo"
+            },
+            {
+              "front": "weather station records high temperature",
+              "back": "weather station nagrekord sa taas nga temperatura"
+            },
+            {
+              "front": "rain gauge measures rainfall accurately",
+              "back": "rain gauge mosukod sa ulan sa tukma"
+            },
+            {
+              "front": "sunstroke risk increases in heat",
+              "back": "Ang risgo sa sunstroke nagdugang sa kainit"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "sunny day brings warmth and joy",
+              "back": "Ang masidlak nga adlaw nagdala og kainit ug kalipay"
+            },
+            {
+              "front": "rainy weather makes everything fresh",
+              "back": "Ang ting-ulan nga panahon naghimo sa tanan nga presko"
+            },
+            {
+              "front": "cloudy skies block out sunlight",
+              "back": "ang madag-umon nga kalangitan nagbabag sa kahayag sa adlaw"
+            },
+            {
+              "front": "windy afternoon causes tree branches",
+              "back": "hangin nga hapon hinungdan sa mga sanga sa kahoy"
+            },
+            {
+              "front": "stormy night keeps everyone indoors",
+              "back": "Ang mabagyo nga gabii nagpugong sa tanan sa sulod sa balay"
+            },
+            {
+              "front": "snowy landscape looks like winter wonderland",
+              "back": "ang snowy nga talan-awon morag winter wonderland"
+            },
+            {
+              "front": "foggy morning reduces visibility significantly",
+              "back": "ang gabon nga buntag makapakunhod pag-ayo sa visibility"
+            },
+            {
+              "front": "hot sun beats down relentlessly today",
+              "back": "Ang init nga adlaw nagsalop nga walay hunong karon"
+            },
+            {
+              "front": "cold breeze refreshes warm air",
+              "back": "ang bugnaw nga hangin makapa-refresh sa init nga hangin"
+            },
+            {
+              "front": "warm temperature feels pleasant outside",
+              "back": "init nga temperatura mobati nga makapahimuot sa gawas"
+            },
+            {
+              "front": "chilly air bites at skin",
+              "back": "bugnaw nga hangin mopaak sa panit"
+            },
+            {
+              "front": "humid conditions create sticky discomfort",
+              "back": "Ang humid nga mga kondisyon makamugna og sticky nga kahasol"
+            },
+            {
+              "front": "dry spell continues for weeks",
+              "back": "ang uga nga spell nagpadayon sulod sa mga semana"
+            },
+            {
+              "front": "thunder rumbles loudly in distance",
+              "back": "kusog nga dalugdog sa layo"
+            },
+            {
+              "front": "lightning flashes illuminate the night",
+              "back": "Ang mga kilat nagdan-ag sa kagabhion"
+            },
+            {
+              "front": "hail storm surprises everyone unexpectedly",
+              "back": "Ang ulan nga yelo natingala sa tanan nga wala damha"
+            },
+            {
+              "front": "drizzle falls lightly on pavement",
+              "back": "hinay ang ulan sa semento"
+            },
+            {
+              "front": "downpour causes streets to flood",
+              "back": "ang pagbunok sa ulan hinungdan sa pagbaha sa kadalanan"
+            },
+            {
+              "front": "heatwave affects people and animals",
+              "back": "heatwave makaapekto sa mga tawo ug mga mananap"
+            },
+            {
+              "front": "frost forms on windows each morning",
+              "back": "naporma ang katugnaw sa mga bintana kada buntag"
+            },
+            {
+              "front": "tornado warning is issued immediately",
+              "back": "Ang pahimangno sa buhawi gi-isyu dayon"
+            },
+            {
+              "front": "hurricane approaches coastal areas quickly",
+              "back": "Ang bagyo dali nga moduol sa mga baybayon"
+            },
+            {
+              "front": "breeze blows gently through trees",
+              "back": "hinay nga huyuhoy sa hangin sa mga kahoy"
+            },
+            {
+              "front": "gusty winds disrupt outdoor activities",
+              "back": "ang kusog nga hangin makabalda sa mga kalihokan sa gawas"
+            },
+            {
+              "front": "squall arrives unexpectedly during afternoon",
+              "back": "wala damha nga moabot ang unos panahon sa hapon"
+            },
+            {
+              "front": "precipitation falls throughout the day",
+              "back": "ang ulan mahulog sa tibuok adlaw"
+            },
+            {
+              "front": "overcast skies bring gray atmosphere today",
+              "back": "Ang madag-umon nga kalangitan nagdalag abuhon nga atmospera karon"
+            },
+            {
+              "front": "clear skies promise beautiful weather ahead",
+              "back": "Ang tin-aw nga kalangitan nagsaad sa matahum nga panahon sa unahan"
+            },
+            {
+              "front": "dew settles on grass every morning",
+              "back": "ang tun-og sa sagbot matag buntag"
+            },
+            {
+              "front": "icy conditions make roads hazardous today",
+              "back": "Ang nagyelo nga mga kahimtang naghimo sa mga dalan nga peligro karon"
+            },
+            {
+              "front": "sleet falls during the cold season",
+              "back": "ulan ulan sa panahon sa bugnaw nga panahon"
+            },
+            {
+              "front": "blizzard hits the area hard",
+              "back": "kusog nga miigo ang blizzard sa lugar"
+            },
+            {
+              "front": "puddle forms after heavy rainfall",
+              "back": "maporma ang lim-aw human sa kusog nga ulan"
+            },
+            {
+              "front": "rainbow appears after the storm",
+              "back": "ang balangaw makita human sa bagyo"
+            },
+            {
+              "front": "thermometer reads high temperatures today",
+              "back": "Ang thermometer nagbasa sa taas nga temperatura karon"
+            },
+            {
+              "front": "weather forecast predicts sunny days",
+              "back": "Ang forecast sa panahon nagtagna sa sunny nga mga adlaw"
+            },
+            {
+              "front": "barometer drops indicating stormy weather",
+              "back": "barometer drops nga nagpakita sa bagyo nga panahon"
+            },
+            {
+              "front": "windchill affects how it feels",
+              "back": "windchill makaapekto sa unsay gibati niini"
+            },
+            {
+              "front": "visibility decreases due to heavy fog",
+              "back": "mikunhod ang visibility tungod sa bug-at nga gabon"
+            },
+            {
+              "front": "weather front moves into the region",
+              "back": "Ang unahan sa panahon mobalhin sa rehiyon"
+            },
+            {
+              "front": "clouds gather before the storm",
+              "back": "ang mga panganod nagtigom sa dili pa ang unos"
+            },
+            {
+              "front": "humidity rises as the sun sets",
+              "back": "motaas ang kaumog sa pagsalop sa adlaw"
+            },
+            {
+              "front": "temperature changes as seasons shift",
+              "back": "pagbag-o sa temperatura samtang nagbag-o ang mga panahon"
+            },
+            {
+              "front": "sunshine brightens up the day",
+              "back": "ang silaw sa adlaw makapadan-ag sa adlaw"
+            },
+            {
+              "front": "funnel cloud forms in the sky",
+              "back": "funnel cloud naporma sa kalangitan"
+            },
+            {
+              "front": "heat index rises with humidity levels",
+              "back": "Ang indeks sa kainit mosaka sa lebel sa humidity"
+            },
+            {
+              "front": "wind speed increases as storm approaches",
+              "back": "mokusog ang hangin samtang nagkaduol ang bagyo"
+            },
+            {
+              "front": "weather station records temperature and conditions",
+              "back": "Ang weather station nagrekord sa temperatura ug kondisyon"
+            },
+            {
+              "front": "rain gauge measures rainfall accurately",
+              "back": "rain gauge mosukod sa ulan sa tukma"
+            },
+            {
+              "front": "sunstroke risk increases in hot weather",
+              "back": "Ang risgo sa sunstroke nagdugang sa init nga panahon"
+            },
+            {
+              "front": "equinox marks the changing seasons",
+              "back": "Ang equinox nagtimaan sa nag-usab-usab nga mga panahon"
+            },
+            {
+              "front": "solstice brings the longest daylight hours",
+              "back": "Ang solstice nagdala sa labing taas nga oras sa adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "sunny day arrived",
+              "back": "niabot ang sunny day"
+            },
+            {
+              "front": "rainy weather surprised",
+              "back": "natingala ang ting-ulan"
+            },
+            {
+              "front": "cloudy skies covered",
+              "back": "madag-umon nga kalangitan gitabonan"
+            },
+            {
+              "front": "windy afternoon disrupted",
+              "back": "hanginon hapon nabalda"
+            },
+            {
+              "front": "stormy night frightened",
+              "back": "mabagyo nga gabii nahadlok"
+            },
+            {
+              "front": "snowy landscape looked",
+              "back": "niyebe nga talan-awon tan-awon"
+            },
+            {
+              "front": "foggy morning slowed",
+              "back": "mihinay ang gabon nga buntag"
+            },
+            {
+              "front": "hot sun beat",
+              "back": "init nga sun beat"
+            },
+            {
+              "front": "cold breeze refreshed",
+              "back": "nabag-o ang bugnaw nga hangin"
+            },
+            {
+              "front": "warm temperature felt",
+              "back": "init nga temperatura gibati"
+            },
+            {
+              "front": "chilly air bit",
+              "back": "bugnaw nga hangin gamay"
+            },
+            {
+              "front": "humid conditions created",
+              "back": "humid nga mga kahimtang nga gihimo"
+            },
+            {
+              "front": "dry spell lasted",
+              "back": "ang uga nga spell milungtad"
+            },
+            {
+              "front": "thunder rumbled nearby",
+              "back": "dalugdog sa duol"
+            },
+            {
+              "front": "lightning struck area",
+              "back": "lugar nga naigo sa kilat"
+            },
+            {
+              "front": "hail storm surprised",
+              "back": "natingala ang bagyo"
+            },
+            {
+              "front": "drizzle fell outside",
+              "back": "nitulo ang ulan sa gawas"
+            },
+            {
+              "front": "downpour caused flooding",
+              "back": "pagbunok sa ulan hinungdan sa pagbaha"
+            },
+            {
+              "front": "heatwave affected people",
+              "back": "mga tawo nga apektado sa heatwave"
+            },
+            {
+              "front": "frost formed grass",
+              "back": "frost naporma nga balili"
+            },
+            {
+              "front": "tornado warning issued",
+              "back": "buhawi nga pasidaan gi-isyu"
+            },
+            {
+              "front": "hurricane approached areas",
+              "back": "niabot ang bagyo sa mga lugar"
+            },
+            {
+              "front": "breeze blew gently",
+              "back": "hinay nga mihuros ang hangin"
+            },
+            {
+              "front": "gusty winds disrupted",
+              "back": "nabalda ang kusog nga hangin"
+            },
+            {
+              "front": "squall arrived unexpectedly",
+              "back": "niabot ang unos nga wala damha"
+            },
+            {
+              "front": "precipitation fell day",
+              "back": "ulan nahulog adlaw"
+            },
+            {
+              "front": "overcast skies blocked",
+              "back": "madag-umon nga kalangitan gibabagan"
+            },
+            {
+              "front": "clear skies promised",
+              "back": "tin-aw nga kalangitan gisaad"
+            },
+            {
+              "front": "dew settled grass",
+              "back": "tun-og mipahiluna sa balili"
+            },
+            {
+              "front": "icy conditions made",
+              "back": "nagyelo nga mga kahimtang nga gihimo"
+            },
+            {
+              "front": "sleet fell winter",
+              "back": "ulan nga yelo nahulog sa tingtugnaw"
+            },
+            {
+              "front": "blizzard hit region",
+              "back": "rehiyon naigo sa blizzard"
+            },
+            {
+              "front": "puddle formed ground",
+              "back": "lubog nga naporma nga yuta"
+            },
+            {
+              "front": "rainbow appeared rain",
+              "back": "balangaw nagpakita ulan"
+            },
+            {
+              "front": "thermometer read degrees",
+              "back": "thermometer sa pagbasa degrees"
+            },
+            {
+              "front": "weather forecast predicted",
+              "back": "gitagna sa panahon"
+            },
+            {
+              "front": "barometer dropped rapidly",
+              "back": "Ang barometer paspas nga nahulog"
+            },
+            {
+              "front": "windchill affected temperature",
+              "back": "windchill apektado nga temperatura"
+            },
+            {
+              "front": "visibility decreased fog",
+              "back": "visibility mikunhod gabon"
+            },
+            {
+              "front": "weather front moved",
+              "back": "ang atubangan sa panahon mibalhin"
+            },
+            {
+              "front": "clouds gathered quickly",
+              "back": "ang mga panganod dali nga nagtapok"
+            },
+            {
+              "front": "humidity rose day",
+              "back": "humidity rose adlaw"
+            },
+            {
+              "front": "temperature changed afternoon",
+              "back": "nausab ang temperatura sa hapon"
+            },
+            {
+              "front": "sunshine brightened day",
+              "back": "kahayag sa adlaw nagdan-ag sa adlaw"
+            },
+            {
+              "front": "funnel cloud formed",
+              "back": "funnel cloud naporma"
+            },
+            {
+              "front": "heat index rose",
+              "back": "mitaas ang heat index"
+            },
+            {
+              "front": "wind speed increased",
+              "back": "misaka ang gikusgon sa hangin"
+            },
+            {
+              "front": "weather station recorded",
+              "back": "weather station nga natala"
+            },
+            {
+              "front": "rain gauge measured",
+              "back": "gisukod ang rain gauge"
+            },
+            {
+              "front": "sunstroke risk increased",
+              "back": "nadugangan ang risgo sa sunstroke"
+            },
+            {
+              "front": "equinox marked change",
+              "back": "equinox nga gimarkahan nga pagbag-o"
+            },
+            {
+              "front": "solstice brought day",
+              "back": "solstice nagdala adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "sunny day arrived yesterday",
+              "back": "niabot ang sunny day gahapon"
+            },
+            {
+              "front": "rainy weather surprised everyone",
+              "back": "ting-ulan nga panahon natingala sa tanan"
+            },
+            {
+              "front": "cloudy skies covered sun",
+              "back": "madag-umon nga kalangitan natabonan sa adlaw"
+            },
+            {
+              "front": "windy afternoon disrupted plans",
+              "back": "mahangin nga hapon nakabalda sa mga plano"
+            },
+            {
+              "front": "stormy night frightened children",
+              "back": "mabagyo nga gabii nahadlok sa mga bata"
+            },
+            {
+              "front": "snowy landscape looked magical",
+              "back": "nindot tan-awon ang niyebe nga talan-awon"
+            },
+            {
+              "front": "foggy morning slowed traffic",
+              "back": "gabon nga buntag nagpahinay sa trapiko"
+            },
+            {
+              "front": "hot sun beat down",
+              "back": "ang init nga adlaw mibunal"
+            },
+            {
+              "front": "cold breeze refreshed air",
+              "back": "bugnaw nga hangin nga na-refresh ang hangin"
+            },
+            {
+              "front": "warm temperature felt nice",
+              "back": "nindot ang init nga temperatura"
+            },
+            {
+              "front": "chilly air bit skin",
+              "back": "bugnaw nga hangin gamay sa panit"
+            },
+            {
+              "front": "humid conditions created discomfort",
+              "back": "humid nga mga kahimtang nga nakamugna kahasol"
+            },
+            {
+              "front": "dry spell lasted weeks",
+              "back": "ang uga nga spell milungtad og mga semana"
+            },
+            {
+              "front": "thunder rumbled in distance",
+              "back": "dalugdog nagdaguok sa layo"
+            },
+            {
+              "front": "lightning struck power lines",
+              "back": "naigo sa kilat ang mga linya sa kuryente"
+            },
+            {
+              "front": "hail storm surprised everyone",
+              "back": "ulan nga yelo natingala sa tanan"
+            },
+            {
+              "front": "drizzle fell on pavement",
+              "back": "ang ulan nahulog sa semento"
+            },
+            {
+              "front": "downpour caused flooding quickly",
+              "back": "ang pagbunok sa ulan hinungdan sa pagbaha"
+            },
+            {
+              "front": "heatwave affected many people",
+              "back": "Ang heatwave nakaapekto sa daghang mga tawo"
+            },
+            {
+              "front": "frost formed on windows",
+              "back": "frost naporma sa mga bintana"
+            },
+            {
+              "front": "tornado warning was issued",
+              "back": "Ang pasidaan sa buhawi gi-isyu"
+            },
+            {
+              "front": "hurricane approached coastal areas",
+              "back": "ang bagyo miduol sa mga dapit sa baybayon"
+            },
+            {
+              "front": "breeze blew through trees",
+              "back": "mihuros ang hangin sa mga kahoy"
+            },
+            {
+              "front": "gusty winds disrupted events",
+              "back": "ang kusog nga hangin nakabalda sa mga panghitabo"
+            },
+            {
+              "front": "squall arrived unexpectedly today",
+              "back": "niabot ang unos nga wala damha karong adlawa"
+            },
+            {
+              "front": "precipitation fell throughout day",
+              "back": "ang ulan nahulog sa tibuok adlaw"
+            },
+            {
+              "front": "overcast skies blocked sunlight",
+              "back": "ang madag-umon nga kalangitan nakababag sa kahayag sa adlaw"
+            },
+            {
+              "front": "clear skies promised sunshine",
+              "back": "tin-aw nga kalangitan misaad sa kahayag sa adlaw"
+            },
+            {
+              "front": "dew settled on grass",
+              "back": "ang yamog miturok sa sagbot"
+            },
+            {
+              "front": "icy conditions caused difficulty",
+              "back": "Nagpahinabog kalisod ang nagyelo nga mga kahimtang"
+            },
+            {
+              "front": "sleet fell during winter",
+              "back": "nahulog ang yelo panahon sa tingtugnaw"
+            },
+            {
+              "front": "blizzard hit region hard",
+              "back": "kusog nga naigo sa blizzard ang rehiyon"
+            },
+            {
+              "front": "puddle formed on ground",
+              "back": "lim-aw nga naporma sa yuta"
+            },
+            {
+              "front": "rainbow appeared after rain",
+              "back": "ang balangaw mitungha human sa ulan"
+            },
+            {
+              "front": "thermometer read thirty degrees",
+              "back": "gibasa sa thermometer katloan ka grado"
+            },
+            {
+              "front": "weather forecast predicted sunshine",
+              "back": "forecast sa panahon gitagna ang kahayag sa adlaw"
+            },
+            {
+              "front": "barometer dropped before storm",
+              "back": "ang barometer nahulog sa wala pa ang bagyo"
+            },
+            {
+              "front": "windchill affected temperature today",
+              "back": "windchill apektado sa temperatura karong adlawa"
+            },
+            {
+              "front": "visibility decreased in fog",
+              "back": "mikunhod ang visibility sa gabon"
+            },
+            {
+              "front": "weather front moved through",
+              "back": "ang atubangan sa panahon mibalhin"
+            },
+            {
+              "front": "clouds gathered before rain",
+              "back": "ang mga panganod natapok sa wala pa ang ulan"
+            },
+            {
+              "front": "humidity rose during day",
+              "back": "motaas ang humidity sa adlaw"
+            },
+            {
+              "front": "temperature changed during afternoon",
+              "back": "nausab ang temperatura sa hapon"
+            },
+            {
+              "front": "sunshine brightened up day",
+              "back": "ang silaw sa adlaw nagdan-ag sa adlaw"
+            },
+            {
+              "front": "funnel cloud formed sky",
+              "back": "funnel cloud naporma nga langit"
+            },
+            {
+              "front": "heat index rose quickly",
+              "back": "ang heat index dali nga misaka"
+            },
+            {
+              "front": "wind speed increased today",
+              "back": "nitaas ang gikusgon sa hangin karong adlawa"
+            },
+            {
+              "front": "weather station recorded data",
+              "back": "natala nga datos sa weather station"
+            },
+            {
+              "front": "rain gauge measured rainfall",
+              "back": "rain gauge gisukod sa ulan"
+            },
+            {
+              "front": "sunstroke risk increased summer",
+              "back": "Ang risgo sa sunstroke nagdugang sa ting-init"
+            },
+            {
+              "front": "equinox marked seasonal change",
+              "back": "equinox nagtimaan sa seasonal nga kausaban"
+            },
+            {
+              "front": "solstice brought longest day",
+              "back": "Ang solstice nagdala sa labing taas nga adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "sunny day arrived and warmed",
+              "back": "niabot ug init ang adlaw"
+            },
+            {
+              "front": "rainy weather surprised everyone today",
+              "back": "ting-ulan nga panahon natingala sa tanan karon"
+            },
+            {
+              "front": "cloudy skies covered the sun",
+              "back": "madag-umon nga kalangitan mitabon sa adlaw"
+            },
+            {
+              "front": "windy afternoon disrupted our plans",
+              "back": "mahangin nga hapon nakabalda sa among mga plano"
+            },
+            {
+              "front": "stormy night frightened the children",
+              "back": "mabagyo nga gabii nahadlok sa mga bata"
+            },
+            {
+              "front": "snowy landscape looked like postcard",
+              "back": "ang snowy nga talan-awon morag postcard"
+            },
+            {
+              "front": "foggy morning slowed down traffic",
+              "back": "gabon nga buntag nagpahinay sa trapiko"
+            },
+            {
+              "front": "hot sun beat down hard",
+              "back": "init nga adlaw gibunalan pag-ayo"
+            },
+            {
+              "front": "cold breeze refreshed the air",
+              "back": "ang bugnaw nga huyop sa hangin nakaparepresko sa hangin"
+            },
+            {
+              "front": "warm temperature felt nice outside",
+              "back": "init nga temperatura gibati nindot sa gawas"
+            },
+            {
+              "front": "chilly air bit at skin",
+              "back": "bugnaw nga hangin migahi sa panit"
+            },
+            {
+              "front": "humid conditions created sticky discomfort",
+              "back": "Ang humid nga mga kondisyon nakamugna og sticky discomfort"
+            },
+            {
+              "front": "dry spell lasted several weeks",
+              "back": "ang dry spell milungtad ug pipila ka semana"
+            },
+            {
+              "front": "thunder rumbled loudly in distance",
+              "back": "kusog nga dalugdog ang dalugdog sa layo"
+            },
+            {
+              "front": "lightning struck nearby power lines",
+              "back": "miigo ang kilat sa duol nga linya sa kuryente"
+            },
+            {
+              "front": "hail storm surprised everyone today",
+              "back": "ulan nga yelo natingala sa tanan karon"
+            },
+            {
+              "front": "drizzle fell lightly on pavement",
+              "back": "hinay ang ulan sa semento"
+            },
+            {
+              "front": "downpour caused streets to flood",
+              "back": "ang pagbunok sa ulan hinungdan sa pagbaha sa kadalanan"
+            },
+            {
+              "front": "heatwave affected many during summer",
+              "back": "Ang heatwave nakaapekto sa kadaghanan sa panahon sa ting-init"
+            },
+            {
+              "front": "frost formed on car windows",
+              "back": "katugnaw naporma sa mga bintana sa sakyanan"
+            },
+            {
+              "front": "tornado warning was issued quickly",
+              "back": "Ang pasidaan sa buhawi dali nga gipagawas"
+            },
+            {
+              "front": "hurricane approached coastal areas quickly",
+              "back": "dali nga niabot ang bagyo sa kabaybayonan"
+            },
+            {
+              "front": "breeze blew gently through trees",
+              "back": "hinay nga mihuros ang hangin sa mga kahoy"
+            },
+            {
+              "front": "gusty winds disrupted outdoor events",
+              "back": "ang kusog nga hangin nakabalda sa mga panghitabo sa gawas"
+            },
+            {
+              "front": "squall arrived unexpectedly during afternoon",
+              "back": "wala damha nga niabot ang unos panahon sa hapon"
+            },
+            {
+              "front": "precipitation fell throughout the day",
+              "back": "ang ulan nahulog sa tibuok adlaw"
+            },
+            {
+              "front": "overcast skies blocked sunlight completely",
+              "back": "bug-os nga gibabagan sa madag-umon nga kalangitan ang kahayag sa adlaw"
+            },
+            {
+              "front": "clear skies promised beautiful weather",
+              "back": "tin-aw nga kalangitan misaad sa nindot nga panahon"
+            },
+            {
+              "front": "dew settled on green grass",
+              "back": "ang yamog miturok sa lunhaw nga balili"
+            },
+            {
+              "front": "icy conditions made driving difficult",
+              "back": "naglisod ang pagdrayb tungod sa yelo nga mga kahimtang"
+            },
+            {
+              "front": "sleet fell during cold winter",
+              "back": "sleet nahulog sa panahon sa bugnaw nga tingtugnaw"
+            },
+            {
+              "front": "blizzard hit region very hard",
+              "back": "kusog kaayo nga naigo sa blizzard ang rehiyon"
+            },
+            {
+              "front": "puddle formed after heavy rainfall",
+              "back": "lim-aw nga naporma human sa kusog nga ulan"
+            },
+            {
+              "front": "rainbow appeared after the rain",
+              "back": "ang balangaw mitungha human sa ulan"
+            },
+            {
+              "front": "thermometer read thirty degrees today",
+              "back": "Ang thermometer nagbasa sa katloan ka degree karon"
+            },
+            {
+              "front": "weather forecast predicted sunny skies",
+              "back": "Ang forecast sa panahon nagtagna nga masidlak nga kalangitan"
+            },
+            {
+              "front": "barometer dropped indicating stormy weather",
+              "back": "Ang barometer nahulog nga nagpakita sa bagyo"
+            },
+            {
+              "front": "windchill affected how it felt",
+              "back": "windchill nakaapekto sa unsay gibati niini"
+            },
+            {
+              "front": "visibility decreased due to fog",
+              "back": "mikunhod ang visibility tungod sa gabon"
+            },
+            {
+              "front": "weather front moved through area",
+              "back": "weather front mibalhin sa lugar"
+            },
+            {
+              "front": "clouds gathered before the rain",
+              "back": "ang mga panganod nagtapok sa wala pa ang ulan"
+            },
+            {
+              "front": "humidity rose as sun set",
+              "back": "humidity misaka sa pagsalop sa adlaw"
+            },
+            {
+              "front": "temperature changed during the day",
+              "back": "nausab ang temperatura sa adlaw"
+            },
+            {
+              "front": "sunshine brightened up the day",
+              "back": "ang silaw sa adlaw nagpadan-ag sa adlaw"
+            },
+            {
+              "front": "funnel cloud formed in sky",
+              "back": "funnel cloud naporma sa langit"
+            },
+            {
+              "front": "heat index rose quickly today",
+              "back": "ang heat index dali nga misaka karon"
+            },
+            {
+              "front": "wind speed increased before storm",
+              "back": "ang gikusgon sa hangin misaka sa wala pa ang bagyo"
+            },
+            {
+              "front": "weather station recorded total rainfall",
+              "back": "weather station nakatala sa kinatibuk-ang ulan"
+            },
+            {
+              "front": "rain gauge measured rainfall accurately",
+              "back": "tukma nga gisukod sa rain gauge ang ulan"
+            },
+            {
+              "front": "sunstroke risk increased during summer",
+              "back": "Ang risgo sa sunstroke nagdugang sa panahon sa ting-init"
+            },
+            {
+              "front": "equinox marked seasonal change today",
+              "back": "equinox nagtimaan sa seasonal nga kausaban karon"
+            },
+            {
+              "front": "solstice brought longest daylight hours",
+              "back": "Ang solstice nagdala sa labing taas nga oras sa adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "the sunny day arrived and warmed",
+              "back": "niabot ang masilaw nga adlaw ug miinit"
+            },
+            {
+              "front": "rough rainy weather surprised everyone today",
+              "back": "Ang kusog nga ulan nga panahon natingala sa tanan karon"
+            },
+            {
+              "front": "cloudy skies covered the bright sun",
+              "back": "madag-umon nga kalangitan mitabon sa masanag nga adlaw"
+            },
+            {
+              "front": "windy afternoon disrupted our outdoor plans",
+              "back": "mahangin nga hapon nakabalda sa among mga plano sa gawas"
+            },
+            {
+              "front": "stormy night frightened the young children",
+              "back": "ang mabagyo nga kagabhion nakapahadlok sa mga bata"
+            },
+            {
+              "front": "snowy landscape looked like a postcard",
+              "back": "morag postcard ang snowy nga talan-awon"
+            },
+            {
+              "front": "foggy morning slowed down all traffic",
+              "back": "Ang gabon nga buntag nagpahinay sa tanan nga trapiko"
+            },
+            {
+              "front": "hot sun beat down on everyone",
+              "back": "ang init nga adlaw mohapak sa tanan"
+            },
+            {
+              "front": "cold breeze refreshed the warm air",
+              "back": "ang bugnaw nga huyop sa hangin nakaparepresko sa init nga hangin"
+            },
+            {
+              "front": "warm temperature felt nice outside today",
+              "back": "nindot ang init nga temperatura sa gawas karon"
+            },
+            {
+              "front": "chilly air bit at exposed skin",
+              "back": "bugnaw nga hangin migahi sa nahayag nga panit"
+            },
+            {
+              "front": "humid conditions created sticky discomfort everywhere",
+              "back": "Ang humid nga mga kondisyon nakamugna og sticky discomfort bisan asa"
+            },
+            {
+              "front": "dry spell lasted for several weeks",
+              "back": "dry spell milungtad sa pipila ka semana"
+            },
+            {
+              "front": "thunder rumbled loudly in the distance",
+              "back": "kusog nga dalugdog ang dalugdog sa layo"
+            },
+            {
+              "front": "lightning struck power lines last night",
+              "back": "naigo sa kilat ang mga linya sa kuryente kagabii"
+            },
+            {
+              "front": "hail storm surprised everyone completely today",
+              "back": "bug-os nga nasorpresa sa tanan karong adlawa ang ulan nga yelo"
+            },
+            {
+              "front": "drizzle fell lightly on the pavement",
+              "back": "hinay ang ulan sa semento"
+            },
+            {
+              "front": "downpour caused streets to flood quickly",
+              "back": "ang pagbunok sa ulan hinungdan nga daling mibaha ang kadalanan"
+            },
+            {
+              "front": "heatwave affected many during the summer",
+              "back": "Ang heatwave nakaapekto sa kadaghanan sa panahon sa ting-init"
+            },
+            {
+              "front": "frost formed on the car windows",
+              "back": "katugnaw naporma sa mga bintana sa sakyanan"
+            },
+            {
+              "front": "tornado warning was issued immediately yesterday",
+              "back": "Ang pahimangno sa buhawi giluwatan dayon kagahapon"
+            },
+            {
+              "front": "hurricane approached coastal areas last week",
+              "back": "Ang bagyo niabot sa mga baybayon sa miaging semana"
+            },
+            {
+              "front": "breeze blew gently through the trees",
+              "back": "hinay nga mihuros ang hangin sa mga kahoy"
+            },
+            {
+              "front": "gusty winds disrupted many outdoor events",
+              "back": "ang kusog nga hangin nakabalda sa daghang mga panghitabo sa gawas"
+            },
+            {
+              "front": "squall arrived unexpectedly during the afternoon",
+              "back": "wala damha nga niabot ang unos panahon sa hapon"
+            },
+            {
+              "front": "precipitation fell throughout the long day",
+              "back": "ang ulan nahulog sa tibuok adlaw"
+            },
+            {
+              "front": "overcast skies blocked all the sunlight",
+              "back": "Ang madag-umon nga kalangitan nag-ali sa tanang kahayag sa adlaw"
+            },
+            {
+              "front": "clear skies promised beautiful weather ahead",
+              "back": "tin-aw nga kalangitan misaad sa nindot nga panahon sa unahan"
+            },
+            {
+              "front": "dew settled on the green grass",
+              "back": "ang yamog mitunob sa lunhaw nga balili"
+            },
+            {
+              "front": "icy conditions made driving very dangerous",
+              "back": "nagyelo nga mga kahimtang naghimo sa pagmaneho nga peligro kaayo"
+            },
+            {
+              "front": "sleet fell during the cold winter",
+              "back": "ang ulan nga yelo nahulog sa panahon sa tingtugnaw"
+            },
+            {
+              "front": "blizzard hit the region very hard",
+              "back": "kusog kaayo ang blizzard sa rehiyon"
+            },
+            {
+              "front": "puddle formed after heavy rainfall yesterday",
+              "back": "lim-aw nga naporma human sa kusog nga pag-ulan kagahapon"
+            },
+            {
+              "front": "rainbow appeared after the heavy rain",
+              "back": "mitungha ang balangaw human sa kusog nga ulan"
+            },
+            {
+              "front": "thermometer read thirty degrees this morning",
+              "back": "Ang thermometer nabasa sa traynta degrees karong buntag"
+            },
+            {
+              "front": "weather forecast predicted sunny skies ahead",
+              "back": "forecast sa panahon gitagna nga masidlak nga kalangitan sa unahan"
+            },
+            {
+              "front": "barometer dropped indicating stormy weather coming",
+              "back": "miubos ang barometer nga nagpakita sa umaabot nga bagyo"
+            },
+            {
+              "front": "windchill affected how it felt outside",
+              "back": "windchill nakaapekto sa unsay gibati sa gawas"
+            },
+            {
+              "front": "visibility decreased due to heavy fog",
+              "back": "mikunhod ang visibility tungod sa bug-at nga gabon"
+            },
+            {
+              "front": "weather front moved through the area",
+              "back": "weather front mibalhin sa dapit"
+            },
+            {
+              "front": "clouds gathered before the heavy rain",
+              "back": "ang mga panganod nagtapok sa wala pa ang kusog nga ulan"
+            },
+            {
+              "front": "humidity rose as the sun set",
+              "back": "ang humidity misaka sa pagsalop sa adlaw"
+            },
+            {
+              "front": "temperature changed throughout the long day",
+              "back": "nausab ang temperatura sa tibuok adlaw"
+            },
+            {
+              "front": "sunshine brightened up the gloomy day",
+              "back": "ang silaw sa adlaw nagdan-ag sa mangitngit nga adlaw"
+            },
+            {
+              "front": "funnel cloud formed in the sky",
+              "back": "funnel cloud naporma sa langit"
+            },
+            {
+              "front": "heat index rose quickly during afternoon",
+              "back": "ang heat index dali nga misaka sa hapon"
+            },
+            {
+              "front": "wind speed increased before the storm",
+              "back": "ang gikusgon sa hangin misaka sa wala pa ang bagyo"
+            },
+            {
+              "front": "weather station recorded high temperatures yesterday",
+              "back": "Ang weather station nakatala og taas nga temperatura kagahapon"
+            },
+            {
+              "front": "rain gauge measured total rainfall accurately",
+              "back": "tukma nga gisukod sa rain gauge ang kinatibuk-ang pag-ulan"
+            },
+            {
+              "front": "sunstroke risk increased during hot summer",
+              "back": "Ang risgo sa sunstroke nagdugang sa panahon sa init nga ting-init"
+            },
+            {
+              "front": "equinox marked the seasonal change today",
+              "back": "equinox nagtimaan sa seasonal nga kausaban karon"
+            },
+            {
+              "front": "solstice brought the longest daylight hours",
+              "back": "Ang solstice nagdala sa labing taas nga oras sa adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "day is coming",
+              "back": "moabot ang adlaw"
+            },
+            {
+              "front": "weather will surprise",
+              "back": "matingala ang panahon"
+            },
+            {
+              "front": "skies will linger",
+              "back": "ang kalangitan magpabilin"
+            },
+            {
+              "front": "wind will blow",
+              "back": "mohuros ang hangin"
+            },
+            {
+              "front": "night will approach",
+              "back": "magsingabot ang gabii"
+            },
+            {
+              "front": "snow will appear",
+              "back": "motungha ang niyebe"
+            },
+            {
+              "front": "fog is likely",
+              "back": "gabon tingali"
+            },
+            {
+              "front": "sun will shine",
+              "back": "mosidlak ang adlaw"
+            },
+            {
+              "front": "breeze will blow",
+              "back": "huyuhoy sa hangin"
+            },
+            {
+              "front": "temperature will return",
+              "back": "mobalik ang temperatura"
+            },
+            {
+              "front": "chill will bite",
+              "back": "katugnaw mopaak"
+            },
+            {
+              "front": "humidity will persist",
+              "back": "ang humidity magpadayon"
+            },
+            {
+              "front": "dryness will continue",
+              "back": "ang pagkauga magpadayon"
+            },
+            {
+              "front": "thunder will rumble",
+              "back": "dalugdog ang dalugdog"
+            },
+            {
+              "front": "lightning will strike",
+              "back": "moigo ang kilat"
+            },
+            {
+              "front": "storm is possible",
+              "back": "posible ang bagyo"
+            },
+            {
+              "front": "drizzle will fall",
+              "back": "matulo ang ulan"
+            },
+            {
+              "front": "downpour will cause",
+              "back": "ang pagbunok sa ulan maoy hinungdan"
+            },
+            {
+              "front": "heatwave will affect",
+              "back": "maapektuhan ang heatwave"
+            },
+            {
+              "front": "frost will form",
+              "back": "maporma ang katugnaw"
+            },
+            {
+              "front": "tornado will come",
+              "back": "moabot ang buhawi"
+            },
+            {
+              "front": "hurricane will approach",
+              "back": "moabot ang bagyo"
+            },
+            {
+              "front": "breeze will blow",
+              "back": "huyuhoy sa hangin"
+            },
+            {
+              "front": "gusts will disrupt",
+              "back": "makabalda ang mga huros"
+            },
+            {
+              "front": "squall will arrive",
+              "back": "moabot ang unos"
+            },
+            {
+              "front": "precipitation will fall",
+              "back": "ang ulan mahulog"
+            },
+            {
+              "front": "clouds will block",
+              "back": "ang mga panganod mobabag"
+            },
+            {
+              "front": "skies will return",
+              "back": "mobalik ang langit"
+            },
+            {
+              "front": "dew will settle",
+              "back": "ang yamog mohunong"
+            },
+            {
+              "front": "conditions will remain",
+              "back": "ang mga kondisyon magpabilin"
+            },
+            {
+              "front": "sleet will fall",
+              "back": "mahulog ang ulan nga yelo"
+            },
+            {
+              "front": "blizzard will hit",
+              "back": "moigo ang blizzard"
+            },
+            {
+              "front": "puddle will form",
+              "back": "maporma ang lim-aw"
+            },
+            {
+              "front": "rainbow will appear",
+              "back": "ang balangaw motungha"
+            },
+            {
+              "front": "thermometer will read",
+              "back": "mabasa ang thermometer"
+            },
+            {
+              "front": "weather forecast will predict",
+              "back": "ang forecast sa panahon magtagna"
+            },
+            {
+              "front": "barometer will drop",
+              "back": "ang barometer moubos"
+            },
+            {
+              "front": "windchill will affect",
+              "back": "windchill makaapekto"
+            },
+            {
+              "front": "visibility will decrease",
+              "back": "ang visibility mokunhod"
+            },
+            {
+              "front": "weather front will move",
+              "back": "ang atubangan sa panahon molihok"
+            },
+            {
+              "front": "clouds will gather",
+              "back": "ang mga panganod magtapok"
+            },
+            {
+              "front": "humidity will rise",
+              "back": "motaas ang humidity"
+            },
+            {
+              "front": "temperature will change",
+              "back": "mausab ang temperatura"
+            },
+            {
+              "front": "sunshine will brighten",
+              "back": "modan-ag ang silaw sa adlaw"
+            },
+            {
+              "front": "funnel cloud may form",
+              "back": "funnel cloud mahimong maporma"
+            },
+            {
+              "front": "heat index will rise",
+              "back": "motaas ang heat index"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "sunny day is coming",
+              "back": "nagsingabot nga adlaw"
+            },
+            {
+              "front": "rainy weather will surprise",
+              "back": "maulan nga panahon matingala"
+            },
+            {
+              "front": "cloudy skies will linger",
+              "back": "madag-umon nga kalangitan magpabilin"
+            },
+            {
+              "front": "windy afternoon is expected",
+              "back": "mahangin nga hapon ang gipaabot"
+            },
+            {
+              "front": "stormy night is approaching",
+              "back": "nagsingabot nga gabii ang bagyo"
+            },
+            {
+              "front": "snowy landscape will appear",
+              "back": "motungha ang snowy landscape"
+            },
+            {
+              "front": "foggy morning is likely",
+              "back": "gabon nga buntag lagmit"
+            },
+            {
+              "front": "hot sun will shine",
+              "back": "mosidlak ang init nga adlaw"
+            },
+            {
+              "front": "cold breeze will blow",
+              "back": "mohuros ang bugnaw nga hangin"
+            },
+            {
+              "front": "warm temperature will return",
+              "back": "ang init nga temperatura mobalik"
+            },
+            {
+              "front": "chilly air will bite",
+              "back": "mopaak ang bugnaw nga hangin"
+            },
+            {
+              "front": "humid conditions will persist",
+              "back": "Ang humid nga mga kondisyon magpadayon"
+            },
+            {
+              "front": "dry spell will continue",
+              "back": "ang uga nga spell magpadayon"
+            },
+            {
+              "front": "thunder will rumble loudly",
+              "back": "dalogdog ug kusog"
+            },
+            {
+              "front": "lightning will strike nearby",
+              "back": "moigo ang kilat sa duol"
+            },
+            {
+              "front": "hail storm is possible",
+              "back": "posible ang ulan nga yelo"
+            },
+            {
+              "front": "drizzle will fall lightly",
+              "back": "hinay ang ulan"
+            },
+            {
+              "front": "downpour will cause flooding",
+              "back": "ang pagbunok sa ulan maoy hinungdan sa pagbaha"
+            },
+            {
+              "front": "heatwave will affect everyone",
+              "back": "ang heatwave makaapekto sa tanan"
+            },
+            {
+              "front": "frost will form tonight",
+              "back": "maporma ang katugnaw karong gabii"
+            },
+            {
+              "front": "tornado warning will issue",
+              "back": "ipagawas ang pasidaan sa buhawi"
+            },
+            {
+              "front": "hurricane will approach coast",
+              "back": "ang bagyo moduol sa baybayon"
+            },
+            {
+              "front": "breeze will blow gently",
+              "back": "hinay nga huyuhoy ang hangin"
+            },
+            {
+              "front": "gusty winds will disrupt",
+              "back": "makabalda ang kusog nga hangin"
+            },
+            {
+              "front": "squall will arrive suddenly",
+              "back": "kalit lang moabot ang unos"
+            },
+            {
+              "front": "precipitation will fall tomorrow",
+              "back": "ang ulan mahulog ugma"
+            },
+            {
+              "front": "skies will block sunlight",
+              "back": "ang kalangitan mobabag sa kahayag sa adlaw"
+            },
+            {
+              "front": "skies will return soon",
+              "back": "ang langit mobalik sa dili madugay"
+            },
+            {
+              "front": "dew will settle overnight",
+              "back": "ang yamog mapundo sa tibuok gabii"
+            },
+            {
+              "front": "icy conditions will remain",
+              "back": "icy nga mga kahimtang magpabilin"
+            },
+            {
+              "front": "sleet will fall tomorrow",
+              "back": "matulo ang ulan ugma"
+            },
+            {
+              "front": "blizzard will hit region",
+              "back": "Ang blizzard moigo sa rehiyon"
+            },
+            {
+              "front": "puddle will form later",
+              "back": "maporma unya ang lim-aw"
+            },
+            {
+              "front": "rainbow will appear soon",
+              "back": "ang balangaw motungha sa dili madugay"
+            },
+            {
+              "front": "thermometer will read low",
+              "back": "Ang thermometer mobasa og ubos"
+            },
+            {
+              "front": "weather forecast will predict",
+              "back": "ang forecast sa panahon magtagna"
+            },
+            {
+              "front": "barometer will drop quickly",
+              "back": "Ang barometer dali nga mahulog"
+            },
+            {
+              "front": "windchill will affect temperature",
+              "back": "windchill makaapekto sa temperatura"
+            },
+            {
+              "front": "fog will decrease visibility",
+              "back": "ang gabon makapakunhod sa visibility"
+            },
+            {
+              "front": "weather front will move",
+              "back": "ang atubangan sa panahon molihok"
+            },
+            {
+              "front": "clouds will gather tonight",
+              "back": "ang mga panganod magtapok karong gabhiona"
+            },
+            {
+              "front": "humidity will rise tomorrow",
+              "back": "motaas ang humidity ugma"
+            },
+            {
+              "front": "temperature will change drastically",
+              "back": "mabag-o pag-ayo ang temperatura"
+            },
+            {
+              "front": "sunshine will brighten later",
+              "back": "ang silaw sa adlaw modan-ag unya"
+            },
+            {
+              "front": "funnel cloud may form soon",
+              "back": "funnel cloud mahimong maporma sa dili madugay"
+            },
+            {
+              "front": "heat index will rise",
+              "back": "motaas ang heat index"
+            },
+            {
+              "front": "wind speed will increase",
+              "back": "motaas ang gikusgon sa hangin"
+            },
+            {
+              "front": "weather station will record",
+              "back": "weather station ang magrekord"
+            },
+            {
+              "front": "sunstroke risk will increase",
+              "back": "Ang risgo sa sunstroke motaas"
+            },
+            {
+              "front": "equinox will mark change",
+              "back": "ang equinox magtimaan sa pagbag-o"
+            },
+            {
+              "front": "solstice will bring days",
+              "back": "ang solstice magdala ug mga adlaw"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "sunny day will arrive soon",
+              "back": "madayon nga adlaw moabot"
+            },
+            {
+              "front": "rainy weather will surprise everyone",
+              "back": "ting-ulan nga panahon matingala sa tanan"
+            },
+            {
+              "front": "cloudy skies will linger tomorrow",
+              "back": "madag-umon nga kalangitan magpabilin ugma"
+            },
+            {
+              "front": "windy afternoon will disrupt plans",
+              "back": "mahangin nga hapon makabalda sa mga plano"
+            },
+            {
+              "front": "stormy night will frighten children",
+              "back": "ang mabagyo nga gabii makapahadlok sa mga bata"
+            },
+            {
+              "front": "landscape will appear this winter",
+              "back": "ang talan-awon motungha karong tingtugnaw"
+            },
+            {
+              "front": "foggy morning is likely next",
+              "back": "gabon nga buntag lagmit sunod"
+            },
+            {
+              "front": "hot sun will shine brightly",
+              "back": "init nga adlaw mosidlak nga hayag"
+            },
+            {
+              "front": "cold breeze will blow gently",
+              "back": "hinay nga huyuhoy ang bugnaw nga hangin"
+            },
+            {
+              "front": "warm temperature will feel nice",
+              "back": "init nga temperatura mobati nga nindot"
+            },
+            {
+              "front": "chilly air will bite skin",
+              "back": "ang bugnaw nga hangin mopaak sa panit"
+            },
+            {
+              "front": "humid conditions will create discomfort",
+              "back": "Ang humid nga mga kondisyon makamugna og kahasol"
+            },
+            {
+              "front": "dryness will last for weeks",
+              "back": "ang pagkauga molungtad ug mga semana"
+            },
+            {
+              "front": "thunder will rumble in distance",
+              "back": "dalugdog magdaguhob sa layo"
+            },
+            {
+              "front": "lightning will strike nearby buildings",
+              "back": "Ang kilat moigo sa duol nga mga bilding"
+            },
+            {
+              "front": "hail storm is likely tomorrow",
+              "back": "ulan nga yelo lagmit ugma"
+            },
+            {
+              "front": "drizzle will fall lightly tonight",
+              "back": "mahinay ang ulan karong gabii"
+            },
+            {
+              "front": "downpour will cause major flooding",
+              "back": "ang pagbunok sa ulan maoy hinungdan sa dakong pagbaha"
+            },
+            {
+              "front": "heatwave will affect many people",
+              "back": "Ang heatwave makaapekto sa daghang mga tawo"
+            },
+            {
+              "front": "frost will form on windows",
+              "back": "maporma ang katugnaw sa mga bintana"
+            },
+            {
+              "front": "tornado warning will be issued",
+              "back": "ipagawas ang pasidaan sa buhawi"
+            },
+            {
+              "front": "hurricane will approach coastal areas",
+              "back": "ang bagyo moduol sa mga dapit sa baybayon"
+            },
+            {
+              "front": "breeze will blow through trees",
+              "back": "ang hangin mohuros sa mga kahoy"
+            },
+            {
+              "front": "winds will disrupt outdoor activities",
+              "back": "ang hangin makabalda sa mga kalihokan sa gawas"
+            },
+            {
+              "front": "squall will arrive suddenly today",
+              "back": "kalit lang moabot ang unos karong adlawa"
+            },
+            {
+              "front": "precipitation will fall all day",
+              "back": "ang ulan mahulog sa tibuok adlaw"
+            },
+            {
+              "front": "overcast skies will block sunlight",
+              "back": "ang dag-um nga kalangitan mobabag sa kahayag sa adlaw"
+            },
+            {
+              "front": "clear skies will promise sunshine",
+              "back": "matin-aw nga kalangitan mosaad sa kahayag sa adlaw"
+            },
+            {
+              "front": "dew will settle on grass",
+              "back": "ang yamog mopatong sa sagbot"
+            },
+            {
+              "front": "ice will remain through morning",
+              "back": "ang yelo magpabilin hangtod sa buntag"
+            },
+            {
+              "front": "sleet will fall during night",
+              "back": "ang ulan nga yelo mahulog sa gabii"
+            },
+            {
+              "front": "blizzard will hit the region",
+              "back": "Ang blizzard moigo sa rehiyon"
+            },
+            {
+              "front": "puddle will form after rain",
+              "back": "maporma ang lim-aw human sa ulan"
+            },
+            {
+              "front": "rainbow will appear after storm",
+              "back": "ang balangaw motungha human sa bagyo"
+            },
+            {
+              "front": "thermometer will read thirty degrees",
+              "back": "Ang thermometer mobasa og katloan ka grado"
+            },
+            {
+              "front": "weather forecast will predict snow",
+              "back": "ang forecast sa panahon magtagna sa niyebe"
+            },
+            {
+              "front": "barometer will drop quickly again",
+              "back": "Ang barometer dali nga mahulog pag-usab"
+            },
+            {
+              "front": "windchill will affect the air",
+              "back": "windchill makaapekto sa hangin"
+            },
+            {
+              "front": "visibility will decrease in fog",
+              "back": "ang visibility mokunhod sa gabon"
+            },
+            {
+              "front": "weather front will move through",
+              "back": "ang atubangan sa panahon molihok"
+            },
+            {
+              "front": "clouds will gather before rain",
+              "back": "ang mga panganod motipon sa dili pa ang ulan"
+            },
+            {
+              "front": "humidity will rise at sunset",
+              "back": "motaas ang kaumog sa pagsalop sa adlaw"
+            },
+            {
+              "front": "temperature will change throughout day",
+              "back": "ang temperatura mausab sa tibuok adlaw"
+            },
+            {
+              "front": "sunshine will brighten up day",
+              "back": "ang silaw sa adlaw modan-ag sa adlaw"
+            },
+            {
+              "front": "funnel cloud may form tomorrow",
+              "back": "funnel cloud mahimong maporma ugma"
+            },
+            {
+              "front": "heat index will rise quickly",
+              "back": "ang heat index dali nga motaas"
+            },
+            {
+              "front": "wind speed will increase tomorrow",
+              "back": "mokusog ang hangin ugma"
+            },
+            {
+              "front": "weather station will record conditions",
+              "back": "weather station magrekord sa mga kahimtang"
+            },
+            {
+              "front": "rain gauge will measure rainfall",
+              "back": "ang rain gauge mosukod sa ulan"
+            },
+            {
+              "front": "sunstroke risk will increase soon",
+              "back": "Ang risgo sa sunstroke motaas sa dili madugay"
+            },
+            {
+              "front": "equinox will mark seasonal change",
+              "back": "equinox magtimaan sa seasonal nga kausaban"
+            },
+            {
+              "front": "solstice will bring longer hours",
+              "back": "ang solstice magdala ug mas taas nga oras"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "sunny day will arrive with warmth",
+              "back": "ang maadlaw nga adlaw moabut uban ang kainit"
+            },
+            {
+              "front": "rainy weather will surprise us all",
+              "back": "Ang ting-ulan nga panahon matingala kanatong tanan"
+            },
+            {
+              "front": "cloudy skies will linger throughout tomorrow",
+              "back": "madag-umon nga kalangitan magpabilin sa tibuok ugma"
+            },
+            {
+              "front": "windy afternoon will disrupt our plans",
+              "back": "mahangin nga hapon makabalda sa atong mga plano"
+            },
+            {
+              "front": "stormy night will frighten the children",
+              "back": "ang mabagyo nga kagabhion makapahadlok sa mga bata"
+            },
+            {
+              "front": "snowy landscape will appear in winter",
+              "back": "niyebe talan-awon makita sa tingtugnaw"
+            },
+            {
+              "front": "foggy morning is likely to slow",
+              "back": "ang gabon nga buntag lagmit mohinay"
+            },
+            {
+              "front": "hot sun will shine down brightly",
+              "back": "ang init nga adlaw mosidlak pag-ayo"
+            },
+            {
+              "front": "cold breeze will blow gently through",
+              "back": "hinay nga mohuros ang bugnaw nga hangin"
+            },
+            {
+              "front": "warm temperature will feel nice outside",
+              "back": "init nga temperatura mobati nga nindot sa gawas"
+            },
+            {
+              "front": "chilly air will bite at skin",
+              "back": "Ang bugnaw nga hangin mopaak sa panit"
+            },
+            {
+              "front": "humid conditions will create sticky discomfort",
+              "back": "Ang humid nga mga kondisyon makamugna og sticky nga kahasol"
+            },
+            {
+              "front": "dry spell will last for weeks",
+              "back": "ang dry spell molungtad ug mga semana"
+            },
+            {
+              "front": "thunder will rumble loudly in distance",
+              "back": "dalugdog magdaguhob sa makusog sa layo"
+            },
+            {
+              "front": "lightning will strike nearby buildings quickly",
+              "back": "Ang kilat moigo dayon sa duol nga mga bilding"
+            },
+            {
+              "front": "hail storm is likely to occur",
+              "back": "malagmit mahitabo ang ulan nga yelo"
+            },
+            {
+              "front": "drizzle will fall lightly on pavement",
+              "back": "hinay nga mahulog ang ulan sa semento"
+            },
+            {
+              "front": "downpour will cause significant flooding quickly",
+              "back": "ang pagbunok sa ulan makapahinabog dakong pagbaha sa madali"
+            },
+            {
+              "front": "heatwave will affect many this summer",
+              "back": "Ang heatwave makaapekto sa kadaghanan karong ting-init"
+            },
+            {
+              "front": "frost will form on car windows",
+              "back": "maporma ang katugnaw sa mga bintana sa awto"
+            },
+            {
+              "front": "tornado warning will be issued soon",
+              "back": "Ang pasidaan sa buhawi ipagawas sa dili madugay"
+            },
+            {
+              "front": "hurricane will approach coastal areas quickly",
+              "back": "ang bagyo moduol dayon sa mga baybayon"
+            },
+            {
+              "front": "breeze will blow gently through trees",
+              "back": "hinay nga mohuros ang hangin sa mga kahoy"
+            },
+            {
+              "front": "gusty winds will disrupt outdoor activities",
+              "back": "ang kusog nga hangin makabalda sa mga kalihokan sa gawas"
+            },
+            {
+              "front": "squall will arrive suddenly in afternoon",
+              "back": "kalit lang moabot ang unos sa hapon"
+            },
+            {
+              "front": "precipitation will fall throughout the day",
+              "back": "ang ulan mahulog sa tibuok adlaw"
+            },
+            {
+              "front": "overcast skies will block all sunlight",
+              "back": "ang dag-um nga kalangitan mobabag sa tanang kahayag sa adlaw"
+            },
+            {
+              "front": "clear skies will promise beautiful weather",
+              "back": "ang tin-aw nga kalangitan mosaad og nindot nga panahon"
+            },
+            {
+              "front": "dew will settle on grass overnight",
+              "back": "Ang yamog mapuno sa balili sa tibuok gabii"
+            },
+            {
+              "front": "icy conditions will remain for morning",
+              "back": "icy nga mga kahimtang magpabilin alang sa buntag"
+            },
+            {
+              "front": "sleet will fall during cold night",
+              "back": "ang ulan nga yelo mahulog sa panahon sa bugnaw nga kagabhion"
+            },
+            {
+              "front": "blizzard will hit the region hard",
+              "back": "Ang blizzard moigo pag-ayo sa rehiyon"
+            },
+            {
+              "front": "puddle will form after heavy rainfall",
+              "back": "maporma ang lim-aw human sa kusog nga ulan"
+            },
+            {
+              "front": "rainbow will appear after the rain",
+              "back": "ang balangaw motungha human sa ulan"
+            },
+            {
+              "front": "thermometer will read thirty degrees tomorrow",
+              "back": "Ang thermometer mobasa ug traynta degrees ugma"
+            },
+            {
+              "front": "weather forecast will predict sunny skies",
+              "back": "ang forecast sa panahon magtagna sa sunny nga kalangitan"
+            },
+            {
+              "front": "barometer will drop quickly before storm",
+              "back": "Ang barometer dali nga moubos sa dili pa ang bagyo"
+            },
+            {
+              "front": "windchill will affect how it feels",
+              "back": "windchill makaapekto sa unsay gibati niini"
+            },
+            {
+              "front": "visibility will decrease due to fog",
+              "back": "ang visibility mokunhod tungod sa gabon"
+            },
+            {
+              "front": "weather front will move through area",
+              "back": "Ang unahan sa panahon molihok sa lugar"
+            },
+            {
+              "front": "clouds will gather before the rain",
+              "back": "ang mga panganod motipon sa dili pa ang ulan"
+            },
+            {
+              "front": "humidity will rise as the sun sets",
+              "back": "motaas ang kaumog sa pagsalop sa adlaw"
+            },
+            {
+              "front": "temperature will change throughout the day",
+              "back": "ang temperatura mausab sa tibuok adlaw"
+            },
+            {
+              "front": "sunshine will brighten up the day",
+              "back": "ang silaw sa adlaw modan-ag sa adlaw"
+            },
+            {
+              "front": "funnel cloud may form in sky",
+              "back": "funnel cloud mahimong maporma sa langit"
+            },
+            {
+              "front": "heat index will rise with humidity",
+              "back": "ang indeks sa kainit motaas uban ang kaumog"
+            },
+            {
+              "front": "wind speed will increase ahead of storm",
+              "back": "motaas ang gikusgon sa hangin sa dili pa ang bagyo"
+            },
+            {
+              "front": "weather station will record all conditions",
+              "back": "Ang weather station magrekord sa tanang kondisyon"
+            },
+            {
+              "front": "rain gauge will measure total rainfall",
+              "back": "rain gauge mosukod sa kinatibuk-ang ulan"
+            },
+            {
+              "front": "sunstroke risk will increase during summer",
+              "back": "Ang risgo sa sunstroke motaas sa panahon sa ting-init"
+            },
+            {
+              "front": "equinox will mark the seasonal change",
+              "back": "Ang equinox magtimaan sa pagbag-o sa panahon"
+            },
+            {
+              "front": "solstice will bring longer daylight hours",
+              "back": "ang solstice magdala ug mas taas nga oras sa adlaw"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

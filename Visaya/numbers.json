@@ -1,0 +1,1600 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Numbers",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "One",
+              "back": "usa"
+            },
+            {
+              "front": "Two",
+              "back": "duha"
+            },
+            {
+              "front": "Three",
+              "back": "tulo"
+            },
+            {
+              "front": "Four",
+              "back": "upat"
+            },
+            {
+              "front": "Five",
+              "back": "lima"
+            },
+            {
+              "front": "Six",
+              "back": "unom"
+            },
+            {
+              "front": "Seven",
+              "back": "pito"
+            },
+            {
+              "front": "Eight",
+              "back": "walo"
+            },
+            {
+              "front": "Nine",
+              "back": "siyam"
+            },
+            {
+              "front": "Ten",
+              "back": "napulo"
+            },
+            {
+              "front": "Eleven",
+              "back": "onse"
+            },
+            {
+              "front": "Twelve",
+              "back": "dose"
+            },
+            {
+              "front": "Thirteen",
+              "back": "napulog tulo"
+            },
+            {
+              "front": "Fourteen",
+              "back": "katorse"
+            },
+            {
+              "front": "Fifteen",
+              "back": "kinse"
+            },
+            {
+              "front": "Sixteen",
+              "back": "napulog unom"
+            },
+            {
+              "front": "Seventeen",
+              "back": "napulog pito"
+            },
+            {
+              "front": "Eighteen",
+              "back": "napulog walo"
+            },
+            {
+              "front": "Nineteen",
+              "back": "napulog siyam"
+            },
+            {
+              "front": "Twenty",
+              "back": "baynte"
+            },
+            {
+              "front": "Twenty-one",
+              "back": "baynte uno"
+            },
+            {
+              "front": "Twenty-two",
+              "back": "kawhaan ug duha"
+            },
+            {
+              "front": "Twenty-three",
+              "back": "baynte tres"
+            },
+            {
+              "front": "Twenty-four",
+              "back": "baynte kwatro"
+            },
+            {
+              "front": "Twenty-five",
+              "back": "baynte singko"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "One card",
+              "back": "usa ka kard"
+            },
+            {
+              "front": "Two eggs",
+              "back": "duha ka itlog"
+            },
+            {
+              "front": "Three cars",
+              "back": "tulo ka sakyanan"
+            },
+            {
+              "front": "Four chairs",
+              "back": "upat ka lingkuranan"
+            },
+            {
+              "front": "Five apples",
+              "back": "lima ka mansanas"
+            },
+            {
+              "front": "Six books",
+              "back": "unom ka libro"
+            },
+            {
+              "front": "Seven bags",
+              "back": "pito ka bag"
+            },
+            {
+              "front": "Eight cups",
+              "back": "walo ka tasa"
+            },
+            {
+              "front": "Nine balls",
+              "back": "siyam ka bola"
+            },
+            {
+              "front": "Ten trees",
+              "back": "napulo ka kahoy"
+            },
+            {
+              "front": "Eleven doors",
+              "back": "onse ka pultahan"
+            },
+            {
+              "front": "Twelve pens",
+              "back": "dose ka bolpen"
+            },
+            {
+              "front": "Thirteen keys",
+              "back": "napulog tulo ka mga yawe"
+            },
+            {
+              "front": "Fourteen lights",
+              "back": "katorse ka suga"
+            },
+            {
+              "front": "Fifteen dogs",
+              "back": "kinse ka iro"
+            },
+            {
+              "front": "Sixteen cats",
+              "back": "napulo ug unom ka iring"
+            },
+            {
+              "front": "Seventeen trucks",
+              "back": "napulog pito ka trak"
+            },
+            {
+              "front": "Eighteen bikes",
+              "back": "napulog walo ka mga bisikleta"
+            },
+            {
+              "front": "Nineteen hats",
+              "back": "napulog siyam ka kalo"
+            },
+            {
+              "front": "Twenty people",
+              "back": "baynte ka tawo"
+            },
+            {
+              "front": "Twenty-one houses",
+              "back": "baynte uno ka balay"
+            },
+            {
+              "front": "Twenty-two bags",
+              "back": "kaluhaan ug duha ka mga sako"
+            },
+            {
+              "front": "Twenty-three shoes",
+              "back": "baynte tres nga sapatos"
+            },
+            {
+              "front": "Twenty-four clocks",
+              "back": "baynte kwatro orasan"
+            },
+            {
+              "front": "Twenty-five plates",
+              "back": "baynte singko ka mga palid"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "One black card",
+              "back": "usa ka itom nga kard"
+            },
+            {
+              "front": "My two dogs",
+              "back": "akong duha ka iro"
+            },
+            {
+              "front": "Everyone has four",
+              "back": "ang tanan adunay upat"
+            },
+            {
+              "front": "I need five",
+              "back": "kinahanglan nako lima"
+            },
+            {
+              "front": "Give him six",
+              "back": "hatagi siya ug unom"
+            },
+            {
+              "front": "Seven red apples",
+              "back": "pito ka pula nga mansanas"
+            },
+            {
+              "front": "She took eight",
+              "back": "gikuha niya ang walo"
+            },
+            {
+              "front": "I have nine",
+              "back": "naa koy siyam"
+            },
+            {
+              "front": "Ten tall trees",
+              "back": "napulo ka tag-as nga mga kahoy"
+            },
+            {
+              "front": "He bought eleven",
+              "back": "onse ang iyang gipalit"
+            },
+            {
+              "front": "She has twelve",
+              "back": "siya adunay dose"
+            },
+            {
+              "front": "Thirteen new books",
+              "back": "napulog tulo ka bag-ong mga libro"
+            },
+            {
+              "front": "Fourteen large cups",
+              "back": "napulog upat ka dagkong tasa"
+            },
+            {
+              "front": "We carry fifteen",
+              "back": "kami nagdala ug kinse"
+            },
+            {
+              "front": "Sixteen green bags",
+              "back": "napulo ug unom ka berdeng bag"
+            },
+            {
+              "front": "They found seventeen",
+              "back": "nakakaplag sila ug napulo ug pito"
+            },
+            {
+              "front": "Eighteen small chairs",
+              "back": "napulog walo ka gagmay nga mga lingkuranan"
+            },
+            {
+              "front": "Nineteen blue cars",
+              "back": "napulo&#39;g siyam ka asul nga mga sakyanan"
+            },
+            {
+              "front": "I want twenty",
+              "back": "gusto ko baynte"
+            },
+            {
+              "front": "Twenty-one big trucks",
+              "back": "baynte uno ka dagkong trak"
+            },
+            {
+              "front": "She has twenty-two",
+              "back": "siya adunay baynte dos"
+            },
+            {
+              "front": "We need twenty-three",
+              "back": "gikinahanglan nato ang baynte tres"
+            },
+            {
+              "front": "Twenty-four bright lights",
+              "back": "baynte kwatro hayag nga suga"
+            },
+            {
+              "front": "Give him twenty-five",
+              "back": "hatagi siyag baynte singko"
+            },
+            {
+              "front": "They brought six",
+              "back": "nagdala sila ug unom"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I have one card",
+              "back": "naa koy usa ka card"
+            },
+            {
+              "front": "My two dogs play",
+              "back": "nagdula ang akong duha ka iro"
+            },
+            {
+              "front": "Everyone had four bags",
+              "back": "ang tanan adunay upat ka mga bag"
+            },
+            {
+              "front": "I need five plates",
+              "back": "nagkinahanglan ko ug lima ka plato"
+            },
+            {
+              "front": "Give him six apples",
+              "back": "hatagi siya ug unom ka mansanas"
+            },
+            {
+              "front": "Seven cars are parked",
+              "back": "pito ka mga sakyanan ang giparking"
+            },
+            {
+              "front": "She brought eight chairs",
+              "back": "nagdala siya ug walo ka lingkuranan"
+            },
+            {
+              "front": "I have nine books",
+              "back": "naa koy siyam ka libro"
+            },
+            {
+              "front": "Ten apples are fresh",
+              "back": "napulo ka mansanas ang lab-as"
+            },
+            {
+              "front": "He bought eleven hats",
+              "back": "mipalit siyag onse ka kalo"
+            },
+            {
+              "front": "She has twelve cups",
+              "back": "siya adunay dose ka tasa"
+            },
+            {
+              "front": "Thirteen pens are missing",
+              "back": "trese ka pen ang kulang"
+            },
+            {
+              "front": "Fourteen clocks are ticking",
+              "back": "katorse ka orasan ang nagsikit"
+            },
+            {
+              "front": "We carry fifteen bags",
+              "back": "kinse ka bag ang among dala"
+            },
+            {
+              "front": "Sixteen cars are fast",
+              "back": "katorse ka mga sakyanan ang paspas"
+            },
+            {
+              "front": "They found seventeen boxes",
+              "back": "nakakaplag sila ug napulog pito ka mga kahon"
+            },
+            {
+              "front": "Eighteen chairs are ready",
+              "back": "andam na ang napulog walo ka lingkuranan"
+            },
+            {
+              "front": "Nineteen shoes are worn",
+              "back": "napulo&#39;g siyam ka sapatos ang gisul-ob"
+            },
+            {
+              "front": "I want twenty plates",
+              "back": "gusto ko baynte ka plato"
+            },
+            {
+              "front": "Twenty-one trucks are moving",
+              "back": "baynte uno ka trak ang naglihok"
+            },
+            {
+              "front": "She has twenty-two books",
+              "back": "siya adunay kawhaan ug duha ka mga libro"
+            },
+            {
+              "front": "We need twenty-three bags",
+              "back": "nagkinahanglan kita ug baynte tres ka mga sako"
+            },
+            {
+              "front": "Twenty-four pens are working",
+              "back": "kaluhaan ug upat ka mga bolpen ang nagtrabaho"
+            },
+            {
+              "front": "Give him twenty-five glasses",
+              "back": "hatagi siyag baynte singko ka baso"
+            },
+            {
+              "front": "They gave us books",
+              "back": "gihatagan mi nilag mga libro"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I have one black card",
+              "back": "naa koy usa ka black card"
+            },
+            {
+              "front": "My two dogs are playing",
+              "back": "nagduwa ang akong duha ka iro"
+            },
+            {
+              "front": "Everyone had four large bags",
+              "back": "ang tanan adunay upat ka dagkong mga bag"
+            },
+            {
+              "front": "I need five small plates",
+              "back": "kinahanglan ko og lima ka gagmay nga mga plato"
+            },
+            {
+              "front": "Give him six red apples",
+              "back": "hatagi siya ug unom ka pula nga mansanas"
+            },
+            {
+              "front": "Seven blue cars are parked",
+              "back": "pito ka asul nga mga sakyanan ang giparking"
+            },
+            {
+              "front": "She brought eight tall chairs",
+              "back": "nagdala siyag walo ka taas nga lingkuranan"
+            },
+            {
+              "front": "I have nine green books",
+              "back": "Ako adunay siyam ka berdeng libro"
+            },
+            {
+              "front": "Ten red apples are fresh",
+              "back": "napulo ka pula nga mansanas ang presko"
+            },
+            {
+              "front": "He bought eleven new hats",
+              "back": "nipalit siyag onse ka bag-ong kalo"
+            },
+            {
+              "front": "She has twelve small cups",
+              "back": "siya adunay dose ka gagmay nga mga tasa"
+            },
+            {
+              "front": "Thirteen blue pens are missing",
+              "back": "trese ka asul nga pen ang nawala"
+            },
+            {
+              "front": "Fourteen large clocks are ticking",
+              "back": "katorse ka dagkong mga orasan ang nagsikit"
+            },
+            {
+              "front": "We carry fifteen heavy bags",
+              "back": "kami nagdala ug kinse ka bug-at nga mga bag"
+            },
+            {
+              "front": "Sixteen red cars are fast",
+              "back": "16 ka pula nga mga sakyanan paspas"
+            },
+            {
+              "front": "They found seventeen large boxes",
+              "back": "nakit-an nila ang napulog pito ka dagkong kahon"
+            },
+            {
+              "front": "Eighteen green chairs are ready",
+              "back": "andam na ang napulog walo ka berdeng lingkuranan"
+            },
+            {
+              "front": "Nineteen black shoes are worn",
+              "back": "napulo&#39;g siyam ka itom nga sapatos ang gisul-ob"
+            },
+            {
+              "front": "I want twenty clean plates",
+              "back": "gusto ko baynte ka limpyo nga mga plato"
+            },
+            {
+              "front": "Twenty-one big trucks are moving",
+              "back": "baynte uno ka dagkong trak ang naglihok"
+            },
+            {
+              "front": "She has twenty-two new books",
+              "back": "siya adunay kawhaag duha ka bag-ong libro"
+            },
+            {
+              "front": "We need twenty-three small bags",
+              "back": "nagkinahanglan kita og baynte tres ka gagmay nga mga bag"
+            },
+            {
+              "front": "Twenty-four blue pens are working",
+              "back": "baynte kwatro asul nga bolpen ang nagtrabaho"
+            },
+            {
+              "front": "Give him twenty-five clean glasses",
+              "back": "hatagi siyag baynte singko nga limpyo nga baso"
+            },
+            {
+              "front": "They gave us ten books",
+              "back": "gihatagan mi nilag napulo ka libro"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I have one card in hand",
+              "back": "naa koy usa ka card"
+            },
+            {
+              "front": "My two dogs run every morning",
+              "back": "ang akong duha ka iro nagdagan matag buntag"
+            },
+            {
+              "front": "Everyone had four bags last night",
+              "back": "ang tanan adunay upat ka mga bag kagabii"
+            },
+            {
+              "front": "I need five plates for dinner",
+              "back": "Kinahanglan nako ang lima ka plato alang sa panihapon"
+            },
+            {
+              "front": "Give him six apples to eat",
+              "back": "Hatagi siyag unom ka mansanas nga iyang kan-on"
+            },
+            {
+              "front": "Seven cars are parked outside now",
+              "back": "pito ka mga sakyanan ang giparking sa gawas karon"
+            },
+            {
+              "front": "She brought eight chairs to school",
+              "back": "nagdala siyag walo ka lingkuranan sa eskwelahan"
+            },
+            {
+              "front": "I have nine books to read",
+              "back": "naa koy siyam ka libro nga basahon"
+            },
+            {
+              "front": "Ten apples are fresh and tasty",
+              "back": "napulo ka mansanas ang presko ug lami"
+            },
+            {
+              "front": "He bought eleven hats for friends",
+              "back": "mipalit siyag onse ka kalo para sa mga higala"
+            },
+            {
+              "front": "She has twelve cups in kitchen",
+              "back": "siya adunay dose ka tasa sa kusina"
+            },
+            {
+              "front": "Thirteen pens are missing from desk",
+              "back": "trese ka pen ang nawala sa lamesa"
+            },
+            {
+              "front": "Fourteen clocks are ticking in house",
+              "back": "katorse ka orasan ang nagsige sa balay"
+            },
+            {
+              "front": "We carry fifteen bags every day",
+              "back": "kami magdala ug kinse ka bag kada adlaw"
+            },
+            {
+              "front": "Sixteen cars are fast on highway",
+              "back": "16 ka mga sakyanan paspas sa highway"
+            },
+            {
+              "front": "They found seventeen boxes in storage",
+              "back": "nakit-an nila ang napulog pito ka mga kahon nga gitipigan"
+            },
+            {
+              "front": "Eighteen chairs are ready for event",
+              "back": "18 ka lingkuranan andam na alang sa kalihokan"
+            },
+            {
+              "front": "Nineteen shoes are worn by students",
+              "back": "napulog siyam ka sapatos ang gisul-ob sa mga estudyante"
+            },
+            {
+              "front": "I want twenty plates for party",
+              "back": "gusto ko baynte ka plato para sa party"
+            },
+            {
+              "front": "Twenty-one trucks are moving right now",
+              "back": "baynte uno ka trak ang naglihok karon"
+            },
+            {
+              "front": "She has twenty-two books to read",
+              "back": "siya adunay kawhaag duha ka libro nga basahon"
+            },
+            {
+              "front": "We need twenty-three bags for groceries",
+              "back": "nagkinahanglan kami ug baynte tres ka sako para sa mga groceries"
+            },
+            {
+              "front": "Twenty-four pens are working very well",
+              "back": "kaluhaan ug upat ka mga bolpen nagtrabaho pag-ayo"
+            },
+            {
+              "front": "Give him twenty-five glasses to clean",
+              "back": "hatagi siyag baynte singko ka baso para limpyohan"
+            },
+            {
+              "front": "They gave us books for school",
+              "back": "gihatagan mi nilag mga libro para sa eskwelahan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Was one",
+              "back": "usa ra"
+            },
+            {
+              "front": "Had two",
+              "back": "adunay duha"
+            },
+            {
+              "front": "Used three",
+              "back": "gigamit tulo"
+            },
+            {
+              "front": "Saw four",
+              "back": "nakakita ug upat"
+            },
+            {
+              "front": "Needed five",
+              "back": "kinahanglan lima"
+            },
+            {
+              "front": "Bought six",
+              "back": "nakapalit ug unom"
+            },
+            {
+              "front": "Found seven",
+              "back": "nakit-an ang pito"
+            },
+            {
+              "front": "Lost eight",
+              "back": "nawala ang walo"
+            },
+            {
+              "front": "Took nine",
+              "back": "gikuha siyam"
+            },
+            {
+              "front": "Carried ten",
+              "back": "nagdala ug napulo"
+            },
+            {
+              "front": "Counted eleven",
+              "back": "giihap onse"
+            },
+            {
+              "front": "Gave twelve",
+              "back": "mihatag ug dose"
+            },
+            {
+              "front": "Kept thirteen",
+              "back": "gitipigan ang napulog tulo"
+            },
+            {
+              "front": "Held fourteen",
+              "back": "gipahigayon katorse"
+            },
+            {
+              "front": "Collected fifteen",
+              "back": "nakolekta kinse"
+            },
+            {
+              "front": "Gathered sixteen",
+              "back": "nagtigom napulo ug unom"
+            },
+            {
+              "front": "Picked seventeen",
+              "back": "mipili og napulo ug pito"
+            },
+            {
+              "front": "Chose eighteen",
+              "back": "mipili og napulog walo"
+            },
+            {
+              "front": "Arranged nineteen",
+              "back": "gihan-ay nga napulog siyam"
+            },
+            {
+              "front": "Needed twenty",
+              "back": "nagkinahanglan ug baynte"
+            },
+            {
+              "front": "Used twenty-one",
+              "back": "gigamit nga baynte uno"
+            },
+            {
+              "front": "Had twenty-two",
+              "back": "adunay kawhaan ug duha"
+            },
+            {
+              "front": "Saw twenty-three",
+              "back": "nakakita sa baynte tres"
+            },
+            {
+              "front": "Held twenty-four",
+              "back": "gipahigayon sa kawhaan ug upat"
+            },
+            {
+              "front": "Bought twenty-five",
+              "back": "mipalit ug baynte singko"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I had one",
+              "back": "naa koy usa"
+            },
+            {
+              "front": "He needed three",
+              "back": "kinahanglan niya ang tulo"
+            },
+            {
+              "front": "They used twelve",
+              "back": "gigamit nila ang dose"
+            },
+            {
+              "front": "She bought five",
+              "back": "lima ang iyang gipalit"
+            },
+            {
+              "front": "We found seven",
+              "back": "nakit-an namo ang pito"
+            },
+            {
+              "front": "He lost eight",
+              "back": "napildi siya og walo"
+            },
+            {
+              "front": "They carried ten",
+              "back": "sila nagdala ug napulo"
+            },
+            {
+              "front": "I took nine",
+              "back": "gikuha nako ang siyam"
+            },
+            {
+              "front": "She saw four",
+              "back": "upat ang iyang nakita"
+            },
+            {
+              "front": "We kept thirteen",
+              "back": "gipabilin namo ang trese"
+            },
+            {
+              "front": "He gave two",
+              "back": "duha ang iyang gihatag"
+            },
+            {
+              "front": "She held eleven",
+              "back": "siya naghupot sa onse"
+            },
+            {
+              "front": "I used six",
+              "back": "gigamit nako ang unom"
+            },
+            {
+              "front": "They gathered sixteen",
+              "back": "nagtigom sila napulo ug unom"
+            },
+            {
+              "front": "He counted fourteen",
+              "back": "nag-ihap siyag katorse"
+            },
+            {
+              "front": "We picked seventeen",
+              "back": "gipili namo ang napulo ug pito"
+            },
+            {
+              "front": "I chose fifteen",
+              "back": "kinse ang akong gipili"
+            },
+            {
+              "front": "She arranged nineteen",
+              "back": "iyang gihikay ang napulog siyam"
+            },
+            {
+              "front": "He needed twenty",
+              "back": "nagkinahanglan siyag baynte"
+            },
+            {
+              "front": "They held twenty-one",
+              "back": "sila naghupot sa kawhaan ug usa"
+            },
+            {
+              "front": "We had twenty-two",
+              "back": "kami adunay baynte dos"
+            },
+            {
+              "front": "She used twenty-three",
+              "back": "gigamit niya ang kawhaan ug tulo"
+            },
+            {
+              "front": "He saw twenty-four",
+              "back": "nakakita siyag baynte kwatro"
+            },
+            {
+              "front": "They bought twenty-five",
+              "back": "nagpalit silag baynte singko"
+            },
+            {
+              "front": "I found eighteen",
+              "back": "nakit-an nako ang napulog walo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I needed one more",
+              "back": "nagkinahanglan ko og usa pa"
+            },
+            {
+              "front": "He had two extra",
+              "back": "naa siyay duha ka extra"
+            },
+            {
+              "front": "Everyone bought four more",
+              "back": "ang tanan mipalit ug upat pa"
+            },
+            {
+              "front": "Nobody had three apples",
+              "back": "walay usa nga adunay tulo ka mansanas"
+            },
+            {
+              "front": "There were six cars",
+              "back": "adunay unom ka mga sakyanan"
+            },
+            {
+              "front": "We had nine dogs",
+              "back": "kami adunay siyam ka iro"
+            },
+            {
+              "front": "She needed ten chairs",
+              "back": "nagkinahanglan siya ug napulo ka lingkuranan"
+            },
+            {
+              "front": "They bought five hats",
+              "back": "mipalit silag lima ka kalo"
+            },
+            {
+              "front": "He used eleven pens",
+              "back": "onse ka pen ang iyang gigamit"
+            },
+            {
+              "front": "We kept twelve books",
+              "back": "nagtipig kami og dose ka libro"
+            },
+            {
+              "front": "She carried seven bags",
+              "back": "siya nagdala ug pito ka bag"
+            },
+            {
+              "front": "They found fourteen seats",
+              "back": "nakakaplag sila ug katorse ka lingkoranan"
+            },
+            {
+              "front": "I took eight cups",
+              "back": "mikuha ko og walo ka tasa"
+            },
+            {
+              "front": "He lost fifteen shoes",
+              "back": "nawad-an siya ug kinse ka sapatos"
+            },
+            {
+              "front": "Nobody saw eighteen stars",
+              "back": "walay nakakita ug napulog walo ka bituon"
+            },
+            {
+              "front": "She gave thirteen dollars",
+              "back": "mihatag siya ug trese ka dolyares"
+            },
+            {
+              "front": "They held sixteen boxes",
+              "back": "sila adunay napulo ug unom ka mga kahon"
+            },
+            {
+              "front": "We picked twenty apples",
+              "back": "nanguha kamig baynte ka mansanas"
+            },
+            {
+              "front": "I found seventeen chairs",
+              "back": "nakakaplag ako ug napulo ug pito ka mga lingkuranan"
+            },
+            {
+              "front": "He counted twenty-two cars",
+              "back": "giihap niya ang kawhaan ug duha ka mga awto"
+            },
+            {
+              "front": "They needed twenty-five items",
+              "back": "nagkinahanglan sila ug baynte singko nga mga butang"
+            },
+            {
+              "front": "She arranged twenty-four bags",
+              "back": "gihikay niya ang kawhaan ug upat ka mga bag"
+            },
+            {
+              "front": "We bought twenty-one books",
+              "back": "mipalit mig baynte uno nga libro"
+            },
+            {
+              "front": "Nobody used nineteen tools",
+              "back": "walay migamit ug napulog siyam ka himan"
+            },
+            {
+              "front": "Everyone saw twenty-three paintings",
+              "back": "ang tanan nakakita og baynte tres nga mga dibuho"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I needed one big plate",
+              "back": "Nagkinahanglan ko og usa ka dako nga plato"
+            },
+            {
+              "front": "She saw seven good dogs",
+              "back": "nakakita siyag pito ka maayong iro"
+            },
+            {
+              "front": "Everyone had five poker cards",
+              "back": "ang tanan adunay lima ka poker cards"
+            },
+            {
+              "front": "He used two small bowls",
+              "back": "migamit siyag duha ka gagmayng panaksan"
+            },
+            {
+              "front": "We found nine clean glasses",
+              "back": "nakakita kami og siyam ka limpyo nga baso"
+            },
+            {
+              "front": "They brought four fresh apples",
+              "back": "nagdala sila ug upat ka presko nga mansanas"
+            },
+            {
+              "front": "He carried six heavy bags",
+              "back": "nagbitbit siyag unom ka bug-at nga bag"
+            },
+            {
+              "front": "I took three large books",
+              "back": "mikuha kog tulo ka dagkong libro"
+            },
+            {
+              "front": "Nobody saw five fast cars",
+              "back": "walay nakakita sa lima ka paspas nga mga sakyanan"
+            },
+            {
+              "front": "She gave eight golden coins",
+              "back": "mihatag siya ug walo ka bulawang sensilyo"
+            },
+            {
+              "front": "They bought ten new hats",
+              "back": "nakapalit silag napulo ka bag-ong kalo"
+            },
+            {
+              "front": "We kept fourteen precious items",
+              "back": "gitipigan namo ang napulog upat ka bililhong mga butang"
+            },
+            {
+              "front": "He counted eleven missing chairs",
+              "back": "giihap niya ang onse nga nawala nga mga lingkuranan"
+            },
+            {
+              "front": "She held fifteen large plates",
+              "back": "nagkupot siyag kinse ka dagkong mga palid"
+            },
+            {
+              "front": "Everyone needed twelve fresh towels",
+              "back": "ang tanan nagkinahanglan og dose ka lab-as nga tualya"
+            },
+            {
+              "front": "He found sixteen useful tools",
+              "back": "nakit-an niya ang napulo ug unom nga mapuslanon nga mga himan"
+            },
+            {
+              "front": "They arranged twenty bright flowers",
+              "back": "gihikay nila ang kawhaan ka mahayag nga mga bulak"
+            },
+            {
+              "front": "I lost thirteen important papers",
+              "back": "nawad-an kog trese importanteng papeles"
+            },
+            {
+              "front": "Nobody picked nineteen ripe oranges",
+              "back": "walay nanguha ug napulo&#39;g siyam ka hinog nga kahel"
+            },
+            {
+              "front": "We brought eighteen cold drinks",
+              "back": "kami nagdala ug napulog walo ka bugnaw nga ilimnon"
+            },
+            {
+              "front": "She bought seventeen yellow dresses",
+              "back": "mipalit siyag napulo&#39;g pito ka yellow nga sinina"
+            },
+            {
+              "front": "He gave twenty nice presents",
+              "back": "mihatag siya ug baynte nindot nga mga regalo"
+            },
+            {
+              "front": "They counted twenty-five long cables",
+              "back": "giihap nila ang kawhaag-lima ka tag-as nga mga kable"
+            },
+            {
+              "front": "I needed twenty-two black pens",
+              "back": "nanginahanglan ko og kawhaag duha ka itom nga bolpen"
+            },
+            {
+              "front": "Nobody had twenty-three blue chairs",
+              "back": "walay usa nga adunay baynte tres asul nga mga lingkuranan"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The captain needed five good men",
+              "back": "ang kapitan nagkinahanglan og lima ka maayong mga tawo"
+            },
+            {
+              "front": "I bought fifteen dinner plates",
+              "back": "mipalit kog kinse ka plato sa panihapon"
+            },
+            {
+              "front": "Everyone was dealt five poker cards",
+              "back": "ang tanan gihatagan ug lima ka poker cards"
+            },
+            {
+              "front": "Only three chairs had blue cover",
+              "back": "tulo lang ka lingkuranan ang adunay asul nga hapin"
+            },
+            {
+              "front": "She gave him two clean towels",
+              "back": "gihatagan niya siya ug duha ka limpyo nga tualya"
+            },
+            {
+              "front": "We found seven missing red keys",
+              "back": "nakit-an namon ang pito nga nawala nga pula nga mga yawe"
+            },
+            {
+              "front": "They needed six bags of apples",
+              "back": "nagkinahanglan sila ug unom ka sako sa mansanas"
+            },
+            {
+              "front": "He carried twelve heavy wooden boxes",
+              "back": "nagdala siyag dose ka bug-at nga kahon nga kahoy"
+            },
+            {
+              "front": "I counted nine colorful birthday balloons",
+              "back": "giihap nako ang siyam ka mabulukon nga mga balloon sa adlawng natawhan"
+            },
+            {
+              "front": "Nobody saw eight large parked trucks",
+              "back": "walay nakakita sa walo ka dagkong trak nga nakaparada"
+            },
+            {
+              "front": "She brought four books to class",
+              "back": "nagdala siyag upat ka libro sa klase"
+            },
+            {
+              "front": "He had fourteen days of vacation",
+              "back": "siya adunay katorse ka adlaw nga bakasyon"
+            },
+            {
+              "front": "We picked twenty flowers last night",
+              "back": "nanguha mig baynte ka bulak kagabii"
+            },
+            {
+              "front": "She held thirteen coins in hand",
+              "back": "nagkupot siyag trese ka sensilyo sa kamot"
+            },
+            {
+              "front": "He lost ten of his papers",
+              "back": "nawala niya ang napulo sa iyang mga papel"
+            },
+            {
+              "front": "They arranged eighteen seats in rows",
+              "back": "naghan-ay sila ug napulog walo ka mga lingkoranan sa laray"
+            },
+            {
+              "front": "I found sixteen ripe apples yesterday",
+              "back": "nakakaplag ako ug napulo ug unom ka hinog nga mansanas kagahapon"
+            },
+            {
+              "front": "Nobody needed eleven chairs for event",
+              "back": "walay usa nga nagkinahanglan ug onse ka mga lingkuranan alang sa kalihokan"
+            },
+            {
+              "front": "We carried twenty-five plates last night",
+              "back": "nagbitbit kamig baynte singko ka mga plato kagabii"
+            },
+            {
+              "front": "She bought twenty new pens yesterday",
+              "back": "nakapalit siyag baynte ka bag-ong mga bolpen kagahapon"
+            },
+            {
+              "front": "They gave him nineteen red balloons",
+              "back": "gihatagan nila siya ug napulog siyam ka pula nga mga balloon"
+            },
+            {
+              "front": "He had twenty-one bags of flour",
+              "back": "siya adunay kaluhaan ug usa ka sako nga harina"
+            },
+            {
+              "front": "I lost seventeen books last week",
+              "back": "Nawala ko ang napulog pito ka libro sa miaging semana"
+            },
+            {
+              "front": "We counted twenty-two spoons after dinner",
+              "back": "nag-ihap kami og baynte dos ka kutsara pagkahuman sa panihapon"
+            },
+            {
+              "front": "Everyone received twenty-four fresh towels",
+              "back": "ang tanan nakadawat ug baynte kwatro nga presko nga tualya"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will have one",
+              "back": "adunay usa"
+            },
+            {
+              "front": "Two will show",
+              "back": "duha ang magpakita"
+            },
+            {
+              "front": "Three will appear",
+              "back": "tulo ang motungha"
+            },
+            {
+              "front": "Will be six",
+              "back": "mahimong unom"
+            },
+            {
+              "front": "Four will follow",
+              "back": "upat ang mosunod"
+            },
+            {
+              "front": "Will find five",
+              "back": "makakitag lima"
+            },
+            {
+              "front": "Will use seven",
+              "back": "mogamit ug pito"
+            },
+            {
+              "front": "Eight will arrive",
+              "back": "walo ang moabot"
+            },
+            {
+              "front": "Nine will remain",
+              "back": "siyam ang magpabilin"
+            },
+            {
+              "front": "Will bring ten",
+              "back": "magdala ug napulo"
+            },
+            {
+              "front": "Eleven will help",
+              "back": "onse ang makatabang"
+            },
+            {
+              "front": "Will need twelve",
+              "back": "magkinahanglan og dose"
+            },
+            {
+              "front": "Thirteen will fit",
+              "back": "napulog tulo ang mohaum"
+            },
+            {
+              "front": "Fourteen will count",
+              "back": "katorse ang mag-ihap"
+            },
+            {
+              "front": "Will take fifteen",
+              "back": "mokuha ug kinse"
+            },
+            {
+              "front": "Sixteen will move",
+              "back": "napulo ug unom ang mobalhin"
+            },
+            {
+              "front": "Seventeen will stay",
+              "back": "napulo ug pito ang magpabilin"
+            },
+            {
+              "front": "Will hold eighteen",
+              "back": "maghupot ug napulog walo"
+            },
+            {
+              "front": "Nineteen will wait",
+              "back": "napulo&#39;g siyam ang maghulat"
+            },
+            {
+              "front": "Will have twenty",
+              "back": "adunay baynte"
+            },
+            {
+              "front": "Twenty-one will continue",
+              "back": "baynte uno ang magpadayon"
+            },
+            {
+              "front": "Will bring twenty-two",
+              "back": "magdala ug baynte dos"
+            },
+            {
+              "front": "Will find twenty-three",
+              "back": "makit-an ang baynte tres"
+            },
+            {
+              "front": "Twenty-four will fit",
+              "back": "baynte kwatro ang mohaum"
+            },
+            {
+              "front": "Will need twenty-five",
+              "back": "magkinahanglan ug baynte singko"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "He will need one",
+              "back": "magkinahanglan siya og usa"
+            },
+            {
+              "front": "I will have two",
+              "back": "naa koy duha"
+            },
+            {
+              "front": "They will bring three",
+              "back": "magdala silag tulo"
+            },
+            {
+              "front": "Everyone will have ten",
+              "back": "ang tanan adunay napulo"
+            },
+            {
+              "front": "She will find four",
+              "back": "pangitaon niya ang upat"
+            },
+            {
+              "front": "We will need five",
+              "back": "magkinahanglan kami og lima"
+            },
+            {
+              "front": "He will use six",
+              "back": "gamiton niya ang unom"
+            },
+            {
+              "front": "I will keep seven",
+              "back": "akong ibutang ang pito"
+            },
+            {
+              "front": "She will take eight",
+              "back": "kuhaon niya ang walo"
+            },
+            {
+              "front": "They will carry nine",
+              "back": "magdala sila og siyam"
+            },
+            {
+              "front": "He will bring ten",
+              "back": "magdala siya ug napulo"
+            },
+            {
+              "front": "We will share eleven",
+              "back": "magbahin mi ug onse"
+            },
+            {
+              "front": "I will hold twelve",
+              "back": "magkupot ko og dose"
+            },
+            {
+              "front": "She will carry thirteen",
+              "back": "siya magdala ug trese"
+            },
+            {
+              "front": "They will need fourteen",
+              "back": "magkinahanglan sila ug katorse"
+            },
+            {
+              "front": "I will count fifteen",
+              "back": "mag-ihap ko og kinse"
+            },
+            {
+              "front": "We will take sixteen",
+              "back": "kuhaon namo ang napulog-unom"
+            },
+            {
+              "front": "He will show seventeen",
+              "back": "ipakita niya ang napulog pito"
+            },
+            {
+              "front": "She will have eighteen",
+              "back": "makabaton siya ug napulog walo"
+            },
+            {
+              "front": "I will bring nineteen",
+              "back": "dad-on ko ang napulog siyam"
+            },
+            {
+              "front": "They will find twenty",
+              "back": "makakita silag kawhaan"
+            },
+            {
+              "front": "She will hold twenty-one",
+              "back": "siya magkupot ug kawhaan ug usa"
+            },
+            {
+              "front": "We will use twenty-two",
+              "back": "gamiton nato ang baynte dos"
+            },
+            {
+              "front": "He will need twenty-three",
+              "back": "magkinahanglan siyag baynte tres"
+            },
+            {
+              "front": "I will find twenty-four",
+              "back": "pangitaon ko ang baynte kwatro"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will need one more",
+              "back": "magkinahanglan kog usa pa"
+            },
+            {
+              "front": "He will make five chairs",
+              "back": "maghimo siyag lima ka lingkuranan"
+            },
+            {
+              "front": "She will wait seven minutes",
+              "back": "maghulat siya ug pito ka minuto"
+            },
+            {
+              "front": "There are six dogs here",
+              "back": "adunay unom ka iro dinhi"
+            },
+            {
+              "front": "Seven more cars will arrive",
+              "back": "pito pa ka sakyanan ang moabot"
+            },
+            {
+              "front": "We will buy ten apples",
+              "back": "mamalit ta ug napulo ka mansanas"
+            },
+            {
+              "front": "They will bring four bags",
+              "back": "magdala sila ug upat ka sako"
+            },
+            {
+              "front": "I will pick three books",
+              "back": "mopili kog tulo ka libro"
+            },
+            {
+              "front": "She will give two gifts",
+              "back": "siya mohatag ug duha ka gasa"
+            },
+            {
+              "front": "He will count twelve boxes",
+              "back": "mag-ihap siyag dose ka kahon"
+            },
+            {
+              "front": "They will need eight chairs",
+              "back": "magkinahanglan sila ug walo ka lingkuranan"
+            },
+            {
+              "front": "We will carry nine bags",
+              "back": "magdala mi ug siyam ka bag"
+            },
+            {
+              "front": "She will hold thirteen flowers",
+              "back": "siya magkupot ug trese ka bulak"
+            },
+            {
+              "front": "He will arrange fifteen tables",
+              "back": "maghikay siya ug kinse ka lamesa"
+            },
+            {
+              "front": "We will take twenty pictures",
+              "back": "magkuha mig baynte ka hulagway"
+            },
+            {
+              "front": "I will need twenty cups",
+              "back": "magkinahanglan kog baynte ka tasa"
+            },
+            {
+              "front": "He will use twenty-one pens",
+              "back": "maggamit siyag baynte uno nga bolpen"
+            },
+            {
+              "front": "She will bring twenty-four plates",
+              "back": "magdala siyag kawhaag-upat ka plato"
+            },
+            {
+              "front": "They will sell twenty-five tickets",
+              "back": "ibaligya nila ang baynte singko nga mga tiket"
+            },
+            {
+              "front": "We will show sixteen photos",
+              "back": "ipakita namo ang napulog unom ka mga litrato"
+            },
+            {
+              "front": "He will find seventeen coins",
+              "back": "makakita siya ug napulog pito ka sensilyo"
+            },
+            {
+              "front": "She will have fourteen candles",
+              "back": "makabaton siya ug katorse ka kandila"
+            },
+            {
+              "front": "I will need eleven spoons",
+              "back": "magkinahanglan ko ug onse ka kutsara"
+            },
+            {
+              "front": "He will find twenty-three chairs",
+              "back": "mangita siyag kawhaag-tulo ka mga lingkuranan"
+            },
+            {
+              "front": "We will take nineteen steps",
+              "back": "mohimo kita og napulog siyam ka mga lakang"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will need one big plate",
+              "back": "Kinahanglan ko ang usa ka dako nga plato"
+            },
+            {
+              "front": "Everyone will want seven big apples",
+              "back": "ang tanan gusto ug pito ka dagkong mansanas"
+            },
+            {
+              "front": "Six dogs play in the park",
+              "back": "unom ka iro ang nagduwa sa parke"
+            },
+            {
+              "front": "Nine cars collide on the freeway",
+              "back": "siyam ka mga sakyanan nagbangga sa freeway"
+            },
+            {
+              "front": "We will carry five heavy bags",
+              "back": "magdala mi ug lima ka bug-at nga bag"
+            },
+            {
+              "front": "He will count eleven small chairs",
+              "back": "mag-ihap siya og onse ka gagmay nga mga lingkuranan"
+            },
+            {
+              "front": "She will hold thirteen red roses",
+              "back": "magkupot siyag trese ka pulang rosas"
+            },
+            {
+              "front": "They will bring ten wooden tables",
+              "back": "magdala sila ug napulo ka lamesa nga kahoy"
+            },
+            {
+              "front": "I will find twenty-two golden coins",
+              "back": "mangita kog kawhaag duha ka bulawang sensilyo"
+            },
+            {
+              "front": "He will buy twelve colorful balloons",
+              "back": "mopalit siyag dose ka colorful balloon"
+            },
+            {
+              "front": "She will sell nine old books",
+              "back": "ibaligya niya ang siyam ka daan nga libro"
+            },
+            {
+              "front": "They will arrange eight tall chairs",
+              "back": "maghikay silag walo ka tag-as nga mga lingkuranan"
+            },
+            {
+              "front": "We will show nineteen interesting pictures",
+              "back": "ipakita namo ang napulog siyam ka makapaikag nga mga hulagway"
+            },
+            {
+              "front": "He will use fourteen blue markers",
+              "back": "mogamit siya ug katorse asul nga mga marka"
+            },
+            {
+              "front": "She will bake twenty large cookies",
+              "back": "magaluto siyag baynte ka dagkong biskwit"
+            },
+            {
+              "front": "I will need six red cups",
+              "back": "magkinahanglan ko ug unom ka pula nga tasa"
+            },
+            {
+              "front": "He will find twenty-five silver spoons",
+              "back": "makakita siyag kawhaag-lima ka plata nga kutsara"
+            },
+            {
+              "front": "She will buy seventeen new plates",
+              "back": "mopalit siyag napulog pito ka bag-ong plato"
+            },
+            {
+              "front": "We will carry sixteen heavy boxes",
+              "back": "kami magdala ug napulog unom ka bug-at nga kahon"
+            },
+            {
+              "front": "They will send twenty important emails",
+              "back": "magpadala silag baynte importanteng email"
+            },
+            {
+              "front": "I will want fifteen ripe bananas",
+              "back": "gusto ko ug kinse ka hinog nga saging"
+            },
+            {
+              "front": "He will paint twenty-three small fences",
+              "back": "magpintal siyag baynte tres ka gagmayng koral"
+            },
+            {
+              "front": "She will sew twenty-four silk dresses",
+              "back": "manahi siyag baynte kwatro ka sinina nga seda"
+            },
+            {
+              "front": "They will drive eleven fast cars",
+              "back": "makamaneho sila og onse ka paspas nga mga sakyanan"
+            },
+            {
+              "front": "We will take twenty cool pictures",
+              "back": "magkuha kami ug baynte ka cool nga mga litrato"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

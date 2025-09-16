@@ -1,0 +1,1544 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Months",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "January",
+              "back": "enero"
+            },
+            {
+              "front": "February",
+              "back": "Pebrero"
+            },
+            {
+              "front": "March",
+              "back": "pagmartsa"
+            },
+            {
+              "front": "April",
+              "back": "abril"
+            },
+            {
+              "front": "May",
+              "back": "mahimo"
+            },
+            {
+              "front": "June",
+              "back": "Hunyo"
+            },
+            {
+              "front": "July",
+              "back": "Hulyo"
+            },
+            {
+              "front": "August",
+              "back": "Agosto"
+            },
+            {
+              "front": "September",
+              "back": "Septyembre"
+            },
+            {
+              "front": "October",
+              "back": "oktubre"
+            },
+            {
+              "front": "November",
+              "back": "nobyembre"
+            },
+            {
+              "front": "December",
+              "back": "disyembre"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Cold January",
+              "back": "bugnaw nga enero"
+            },
+            {
+              "front": "Warm February",
+              "back": "init nga february"
+            },
+            {
+              "front": "Rainy March",
+              "back": "ulan nga martsa"
+            },
+            {
+              "front": "Sunny April",
+              "back": "hayag nga abril"
+            },
+            {
+              "front": "Bright May",
+              "back": "bright mayo"
+            },
+            {
+              "front": "Hot June",
+              "back": "init nga june"
+            },
+            {
+              "front": "Sunny July",
+              "back": "hayag nga Hulyo"
+            },
+            {
+              "front": "Warm August",
+              "back": "init nga Agosto"
+            },
+            {
+              "front": "Cool September",
+              "back": "bugnaw nga september"
+            },
+            {
+              "front": "Windy October",
+              "back": "hangin oktubre"
+            },
+            {
+              "front": "Chilly November",
+              "back": "bugnaw nga nobyembre"
+            },
+            {
+              "front": "Cold December",
+              "back": "bugnaw nga Disyembre"
+            },
+            {
+              "front": "Holiday December",
+              "back": "holiday sa december"
+            },
+            {
+              "front": "Winter January",
+              "back": "tingtugnaw sa Enero"
+            },
+            {
+              "front": "Summer July",
+              "back": "ting-init sa Hulyo"
+            },
+            {
+              "front": "Vacation August",
+              "back": "bakasyon sa august"
+            },
+            {
+              "front": "Spring March",
+              "back": "martsa sa tingpamulak"
+            },
+            {
+              "front": "Fall October",
+              "back": "pagkahulog sa Oktubre"
+            },
+            {
+              "front": "Cool April",
+              "back": "bugnaw nga abril"
+            },
+            {
+              "front": "Festive November",
+              "back": "fiesta sa nobyembre"
+            },
+            {
+              "front": "Wet February",
+              "back": "basa nga february"
+            },
+            {
+              "front": "Busy December",
+              "back": "busy sa december"
+            },
+            {
+              "front": "Calm September",
+              "back": "kalma nga september"
+            },
+            {
+              "front": "Clear May",
+              "back": "klaro may"
+            },
+            {
+              "front": "Breezy June",
+              "back": "hangin nga june"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Cold wind January",
+              "back": "bugnaw nga hangin Enero"
+            },
+            {
+              "front": "Warm sunshine February",
+              "back": "init nga kahayag sa adlaw sa Pebrero"
+            },
+            {
+              "front": "Rain showers March",
+              "back": "ulan ulan martsa"
+            },
+            {
+              "front": "Bright sunny April",
+              "back": "hayag nga sunny abril"
+            },
+            {
+              "front": "Flowers bloom May",
+              "back": "mamulak ang mga bulak"
+            },
+            {
+              "front": "Hot days June",
+              "back": "init nga mga adlaw sa Hunyo"
+            },
+            {
+              "front": "Vacation time July",
+              "back": "panahon sa bakasyon sa Hulyo"
+            },
+            {
+              "front": "Warm evenings August",
+              "back": "init nga mga gabii sa Agosto"
+            },
+            {
+              "front": "Cool breeze September",
+              "back": "bugnaw nga hangin september"
+            },
+            {
+              "front": "Colorful leaves October",
+              "back": "mabulukon nga mga dahon oktubre"
+            },
+            {
+              "front": "Chilly winds November",
+              "back": "bugnaw nga hangin nobyembre"
+            },
+            {
+              "front": "Festive holidays December",
+              "back": "holidays sa Disyembre"
+            },
+            {
+              "front": "Clear skies April",
+              "back": "tin-aw nga kalangitan abril"
+            },
+            {
+              "front": "Cool nights May",
+              "back": "bugnaw nga mga gabii mahimo"
+            },
+            {
+              "front": "Summer begins June",
+              "back": "nagsugod ang ting-init sa Hunyo"
+            },
+            {
+              "front": "The warm July",
+              "back": "ang init nga Hulyo"
+            },
+            {
+              "front": "Bright hot August",
+              "back": "hayag nga init nga Agosto"
+            },
+            {
+              "front": "Leaves fall September",
+              "back": "dahon mahulog sa september"
+            },
+            {
+              "front": "Halloween fun October",
+              "back": "lingaw sa halloween october"
+            },
+            {
+              "front": "Winter comes December",
+              "back": "ang tingtugnaw moabut sa Disyembre"
+            },
+            {
+              "front": "Rainy early March",
+              "back": "ulan sayo sa Marso"
+            },
+            {
+              "front": "Busy shopping November",
+              "back": "busy sa pagpamalit sa nobyembre"
+            },
+            {
+              "front": "New year January",
+              "back": "bag-ong tuig enero"
+            },
+            {
+              "front": "Cold crisp December",
+              "back": "bugnaw nga bugnaw nga Disyembre"
+            },
+            {
+              "front": "Warm cozy February",
+              "back": "init ug komportable nga Pebrero"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "It is June now",
+              "back": "june na karon"
+            },
+            {
+              "front": "It is July tomorrow",
+              "back": "hulyo na ugma"
+            },
+            {
+              "front": "I am here December",
+              "back": "naa ko december"
+            },
+            {
+              "front": "Dogs love June days",
+              "back": "ang mga iro nahigugma sa mga adlaw sa Hunyo"
+            },
+            {
+              "front": "We enjoy warm April",
+              "back": "nalingaw mi sa init nga abril"
+            },
+            {
+              "front": "She celebrates in August",
+              "back": "nag celebrate siya sa august"
+            },
+            {
+              "front": "I visit in October",
+              "back": "bisita ko sa october"
+            },
+            {
+              "front": "My birthday is May",
+              "back": "akong birthday kay mayo"
+            },
+            {
+              "front": "They travel in March",
+              "back": "nagbiyahe sila sa marso"
+            },
+            {
+              "front": "We stay home January",
+              "back": "gapuyo mi sa balay january"
+            },
+            {
+              "front": "It rains in April",
+              "back": "nag-ulan sa abril"
+            },
+            {
+              "front": "I like sunny June",
+              "back": "ganahan ko sunny june"
+            },
+            {
+              "front": "We plant flowers May",
+              "back": "mananom mi ug bulak mahimo"
+            },
+            {
+              "front": "Summer begins in July",
+              "back": "ang ting-init magsugod sa Hulyo"
+            },
+            {
+              "front": "They leave in December",
+              "back": "gikan sila sa december"
+            },
+            {
+              "front": "Fall starts in September",
+              "back": "ang tinghunlak magsugod sa september"
+            },
+            {
+              "front": "Halloween is in October",
+              "back": "sa october na ang halloween"
+            },
+            {
+              "front": "The festival is March",
+              "back": "ang pista kay march"
+            },
+            {
+              "front": "Snow falls in February",
+              "back": "niyebe mahulog sa Pebrero"
+            },
+            {
+              "front": "I travel in August",
+              "back": "mobiyahe ko sa august"
+            },
+            {
+              "front": "She loves bright November",
+              "back": "ganahan siya sa bright november"
+            },
+            {
+              "front": "Winter begins in December",
+              "back": "ang tingtugnaw magsugod sa Disyembre"
+            },
+            {
+              "front": "We prepare for June",
+              "back": "nangandam mi para sa june"
+            },
+            {
+              "front": "Rain ends in April",
+              "back": "mahuman ang ulan sa abril"
+            },
+            {
+              "front": "New year begins January",
+              "back": "bag-ong tuig magsugod sa enero"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am here all December",
+              "back": "naa ko sa tibuok december"
+            },
+            {
+              "front": "Dogs love playing in June",
+              "back": "Ang mga iro ganahan nga magdula sa Hunyo"
+            },
+            {
+              "front": "Babies are born in February",
+              "back": "ang mga bata natawo sa Pebrero"
+            },
+            {
+              "front": "Rain comes in late September",
+              "back": "ulan moabut sa ulahing bahin sa september"
+            },
+            {
+              "front": "We always travel in August",
+              "back": "permi mi magbiyahe sa august"
+            },
+            {
+              "front": "She celebrates Christmas in December",
+              "back": "nagselebrar siyag pasko sa december"
+            },
+            {
+              "front": "I go skiing in January",
+              "back": "mag skiing ko sa january"
+            },
+            {
+              "front": "They start school in September",
+              "back": "nagsugod na sila ug skwela sa september"
+            },
+            {
+              "front": "We plant trees in April",
+              "back": "mananom mi ug kahoy sa abril"
+            },
+            {
+              "front": "It gets warm in May",
+              "back": "init kini sa Mayo"
+            },
+            {
+              "front": "Flowers bloom everywhere in March",
+              "back": "ang mga bulak mamulak bisan asa sa Marso"
+            },
+            {
+              "front": "She visits family in October",
+              "back": "mibisita siya sa pamilya sa Oktubre"
+            },
+            {
+              "front": "We stay indoors in July",
+              "back": "naa mi sa sulod sa july"
+            },
+            {
+              "front": "My vacation starts in June",
+              "back": "sa hunyo magsugod akong bakasyon"
+            },
+            {
+              "front": "Leaves fall in cool November",
+              "back": "Ang mga dahon mahulog sa bugnaw nga Nobyembre"
+            },
+            {
+              "front": "The new year starts January",
+              "back": "magsugod ang bag-ong tuig sa enero"
+            },
+            {
+              "front": "Rain pours down in April",
+              "back": "mibundak ang ulan sa Abril"
+            },
+            {
+              "front": "We love summer in July",
+              "back": "ganahan mi sa summer sa july"
+            },
+            {
+              "front": "School ends early in June",
+              "back": "ang eskwelahan mahuman sayo sa Hunyo"
+            },
+            {
+              "front": "Halloween happens in late October",
+              "back": "Ang halloween mahitabo sa ulahing bahin sa Oktubre"
+            },
+            {
+              "front": "They travel south in November",
+              "back": "mobiyahe sila sa habagatan sa Nobyembre"
+            },
+            {
+              "front": "The garden blooms in May",
+              "back": "ang tanaman namulak sa Mayo"
+            },
+            {
+              "front": "She celebrates birthdays in August",
+              "back": "nag celebrate siya ug birthday sa august"
+            },
+            {
+              "front": "It rains a lot March",
+              "back": "kusog kaayo ang ulan march"
+            },
+            {
+              "front": "The fair starts in June",
+              "back": "ang fair magsugod sa Hunyo"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am staying here all December",
+              "back": "nag stay ko diri tibuok december"
+            },
+            {
+              "front": "Dogs love playing outside in June",
+              "back": "Ang mga iro ganahan nga magdula sa gawas sa Hunyo"
+            },
+            {
+              "front": "Babies are born every February morning",
+              "back": "ang mga bata matawo matag Pebrero sa buntag"
+            },
+            {
+              "front": "Rain comes in late September evenings",
+              "back": "Ang ulan moabut sa ulahing bahin sa Septyembre sa gabii"
+            },
+            {
+              "front": "We go swimming every year in August",
+              "back": "mag swimming mi kada tuig sa august"
+            },
+            {
+              "front": "She celebrates Christmas during cold December",
+              "back": "siya nagsaulog sa pasko panahon sa bugnaw nga Disyembre"
+            },
+            {
+              "front": "I go skiing every snowy January",
+              "back": "mag skiing ko kada niyebe nga enero"
+            },
+            {
+              "front": "They start school in early September",
+              "back": "nagsugod sila sa pag-eskwela sa sayong bahin sa september"
+            },
+            {
+              "front": "We plant trees in sunny April",
+              "back": "mananom mi ug kahoy sa sunny april"
+            },
+            {
+              "front": "It gets very warm by May",
+              "back": "init kaayo sa Mayo"
+            },
+            {
+              "front": "Flowers bloom everywhere during March rains",
+              "back": "ang mga bulak mamulak bisan asa panahon sa ulan sa Marso"
+            },
+            {
+              "front": "She visits family during cool October",
+              "back": "mibisita siya sa pamilya panahon sa bugnaw nga Oktubre"
+            },
+            {
+              "front": "We stay indoors during hot July",
+              "back": "kami magpabilin sa sulod sa panahon sa init nga Hulyo"
+            },
+            {
+              "front": "My summer vacation starts in June",
+              "back": "akong summer vacation magsugod sa june"
+            },
+            {
+              "front": "Leaves fall slowly during cool November",
+              "back": "Ang mga dahon hinay nga mahulog sa bugnaw nga Nobyembre"
+            },
+            {
+              "front": "The new year begins in January",
+              "back": "magsugod ang bag-ong tuig sa enero"
+            },
+            {
+              "front": "Rain pours heavily in late April",
+              "back": "kusog nga ulan sa ulahing bahin sa Abril"
+            },
+            {
+              "front": "We love summer afternoons in July",
+              "back": "ganahan mi sa summer afternoon sa july"
+            },
+            {
+              "front": "School ends early on June days",
+              "back": "sayo nga matapos ang eskwelahan sa mga adlaw sa Hunyo"
+            },
+            {
+              "front": "Halloween celebrations happen in October evenings",
+              "back": "Ang mga selebrasyon sa halloween mahitabo sa mga gabii sa Oktubre"
+            },
+            {
+              "front": "They travel south every November weekend",
+              "back": "mobiyahe sila sa habagatan matag semana sa Nobyembre"
+            },
+            {
+              "front": "The garden blooms beautifully in May",
+              "back": "nindot nga namulak ang tanaman sa Mayo"
+            },
+            {
+              "front": "She celebrates birthdays throughout warm August",
+              "back": "nagsaulog siya og mga adlaw nga natawhan sa tibuok mainit nga Agosto"
+            },
+            {
+              "front": "It rains frequently during late March",
+              "back": "nag-ulan kanunay sa ulahing bahin sa Marso"
+            },
+            {
+              "front": "The fair starts every sunny June",
+              "back": "ang fair magsugod kada sunny nga Hunyo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Was January",
+              "back": "niadtong Enero"
+            },
+            {
+              "front": "February passed",
+              "back": "milabay ang february"
+            },
+            {
+              "front": "March ended",
+              "back": "natapos ang martsa"
+            },
+            {
+              "front": "April bloomed",
+              "back": "namulak ang abril"
+            },
+            {
+              "front": "May rained",
+              "back": "mahimong mag-ulan"
+            },
+            {
+              "front": "Was June",
+              "back": "niadtong Hunyo"
+            },
+            {
+              "front": "July burned",
+              "back": "Hulyo gisunog"
+            },
+            {
+              "front": "August shined",
+              "back": "nagsidlak ang Agosto"
+            },
+            {
+              "front": "September cooled",
+              "back": "september nibugnaw"
+            },
+            {
+              "front": "October flew",
+              "back": "Oktubre milupad"
+            },
+            {
+              "front": "November chilled",
+              "back": "Nobyembre nabugnaw"
+            },
+            {
+              "front": "December froze",
+              "back": "nagyelo ang Disyembre"
+            },
+            {
+              "front": "January snowed",
+              "back": "niyebe ang Enero"
+            },
+            {
+              "front": "February ended",
+              "back": "natapos ang pebrero"
+            },
+            {
+              "front": "March passed",
+              "back": "milabay ang martsa"
+            },
+            {
+              "front": "April warmed",
+              "back": "nanginit ang abril"
+            },
+            {
+              "front": "May ended",
+              "back": "mahimong matapos"
+            },
+            {
+              "front": "June bloomed",
+              "back": "namulak ang Hunyo"
+            },
+            {
+              "front": "July ended",
+              "back": "natapos ang july"
+            },
+            {
+              "front": "August passed",
+              "back": "milabay ang Agosto"
+            },
+            {
+              "front": "September cooled",
+              "back": "september nibugnaw"
+            },
+            {
+              "front": "October ended",
+              "back": "natapos ang oktobre"
+            },
+            {
+              "front": "November passed",
+              "back": "milabay ang nobyembre"
+            },
+            {
+              "front": "December snowed",
+              "back": "Disyembre nag-snow"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "He came June",
+              "back": "niabot siyag june"
+            },
+            {
+              "front": "I left April",
+              "back": "nibiya ko april"
+            },
+            {
+              "front": "December snowed greatly",
+              "back": "nag-snow pag-ayo sa Disyembre"
+            },
+            {
+              "front": "She visited February",
+              "back": "nibisita siya sa february"
+            },
+            {
+              "front": "They returned October",
+              "back": "nibalik sila october"
+            },
+            {
+              "front": "We traveled July",
+              "back": "mibiyahe mi sa july"
+            },
+            {
+              "front": "He stayed November",
+              "back": "nag stay siya sa november"
+            },
+            {
+              "front": "She arrived March",
+              "back": "niabot siyag march"
+            },
+            {
+              "front": "I finished January",
+              "back": "nahuman nako ang january"
+            },
+            {
+              "front": "They enjoyed August",
+              "back": "nalingaw sila sa august"
+            },
+            {
+              "front": "We celebrated May",
+              "back": "nagselebrar mi sa Mayo"
+            },
+            {
+              "front": "He called September",
+              "back": "nanawag siya september"
+            },
+            {
+              "front": "She left December",
+              "back": "nibiya siya december"
+            },
+            {
+              "front": "We visited June",
+              "back": "mibisita mi sa june"
+            },
+            {
+              "front": "He celebrated April",
+              "back": "gisaulog niya ang abril"
+            },
+            {
+              "front": "She loved May",
+              "back": "gihigugma niya si may"
+            },
+            {
+              "front": "They traveled August",
+              "back": "nagbiyahe sila Agosto"
+            },
+            {
+              "front": "He enjoyed February",
+              "back": "nalingaw siya sa february"
+            },
+            {
+              "front": "I celebrated October",
+              "back": "nag celebrate ko october"
+            },
+            {
+              "front": "She liked March",
+              "back": "ganahan siyag march"
+            },
+            {
+              "front": "We left July",
+              "back": "nihawa mi july"
+            },
+            {
+              "front": "He missed November",
+              "back": "gimingaw siya sa november"
+            },
+            {
+              "front": "They stayed September",
+              "back": "nagpabilin sila sa september"
+            },
+            {
+              "front": "I saw January",
+              "back": "nakita ko nga january"
+            },
+            {
+              "front": "We played December",
+              "back": "nagdula mi ug december"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Dogs loved June evenings",
+              "back": "ang mga iro nahigugma sa mga gabii sa Hunyo"
+            },
+            {
+              "front": "I loved cold Decembers",
+              "back": "sa minahal nga bugnaw nga Disyembre"
+            },
+            {
+              "front": "I left in August",
+              "back": "nihawa ko sa august"
+            },
+            {
+              "front": "Everyone traveled after May",
+              "back": "ang tanan mibiyahe human sa Mayo"
+            },
+            {
+              "front": "We visited during April",
+              "back": "mibisita mi niadtong Abril"
+            },
+            {
+              "front": "She arrived in March",
+              "back": "niabot siya sa march"
+            },
+            {
+              "front": "They celebrated in December",
+              "back": "nagselebrar sila sa december"
+            },
+            {
+              "front": "He worked through July",
+              "back": "nagtrabaho siya hangtod sa Hulyo"
+            },
+            {
+              "front": "I stayed until January",
+              "back": "nag stay ko hangtod january"
+            },
+            {
+              "front": "We relaxed in February",
+              "back": "nag relax mi sa february"
+            },
+            {
+              "front": "They returned during October",
+              "back": "nibalik sila panahon sa oktobre"
+            },
+            {
+              "front": "I traveled in November",
+              "back": "nibiyahe ko sa november"
+            },
+            {
+              "front": "She left during September",
+              "back": "nibiya siya niadtong september"
+            },
+            {
+              "front": "We finished by June",
+              "back": "nahuman mi ni june"
+            },
+            {
+              "front": "He arrived on May",
+              "back": "niabot siya sa mayo"
+            },
+            {
+              "front": "They celebrated in April",
+              "back": "nagsaulog sila sa abril"
+            },
+            {
+              "front": "I returned in July",
+              "back": "nibalik ko sa july"
+            },
+            {
+              "front": "We visited during August",
+              "back": "mibisita mi niadtong Agosto"
+            },
+            {
+              "front": "She stayed until March",
+              "back": "nagpabilin siya hangtod sa Marso"
+            },
+            {
+              "front": "He loved rainy February",
+              "back": "ganahan siya sa tag-ulan nga february"
+            },
+            {
+              "front": "They arrived on December",
+              "back": "niabot sila sa december"
+            },
+            {
+              "front": "We left after October",
+              "back": "nihawa mi after october"
+            },
+            {
+              "front": "I celebrated in May",
+              "back": "nag celebrate ko sa mayo"
+            },
+            {
+              "front": "He stayed during January",
+              "back": "nag stay siya during january"
+            },
+            {
+              "front": "We worked through September",
+              "back": "nagtrabaho mi hangtod september"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My dogs loved June evenings",
+              "back": "ang akong mga iro nahigugma sa mga gabii sa Hunyo"
+            },
+            {
+              "front": "The doctor performed in May",
+              "back": "gihimo sa doktor niadtong Mayo"
+            },
+            {
+              "front": "We worked all of September",
+              "back": "nagtrabaho mi sa tibuok september"
+            },
+            {
+              "front": "They traveled after rainy April",
+              "back": "mibiyahe sila human sa ting-ulan sa Abril"
+            },
+            {
+              "front": "I visited family during December",
+              "back": "mibisita ko sa pamilya sa december"
+            },
+            {
+              "front": "He left early in July",
+              "back": "sayo sa july nilakaw siya"
+            },
+            {
+              "front": "She arrived late in March",
+              "back": "ulahi na siya sa Marso"
+            },
+            {
+              "front": "We celebrated birthdays in August",
+              "back": "nag celebrate mi ug birthday sa august"
+            },
+            {
+              "front": "The festival happened in October",
+              "back": "ang pista nahitabo sa Oktubre"
+            },
+            {
+              "front": "I returned home in February",
+              "back": "niuli ko sa february"
+            },
+            {
+              "front": "They worked hard all May",
+              "back": "nagtrabaho sila pag-ayo sa tibuok Mayo"
+            },
+            {
+              "front": "He traveled every summer in June",
+              "back": "mibiyahe siya matag ting-init sa Hunyo"
+            },
+            {
+              "front": "We visited friends during April",
+              "back": "mibisita mi sa mga amigo atol sa abril"
+            },
+            {
+              "front": "She stayed until early November",
+              "back": "nagpabilin siya hangtod sa sayong bahin sa Nobyembre"
+            },
+            {
+              "front": "He completed the task in January",
+              "back": "nahuman niya ang buluhaton sa Enero"
+            },
+            {
+              "front": "We rested on Sundays in July",
+              "back": "namahuway mi pag sunday sa july"
+            },
+            {
+              "front": "They loved hiking in September",
+              "back": "ganahan sila mag hiking sa september"
+            },
+            {
+              "front": "She cooked dinner every December",
+              "back": "nagluto siyag panihapon kada disyembre"
+            },
+            {
+              "front": "He studied every day in March",
+              "back": "nagtuon siya kada adlaw sa marso"
+            },
+            {
+              "front": "We finished work by early June",
+              "back": "nahuman namo ang trabaho sayo sa Hunyo"
+            },
+            {
+              "front": "I visited my grandparents in May",
+              "back": "mibisita ko sa akong mga apohan niadtong Mayo"
+            },
+            {
+              "front": "They celebrated together during August",
+              "back": "nagselebrar sila dungan sa august"
+            },
+            {
+              "front": "The party happened during October",
+              "back": "nahitabo ang party atol sa october"
+            },
+            {
+              "front": "We enjoyed long evenings in June",
+              "back": "nalingaw mi ug taas nga mga gabii sa Hunyo"
+            },
+            {
+              "front": "He worked hard during January",
+              "back": "nagtrabaho siya pag-ayo sa Enero"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "He worked in the June sun",
+              "back": "nagtrabaho siya sa adlaw sa Hunyo"
+            },
+            {
+              "front": "We rested in the December winter",
+              "back": "mipahulay kami sa tingtugnaw sa Disyembre"
+            },
+            {
+              "front": "The team completed January task deadlines",
+              "back": "nakompleto sa team ang mga deadline sa buluhaton sa Enero"
+            },
+            {
+              "front": "She celebrated her birthday in April",
+              "back": "nagsaulog siya sa iyang adlawng natawhan niadtong abril"
+            },
+            {
+              "front": "We enjoyed hiking during September weekends",
+              "back": "nalingaw mi sa pagbaktas panahon sa september weekends"
+            },
+            {
+              "front": "They traveled together in late July",
+              "back": "nag-uban sila sa pagbiyahe kaniadtong ulahing bahin sa Hulyo"
+            },
+            {
+              "front": "I stayed home during February storms",
+              "back": "Nagpabilin ko sa balay panahon sa mga bagyo sa Pebrero"
+            },
+            {
+              "front": "He worked late in August evenings",
+              "back": "nagtrabaho siya sa ulahing bahin sa Agosto sa gabii"
+            },
+            {
+              "front": "We celebrated holidays in cold December",
+              "back": "nagselebrar mi ug holidays sa bugnaw nga december"
+            },
+            {
+              "front": "The event happened in early May",
+              "back": "ang panghitabo nahitabo sa sayong bahin sa Mayo"
+            },
+            {
+              "front": "She arrived in March without delay",
+              "back": "niabot siya sa mars nga walay langan"
+            },
+            {
+              "front": "They visited family in October holidays",
+              "back": "mibisita sila sa pamilya sa mga holiday sa Oktubre"
+            },
+            {
+              "front": "We finished everything in November rain",
+              "back": "nahuman namo ang tanan sa ulan sa nobyembre"
+            },
+            {
+              "front": "He left in the January morning ",
+              "back": "nilakaw siya sa enero sa buntag "
+            },
+            {
+              "front": "I returned from vacation in June",
+              "back": "niuli ko gikan sa bakasyon sa june"
+            },
+            {
+              "front": "The flowers bloomed beautifully in April",
+              "back": "nindot nga namulak ang mga bulak sa Abril"
+            },
+            {
+              "front": "We attended the festival in August",
+              "back": "mitambong mi sa pista sa august"
+            },
+            {
+              "front": "She baked pies daily in December",
+              "back": "nagluto siyag pie kada adlaw sa disyembre"
+            },
+            {
+              "front": "They played soccer every June afternoon",
+              "back": "nagdula sila og soccer kada Hunyo sa hapon"
+            },
+            {
+              "front": "He completed tasks before May deadline",
+              "back": "nahuman niya ang mga buluhaton sa wala pa ang deadline sa Mayo"
+            },
+            {
+              "front": "I worked on projects every September",
+              "back": "Nagtrabaho ko sa mga proyekto matag september"
+            },
+            {
+              "front": "We traveled in the July summer",
+              "back": "mibiyahe mi sa july summer"
+            },
+            {
+              "front": "The team prepared meals during February",
+              "back": "ang team nag-andam og mga pagkaon atol sa Pebrero"
+            },
+            {
+              "front": "She stayed until the rainy November",
+              "back": "nagpabilin siya hangtod sa ting-ulan nga Nobyembre"
+            },
+            {
+              "front": "We visited the park in March",
+              "back": "mibisita mi sa park niadtong marso"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Will be January",
+              "back": "karong Enero"
+            },
+            {
+              "front": "December will snow",
+              "back": "mag-snow ang disyembre"
+            },
+            {
+              "front": "Will rain April",
+              "back": "mag-ulan abril"
+            },
+            {
+              "front": "February will freeze",
+              "back": "mag-freeze ang Pebrero"
+            },
+            {
+              "front": "March will bloom",
+              "back": "mamulak ang march"
+            },
+            {
+              "front": "May will shine",
+              "back": "mahimong modan-ag"
+            },
+            {
+              "front": "Will be June",
+              "back": "mahimong june"
+            },
+            {
+              "front": "July will burn",
+              "back": "hulyo masunog"
+            },
+            {
+              "front": "August will shine",
+              "back": "mosidlak ang Agosto"
+            },
+            {
+              "front": "September will cool",
+              "back": "september mobugnaw"
+            },
+            {
+              "front": "October will fly",
+              "back": "molupad ang oktobre"
+            },
+            {
+              "front": "November will chill",
+              "back": "mobugnaw ang nobyembre"
+            },
+            {
+              "front": "Will snow December",
+              "back": "mag-snow sa Disyembre"
+            },
+            {
+              "front": "January will start",
+              "back": "magsugod ang enero"
+            },
+            {
+              "front": "Will come February",
+              "back": "moabot ang february"
+            },
+            {
+              "front": "Will rain March",
+              "back": "mag ulan march"
+            },
+            {
+              "front": "April will warm",
+              "back": "init ang abril"
+            },
+            {
+              "front": "June will arrive",
+              "back": "muabot ang june"
+            },
+            {
+              "front": "July will come",
+              "back": "muabot ang july"
+            },
+            {
+              "front": "August will pass",
+              "back": "molabay ang Agosto"
+            },
+            {
+              "front": "Will shine May",
+              "back": "mosidlak mayo"
+            },
+            {
+              "front": "Will cool September",
+              "back": "mobugnaw sa september"
+            },
+            {
+              "front": "Will fly October",
+              "back": "molupad sa oktobre"
+            },
+            {
+              "front": "Will be November",
+              "back": "mag-nobyembre na"
+            },
+            {
+              "front": "December will freeze",
+              "back": "mag-freeze ang Disyembre"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will come January",
+              "back": "muabot ko january"
+            },
+            {
+              "front": "It will snow December",
+              "back": "mag-snow sa Disyembre"
+            },
+            {
+              "front": "We will travel July",
+              "back": "mobiyahe mi sa july"
+            },
+            {
+              "front": "They will visit March",
+              "back": "mobisita sila sa march"
+            },
+            {
+              "front": "She will leave August",
+              "back": "mohawa siya sa august"
+            },
+            {
+              "front": "We will arrive May",
+              "back": "maabot mi mayo"
+            },
+            {
+              "front": "I will enjoy February",
+              "back": "malingaw ko sa february"
+            },
+            {
+              "front": "He will relax June",
+              "back": "magpahuway siya sa june"
+            },
+            {
+              "front": "She will call April",
+              "back": "tawgon niya si april"
+            },
+            {
+              "front": "We will hike September",
+              "back": "mag hike mi sa september"
+            },
+            {
+              "front": "They will rest October",
+              "back": "mopahuway sila october"
+            },
+            {
+              "front": "I will celebrate November",
+              "back": "mag celebrate ko ug november"
+            },
+            {
+              "front": "We will return January",
+              "back": "mobalik mi sa january"
+            },
+            {
+              "front": "She will visit December",
+              "back": "mobisita siya sa december"
+            },
+            {
+              "front": "He will work July",
+              "back": "motrabaho siya sa july"
+            },
+            {
+              "front": "They will leave April",
+              "back": "molarga sila sa abril"
+            },
+            {
+              "front": "I will relax May",
+              "back": "magpahuway ko may"
+            },
+            {
+              "front": "We will celebrate June",
+              "back": "magselebrar mi sa june"
+            },
+            {
+              "front": "She will return February",
+              "back": "mubalik siya sa february"
+            },
+            {
+              "front": "He will call March",
+              "back": "tawgon niya si march"
+            },
+            {
+              "front": "They will visit October",
+              "back": "mobisita sila sa october"
+            },
+            {
+              "front": "We will travel August",
+              "back": "mobiyahe mi sa august"
+            },
+            {
+              "front": "I will work November",
+              "back": "motrabaho ko sa november"
+            },
+            {
+              "front": "She will stay September",
+              "back": "magpabilin siya sa september"
+            },
+            {
+              "front": "He will rest December",
+              "back": "mopahuway siya sa december"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "June will bring hot sun",
+              "back": "ang Hunyo magdala ug init nga adlaw"
+            },
+            {
+              "front": "December will bring snowy days",
+              "back": "ang december magdala ug snow nga mga adlaw"
+            },
+            {
+              "front": "July will bring summer heat",
+              "back": "ang hulyo magdala ug init sa ting-init"
+            },
+            {
+              "front": "March will bring spring rain",
+              "back": "ang martsa magdala ug ulan sa tingpamulak"
+            },
+            {
+              "front": "February will bring cold winds",
+              "back": "ang pebrero magdala ug bugnaw nga hangin"
+            },
+            {
+              "front": "August will bring warm nights",
+              "back": "Ang Agosto magdala ug mainit nga mga gabii"
+            },
+            {
+              "front": "September will bring cool breezes",
+              "back": "ang september magdala ug bugnaw nga hangin"
+            },
+            {
+              "front": "October will bring falling leaves",
+              "back": "oktubre magdala ug mangatagak nga mga dahon"
+            },
+            {
+              "front": "November will bring shorter days",
+              "back": "ang nobyembre magdala ug mugbo nga mga adlaw"
+            },
+            {
+              "front": "May will bring blooming flowers",
+              "back": "Ang Mayo magdala ug mga bulak nga namulak"
+            },
+            {
+              "front": "April will bring mild rain",
+              "back": "Ang Abril magdala ug hinay nga ulan"
+            },
+            {
+              "front": "We will visit during December",
+              "back": "mubisita mi during december"
+            },
+            {
+              "front": "He will celebrate in July",
+              "back": "magselebrar siya sa july"
+            },
+            {
+              "front": "They will leave by January",
+              "back": "molarga sila sa january"
+            },
+            {
+              "front": "I will work all February",
+              "back": "magtrabaho ko tibuok february"
+            },
+            {
+              "front": "She will arrive in April",
+              "back": "muabot siya sa abril"
+            },
+            {
+              "front": "We will travel in August",
+              "back": "mobiyahe mi sa august"
+            },
+            {
+              "front": "They will relax in June",
+              "back": "magpahuway sila sa hunyo"
+            },
+            {
+              "front": "He will enjoy warm May",
+              "back": "malingaw siya sa init nga Mayo"
+            },
+            {
+              "front": "I will return next October",
+              "back": "mubalik ko sunod october"
+            },
+            {
+              "front": "She will leave by September",
+              "back": "molarga na siya sa september"
+            },
+            {
+              "front": "We will celebrate in November",
+              "back": "magselebrar ta sa nobyembre"
+            },
+            {
+              "front": "He will rest in December",
+              "back": "mopahuway siya sa december"
+            },
+            {
+              "front": "They will visit early March",
+              "back": "mobisita sila sayo sa Marso"
+            },
+            {
+              "front": "We will start in January",
+              "back": "magsugod ta sa january"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will stay warm in December",
+              "back": "magpainit ko sa december"
+            },
+            {
+              "front": "June will be great for swimming",
+              "back": "ang Hunyo maayo alang sa paglangoy"
+            },
+            {
+              "front": "Everyone will leave when November arrives",
+              "back": "manglakaw ang tanan pag-abot sa nobyembre"
+            },
+            {
+              "front": "July will be perfect for vacation",
+              "back": "hulyo mahimong perpekto alang sa bakasyon"
+            },
+            {
+              "front": "We will plant flowers in April",
+              "back": "magtanum mi ug bulak sa abril"
+            },
+            {
+              "front": "They will return home in March",
+              "back": "mamauli sila sa marso"
+            },
+            {
+              "front": "She will celebrate her birthday in May",
+              "back": "magselebrar siya sa iyang birthday sa mayo"
+            },
+            {
+              "front": "August will bring warm summer nights",
+              "back": "Ang Agosto magdala sa mainit nga mga gabii sa ting-init"
+            },
+            {
+              "front": "We will travel together in February",
+              "back": "magkuyog mi sa february"
+            },
+            {
+              "front": "He will finish everything by January",
+              "back": "mahuman niya ang tanan sa january"
+            },
+            {
+              "front": "October will bring cooler weather soon",
+              "back": "Ang oktobre magdala ug mas bugnaw nga panahon sa dili madugay"
+            },
+            {
+              "front": "They will visit the beach in June",
+              "back": "mobisita sila sa baybayon sa Hunyo"
+            },
+            {
+              "front": "She will arrive early in April",
+              "back": "muabot siya sayo sa abril"
+            },
+            {
+              "front": "We will relax by the pool in July",
+              "back": "mag relax mi sa pool sa july"
+            },
+            {
+              "front": "He will take a break in August",
+              "back": "mopahuway na siya sa august"
+            },
+            {
+              "front": "September will be perfect for hiking",
+              "back": "september mahimong perpekto alang sa hiking"
+            },
+            {
+              "front": "I will return home in December",
+              "back": "mouli ko sa balay sa december"
+            },
+            {
+              "front": "We will celebrate the holidays in November",
+              "back": "magselebrar mi sa holidays sa nobyembre"
+            },
+            {
+              "front": "She will leave next year in January",
+              "back": "molarga siya sunod tuig sa january"
+            },
+            {
+              "front": "He will visit family in February",
+              "back": "mobisita siya sa pamilya sa february"
+            },
+            {
+              "front": "They will start working hard in March",
+              "back": "magsugod sila sa pagtrabaho pag-ayo sa marso"
+            },
+            {
+              "front": "I will enjoy the sunshine in May",
+              "back": "malingaw ko sa silaw sa adlaw sa mayo"
+            },
+            {
+              "front": "We will travel across the country in June",
+              "back": "kita mobiyahe sa tibuok nasud sa Hunyo"
+            },
+            {
+              "front": "They will celebrate the new year in December",
+              "back": "magselebrar sila sa bag-ong tuig sa december"
+            },
+            {
+              "front": "We will enjoy cool nights in September",
+              "back": "matagamtaman nato ang bugnaw nga mga gabii sa september"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

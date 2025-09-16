@@ -1,0 +1,1594 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Places",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Store",
+              "back": "tindahan"
+            },
+            {
+              "front": "Station",
+              "back": "estasyon"
+            },
+            {
+              "front": "Port",
+              "back": "pantalan"
+            },
+            {
+              "front": "Airport",
+              "back": "airport"
+            },
+            {
+              "front": "Subway",
+              "back": "subway"
+            },
+            {
+              "front": "Park",
+              "back": "parke"
+            },
+            {
+              "front": "Museum",
+              "back": "museyo"
+            },
+            {
+              "front": "Mall",
+              "back": "mall"
+            },
+            {
+              "front": "Beach",
+              "back": "baybayon"
+            },
+            {
+              "front": "Library",
+              "back": "librarya"
+            },
+            {
+              "front": "Hospital",
+              "back": "ospital"
+            },
+            {
+              "front": "Hotel",
+              "back": "hotel"
+            },
+            {
+              "front": "Restaurant",
+              "back": "restawran"
+            },
+            {
+              "front": "Cafe",
+              "back": "cafe"
+            },
+            {
+              "front": "School",
+              "back": "eskwelahan"
+            },
+            {
+              "front": "Office",
+              "back": "opisina"
+            },
+            {
+              "front": "Gym",
+              "back": "gym"
+            },
+            {
+              "front": "Church",
+              "back": "simbahan"
+            },
+            {
+              "front": "Theater",
+              "back": "teatro"
+            },
+            {
+              "front": "Bakery",
+              "back": "panaderya"
+            },
+            {
+              "front": "Factory",
+              "back": "pabrika"
+            },
+            {
+              "front": "Market",
+              "back": "merkado"
+            },
+            {
+              "front": "Zoo",
+              "back": "nindot"
+            },
+            {
+              "front": "Bar",
+              "back": "bar"
+            },
+            {
+              "front": "Clinic",
+              "back": "klinika"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Busy store",
+              "back": "busy nga tindahan"
+            },
+            {
+              "front": "Train station",
+              "back": "estasyon sa tren"
+            },
+            {
+              "front": "Crowded port",
+              "back": "naghuot nga pantalan"
+            },
+            {
+              "front": "Large airport",
+              "back": "dako nga airport"
+            },
+            {
+              "front": "Underground subway",
+              "back": "underground nga subway"
+            },
+            {
+              "front": "Green park",
+              "back": "berde nga parke"
+            },
+            {
+              "front": "Famous museum",
+              "back": "bantog nga museyo"
+            },
+            {
+              "front": "Big mall",
+              "back": "dako nga mall"
+            },
+            {
+              "front": "Sandy beach",
+              "back": "balason nga baybayon"
+            },
+            {
+              "front": "Quiet library",
+              "back": "hilom nga librarya"
+            },
+            {
+              "front": "Busy hospital",
+              "back": "busy nga ospital"
+            },
+            {
+              "front": "Luxury hotel",
+              "back": "maluho nga hotel"
+            },
+            {
+              "front": "Cozy cafe",
+              "back": "komportable nga cafe"
+            },
+            {
+              "front": "Large restaurant",
+              "back": "dako nga restawran"
+            },
+            {
+              "front": "Busy school",
+              "back": "busy sa eskwelahan"
+            },
+            {
+              "front": "Small office",
+              "back": "gamay nga opisina"
+            },
+            {
+              "front": "Modern gym",
+              "back": "modernong gym"
+            },
+            {
+              "front": "Big church",
+              "back": "dako nga simbahan"
+            },
+            {
+              "front": "Old theater",
+              "back": "daan nga teatro"
+            },
+            {
+              "front": "Popular bakery",
+              "back": "sikat nga panaderya"
+            },
+            {
+              "front": "Large factory",
+              "back": "dako nga pabrika"
+            },
+            {
+              "front": "Outdoor market",
+              "back": "merkado sa gawas"
+            },
+            {
+              "front": "Big zoo",
+              "back": "dako nga zoo"
+            },
+            {
+              "front": "Crowded bar",
+              "back": "puno nga bar"
+            },
+            {
+              "front": "Local clinic",
+              "back": "lokal nga klinika"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Busy store downtown",
+              "back": "busy nga tindahan sa downtown"
+            },
+            {
+              "front": "Train station nearby",
+              "back": "estasyon sa tren sa duol"
+            },
+            {
+              "front": "Crowded port today",
+              "back": "naghuot nga pantalan karon"
+            },
+            {
+              "front": "Large airport terminal",
+              "back": "dako nga airport terminal"
+            },
+            {
+              "front": "Underground subway station",
+              "back": "estasyon sa subway sa ilawom sa yuta"
+            },
+            {
+              "front": "Green park entrance",
+              "back": "entrada sa green nga parke"
+            },
+            {
+              "front": "Famous museum exhibits",
+              "back": "bantog nga mga exhibit sa museyo"
+            },
+            {
+              "front": "Big mall opening",
+              "back": "dako nga opening sa mall"
+            },
+            {
+              "front": "Sandy beach view",
+              "back": "talan-awon sa balason nga baybayon"
+            },
+            {
+              "front": "Quiet library corner",
+              "back": "hilum nga suok sa librarya"
+            },
+            {
+              "front": "Busy hospital staff",
+              "back": "busy nga staff sa hospital"
+            },
+            {
+              "front": "Luxury hotel lobby",
+              "back": "maluho nga lobby sa hotel"
+            },
+            {
+              "front": "Cozy cafe atmosphere",
+              "back": "komportable nga atmospera sa cafe"
+            },
+            {
+              "front": "Large restaurant menu",
+              "back": "dako nga restaurant menu"
+            },
+            {
+              "front": "Busy school day",
+              "back": "busy nga adlaw sa eskwelahan"
+            },
+            {
+              "front": "Small office space",
+              "back": "gamay nga office space"
+            },
+            {
+              "front": "Modern gym facilities",
+              "back": "modernong mga pasilidad sa gym"
+            },
+            {
+              "front": "Big church bell",
+              "back": "dako nga kampana sa simbahan"
+            },
+            {
+              "front": "Old theater building",
+              "back": "daan nga bilding sa teatro"
+            },
+            {
+              "front": "Popular bakery shop",
+              "back": "sikat nga bakery shop"
+            },
+            {
+              "front": "Large factory workers",
+              "back": "dagkong mga trabahante sa pabrika"
+            },
+            {
+              "front": "Outdoor market stalls",
+              "back": "mga kuwadra sa gawas sa merkado"
+            },
+            {
+              "front": "Big zoo entrance",
+              "back": "dako nga entrada sa zoo"
+            },
+            {
+              "front": "Crowded bar tonight",
+              "back": "crowded bar karong gabii"
+            },
+            {
+              "front": "Local clinic service",
+              "back": "serbisyo sa lokal nga klinika"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My sandy beach view",
+              "back": "akong sandy beach view"
+            },
+            {
+              "front": "His bar is crowded",
+              "back": "naghuot ang iyang bar"
+            },
+            {
+              "front": "Her luxury hotel room",
+              "back": "iyang maluho nga kwarto sa hotel"
+            },
+            {
+              "front": "The crowded sandy beach",
+              "back": "ang naghuot nga balason nga baybayon"
+            },
+            {
+              "front": "Their busy store downtown",
+              "back": "ang ilang busy nga tindahan sa downtown"
+            },
+            {
+              "front": "Our train station nearby",
+              "back": "among estasyon sa tren sa duol"
+            },
+            {
+              "front": "Their quiet library corner",
+              "back": "ilang hilum nga library corner"
+            },
+            {
+              "front": "The famous museum exhibits",
+              "back": "ang bantog nga mga exhibit sa museyo"
+            },
+            {
+              "front": "Their large airport terminal",
+              "back": "dako nilang airport terminal"
+            },
+            {
+              "front": "My green park entrance",
+              "back": "akong green nga entrada sa parke"
+            },
+            {
+              "front": "His modern gym facilities",
+              "back": "iyang modernong mga pasilidad sa gym"
+            },
+            {
+              "front": "Her cozy cafe atmosphere",
+              "back": "iyang komportable nga atmospera sa cafe"
+            },
+            {
+              "front": "The busy hospital staff",
+              "back": "ang busy nga mga kawani sa ospital"
+            },
+            {
+              "front": "Their old theater building",
+              "back": "ilang karaang teatro nga bilding"
+            },
+            {
+              "front": "Our big zoo entrance",
+              "back": "among dakong entrada sa zoo"
+            },
+            {
+              "front": "The large restaurant menu",
+              "back": "ang dako nga menu sa restawran"
+            },
+            {
+              "front": "Her popular bakery shop",
+              "back": "iyang sikat nga bakery shop"
+            },
+            {
+              "front": "The outdoor market stalls",
+              "back": "ang mga kuwadra sa gawas sa merkado"
+            },
+            {
+              "front": "His big church bell",
+              "back": "iyang dakong kampana sa simbahan"
+            },
+            {
+              "front": "The crowded port today",
+              "back": "ang naghuot nga pantalan karon"
+            },
+            {
+              "front": "Their small office space",
+              "back": "ilang gamay nga opisina"
+            },
+            {
+              "front": "My large factory workers",
+              "back": "akong dagkong mga trabahante sa pabrika"
+            },
+            {
+              "front": "Her crowded bar tonight",
+              "back": "ang iyang naghuot nga bar karong gabii"
+            },
+            {
+              "front": "Their local clinic service",
+              "back": "ilang lokal nga serbisyo sa klinika"
+            },
+            {
+              "front": "Our busy school day",
+              "back": "among busy nga school day"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am at the beach",
+              "back": "naa ko sa baybayon"
+            },
+            {
+              "front": "He is at the bar",
+              "back": "naa siya sa bar"
+            },
+            {
+              "front": "Everyone loves the small office",
+              "back": "ang tanan nahigugma sa gamay nga opisina"
+            },
+            {
+              "front": "I drink in the bar",
+              "back": "nag inom ko sa bar"
+            },
+            {
+              "front": "She works in the hospital",
+              "back": "nagtrabaho siya sa ospital"
+            },
+            {
+              "front": "We meet at the library",
+              "back": "nagkita mi sa library"
+            },
+            {
+              "front": "They shop at the mall",
+              "back": "mamalit sila sa mall"
+            },
+            {
+              "front": "He eats at the cafe",
+              "back": "nangaon siya sa cafe"
+            },
+            {
+              "front": "I visit the busy park",
+              "back": "mibisita ko sa busy nga parke"
+            },
+            {
+              "front": "She studies at the school",
+              "back": "nagtuon siya sa eskwelahan"
+            },
+            {
+              "front": "We walk through the museum",
+              "back": "naglakaw mi sa museyo"
+            },
+            {
+              "front": "He trains at the gym",
+              "back": "nagtraining siya sa gym"
+            },
+            {
+              "front": "She stays in the hotel",
+              "back": "nagpabilin siya sa hotel"
+            },
+            {
+              "front": "They dine at the restaurant",
+              "back": "nangaon sila sa restaurant"
+            },
+            {
+              "front": "I run around the track",
+              "back": "nagdagan ko libot sa track"
+            },
+            {
+              "front": "We go to the zoo",
+              "back": "adto mi sa zoo"
+            },
+            {
+              "front": "He arrives at the airport",
+              "back": "pag-abot niya sa airport"
+            },
+            {
+              "front": "She reads in the library",
+              "back": "nagbasa siya sa library"
+            },
+            {
+              "front": "We relax on the beach",
+              "back": "relax mi sa beach"
+            },
+            {
+              "front": "He waits at the station",
+              "back": "naghulat siya sa estasyon"
+            },
+            {
+              "front": "They park at the port",
+              "back": "nag park sila sa pantalan"
+            },
+            {
+              "front": "I work at the office",
+              "back": "nagtrabaho ko sa opisina"
+            },
+            {
+              "front": "She exercises at the gym",
+              "back": "nag exercise siya sa gym"
+            },
+            {
+              "front": "We travel by the subway",
+              "back": "nagbiyahe mi sa subway"
+            },
+            {
+              "front": "Everyone shops at the market",
+              "back": "ang tanan mamalit sa merkado"
+            },
+            {
+              "front": "We are at the gym",
+              "back": "naa mi sa gym"
+            },
+            {
+              "front": "I take the subway home",
+              "back": "mosakay ko sa subway pauli"
+            },
+            {
+              "front": "Ships leave the port today",
+              "back": "ang mga barko mobiya sa pantalan karong adlawa"
+            },
+            {
+              "front": "He studies in the library",
+              "back": "nagtuon siya sa library"
+            },
+            {
+              "front": "We walk through the park",
+              "back": "naglakaw mi sa parke"
+            },
+            {
+              "front": "She waits at the station",
+              "back": "naghulat siya sa estasyon"
+            },
+            {
+              "front": "They eat at the restaurant",
+              "back": "nangaon sila sa restaurant"
+            },
+            {
+              "front": "I visit the museum often",
+              "back": "Kanunay kong mobisita sa museyo"
+            },
+            {
+              "front": "Dogs play in the park",
+              "back": "ang mga iro nagdula sa parke"
+            },
+            {
+              "front": "She works in the office",
+              "back": "nagtrabaho siya sa opisina"
+            },
+            {
+              "front": "We live near the mall",
+              "back": "duol mi sa mall"
+            },
+            {
+              "front": "He exercises at the gym",
+              "back": "nag exercise siya sa gym"
+            },
+            {
+              "front": "Planes land at the airport",
+              "back": "mitugpa ang mga eroplano sa airport"
+            },
+            {
+              "front": "She shops at the market",
+              "back": "mamalit siya sa merkado"
+            },
+            {
+              "front": "I eat lunch at school",
+              "back": "maniudto ko sa school"
+            },
+            {
+              "front": "They meet friends at cafe",
+              "back": "nakigkita sila sa mga higala sa cafe"
+            },
+            {
+              "front": "We rest at the beach",
+              "back": "mamahuway mi sa baybayon"
+            },
+            {
+              "front": "She checks into the hotel",
+              "back": "nag check in siya sa hotel"
+            },
+            {
+              "front": "He works out at gym",
+              "back": "nag work out siya sa gym"
+            },
+            {
+              "front": "We drive to the zoo",
+              "back": "nag drive mi sa zoo"
+            },
+            {
+              "front": "They arrive at the airport",
+              "back": "pag-abot nila sa airport"
+            },
+            {
+              "front": "I read books at library",
+              "back": "nagbasa kog libro sa library"
+            },
+            {
+              "front": "She buys bread at bakery",
+              "back": "nagpalit siyag pan sa panaderya"
+            },
+            {
+              "front": "We wait inside the theater",
+              "back": "maghulat mi sa sulod sa sinehan"
+            },
+            {
+              "front": "He leaves for work now",
+              "back": "gikan siya sa trabaho karon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am at the gym now",
+              "back": "naa ko sa gym karon"
+            },
+            {
+              "front": "He is at the bar drinking",
+              "back": "naa siya sa bar nag inom"
+            },
+            {
+              "front": "Dogs play on the park grass",
+              "back": "ang mga iro nagdula sa balili sa parke"
+            },
+            {
+              "front": "Planes land at the busy airport",
+              "back": "mitugpa ang mga eroplano sa busy nga airport"
+            },
+            {
+              "front": "She works at the hospital today",
+              "back": "nagtrabaho siya sa ospital karon"
+            },
+            {
+              "front": "We meet at the library often",
+              "back": "Kanunay mi magkita sa library"
+            },
+            {
+              "front": "They shop at the mall",
+              "back": "mamalit sila sa mall"
+            },
+            {
+              "front": "He eats breakfast at the cafe",
+              "back": "namahaw siya sa cafe"
+            },
+            {
+              "front": "I visit the park frequently",
+              "back": "Kanunay kong mobisita sa parke"
+            },
+            {
+              "front": "She studies at the public school",
+              "back": "nag skwela siya sa public school"
+            },
+            {
+              "front": "We walk around the museum exhibits",
+              "back": "naglibot kami sa mga exhibit sa museyo"
+            },
+            {
+              "front": "He exercises at the gym regularly",
+              "back": "nag-ehersisyo siya kanunay sa gym"
+            },
+            {
+              "front": "She stays at the luxury hotel",
+              "back": "nag stay siya sa luxury hotel"
+            },
+            {
+              "front": "They dine out at the restaurant",
+              "back": "nangaon sila sa gawas sa restawran"
+            },
+            {
+              "front": "I run laps at the track",
+              "back": "nagdagan ko sa track"
+            },
+            {
+              "front": "We visit the animal zoo weekly",
+              "back": "mibisita mi sa animal zoo kada semana"
+            },
+            {
+              "front": "He arrives early at the airport",
+              "back": "sayo siya moabot sa airport"
+            },
+            {
+              "front": "She reads books at the library",
+              "back": "nagbasa siyag libro sa library"
+            },
+            {
+              "front": "We relax daily at the beach",
+              "back": "mag relax mi kada adlaw sa beach"
+            },
+            {
+              "front": "He waits patiently at the station",
+              "back": "mapailubon siyang naghulat sa estasyon"
+            },
+            {
+              "front": "They park cars at the port",
+              "back": "nagpark sila ug mga sakyanan sa pantalan"
+            },
+            {
+              "front": "I work daily at the office",
+              "back": "nagtrabaho ko kada adlaw sa opisina"
+            },
+            {
+              "front": "She exercises every day at gym",
+              "back": "nag exercise siya kada adlaw sa gym"
+            },
+            {
+              "front": "We commute by the subway often",
+              "back": "Kanunay kami mag-commute sa subway"
+            },
+            {
+              "front": "Everyone shops weekly at the market",
+              "back": "ang tanan mamalit kada semana sa merkado"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Visited the store",
+              "back": "mibisita sa tindahan"
+            },
+            {
+              "front": "Left the station",
+              "back": "mibiya sa estasyon"
+            },
+            {
+              "front": "Arrived at port",
+              "back": "niabot sa pantalan"
+            },
+            {
+              "front": "Landed at airport",
+              "back": "nitugpa sa airport"
+            },
+            {
+              "front": "Used the subway",
+              "back": "gigamit ang subway"
+            },
+            {
+              "front": "Enjoyed the park",
+              "back": "nalingaw sa parke"
+            },
+            {
+              "front": "Entered the museum",
+              "back": "misulod sa museyo"
+            },
+            {
+              "front": "Visited the mall",
+              "back": "mibisita sa mall"
+            },
+            {
+              "front": "Swam at beach",
+              "back": "naligo sa baybayon"
+            },
+            {
+              "front": "Read in library",
+              "back": "basahon sa library"
+            },
+            {
+              "front": "Entered the hospital",
+              "back": "nisulod sa ospital"
+            },
+            {
+              "front": "Checked into hotel",
+              "back": "nag check in sa hotel"
+            },
+            {
+              "front": "Dined at restaurant",
+              "back": "nanihapon sa restaurant"
+            },
+            {
+              "front": "Visited the cafe",
+              "back": "mibisita sa cafe"
+            },
+            {
+              "front": "Attended the school",
+              "back": "mitambong sa eskwelahan"
+            },
+            {
+              "front": "Worked at office",
+              "back": "nagtrabaho sa opisina"
+            },
+            {
+              "front": "Exercised at gym",
+              "back": "nag exercise sa gym"
+            },
+            {
+              "front": "Prayed at church",
+              "back": "nag-ampo sa simbahan"
+            },
+            {
+              "front": "Watched the theater",
+              "back": "nagtan-aw sa teatro"
+            },
+            {
+              "front": "Bought from bakery",
+              "back": "gipalit sa bakery"
+            },
+            {
+              "front": "Worked in factory",
+              "back": "nagtrabaho sa pabrika"
+            },
+            {
+              "front": "Shopped at market",
+              "back": "namalit sa merkado"
+            },
+            {
+              "front": "Visited the zoo",
+              "back": "mibisita sa zoo"
+            },
+            {
+              "front": "Entered the bar",
+              "back": "nisulod sa bar"
+            },
+            {
+              "front": "Checked into clinic",
+              "back": "nag check sa clinic"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I visited the store",
+              "back": "mibisita ko sa tindahan"
+            },
+            {
+              "front": "He left the station",
+              "back": "mibiya siya sa estasyon"
+            },
+            {
+              "front": "We arrived at port",
+              "back": "naabot mi sa pantalan"
+            },
+            {
+              "front": "They landed at airport",
+              "back": "nitugpa sila sa airport"
+            },
+            {
+              "front": "I used the subway",
+              "back": "migamit ko sa subway"
+            },
+            {
+              "front": "She enjoyed the park",
+              "back": "nalingaw siya sa parke"
+            },
+            {
+              "front": "We entered the museum",
+              "back": "nisulod mi sa museum"
+            },
+            {
+              "front": "He visited the mall",
+              "back": "mibisita siya sa mall"
+            },
+            {
+              "front": "They swam at beach",
+              "back": "nangaligo sila sa baybayon"
+            },
+            {
+              "front": "I read in library",
+              "back": "nagbasa ko sa library"
+            },
+            {
+              "front": "She entered the hospital",
+              "back": "nisulod siya sa ospital"
+            },
+            {
+              "front": "They checked into hotel",
+              "back": "nag check in sila sa hotel"
+            },
+            {
+              "front": "We dined at restaurant",
+              "back": "nangaon mi sa restaurant"
+            },
+            {
+              "front": "He visited the cafe",
+              "back": "mibisita siya sa cafe"
+            },
+            {
+              "front": "I attended the school",
+              "back": "mitambong ko sa eskwelahan"
+            },
+            {
+              "front": "She worked at office",
+              "back": "nagtrabaho siya sa opisina"
+            },
+            {
+              "front": "We exercised at gym",
+              "back": "nag exercise mi sa gym"
+            },
+            {
+              "front": "He prayed at church",
+              "back": "nag-ampo siya sa simbahan"
+            },
+            {
+              "front": "They watched the theater",
+              "back": "nagtan-aw sila sa teatro"
+            },
+            {
+              "front": "I bought from bakery",
+              "back": "nipalit ko sa bakery"
+            },
+            {
+              "front": "We worked in factory",
+              "back": "nagtrabaho kami sa pabrika"
+            },
+            {
+              "front": "She shopped at market",
+              "back": "namalit siya sa merkado"
+            },
+            {
+              "front": "He visited the zoo",
+              "back": "mibisita siya sa zoo"
+            },
+            {
+              "front": "They entered the bar",
+              "back": "misulod sila sa bar"
+            },
+            {
+              "front": "I checked into clinic",
+              "back": "nag check ko sa clinic"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I worked at the factory",
+              "back": "nagtrabaho ko sa pabrika"
+            },
+            {
+              "front": "She shopped at the store",
+              "back": "namalit siya sa tindahan"
+            },
+            {
+              "front": "We drank at the bar",
+              "back": "nag inom mi sa bar"
+            },
+            {
+              "front": "Everyone arrived at the airport",
+              "back": "nangabot ang tanan sa airport"
+            },
+            {
+              "front": "They stayed at the hotel",
+              "back": "nagpabilin sila sa hotel"
+            },
+            {
+              "front": "He studied at the library",
+              "back": "nagtuon siya sa librarya"
+            },
+            {
+              "front": "We relaxed on the beach",
+              "back": "nagpahuway kami sa baybayon"
+            },
+            {
+              "front": "She dined at the restaurant",
+              "back": "nanion siya sa restawran"
+            },
+            {
+              "front": "He prayed in the church",
+              "back": "nag-ampo siya sa simbahan"
+            },
+            {
+              "front": "We met at the subway",
+              "back": "nagkita mi sa subway"
+            },
+            {
+              "front": "I read in the library",
+              "back": "nagbasa ko sa library"
+            },
+            {
+              "front": "They exercised at the gym",
+              "back": "nag exercise sila sa gym"
+            },
+            {
+              "front": "We walked through the museum",
+              "back": "naglakaw mi sa museyo"
+            },
+            {
+              "front": "He waited at the station",
+              "back": "naghulat siya sa estasyon"
+            },
+            {
+              "front": "I bought bread at bakery",
+              "back": "nipalit kog pan sa bakery"
+            },
+            {
+              "front": "She worked late at office",
+              "back": "late siya nagtrabaho sa opisina"
+            },
+            {
+              "front": "They visited the local zoo",
+              "back": "mibisita sila sa lokal nga zoo"
+            },
+            {
+              "front": "We drove to the market",
+              "back": "nagdrayb mi paingon sa merkado"
+            },
+            {
+              "front": "He ate lunch at school",
+              "back": "naniudto siya sa eskwelahan"
+            },
+            {
+              "front": "She watched a movie theater",
+              "back": "nagtan-aw siya ug sinehan"
+            },
+            {
+              "front": "We shopped at the mall",
+              "back": "namalit mi sa mall"
+            },
+            {
+              "front": "I checked into the clinic",
+              "back": "nag check ko sa clinic"
+            },
+            {
+              "front": "He waited at the port",
+              "back": "naghulat siya sa pantalan"
+            },
+            {
+              "front": "They parked cars at airport",
+              "back": "nagpark silag mga sakyanan sa airport"
+            },
+            {
+              "front": "We worked hard at factory",
+              "back": "nagtrabaho kami pag-ayo sa pabrika"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Everyone arrived at the port today",
+              "back": "tanan naabot sa pantalan karon"
+            },
+            {
+              "front": "He worked hard at the factory",
+              "back": "nagtrabaho siya pag-ayo sa pabrika"
+            },
+            {
+              "front": "I walked to the gas station",
+              "back": "Naglakaw ko sa gas station"
+            },
+            {
+              "front": "She waited patiently at the airport",
+              "back": "mapailubon siyang naghulat sa airport"
+            },
+            {
+              "front": "We shopped at the busy mall",
+              "back": "namalit mi sa busy nga mall"
+            },
+            {
+              "front": "They relaxed on the sandy beach",
+              "back": "nagpahayahay sila sa balason nga baybayon"
+            },
+            {
+              "front": "He prayed quietly in the church",
+              "back": "nag-ampo siya sa hilom sa simbahan"
+            },
+            {
+              "front": "We dined together at the restaurant",
+              "back": "nagdungan mig panihapon sa restaurant"
+            },
+            {
+              "front": "She studied late at the library",
+              "back": "late siya nagtuon sa library"
+            },
+            {
+              "front": "I bought fresh bread from bakery",
+              "back": "nipalit kog presko nga pan sa panaderya"
+            },
+            {
+              "front": "They exercised daily at the gym",
+              "back": "nag-ehersisyo sila kada adlaw sa gym"
+            },
+            {
+              "front": "We met yesterday at the cafe",
+              "back": "nagkita mi gahapon sa cafe"
+            },
+            {
+              "front": "He parked the car at station",
+              "back": "giparking niya ang sakyanan sa station"
+            },
+            {
+              "front": "She checked into the luxury hotel",
+              "back": "nag check in siya sa luxury hotel"
+            },
+            {
+              "front": "I visited the local zoo yesterday",
+              "back": "mibisita ko sa lokal nga zoo gahapon"
+            },
+            {
+              "front": "We waited for hours at hospital",
+              "back": "Naghulat mi ug mga oras sa ospital"
+            },
+            {
+              "front": "They traveled across town by subway",
+              "back": "mibiyahe sila tabok sa lungsod pinaagi sa subway"
+            },
+            {
+              "front": "He walked home from the park",
+              "back": "milakaw siya pauli gikan sa parke"
+            },
+            {
+              "front": "She attended school for the day",
+              "back": "nag-eskwela siya nianang adlawa"
+            },
+            {
+              "front": "We watched a movie at theater",
+              "back": "nanan-aw mi ug sine sa sinehan"
+            },
+            {
+              "front": "I left work early from office",
+              "back": "sayo ko nibiya sa trabaho gikan sa opisina"
+            },
+            {
+              "front": "They toured the museum with friends",
+              "back": "misuroy sila sa museyo uban sa mga higala"
+            },
+            {
+              "front": "We worked overtime at the factory",
+              "back": "nag-obertaym kami sa pabrika"
+            },
+            {
+              "front": "He drove quickly to the clinic",
+              "back": "dali siyang nagmaneho paingon sa clinic"
+            },
+            {
+              "front": "I bought flowers at the market",
+              "back": "mipalit kog mga bulak sa merkado"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Airport will open",
+              "back": "ablihan ang airport"
+            },
+            {
+              "front": "Market will display",
+              "back": "merkado ipakita"
+            },
+            {
+              "front": "Office will close",
+              "back": "magsira ang opisina"
+            },
+            {
+              "front": "Will visit zoo",
+              "back": "mobisita sa zoo"
+            },
+            {
+              "front": "Store will open",
+              "back": "magbukas ang tindahan"
+            },
+            {
+              "front": "Station will close",
+              "back": "magsira ang istasyon"
+            },
+            {
+              "front": "Park will open",
+              "back": "magbukas ang parke"
+            },
+            {
+              "front": "Mall will expand",
+              "back": "molapad ang mall"
+            },
+            {
+              "front": "Cafe will serve",
+              "back": "cafe magsilbi"
+            },
+            {
+              "front": "Beach will reopen",
+              "back": "ang baybayon mabuksan pag-usab"
+            },
+            {
+              "front": "Museum will exhibit",
+              "back": "mag-eksibit ang museyo"
+            },
+            {
+              "front": "Gym will renovate",
+              "back": "mag-renovate ang gym"
+            },
+            {
+              "front": "Church will host",
+              "back": "simbahan ang mag-host"
+            },
+            {
+              "front": "Hotel will welcome",
+              "back": "madawat ang hotel"
+            },
+            {
+              "front": "Subway will operate",
+              "back": "ang subway molihok"
+            },
+            {
+              "front": "Bar will reopen",
+              "back": "mag-abli pag-usab ang bar"
+            },
+            {
+              "front": "Port will expand",
+              "back": "molapad ang pantalan"
+            },
+            {
+              "front": "Zoo will improve",
+              "back": "molambo ang zoo"
+            },
+            {
+              "front": "Library will close",
+              "back": "magsira ang library"
+            },
+            {
+              "front": "Clinic will help",
+              "back": "makatabang ang klinika"
+            },
+            {
+              "front": "Factory will produce",
+              "back": "magprodyus ang pabrika"
+            },
+            {
+              "front": "Theater will play",
+              "back": "ang teatro magdula"
+            },
+            {
+              "front": "Hospital will open",
+              "back": "pagabuksan ang ospital"
+            },
+            {
+              "front": "Restaurant will serve",
+              "back": "restawran magsilbi"
+            },
+            {
+              "front": "School will teach",
+              "back": "ang eskwelahan magtudlo"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Hotel will welcome guests",
+              "back": "ang hotel mag-abiabi sa mga bisita"
+            },
+            {
+              "front": "Bar will reopen soon",
+              "back": "magbukas na usab ang bar sa dili madugay"
+            },
+            {
+              "front": "Market will display goods",
+              "back": "merkado magpakita sa mga butang"
+            },
+            {
+              "front": "Airport will open tomorrow",
+              "back": "abli ang airport ugma"
+            },
+            {
+              "front": "Office will close early",
+              "back": "sayo nga magsira ang opisina"
+            },
+            {
+              "front": "We will visit zoo",
+              "back": "mubisita mi sa zoo"
+            },
+            {
+              "front": "Store will open soon",
+              "back": "mabuksan na ang tindahan sa dili madugay"
+            },
+            {
+              "front": "Station will close late",
+              "back": "ulahi na nga magsira ang istasyon"
+            },
+            {
+              "front": "Park will host events",
+              "back": "park mag-host sa mga panghitabo"
+            },
+            {
+              "front": "Mall will expand shops",
+              "back": "ang mall magpalapad sa mga tindahan"
+            },
+            {
+              "front": "Cafe will serve breakfast",
+              "back": "cafe magsilbi ug pamahaw"
+            },
+            {
+              "front": "Beach will reopen soon",
+              "back": "ang baybayon mabuksan usab sa dili madugay"
+            },
+            {
+              "front": "Museum will exhibit art",
+              "back": "ang museyo magpasundayag ug arte"
+            },
+            {
+              "front": "Gym will renovate equipment",
+              "back": "mag-ayo ang gym sa mga kagamitan"
+            },
+            {
+              "front": "Church will host service",
+              "back": "ang simbahan mag-host sa serbisyo"
+            },
+            {
+              "front": "Subway will operate daily",
+              "back": "Ang subway maglihok adlaw-adlaw"
+            },
+            {
+              "front": "Port will expand capacity",
+              "back": "ang pantalan mopalapad sa kapasidad"
+            },
+            {
+              "front": "Zoo will improve exhibits",
+              "back": "Ang zoo magpauswag sa mga exhibit"
+            },
+            {
+              "front": "Library will close soon",
+              "back": "ang library hapit na mahuman"
+            },
+            {
+              "front": "Clinic will help patients",
+              "back": "clinic makatabang sa mga pasyente"
+            },
+            {
+              "front": "Factory will produce goods",
+              "back": "ang pabrika magpatunghag mga butang"
+            },
+            {
+              "front": "Theater will play movies",
+              "back": "ang teatro magdula og mga salida"
+            },
+            {
+              "front": "Hospital will open soon",
+              "back": "mabuksan na dayon ang ospital"
+            },
+            {
+              "front": "Restaurant will serve dinner",
+              "back": "restaurant magsilbi ug panihapon"
+            },
+            {
+              "front": "School will teach classes",
+              "back": "ang eskwelahan magtudlo sa mga klase"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will build a bar",
+              "back": "magtukod ko ug bar"
+            },
+            {
+              "front": "He will close the office",
+              "back": "sirad-an niya ang opisina"
+            },
+            {
+              "front": "Everyone will arrive at airport",
+              "back": "muabot ang tanan sa airport"
+            },
+            {
+              "front": "I will renovate the gym",
+              "back": "i-renovate nako ang gym"
+            },
+            {
+              "front": "Pastor will host church service",
+              "back": "ang pastor mag-host sa serbisyo sa simbahan"
+            },
+            {
+              "front": "She will reopen the store",
+              "back": "ablihan niya ang tindahan"
+            },
+            {
+              "front": "We will visit the zoo",
+              "back": "mubisita mi sa zoo"
+            },
+            {
+              "front": "They will expand the market",
+              "back": "palapdan nila ang merkado"
+            },
+            {
+              "front": "He will visit the museum",
+              "back": "mobisita siya sa museyo"
+            },
+            {
+              "front": "I will design a hotel",
+              "back": "mag design ko ug hotel"
+            },
+            {
+              "front": "She will organize the clinic",
+              "back": "siya ang mag-organisa sa klinika"
+            },
+            {
+              "front": "We will shop at mall",
+              "back": "mamalit mi sa mall"
+            },
+            {
+              "front": "They will study at school",
+              "back": "magtuon sila sa eskwelahan"
+            },
+            {
+              "front": "He will manage the factory",
+              "back": "siya ang magdumala sa pabrika"
+            },
+            {
+              "front": "I will book a flight",
+              "back": "mag book ko ug flight"
+            },
+            {
+              "front": "They will attend theater performance",
+              "back": "motambong sila sa pasundayag sa teatro"
+            },
+            {
+              "front": "We will walk in park",
+              "back": "maglakaw mi sa park"
+            },
+            {
+              "front": "She will serve breakfast cafe",
+              "back": "mag-serve siya ug breakfast cafe"
+            },
+            {
+              "front": "I will drive to hospital",
+              "back": "mag drive ko sa hospital"
+            },
+            {
+              "front": "They will clean the restaurant",
+              "back": "manglimpyo sila sa restaurant"
+            },
+            {
+              "front": "He will finish school soon",
+              "back": "makahuman na siya ug skwela"
+            },
+            {
+              "front": "We will work at office",
+              "back": "magtrabaho mi sa opisina"
+            },
+            {
+              "front": "She will close the bakery",
+              "back": "ipasira niya ang bakery"
+            },
+            {
+              "front": "I will visit the library",
+              "back": "mubisita ko sa library"
+            },
+            {
+              "front": "They will prepare the airport",
+              "back": "andamon nila ang airport"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will build a bar",
+              "back": "magtukod ko ug bar"
+            },
+            {
+              "front": "He will close the office",
+              "back": "sirad-an niya ang opisina"
+            },
+            {
+              "front": "Everyone will arrive at airport",
+              "back": "muabot ang tanan sa airport"
+            },
+            {
+              "front": "I will renovate the gym",
+              "back": "i-renovate nako ang gym"
+            },
+            {
+              "front": "Pastor will host church service",
+              "back": "ang pastor mag-host sa serbisyo sa simbahan"
+            },
+            {
+              "front": "She will reopen the store",
+              "back": "ablihan niya ang tindahan"
+            },
+            {
+              "front": "We will visit the zoo",
+              "back": "mubisita mi sa zoo"
+            },
+            {
+              "front": "They will expand the market",
+              "back": "palapdan nila ang merkado"
+            },
+            {
+              "front": "He will visit the museum",
+              "back": "mobisita siya sa museyo"
+            },
+            {
+              "front": "I will design a hotel",
+              "back": "mag design ko ug hotel"
+            },
+            {
+              "front": "She will organize the clinic",
+              "back": "siya ang mag-organisa sa klinika"
+            },
+            {
+              "front": "We will shop at mall",
+              "back": "mamalit mi sa mall"
+            },
+            {
+              "front": "They will study at school",
+              "back": "magtuon sila sa eskwelahan"
+            },
+            {
+              "front": "He will manage the factory",
+              "back": "siya ang magdumala sa pabrika"
+            },
+            {
+              "front": "I will book a flight",
+              "back": "magpabook ko ug flight"
+            },
+            {
+              "front": "They will attend theater performance",
+              "back": "motambong sila sa pasundayag sa teatro"
+            },
+            {
+              "front": "We will walk in park",
+              "back": "maglakaw mi sa park"
+            },
+            {
+              "front": "She will serve breakfast cafe",
+              "back": "mag-serve siya ug breakfast cafe"
+            },
+            {
+              "front": "I will drive to hospital",
+              "back": "mag drive ko sa hospital"
+            },
+            {
+              "front": "They will clean the restaurant",
+              "back": "manglimpyo sila sa restaurant"
+            },
+            {
+              "front": "He will finish school soon",
+              "back": "makahuman na siya ug skwela"
+            },
+            {
+              "front": "We will work at office",
+              "back": "magtrabaho mi sa opisina"
+            },
+            {
+              "front": "She will close the bakery",
+              "back": "ipasira niya ang bakery"
+            },
+            {
+              "front": "I will visit the library",
+              "back": "mubisita ko sa library"
+            },
+            {
+              "front": "They will prepare the airport",
+              "back": "andamon nila ang airport"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

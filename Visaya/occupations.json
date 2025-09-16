@@ -1,0 +1,1388 @@
+{
+  "language": "Visaya",
+  "flashcards": [
+    {
+      "topic": "Occupations",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            {
+              "front": "Doctor",
+              "back": "doktor"
+            },
+            {
+              "front": "Teacher",
+              "back": "magtutudlo"
+            },
+            {
+              "front": "Engineer",
+              "back": "enhinyero"
+            },
+            {
+              "front": "Nurse",
+              "back": "nars"
+            },
+            {
+              "front": "Farmer",
+              "back": "mag-uuma"
+            },
+            {
+              "front": "Chef",
+              "back": "chef"
+            },
+            {
+              "front": "Police officer",
+              "back": "pulis"
+            },
+            {
+              "front": "Firefighter",
+              "back": "bombero"
+            },
+            {
+              "front": "Artist",
+              "back": "artista"
+            },
+            {
+              "front": "Musician",
+              "back": "musikero"
+            },
+            {
+              "front": "Lawyer",
+              "back": "abogado"
+            },
+            {
+              "front": "Scientist",
+              "back": "siyentista"
+            },
+            {
+              "front": "Carpenter",
+              "back": "panday"
+            },
+            {
+              "front": "Plumber",
+              "back": "tubero"
+            },
+            {
+              "front": "Electrician",
+              "back": "electrician"
+            },
+            {
+              "front": "Pilot",
+              "back": "piloto"
+            },
+            {
+              "front": "Mechanic",
+              "back": "mekaniko"
+            },
+            {
+              "front": "Driver",
+              "back": "drayber"
+            },
+            {
+              "front": "Photographer",
+              "back": "photographer"
+            },
+            {
+              "front": "Journalist",
+              "back": "peryodista"
+            },
+            {
+              "front": "Dentist",
+              "back": "dentista"
+            },
+            {
+              "front": "Pharmacist",
+              "back": "pharmacist"
+            },
+            {
+              "front": "Veterinarian",
+              "back": "beterinaryo"
+            },
+            {
+              "front": "Accountant",
+              "back": "accountant"
+            },
+            {
+              "front": "Architect",
+              "back": "arkitekto"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            {
+              "front": "Good doctor",
+              "back": "maayo nga doktor"
+            },
+            {
+              "front": "Nice teacher",
+              "back": "nindot nga magtutudlo"
+            },
+            {
+              "front": "Smart engineer",
+              "back": "maalamon nga inhenyero"
+            },
+            {
+              "front": "Gentle nurse",
+              "back": "malumo nga nars"
+            },
+            {
+              "front": "Strong farmer",
+              "back": "lig-on nga mag-uuma"
+            },
+            {
+              "front": "Skilled chef",
+              "back": "hanas nga chef"
+            },
+            {
+              "front": "Brave police officer",
+              "back": "isog nga pulis"
+            },
+            {
+              "front": "Heroic firefighter",
+              "back": "bayanihong bombero"
+            },
+            {
+              "front": "Creative artist",
+              "back": "mamugnaon nga artista"
+            },
+            {
+              "front": "Talented musician",
+              "back": "talento nga musikero"
+            },
+            {
+              "front": "Clever lawyer",
+              "back": "maalamon nga abogado"
+            },
+            {
+              "front": "Brilliant scientist",
+              "back": "hayag nga siyentista"
+            },
+            {
+              "front": "Hardworking carpenter",
+              "back": "kugihan nga panday"
+            },
+            {
+              "front": "Reliable plumber",
+              "back": "kasaligan nga tubero"
+            },
+            {
+              "front": "Experienced electrician",
+              "back": "eksperyensiyadong electrician"
+            },
+            {
+              "front": "Expert pilot",
+              "back": "eksperto nga piloto"
+            },
+            {
+              "front": "Skilled mechanic",
+              "back": "hanas nga mekaniko"
+            },
+            {
+              "front": "Careful driver",
+              "back": "ingat nga driver"
+            },
+            {
+              "front": "Artistic photographer",
+              "back": "artistic nga photographer"
+            },
+            {
+              "front": "Curious journalist",
+              "back": "kuryuso nga peryodista"
+            },
+            {
+              "front": "Gentle dentist",
+              "back": "malumo nga dentista"
+            },
+            {
+              "front": "Helpful pharmacist",
+              "back": "makatabang nga pharmacist"
+            },
+            {
+              "front": "Caring veterinarian",
+              "back": "nag-atiman nga beterinaryo"
+            },
+            {
+              "front": "Accurate accountant",
+              "back": "tukma nga accountant"
+            },
+            {
+              "front": "Creative architect",
+              "back": "mamugnaon nga arkitekto"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "My clever lawyer",
+              "back": "akong batid nga abogado"
+            },
+            {
+              "front": "Our skilled chef",
+              "back": "among batid nga chef"
+            },
+            {
+              "front": "Strong farmer works",
+              "back": "kusgan nga mag-uuma nagtrabaho"
+            },
+            {
+              "front": "Talented musician plays",
+              "back": "talento nga mga dula sa musikero"
+            },
+            {
+              "front": "Brave doctor heals",
+              "back": "maisog nga doktor nag-ayo"
+            },
+            {
+              "front": "Gentle nurse helps",
+              "back": "malumo nga nars makatabang"
+            },
+            {
+              "front": "Hardworking carpenter builds",
+              "back": "kugihan nga panday nagtukod"
+            },
+            {
+              "front": "Creative artist draws",
+              "back": "mamugnaon nga artist draw"
+            },
+            {
+              "front": "Experienced pilot flies",
+              "back": "eksperyensiyadong piloto nga molupad"
+            },
+            {
+              "front": "Reliable plumber fixes",
+              "back": "kasaligan nga pag-ayo sa tubero"
+            },
+            {
+              "front": "Careful driver drives",
+              "back": "amping pagmaneho sa mga drayber"
+            },
+            {
+              "front": "My expert engineer",
+              "back": "akong eksperto nga engineer"
+            },
+            {
+              "front": "Smart scientist researches",
+              "back": "maalamon nga siyentipiko nga panukiduki"
+            },
+            {
+              "front": "Curious journalist writes",
+              "back": "mausisaon nga tigbalita misulat"
+            },
+            {
+              "front": "Skilled electrician repairs",
+              "back": "hanas nga electrician pag-ayo"
+            },
+            {
+              "front": "Helpful pharmacist advises",
+              "back": "makatabang nga pharmacist nagtambag"
+            },
+            {
+              "front": "Caring veterinarian treats",
+              "back": "pag-atiman sa beterinaryo nga pagtambal"
+            },
+            {
+              "front": "Accurate accountant counts",
+              "back": "tukma nga mga ihap sa accountant"
+            },
+            {
+              "front": "Strong firefighter saves",
+              "back": "kusgan nga bombero nagluwas"
+            },
+            {
+              "front": "Heroic police officer",
+              "back": "bayanihong pulis"
+            },
+            {
+              "front": "Talented photographer captures",
+              "back": "talento nga photographer nga mokuha"
+            },
+            {
+              "front": "My artistic architect",
+              "back": "akong artistic nga arkitekto"
+            },
+            {
+              "front": "Gentle dentist cares",
+              "back": "malumo nga dentista nag-atiman"
+            },
+            {
+              "front": "Creative scientist innovates",
+              "back": "mamugnaong siyentista nagbag-o"
+            },
+            {
+              "front": "Our brilliant teacher",
+              "back": "ang among maayo nga magtutudlo"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The smart school teacher",
+              "back": "ang maalamon nga magtutudlo sa eskwelahan"
+            },
+            {
+              "front": "They are strong firefighters",
+              "back": "kusgan sila nga mga bombero"
+            },
+            {
+              "front": "I am an engineer",
+              "back": "usa ko ka engineer"
+            },
+            {
+              "front": "She is a plumber",
+              "back": "siya usa ka tubero"
+            },
+            {
+              "front": "He is a pilot",
+              "back": "usa siya ka piloto"
+            },
+            {
+              "front": "The reliable family doctor",
+              "back": "ang kasaligan nga doktor sa pamilya"
+            },
+            {
+              "front": "They are skilled musicians",
+              "back": "hanas sila nga mga musikero"
+            },
+            {
+              "front": "I am a mechanic",
+              "back": "usa ko ka mekaniko"
+            },
+            {
+              "front": "She is a lawyer",
+              "back": "abogado siya"
+            },
+            {
+              "front": "He is an architect",
+              "back": "arkitekto siya"
+            },
+            {
+              "front": "The creative graphic artist",
+              "back": "ang mamugnaon nga graphic artist"
+            },
+            {
+              "front": "They are experienced nurses",
+              "back": "sila mga eksperyensiyado nga mga nars"
+            },
+            {
+              "front": "I am a photographer",
+              "back": "ako usa ka photographer"
+            },
+            {
+              "front": "She is a teacher",
+              "back": "siya usa ka magtutudlo"
+            },
+            {
+              "front": "He is a scientist",
+              "back": "siya usa ka siyentista"
+            },
+            {
+              "front": "The skilled construction worker",
+              "back": "ang hanas nga construction worker"
+            },
+            {
+              "front": "They are clever scientists",
+              "back": "mga batid sila nga mga siyentista"
+            },
+            {
+              "front": "I am a driver",
+              "back": "usa ko ka drayber"
+            },
+            {
+              "front": "She is a dentist",
+              "back": "usa siya ka dentista"
+            },
+            {
+              "front": "He is an accountant",
+              "back": "usa siya ka accountant"
+            },
+            {
+              "front": "The hardworking village farmer",
+              "back": "ang kugihan nga mag-uuma sa baryo"
+            },
+            {
+              "front": "They are creative engineers",
+              "back": "sila mga mamugnaon nga mga inhenyero"
+            },
+            {
+              "front": "I am a chef",
+              "back": "Ganahan ko"
+            },
+            {
+              "front": "She is an electrician",
+              "back": "usa siya ka electrician"
+            },
+            {
+              "front": "He is a journalist",
+              "back": "usa siya ka peryodista"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am working as a farmer",
+              "back": "nagtrabaho ko isip mag-uuma"
+            },
+            {
+              "front": "She is a good engineer",
+              "back": "maayo siya nga engineer"
+            },
+            {
+              "front": "Students learn to be lawyers",
+              "back": "ang mga estudyante makakat-on nga mahimong abogado"
+            },
+            {
+              "front": "Dad is the best mechanic",
+              "back": "si papa mao ang labing maayo nga mekaniko"
+            },
+            {
+              "front": "Mom is a skilled lawyer",
+              "back": "si mama usa ka hanas nga abogado"
+            },
+            {
+              "front": "I am becoming a teacher",
+              "back": "nahimo kong magtutudlo"
+            },
+            {
+              "front": "He is training as a pilot",
+              "back": "nagtraining siya isip piloto"
+            },
+            {
+              "front": "She is a talented musician",
+              "back": "siya usa ka talento nga musikero"
+            },
+            {
+              "front": "We are learning about scientists",
+              "back": "nagkat-on kami bahin sa mga siyentista"
+            },
+            {
+              "front": "They study to be doctors",
+              "back": "nagtuon sila aron mahimong doktor"
+            },
+            {
+              "front": "Dad works as an architect",
+              "back": "nagtrabaho si papa isip arkitekto"
+            },
+            {
+              "front": "Mom is helping as a nurse",
+              "back": "nagtabang si mama isip nars"
+            },
+            {
+              "front": "I am driving as a chauffeur",
+              "back": "nagdrayb ko isip tsuper"
+            },
+            {
+              "front": "She is a reliable plumber",
+              "back": "siya usa ka kasaligan nga tubero"
+            },
+            {
+              "front": "He is an excellent photographer",
+              "back": "siya usa ka maayo nga photographer"
+            },
+            {
+              "front": "Students become great electricians",
+              "back": "ang mga estudyante nahimong maayo nga mga elektrisyano"
+            },
+            {
+              "front": "He is a leading scientist",
+              "back": "siya usa ka nanguna nga siyentista"
+            },
+            {
+              "front": "I learn to be journalist",
+              "back": "nakakat-on ko nga mahimong peryodista"
+            },
+            {
+              "front": "She crafts as an artist",
+              "back": "craft siya isip artista"
+            },
+            {
+              "front": "They are helping as firefighters",
+              "back": "nagtabang sila isip bombero"
+            },
+            {
+              "front": "He is teaching in the school",
+              "back": "nagtudlo siya sa eskwelahan"
+            },
+            {
+              "front": "We are working with engineers",
+              "back": "nagtrabaho kami sa mga inhenyero"
+            },
+            {
+              "front": "He is a practicing lawyer",
+              "back": "siya usa ka nagpraktis nga abogado"
+            },
+            {
+              "front": "She is a good carpenter",
+              "back": "maayo siya nga panday"
+            },
+            {
+              "front": "he studies at doctor school",
+              "back": "nagtuon siya sa eskwelahan sa doktor"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The doctor performs surgery on patient",
+              "back": "ang doktor nag-opera sa pasyente"
+            },
+            {
+              "front": "The carpenter builds a tall building",
+              "back": "ang panday nagtukod ug taas nga bilding"
+            },
+            {
+              "front": "My pilot flies a small plane",
+              "back": "ang akong piloto nagpalupad ug gamay nga ayroplano"
+            },
+            {
+              "front": "The boys' teacher instructs math class",
+              "back": "ang magtutudlo sa mga lalaki nagtudlo sa klase sa matematika"
+            },
+            {
+              "front": "The chef prepares food for customers",
+              "back": "ang chef nag-andam og pagkaon para sa mga kustomer"
+            },
+            {
+              "front": "My lawyer defends cases in court",
+              "back": "ang akong abogado nagdepensa sa mga kaso sa korte"
+            },
+            {
+              "front": "The firefighter extinguishes fires in buildings",
+              "back": "ang bombero nagpalong sa kalayo sa mga bilding"
+            },
+            {
+              "front": "The nurse cares for sick patients",
+              "back": "ang nars nag-atiman sa mga masakiton nga pasyente"
+            },
+            {
+              "front": "The engineer designs a new bridge",
+              "back": "ang engineer nagdesinyo ug bag-ong tulay"
+            },
+            {
+              "front": "My mechanic repairs cars and trucks",
+              "back": "ang akong mekaniko nag-ayo sa mga sakyanan ug mga trak"
+            },
+            {
+              "front": "The scientist conducts research in laboratories",
+              "back": "ang siyentista nagdumala sa panukiduki sa mga laboratoryo"
+            },
+            {
+              "front": "The electrician installs wiring in houses",
+              "back": "ang electrician nagbutang ug mga wiring sa mga balay"
+            },
+            {
+              "front": "My architect plans the city's new building",
+              "back": "akong arkitekto nagplano sa bag-ong building sa siyudad"
+            },
+            {
+              "front": "The journalist writes articles for the newspaper",
+              "back": "ang tigbalita nagsulat og mga artikulo alang sa mantalaan"
+            },
+            {
+              "front": "The dentist cleans teeth in the clinic",
+              "back": "ang dentista manglimpyo sa ngipon sa clinic"
+            },
+            {
+              "front": "The veterinarian treats animals in the hospital",
+              "back": "ang beterinaryo nagtambal sa mga hayop sa ospital"
+            },
+            {
+              "front": "The photographer captures moments at weddings",
+              "back": "ang photographer mokuha ug mga gutlo sa mga kasal"
+            },
+            {
+              "front": "The pharmacist gives medicine to patients",
+              "back": "ang pharmacist naghatag tambal sa mga pasyente"
+            },
+            {
+              "front": "My accountant manages finances for businesses",
+              "back": "ang akong accountant nagdumala sa panalapi para sa mga negosyo"
+            },
+            {
+              "front": "The artist paints a beautiful landscape",
+              "back": "ang artist nagpintal sa usa ka matahum nga talan-awon"
+            },
+            {
+              "front": "The plumber fixes leaks in the pipes",
+              "back": "giayo sa tubero ang mga pagtulo sa mga tubo"
+            },
+            {
+              "front": "My teacher explains difficult math problems",
+              "back": "gipasabot sa akong magtutudlo ang lisud nga mga problema sa matematika"
+            },
+            {
+              "front": "The pilot navigates through the stormy weather",
+              "back": "ang piloto naglawig sa mabagyo nga panahon"
+            },
+            {
+              "front": "The driver takes passengers to their destination",
+              "back": "ang drayber magdala sa mga pasahero sa ilang destinasyon"
+            },
+            {
+              "front": "The musician plays songs at the concert",
+              "back": "ang musikero nagpatugtog og mga kanta sa konsyerto"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "The doctor healed",
+              "back": "ang doktor naayo"
+            },
+            {
+              "front": "My teacher talked",
+              "back": "ang akong magtutudlo nakigsulti"
+            },
+            {
+              "front": "His plumber came",
+              "back": "niabot ang iyang tubero"
+            },
+            {
+              "front": "Her driver worked",
+              "back": "nagtrabaho iyang driver"
+            },
+            {
+              "front": "The nurse helped",
+              "back": "nitabang ang nurse"
+            },
+            {
+              "front": "My lawyer won",
+              "back": "nidaog akong abogado"
+            },
+            {
+              "front": "His mechanic fixed",
+              "back": "giayo iyang mekaniko"
+            },
+            {
+              "front": "The chef cooked",
+              "back": "nagluto ang chef"
+            },
+            {
+              "front": "Her pilot flew",
+              "back": "milupad ang iyang piloto"
+            },
+            {
+              "front": "The carpenter built",
+              "back": "gitukod ang panday"
+            },
+            {
+              "front": "My electrician repaired",
+              "back": "giayo ang akong electrician"
+            },
+            {
+              "front": "His artist painted",
+              "back": "ang iyang artist nagpintal"
+            },
+            {
+              "front": "Her scientist discovered",
+              "back": "nadiskobrehan sa iyang siyentista"
+            },
+            {
+              "front": "The firefighter rescued",
+              "back": "giluwas sa bombero"
+            },
+            {
+              "front": "My photographer captured",
+              "back": "gikuha sa akong photographer"
+            },
+            {
+              "front": "His architect designed",
+              "back": "gidesinyo sa iyang arkitekto"
+            },
+            {
+              "front": "Her dentist treated",
+              "back": "nagpatambal ang iyang dentista"
+            },
+            {
+              "front": "The journalist reported",
+              "back": "ang tigbalita mitaho"
+            },
+            {
+              "front": "My accountant calculated",
+              "back": "gikalkula sa akong accountant"
+            },
+            {
+              "front": "His veterinarian treated",
+              "back": "ang iyang beterinaryo nagpatambal"
+            },
+            {
+              "front": "Her pharmacist dispensed",
+              "back": "iyang pharmacist dispensa"
+            },
+            {
+              "front": "The pilot landed",
+              "back": "nitugpa ang piloto"
+            },
+            {
+              "front": "My driver waited",
+              "back": "naghuwat akong driver"
+            },
+            {
+              "front": "His engineer designed",
+              "back": "iyang engineer ang nagdesinyo"
+            },
+            {
+              "front": "Her musician played",
+              "back": "nagtugtog ang iyang musikero"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The pilot flew high",
+              "back": "ang piloto milupad sa taas"
+            },
+            {
+              "front": "The doctor treated well",
+              "back": "maayo ang pagtratar sa doktor"
+            },
+            {
+              "front": "I was a teacher",
+              "back": "usa ko ka magtutudlo"
+            },
+            {
+              "front": "She was an engineer",
+              "back": "usa siya ka engineer"
+            },
+            {
+              "front": "He worked as mechanic",
+              "back": "nagtrabaho siya isip mekaniko"
+            },
+            {
+              "front": "The chef cooked perfectly",
+              "back": "perpekto ang pagluto sa chef"
+            },
+            {
+              "front": "They were professional musicians",
+              "back": "propesyonal sila nga mga musikero"
+            },
+            {
+              "front": "The carpenter built houses",
+              "back": "ang panday nagtukod ug mga balay"
+            },
+            {
+              "front": "The firefighter saved lives",
+              "back": "ang bombero nakaluwas og mga kinabuhi"
+            },
+            {
+              "front": "We hired an electrician",
+              "back": "nag hire mi ug electrician"
+            },
+            {
+              "front": "The artist painted beautifully",
+              "back": "nindot ang pagpintal sa artista"
+            },
+            {
+              "front": "She was a journalist",
+              "back": "usa siya ka peryodista"
+            },
+            {
+              "front": "He worked as plumber",
+              "back": "nagtrabaho siya isip tubero"
+            },
+            {
+              "front": "They fixed broken cars",
+              "back": "ilang giayo ang guba nga mga sakyanan"
+            },
+            {
+              "front": "I was an architect",
+              "back": "ako usa ka arkitekto"
+            },
+            {
+              "front": "She took many photos",
+              "back": "nagkuha siya og daghang mga litrato"
+            },
+            {
+              "front": "He designed new buildings",
+              "back": "nagdesinyo siyag bag-ong mga bilding"
+            },
+            {
+              "front": "They treated injured animals",
+              "back": "ilang gitambalan ang nasamdan nga mga mananap"
+            },
+            {
+              "front": "I was a photographer",
+              "back": "ako usa ka photographer"
+            },
+            {
+              "front": "She managed the clinic",
+              "back": "siya ang nagdumala sa klinika"
+            },
+            {
+              "front": "He was a dentist",
+              "back": "usa siya ka dentista"
+            },
+            {
+              "front": "We hired skilled scientists",
+              "back": "mi-hire mi ug hanas nga mga siyentista"
+            },
+            {
+              "front": "The engineer solved problems",
+              "back": "gisulbad sa engineer ang mga problema"
+            },
+            {
+              "front": "She helped many patients",
+              "back": "nakatabang siya sa daghang mga pasyente"
+            },
+            {
+              "front": "He studied as accountant",
+              "back": "nagtuon siya isip accountant"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I was a doctor yesterday",
+              "back": "Usa ko ka doktor kagahapon"
+            },
+            {
+              "front": "The dentist performed gentle work",
+              "back": "ang dentista naghimo sa malumo nga trabaho"
+            },
+            {
+              "front": "The photographer took quality photos",
+              "back": "ang photographer mikuha ug dekalidad nga mga litrato"
+            },
+            {
+              "front": "The mechanic was very dirty",
+              "back": "hugaw kaayo ang mekaniko"
+            },
+            {
+              "front": "I was a good artist",
+              "back": "maayo ko nga artista"
+            },
+            {
+              "front": "The teacher explained difficult lessons",
+              "back": "ang magtutudlo mipasabut sa lisud nga mga leksyon"
+            },
+            {
+              "front": "The firefighter saved many people",
+              "back": "ang bombero nakaluwas sa daghang mga tawo"
+            },
+            {
+              "front": "The nurse cared for patients",
+              "back": "ang nurse nag-atiman sa mga pasyente"
+            },
+            {
+              "front": "The lawyer defended the case",
+              "back": "gidepensahan sa abogado ang kaso"
+            },
+            {
+              "front": "She became an excellent engineer",
+              "back": "nahimo siyang maayo kaayong enhinyero"
+            },
+            {
+              "front": "He worked as an electrician",
+              "back": "nagtrabaho siya isip usa ka electrician"
+            },
+            {
+              "front": "The chef prepared delicious meals",
+              "back": "ang chef nag-andam ug lamiang mga pagkaon"
+            },
+            {
+              "front": "The plumber fixed leaking pipes",
+              "back": "giayo sa tubero ang pagtulo nga mga tubo"
+            },
+            {
+              "front": "The scientist discovered new things",
+              "back": "ang siyentista nakadiskobre ug bag-ong mga butang"
+            },
+            {
+              "front": "The journalist reported important news",
+              "back": "ang tigbalita mitaho ug importanteng balita"
+            },
+            {
+              "front": "The driver took many passengers",
+              "back": "daghang pasahero ang gikuha sa drayber"
+            },
+            {
+              "front": "I was a skilled carpenter",
+              "back": "Ako usa ka hanas nga panday"
+            },
+            {
+              "front": "The architect designed beautiful buildings",
+              "back": "ang arkitekto nagdesinyo ug nindot nga mga bilding"
+            },
+            {
+              "front": "The musician played beautiful songs",
+              "back": "ang musikero nagpatugtog ug nindot nga mga kanta"
+            },
+            {
+              "front": "The pilot landed the plane",
+              "back": "ang piloto mitugpa sa ayroplano"
+            },
+            {
+              "front": "I was an experienced mechanic",
+              "back": "Ako usa ka eksperyensiyado nga mekaniko"
+            },
+            {
+              "front": "She worked as a pharmacist",
+              "back": "nagtrabaho siya isip pharmacist"
+            },
+            {
+              "front": "He was a great scientist",
+              "back": "siya usa ka bantugan nga siyentista"
+            },
+            {
+              "front": "They performed at the concert",
+              "back": "nagpasundayag sila sa konsyerto"
+            },
+            {
+              "front": "We worked as a team",
+              "back": "nagtrabaho kami isip usa ka team"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I worked on difficult research yesterday",
+              "back": "nagtrabaho ko sa lisud nga panukiduki kagahapon"
+            },
+            {
+              "front": "She landed a huge plane safely",
+              "back": "nakadunggo siya ug dako nga eroplano nga luwas"
+            },
+            {
+              "front": "He shocked everyone with his skills",
+              "back": "gipakurat niya ang tanan sa iyang kahanas"
+            },
+            {
+              "front": "They spoke to the judge clearly",
+              "back": "sila misulti sa maghuhukom sa tin-aw"
+            },
+            {
+              "front": "I prepared a new lesson plan",
+              "back": "Nag-andam ko og bag-ong lesson plan"
+            },
+            {
+              "front": "She treated several injured patients kindly",
+              "back": "giatiman niya ang daghang mga pasyente nga nasamdan"
+            },
+            {
+              "front": "He saved lives in a fire",
+              "back": "giluwas niya ang mga kinabuhi sa kalayo"
+            },
+            {
+              "front": "They cooked meals for everyone daily",
+              "back": "nagluto sila ug mga pagkaon para sa tanan kada adlaw"
+            },
+            {
+              "front": "We performed at the big concert",
+              "back": "nagpasundayag mi sa dakong konsiyerto"
+            },
+            {
+              "front": "He designed a modern building downtown",
+              "back": "nagdisenyo siya ug modernong bilding sa downtown"
+            },
+            {
+              "front": "She interviewed people on location quickly",
+              "back": "giinterbyu niya ang mga tawo sa lugar nga dali"
+            },
+            {
+              "front": "He transported people to their homes",
+              "back": "iyang gidala ang mga tawo ngadto sa ilang mga balay"
+            },
+            {
+              "front": "She fixed the broken tooth carefully",
+              "back": "giayo niya pag-ayo ang nabali nga ngipon"
+            },
+            {
+              "front": "I captured moments during the wedding",
+              "back": "I captured moments during the wedding"
+            },
+            {
+              "front": "He repaired the broken sink immediately",
+              "back": "giayo dayon niya ang guba nga lababo"
+            },
+            {
+              "front": "We worked on several cars yesterday",
+              "back": "Nagtrabaho kami sa daghang mga awto kagahapon"
+            },
+            {
+              "front": "She treated the sick animals today",
+              "back": "iyang gitambalan ang masakiton nga mga mananap karon"
+            },
+            {
+              "front": "They dispensed medicine to patients quickly",
+              "back": "dali silang nanghatag ug tambal sa mga pasyente"
+            },
+            {
+              "front": "He built a sturdy house himself",
+              "back": "nagtukod siyag lig-on nga balay sa iyang kaugalingon"
+            },
+            {
+              "front": "She painted a beautiful portrait recently",
+              "back": "bag-o lang nagpintal siya og nindot nga hulagway"
+            },
+            {
+              "front": "He calculated the company’s finances perfectly",
+              "back": "hingpit niyang gikalkula ang panalapi sa kompanya"
+            },
+            {
+              "front": "I designed the new structure downtown",
+              "back": "Gidisenyo nako ang bag-ong istruktura sa downtown"
+            },
+            {
+              "front": "She flew through heavy storms easily",
+              "back": "dali ra siyang nakalupad sa kusog nga unos"
+            },
+            {
+              "front": "They handled the complex case professionally",
+              "back": "propesyonal nilang gidumala ang komplikadong kaso"
+            },
+            {
+              "front": "He presented findings at the conference",
+              "back": "gipresentar niya ang mga nahibal-an sa komperensya"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Doctor will perform",
+              "back": "magbuhat ang doktor"
+            },
+            {
+              "front": "Pilot will fly",
+              "back": "molupad ang piloto"
+            },
+            {
+              "front": "Electrician will work",
+              "back": "motrabaho ang electrician"
+            },
+            {
+              "front": "Dentist will adjust",
+              "back": "mag adjust ang dentista"
+            },
+            {
+              "front": "Mechanic will fix",
+              "back": "mag-ayo ang mekaniko"
+            },
+            {
+              "front": "Teacher will teach",
+              "back": "magtudlo ang magtutudlo"
+            },
+            {
+              "front": "Chef will cook",
+              "back": "chef magluto"
+            },
+            {
+              "front": "Lawyer will argue",
+              "back": "maglalis ang abogado"
+            },
+            {
+              "front": "Nurse will help",
+              "back": "makatabang ang nurse"
+            },
+            {
+              "front": "Scientist will research",
+              "back": "mag-research ang siyentista"
+            },
+            {
+              "front": "Firefighter will save",
+              "back": "bombero makaluwas"
+            },
+            {
+              "front": "Artist will paint",
+              "back": "artista magpintura"
+            },
+            {
+              "front": "Photographer will capture",
+              "back": "photographer mokuha"
+            },
+            {
+              "front": "Plumber will repair",
+              "back": "mag-ayo ang tubero"
+            },
+            {
+              "front": "Driver will drive",
+              "back": "driver ang magmaneho"
+            },
+            {
+              "front": "Architect will design",
+              "back": "arkitekto ang magdesinyo"
+            },
+            {
+              "front": "Engineer will build",
+              "back": "engineer ang magtukod"
+            },
+            {
+              "front": "Journalist will report",
+              "back": "magreport ang tigbalita"
+            },
+            {
+              "front": "Musician will perform",
+              "back": "musikero ang mopasundayag"
+            },
+            {
+              "front": "Pharmacist will dispense",
+              "back": "ang pharmacist mag-dispense"
+            },
+            {
+              "front": "Veterinarian will treat",
+              "back": "tambalan sa beterinaryo"
+            },
+            {
+              "front": "Carpenter will construct",
+              "back": "panday magtukod"
+            },
+            {
+              "front": "Pilot will land",
+              "back": "ang piloto motugpa"
+            },
+            {
+              "front": "Accountant will calculate",
+              "back": "magkwenta ang accountant"
+            },
+            {
+              "front": "Doctor will diagnose",
+              "back": "mag-diagnose ang doktor"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Pilot will fly high",
+              "back": "ang piloto molupad sa taas"
+            },
+            {
+              "front": "Doctor will treat patients",
+              "back": "tambalan sa doktor ang mga pasyente"
+            },
+            {
+              "front": "Artist will paint pictures",
+              "back": "artist magpintal ug mga hulagway"
+            },
+            {
+              "front": "Driver will drive trucks",
+              "back": "ang drayber magmaneho sa mga trak"
+            },
+            {
+              "front": "Plumber will repair pipes",
+              "back": "tubero mag-ayo sa mga tubo"
+            },
+            {
+              "front": "Chef will cook meals",
+              "back": "chef magluto ug mga pagkaon"
+            },
+            {
+              "front": "Lawyer will defend clients",
+              "back": "abogado modepensa sa mga kliyente"
+            },
+            {
+              "front": "Teacher will grade assignments",
+              "back": "ang magtutudlo mogrado sa mga buluhaton"
+            },
+            {
+              "front": "Mechanic will fix cars",
+              "back": "mekaniko mag-ayo sa mga sakyanan"
+            },
+            {
+              "front": "Photographer will take photos",
+              "back": "photographer magkuha ug litrato"
+            },
+            {
+              "front": "Nurse will assist doctors",
+              "back": "ang nars motabang sa mga doktor"
+            },
+            {
+              "front": "Engineer will design buildings",
+              "back": "engineer ang magdesinyo ug mga bilding"
+            },
+            {
+              "front": "Firefighter will extinguish fires",
+              "back": "ang bombero mopalong sa kalayo"
+            },
+            {
+              "front": "Dentist will clean teeth",
+              "back": "dentista manglimpyo sa ngipon"
+            },
+            {
+              "front": "Electrician will install wiring",
+              "back": "ang electrician magbutang ug wiring"
+            },
+            {
+              "front": "Journalist will write stories",
+              "back": "peryodista magsulat og mga istorya"
+            },
+            {
+              "front": "Scientist will conduct research",
+              "back": "ang siyentista magpahigayon ug panukiduki"
+            },
+            {
+              "front": "Veterinarian will treat animals",
+              "back": "veterinarian motambal sa mga mananap"
+            },
+            {
+              "front": "Musician will perform songs",
+              "back": "musikero magpasundayag og mga kanta"
+            },
+            {
+              "front": "Architect will plan houses",
+              "back": "arkitekto magplano ug mga balay"
+            },
+            {
+              "front": "Pharmacist will prepare prescriptions",
+              "back": "ang pharmacist mag-andam og mga reseta"
+            },
+            {
+              "front": "Accountant will audit finances",
+              "back": "ang accountant mag-audit sa panalapi"
+            },
+            {
+              "front": "Carpenter will build furniture",
+              "back": "panday magbuhat ug muwebles"
+            },
+            {
+              "front": "Pilot will land safely",
+              "back": "ang piloto makadunggo nga luwas"
+            },
+            {
+              "front": "Lawyer will settle disputes",
+              "back": "abogado ang mohusay sa mga panaglalis"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "He is the strongest firefighter here",
+              "back": "siya ang labing kusgan nga bombero dinhi"
+            },
+            {
+              "front": "I am learning to be doctor",
+              "back": "Nagtuon ko nga mahimong doktor"
+            },
+            {
+              "front": "The pilot will announce his updates",
+              "back": "ipahibalo sa piloto ang iyang mga update"
+            },
+            {
+              "front": "The dentist will gently adjust teeth",
+              "back": "ang dentista hinayhinay nga mag-adjust sa ngipon"
+            },
+            {
+              "front": "She will be a great engineer",
+              "back": "siya mahimong usa ka maayo nga engineer"
+            },
+            {
+              "front": "The plumber will repair leaking pipes",
+              "back": "ang tubero mag-ayo sa mga tubo nga nagtulo"
+            },
+            {
+              "front": "He will teach advanced mathematics soon",
+              "back": "magtudlo siya sa advanced mathematics sa dili madugay"
+            },
+            {
+              "front": "They will become professional musicians soon",
+              "back": "sila mahimong propesyonal nga mga musikero sa dili madugay"
+            },
+            {
+              "front": "I will start as a lawyer",
+              "back": "Magsugod ko isip abogado"
+            },
+            {
+              "front": "The electrician will replace faulty wiring",
+              "back": "ang electrician mag-ilis sa faulty wirings"
+            },
+            {
+              "front": "She will care for sick patients",
+              "back": "mag-atiman siya sa mga masakiton nga pasyente"
+            },
+            {
+              "front": "The architect will design modern houses",
+              "back": "ang arkitekto magdesinyo ug modernong mga balay"
+            },
+            {
+              "front": "My driver will arrive in minutes",
+              "back": "ang akong drayber moabut sa pipila ka minuto"
+            },
+            {
+              "front": "He will manage the construction project",
+              "back": "siya ang modumala sa construction project"
+            },
+            {
+              "front": "We are planning to hire teacher",
+              "back": "nagplano mi nga mu hire ug teacher"
+            },
+            {
+              "front": "The photographer will capture wedding moments",
+              "back": "ang photographer mokuha sa mga higayon sa kasal"
+            },
+            {
+              "front": "She will present research findings tomorrow",
+              "back": "ipresentar niya ang mga nahibal-an sa panukiduki ugma"
+            },
+            {
+              "front": "He will perform at the concert",
+              "back": "mo-perform siya sa concert"
+            },
+            {
+              "front": "I will be an excellent doctor",
+              "back": "Ako mahimong usa ka maayo nga doktor"
+            },
+            {
+              "front": "The mechanic will repair the car",
+              "back": "ang mekaniko mag-ayo sa sakyanan"
+            },
+            {
+              "front": "The journalist will cover breaking news",
+              "back": "ang tigbalita mag-cover sa mga nagbag-o nga balita"
+            },
+            {
+              "front": "He will protect people from fires",
+              "back": "panalipdan niya ang mga tawo gikan sa kalayo"
+            },
+            {
+              "front": "The accountant will handle financial reports",
+              "back": "ang accountant magdumala sa mga pinansyal nga taho"
+            },
+            {
+              "front": "My nurse will assist during surgery",
+              "back": "ang akong nars motabang sa panahon sa operasyon"
+            },
+            {
+              "front": "The scientist will publish new research",
+              "back": "ang siyentista magpatik ug bag-ong panukiduki"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
