@@ -1,0 +1,1106 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Occupations",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Doctor", "back": "médecin" },
+            { "front": "Teacher", "back": "professeur" },
+            { "front": "Engineer", "back": "ingénieur" },
+            { "front": "Nurse", "back": "infirmière" },
+            { "front": "Farmer", "back": "fermier" },
+            { "front": "Chef", "back": "cuisinier" },
+            { "front": "Police officer", "back": "policier" },
+            { "front": "Firefighter", "back": "pompier" },
+            { "front": "Artist", "back": "artiste" },
+            { "front": "Musician", "back": "musicien" },
+            { "front": "Lawyer", "back": "avocat" },
+            { "front": "Scientist", "back": "scientifique" },
+            { "front": "Carpenter", "back": "menuisier" },
+            { "front": "Plumber", "back": "plombier" },
+            { "front": "Electrician", "back": "électricien" },
+            { "front": "Pilot", "back": "pilote" },
+            { "front": "Mechanic", "back": "mécanicien" },
+            { "front": "Driver", "back": "conducteur" },
+            { "front": "Photographer", "back": "photographe" },
+            { "front": "Journalist", "back": "journaliste" },
+            { "front": "Dentist", "back": "dentiste" },
+            { "front": "Pharmacist", "back": "pharmacien" },
+            { "front": "Veterinarian", "back": "vétérinaire" },
+            { "front": "Accountant", "back": "comptable" },
+            { "front": "Architect", "back": "architecte" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Good doctor", "back": "bon docteur" },
+            { "front": "Nice teacher", "back": "bon professeur" },
+            { "front": "Smart engineer", "back": "ingénieur intelligent" },
+            { "front": "Gentle nurse", "back": "douce infirmière" },
+            { "front": "Strong farmer", "back": "agriculteur fort" },
+            { "front": "Skilled chef", "back": "chef qualifié" },
+            { "front": "Brave police officer", "back": "policier courageux" },
+            { "front": "Heroic firefighter", "back": "pompier héroïque" },
+            { "front": "Creative artist", "back": "artiste créatif" },
+            { "front": "Talented musician", "back": "musicien talentueux" },
+            { "front": "Clever lawyer", "back": "avocat intelligent" },
+            { "front": "Brilliant scientist", "back": "scientifique brillant" },
+            {
+              "front": "Hardworking carpenter",
+              "back": "charpentier travailleur"
+            },
+            { "front": "Reliable plumber", "back": "plombier fiable" },
+            {
+              "front": "Experienced electrician",
+              "back": "électricien expérimenté"
+            },
+            { "front": "Expert pilot", "back": "pilote expert" },
+            { "front": "Skilled mechanic", "back": "mécanicien qualifié" },
+            { "front": "Careful driver", "back": "conducteur prudent" },
+            {
+              "front": "Artistic photographer",
+              "back": "photographe artistique"
+            },
+            { "front": "Curious journalist", "back": "journaliste curieux" },
+            { "front": "Gentle dentist", "back": "dentiste doux" },
+            { "front": "Helpful pharmacist", "back": "pharmacien serviable" },
+            {
+              "front": "Caring veterinarian",
+              "back": "vétérinaire attentionné"
+            },
+            { "front": "Accurate accountant", "back": "comptable précis" },
+            { "front": "Creative architect", "back": "architecte créatif" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "My clever lawyer", "back": "mon avocat intelligent" },
+            { "front": "Our skilled chef", "back": "notre chef qualifié" },
+            {
+              "front": "Strong farmer works",
+              "back": "un fermier fort travaille"
+            },
+            {
+              "front": "Talented musician plays",
+              "back": "musicien talentueux joue"
+            },
+            {
+              "front": "Brave doctor heals",
+              "back": "un médecin courageux guérit"
+            },
+            {
+              "front": "Gentle nurse helps",
+              "back": "une douce infirmière aide"
+            },
+            {
+              "front": "Hardworking carpenter builds",
+              "back": "un charpentier travailleur construit"
+            },
+            {
+              "front": "Creative artist draws",
+              "back": "artiste créatif dessine"
+            },
+            {
+              "front": "Experienced pilot flies",
+              "back": "pilote expérimenté vole"
+            },
+            {
+              "front": "Reliable plumber fixes",
+              "back": "réparations de plombiers fiables"
+            },
+            {
+              "front": "Careful driver drives",
+              "back": "un conducteur prudent conduit"
+            },
+            { "front": "My expert engineer", "back": "mon ingénieur expert" },
+            {
+              "front": "Smart scientist researches",
+              "back": "recherches scientifiques intelligentes"
+            },
+            {
+              "front": "Curious journalist writes",
+              "back": "un journaliste curieux écrit"
+            },
+            {
+              "front": "Skilled electrician repairs",
+              "back": "réparations par un électricien qualifié"
+            },
+            {
+              "front": "Helpful pharmacist advises",
+              "back": "conseils utiles du pharmacien"
+            },
+            {
+              "front": "Caring veterinarian treats",
+              "back": "friandises vétérinaires attentionnées"
+            },
+            {
+              "front": "Accurate accountant counts",
+              "back": "des comptes comptables précis"
+            },
+            {
+              "front": "Strong firefighter saves",
+              "back": "un pompier fort sauve"
+            },
+            { "front": "Heroic police officer", "back": "policier héroïque" },
+            {
+              "front": "Talented photographer captures",
+              "back": "un photographe talentueux capture"
+            },
+            {
+              "front": "My artistic architect",
+              "back": "mon architecte artistique"
+            },
+            { "front": "Gentle dentist cares", "back": "soins dentaires doux" },
+            {
+              "front": "Creative scientist innovates",
+              "back": "un scientifique créatif innove"
+            },
+            {
+              "front": "Our brilliant teacher",
+              "back": "notre brillant professeur"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The smart school teacher",
+              "back": "l&#39;enseignant intelligent"
+            },
+            {
+              "front": "They are strong firefighters",
+              "back": "ce sont de puissants pompiers"
+            },
+            { "front": "I am an engineer", "back": "Je suis ingénieur" },
+            { "front": "She is a plumber", "back": "elle est plombier" },
+            { "front": "He is a pilot", "back": "c&#39;est un pilote" },
+            {
+              "front": "The reliable family doctor",
+              "back": "le médecin de famille fiable"
+            },
+            {
+              "front": "They are skilled musicians",
+              "back": "ce sont des musiciens talentueux"
+            },
+            { "front": "I am a mechanic", "back": "je suis mécanicien" },
+            { "front": "She is a lawyer", "back": "elle est avocate" },
+            { "front": "He is an architect", "back": "il est architecte" },
+            {
+              "front": "The creative graphic artist",
+              "back": "le graphiste créatif"
+            },
+            {
+              "front": "They are experienced nurses",
+              "back": "ce sont des infirmières expérimentées"
+            },
+            { "front": "I am a photographer", "back": "je suis photographe" },
+            { "front": "She is a teacher", "back": "elle est enseignante" },
+            {
+              "front": "He is a scientist",
+              "back": "c&#39;est un scientifique"
+            },
+            {
+              "front": "The skilled construction worker",
+              "back": "l&#39;ouvrier qualifié du bâtiment"
+            },
+            {
+              "front": "They are clever scientists",
+              "back": "ce sont des scientifiques intelligents"
+            },
+            { "front": "I am a driver", "back": "je suis chauffeur" },
+            { "front": "She is a dentist", "back": "elle est dentiste" },
+            { "front": "He is an accountant", "back": "il est comptable" },
+            {
+              "front": "The hardworking village farmer",
+              "back": "le fermier du village qui travaille dur"
+            },
+            {
+              "front": "They are creative engineers",
+              "back": "ce sont des ingénieurs créatifs"
+            },
+            { "front": "I am a chef", "back": "J&#39;ai une humeur." },
+            {
+              "front": "She is an electrician",
+              "back": "elle est électricienne"
+            },
+            { "front": "He is a journalist", "back": "il est journaliste" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am working as a farmer",
+              "back": "je travaille comme agriculteur"
+            },
+            {
+              "front": "She is a good engineer",
+              "back": "c&#39;est une bonne ingénieure"
+            },
+            {
+              "front": "Students learn to be lawyers",
+              "back": "les étudiants apprennent à devenir avocats"
+            },
+            {
+              "front": "Dad is the best mechanic",
+              "back": "papa est le meilleur mécanicien"
+            },
+            {
+              "front": "Mom is a skilled lawyer",
+              "back": "maman est une avocate qualifiée"
+            },
+            {
+              "front": "I am becoming a teacher",
+              "back": "je deviens enseignant"
+            },
+            {
+              "front": "He is training as a pilot",
+              "back": "il suit une formation de pilote"
+            },
+            {
+              "front": "She is a talented musician",
+              "back": "c&#39;est une musicienne talentueuse"
+            },
+            {
+              "front": "We are learning about scientists",
+              "back": "nous apprenons à connaître les scientifiques"
+            },
+            {
+              "front": "They study to be doctors",
+              "back": "ils étudient pour devenir médecins"
+            },
+            {
+              "front": "Dad works as an architect",
+              "back": "papa travaille comme architecte"
+            },
+            {
+              "front": "Mom is helping as a nurse",
+              "back": "maman aide en tant qu&#39;infirmière"
+            },
+            {
+              "front": "I am driving as a chauffeur",
+              "back": "je conduis en tant que chauffeur"
+            },
+            {
+              "front": "She is a reliable plumber",
+              "back": "c&#39;est une plombière fiable"
+            },
+            {
+              "front": "He is an excellent photographer",
+              "back": "c&#39;est un excellent photographe"
+            },
+            {
+              "front": "Students become great electricians",
+              "back": "les étudiants deviennent de grands électriciens"
+            },
+            {
+              "front": "He is a leading scientist",
+              "back": "c&#39;est un scientifique de premier plan"
+            },
+            {
+              "front": "I learn to be journalist",
+              "back": "j&#39;apprends à être journaliste"
+            },
+            {
+              "front": "She crafts as an artist",
+              "back": "elle travaille comme artiste"
+            },
+            {
+              "front": "They are helping as firefighters",
+              "back": "ils aident en tant que pompiers"
+            },
+            {
+              "front": "He is teaching in the school",
+              "back": "il enseigne à l&#39;école"
+            },
+            {
+              "front": "We are working with engineers",
+              "back": "nous travaillons avec des ingénieurs"
+            },
+            {
+              "front": "He is a practicing lawyer",
+              "back": "il est avocat en exercice"
+            },
+            {
+              "front": "She is a good carpenter",
+              "back": "c&#39;est une bonne charpentière"
+            },
+            {
+              "front": "he studies at doctor school",
+              "back": "il étudie à l&#39;école de médecine"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The doctor performs surgery on patient",
+              "back": "le médecin effectue une intervention chirurgicale sur le patient"
+            },
+            {
+              "front": "The carpenter builds a tall building",
+              "back": "le charpentier construit un grand bâtiment"
+            },
+            {
+              "front": "My pilot flies a small plane",
+              "back": "mon pilote pilote un petit avion"
+            },
+            {
+              "front": "The boys' teacher instructs math class",
+              "back": "l&#39;enseignant des garçons donne un cours de mathématiques"
+            },
+            {
+              "front": "The chef prepares food for customers",
+              "back": "le chef prépare la nourriture pour les clients"
+            },
+            {
+              "front": "My lawyer defends cases in court",
+              "back": "mon avocat défend des affaires devant les tribunaux"
+            },
+            {
+              "front": "The firefighter extinguishes fires in buildings",
+              "back": "le pompier éteint les incendies dans les bâtiments"
+            },
+            {
+              "front": "The nurse cares for sick patients",
+              "back": "l&#39;infirmière s&#39;occupe des patients malades"
+            },
+            {
+              "front": "The engineer designs a new bridge",
+              "back": "l&#39;ingénieur conçoit un nouveau pont"
+            },
+            {
+              "front": "My mechanic repairs cars and trucks",
+              "back": "mon mécanicien répare les voitures et les camions"
+            },
+            {
+              "front": "The scientist conducts research in laboratories",
+              "back": "le scientifique mène des recherches dans des laboratoires"
+            },
+            {
+              "front": "The electrician installs wiring in houses",
+              "back": "l&#39;électricien installe le câblage dans les maisons"
+            },
+            {
+              "front": "My architect plans the city's new building",
+              "back": "mon architecte planifie le nouveau bâtiment de la ville"
+            },
+            {
+              "front": "The journalist writes articles for the newspaper",
+              "back": "le journaliste écrit des articles pour le journal"
+            },
+            {
+              "front": "The dentist cleans teeth in the clinic",
+              "back": "le dentiste nettoie les dents à la clinique"
+            },
+            {
+              "front": "The veterinarian treats animals in the hospital",
+              "back": "le vétérinaire soigne les animaux à l&#39;hôpital"
+            },
+            {
+              "front": "The photographer captures moments at weddings",
+              "back": "le photographe capture des moments lors des mariages"
+            },
+            {
+              "front": "The pharmacist gives medicine to patients",
+              "back": "le pharmacien donne des médicaments aux patients"
+            },
+            {
+              "front": "My accountant manages finances for businesses",
+              "back": "mon comptable gère les finances des entreprises"
+            },
+            {
+              "front": "The artist paints a beautiful landscape",
+              "back": "l&#39;artiste peint un beau paysage"
+            },
+            {
+              "front": "The plumber fixes leaks in the pipes",
+              "back": "le plombier répare les fuites dans les tuyaux"
+            },
+            {
+              "front": "My teacher explains difficult math problems",
+              "back": "mon professeur explique des problèmes de mathématiques difficiles"
+            },
+            {
+              "front": "The pilot navigates through the stormy weather",
+              "back": "le pilote navigue à travers le temps orageux"
+            },
+            {
+              "front": "The driver takes passengers to their destination",
+              "back": "le chauffeur emmène les passagers à leur destination"
+            },
+            {
+              "front": "The musician plays songs at the concert",
+              "back": "le musicien joue des chansons au concert"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "The doctor healed", "back": "le docteur a guéri" },
+            { "front": "My teacher talked", "back": "mon professeur a parlé" },
+            { "front": "His plumber came", "back": "son plombier est venu" },
+            {
+              "front": "Her driver worked",
+              "back": "son chauffeur travaillait"
+            },
+            { "front": "The nurse helped", "back": "l&#39;infirmière a aidé" },
+            { "front": "My lawyer won", "back": "mon avocat a gagné" },
+            {
+              "front": "His mechanic fixed",
+              "back": "son mécanicien a réparé"
+            },
+            { "front": "The chef cooked", "back": "le chef a cuisiné" },
+            { "front": "Her pilot flew", "back": "son pilote a volé" },
+            {
+              "front": "The carpenter built",
+              "back": "le charpentier a construit"
+            },
+            {
+              "front": "My electrician repaired",
+              "back": "mon électricien a réparé"
+            },
+            { "front": "His artist painted", "back": "son artiste a peint" },
+            {
+              "front": "Her scientist discovered",
+              "back": "son scientifique a découvert"
+            },
+            {
+              "front": "The firefighter rescued",
+              "back": "le pompier secouru"
+            },
+            {
+              "front": "My photographer captured",
+              "back": "mon photographe a capturé"
+            },
+            {
+              "front": "His architect designed",
+              "back": "son architecte a conçu"
+            },
+            { "front": "Her dentist treated", "back": "son dentiste a traité" },
+            {
+              "front": "The journalist reported",
+              "back": "le journaliste a rapporté"
+            },
+            {
+              "front": "My accountant calculated",
+              "back": "mon comptable a calculé"
+            },
+            {
+              "front": "His veterinarian treated",
+              "back": "son vétérinaire l&#39;a soigné"
+            },
+            {
+              "front": "Her pharmacist dispensed",
+              "back": "son pharmacien lui a délivré"
+            },
+            { "front": "The pilot landed", "back": "le pilote a atterri" },
+            { "front": "My driver waited", "back": "mon chauffeur a attendu" },
+            {
+              "front": "His engineer designed",
+              "back": "son ingénieur a conçu"
+            },
+            { "front": "Her musician played", "back": "son musicien jouait" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "The pilot flew high", "back": "le pilote a volé haut" },
+            {
+              "front": "The doctor treated well",
+              "back": "le médecin a bien traité"
+            },
+            { "front": "I was a teacher", "back": "j&#39;étais professeur" },
+            { "front": "She was an engineer", "back": "elle était ingénieure" },
+            {
+              "front": "He worked as mechanic",
+              "back": "il travaillait comme mécanicien"
+            },
+            {
+              "front": "The chef cooked perfectly",
+              "back": "le chef a cuisiné parfaitement"
+            },
+            {
+              "front": "They were professional musicians",
+              "back": "ils étaient des musiciens professionnels"
+            },
+            {
+              "front": "The carpenter built houses",
+              "back": "le charpentier construisait des maisons"
+            },
+            {
+              "front": "The firefighter saved lives",
+              "back": "le pompier a sauvé des vies"
+            },
+            {
+              "front": "We hired an electrician",
+              "back": "nous avons embauché un électricien"
+            },
+            {
+              "front": "The artist painted beautifully",
+              "back": "l&#39;artiste a magnifiquement peint"
+            },
+            {
+              "front": "She was a journalist",
+              "back": "elle était journaliste"
+            },
+            {
+              "front": "He worked as plumber",
+              "back": "il travaillait comme plombier"
+            },
+            {
+              "front": "They fixed broken cars",
+              "back": "ils ont réparé les voitures cassées"
+            },
+            { "front": "I was an architect", "back": "j&#39;étais architecte" },
+            {
+              "front": "She took many photos",
+              "back": "elle a pris beaucoup de photos"
+            },
+            {
+              "front": "He designed new buildings",
+              "back": "il a conçu de nouveaux bâtiments"
+            },
+            {
+              "front": "They treated injured animals",
+              "back": "ils ont soigné les animaux blessés"
+            },
+            {
+              "front": "I was a photographer",
+              "back": "j&#39;étais photographe"
+            },
+            {
+              "front": "She managed the clinic",
+              "back": "elle dirigeait la clinique"
+            },
+            { "front": "He was a dentist", "back": "il était dentiste" },
+            {
+              "front": "We hired skilled scientists",
+              "back": "nous avons embauché des scientifiques qualifiés"
+            },
+            {
+              "front": "The engineer solved problems",
+              "back": "l&#39;ingénieur a résolu les problèmes"
+            },
+            {
+              "front": "She helped many patients",
+              "back": "elle a aidé de nombreux patients"
+            },
+            {
+              "front": "He studied as accountant",
+              "back": "il a étudié la comptabilité"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I was a doctor yesterday",
+              "back": "j&#39;étais médecin hier"
+            },
+            {
+              "front": "The dentist performed gentle work",
+              "back": "le dentiste a effectué un travail doux"
+            },
+            {
+              "front": "The photographer took quality photos",
+              "back": "le photographe a pris des photos de qualité"
+            },
+            {
+              "front": "The mechanic was very dirty",
+              "back": "le mécanicien était très sale"
+            },
+            {
+              "front": "I was a good artist",
+              "back": "j&#39;étais un bon artiste"
+            },
+            {
+              "front": "The teacher explained difficult lessons",
+              "back": "le professeur a expliqué les leçons difficiles"
+            },
+            {
+              "front": "The firefighter saved many people",
+              "back": "le pompier a sauvé de nombreuses personnes"
+            },
+            {
+              "front": "The nurse cared for patients",
+              "back": "l&#39;infirmière s&#39;occupait des patients"
+            },
+            {
+              "front": "The lawyer defended the case",
+              "back": "l&#39;avocat a défendu l&#39;affaire"
+            },
+            {
+              "front": "She became an excellent engineer",
+              "back": "elle est devenue une excellente ingénieure"
+            },
+            {
+              "front": "He worked as an electrician",
+              "back": "il travaillait comme électricien"
+            },
+            {
+              "front": "The chef prepared delicious meals",
+              "back": "le chef a préparé de délicieux repas"
+            },
+            {
+              "front": "The plumber fixed leaking pipes",
+              "back": "le plombier a réparé les fuites de tuyaux"
+            },
+            {
+              "front": "The scientist discovered new things",
+              "back": "le scientifique a découvert de nouvelles choses"
+            },
+            {
+              "front": "The journalist reported important news",
+              "back": "le journaliste a rapporté des nouvelles importantes"
+            },
+            {
+              "front": "The driver took many passengers",
+              "back": "le chauffeur a pris de nombreux passagers"
+            },
+            {
+              "front": "I was a skilled carpenter",
+              "back": "j&#39;étais un charpentier qualifié"
+            },
+            {
+              "front": "The architect designed beautiful buildings",
+              "back": "l&#39;architecte a conçu de beaux bâtiments"
+            },
+            {
+              "front": "The musician played beautiful songs",
+              "back": "le musicien a joué de belles chansons"
+            },
+            {
+              "front": "The pilot landed the plane",
+              "back": "le pilote a atterri l&#39;avion"
+            },
+            {
+              "front": "I was an experienced mechanic",
+              "back": "j&#39;étais un mécanicien expérimenté"
+            },
+            {
+              "front": "She worked as a pharmacist",
+              "back": "elle travaillait comme pharmacienne"
+            },
+            {
+              "front": "He was a great scientist",
+              "back": "c&#39;était un grand scientifique"
+            },
+            {
+              "front": "They performed at the concert",
+              "back": "ils ont joué au concert"
+            },
+            {
+              "front": "We worked as a team",
+              "back": "nous avons travaillé en équipe"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I worked on difficult research yesterday",
+              "back": "j&#39;ai travaillé sur une recherche difficile hier"
+            },
+            {
+              "front": "She landed a huge plane safely",
+              "back": "elle a fait atterrir un énorme avion en toute sécurité"
+            },
+            {
+              "front": "He shocked everyone with his skills",
+              "back": "il a choqué tout le monde avec ses compétences"
+            },
+            {
+              "front": "They spoke to the judge clearly",
+              "back": "ils ont parlé clairement au juge"
+            },
+            {
+              "front": "I prepared a new lesson plan",
+              "back": "j&#39;ai préparé un nouveau plan de cours"
+            },
+            {
+              "front": "She treated several injured patients kindly",
+              "back": "elle a traité plusieurs patients blessés avec gentillesse"
+            },
+            {
+              "front": "He saved lives in a fire",
+              "back": "il a sauvé des vies dans un incendie"
+            },
+            {
+              "front": "They cooked meals for everyone daily",
+              "back": "ils préparaient des repas pour tout le monde tous les jours"
+            },
+            {
+              "front": "We performed at the big concert",
+              "back": "nous avons joué au grand concert"
+            },
+            {
+              "front": "He designed a modern building downtown",
+              "back": "il a conçu un bâtiment moderne au centre-ville"
+            },
+            {
+              "front": "She interviewed people on location quickly",
+              "back": "elle a interviewé des gens sur place rapidement"
+            },
+            {
+              "front": "He transported people to their homes",
+              "back": "il transportait les gens chez eux"
+            },
+            {
+              "front": "She fixed the broken tooth carefully",
+              "back": "elle a soigneusement réparé la dent cassée"
+            },
+            {
+              "front": "I captured moments during the wedding",
+              "back": "j&#39;ai capturé des moments pendant le mariage"
+            },
+            {
+              "front": "He repaired the broken sink immediately",
+              "back": "il a réparé l&#39;évier cassé immédiatement"
+            },
+            {
+              "front": "We worked on several cars yesterday",
+              "back": "nous avons travaillé sur plusieurs voitures hier"
+            },
+            {
+              "front": "She treated the sick animals today",
+              "back": "elle a soigné les animaux malades aujourd&#39;hui"
+            },
+            {
+              "front": "They dispensed medicine to patients quickly",
+              "back": "ils ont distribué rapidement des médicaments aux patients"
+            },
+            {
+              "front": "He built a sturdy house himself",
+              "back": "il a construit lui-même une maison solide"
+            },
+            {
+              "front": "She painted a beautiful portrait recently",
+              "back": "elle a peint un beau portrait récemment"
+            },
+            {
+              "front": "He calculated the company’s finances perfectly",
+              "back": "il a parfaitement calculé les finances de l&#39;entreprise"
+            },
+            {
+              "front": "I designed the new structure downtown",
+              "back": "j&#39;ai conçu la nouvelle structure du centre-ville"
+            },
+            {
+              "front": "She flew through heavy storms easily",
+              "back": "elle a traversé facilement de fortes tempêtes"
+            },
+            {
+              "front": "They handled the complex case professionally",
+              "back": "ils ont traité l&#39;affaire complexe avec professionnalisme"
+            },
+            {
+              "front": "He presented findings at the conference",
+              "back": "il a présenté ses conclusions lors de la conférence"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Doctor will perform", "back": "le médecin effectuera" },
+            { "front": "Pilot will fly", "back": "le pilote volera" },
+            {
+              "front": "Electrician will work",
+              "back": "l&#39;électricien travaillera"
+            },
+            { "front": "Dentist will adjust", "back": "le dentiste ajustera" },
+            { "front": "Mechanic will fix", "back": "le mécanicien réparera" },
+            {
+              "front": "Teacher will teach",
+              "back": "l&#39;enseignant enseignera"
+            },
+            { "front": "Chef will cook", "back": "le chef cuisinera" },
+            {
+              "front": "Lawyer will argue",
+              "back": "l&#39;avocat argumentera"
+            },
+            { "front": "Nurse will help", "back": "l&#39;infirmière aidera" },
+            {
+              "front": "Scientist will research",
+              "back": "le scientifique fera des recherches"
+            },
+            { "front": "Firefighter will save", "back": "le pompier sauvera" },
+            { "front": "Artist will paint", "back": "l&#39;artiste peindra" },
+            {
+              "front": "Photographer will capture",
+              "back": "le photographe capturera"
+            },
+            { "front": "Plumber will repair", "back": "le plombier réparera" },
+            { "front": "Driver will drive", "back": "le conducteur conduira" },
+            {
+              "front": "Architect will design",
+              "back": "l&#39;architecte concevra"
+            },
+            {
+              "front": "Engineer will build",
+              "back": "l&#39;ingénieur construira"
+            },
+            {
+              "front": "Journalist will report",
+              "back": "le journaliste fera un rapport"
+            },
+            { "front": "Musician will perform", "back": "le musicien jouera" },
+            {
+              "front": "Pharmacist will dispense",
+              "back": "le pharmacien délivrera"
+            },
+            {
+              "front": "Veterinarian will treat",
+              "back": "le vétérinaire traitera"
+            },
+            {
+              "front": "Carpenter will construct",
+              "back": "le charpentier construira"
+            },
+            { "front": "Pilot will land", "back": "le pilote atterrira" },
+            {
+              "front": "Accountant will calculate",
+              "back": "le comptable calculera"
+            },
+            {
+              "front": "Doctor will diagnose",
+              "back": "le médecin diagnostiquera"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "Pilot will fly high", "back": "le pilote volera haut" },
+            {
+              "front": "Doctor will treat patients",
+              "back": "le médecin traitera les patients"
+            },
+            {
+              "front": "Artist will paint pictures",
+              "back": "l&#39;artiste peindra des tableaux"
+            },
+            {
+              "front": "Driver will drive trucks",
+              "back": "le conducteur conduira des camions"
+            },
+            {
+              "front": "Plumber will repair pipes",
+              "back": "le plombier réparera les tuyaux"
+            },
+            {
+              "front": "Chef will cook meals",
+              "back": "le chef cuisinera les repas"
+            },
+            {
+              "front": "Lawyer will defend clients",
+              "back": "l&#39;avocat défendra ses clients"
+            },
+            {
+              "front": "Teacher will grade assignments",
+              "back": "l&#39;enseignant notera les devoirs"
+            },
+            {
+              "front": "Mechanic will fix cars",
+              "back": "le mécanicien réparera les voitures"
+            },
+            {
+              "front": "Photographer will take photos",
+              "back": "le photographe prendra des photos"
+            },
+            {
+              "front": "Nurse will assist doctors",
+              "back": "l&#39;infirmière assistera les médecins"
+            },
+            {
+              "front": "Engineer will design buildings",
+              "back": "l&#39;ingénieur concevra des bâtiments"
+            },
+            {
+              "front": "Firefighter will extinguish fires",
+              "back": "les pompiers éteindront les incendies"
+            },
+            {
+              "front": "Dentist will clean teeth",
+              "back": "le dentiste nettoiera les dents"
+            },
+            {
+              "front": "Electrician will install wiring",
+              "back": "l&#39;électricien installera le câblage"
+            },
+            {
+              "front": "Journalist will write stories",
+              "back": "le journaliste écrira des histoires"
+            },
+            {
+              "front": "Scientist will conduct research",
+              "back": "le scientifique mènera des recherches"
+            },
+            {
+              "front": "Veterinarian will treat animals",
+              "back": "le vétérinaire traitera les animaux"
+            },
+            {
+              "front": "Musician will perform songs",
+              "back": "le musicien interprétera des chansons"
+            },
+            {
+              "front": "Architect will plan houses",
+              "back": "l&#39;architecte planifiera les maisons"
+            },
+            {
+              "front": "Pharmacist will prepare prescriptions",
+              "back": "le pharmacien préparera les ordonnances"
+            },
+            {
+              "front": "Accountant will audit finances",
+              "back": "le comptable vérifiera les finances"
+            },
+            {
+              "front": "Carpenter will build furniture",
+              "back": "le charpentier construira des meubles"
+            },
+            {
+              "front": "Pilot will land safely",
+              "back": "le pilote atterrira en toute sécurité"
+            },
+            {
+              "front": "Lawyer will settle disputes",
+              "back": "l&#39;avocat réglera les différends"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "He is the strongest firefighter here",
+              "back": "c&#39;est le pompier le plus fort ici"
+            },
+            {
+              "front": "I am learning to be doctor",
+              "back": "j&#39;apprends à être médecin"
+            },
+            {
+              "front": "The pilot will announce his updates",
+              "back": "le pilote annoncera ses mises à jour"
+            },
+            {
+              "front": "The dentist will gently adjust teeth",
+              "back": "le dentiste ajustera doucement les dents"
+            },
+            {
+              "front": "She will be a great engineer",
+              "back": "elle sera une grande ingénieure"
+            },
+            {
+              "front": "The plumber will repair leaking pipes",
+              "back": "le plombier réparera les fuites de tuyaux"
+            },
+            {
+              "front": "He will teach advanced mathematics soon",
+              "back": "il enseignera bientôt les mathématiques avancées"
+            },
+            {
+              "front": "They will become professional musicians soon",
+              "back": "ils deviendront bientôt des musiciens professionnels"
+            },
+            {
+              "front": "I will start as a lawyer",
+              "back": "je vais commencer comme avocat"
+            },
+            {
+              "front": "The electrician will replace faulty wiring",
+              "back": "l&#39;électricien remplacera le câblage défectueux"
+            },
+            {
+              "front": "She will care for sick patients",
+              "back": "elle s&#39;occupera des patients malades"
+            },
+            {
+              "front": "The architect will design modern houses",
+              "back": "l&#39;architecte concevra des maisons modernes"
+            },
+            {
+              "front": "My driver will arrive in minutes",
+              "back": "mon chauffeur arrivera dans quelques minutes"
+            },
+            {
+              "front": "He will manage the construction project",
+              "back": "il gérera le projet de construction"
+            },
+            {
+              "front": "We are planning to hire teacher",
+              "back": "nous prévoyons d&#39;embaucher un enseignant"
+            },
+            {
+              "front": "The photographer will capture wedding moments",
+              "back": "le photographe capturera les moments du mariage"
+            },
+            {
+              "front": "She will present research findings tomorrow",
+              "back": "elle présentera les résultats de ses recherches demain"
+            },
+            {
+              "front": "He will perform at the concert",
+              "back": "il se produira au concert"
+            },
+            {
+              "front": "I will be an excellent doctor",
+              "back": "je serai un excellent médecin"
+            },
+            {
+              "front": "The mechanic will repair the car",
+              "back": "le mécanicien réparera la voiture"
+            },
+            {
+              "front": "The journalist will cover breaking news",
+              "back": "le journaliste couvrira l&#39;actualité de dernière minute"
+            },
+            {
+              "front": "He will protect people from fires",
+              "back": "il protégera les gens des incendies"
+            },
+            {
+              "front": "The accountant will handle financial reports",
+              "back": "le comptable s&#39;occupera des rapports financiers"
+            },
+            {
+              "front": "My nurse will assist during surgery",
+              "back": "mon infirmière m&#39;assistera pendant l&#39;opération"
+            },
+            {
+              "front": "The scientist will publish new research",
+              "back": "le scientifique publiera de nouvelles recherches"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

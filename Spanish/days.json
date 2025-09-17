@@ -1,1 +1,1194 @@
-{"language":"Spanish","flashcards":[{"topic":"Days","cards":[{"tense":"present","wordcount":1,"phrases":[{"front":"Monday","back":"lunes"},{"front":"Tuesday","back":"martes"},{"front":"Wednesday","back":"miyerkules"},{"front":"Thursday","back":"huwebes"},{"front":"Friday","back":"biyernes"},{"front":"Saturday","back":"sabado"},{"front":"Sunday","back":"domingo"},{"front":"Tomorrow","back":"ugma"},{"front":"Yesterday","back":"kagahapon"}]},{"tense":"present","wordcount":2,"phrases":[{"front":"Rainy Tuesday","back":"ulan nga martes"},{"front":"Gloomy Monday","back":"ngitngit nga lunes"},{"front":"Next Saturday","back":"sunod sabado"},{"front":"Before tomorrow","back":"sa dili pa ugma"},{"front":"Sunny Sunday","back":"adlaw nga domingo"},{"front":"Cold Friday","back":"bugnaw nga biyernes"},{"front":"Warm Wednesday","back":"init nga miyerkules"},{"front":"Busy Thursday","back":"busy sa huwebes"},{"front":"After Monday","back":"pagkahuman sa lunes"},{"front":"Before Friday","back":"sa wala pa ang biyernes"},{"front":"Last Tuesday","back":"sa miaging martes"},{"front":"Chilly Thursday","back":"tugnaw nga huwebes"},{"front":"Quiet Sunday","back":"hilom nga domingo"},{"front":"Late Saturday","back":"ulahing sabado"},{"front":"Next Wednesday","back":"sunod miyerkules"},{"front":"Windy Thursday","back":"mahangin nga huwebes"},{"front":"Cloudy Monday","back":"madag-umon nga lunes"},{"front":"Long Friday","back":"taas nga biyernes"},{"front":"Before Wednesday","back":"sa wala pa ang miyerkules"},{"front":"Cold Tuesday","back":"tugnaw nga martes"},{"front":"Early Thursday","back":"sayo sa huwebes"},{"front":"Bright Saturday","back":"hayag nga sabado"},{"front":"Next Sunday","back":"sunod domingo"},{"front":"Before yesterday","back":"sa wala pa kagahapon"},{"front":"Last Monday","back":"sa miaging lunes"}]},{"tense":"present","wordcount":3,"phrases":[{"front":"Cold Tuesday morning","back":"tugnaw sa buntag sa martes"},{"front":"Fun Saturday festival","back":"lingaw nga pista sa sabado"},{"front":"The Friday market","back":"ang merkado sa biyernes"},{"front":"Sunday church service","back":"serbisyo sa simbahan sa domingo"},{"front":"Rainy Monday afternoon","back":"ulan sa lunes sa hapon"},{"front":"Sunny Wednesday afternoon","back":"hayag nga miyerkules sa hapon"},{"front":"Chilly Thursday evening","back":"bugnaw nga huwebes sa gabii"},{"front":"Busy Friday morning","back":"busy sa biyernes sa buntag"},{"front":"Early Saturday breakfast","back":"sayo sa sabado nga pamahaw"},{"front":"Quiet Sunday dinner","back":"hilom nga panihapon sa domingo"},{"front":"The Monday meeting","back":"ang miting sa lunes"},{"front":"Next Tuesday event","back":"sunod nga martes nga panghitabo"},{"front":"Cold Thursday walk","back":"bugnaw nga huwebes nga lakaw"},{"front":"Bright Saturday picnic","back":"hayag nga sabado piknik"},{"front":"Late Wednesday night","back":"ulahing miyerkules sa gabii"},{"front":"The Tuesday forecast","back":"ang forecast sa martes"},{"front":"Warm Thursday breeze","back":"init nga huyuhoy sa huwebes"},{"front":"The Sunday game","back":"ang dula sa domingo"},{"front":"Last Friday party","back":"last friday party"},{"front":"Windy Monday morning","back":"hangin sa lunes sa buntag"},{"front":"Before tomorrow night","back":"sa dili pa ugma sa gabii"},{"front":"After Wednesday workout","back":"human sa wednesday workout"},{"front":"Early Friday flight","back":"sayo sa biyernes nga flight"},{"front":"Next Saturday trip","back":"sunod sabado nga biyahe"},{"front":"Gloomy Monday forecast","back":"ngitngit nga monday forecast"}]},{"tense":"present","wordcount":4,"phrases":[{"front":"I am leaving Friday","back":"gikan ko sa biyernes"},{"front":"They come on Monday","back":"sa monday na sila"},{"front":"Saturday is my weekend","back":"sabado mao ang akong katapusan sa semana"},{"front":"We have meetings Thursday","back":"naa mi mga meeting thursday"},{"front":"He travels on Tuesday","back":"mobiyahe siya sa martes"},{"front":"She visits every Wednesday","back":"mubisita siya kada miyerkules"},{"front":"I love Sunday mornings","back":"ganahan ko ug sunday sa buntag"},{"front":"They work on Friday","back":"nagtrabaho sila sa biyernes"},{"front":"Tomorrow is the deadline","back":"ugma ang deadline"},{"front":"She leaves on Thursday","back":"gikan siya sa huwebes"},{"front":"I enjoy quiet Saturday","back":"nalingaw ko sa hilom nga sabado"},{"front":"They plan events Sunday","back":"nagplano sila ug mga panghitabo sa domingo"},{"front":"We finish tasks Monday","back":"mahuman namo ang mga buluhaton sa lunes"},{"front":"He arrives on Friday","back":"niabot siya sa friday"},{"front":"She rests every Saturday","back":"mopahuway siya kada sabado"},{"front":"We start on Wednesday","back":"magsugod mi sa wednesday"},{"front":"I work every Tuesday","back":"nagtrabaho ko kada martes"},{"front":"They study on Monday","back":"magtuon sila sa lunes"},{"front":"Tomorrow is very busy","back":"ugma busy kaayo"},{"front":"Yesterday was too short","back":"gahapon mubo ra kaayo"},{"front":"Next Friday is important","back":"sunod biyernes importante"},{"front":"We relax on Sunday","back":"relax mi sa sunday"},{"front":"She prepares every Saturday","back":"nangandam siya kada sabado"},{"front":"He leaves on Monday","back":"mogawas siya sa monday"},{"front":"We clean on Thursday","back":"limpyo mi sa huwebes"}]},{"tense":"present","wordcount":5,"phrases":[{"front":"I rest every Sunday afternoon","back":"mopahuway ko kada domingo sa hapon"},{"front":"They party every Saturday night","back":"party sila kada sabado sa gabii"},{"front":"The market opens Friday evening","back":"ang merkado abli sa biyernes sa gabii"},{"front":"She cleans every Wednesday morning","back":"manglimpyo siya kada miyerkules sa buntag"},{"front":"He studies late Monday night","back":"nagtuon siya sa lunes sa gabii"},{"front":"We go hiking on Saturday","back":"mag hiking mi sa sabado"},{"front":"They visit us every Thursday","back":"mamisita sila namo kada huwebes"},{"front":"I shop every Tuesday morning","back":"mamalit ko kada martes sa buntag"},{"front":"The library closes Sunday evening","back":"ang library mosira sa domingo sa gabii"},{"front":"We meet every Friday afternoon","back":"magkita mi kada biyernes sa hapon"},{"front":"She exercises every Thursday morning","back":"nag exercise siya kada huwebes sa buntag"},{"front":"I work late every Monday","back":"late ko magtrabaho kada lunes"},{"front":"They enjoy movies on Saturday","back":"nalingaw silag salida sa sabado"},{"front":"The store opens Wednesday afternoon","back":"ang tindahan abli miyerkules sa hapon"},{"front":"He leaves early on Friday","back":"sayo siya mobiya sa biyernes"},{"front":"We eat lunch every Sunday","back":"maniudto mi kada domingo"},{"front":"They play games every Tuesday","back":"mag duwa sila kada martes"},{"front":"The gym closes late Thursday","back":"ang gym nagsira sa ulahing bahin sa huwebes"},{"front":"I start work early Monday","back":"magsugod ko sa trabaho sayo sa lunes"},{"front":"We have dinner on Saturday","back":"manihapon mi sa sabado"},{"front":"They attend church every Sunday","back":"nagsimba sila kada domingo"},{"front":"I plan trips every Friday","back":"nagplano kog mga biyahe kada biyernes"},{"front":"He meets clients on Wednesday","back":"nakigkita siya sa mga kliyente sa miyerkules"},{"front":"She finishes work by Thursday","back":"mahuman niya ang trabaho sa huwebes"},{"front":"The meeting starts Monday afternoon","back":"ang miting magsugod sa lunes sa hapon"}]},{"tense":"present","wordcount":6,"phrases":[{"front":"I rest every Sunday after lunch","back":"mopahuway ko every sunday after lunch"},{"front":"They party every Saturday at night","back":"party sila kada sabado sa gabii"},{"front":"The market opens Friday in the evening","back":"ang merkado abli sa biyernes sa gabii"},{"front":"She cleans the house every Wednesday","back":"manglimpyo siya sa balay kada miyerkules"},{"front":"He studies late on Monday night","back":"siya nagtuon sa ulahi sa lunes sa gabii"},{"front":"We go hiking every Saturday afternoon","back":"mag hiking mi kada sabado sa hapon"},{"front":"They visit us every Thursday evening","back":"sila mobisita kanamo matag huwebes sa gabii"},{"front":"I shop for groceries on Tuesday","back":"mamalit kog groceries sa martes"},{"front":"The library closes every Sunday evening","back":"ang library magsira kada domingo sa gabii"},{"front":"We meet every Friday after work","back":"magkita mi every friday after work"},{"front":"She exercises every Thursday before breakfast","back":"nag exercise siya kada thursday before pamahaw"},{"front":"I work late every Monday night","back":"nagtrabaho ko nga ulahi matag lunes sa gabii"},{"front":"They enjoy watching movies on Saturday","back":"malingaw silag tan aw ug salida sa sabado"},{"front":"The store opens Wednesday after lunch","back":"ang tindahan abli miyerkules human sa paniudto"},{"front":"He leaves early every Friday morning","back":"sayo siya mobiya kada biyernes sa buntag"},{"front":"We eat lunch together every Sunday","back":"magdungan mig paniudto kada domingo"},{"front":"They play board games on Tuesday","back":"mag board games sila sa martes"},{"front":"The gym closes late on Thursday","back":"ang gym nagsira sa ulahi sa huwebes"},{"front":"I start work early every Monday","back":"sayo ko magsugod sa trabaho kada lunes"},{"front":"We have dinner every Saturday evening","back":"manihapon mi kada sabado sa gabii"},{"front":"They attend church every Sunday morning","back":"nagsimba sila kada domingo sa buntag"},{"front":"I plan weekend trips every Friday","back":"nagplano ko ug weekend trips every friday"},{"front":"He meets clients every Wednesday afternoon","back":"makigkita siya sa mga kliyente matag miyerkules sa hapon"},{"front":"She finishes all her work by Thursday","back":"mahuman niya ang tanan niyang trabaho sa huwebes"},{"front":"The meeting starts Monday after lunch","back":"ang miting magsugod sa lunes human sa paniudto"}]},{"tense":"past","wordcount":2,"phrases":[{"front":"Was Monday","back":"mao ang lunes"},{"front":"Was Tuesday","back":"niadtong martes"},{"front":"Was Wednesday","back":"niadtong miyerkules"},{"front":"Was Thursday","back":"niadtong huwebes"},{"front":"Was Friday","back":"niadtong biyernes"},{"front":"Was Saturday","back":"niadtong sabado"},{"front":"Was Sunday","back":"domingo diay"},{"front":"Worked Sunday","back":"nagtrabaho domingo"},{"front":"Ate Sunday","back":"nikaon ug domingo"},{"front":"Left Monday","back":"mibiya sa lunes"},{"front":"Visited Tuesday","back":"mibisita sa martes"},{"front":"Rested Friday","back":"nipahulay sa biyernes"},{"front":"Slept Saturday","back":"natulog sabado"},{"front":"Watched Thursday","back":"mitan-aw sa huwebes"},{"front":"Traveled Wednesday","back":"mibiyahe miyerkules"},{"front":"Called Friday","back":"gitawag nga biyernes"},{"front":"Met Monday","back":"nagkita lunes"},{"front":"Studied Tuesday","back":"nagtuon martes"},{"front":"Worked Saturday","back":"nagtrabaho sabado"},{"front":"Ate Thursday","back":"nikaon ug thursday"},{"front":"Ran Wednesday","back":"midagan niadtong miyerkules"},{"front":"Drove Sunday","back":"nagdrayb domingo"},{"front":"Cleaned Friday","back":"limpyo sa biyernes"},{"front":"Saw Saturday","back":"nakita sa sabado"},{"front":"Called Monday","back":"gitawag ug lunes"}]},{"tense":"past","wordcount":3,"phrases":[{"front":"I studied Tuesday","back":"nagtuon ko tuesday"},{"front":"We ate together","back":"nagdungan mig kaon"},{"front":"It rained Monday","back":"nag-ulan sa lunes"},{"front":"Everyone left Friday","back":"ang tanan mibiya sa biyernes"},{"front":"She worked Sunday","back":"mitrabaho siya sa domingo"},{"front":"He traveled Wednesday","back":"mibiyahe siya miyerkules"},{"front":"We watched Thursday","back":"nagtan-aw mi sa huwebes"},{"front":"They visited Saturday","back":"mibisita sila sa sabado"},{"front":"You cleaned Friday","back":"nanglimpyo ka sa biyernes"},{"front":"I called Monday","back":"nanawag ko monday"},{"front":"We met Wednesday","back":"nagkita mi wednesday"},{"front":"She rested Sunday","back":"mipahulay siya sa domingo"},{"front":"He drove Saturday","back":"nagdrayb siya sabado"},{"front":"We ran Tuesday","back":"midagan mi sa martes"},{"front":"They left Thursday","back":"nihawa sila thursday"},{"front":"I slept Friday","back":"natulog ko friday"},{"front":"She cooked Tuesday","back":"nagluto siyag martes"},{"front":"They danced Saturday","back":"nagsayaw sila sabado"},{"front":"We worked Monday","back":"nagtrabaho mi sa lunes"},{"front":"He called Wednesday","back":"nanawag siyag wednesday"},{"front":"We saw Saturday","back":"nagkita mi sa sabado"},{"front":"I walked Thursday","back":"nilakaw ko thursday"},{"front":"They played Friday","back":"nagdula sila sa biyernes"},{"front":"You left Monday","back":"nihawa ka sa lunes"},{"front":"She ate Sunday","back":"nikaon siya ug sunday"}]},{"tense":"past","wordcount":4,"phrases":[{"front":"I studied all Tuesday","back":"nagtuon ko tibuok martes"},{"front":"We ate dinner Sunday","back":"nangaon mi ug domingo"},{"front":"It rained heavily Monday","back":"kusog kaayo ang ulan sa lunes"},{"front":"Everyone left early Friday","back":"ang tanan mibiya sayo sa biyernes"},{"front":"She worked late Saturday","back":"nagtrabaho siya sa ulahing sabado"},{"front":"He traveled last Wednesday","back":"nibiyahe siya last wednesday"},{"front":"We watched movies Thursday","back":"nanan-aw mi ug sine thursday"},{"front":"They visited us Saturday","back":"mibisita sila namo sabado"},{"front":"You cleaned house Friday","back":"nanglimpyo ka balay biyernes"},{"front":"I called you Monday","back":"nanawag ko nimo lunes"},{"front":"We met again Wednesday","back":"nagkita mi ug usab miyerkules"},{"front":"She rested at home Sunday","back":"mipahulay siya sa balay domingo"},{"front":"He drove us Saturday","back":"gihatod mi niya sabado"},{"front":"We ran together Tuesday","back":"nagdungan mig dagan tuesday"},{"front":"They left last Thursday","back":"nilakaw sila last thursday"},{"front":"I slept well Friday","back":"natulog kog maayo friday"},{"front":"She cooked breakfast Tuesday","back":"nagluto siyag pamahaw martes"},{"front":"They danced all Saturday","back":"nanayaw sila tibuok sabado"},{"front":"We worked together Monday","back":"nagtinabangay mi sa lunes"},{"front":"He called me Wednesday","back":"nitawag siya nako wednesday"},{"front":"We saw them Saturday","back":"nakita namo sila sa sabado"},{"front":"I walked around Thursday","back":"naglakaw ko sa thursday"},{"front":"They played soccer Friday","back":"nagdula sila ug soccer sa biyernes"},{"front":"You left early Monday","back":"sayo sa lunes mibiya ka"},{"front":"She ate breakfast Sunday","back":"nikaon siyag pamahaw pagka domingo"}]},{"tense":"past","wordcount":5,"phrases":[{"front":"I studied all day Tuesday","back":"nagtuon ko tibuok adlaw nga martes"},{"front":"We ate dinner last Sunday","back":"nangaon mi sa miaging domingo"},{"front":"It rained heavily on Monday","back":"kusog ang ulan sa lunes"},{"front":"Everyone left early Friday","back":"ang tanan mibiya sayo sa biyernes"},{"front":"She worked late on Saturday","back":"siya nagtrabaho sa ulahi sa sabado"},{"front":"He traveled last Wednesday afternoon","back":"nibiyahe siya niadtong miyerkules sa hapon"},{"front":"We watched movies on Thursday","back":"nanan-aw mi ug salida sa thursday"},{"front":"They visited us last Saturday","back":"nibisita sila namo last sabado"},{"front":"You cleaned the house Friday","back":"nanglimpyo ka sa balay biyernes"},{"front":"I called you last Monday","back":"nanawag ko nimo last monday"},{"front":"We met again on Wednesday","back":"nagkita mi pag-usab niadtong wednesday"},{"front":"She rested at home Sunday","back":"mipahulay siya sa balay domingo"},{"front":"He drove us on Saturday","back":"gihatod mi niya pagka sabado"},{"front":"We ran together on Tuesday","back":"dungan mig dagan adtong martes"},{"front":"They left early last Thursday","back":"sila mibiya sayo sa miaging huwebes"},{"front":"I slept well last Friday","back":"nakatulog kog maayo last friday"},{"front":"She cooked breakfast on Tuesday","back":"nagluto siyag pamahaw niadtong martes"},{"front":"They danced all night Saturday","back":"nanayaw sila tibuok gabii sabado"},{"front":"We worked together on Monday","back":"nagtinabangay mi pagka monday"},{"front":"He called me last Wednesday","back":"nanawag siya nako last wednesday"},{"front":"We saw them last Saturday","back":"nagkita mi nila last saturday"},{"front":"I walked around on Thursday","back":"nilakaw ko sa thursday"},{"front":"They played soccer last Friday","back":"nagdula sila og soccer niadtong biyernes"},{"front":"You left early on Monday","back":"sayo ka nibiya sa lunes"},{"front":"She ate breakfast on Sunday","back":"nikaon siyag pamahaw pagka domingo"}]},{"tense":"past","wordcount":6,"phrases":[{"front":"I studied hard all day Tuesday","back":"nagtuon kog maayo tibuok adlaw nga martes"},{"front":"We ate dinner together last Sunday","back":"dungan mig panihapon last sunday"},{"front":"It rained heavily on Monday morning","back":"kusog kaayo ang ulan niadtong lunes sa buntag"},{"front":"Everyone left early on Friday afternoon","back":"ang tanan mibiya sayo sa biyernes sa hapon"},{"front":"She worked late last Saturday night","back":"siya nagtrabaho sa gabii sa miaging sabado"},{"front":"He traveled to New York Wednesday","back":"mibiyahe siya sa new york miyerkules"},{"front":"We watched movies Thursday after dinner","back":"nanan-aw mig sine thursday after dinner"},{"front":"They visited us last Saturday evening","back":"mibisita sila kanamo sa miaging sabado sa gabii"},{"front":"You cleaned the entire house Friday","back":"gilimpyohan nimo ang tibuok balay biyernes"},{"front":"I called you early last Monday","back":"nanawag ko nimo sayo sa miaging lunes"},{"front":"We met again on Wednesday evening","back":"nagkita mi pag-usab niadtong wednesday sa gabii"},{"front":"She rested at home last Sunday","back":"nipahulay siya sa balay last sunday"},{"front":"He drove us to the party Saturday","back":"gihatod mi niya sa party sabado"},{"front":"We ran together in the park Tuesday","back":"nagdungan mig dagan sa park tuesday"},{"front":"They left early last Thursday morning","back":"sila mibiya sayo niadtong huwebes sa buntag"},{"front":"I slept very well last Friday","back":"maayo kaayo akong tulog last friday"},{"front":"She cooked breakfast early on Tuesday","back":"nagluto siya og pamahaw sayo sa martes"},{"front":"They danced all night on Saturday","back":"nagsayaw sila tibuok gabii sa sabado"},{"front":"We worked together on Monday afternoon","back":"nagtinabangay mi pagka monday sa hapon"},{"front":"He called me last Wednesday night","back":"nanawag siya nako last wednesday night"},{"front":"We saw them at the park Saturday","back":"nakita namo sila sa park sabado"},{"front":"I walked around the neighborhood Thursday","back":"naglakaw ko libot sa kasilinganan thursday"},{"front":"They played soccer on Friday evening","back":"nagdula sila og soccer niadtong biyernes sa gabii"},{"front":"You left early on Monday morning","back":"sayo sa lunes sa buntag mibiya ka"},{"front":"She ate breakfast with family on Sunday","back":"namahaw siya uban sa pamilya niadtong domingo"}]},{"tense":"future","wordcount":3,"phrases":[{"front":"Will rain Monday","back":"mag-ulan sa lunes"},{"front":"Will go Friday","back":"moadto sa biyernes"},{"front":"Tuesday will come","back":"maabot ang martes"},{"front":"Will leave Saturday","back":"mobiya sa sabado"},{"front":"Will work Sunday","back":"magtrabaho sa domingo"},{"front":"Will rest Wednesday","back":"mopahuway sa miyerkules"},{"front":"Will clean Thursday","back":"manglimpyo sa huwebes"},{"front":"Will study Monday","back":"magtuon sa lunes"},{"front":"Will visit Tuesday","back":"mobisita sa martes"},{"front":"Friday will arrive","back":"muabot ang biyernes"},{"front":"Will travel Wednesday","back":"mobiyahe miyerkules"},{"front":"Will relax Sunday","back":"magpahayahay sa domingo"},{"front":"Will call Friday","back":"mutawag ug friday"},{"front":"Will sleep Saturday","back":"matulog sa sabado"},{"front":"Will leave Monday","back":"mogawas sa lunes"},{"front":"Will drive Tuesday","back":"magdrayb sa martes"},{"front":"Thursday will come","back":"moabot ang huwebes"},{"front":"Will cook Sunday","back":"magluto ug sunday"},{"front":"Will return Wednesday","back":"mobalik miyerkules"},{"front":"Will arrive Monday","back":"moabot sa lunes"},{"front":"Will finish Friday","back":"mahuman sa biyernes"},{"front":"Saturday will start","back":"sabado magsugod"},{"front":"Will travel Tuesday","back":"mobiyahe sa martes"},{"front":"Will work Thursday","back":"motrabaho sa huwebes"},{"front":"Wednesday will begin","back":"wednesday magsugod"}]},{"tense":"future","wordcount":4,"phrases":[{"front":"I will rain Monday","back":"mag-ulan ko sa lunes"},{"front":"We will go Friday","back":"adto mi sa friday"},{"front":"Tuesday will come soon","back":"muabot na ang martes"},{"front":"She will leave Saturday","back":"sabado siya molarga"},{"front":"They will work Sunday","back":"motrabaho sila sa domingo"},{"front":"He will rest Wednesday","back":"mopahulay siya sa miyerkules"},{"front":"We will clean Thursday","back":"manglimpyo mi sa huwebes"},{"front":"I will study Monday","back":"magtuon ko sa lunes"},{"front":"They will visit Tuesday","back":"mobisita sila sa martes"},{"front":"Friday will arrive soon","back":"muabot ang biyernes"},{"front":"He will travel Wednesday","back":"mobiyahe siya sa miyerkules"},{"front":"We will relax Sunday","back":"magpahuway kami sa domingo"},{"front":"I will call Friday","back":"tawagan ko sa friday"},{"front":"She will sleep Saturday","back":"matulog siya sa sabado"},{"front":"They will leave Monday","back":"molarga sila sa lunes"},{"front":"He will drive Tuesday","back":"magdrayb siya sa martes"},{"front":"Thursday will come soon","back":"hapit na ang huwebes"},{"front":"We will cook Sunday","back":"magluto mi ug sunday"},{"front":"She will return Wednesday","back":"mubalik siya sa wednesday"},{"front":"I will arrive Monday","back":"muabot ko monday"},{"front":"They will finish Friday","back":"mahuman sila sa biyernes"},{"front":"Saturday will start early","back":"sabado magsugod sayo"},{"front":"He will travel Tuesday","back":"mobiyahe siya sa martes"},{"front":"We will work Thursday","back":"magtrabaho mi sa huwebes"},{"front":"Wednesday will begin soon","back":"wednesday na magsugod"}]},{"tense":"future","wordcount":5,"phrases":[{"front":"I will leave on Monday","back":"molarga ko sa lunes"},{"front":"We will travel next Friday","back":"mobiyahe mi sunod biyernes"},{"front":"They will visit us Sunday","back":"mamisita sila namo ma sunday"},{"front":"He will work late Wednesday","back":"mutrabaho siya late wednesday"},{"front":"She will relax on Saturday","back":"magpahuway siya sa sabado"},{"front":"We will clean on Thursday","back":"manglimpyo mi sa huwebes"},{"front":"You will arrive by Monday","back":"moabot ka sa lunes"},{"front":"They will start early Tuesday","back":"magsugod sila sayo sa martes"},{"front":"We will finish by Friday","back":"mahuman ta sa biyernes"},{"front":"I will study next Wednesday","back":"magtuon ko sunod miyerkules"},{"front":"She will sleep all Saturday","back":"matulog siya tibuok sabado"},{"front":"They will call on Thursday","back":"manawag sila sa huwebes"},{"front":"We will drive next Sunday","back":"mag drive mi sunod sunday"},{"front":"He will arrive on Wednesday","back":"maabot siya sa wednesday"},{"front":"They will meet next Friday","back":"magkita sila sunod biyernes"},{"front":"I will rest on Monday","back":"mopahulay ko sa monday"},{"front":"We will watch movies Tuesday","back":"magtan-aw mi ug sine martes"},{"front":"She will cook next Sunday","back":"magluto siya sunod sunday"},{"front":"He will leave by Thursday","back":"molarga siya sa huwebes"},{"front":"They will return next Monday","back":"mubalik sila sunod lunes"},{"front":"We will travel this Saturday","back":"mobiyahe mi karong sabado"},{"front":"I will visit you Friday","back":"mamisita ko nimo biyernes"},{"front":"He will study on Wednesday","back":"sa wednesday siya magtuon"},{"front":"They will play games Thursday","back":"magduwa sila thursday"},{"front":"We will rest all Sunday","back":"mamahuway mi tibuok sunday"}]},{"tense":"future","wordcount":6,"phrases":[{"front":"I will leave early on Monday","back":"mogikan ko sayo sa lunes"},{"front":"We will travel together next Friday","back":"magkuyog mi sa sunod biyernes"},{"front":"They will visit us on Sunday","back":"mamisita sila namo sa sunday"},{"front":"He will work late on Wednesday","back":"late na siya motrabaho sa wednesday"},{"front":"She will relax at home Saturday","back":"magpahuway siya sa balay sabado"},{"front":"We will clean the house Thursday","back":"manglimpyo mi sa balay thursday"},{"front":"You will arrive by Monday morning","back":"muabot ka sa lunes sa buntag"},{"front":"They will start early on Tuesday","back":"sayo sila magsugod sa martes"},{"front":"We will finish everything by Friday","back":"mahuman na namo tanan by friday"},{"front":"I will study all day Wednesday","back":"magtuon ko tibuok adlaw sa miyerkules"},{"front":"She will sleep all day Saturday","back":"matulog siya tibuok adlaw sa sabado"},{"front":"They will call you on Thursday","back":"tawgon ka nila sa huwebes"},{"front":"We will drive to the city Sunday","back":"mag drive mi sa city sunday"},{"front":"He will arrive at noon Wednesday","back":"muabot siya sa udto sa miyerkules"},{"front":"They will meet us on Friday","back":"magkita mi nila sa friday"},{"front":"I will rest after work Monday","back":"mopahulay ko human sa trabaho monday"},{"front":"We will watch movies on Tuesday","back":"magtan-aw mig sine sa martes"},{"front":"She will cook breakfast next Sunday","back":"magluto siya ug pamahaw sunod sunday"},{"front":"He will leave before Thursday evening","back":"mogikan siya sa dili pa ang huwebes sa gabii"},{"front":"They will return home next Monday","back":"muuli sila sunod lunes"},{"front":"We will travel early this Saturday","back":"sayo mi mobiyahe karong sabado"},{"front":"I will visit you next Friday","back":"mamisita ko nimo sunod biyernes"},{"front":"He will study for the test Wednesday","back":"magtuon siya para sa test wednesday"},{"front":"They will play games all Thursday","back":"magduwa sila tibuok thursday"},{"front":"We will rest after church Sunday","back":"mamahuway mi human sa simba sa domingo"}]}]}]}
+{
+  "language": "Spanish",
+  "flashcards": [
+    {
+      "topic": "Days",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Monday", "back": "lunes" },
+            { "front": "Tuesday", "back": "martes" },
+            { "front": "Wednesday", "back": "miyerkules" },
+            { "front": "Thursday", "back": "huwebes" },
+            { "front": "Friday", "back": "biyernes" },
+            { "front": "Saturday", "back": "sabado" },
+            { "front": "Sunday", "back": "domingo" },
+            { "front": "Tomorrow", "back": "ugma" },
+            { "front": "Yesterday", "back": "kagahapon" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Rainy Tuesday", "back": "ulan nga martes" },
+            { "front": "Gloomy Monday", "back": "ngitngit nga lunes" },
+            { "front": "Next Saturday", "back": "sunod sabado" },
+            { "front": "Before tomorrow", "back": "sa dili pa ugma" },
+            { "front": "Sunny Sunday", "back": "adlaw nga domingo" },
+            { "front": "Cold Friday", "back": "bugnaw nga biyernes" },
+            { "front": "Warm Wednesday", "back": "init nga miyerkules" },
+            { "front": "Busy Thursday", "back": "busy sa huwebes" },
+            { "front": "After Monday", "back": "pagkahuman sa lunes" },
+            { "front": "Before Friday", "back": "sa wala pa ang biyernes" },
+            { "front": "Last Tuesday", "back": "sa miaging martes" },
+            { "front": "Chilly Thursday", "back": "tugnaw nga huwebes" },
+            { "front": "Quiet Sunday", "back": "hilom nga domingo" },
+            { "front": "Late Saturday", "back": "ulahing sabado" },
+            { "front": "Next Wednesday", "back": "sunod miyerkules" },
+            { "front": "Windy Thursday", "back": "mahangin nga huwebes" },
+            { "front": "Cloudy Monday", "back": "madag-umon nga lunes" },
+            { "front": "Long Friday", "back": "taas nga biyernes" },
+            {
+              "front": "Before Wednesday",
+              "back": "sa wala pa ang miyerkules"
+            },
+            { "front": "Cold Tuesday", "back": "tugnaw nga martes" },
+            { "front": "Early Thursday", "back": "sayo sa huwebes" },
+            { "front": "Bright Saturday", "back": "hayag nga sabado" },
+            { "front": "Next Sunday", "back": "sunod domingo" },
+            { "front": "Before yesterday", "back": "sa wala pa kagahapon" },
+            { "front": "Last Monday", "back": "sa miaging lunes" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Cold Tuesday morning",
+              "back": "tugnaw sa buntag sa martes"
+            },
+            {
+              "front": "Fun Saturday festival",
+              "back": "lingaw nga pista sa sabado"
+            },
+            { "front": "The Friday market", "back": "ang merkado sa biyernes" },
+            {
+              "front": "Sunday church service",
+              "back": "serbisyo sa simbahan sa domingo"
+            },
+            {
+              "front": "Rainy Monday afternoon",
+              "back": "ulan sa lunes sa hapon"
+            },
+            {
+              "front": "Sunny Wednesday afternoon",
+              "back": "hayag nga miyerkules sa hapon"
+            },
+            {
+              "front": "Chilly Thursday evening",
+              "back": "bugnaw nga huwebes sa gabii"
+            },
+            {
+              "front": "Busy Friday morning",
+              "back": "busy sa biyernes sa buntag"
+            },
+            {
+              "front": "Early Saturday breakfast",
+              "back": "sayo sa sabado nga pamahaw"
+            },
+            {
+              "front": "Quiet Sunday dinner",
+              "back": "hilom nga panihapon sa domingo"
+            },
+            { "front": "The Monday meeting", "back": "ang miting sa lunes" },
+            {
+              "front": "Next Tuesday event",
+              "back": "sunod nga martes nga panghitabo"
+            },
+            {
+              "front": "Cold Thursday walk",
+              "back": "bugnaw nga huwebes nga lakaw"
+            },
+            {
+              "front": "Bright Saturday picnic",
+              "back": "hayag nga sabado piknik"
+            },
+            {
+              "front": "Late Wednesday night",
+              "back": "ulahing miyerkules sa gabii"
+            },
+            {
+              "front": "The Tuesday forecast",
+              "back": "ang forecast sa martes"
+            },
+            {
+              "front": "Warm Thursday breeze",
+              "back": "init nga huyuhoy sa huwebes"
+            },
+            { "front": "The Sunday game", "back": "ang dula sa domingo" },
+            { "front": "Last Friday party", "back": "last friday party" },
+            {
+              "front": "Windy Monday morning",
+              "back": "hangin sa lunes sa buntag"
+            },
+            {
+              "front": "Before tomorrow night",
+              "back": "sa dili pa ugma sa gabii"
+            },
+            {
+              "front": "After Wednesday workout",
+              "back": "human sa wednesday workout"
+            },
+            {
+              "front": "Early Friday flight",
+              "back": "sayo sa biyernes nga flight"
+            },
+            {
+              "front": "Next Saturday trip",
+              "back": "sunod sabado nga biyahe"
+            },
+            {
+              "front": "Gloomy Monday forecast",
+              "back": "ngitngit nga monday forecast"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I am leaving Friday", "back": "gikan ko sa biyernes" },
+            { "front": "They come on Monday", "back": "sa monday na sila" },
+            {
+              "front": "Saturday is my weekend",
+              "back": "sabado mao ang akong katapusan sa semana"
+            },
+            {
+              "front": "We have meetings Thursday",
+              "back": "naa mi mga meeting thursday"
+            },
+            {
+              "front": "He travels on Tuesday",
+              "back": "mobiyahe siya sa martes"
+            },
+            {
+              "front": "She visits every Wednesday",
+              "back": "mubisita siya kada miyerkules"
+            },
+            {
+              "front": "I love Sunday mornings",
+              "back": "ganahan ko ug sunday sa buntag"
+            },
+            {
+              "front": "They work on Friday",
+              "back": "nagtrabaho sila sa biyernes"
+            },
+            {
+              "front": "Tomorrow is the deadline",
+              "back": "ugma ang deadline"
+            },
+            {
+              "front": "She leaves on Thursday",
+              "back": "gikan siya sa huwebes"
+            },
+            {
+              "front": "I enjoy quiet Saturday",
+              "back": "nalingaw ko sa hilom nga sabado"
+            },
+            {
+              "front": "They plan events Sunday",
+              "back": "nagplano sila ug mga panghitabo sa domingo"
+            },
+            {
+              "front": "We finish tasks Monday",
+              "back": "mahuman namo ang mga buluhaton sa lunes"
+            },
+            {
+              "front": "He arrives on Friday",
+              "back": "niabot siya sa friday"
+            },
+            {
+              "front": "She rests every Saturday",
+              "back": "mopahuway siya kada sabado"
+            },
+            {
+              "front": "We start on Wednesday",
+              "back": "magsugod mi sa wednesday"
+            },
+            {
+              "front": "I work every Tuesday",
+              "back": "nagtrabaho ko kada martes"
+            },
+            {
+              "front": "They study on Monday",
+              "back": "magtuon sila sa lunes"
+            },
+            { "front": "Tomorrow is very busy", "back": "ugma busy kaayo" },
+            {
+              "front": "Yesterday was too short",
+              "back": "gahapon mubo ra kaayo"
+            },
+            {
+              "front": "Next Friday is important",
+              "back": "sunod biyernes importante"
+            },
+            { "front": "We relax on Sunday", "back": "relax mi sa sunday" },
+            {
+              "front": "She prepares every Saturday",
+              "back": "nangandam siya kada sabado"
+            },
+            {
+              "front": "He leaves on Monday",
+              "back": "mogawas siya sa monday"
+            },
+            { "front": "We clean on Thursday", "back": "limpyo mi sa huwebes" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I rest every Sunday afternoon",
+              "back": "mopahuway ko kada domingo sa hapon"
+            },
+            {
+              "front": "They party every Saturday night",
+              "back": "party sila kada sabado sa gabii"
+            },
+            {
+              "front": "The market opens Friday evening",
+              "back": "ang merkado abli sa biyernes sa gabii"
+            },
+            {
+              "front": "She cleans every Wednesday morning",
+              "back": "manglimpyo siya kada miyerkules sa buntag"
+            },
+            {
+              "front": "He studies late Monday night",
+              "back": "nagtuon siya sa lunes sa gabii"
+            },
+            {
+              "front": "We go hiking on Saturday",
+              "back": "mag hiking mi sa sabado"
+            },
+            {
+              "front": "They visit us every Thursday",
+              "back": "mamisita sila namo kada huwebes"
+            },
+            {
+              "front": "I shop every Tuesday morning",
+              "back": "mamalit ko kada martes sa buntag"
+            },
+            {
+              "front": "The library closes Sunday evening",
+              "back": "ang library mosira sa domingo sa gabii"
+            },
+            {
+              "front": "We meet every Friday afternoon",
+              "back": "magkita mi kada biyernes sa hapon"
+            },
+            {
+              "front": "She exercises every Thursday morning",
+              "back": "nag exercise siya kada huwebes sa buntag"
+            },
+            {
+              "front": "I work late every Monday",
+              "back": "late ko magtrabaho kada lunes"
+            },
+            {
+              "front": "They enjoy movies on Saturday",
+              "back": "nalingaw silag salida sa sabado"
+            },
+            {
+              "front": "The store opens Wednesday afternoon",
+              "back": "ang tindahan abli miyerkules sa hapon"
+            },
+            {
+              "front": "He leaves early on Friday",
+              "back": "sayo siya mobiya sa biyernes"
+            },
+            {
+              "front": "We eat lunch every Sunday",
+              "back": "maniudto mi kada domingo"
+            },
+            {
+              "front": "They play games every Tuesday",
+              "back": "mag duwa sila kada martes"
+            },
+            {
+              "front": "The gym closes late Thursday",
+              "back": "ang gym nagsira sa ulahing bahin sa huwebes"
+            },
+            {
+              "front": "I start work early Monday",
+              "back": "magsugod ko sa trabaho sayo sa lunes"
+            },
+            {
+              "front": "We have dinner on Saturday",
+              "back": "manihapon mi sa sabado"
+            },
+            {
+              "front": "They attend church every Sunday",
+              "back": "nagsimba sila kada domingo"
+            },
+            {
+              "front": "I plan trips every Friday",
+              "back": "nagplano kog mga biyahe kada biyernes"
+            },
+            {
+              "front": "He meets clients on Wednesday",
+              "back": "nakigkita siya sa mga kliyente sa miyerkules"
+            },
+            {
+              "front": "She finishes work by Thursday",
+              "back": "mahuman niya ang trabaho sa huwebes"
+            },
+            {
+              "front": "The meeting starts Monday afternoon",
+              "back": "ang miting magsugod sa lunes sa hapon"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I rest every Sunday after lunch",
+              "back": "mopahuway ko every sunday after lunch"
+            },
+            {
+              "front": "They party every Saturday at night",
+              "back": "party sila kada sabado sa gabii"
+            },
+            {
+              "front": "The market opens Friday in the evening",
+              "back": "ang merkado abli sa biyernes sa gabii"
+            },
+            {
+              "front": "She cleans the house every Wednesday",
+              "back": "manglimpyo siya sa balay kada miyerkules"
+            },
+            {
+              "front": "He studies late on Monday night",
+              "back": "siya nagtuon sa ulahi sa lunes sa gabii"
+            },
+            {
+              "front": "We go hiking every Saturday afternoon",
+              "back": "mag hiking mi kada sabado sa hapon"
+            },
+            {
+              "front": "They visit us every Thursday evening",
+              "back": "sila mobisita kanamo matag huwebes sa gabii"
+            },
+            {
+              "front": "I shop for groceries on Tuesday",
+              "back": "mamalit kog groceries sa martes"
+            },
+            {
+              "front": "The library closes every Sunday evening",
+              "back": "ang library magsira kada domingo sa gabii"
+            },
+            {
+              "front": "We meet every Friday after work",
+              "back": "magkita mi every friday after work"
+            },
+            {
+              "front": "She exercises every Thursday before breakfast",
+              "back": "nag exercise siya kada thursday before pamahaw"
+            },
+            {
+              "front": "I work late every Monday night",
+              "back": "nagtrabaho ko nga ulahi matag lunes sa gabii"
+            },
+            {
+              "front": "They enjoy watching movies on Saturday",
+              "back": "malingaw silag tan aw ug salida sa sabado"
+            },
+            {
+              "front": "The store opens Wednesday after lunch",
+              "back": "ang tindahan abli miyerkules human sa paniudto"
+            },
+            {
+              "front": "He leaves early every Friday morning",
+              "back": "sayo siya mobiya kada biyernes sa buntag"
+            },
+            {
+              "front": "We eat lunch together every Sunday",
+              "back": "magdungan mig paniudto kada domingo"
+            },
+            {
+              "front": "They play board games on Tuesday",
+              "back": "mag board games sila sa martes"
+            },
+            {
+              "front": "The gym closes late on Thursday",
+              "back": "ang gym nagsira sa ulahi sa huwebes"
+            },
+            {
+              "front": "I start work early every Monday",
+              "back": "sayo ko magsugod sa trabaho kada lunes"
+            },
+            {
+              "front": "We have dinner every Saturday evening",
+              "back": "manihapon mi kada sabado sa gabii"
+            },
+            {
+              "front": "They attend church every Sunday morning",
+              "back": "nagsimba sila kada domingo sa buntag"
+            },
+            {
+              "front": "I plan weekend trips every Friday",
+              "back": "nagplano ko ug weekend trips every friday"
+            },
+            {
+              "front": "He meets clients every Wednesday afternoon",
+              "back": "makigkita siya sa mga kliyente matag miyerkules sa hapon"
+            },
+            {
+              "front": "She finishes all her work by Thursday",
+              "back": "mahuman niya ang tanan niyang trabaho sa huwebes"
+            },
+            {
+              "front": "The meeting starts Monday after lunch",
+              "back": "ang miting magsugod sa lunes human sa paniudto"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Was Monday", "back": "mao ang lunes" },
+            { "front": "Was Tuesday", "back": "niadtong martes" },
+            { "front": "Was Wednesday", "back": "niadtong miyerkules" },
+            { "front": "Was Thursday", "back": "niadtong huwebes" },
+            { "front": "Was Friday", "back": "niadtong biyernes" },
+            { "front": "Was Saturday", "back": "niadtong sabado" },
+            { "front": "Was Sunday", "back": "domingo diay" },
+            { "front": "Worked Sunday", "back": "nagtrabaho domingo" },
+            { "front": "Ate Sunday", "back": "nikaon ug domingo" },
+            { "front": "Left Monday", "back": "mibiya sa lunes" },
+            { "front": "Visited Tuesday", "back": "mibisita sa martes" },
+            { "front": "Rested Friday", "back": "nipahulay sa biyernes" },
+            { "front": "Slept Saturday", "back": "natulog sabado" },
+            { "front": "Watched Thursday", "back": "mitan-aw sa huwebes" },
+            { "front": "Traveled Wednesday", "back": "mibiyahe miyerkules" },
+            { "front": "Called Friday", "back": "gitawag nga biyernes" },
+            { "front": "Met Monday", "back": "nagkita lunes" },
+            { "front": "Studied Tuesday", "back": "nagtuon martes" },
+            { "front": "Worked Saturday", "back": "nagtrabaho sabado" },
+            { "front": "Ate Thursday", "back": "nikaon ug thursday" },
+            { "front": "Ran Wednesday", "back": "midagan niadtong miyerkules" },
+            { "front": "Drove Sunday", "back": "nagdrayb domingo" },
+            { "front": "Cleaned Friday", "back": "limpyo sa biyernes" },
+            { "front": "Saw Saturday", "back": "nakita sa sabado" },
+            { "front": "Called Monday", "back": "gitawag ug lunes" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I studied Tuesday", "back": "nagtuon ko tuesday" },
+            { "front": "We ate together", "back": "nagdungan mig kaon" },
+            { "front": "It rained Monday", "back": "nag-ulan sa lunes" },
+            {
+              "front": "Everyone left Friday",
+              "back": "ang tanan mibiya sa biyernes"
+            },
+            {
+              "front": "She worked Sunday",
+              "back": "mitrabaho siya sa domingo"
+            },
+            {
+              "front": "He traveled Wednesday",
+              "back": "mibiyahe siya miyerkules"
+            },
+            {
+              "front": "We watched Thursday",
+              "back": "nagtan-aw mi sa huwebes"
+            },
+            {
+              "front": "They visited Saturday",
+              "back": "mibisita sila sa sabado"
+            },
+            {
+              "front": "You cleaned Friday",
+              "back": "nanglimpyo ka sa biyernes"
+            },
+            { "front": "I called Monday", "back": "nanawag ko monday" },
+            { "front": "We met Wednesday", "back": "nagkita mi wednesday" },
+            {
+              "front": "She rested Sunday",
+              "back": "mipahulay siya sa domingo"
+            },
+            { "front": "He drove Saturday", "back": "nagdrayb siya sabado" },
+            { "front": "We ran Tuesday", "back": "midagan mi sa martes" },
+            { "front": "They left Thursday", "back": "nihawa sila thursday" },
+            { "front": "I slept Friday", "back": "natulog ko friday" },
+            { "front": "She cooked Tuesday", "back": "nagluto siyag martes" },
+            { "front": "They danced Saturday", "back": "nagsayaw sila sabado" },
+            { "front": "We worked Monday", "back": "nagtrabaho mi sa lunes" },
+            {
+              "front": "He called Wednesday",
+              "back": "nanawag siyag wednesday"
+            },
+            { "front": "We saw Saturday", "back": "nagkita mi sa sabado" },
+            { "front": "I walked Thursday", "back": "nilakaw ko thursday" },
+            {
+              "front": "They played Friday",
+              "back": "nagdula sila sa biyernes"
+            },
+            { "front": "You left Monday", "back": "nihawa ka sa lunes" },
+            { "front": "She ate Sunday", "back": "nikaon siya ug sunday" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I studied all Tuesday",
+              "back": "nagtuon ko tibuok martes"
+            },
+            {
+              "front": "We ate dinner Sunday",
+              "back": "nangaon mi ug domingo"
+            },
+            {
+              "front": "It rained heavily Monday",
+              "back": "kusog kaayo ang ulan sa lunes"
+            },
+            {
+              "front": "Everyone left early Friday",
+              "back": "ang tanan mibiya sayo sa biyernes"
+            },
+            {
+              "front": "She worked late Saturday",
+              "back": "nagtrabaho siya sa ulahing sabado"
+            },
+            {
+              "front": "He traveled last Wednesday",
+              "back": "nibiyahe siya last wednesday"
+            },
+            {
+              "front": "We watched movies Thursday",
+              "back": "nanan-aw mi ug sine thursday"
+            },
+            {
+              "front": "They visited us Saturday",
+              "back": "mibisita sila namo sabado"
+            },
+            {
+              "front": "You cleaned house Friday",
+              "back": "nanglimpyo ka balay biyernes"
+            },
+            { "front": "I called you Monday", "back": "nanawag ko nimo lunes" },
+            {
+              "front": "We met again Wednesday",
+              "back": "nagkita mi ug usab miyerkules"
+            },
+            {
+              "front": "She rested at home Sunday",
+              "back": "mipahulay siya sa balay domingo"
+            },
+            {
+              "front": "He drove us Saturday",
+              "back": "gihatod mi niya sabado"
+            },
+            {
+              "front": "We ran together Tuesday",
+              "back": "nagdungan mig dagan tuesday"
+            },
+            {
+              "front": "They left last Thursday",
+              "back": "nilakaw sila last thursday"
+            },
+            {
+              "front": "I slept well Friday",
+              "back": "natulog kog maayo friday"
+            },
+            {
+              "front": "She cooked breakfast Tuesday",
+              "back": "nagluto siyag pamahaw martes"
+            },
+            {
+              "front": "They danced all Saturday",
+              "back": "nanayaw sila tibuok sabado"
+            },
+            {
+              "front": "We worked together Monday",
+              "back": "nagtinabangay mi sa lunes"
+            },
+            {
+              "front": "He called me Wednesday",
+              "back": "nitawag siya nako wednesday"
+            },
+            {
+              "front": "We saw them Saturday",
+              "back": "nakita namo sila sa sabado"
+            },
+            {
+              "front": "I walked around Thursday",
+              "back": "naglakaw ko sa thursday"
+            },
+            {
+              "front": "They played soccer Friday",
+              "back": "nagdula sila ug soccer sa biyernes"
+            },
+            {
+              "front": "You left early Monday",
+              "back": "sayo sa lunes mibiya ka"
+            },
+            {
+              "front": "She ate breakfast Sunday",
+              "back": "nikaon siyag pamahaw pagka domingo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I studied all day Tuesday",
+              "back": "nagtuon ko tibuok adlaw nga martes"
+            },
+            {
+              "front": "We ate dinner last Sunday",
+              "back": "nangaon mi sa miaging domingo"
+            },
+            {
+              "front": "It rained heavily on Monday",
+              "back": "kusog ang ulan sa lunes"
+            },
+            {
+              "front": "Everyone left early Friday",
+              "back": "ang tanan mibiya sayo sa biyernes"
+            },
+            {
+              "front": "She worked late on Saturday",
+              "back": "siya nagtrabaho sa ulahi sa sabado"
+            },
+            {
+              "front": "He traveled last Wednesday afternoon",
+              "back": "nibiyahe siya niadtong miyerkules sa hapon"
+            },
+            {
+              "front": "We watched movies on Thursday",
+              "back": "nanan-aw mi ug salida sa thursday"
+            },
+            {
+              "front": "They visited us last Saturday",
+              "back": "nibisita sila namo last sabado"
+            },
+            {
+              "front": "You cleaned the house Friday",
+              "back": "nanglimpyo ka sa balay biyernes"
+            },
+            {
+              "front": "I called you last Monday",
+              "back": "nanawag ko nimo last monday"
+            },
+            {
+              "front": "We met again on Wednesday",
+              "back": "nagkita mi pag-usab niadtong wednesday"
+            },
+            {
+              "front": "She rested at home Sunday",
+              "back": "mipahulay siya sa balay domingo"
+            },
+            {
+              "front": "He drove us on Saturday",
+              "back": "gihatod mi niya pagka sabado"
+            },
+            {
+              "front": "We ran together on Tuesday",
+              "back": "dungan mig dagan adtong martes"
+            },
+            {
+              "front": "They left early last Thursday",
+              "back": "sila mibiya sayo sa miaging huwebes"
+            },
+            {
+              "front": "I slept well last Friday",
+              "back": "nakatulog kog maayo last friday"
+            },
+            {
+              "front": "She cooked breakfast on Tuesday",
+              "back": "nagluto siyag pamahaw niadtong martes"
+            },
+            {
+              "front": "They danced all night Saturday",
+              "back": "nanayaw sila tibuok gabii sabado"
+            },
+            {
+              "front": "We worked together on Monday",
+              "back": "nagtinabangay mi pagka monday"
+            },
+            {
+              "front": "He called me last Wednesday",
+              "back": "nanawag siya nako last wednesday"
+            },
+            {
+              "front": "We saw them last Saturday",
+              "back": "nagkita mi nila last saturday"
+            },
+            {
+              "front": "I walked around on Thursday",
+              "back": "nilakaw ko sa thursday"
+            },
+            {
+              "front": "They played soccer last Friday",
+              "back": "nagdula sila og soccer niadtong biyernes"
+            },
+            {
+              "front": "You left early on Monday",
+              "back": "sayo ka nibiya sa lunes"
+            },
+            {
+              "front": "She ate breakfast on Sunday",
+              "back": "nikaon siyag pamahaw pagka domingo"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I studied hard all day Tuesday",
+              "back": "nagtuon kog maayo tibuok adlaw nga martes"
+            },
+            {
+              "front": "We ate dinner together last Sunday",
+              "back": "dungan mig panihapon last sunday"
+            },
+            {
+              "front": "It rained heavily on Monday morning",
+              "back": "kusog kaayo ang ulan niadtong lunes sa buntag"
+            },
+            {
+              "front": "Everyone left early on Friday afternoon",
+              "back": "ang tanan mibiya sayo sa biyernes sa hapon"
+            },
+            {
+              "front": "She worked late last Saturday night",
+              "back": "siya nagtrabaho sa gabii sa miaging sabado"
+            },
+            {
+              "front": "He traveled to New York Wednesday",
+              "back": "mibiyahe siya sa new york miyerkules"
+            },
+            {
+              "front": "We watched movies Thursday after dinner",
+              "back": "nanan-aw mig sine thursday after dinner"
+            },
+            {
+              "front": "They visited us last Saturday evening",
+              "back": "mibisita sila kanamo sa miaging sabado sa gabii"
+            },
+            {
+              "front": "You cleaned the entire house Friday",
+              "back": "gilimpyohan nimo ang tibuok balay biyernes"
+            },
+            {
+              "front": "I called you early last Monday",
+              "back": "nanawag ko nimo sayo sa miaging lunes"
+            },
+            {
+              "front": "We met again on Wednesday evening",
+              "back": "nagkita mi pag-usab niadtong wednesday sa gabii"
+            },
+            {
+              "front": "She rested at home last Sunday",
+              "back": "nipahulay siya sa balay last sunday"
+            },
+            {
+              "front": "He drove us to the party Saturday",
+              "back": "gihatod mi niya sa party sabado"
+            },
+            {
+              "front": "We ran together in the park Tuesday",
+              "back": "nagdungan mig dagan sa park tuesday"
+            },
+            {
+              "front": "They left early last Thursday morning",
+              "back": "sila mibiya sayo niadtong huwebes sa buntag"
+            },
+            {
+              "front": "I slept very well last Friday",
+              "back": "maayo kaayo akong tulog last friday"
+            },
+            {
+              "front": "She cooked breakfast early on Tuesday",
+              "back": "nagluto siya og pamahaw sayo sa martes"
+            },
+            {
+              "front": "They danced all night on Saturday",
+              "back": "nagsayaw sila tibuok gabii sa sabado"
+            },
+            {
+              "front": "We worked together on Monday afternoon",
+              "back": "nagtinabangay mi pagka monday sa hapon"
+            },
+            {
+              "front": "He called me last Wednesday night",
+              "back": "nanawag siya nako last wednesday night"
+            },
+            {
+              "front": "We saw them at the park Saturday",
+              "back": "nakita namo sila sa park sabado"
+            },
+            {
+              "front": "I walked around the neighborhood Thursday",
+              "back": "naglakaw ko libot sa kasilinganan thursday"
+            },
+            {
+              "front": "They played soccer on Friday evening",
+              "back": "nagdula sila og soccer niadtong biyernes sa gabii"
+            },
+            {
+              "front": "You left early on Monday morning",
+              "back": "sayo sa lunes sa buntag mibiya ka"
+            },
+            {
+              "front": "She ate breakfast with family on Sunday",
+              "back": "namahaw siya uban sa pamilya niadtong domingo"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will rain Monday", "back": "mag-ulan sa lunes" },
+            { "front": "Will go Friday", "back": "moadto sa biyernes" },
+            { "front": "Tuesday will come", "back": "maabot ang martes" },
+            { "front": "Will leave Saturday", "back": "mobiya sa sabado" },
+            { "front": "Will work Sunday", "back": "magtrabaho sa domingo" },
+            {
+              "front": "Will rest Wednesday",
+              "back": "mopahuway sa miyerkules"
+            },
+            { "front": "Will clean Thursday", "back": "manglimpyo sa huwebes" },
+            { "front": "Will study Monday", "back": "magtuon sa lunes" },
+            { "front": "Will visit Tuesday", "back": "mobisita sa martes" },
+            { "front": "Friday will arrive", "back": "muabot ang biyernes" },
+            { "front": "Will travel Wednesday", "back": "mobiyahe miyerkules" },
+            { "front": "Will relax Sunday", "back": "magpahayahay sa domingo" },
+            { "front": "Will call Friday", "back": "mutawag ug friday" },
+            { "front": "Will sleep Saturday", "back": "matulog sa sabado" },
+            { "front": "Will leave Monday", "back": "mogawas sa lunes" },
+            { "front": "Will drive Tuesday", "back": "magdrayb sa martes" },
+            { "front": "Thursday will come", "back": "moabot ang huwebes" },
+            { "front": "Will cook Sunday", "back": "magluto ug sunday" },
+            { "front": "Will return Wednesday", "back": "mobalik miyerkules" },
+            { "front": "Will arrive Monday", "back": "moabot sa lunes" },
+            { "front": "Will finish Friday", "back": "mahuman sa biyernes" },
+            { "front": "Saturday will start", "back": "sabado magsugod" },
+            { "front": "Will travel Tuesday", "back": "mobiyahe sa martes" },
+            { "front": "Will work Thursday", "back": "motrabaho sa huwebes" },
+            { "front": "Wednesday will begin", "back": "wednesday magsugod" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I will rain Monday", "back": "mag-ulan ko sa lunes" },
+            { "front": "We will go Friday", "back": "adto mi sa friday" },
+            {
+              "front": "Tuesday will come soon",
+              "back": "muabot na ang martes"
+            },
+            {
+              "front": "She will leave Saturday",
+              "back": "sabado siya molarga"
+            },
+            {
+              "front": "They will work Sunday",
+              "back": "motrabaho sila sa domingo"
+            },
+            {
+              "front": "He will rest Wednesday",
+              "back": "mopahulay siya sa miyerkules"
+            },
+            {
+              "front": "We will clean Thursday",
+              "back": "manglimpyo mi sa huwebes"
+            },
+            { "front": "I will study Monday", "back": "magtuon ko sa lunes" },
+            {
+              "front": "They will visit Tuesday",
+              "back": "mobisita sila sa martes"
+            },
+            {
+              "front": "Friday will arrive soon",
+              "back": "muabot ang biyernes"
+            },
+            {
+              "front": "He will travel Wednesday",
+              "back": "mobiyahe siya sa miyerkules"
+            },
+            {
+              "front": "We will relax Sunday",
+              "back": "magpahuway kami sa domingo"
+            },
+            { "front": "I will call Friday", "back": "tawagan ko sa friday" },
+            {
+              "front": "She will sleep Saturday",
+              "back": "matulog siya sa sabado"
+            },
+            {
+              "front": "They will leave Monday",
+              "back": "molarga sila sa lunes"
+            },
+            {
+              "front": "He will drive Tuesday",
+              "back": "magdrayb siya sa martes"
+            },
+            {
+              "front": "Thursday will come soon",
+              "back": "hapit na ang huwebes"
+            },
+            { "front": "We will cook Sunday", "back": "magluto mi ug sunday" },
+            {
+              "front": "She will return Wednesday",
+              "back": "mubalik siya sa wednesday"
+            },
+            { "front": "I will arrive Monday", "back": "muabot ko monday" },
+            {
+              "front": "They will finish Friday",
+              "back": "mahuman sila sa biyernes"
+            },
+            {
+              "front": "Saturday will start early",
+              "back": "sabado magsugod sayo"
+            },
+            {
+              "front": "He will travel Tuesday",
+              "back": "mobiyahe siya sa martes"
+            },
+            {
+              "front": "We will work Thursday",
+              "back": "magtrabaho mi sa huwebes"
+            },
+            {
+              "front": "Wednesday will begin soon",
+              "back": "wednesday na magsugod"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will leave on Monday",
+              "back": "molarga ko sa lunes"
+            },
+            {
+              "front": "We will travel next Friday",
+              "back": "mobiyahe mi sunod biyernes"
+            },
+            {
+              "front": "They will visit us Sunday",
+              "back": "mamisita sila namo ma sunday"
+            },
+            {
+              "front": "He will work late Wednesday",
+              "back": "mutrabaho siya late wednesday"
+            },
+            {
+              "front": "She will relax on Saturday",
+              "back": "magpahuway siya sa sabado"
+            },
+            {
+              "front": "We will clean on Thursday",
+              "back": "manglimpyo mi sa huwebes"
+            },
+            {
+              "front": "You will arrive by Monday",
+              "back": "moabot ka sa lunes"
+            },
+            {
+              "front": "They will start early Tuesday",
+              "back": "magsugod sila sayo sa martes"
+            },
+            {
+              "front": "We will finish by Friday",
+              "back": "mahuman ta sa biyernes"
+            },
+            {
+              "front": "I will study next Wednesday",
+              "back": "magtuon ko sunod miyerkules"
+            },
+            {
+              "front": "She will sleep all Saturday",
+              "back": "matulog siya tibuok sabado"
+            },
+            {
+              "front": "They will call on Thursday",
+              "back": "manawag sila sa huwebes"
+            },
+            {
+              "front": "We will drive next Sunday",
+              "back": "mag drive mi sunod sunday"
+            },
+            {
+              "front": "He will arrive on Wednesday",
+              "back": "maabot siya sa wednesday"
+            },
+            {
+              "front": "They will meet next Friday",
+              "back": "magkita sila sunod biyernes"
+            },
+            {
+              "front": "I will rest on Monday",
+              "back": "mopahulay ko sa monday"
+            },
+            {
+              "front": "We will watch movies Tuesday",
+              "back": "magtan-aw mi ug sine martes"
+            },
+            {
+              "front": "She will cook next Sunday",
+              "back": "magluto siya sunod sunday"
+            },
+            {
+              "front": "He will leave by Thursday",
+              "back": "molarga siya sa huwebes"
+            },
+            {
+              "front": "They will return next Monday",
+              "back": "mubalik sila sunod lunes"
+            },
+            {
+              "front": "We will travel this Saturday",
+              "back": "mobiyahe mi karong sabado"
+            },
+            {
+              "front": "I will visit you Friday",
+              "back": "mamisita ko nimo biyernes"
+            },
+            {
+              "front": "He will study on Wednesday",
+              "back": "sa wednesday siya magtuon"
+            },
+            {
+              "front": "They will play games Thursday",
+              "back": "magduwa sila thursday"
+            },
+            {
+              "front": "We will rest all Sunday",
+              "back": "mamahuway mi tibuok sunday"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will leave early on Monday",
+              "back": "mogikan ko sayo sa lunes"
+            },
+            {
+              "front": "We will travel together next Friday",
+              "back": "magkuyog mi sa sunod biyernes"
+            },
+            {
+              "front": "They will visit us on Sunday",
+              "back": "mamisita sila namo sa sunday"
+            },
+            {
+              "front": "He will work late on Wednesday",
+              "back": "late na siya motrabaho sa wednesday"
+            },
+            {
+              "front": "She will relax at home Saturday",
+              "back": "magpahuway siya sa balay sabado"
+            },
+            {
+              "front": "We will clean the house Thursday",
+              "back": "manglimpyo mi sa balay thursday"
+            },
+            {
+              "front": "You will arrive by Monday morning",
+              "back": "muabot ka sa lunes sa buntag"
+            },
+            {
+              "front": "They will start early on Tuesday",
+              "back": "sayo sila magsugod sa martes"
+            },
+            {
+              "front": "We will finish everything by Friday",
+              "back": "mahuman na namo tanan by friday"
+            },
+            {
+              "front": "I will study all day Wednesday",
+              "back": "magtuon ko tibuok adlaw sa miyerkules"
+            },
+            {
+              "front": "She will sleep all day Saturday",
+              "back": "matulog siya tibuok adlaw sa sabado"
+            },
+            {
+              "front": "They will call you on Thursday",
+              "back": "tawgon ka nila sa huwebes"
+            },
+            {
+              "front": "We will drive to the city Sunday",
+              "back": "mag drive mi sa city sunday"
+            },
+            {
+              "front": "He will arrive at noon Wednesday",
+              "back": "muabot siya sa udto sa miyerkules"
+            },
+            {
+              "front": "They will meet us on Friday",
+              "back": "magkita mi nila sa friday"
+            },
+            {
+              "front": "I will rest after work Monday",
+              "back": "mopahulay ko human sa trabaho monday"
+            },
+            {
+              "front": "We will watch movies on Tuesday",
+              "back": "magtan-aw mig sine sa martes"
+            },
+            {
+              "front": "She will cook breakfast next Sunday",
+              "back": "magluto siya ug pamahaw sunod sunday"
+            },
+            {
+              "front": "He will leave before Thursday evening",
+              "back": "mogikan siya sa dili pa ang huwebes sa gabii"
+            },
+            {
+              "front": "They will return home next Monday",
+              "back": "muuli sila sunod lunes"
+            },
+            {
+              "front": "We will travel early this Saturday",
+              "back": "sayo mi mobiyahe karong sabado"
+            },
+            {
+              "front": "I will visit you next Friday",
+              "back": "mamisita ko nimo sunod biyernes"
+            },
+            {
+              "front": "He will study for the test Wednesday",
+              "back": "magtuon siya para sa test wednesday"
+            },
+            {
+              "front": "They will play games all Thursday",
+              "back": "magduwa sila tibuok thursday"
+            },
+            {
+              "front": "We will rest after church Sunday",
+              "back": "mamahuway mi human sa simba sa domingo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

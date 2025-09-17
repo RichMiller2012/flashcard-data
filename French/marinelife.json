@@ -1,0 +1,1282 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Marine Life",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Fish", "back": "poisson" },
+            { "front": "Shrimp", "back": "crevette" },
+            { "front": "Crab", "back": "crabe" },
+            { "front": "Octopus", "back": "pieuvre" },
+            { "front": "Seaweed", "back": "algue" },
+            { "front": "Starfish", "back": "étoile de mer" },
+            { "front": "Jellyfish", "back": "méduse" },
+            { "front": "Dolphin", "back": "dauphin" },
+            { "front": "Shark", "back": "requin" },
+            { "front": "Seal", "back": "joint" },
+            { "front": "Whale", "back": "baleine" },
+            { "front": "Coral", "back": "corail" },
+            { "front": "Clam", "back": "palourde" },
+            { "front": "Lobster", "back": "homard" },
+            { "front": "Squid", "back": "calmar" },
+            { "front": "Turtle", "back": "tortue" },
+            { "front": "Eel", "back": "anguille" },
+            { "front": "Barnacle", "back": "bernacle" },
+            { "front": "Manta", "back": "oublier" },
+            { "front": "Plankton", "back": "plancton" },
+            { "front": "Urchin", "back": "oursin" },
+            { "front": "Crayfish", "back": "écrevisse" },
+            { "front": "Oyster", "back": "huître" },
+            { "front": "Sea snake", "back": "serpent de mer" },
+            { "front": "Seahorse", "back": "hippocampe" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Big fish", "back": "gros poisson" },
+            { "front": "Fresh shrimp", "back": "crevettes fraîches" },
+            { "front": "Red crab", "back": "crabe rouge" },
+            { "front": "Smart octopus", "back": "pieuvre intelligente" },
+            { "front": "Green seaweed", "back": "algues vertes" },
+            { "front": "Bright starfish", "back": "étoile de mer brillante" },
+            { "front": "Soft jellyfish", "back": "méduse molle" },
+            { "front": "Fast dolphin", "back": "dauphin rapide" },
+            { "front": "Strong shark", "back": "requin fort" },
+            { "front": "Playful seal", "back": "phoque joueur" },
+            { "front": "Large whale", "back": "grande baleine" },
+            { "front": "Colorful coral", "back": "corail coloré" },
+            { "front": "Hard clam", "back": "palourde dure" },
+            { "front": "Tasty lobster", "back": "homard savoureux" },
+            { "front": "Small squid", "back": "petit calmar" },
+            { "front": "Slow turtle", "back": "tortue lente" },
+            { "front": "Long eel", "back": "anguille longue" },
+            { "front": "Tiny barnacle", "back": "petite balane" },
+            { "front": "Graceful manta", "back": "gracieux oublier" },
+            { "front": "Floating plankton", "back": "plancton flottant" },
+            { "front": "Spiky urchin", "back": "oursin hérissé" },
+            { "front": "Fresh crayfish", "back": "écrevisses fraîches" },
+            { "front": "Salty oyster", "back": "huître salée" },
+            {
+              "front": "Venomous sea snake",
+              "back": "serpent de mer venimeux"
+            },
+            { "front": "Tiny seahorse", "back": "petit hippocampe" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "The fish swims", "back": "le poisson nage" },
+            {
+              "front": "Fresh shrimp cooks",
+              "back": "crevettes fraîches cuites"
+            },
+            { "front": "Red crab hides", "back": "peaux de crabe rouge" },
+            {
+              "front": "Smart octopus moves",
+              "back": "mouvements intelligents de pieuvre"
+            },
+            {
+              "front": "Green seaweed grows",
+              "back": "les algues vertes poussent"
+            },
+            {
+              "front": "Bright starfish shines",
+              "back": "une étoile de mer brillante brille"
+            },
+            {
+              "front": "Soft jellyfish drifts",
+              "back": "les méduses molles dérivent"
+            },
+            {
+              "front": "Fast dolphin jumps",
+              "back": "sauts rapides des dauphins"
+            },
+            {
+              "front": "Strong shark hunts",
+              "back": "chasses aux requins vigoureuses"
+            },
+            { "front": "Playful seal swims", "back": "phoque joueur nageant" },
+            {
+              "front": "Large whale sings",
+              "back": "une grande baleine chante"
+            },
+            {
+              "front": "Colorful coral grows",
+              "back": "des coraux colorés poussent"
+            },
+            {
+              "front": "Hard clam closes",
+              "back": "la palourde dure se ferme"
+            },
+            {
+              "front": "Tasty lobster steams",
+              "back": "savoureux homards cuits à la vapeur"
+            },
+            {
+              "front": "Small squid hides",
+              "back": "petites peaux de calmars"
+            },
+            { "front": "Slow turtle swims", "back": "tortue nage lentement" },
+            {
+              "front": "Long eel slithers",
+              "back": "le navire anguille glisse"
+            },
+            {
+              "front": "Tiny barnacle clings",
+              "back": "de minuscules balanes s&#39;accrochent"
+            },
+            {
+              "front": "Graceful manta swims",
+              "back": "nage gracieuse des mantas"
+            },
+            {
+              "front": "Floating plankton drifts",
+              "back": "dérives de plancton flottant"
+            },
+            {
+              "front": "Spiky urchin moves",
+              "back": "mouvements d&#39;oursin hérissés"
+            },
+            {
+              "front": "Fresh crayfish boils",
+              "back": "écrevisses fraîches bouillies"
+            },
+            {
+              "front": "Salty oyster opens",
+              "back": "huître salée s&#39;ouvre"
+            },
+            {
+              "front": "Venomous sea snake slithers",
+              "back": "serpent de mer venimeux qui rampe"
+            },
+            {
+              "front": "Tiny seahorse floats",
+              "back": "un minuscule hippocampe flotte"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I see big fish", "back": "je vois de gros poissons" },
+            {
+              "front": "He catches fresh shrimp",
+              "back": "il attrape des crevettes fraîches"
+            },
+            {
+              "front": "They cook red crab",
+              "back": "ils cuisinent du crabe rouge"
+            },
+            {
+              "front": "She admires smart octopus",
+              "back": "elle admire les pieuvres intelligentes"
+            },
+            {
+              "front": "We collect green seaweed",
+              "back": "nous collectons des algues vertes"
+            },
+            {
+              "front": "He finds bright starfish",
+              "back": "il trouve des étoiles de mer brillantes"
+            },
+            {
+              "front": "They touch soft jellyfish",
+              "back": "ils touchent des méduses molles"
+            },
+            {
+              "front": "I watch fast dolphin",
+              "back": "je regarde les dauphins rapides"
+            },
+            {
+              "front": "She photographs strong shark",
+              "back": "elle photographie un requin fort"
+            },
+            {
+              "front": "We observe playful seals",
+              "back": "nous observons des phoques joueurs"
+            },
+            { "front": "He listens to whale", "back": "il écoute la baleine" },
+            {
+              "front": "They admire colorful coral",
+              "back": "ils admirent les coraux colorés"
+            },
+            {
+              "front": "I open hard clam",
+              "back": "j&#39;ouvre une palourde dure"
+            },
+            {
+              "front": "She cooks tasty lobster",
+              "back": "elle cuisine du homard savoureux"
+            },
+            {
+              "front": "He prepares small squid",
+              "back": "il prépare des petits calmars"
+            },
+            {
+              "front": "We watch slow turtle",
+              "back": "nous regardons la tortue lente"
+            },
+            {
+              "front": "I spot long eel",
+              "back": "j&#39;aperçois une longue anguille"
+            },
+            {
+              "front": "She removes tiny barnacles",
+              "back": "elle enlève les minuscules balanes"
+            },
+            {
+              "front": "They swim with manta",
+              "back": "ils nagent avec les raies manta"
+            },
+            {
+              "front": "I study floating plankton",
+              "back": "j&#39;étudie le plancton flottant"
+            },
+            {
+              "front": "He avoids spiky urchins",
+              "back": "il évite les oursins hérissés"
+            },
+            {
+              "front": "We catch fresh crayfish",
+              "back": "nous pêchons des écrevisses fraîches"
+            },
+            {
+              "front": "She shucks salty oyster",
+              "back": "elle écaille des huîtres salées"
+            },
+            {
+              "front": "He observes venomous snake",
+              "back": "il observe un serpent venimeux"
+            },
+            {
+              "front": "They feed tiny seahorses",
+              "back": "ils nourrissent de minuscules hippocampes"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I see a big fish", "back": "je vois un gros poisson" },
+            {
+              "front": "He catches fresh shrimp daily",
+              "back": "il attrape des crevettes fraîches tous les jours"
+            },
+            {
+              "front": "They cook red crab tonight",
+              "back": "ils cuisinent du crabe rouge ce soir"
+            },
+            {
+              "front": "She admires a smart octopus",
+              "back": "elle admire une pieuvre intelligente"
+            },
+            {
+              "front": "We collect green seaweed often",
+              "back": "nous ramassons souvent des algues vertes"
+            },
+            {
+              "front": "He finds bright starfish easily",
+              "back": "il trouve facilement des étoiles de mer brillantes"
+            },
+            {
+              "front": "They touch soft jellyfish carefully",
+              "back": "ils touchent les méduses molles avec précaution"
+            },
+            {
+              "front": "I watch a fast dolphin",
+              "back": "je regarde un dauphin rapide"
+            },
+            {
+              "front": "She photographs a strong shark",
+              "back": "elle photographie un requin fort"
+            },
+            {
+              "front": "We observe playful seals swimming",
+              "back": "nous observons des phoques joueurs nager"
+            },
+            {
+              "front": "He listens to a large whale",
+              "back": "il écoute une grande baleine"
+            },
+            {
+              "front": "They admire colorful coral reefs",
+              "back": "ils admirent les récifs coralliens colorés"
+            },
+            {
+              "front": "I open a hard clam",
+              "back": "j&#39;ouvre une palourde dure"
+            },
+            {
+              "front": "She cooks a tasty lobster",
+              "back": "elle cuisine un homard savoureux"
+            },
+            {
+              "front": "He prepares small squid for dinner",
+              "back": "il prépare des petits calmars pour le dîner"
+            },
+            {
+              "front": "We watch a slow turtle",
+              "back": "nous observons une tortue lente"
+            },
+            {
+              "front": "I spot a long eel",
+              "back": "j&#39;aperçois une longue anguille"
+            },
+            {
+              "front": "She removes tiny barnacles carefully",
+              "back": "elle enlève soigneusement les minuscules balanes"
+            },
+            {
+              "front": "They swim with graceful manta",
+              "back": "ils nagent avec des raies manta gracieuses"
+            },
+            {
+              "front": "I study floating plankton closely",
+              "back": "j&#39;étudie de près le plancton flottant"
+            },
+            {
+              "front": "He avoids spiky sea urchins",
+              "back": "il évite les oursins épineux"
+            },
+            {
+              "front": "We catch fresh crayfish together",
+              "back": "nous pêchons des écrevisses fraîches ensemble"
+            },
+            {
+              "front": "She shucks a salty oyster",
+              "back": "elle écaille une huître salée"
+            },
+            {
+              "front": "He observes a venomous sea snake",
+              "back": "il observe un serpent de mer venimeux"
+            },
+            {
+              "front": "They feed tiny seahorses carefully",
+              "back": "ils nourrissent soigneusement les petits hippocampes"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am watching a big fish",
+              "back": "je regarde un gros poisson"
+            },
+            {
+              "front": "He catches fresh shrimp every day",
+              "back": "il attrape des crevettes fraîches tous les jours"
+            },
+            {
+              "front": "They are cooking red crab tonight",
+              "back": "ils cuisinent du crabe rouge ce soir"
+            },
+            {
+              "front": "She admires the smart octopus swimming",
+              "back": "elle admire la pieuvre intelligente qui nage"
+            },
+            {
+              "front": "We collect green seaweed for lunch",
+              "back": "nous ramassons des algues vertes pour le déjeuner"
+            },
+            {
+              "front": "He finds bright starfish on beach",
+              "back": "il trouve des étoiles de mer brillantes sur la plage"
+            },
+            {
+              "front": "They touch soft jellyfish with care",
+              "back": "ils touchent les méduses molles avec précaution"
+            },
+            {
+              "front": "I watch the fast dolphin jump",
+              "back": "je regarde le saut rapide du dauphin"
+            },
+            {
+              "front": "She photographs the strong shark underwater",
+              "back": "elle photographie le requin fort sous l&#39;eau"
+            },
+            {
+              "front": "We observe playful seals in water",
+              "back": "nous observons des phoques joueurs dans l&#39;eau"
+            },
+            {
+              "front": "He listens to the large whale",
+              "back": "il écoute la grande baleine"
+            },
+            {
+              "front": "They admire colorful coral in ocean",
+              "back": "ils admirent les coraux colorés dans l&#39;océan"
+            },
+            {
+              "front": "I open the hard clam slowly",
+              "back": "j&#39;ouvre lentement la palourde dure"
+            },
+            {
+              "front": "She cooks a tasty lobster tonight",
+              "back": "elle cuisine un délicieux homard ce soir"
+            },
+            {
+              "front": "He prepares small squid for dinner",
+              "back": "il prépare des petits calmars pour le dîner"
+            },
+            {
+              "front": "We watch a slow turtle swim",
+              "back": "nous regardons une tortue nager lentement"
+            },
+            {
+              "front": "I spot the long eel swimming",
+              "back": "j&#39;aperçois la longue anguille qui nage"
+            },
+            {
+              "front": "She removes tiny barnacles from boat",
+              "back": "elle retire les minuscules balanes du bateau"
+            },
+            {
+              "front": "They swim with a graceful manta",
+              "back": "ils nagent avec une gracieuse manta"
+            },
+            {
+              "front": "I study the floating plankton closely",
+              "back": "j&#39;étudie de près le plancton flottant"
+            },
+            {
+              "front": "He avoids the spiky sea urchins",
+              "back": "il évite les oursins épineux"
+            },
+            {
+              "front": "We catch fresh crayfish for dinner",
+              "back": "nous pêchons des écrevisses fraîches pour le dîner"
+            },
+            {
+              "front": "She shucks a salty oyster carefully",
+              "back": "elle écaille soigneusement une huître salée"
+            },
+            {
+              "front": "He observes a venomous sea snake",
+              "back": "il observe un serpent de mer venimeux"
+            },
+            {
+              "front": "They feed the tiny seahorses carefully",
+              "back": "ils nourrissent soigneusement les petits hippocampes"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Ate fish", "back": "mangé du poisson" },
+            { "front": "Caught shrimp", "back": "crevettes pêchées" },
+            { "front": "Saw crab", "back": "crabe scie" },
+            { "front": "Found octopus", "back": "pieuvre trouvée" },
+            { "front": "Collected seaweed", "back": "algues collectées" },
+            {
+              "front": "Saw starfish",
+              "back": "j&#39;ai vu des étoiles de mer"
+            },
+            { "front": "Watched jellyfish", "back": "observé des méduses" },
+            { "front": "Spotted dolphin", "back": "dauphin tacheté" },
+            { "front": "Observed shark", "back": "requin observé" },
+            { "front": "Saw seal", "back": "joint de scie" },
+            { "front": "Heard whale", "back": "entendu une baleine" },
+            { "front": "Touched coral", "back": "corail touché" },
+            { "front": "Ate clam", "back": "mangé des palourdes" },
+            { "front": "Cooked lobster", "back": "homard cuit" },
+            { "front": "Caught squid", "back": "calmar pêché" },
+            { "front": "Saw turtle", "back": "tortue scie" },
+            { "front": "Spotted eel", "back": "anguille tachetée" },
+            { "front": "Removed barnacle", "back": "balane enlevée" },
+            { "front": "Saw manta", "back": "scie manta" },
+            { "front": "Found plankton", "back": "trouvé du plancton" },
+            { "front": "Spotted urchin", "back": "oursin tacheté" },
+            { "front": "Caught crayfish", "back": "écrevisses pêchées" },
+            { "front": "Ate oyster", "back": "mangé des huîtres" },
+            { "front": "Saw sea snake", "back": "vu un serpent de mer" },
+            { "front": "Spotted seahorse", "back": "hippocampe tacheté" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I ate fish", "back": "j&#39;ai mangé du poisson" },
+            {
+              "front": "He caught shrimp yesterday",
+              "back": "il a attrapé des crevettes hier"
+            },
+            {
+              "front": "They saw crab on shore",
+              "back": "ils ont vu des crabes sur le rivage"
+            },
+            {
+              "front": "We found octopus in tidepool",
+              "back": "nous avons trouvé une pieuvre dans une mare de marée"
+            },
+            {
+              "front": "She collected seaweed for salad",
+              "back": "elle a ramassé des algues pour la salade"
+            },
+            {
+              "front": "I saw starfish at beach",
+              "back": "j&#39;ai vu des étoiles de mer à la plage"
+            },
+            {
+              "front": "He watched jellyfish float by",
+              "back": "il regardait les méduses flotter"
+            },
+            {
+              "front": "They spotted dolphin swimming close",
+              "back": "ils ont repéré des dauphins nageant à proximité"
+            },
+            {
+              "front": "We observed shark near boat",
+              "back": "nous avons observé un requin près du bateau"
+            },
+            {
+              "front": "She saw seal lounging on rock",
+              "back": "elle a vu un phoque se prélasser sur un rocher"
+            },
+            {
+              "front": "I heard whale songs underwater",
+              "back": "j&#39;ai entendu des chants de baleines sous l&#39;eau"
+            },
+            {
+              "front": "They touched coral reefs carefully",
+              "back": "ils ont touché les récifs coralliens avec précaution"
+            },
+            {
+              "front": "He ate clam chowder yesterday",
+              "back": "il a mangé de la chaudrée de palourdes hier"
+            },
+            {
+              "front": "We cooked lobster for dinner",
+              "back": "nous avons cuisiné du homard pour le dîner"
+            },
+            {
+              "front": "She caught squid at night",
+              "back": "elle a attrapé des calmars la nuit"
+            },
+            {
+              "front": "I saw turtle swimming gracefully",
+              "back": "j&#39;ai vu une tortue nager gracieusement"
+            },
+            {
+              "front": "He spotted eel hiding in rocks",
+              "back": "il a repéré une anguille cachée dans les rochers"
+            },
+            {
+              "front": "She removed barnacle from shell",
+              "back": "elle a retiré la balane de la coquille"
+            },
+            {
+              "front": "They saw manta ray gliding",
+              "back": "ils ont vu une raie manta planer"
+            },
+            {
+              "front": "I found plankton in water",
+              "back": "j&#39;ai trouvé du plancton dans l&#39;eau"
+            },
+            {
+              "front": "He spotted urchin in tidepool",
+              "back": "il a repéré un oursin dans une mare de marée"
+            },
+            {
+              "front": "We caught crayfish in stream",
+              "back": "nous avons attrapé des écrevisses dans le ruisseau"
+            },
+            {
+              "front": "She ate oyster on half-shell",
+              "back": "elle a mangé une huître en demi-coquille"
+            },
+            {
+              "front": "He saw sea snake swim",
+              "back": "il a vu un serpent de mer nager"
+            },
+            {
+              "front": "They spotted seahorse in coral",
+              "back": "ils ont repéré un hippocampe dans le corail"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I caught a big fish",
+              "back": "j&#39;ai attrapé un gros poisson"
+            },
+            {
+              "front": "She cooked fresh shrimp yesterday",
+              "back": "elle a cuisiné des crevettes fraîches hier"
+            },
+            {
+              "front": "They saw a red crab",
+              "back": "ils ont vu un crabe rouge"
+            },
+            {
+              "front": "He found an octopus hiding",
+              "back": "il a trouvé une pieuvre cachée"
+            },
+            {
+              "front": "We collected seaweed for lunch",
+              "back": "nous avons ramassé des algues pour le déjeuner"
+            },
+            {
+              "front": "I saw a bright starfish",
+              "back": "j&#39;ai vu une étoile de mer brillante"
+            },
+            {
+              "front": "He watched a floating jellyfish",
+              "back": "il a regardé une méduse flottante"
+            },
+            {
+              "front": "They spotted a fast dolphin",
+              "back": "ils ont repéré un dauphin rapide"
+            },
+            {
+              "front": "We observed a hungry shark",
+              "back": "nous avons observé un requin affamé"
+            },
+            {
+              "front": "She saw a playful seal",
+              "back": "elle a vu un phoque joueur"
+            },
+            {
+              "front": "I heard a singing whale",
+              "back": "j&#39;ai entendu une baleine chanter"
+            },
+            {
+              "front": "They touched a colorful coral",
+              "back": "ils ont touché un corail coloré"
+            },
+            {
+              "front": "He ate a delicious clam",
+              "back": "il a mangé une délicieuse palourde"
+            },
+            {
+              "front": "We cooked a fresh lobster",
+              "back": "nous avons cuisiné un homard frais"
+            },
+            {
+              "front": "She caught a small squid",
+              "back": "elle a attrapé un petit calmar"
+            },
+            {
+              "front": "I saw a slow turtle",
+              "back": "j&#39;ai vu une tortue lente"
+            },
+            {
+              "front": "He spotted a long eel",
+              "back": "il a repéré une longue anguille"
+            },
+            {
+              "front": "She removed a tiny barnacle",
+              "back": "elle a enlevé une petite balane"
+            },
+            {
+              "front": "They saw a graceful manta",
+              "back": "ils ont vu une gracieuse manta"
+            },
+            {
+              "front": "I found some floating plankton",
+              "back": "j&#39;ai trouvé du plancton flottant"
+            },
+            {
+              "front": "He spotted a spiky urchin",
+              "back": "il a repéré un oursin hérissé"
+            },
+            {
+              "front": "We caught a big crayfish",
+              "back": "nous avons attrapé une grosse écrevisse"
+            },
+            {
+              "front": "She ate a fresh oyster",
+              "back": "elle a mangé une huître fraîche"
+            },
+            {
+              "front": "He saw a venomous sea snake",
+              "back": "il a vu un serpent de mer venimeux"
+            },
+            {
+              "front": "They spotted a tiny seahorse",
+              "back": "ils ont repéré un petit hippocampe"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I ate fresh big fish",
+              "back": "j&#39;ai mangé du gros poisson frais"
+            },
+            {
+              "front": "She cooked the sweet shrimp",
+              "back": "elle a cuisiné les crevettes sucrées"
+            },
+            {
+              "front": "They caught red crab yesterday",
+              "back": "ils ont attrapé du crabe rouge hier"
+            },
+            {
+              "front": "He found a smart octopus",
+              "back": "il a trouvé une pieuvre intelligente"
+            },
+            {
+              "front": "We collected green seaweed together",
+              "back": "nous avons ramassé des algues vertes ensemble"
+            },
+            {
+              "front": "I saw bright starfish today",
+              "back": "j&#39;ai vu des étoiles de mer brillantes aujourd&#39;hui"
+            },
+            {
+              "front": "He watched soft jellyfish float",
+              "back": "il regardait des méduses molles flotter"
+            },
+            {
+              "front": "They spotted a fast dolphin",
+              "back": "ils ont repéré un dauphin rapide"
+            },
+            {
+              "front": "We observed a strong shark",
+              "back": "nous avons observé un requin fort"
+            },
+            {
+              "front": "She saw playful seals swimming",
+              "back": "elle a vu des phoques joueurs nager"
+            },
+            {
+              "front": "I heard the singing whale",
+              "back": "j&#39;ai entendu la baleine chanter"
+            },
+            {
+              "front": "They touched colorful coral reefs",
+              "back": "ils ont touché des récifs coralliens colorés"
+            },
+            {
+              "front": "He ate a hard clam",
+              "back": "il a mangé une palourde dure"
+            },
+            {
+              "front": "We cooked a tasty lobster",
+              "back": "nous avons cuisiné un délicieux homard"
+            },
+            {
+              "front": "She caught a small squid",
+              "back": "elle a attrapé un petit calmar"
+            },
+            {
+              "front": "I saw a slow turtle",
+              "back": "j&#39;ai vu une tortue lente"
+            },
+            {
+              "front": "He spotted a long eel",
+              "back": "il a repéré une longue anguille"
+            },
+            {
+              "front": "She removed tiny barnacles quickly",
+              "back": "elle a rapidement retiré les minuscules balanes"
+            },
+            {
+              "front": "They swam with a manta",
+              "back": "ils ont nagé avec une raie manta"
+            },
+            {
+              "front": "I studied floating plankton closely",
+              "back": "j&#39;ai étudié de près le plancton flottant"
+            },
+            {
+              "front": "He avoided spiky sea urchins",
+              "back": "il évitait les oursins épineux"
+            },
+            {
+              "front": "We caught fresh crayfish today",
+              "back": "nous avons attrapé des écrevisses fraîches aujourd&#39;hui"
+            },
+            {
+              "front": "She shucked a salty oyster",
+              "back": "elle a écaillé une huître salée"
+            },
+            {
+              "front": "He observed a venomous sea snake",
+              "back": "il a observé un serpent de mer venimeux"
+            },
+            {
+              "front": "They fed tiny seahorses carefully",
+              "back": "ils ont nourri les petits hippocampes avec soin"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I ate the fresh big fish",
+              "back": "j&#39;ai mangé du gros poisson frais"
+            },
+            {
+              "front": "She cooked the sweet fresh shrimp",
+              "back": "elle a cuisiné les crevettes fraîches et sucrées"
+            },
+            {
+              "front": "They caught a red crab yesterday",
+              "back": "ils ont attrapé un crabe rouge hier"
+            },
+            {
+              "front": "He found a smart octopus hiding",
+              "back": "il a trouvé une pieuvre intelligente cachée"
+            },
+            {
+              "front": "We collected green seaweed for salad",
+              "back": "nous avons ramassé des algues vertes pour la salade"
+            },
+            {
+              "front": "I saw the bright starfish today",
+              "back": "j&#39;ai vu l&#39;étoile de mer brillante aujourd&#39;hui"
+            },
+            {
+              "front": "He watched the soft jellyfish float",
+              "back": "il regardait la méduse molle flotter"
+            },
+            {
+              "front": "They spotted a fast dolphin swimming",
+              "back": "ils ont repéré un dauphin qui nageait rapidement"
+            },
+            {
+              "front": "We observed a strong shark swimming",
+              "back": "nous avons observé un requin puissant nageant"
+            },
+            {
+              "front": "She saw the playful seals swimming",
+              "back": "elle a vu les phoques joueurs nager"
+            },
+            {
+              "front": "I heard the singing whale underwater",
+              "back": "j&#39;ai entendu la baleine chanter sous l&#39;eau"
+            },
+            {
+              "front": "They touched the colorful coral reefs",
+              "back": "ils ont touché les récifs coralliens colorés"
+            },
+            {
+              "front": "He ate a delicious hard clam",
+              "back": "il a mangé une délicieuse palourde dure"
+            },
+            {
+              "front": "We cooked a tasty fresh lobster",
+              "back": "nous avons cuisiné un délicieux homard frais"
+            },
+            {
+              "front": "She caught a small squid quickly",
+              "back": "elle a attrapé un petit calmar rapidement"
+            },
+            {
+              "front": "I saw a slow turtle swimming",
+              "back": "j&#39;ai vu une tortue nager lentement"
+            },
+            {
+              "front": "He spotted a long eel hiding",
+              "back": "il a repéré une longue anguille cachée"
+            },
+            {
+              "front": "She removed tiny barnacles from boat",
+              "back": "elle a retiré de minuscules balanes du bateau"
+            },
+            {
+              "front": "They swam with a graceful manta",
+              "back": "ils ont nagé avec une gracieuse raie manta"
+            },
+            {
+              "front": "I studied the floating plankton closely",
+              "back": "j&#39;ai étudié de près le plancton flottant"
+            },
+            {
+              "front": "He avoided the spiky sea urchins",
+              "back": "il a évité les oursins épineux"
+            },
+            {
+              "front": "We caught fresh crayfish for dinner",
+              "back": "nous avons attrapé des écrevisses fraîches pour le dîner"
+            },
+            {
+              "front": "She shucked a salty oyster carefully",
+              "back": "elle a soigneusement écaillé une huître salée"
+            },
+            {
+              "front": "He observed a venomous sea snake",
+              "back": "il a observé un serpent de mer venimeux"
+            },
+            {
+              "front": "They fed the tiny seahorses carefully",
+              "back": "ils ont nourri les petits hippocampes avec soin"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will catch fish", "back": "attrapera du poisson" },
+            { "front": "Will eat shrimp", "back": "mangera des crevettes" },
+            { "front": "Will see crab", "back": "verra du crabe" },
+            { "front": "Will find octopus", "back": "trouvera des poulpes" },
+            {
+              "front": "Will collect seaweed",
+              "back": "va ramasser des algues"
+            },
+            {
+              "front": "Will spot starfish",
+              "back": "repérera les étoiles de mer"
+            },
+            {
+              "front": "Will watch jellyfish",
+              "back": "observera les méduses"
+            },
+            {
+              "front": "Will swim with dolphin",
+              "back": "nagera avec les dauphins"
+            },
+            { "front": "Will observe shark", "back": "observera le requin" },
+            { "front": "Will see seal", "back": "verra le sceau" },
+            { "front": "Will hear whale", "back": "entendra la baleine" },
+            { "front": "Will touch coral", "back": "touchera le corail" },
+            { "front": "Will eat clam", "back": "mangera des palourdes" },
+            { "front": "Will cook lobster", "back": "cuisinera du homard" },
+            { "front": "Will catch squid", "back": "attrapera des calmars" },
+            { "front": "Will see turtle", "back": "verra une tortue" },
+            { "front": "Will spot eel", "back": "repérera l&#39;anguille" },
+            { "front": "Will remove barnacle", "back": "enlèvera la balane" },
+            { "front": "Will see manta", "back": "verra des raies manta" },
+            { "front": "Will find plankton", "back": "trouvera du plancton" },
+            { "front": "Will spot urchin", "back": "repérera l&#39;oursin" },
+            {
+              "front": "Will catch crayfish",
+              "back": "attrapera des écrevisses"
+            },
+            { "front": "Will eat oyster", "back": "mangera des huîtres" },
+            {
+              "front": "Will see sea snake",
+              "back": "verra un serpent de mer"
+            },
+            {
+              "front": "Will spot seahorse",
+              "back": "repérera l&#39;hippocampe"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will catch a fish",
+              "back": "je vais attraper un poisson"
+            },
+            {
+              "front": "She will eat fresh shrimp",
+              "back": "elle mangera des crevettes fraîches"
+            },
+            { "front": "They will see a crab", "back": "ils verront un crabe" },
+            {
+              "front": "He will find an octopus",
+              "back": "il trouvera une pieuvre"
+            },
+            {
+              "front": "We will collect seaweed tomorrow",
+              "back": "nous ramasserons des algues demain"
+            },
+            {
+              "front": "I will spot a starfish",
+              "back": "je repérerai une étoile de mer"
+            },
+            {
+              "front": "She will watch the jellyfish",
+              "back": "elle observera les méduses"
+            },
+            {
+              "front": "They will swim with dolphins",
+              "back": "ils nageront avec les dauphins"
+            },
+            {
+              "front": "We will observe a shark",
+              "back": "nous observerons un requin"
+            },
+            { "front": "He will see a seal", "back": "il verra un phoque" },
+            {
+              "front": "I will hear a whale",
+              "back": "j&#39;entendrai une baleine"
+            },
+            {
+              "front": "They will touch colorful coral",
+              "back": "ils toucheront des coraux colorés"
+            },
+            {
+              "front": "She will eat a clam",
+              "back": "elle mangera une palourde"
+            },
+            {
+              "front": "I will cook a lobster",
+              "back": "je vais cuisiner un homard"
+            },
+            {
+              "front": "He will catch a squid",
+              "back": "il attrapera un calmar"
+            },
+            {
+              "front": "We will see a turtle",
+              "back": "nous verrons une tortue"
+            },
+            {
+              "front": "They will spot a long eel",
+              "back": "ils repéreront une longue anguille"
+            },
+            {
+              "front": "I will remove a barnacle",
+              "back": "je vais enlever une balane"
+            },
+            { "front": "She will see a manta", "back": "elle verra une manta" },
+            {
+              "front": "They will find floating plankton",
+              "back": "ils trouveront du plancton flottant"
+            },
+            {
+              "front": "I will spot a spiky urchin",
+              "back": "je repérerai un oursin hérissé"
+            },
+            {
+              "front": "We will catch fresh crayfish",
+              "back": "nous allons attraper des écrevisses fraîches"
+            },
+            {
+              "front": "He will eat a fresh oyster",
+              "back": "il mangera une huître fraîche"
+            },
+            {
+              "front": "She will see a sea snake",
+              "back": "elle verra un serpent de mer"
+            },
+            {
+              "front": "I will spot a tiny seahorse",
+              "back": "je repérerai un petit hippocampe"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will catch a fish",
+              "back": "je vais attraper un poisson"
+            },
+            {
+              "front": "She will eat fresh shrimp",
+              "back": "elle mangera des crevettes fraîches"
+            },
+            { "front": "They will see a crab", "back": "ils verront un crabe" },
+            {
+              "front": "He will find an octopus",
+              "back": "il trouvera une pieuvre"
+            },
+            {
+              "front": "We will collect seaweed tomorrow",
+              "back": "nous ramasserons des algues demain"
+            },
+            {
+              "front": "I will spot a starfish",
+              "back": "je repérerai une étoile de mer"
+            },
+            {
+              "front": "She will watch jellyfish float",
+              "back": "elle regardera les méduses flotter"
+            },
+            {
+              "front": "They will swim with dolphins",
+              "back": "ils nageront avec les dauphins"
+            },
+            {
+              "front": "We will observe a shark",
+              "back": "nous observerons un requin"
+            },
+            { "front": "He will see a seal", "back": "il verra un phoque" },
+            {
+              "front": "I will hear a whale",
+              "back": "j&#39;entendrai une baleine"
+            },
+            {
+              "front": "They will touch colorful coral",
+              "back": "ils toucheront des coraux colorés"
+            },
+            {
+              "front": "She will eat a clam",
+              "back": "elle mangera une palourde"
+            },
+            {
+              "front": "I will cook a lobster",
+              "back": "je vais cuisiner un homard"
+            },
+            {
+              "front": "He will catch a squid",
+              "back": "il attrapera un calmar"
+            },
+            {
+              "front": "We will see a turtle",
+              "back": "nous verrons une tortue"
+            },
+            {
+              "front": "They will spot an eel",
+              "back": "ils repéreront une anguille"
+            },
+            {
+              "front": "I will remove a barnacle",
+              "back": "je vais enlever une balane"
+            },
+            { "front": "She will see a manta", "back": "elle verra une manta" },
+            {
+              "front": "We will find plankton in water",
+              "back": "nous trouverons du plancton dans l&#39;eau"
+            },
+            {
+              "front": "He will spot a urchin",
+              "back": "il repérera un oursin"
+            },
+            {
+              "front": "We will catch a crayfish",
+              "back": "nous attraperons une écrevisse"
+            },
+            {
+              "front": "She will eat an oyster",
+              "back": "elle mangera une huître"
+            },
+            { "front": "He will see a snake", "back": "il verra un serpent" },
+            {
+              "front": "They will spot a seahorse",
+              "back": "ils repéreront un hippocampe"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will catch the big fish",
+              "back": "j&#39;attraperai le gros poisson"
+            },
+            {
+              "front": "She will eat the fresh shrimp",
+              "back": "elle mangera les crevettes fraîches"
+            },
+            {
+              "front": "They will see the red crab",
+              "back": "ils verront le crabe rouge"
+            },
+            {
+              "front": "He will find the smart octopus",
+              "back": "il trouvera la pieuvre intelligente"
+            },
+            {
+              "front": "We will collect the green seaweed",
+              "back": "nous allons ramasser les algues vertes"
+            },
+            {
+              "front": "I will spot the bright starfish",
+              "back": "je repérerai l&#39;étoile de mer brillante"
+            },
+            {
+              "front": "He will watch the soft jellyfish",
+              "back": "il observera les méduses molles"
+            },
+            {
+              "front": "They will swim with the dolphin",
+              "back": "ils nageront avec le dauphin"
+            },
+            {
+              "front": "We will observe the strong shark",
+              "back": "nous observerons le requin fort"
+            },
+            {
+              "front": "She will see the playful seal",
+              "back": "elle verra le phoque joueur"
+            },
+            {
+              "front": "I will hear the singing whale",
+              "back": "j&#39;entendrai la baleine chanter"
+            },
+            {
+              "front": "They will touch the colorful coral",
+              "back": "ils toucheront le corail coloré"
+            },
+            {
+              "front": "He will eat the hard clam",
+              "back": "il mangera la palourde dure"
+            },
+            {
+              "front": "We will cook the tasty lobster",
+              "back": "nous cuisinerons le savoureux homard"
+            },
+            {
+              "front": "She will catch the small squid",
+              "back": "elle attrapera le petit calmar"
+            },
+            {
+              "front": "I will see the slow turtle",
+              "back": "je verrai la tortue lente"
+            },
+            {
+              "front": "He will spot the long eel",
+              "back": "il repérera la longue anguille"
+            },
+            {
+              "front": "She will remove the tiny barnacle",
+              "back": "elle enlèvera la petite balane"
+            },
+            {
+              "front": "They will swim with the graceful manta",
+              "back": "ils nageront avec la gracieuse manta"
+            },
+            {
+              "front": "I will study the floating plankton",
+              "back": "j&#39;étudierai le plancton flottant"
+            },
+            {
+              "front": "He will avoid the spiky urchins",
+              "back": "il évitera les oursins hérissés"
+            },
+            {
+              "front": "We will catch the fresh crayfish",
+              "back": "nous attraperons des écrevisses fraîches"
+            },
+            {
+              "front": "She will shuck the salty oyster",
+              "back": "elle va écailler l&#39;huître salée"
+            },
+            {
+              "front": "He will observe the venomous snake",
+              "back": "il observera le serpent venimeux"
+            },
+            {
+              "front": "They will feed the tiny seahorses",
+              "back": "ils nourriront les petits hippocampes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

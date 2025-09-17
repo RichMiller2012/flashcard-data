@@ -1,0 +1,1971 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Body Parts",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Head", "back": "tête" },
+            { "front": "Eye", "back": "œil" },
+            { "front": "Ear", "back": "oreille" },
+            { "front": "Nose", "back": "nez" },
+            { "front": "Mouth", "back": "bouche" },
+            { "front": "Teeth", "back": "dents" },
+            { "front": "Tongue", "back": "langue" },
+            { "front": "Neck", "back": "cou" },
+            { "front": "Shoulder", "back": "épaule" },
+            { "front": "Arm", "back": "bras" },
+            { "front": "Elbow", "back": "coude" },
+            { "front": "Wrist", "back": "poignet" },
+            { "front": "Hand", "back": "main" },
+            { "front": "Finger", "back": "doigt" },
+            { "front": "Chest", "back": "poitrine" },
+            { "front": "Back", "back": "dos" },
+            { "front": "Stomach", "back": "estomac" },
+            { "front": "Waist", "back": "taille" },
+            { "front": "Hip", "back": "hanche" },
+            { "front": "Leg", "back": "jambe" },
+            { "front": "Knee", "back": "genou" },
+            { "front": "Ankle", "back": "cheville" },
+            { "front": "Foot", "back": "pied" },
+            { "front": "Toe", "back": "alors" },
+            { "front": "Skin", "back": "peau" },
+            { "front": "Hair", "back": "cheveux" },
+            { "front": "Nail", "back": "clou" },
+            { "front": "Brain", "back": "cerveau" },
+            { "front": "Heart", "back": "cœur" },
+            { "front": "Lung", "back": "poumon" },
+            { "front": "Liver", "back": "foie" },
+            { "front": "Kidney", "back": "rein" },
+            { "front": "Bladder", "back": "vessie" },
+            { "front": "Spleen", "back": "rate" },
+            { "front": "Intestine", "back": "intestin" },
+            { "front": "Vein", "back": "veine" },
+            { "front": "Artery", "back": "artère" },
+            { "front": "Muscle", "back": "muscle" },
+            { "front": "Joint", "back": "articulation" },
+            { "front": "Tissue", "back": "tissu" },
+            { "front": "Cell", "back": "cellule" },
+            { "front": "Blood", "back": "sang" },
+            { "front": "Nerve", "back": "nerf" },
+            { "front": "Digestive", "back": "digestif" },
+            { "front": "Endocrine", "back": "endocrine" },
+            { "front": "Respiratory", "back": "respiratoire" },
+            { "front": "Reproductive", "back": "reproducteur" },
+            { "front": "Immune", "back": "immunitaire" },
+            { "front": "Lymph", "back": "lymphe" },
+            { "front": "Skeleton", "back": "squelette" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "blue vein", "back": "veine bleue" },
+            { "front": "full bladder", "back": "vessie pleine" },
+            { "front": "strong muscle", "back": "muscle fort" },
+            { "front": "tall spine", "back": "colonne vertébrale haute" },
+            { "front": "large heart", "back": "grand coeur" },
+            { "front": "healthy liver", "back": "foie sain" },
+            { "front": "strong bone", "back": "os solide" },
+            { "front": "flexible joint", "back": "articulation flexible" },
+            { "front": "thick skin", "back": "peau épaisse" },
+            { "front": "sharp nail", "back": "ongle pointu" },
+            { "front": "strong tooth", "back": "dent solide" },
+            { "front": "long hair", "back": "cheveux longs" },
+            { "front": "small toe", "back": "petit orteil" },
+            { "front": "big foot", "back": "grand pied" },
+            { "front": "thick brow", "back": "sourcils épais" },
+            { "front": "round belly", "back": "ventre rond" },
+            { "front": "long arm", "back": "bras long" },
+            { "front": "short leg", "back": "jambe courte" },
+            { "front": "flat stomach", "back": "ventre plat" },
+            { "front": "broad shoulder", "back": "épaules larges" },
+            { "front": "big eye", "back": "gros œil" },
+            { "front": "tender tongue", "back": "langue tendre" },
+            { "front": "pointed elbow", "back": "coude pointu" },
+            { "front": "nimble finger", "back": "doigt agile" },
+            { "front": "wrinkled forehead", "back": "front ridé" },
+            { "front": "smooth cheek", "back": "joue lisse" },
+            { "front": "long neck", "back": "long cou" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "vein is blue", "back": "la veine est bleue" },
+            { "front": "bladder is full", "back": "la vessie est pleine" },
+            {
+              "front": "muscle grows stronger",
+              "back": "les muscles deviennent plus forts"
+            },
+            {
+              "front": "spine remains healthy",
+              "back": "la colonne vertébrale reste en bonne santé"
+            },
+            { "front": "heart pumps blood", "back": "le cœur pompe le sang" },
+            {
+              "front": "liver processes toxins",
+              "back": "le foie traite les toxines"
+            },
+            {
+              "front": "bone heals completely",
+              "back": "l&#39;os guérit complètement"
+            },
+            {
+              "front": "joint improves flexibility",
+              "back": "l&#39;articulation améliore la flexibilité"
+            },
+            { "front": "skin feels soft", "back": "la peau est douce" },
+            {
+              "front": "nail grows long",
+              "back": "l&#39;ongle pousse longtemps"
+            },
+            { "front": "tooth remains strong", "back": "la dent reste forte" },
+            {
+              "front": "hair grows faster",
+              "back": "les cheveux poussent plus vite"
+            },
+            {
+              "front": "toe regains balance",
+              "back": "l&#39;orteil retrouve l&#39;équilibre"
+            },
+            {
+              "front": "foot supports weight",
+              "back": "le pied supporte le poids"
+            },
+            {
+              "front": "brow furrows again",
+              "back": "les sourcils se froncent à nouveau"
+            },
+            {
+              "front": "belly flattens out",
+              "back": "le ventre s&#39;aplatit"
+            },
+            {
+              "front": "arm lifts weights",
+              "back": "lève les bras avec des poids"
+            },
+            {
+              "front": "leg gets stronger",
+              "back": "la jambe devient plus forte"
+            },
+            {
+              "front": "stomach digests food",
+              "back": "l&#39;estomac digère la nourriture"
+            },
+            {
+              "front": "shoulder carries burdens",
+              "back": "l&#39;épaule porte des fardeaux"
+            },
+            {
+              "front": "eye sees clearly",
+              "back": "l&#39;œil voit clairement"
+            },
+            {
+              "front": "tongue tastes flavors",
+              "back": "la langue goûte les saveurs"
+            },
+            {
+              "front": "elbow bends easily",
+              "back": "le coude se plie facilement"
+            },
+            {
+              "front": "finger points accurately",
+              "back": "pointe du doigt avec précision"
+            },
+            {
+              "front": "forehead wrinkles again",
+              "back": "rides du front à nouveau"
+            },
+            { "front": "cheek flushes red", "back": "les joues rougissent" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "My back is strong", "back": "mon dos est fort" },
+            { "front": "My toe is broken", "back": "mon orteil est cassé" },
+            {
+              "front": "My eye hurts badly",
+              "back": "mon œil me fait très mal"
+            },
+            { "front": "His arm is sore", "back": "son bras lui fait mal" },
+            { "front": "Her knee is swollen", "back": "son genou est enflé" },
+            { "front": "Your leg is injured", "back": "ta jambe est blessée" },
+            {
+              "front": "Our hands are clean",
+              "back": "nos mains sont propres"
+            },
+            { "front": "His foot is swollen", "back": "son pied est enflé" },
+            { "front": "Her finger is bleeding", "back": "son doigt saigne" },
+            { "front": "My mouth is dry", "back": "ma bouche est sèche" },
+            { "front": "Their necks are stiff", "back": "leur cou est raide" },
+            {
+              "front": "Our shoulders are tense",
+              "back": "nos épaules sont tendues"
+            },
+            {
+              "front": "His chest is sore",
+              "back": "sa poitrine est douloureuse"
+            },
+            {
+              "front": "My wrist is sprained",
+              "back": "mon poignet est foulé"
+            },
+            { "front": "Her ear is ringing", "back": "son oreille bourdonne" },
+            {
+              "front": "His lips are chapped",
+              "back": "ses lèvres sont gercées"
+            },
+            { "front": "My nose is stuffy", "back": "mon nez est bouché" },
+            {
+              "front": "Your stomach is upset",
+              "back": "ton estomac est dérangé"
+            },
+            { "front": "Our eyes are tired", "back": "nos yeux sont fatigués" },
+            {
+              "front": "His hair is messy",
+              "back": "ses cheveux sont en désordre"
+            },
+            { "front": "My skin is itchy", "back": "ma peau me démange" },
+            {
+              "front": "Her teeth are sharp",
+              "back": "ses dents sont pointues"
+            },
+            { "front": "Our feet are cold", "back": "nos pieds sont froids" },
+            { "front": "His head is pounding", "back": "sa tête lui fait mal" },
+            { "front": "My hand is numb", "back": "ma main est engourdie" },
+            { "front": "Your back is aching", "back": "ton dos te fait mal" },
+            { "front": "His leg is broken", "back": "sa jambe est cassée" },
+            {
+              "front": "My shoulder is tight",
+              "back": "mon épaule est tendue"
+            },
+            { "front": "Her neck is stiff", "back": "son cou est raide" },
+            {
+              "front": "Our fingers are clean",
+              "back": "nos doigts sont propres"
+            },
+            { "front": "My foot is sore", "back": "mon pied me fait mal" },
+            {
+              "front": "His ear is blocked",
+              "back": "son oreille est bouchée"
+            },
+            {
+              "front": "My chest is hurting",
+              "back": "ma poitrine me fait mal"
+            },
+            {
+              "front": "Her wrist is swollen",
+              "back": "son poignet est enflé"
+            },
+            {
+              "front": "Our knees are bruised",
+              "back": "nos genoux sont meurtris"
+            },
+            { "front": "My toe is swollen", "back": "mon orteil est enflé" },
+            { "front": "Your mouth is dry", "back": "ta bouche est sèche" },
+            { "front": "His nose is running", "back": "son nez coule" },
+            { "front": "My teeth are clean", "back": "mes dents sont propres" },
+            { "front": "Her eyes are red", "back": "ses yeux sont rouges" },
+            { "front": "Our hands are dirty", "back": "nos mains sont sales" },
+            { "front": "His hair is falling", "back": "ses cheveux tombent" },
+            {
+              "front": "My lips are cracked",
+              "back": "mes lèvres sont gercées"
+            },
+            {
+              "front": "Your stomach is growling",
+              "back": "ton estomac gargouille"
+            },
+            { "front": "Her head is spinning", "back": "sa tête tourne" },
+            { "front": "Our back is sore", "back": "notre dos nous fait mal" },
+            { "front": "My finger is swollen", "back": "mon doigt est enflé" },
+            {
+              "front": "Their lips are dry",
+              "back": "leurs lèvres sont sèches"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My back feels sore today",
+              "back": "j&#39;ai mal au dos aujourd&#39;hui"
+            },
+            {
+              "front": "His arm hurts after exercise",
+              "back": "son bras lui fait mal après l&#39;exercice"
+            },
+            {
+              "front": "Her knee is swollen badly",
+              "back": "son genou est très enflé"
+            },
+            {
+              "front": "Our hands are clean now",
+              "back": "nos mains sont propres maintenant"
+            },
+            {
+              "front": "Their feet are cold again",
+              "back": "leurs pieds sont à nouveau froids"
+            },
+            {
+              "front": "I feel my body aching",
+              "back": "je sens que mon corps me fait mal"
+            },
+            {
+              "front": "Your finger is bleeding slightly",
+              "back": "ton doigt saigne légèrement"
+            },
+            {
+              "front": "She touches her ear gently",
+              "back": "elle touche doucement son oreille"
+            },
+            {
+              "front": "We see the nose bleeding",
+              "back": "on voit le nez saigner"
+            },
+            {
+              "front": "He lifts his heavy foot",
+              "back": "il lève son pied lourd"
+            },
+            {
+              "front": "My lips are cracked today",
+              "back": "mes lèvres sont gercées aujourd&#39;hui"
+            },
+            {
+              "front": "Her eyes are tired now",
+              "back": "ses yeux sont fatigués maintenant"
+            },
+            {
+              "front": "I feel my heart racing",
+              "back": "je sens mon cœur battre la chamade"
+            },
+            {
+              "front": "Our lips are dry again",
+              "back": "nos lèvres sont à nouveau sèches"
+            },
+            {
+              "front": "His mouth feels very dry",
+              "back": "sa bouche est très sèche"
+            },
+            {
+              "front": "She rubs her sore back",
+              "back": "elle frotte son dos douloureux"
+            },
+            {
+              "front": "They both stretch their arms",
+              "back": "ils étirent tous les deux leurs bras"
+            },
+            {
+              "front": "I rest my tired legs",
+              "back": "je repose mes jambes fatiguées"
+            },
+            {
+              "front": "Your chest is hurting again",
+              "back": "ta poitrine te fait encore mal"
+            },
+            {
+              "front": "We touch our sore feet",
+              "back": "nous touchons nos pieds endoloris"
+            },
+            {
+              "front": "He rubs his swollen wrist",
+              "back": "il frotte son poignet enflé"
+            },
+            {
+              "front": "My shoulder is stiff today",
+              "back": "mon épaule est raide aujourd&#39;hui"
+            },
+            {
+              "front": "Her skin is smooth now",
+              "back": "sa peau est lisse maintenant"
+            },
+            { "front": "I smell with my nose", "back": "je sens avec mon nez" },
+            {
+              "front": "His eyes are looking tired",
+              "back": "ses yeux ont l&#39;air fatigués"
+            },
+            {
+              "front": "We breathe with our lungs",
+              "back": "nous respirons avec nos poumons"
+            },
+            {
+              "front": "She stands on her toes",
+              "back": "elle se tient sur la pointe des pieds"
+            },
+            {
+              "front": "Your back is hurting badly",
+              "back": "ton dos te fait très mal"
+            },
+            {
+              "front": "My finger is feeling numb",
+              "back": "mon doigt est engourdi"
+            },
+            {
+              "front": "Their stomachs are growling loudly",
+              "back": "leurs estomacs gargouillent bruyamment"
+            },
+            {
+              "front": "I wash my dirty hands",
+              "back": "je lave mes mains sales"
+            },
+            {
+              "front": "His hair is getting longer",
+              "back": "ses cheveux deviennent plus longs"
+            },
+            {
+              "front": "We touch our sore necks",
+              "back": "nous touchons nos cous douloureux"
+            },
+            {
+              "front": "Her teeth are very white",
+              "back": "ses dents sont très blanches"
+            },
+            {
+              "front": "You clench your strong fists",
+              "back": "tu serres tes poings forts"
+            },
+            {
+              "front": "My ears are ringing loudly",
+              "back": "mes oreilles bourdonnent fort"
+            },
+            {
+              "front": "Our feet are getting warmer",
+              "back": "nos pieds se réchauffent"
+            },
+            { "front": "I see with my eyes", "back": "je vois avec mes yeux" },
+            {
+              "front": "Their hands are cold now",
+              "back": "leurs mains sont froides maintenant"
+            },
+            {
+              "front": "His head is feeling light",
+              "back": "sa tête est légère"
+            },
+            {
+              "front": "She rubs her dry lips",
+              "back": "elle frotte ses lèvres sèches"
+            },
+            {
+              "front": "We feel our pulse racing",
+              "back": "nous sentons notre pouls s&#39;accélérer"
+            },
+            { "front": "My skin is feeling dry", "back": "ma peau est sèche" },
+            {
+              "front": "Your chest is rising quickly",
+              "back": "ta poitrine se soulève rapidement"
+            },
+            {
+              "front": "Our necks are stiff today",
+              "back": "nos cous sont raides aujourd&#39;hui"
+            },
+            {
+              "front": "I stretch my aching legs",
+              "back": "j&#39;étire mes jambes douloureuses"
+            },
+            {
+              "front": "Her finger is swollen badly",
+              "back": "son doigt est très enflé"
+            },
+            {
+              "front": "We notice our sore throats",
+              "back": "nous remarquons nos maux de gorge"
+            },
+            {
+              "front": "His foot is throbbing badly",
+              "back": "son pied le fait très mal"
+            },
+            {
+              "front": "I feel the muscles aching",
+              "back": "je sens mes muscles me faire mal"
+            },
+            {
+              "front": "You hear with your ears",
+              "back": "tu entends avec tes oreilles"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "My back hurts after working today",
+              "back": "j&#39;ai mal au dos après avoir travaillé aujourd&#39;hui"
+            },
+            {
+              "front": "His arm feels sore from lifting",
+              "back": "son bras lui fait mal à force de soulever"
+            },
+            {
+              "front": "Her knee is swollen and painful",
+              "back": "son genou est enflé et douloureux"
+            },
+            {
+              "front": "Our hands are clean and soft",
+              "back": "nos mains sont propres et douces"
+            },
+            {
+              "front": "Their feet are cold and tired",
+              "back": "leurs pieds sont froids et fatigués"
+            },
+            {
+              "front": "I feel my body aching everywhere",
+              "back": "je sens que mon corps me fait mal partout"
+            },
+            {
+              "front": "Your finger is bleeding just slightly",
+              "back": "ton doigt saigne légèrement"
+            },
+            {
+              "front": "She touches her ear with care",
+              "back": "elle touche son oreille avec précaution"
+            },
+            {
+              "front": "We see the nose is bleeding",
+              "back": "on voit que le nez saigne"
+            },
+            {
+              "front": "He lifts his foot with difficulty",
+              "back": "il lève son pied avec difficulté"
+            },
+            {
+              "front": "My lips are cracked and dry",
+              "back": "mes lèvres sont gercées et sèches"
+            },
+            {
+              "front": "Her eyes are tired from reading",
+              "back": "ses yeux sont fatigués de lire"
+            },
+            {
+              "front": "I feel my heart racing fast",
+              "back": "je sens mon cœur battre vite"
+            },
+            {
+              "front": "Our lips are dry again today",
+              "back": "nos lèvres sont à nouveau sèches aujourd&#39;hui"
+            },
+            {
+              "front": "His mouth feels dry and uncomfortable",
+              "back": "sa bouche est sèche et inconfortable"
+            },
+            {
+              "front": "She rubs her sore back gently",
+              "back": "elle frotte doucement son dos douloureux"
+            },
+            {
+              "front": "They both stretch their arms wide",
+              "back": "ils étirent tous les deux largement leurs bras"
+            },
+            {
+              "front": "I rest my tired legs here",
+              "back": "je repose mes jambes fatiguées ici"
+            },
+            {
+              "front": "Your chest is hurting from coughing",
+              "back": "ta poitrine te fait mal à cause de la toux"
+            },
+            {
+              "front": "We touch our sore feet now",
+              "back": "nous touchons nos pieds endoloris maintenant"
+            },
+            {
+              "front": "He rubs his swollen wrist gently",
+              "back": "il frotte doucement son poignet enflé"
+            },
+            {
+              "front": "My shoulder is stiff and sore",
+              "back": "mon épaule est raide et douloureuse"
+            },
+            {
+              "front": "Her skin is smooth and soft",
+              "back": "sa peau est lisse et douce"
+            },
+            {
+              "front": "I smell with my nose clearly",
+              "back": "je sens clairement avec mon nez"
+            },
+            {
+              "front": "His eyes are looking quite tired",
+              "back": "ses yeux ont l&#39;air assez fatigués"
+            },
+            {
+              "front": "We breathe with our lungs deeply",
+              "back": "nous respirons profondément avec nos poumons"
+            },
+            {
+              "front": "She stands on her toes carefully",
+              "back": "elle se tient sur la pointe des pieds avec précaution"
+            },
+            {
+              "front": "Your back is hurting quite badly",
+              "back": "ton dos te fait très mal"
+            },
+            {
+              "front": "My finger is feeling quite numb",
+              "back": "mon doigt est assez engourdi"
+            },
+            {
+              "front": "Their stomachs are growling loudly now",
+              "back": "leurs estomacs gargouillent bruyamment maintenant"
+            },
+            {
+              "front": "I wash my dirty hands regularly",
+              "back": "je me lave régulièrement les mains sales"
+            },
+            {
+              "front": "His hair is growing longer each day",
+              "back": "ses cheveux poussent plus longtemps chaque jour"
+            },
+            {
+              "front": "We touch our sore necks now",
+              "back": "nous touchons nos cous douloureux maintenant"
+            },
+            {
+              "front": "Her teeth are very white indeed",
+              "back": "ses dents sont vraiment très blanches"
+            },
+            {
+              "front": "You clench your strong fists tightly",
+              "back": "tu serres fermement tes poings forts"
+            },
+            {
+              "front": "My ears are ringing very loudly",
+              "back": "mes oreilles bourdonnent très fort"
+            },
+            {
+              "front": "Our feet are getting warmer slowly",
+              "back": "nos pieds se réchauffent lentement"
+            },
+            {
+              "front": "I see with my eyes clearly",
+              "back": "je vois clairement avec mes yeux"
+            },
+            {
+              "front": "Their hands are cold and numb",
+              "back": "leurs mains sont froides et engourdies"
+            },
+            {
+              "front": "His head is feeling light now",
+              "back": "sa tête est légère maintenant"
+            },
+            {
+              "front": "She rubs her dry lips gently",
+              "back": "elle frotte doucement ses lèvres sèches"
+            },
+            {
+              "front": "We feel our pulse racing fast",
+              "back": "nous sentons notre pouls s&#39;accélérer"
+            },
+            {
+              "front": "My skin is feeling dry today",
+              "back": "ma peau est sèche aujourd&#39;hui"
+            },
+            {
+              "front": "Your chest is rising quickly now",
+              "back": "ta poitrine se soulève rapidement maintenant"
+            },
+            {
+              "front": "Our necks are stiff from sitting",
+              "back": "nos cous sont raides à force d&#39;être assis"
+            },
+            {
+              "front": "I stretch my aching legs slowly",
+              "back": "j&#39;étire lentement mes jambes douloureuses"
+            },
+            {
+              "front": "Her finger is swollen and painful",
+              "back": "son doigt est enflé et douloureux"
+            },
+            {
+              "front": "We notice our sore throats today",
+              "back": "nous remarquons nos maux de gorge aujourd&#39;hui"
+            },
+            {
+              "front": "His foot is throbbing very badly",
+              "back": "son pied le fait très mal"
+            },
+            {
+              "front": "I feel the muscles aching deeply",
+              "back": "je sens mes muscles me faire très mal"
+            },
+            {
+              "front": "You hear with your ears clearly",
+              "back": "tu entends clairement avec tes oreilles"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "belly was bloated", "back": "le ventre était gonflé" },
+            {
+              "front": "nail grew slowly",
+              "back": "l&#39;ongle a poussé lentement"
+            },
+            { "front": "vein turned blue", "back": "veine devenue bleue" },
+            {
+              "front": "bladder felt full",
+              "back": "sensation de vessie pleine"
+            },
+            {
+              "front": "muscle ached after",
+              "back": "douleur musculaire après"
+            },
+            {
+              "front": "spine supported weight",
+              "back": "poids supporté par la colonne vertébrale"
+            },
+            {
+              "front": "heart raced earlier",
+              "back": "le cœur battait fort plus tôt"
+            },
+            {
+              "front": "liver processed toxins",
+              "back": "toxines traitées par le foie"
+            },
+            {
+              "front": "bone healed completely",
+              "back": "os complètement guéri"
+            },
+            {
+              "front": "joint felt stiff",
+              "back": "l&#39;articulation était raide"
+            },
+            { "front": "skin was dry", "back": "la peau était sèche" },
+            { "front": "hair fell out", "back": "les cheveux sont tombés" },
+            { "front": "toe was injured", "back": "l&#39;orteil a été blessé" },
+            { "front": "foot hurt badly", "back": "le pied me fait très mal" },
+            {
+              "front": "brow furrowed slightly",
+              "back": "sourcils légèrement froncés"
+            },
+            { "front": "arm was sore", "back": "le bras était douloureux" },
+            { "front": "leg was weak", "back": "la jambe était faible" },
+            {
+              "front": "stomach grumbled loudly",
+              "back": "l&#39;estomac gargouillait bruyamment"
+            },
+            {
+              "front": "shoulder felt tight",
+              "back": "l&#39;épaule était tendue"
+            },
+            {
+              "front": "eye twitched unexpectedly",
+              "back": "l&#39;œil a tremblé de manière inattendue"
+            },
+            {
+              "front": "tongue tasted bitterness",
+              "back": "la langue avait un goût d&#39;amertume"
+            },
+            {
+              "front": "elbow bent awkwardly",
+              "back": "coude plié maladroitement"
+            },
+            {
+              "front": "finger pointed sharply",
+              "back": "doigt pointé brusquement"
+            },
+            {
+              "front": "forehead glistened heavily",
+              "back": "le front brillait fortement"
+            },
+            { "front": "cheek flushed red", "back": "joue rouge" },
+            { "front": "palm felt clammy", "back": "paume en feutre moite" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My back hurt badly",
+              "back": "mon dos me fait très mal"
+            },
+            {
+              "front": "His arm was sore",
+              "back": "son bras était douloureux"
+            },
+            {
+              "front": "Her knee felt swollen",
+              "back": "son genou était enflé"
+            },
+            {
+              "front": "Our hands were dirty",
+              "back": "nos mains étaient sales"
+            },
+            {
+              "front": "Their feet were cold",
+              "back": "leurs pieds étaient froids"
+            },
+            {
+              "front": "I felt my body ache",
+              "back": "j&#39;ai senti mon corps me faire mal"
+            },
+            {
+              "front": "Your finger bled badly",
+              "back": "ton doigt a beaucoup saigné"
+            },
+            {
+              "front": "She touched her ear",
+              "back": "elle a touché son oreille"
+            },
+            { "front": "We saw the nose", "back": "nous avons vu le nez" },
+            { "front": "He lifted his foot", "back": "il a levé son pied" },
+            {
+              "front": "My lips cracked badly",
+              "back": "mes lèvres se sont gravement fissurées"
+            },
+            {
+              "front": "Her eyes were tired",
+              "back": "ses yeux étaient fatigués"
+            },
+            {
+              "front": "I felt my heart race",
+              "back": "j&#39;ai senti mon cœur s&#39;emballer"
+            },
+            {
+              "front": "Our lips felt dry",
+              "back": "nos lèvres étaient sèches"
+            },
+            { "front": "His mouth felt dry", "back": "sa bouche était sèche" },
+            {
+              "front": "She rubbed her back",
+              "back": "elle s&#39;est frotté le dos"
+            },
+            {
+              "front": "They stretched their arms",
+              "back": "ils ont tendu leurs bras"
+            },
+            {
+              "front": "I rested my legs",
+              "back": "j&#39;ai reposé mes jambes"
+            },
+            {
+              "front": "Your chest hurt badly",
+              "back": "ta poitrine te fait très mal"
+            },
+            {
+              "front": "We touched our feet",
+              "back": "nous avons touché nos pieds"
+            },
+            {
+              "front": "He rubbed his wrist",
+              "back": "il s&#39;est frotté le poignet"
+            },
+            {
+              "front": "My shoulder was sore",
+              "back": "mon épaule me faisait mal"
+            },
+            { "front": "Her skin felt smooth", "back": "sa peau était douce" },
+            {
+              "front": "I smelled with nose",
+              "back": "j&#39;ai senti avec le nez"
+            },
+            {
+              "front": "His eyes looked tired",
+              "back": "ses yeux semblaient fatigués"
+            },
+            {
+              "front": "We breathed with lungs",
+              "back": "nous avons respiré avec nos poumons"
+            },
+            {
+              "front": "She stood on toes",
+              "back": "elle se tenait sur la pointe des pieds"
+            },
+            {
+              "front": "Your back hurt badly",
+              "back": "ton dos te fait très mal"
+            },
+            {
+              "front": "My finger felt numb",
+              "back": "mon doigt était engourdi"
+            },
+            {
+              "front": "Their stomachs growled loudly",
+              "back": "leurs estomacs grognaient bruyamment"
+            },
+            {
+              "front": "I washed my hands",
+              "back": "je me suis lavé les mains"
+            },
+            {
+              "front": "His hair grew longer",
+              "back": "ses cheveux ont poussé plus longtemps"
+            },
+            {
+              "front": "We touched our necks",
+              "back": "nous avons touché nos cous"
+            },
+            {
+              "front": "Her teeth were white",
+              "back": "ses dents étaient blanches"
+            },
+            {
+              "front": "You clenched your fists",
+              "back": "tu as serré les poings"
+            },
+            {
+              "front": "My ears rang loudly",
+              "back": "mes oreilles sonnaient fort"
+            },
+            {
+              "front": "Our feet grew warmer",
+              "back": "nos pieds se sont réchauffés"
+            },
+            { "front": "I saw with eyes", "back": "j&#39;ai vu avec les yeux" },
+            {
+              "front": "Their hands felt cold",
+              "back": "leurs mains étaient froides"
+            },
+            { "front": "His head felt light", "back": "sa tête était légère" },
+            {
+              "front": "She rubbed her lips",
+              "back": "elle s&#39;est frotté les lèvres"
+            },
+            {
+              "front": "We felt pulse race",
+              "back": "nous avons senti le pouls s&#39;accélérer"
+            },
+            { "front": "My skin felt dry", "back": "ma peau était sèche" },
+            {
+              "front": "Your chest rose quickly",
+              "back": "ta poitrine s&#39;est rapidement soulevée"
+            },
+            {
+              "front": "Our necks were stiff",
+              "back": "nos cous étaient raides"
+            },
+            {
+              "front": "I stretched my legs",
+              "back": "j&#39;ai étiré mes jambes"
+            },
+            {
+              "front": "Her finger swelled badly",
+              "back": "son doigt a beaucoup gonflé"
+            },
+            {
+              "front": "We noticed sore throats",
+              "back": "nous avons remarqué des maux de gorge"
+            },
+            {
+              "front": "His foot throbbed badly",
+              "back": "son pied lui faisait très mal"
+            },
+            {
+              "front": "I felt muscles ache",
+              "back": "j&#39;ai ressenti des douleurs musculaires"
+            },
+            {
+              "front": "You heard with ears",
+              "back": "tu as entendu avec des oreilles"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My back hurt so badly",
+              "back": "mon dos me fait très mal"
+            },
+            {
+              "front": "His arm was sore yesterday",
+              "back": "son bras était douloureux hier"
+            },
+            {
+              "front": "Her knee swelled up badly",
+              "back": "son genou a beaucoup gonflé"
+            },
+            {
+              "front": "Our hands were dirty yesterday",
+              "back": "nos mains étaient sales hier"
+            },
+            {
+              "front": "Their feet were cold last",
+              "back": "leurs pieds étaient froids la dernière fois"
+            },
+            {
+              "front": "I felt my body aching",
+              "back": "j&#39;ai senti mon corps me faire mal"
+            },
+            {
+              "front": "Your finger bled a lot",
+              "back": "ton doigt a beaucoup saigné"
+            },
+            {
+              "front": "She touched her ear gently",
+              "back": "elle toucha doucement son oreille"
+            },
+            {
+              "front": "We saw the nose bleeding",
+              "back": "nous avons vu le nez saigner"
+            },
+            {
+              "front": "He lifted his foot slowly",
+              "back": "il leva lentement son pied"
+            },
+            {
+              "front": "My lips cracked and bled",
+              "back": "mes lèvres se sont fissurées et ont saigné"
+            },
+            {
+              "front": "Her eyes were very tired",
+              "back": "ses yeux étaient très fatigués"
+            },
+            {
+              "front": "I felt my heart racing",
+              "back": "j&#39;ai senti mon cœur s&#39;emballer"
+            },
+            {
+              "front": "Our lips were dry again",
+              "back": "nos lèvres étaient à nouveau sèches"
+            },
+            {
+              "front": "His mouth felt dry again",
+              "back": "sa bouche était à nouveau sèche"
+            },
+            {
+              "front": "She rubbed her sore back",
+              "back": "elle a frotté son dos douloureux"
+            },
+            {
+              "front": "They stretched their arms wide",
+              "back": "ils ont tendu leurs bras largement"
+            },
+            {
+              "front": "I rested my aching legs",
+              "back": "j&#39;ai reposé mes jambes douloureuses"
+            },
+            {
+              "front": "Your chest hurt from coughing",
+              "back": "ta poitrine te fait mal à cause de la toux"
+            },
+            {
+              "front": "We touched our sore feet",
+              "back": "nous avons touché nos pieds endoloris"
+            },
+            {
+              "front": "He rubbed his swollen wrist",
+              "back": "il a frotté son poignet enflé"
+            },
+            {
+              "front": "My shoulder was sore yesterday",
+              "back": "mon épaule était douloureuse hier"
+            },
+            {
+              "front": "Her skin was soft and smooth",
+              "back": "sa peau était douce et lisse"
+            },
+            {
+              "front": "I smelled with my nose",
+              "back": "j&#39;ai senti avec mon nez"
+            },
+            {
+              "front": "His eyes were very tired",
+              "back": "ses yeux étaient très fatigués"
+            },
+            {
+              "front": "We breathed with our lungs",
+              "back": "nous avons respiré avec nos poumons"
+            },
+            {
+              "front": "She stood on her toes",
+              "back": "elle se tenait sur la pointe des pieds"
+            },
+            {
+              "front": "Your back hurt quite badly",
+              "back": "ton dos te fait très mal"
+            },
+            {
+              "front": "My finger felt completely numb",
+              "back": "mon doigt était complètement engourdi"
+            },
+            {
+              "front": "Their stomachs growled very loudly",
+              "back": "leurs estomacs grognaient très fort"
+            },
+            {
+              "front": "I washed my dirty hands",
+              "back": "je me suis lavé les mains sales"
+            },
+            {
+              "front": "His hair grew longer daily",
+              "back": "ses cheveux poussaient de jour en jour"
+            },
+            {
+              "front": "We touched our stiff necks",
+              "back": "nous avons touché nos nuques raides"
+            },
+            {
+              "front": "Her teeth were very white",
+              "back": "ses dents étaient très blanches"
+            },
+            {
+              "front": "You clenched your fists tightly",
+              "back": "tu as serré les poings fermement"
+            },
+            {
+              "front": "My ears rang in pain",
+              "back": "mes oreilles bourdonnaient de douleur"
+            },
+            {
+              "front": "Our feet grew warmer quickly",
+              "back": "nos pieds se sont réchauffés rapidement"
+            },
+            {
+              "front": "I saw with my eyes",
+              "back": "j&#39;ai vu avec mes yeux"
+            },
+            {
+              "front": "Their hands felt cold and stiff",
+              "back": "leurs mains étaient froides et raides"
+            },
+            {
+              "front": "His head felt light and dizzy",
+              "back": "sa tête était légère et étourdie"
+            },
+            {
+              "front": "She rubbed her dry lips",
+              "back": "elle frotta ses lèvres sèches"
+            },
+            {
+              "front": "We felt our pulse race",
+              "back": "nous avons senti notre pouls s&#39;accélérer"
+            },
+            {
+              "front": "My skin felt so dry",
+              "back": "ma peau était si sèche"
+            },
+            {
+              "front": "Your chest rose quickly again",
+              "back": "ta poitrine s&#39;est à nouveau rapidement soulevée"
+            },
+            {
+              "front": "Our necks were stiff all day",
+              "back": "nos cous étaient raides toute la journée"
+            },
+            {
+              "front": "I stretched my aching legs",
+              "back": "j&#39;ai étiré mes jambes douloureuses"
+            },
+            {
+              "front": "Her finger swelled up badly",
+              "back": "son doigt a beaucoup gonflé"
+            },
+            {
+              "front": "We noticed our sore throats",
+              "back": "nous avons remarqué nos maux de gorge"
+            },
+            {
+              "front": "His foot throbbed with pain",
+              "back": "son pied lancinait de douleur"
+            },
+            {
+              "front": "I felt the muscles aching",
+              "back": "j&#39;ai senti mes muscles me faire mal"
+            },
+            {
+              "front": "You heard with your ears",
+              "back": "tu as entendu avec tes oreilles"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "My back hurt so badly yesterday",
+              "back": "mon dos me faisait très mal hier"
+            },
+            {
+              "front": "His arm was sore after lifting",
+              "back": "son bras était douloureux après avoir soulevé"
+            },
+            {
+              "front": "Her knee swelled up after walking",
+              "back": "son genou a gonflé après avoir marché"
+            },
+            {
+              "front": "Our hands were dirty after work",
+              "back": "nos mains étaient sales après le travail"
+            },
+            {
+              "front": "Their feet were cold all night",
+              "back": "leurs pieds étaient froids toute la nuit"
+            },
+            {
+              "front": "I felt my body aching everywhere",
+              "back": "j&#39;ai senti mon corps me faire mal partout"
+            },
+            {
+              "front": "Your finger bled a lot yesterday",
+              "back": "ton doigt a beaucoup saigné hier"
+            },
+            {
+              "front": "She touched her ear in pain",
+              "back": "elle a touché son oreille de douleur"
+            },
+            {
+              "front": "We saw the nose bleeding badly",
+              "back": "nous avons vu le nez saigner abondamment"
+            },
+            {
+              "front": "He lifted his foot with difficulty",
+              "back": "il leva son pied avec difficulté"
+            },
+            {
+              "front": "My lips cracked and bled badly",
+              "back": "mes lèvres se sont fissurées et ont beaucoup saigné"
+            },
+            {
+              "front": "Her eyes were very tired today",
+              "back": "ses yeux étaient très fatigués aujourd&#39;hui"
+            },
+            {
+              "front": "I felt my heart racing fast",
+              "back": "j&#39;ai senti mon cœur battre vite"
+            },
+            {
+              "front": "Our lips were dry and cracked",
+              "back": "nos lèvres étaient sèches et gercées"
+            },
+            {
+              "front": "His mouth felt dry all night",
+              "back": "sa bouche était sèche toute la nuit"
+            },
+            {
+              "front": "She rubbed her sore back gently",
+              "back": "elle frotta doucement son dos douloureux"
+            },
+            {
+              "front": "They stretched their arms wide apart",
+              "back": "ils ont écarté leurs bras"
+            },
+            {
+              "front": "I rested my aching legs here",
+              "back": "j&#39;ai reposé mes jambes douloureuses ici"
+            },
+            {
+              "front": "Your chest hurt badly from coughing",
+              "back": "ta poitrine te fait très mal à cause de la toux"
+            },
+            {
+              "front": "We touched our sore feet slowly",
+              "back": "nous avons touché nos pieds douloureux lentement"
+            },
+            {
+              "front": "He rubbed his swollen wrist carefully",
+              "back": "il frotta soigneusement son poignet enflé"
+            },
+            {
+              "front": "My shoulder was sore from lifting",
+              "back": "mon épaule me faisait mal à force de soulever"
+            },
+            {
+              "front": "Her skin was soft and smooth",
+              "back": "sa peau était douce et lisse"
+            },
+            {
+              "front": "I smelled with my nose carefully",
+              "back": "j&#39;ai senti avec mon nez soigneusement"
+            },
+            {
+              "front": "His eyes were very tired today",
+              "back": "ses yeux étaient très fatigués aujourd&#39;hui"
+            },
+            {
+              "front": "We breathed with our lungs deeply",
+              "back": "nous avons respiré profondément avec nos poumons"
+            },
+            {
+              "front": "She stood on her toes carefully",
+              "back": "elle se tenait sur la pointe des pieds avec précaution"
+            },
+            {
+              "front": "Your back hurt badly after sitting",
+              "back": "ton dos te fait très mal après être resté assis"
+            },
+            {
+              "front": "My finger felt completely numb today",
+              "back": "mon doigt était complètement engourdi aujourd&#39;hui"
+            },
+            {
+              "front": "Their stomachs growled loudly after eating",
+              "back": "leurs estomacs grognaient bruyamment après avoir mangé"
+            },
+            {
+              "front": "I washed my dirty hands thoroughly",
+              "back": "j&#39;ai soigneusement lavé mes mains sales"
+            },
+            {
+              "front": "His hair grew longer each week",
+              "back": "ses cheveux poussaient plus longtemps chaque semaine"
+            },
+            {
+              "front": "We touched our stiff necks gently",
+              "back": "nous avons touché doucement nos nuques raides"
+            },
+            {
+              "front": "Her teeth were very white today",
+              "back": "ses dents étaient très blanches aujourd&#39;hui"
+            },
+            {
+              "front": "You clenched your fists in anger",
+              "back": "tu as serré les poings de colère"
+            },
+            {
+              "front": "My ears rang with loud noise",
+              "back": "mes oreilles résonnaient d&#39;un bruit fort"
+            },
+            {
+              "front": "Our feet grew warmer after walking",
+              "back": "nos pieds se sont réchauffés après avoir marché"
+            },
+            {
+              "front": "I saw with my eyes clearly",
+              "back": "j&#39;ai vu clairement avec mes yeux"
+            },
+            {
+              "front": "Their hands felt cold and stiff",
+              "back": "leurs mains étaient froides et raides"
+            },
+            {
+              "front": "His head felt light and dizzy",
+              "back": "sa tête était légère et étourdie"
+            },
+            {
+              "front": "She rubbed her dry lips gently",
+              "back": "elle frotta doucement ses lèvres sèches"
+            },
+            {
+              "front": "We felt our pulse racing fast",
+              "back": "nous avons senti notre pouls s&#39;accélérer"
+            },
+            {
+              "front": "My skin felt so dry today",
+              "back": "ma peau était si sèche aujourd&#39;hui"
+            },
+            {
+              "front": "Your chest rose quickly from running",
+              "back": "ta poitrine s&#39;est rapidement soulevée à force de courir"
+            },
+            {
+              "front": "Our necks were stiff from sitting",
+              "back": "nos cous étaient raides à force d&#39;être assis"
+            },
+            {
+              "front": "I stretched my aching legs slowly",
+              "back": "j&#39;ai étiré mes jambes douloureuses lentement"
+            },
+            {
+              "front": "Her finger swelled up badly yesterday",
+              "back": "son doigt a beaucoup gonflé hier"
+            },
+            {
+              "front": "We noticed our sore throats clearly",
+              "back": "nous avons clairement remarqué nos maux de gorge"
+            },
+            {
+              "front": "His foot throbbed with pain badly",
+              "back": "son pied le lançait de douleur"
+            },
+            {
+              "front": "I felt the muscles aching badly",
+              "back": "j&#39;ai senti mes muscles me faire très mal"
+            },
+            {
+              "front": "You heard with your ears clearly",
+              "back": "tu as entendu clairement avec tes oreilles"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "vein will turn", "back": "la veine va tourner" },
+            { "front": "bladder will feel", "back": "la vessie ressentira" },
+            { "front": "muscle will grow", "back": "les muscles vont grandir" },
+            {
+              "front": "spine will support",
+              "back": "la colonne vertébrale soutiendra"
+            },
+            { "front": "heart will pump", "back": "le cœur va pomper" },
+            { "front": "liver will process", "back": "le foie va traiter" },
+            { "front": "bone will heal", "back": "l&#39;os guérira" },
+            {
+              "front": "joint will improve",
+              "back": "l&#39;articulation s&#39;améliorera"
+            },
+            { "front": "skin will feel", "back": "la peau se sentira" },
+            { "front": "nail will grow", "back": "l&#39;ongle va pousser" },
+            { "front": "tooth will remain", "back": "la dent restera" },
+            { "front": "hair will grow", "back": "les cheveux pousseront" },
+            { "front": "toe will regain", "back": "l&#39;orteil va retrouver" },
+            { "front": "foot will support", "back": "le pied soutiendra" },
+            {
+              "front": "brow will furrow",
+              "back": "les sourcils se fronceront"
+            },
+            {
+              "front": "belly will flatten",
+              "back": "le ventre va s&#39;aplatir"
+            },
+            { "front": "arm will lift", "back": "le bras se lèvera" },
+            { "front": "leg will get", "back": "la jambe va obtenir" },
+            {
+              "front": "stomach will digest",
+              "back": "l&#39;estomac va digérer"
+            },
+            { "front": "shoulder will carry", "back": "l&#39;épaule portera" },
+            { "front": "eye will see", "back": "l&#39;œil verra" },
+            { "front": "tongue will taste", "back": "la langue aura un goût" },
+            { "front": "elbow will bend", "back": "le coude va se plier" },
+            { "front": "finger will point", "back": "le doigt pointera" },
+            {
+              "front": "forehead will wrinkle",
+              "back": "le front va se rider"
+            },
+            { "front": "cheek will flush", "back": "la joue rougit" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "My vein will show", "back": "ma veine se montrera" },
+            {
+              "front": "My muscle will grow",
+              "back": "mes muscles vont grandir"
+            },
+            { "front": "My foot will heal", "back": "mon pied guérira" },
+            { "front": "His tooth will ache", "back": "sa dent lui fera mal" },
+            { "front": "His liver will heal", "back": "son foie guérira" },
+            {
+              "front": "My skin will clear",
+              "back": "ma peau va s&#39;éclaircir"
+            },
+            {
+              "front": "Her eye will twitch",
+              "back": "son œil va tressaillir"
+            },
+            {
+              "front": "His finger will break",
+              "back": "son doigt va se casser"
+            },
+            { "front": "My hand will shake", "back": "ma main tremblera" },
+            {
+              "front": "Her leg will ache",
+              "back": "sa jambe va lui faire mal"
+            },
+            { "front": "My arm will hurt", "back": "mon bras va me faire mal" },
+            {
+              "front": "Your chest will tighten",
+              "back": "ta poitrine va se serrer"
+            },
+            {
+              "front": "His heart will race",
+              "back": "son cœur va s&#39;emballer"
+            },
+            {
+              "front": "Our stomachs will growl",
+              "back": "nos estomacs vont grogner"
+            },
+            { "front": "My nose will run", "back": "mon nez va couler" },
+            {
+              "front": "Her wrist will sprain",
+              "back": "son poignet va se fouler"
+            },
+            { "front": "My knee will bend", "back": "mon genou va plier" },
+            {
+              "front": "Your toe will bruise",
+              "back": "ton orteil va faire un bleu"
+            },
+            {
+              "front": "His back will straighten",
+              "back": "son dos se redressera"
+            },
+            { "front": "My mouth will dry", "back": "ma bouche va sécher" },
+            { "front": "Her foot will swell", "back": "son pied va gonfler" },
+            { "front": "His ear will pop", "back": "son oreille va éclater" },
+            { "front": "My neck will crack", "back": "mon cou va craquer" },
+            {
+              "front": "Your teeth will sparkle",
+              "back": "tes dents brilleront"
+            },
+            {
+              "front": "His ankle will twist",
+              "back": "sa cheville va se tordre"
+            },
+            { "front": "My vein will throb", "back": "ma veine palpitera" },
+            {
+              "front": "Her finger will swell",
+              "back": "son doigt va gonfler"
+            },
+            {
+              "front": "My chest will expand",
+              "back": "ma poitrine va s&#39;élargir"
+            },
+            {
+              "front": "His leg will cramp",
+              "back": "sa jambe aura des crampes"
+            },
+            { "front": "Our veins will pulse", "back": "nos veines pulseront" },
+            { "front": "My eye will twitch", "back": "mon œil va tressaillir" },
+            { "front": "Her skin will smooth", "back": "sa peau sera lisse" },
+            {
+              "front": "My muscle will strain",
+              "back": "mon muscle va se fatiguer"
+            },
+            { "front": "His lip will bleed", "back": "sa lèvre saignera" },
+            { "front": "Our ears will ring", "back": "nos oreilles sonneront" },
+            { "front": "My knee will lock", "back": "mon genou va se bloquer" },
+            { "front": "Her hair will grow", "back": "ses cheveux pousseront" },
+            { "front": "His head will spin", "back": "sa tête va tourner" },
+            {
+              "front": "My mouth will open",
+              "back": "ma bouche s&#39;ouvrira"
+            },
+            {
+              "front": "Your hand will stretch",
+              "back": "ta main s&#39;étendra"
+            },
+            {
+              "front": "Her muscle will tighten",
+              "back": "ses muscles vont se resserrer"
+            },
+            {
+              "front": "My foot will blister",
+              "back": "mon pied va avoir des ampoules"
+            },
+            { "front": "His hand will freeze", "back": "sa main va geler" },
+            {
+              "front": "My teeth will whiten",
+              "back": "mes dents vont blanchir"
+            },
+            {
+              "front": "Your back will ache",
+              "back": "ton dos va te faire mal"
+            },
+            {
+              "front": "Her throat will close",
+              "back": "sa gorge va se fermer"
+            },
+            {
+              "front": "My chest will ache",
+              "back": "ma poitrine va me faire mal"
+            },
+            { "front": "His tongue will swell", "back": "sa langue va gonfler" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My back will hurt soon",
+              "back": "mon dos va bientôt me faire mal"
+            },
+            {
+              "front": "His arm will be sore",
+              "back": "son bras sera douloureux"
+            },
+            {
+              "front": "Her knee will be swollen",
+              "back": "son genou sera enflé"
+            },
+            {
+              "front": "Our hands will be clean",
+              "back": "nos mains seront propres"
+            },
+            {
+              "front": "Their feet will be cold",
+              "back": "leurs pieds seront froids"
+            },
+            { "front": "I will feel my body", "back": "je sentirai mon corps" },
+            {
+              "front": "Your finger will bleed badly",
+              "back": "ton doigt saignera abondamment"
+            },
+            {
+              "front": "She will touch her ear",
+              "back": "elle touchera son oreille"
+            },
+            { "front": "We will see the nose", "back": "nous verrons le nez" },
+            { "front": "He will lift his foot", "back": "il lèvera son pied" },
+            {
+              "front": "My lips will be dry",
+              "back": "mes lèvres seront sèches"
+            },
+            {
+              "front": "Her eyes will be tired",
+              "back": "ses yeux seront fatigués"
+            },
+            { "front": "I will feel my heart", "back": "je sentirai mon cœur" },
+            {
+              "front": "Our lips will be dry",
+              "back": "nos lèvres seront sèches"
+            },
+            {
+              "front": "His mouth will be dry",
+              "back": "sa bouche sera sèche"
+            },
+            {
+              "front": "She will rub her back",
+              "back": "elle va lui frotter le dos"
+            },
+            {
+              "front": "They will stretch their arms",
+              "back": "ils étendront leurs bras"
+            },
+            {
+              "front": "I will rest my legs",
+              "back": "je vais reposer mes jambes"
+            },
+            {
+              "front": "Your chest will hurt badly",
+              "back": "ta poitrine va te faire très mal"
+            },
+            {
+              "front": "We will touch our feet",
+              "back": "nous toucherons nos pieds"
+            },
+            {
+              "front": "He will rub his wrist",
+              "back": "il va se frotter le poignet"
+            },
+            {
+              "front": "My shoulder will be sore",
+              "back": "mon épaule va me faire mal"
+            },
+            {
+              "front": "Her skin will be smooth",
+              "back": "sa peau sera lisse"
+            },
+            {
+              "front": "I will smell with nose",
+              "back": "je sentirai avec le nez"
+            },
+            {
+              "front": "His eyes will be tired",
+              "back": "ses yeux seront fatigués"
+            },
+            {
+              "front": "We will breathe with lungs",
+              "back": "nous respirerons avec nos poumons"
+            },
+            {
+              "front": "She will stand on toes",
+              "back": "elle se tiendra sur la pointe des pieds"
+            },
+            {
+              "front": "Your back will hurt badly",
+              "back": "ton dos va terriblement te faire mal"
+            },
+            {
+              "front": "My finger will feel numb",
+              "back": "mon doigt sera engourdi"
+            },
+            {
+              "front": "Their stomachs will growl loudly",
+              "back": "leurs estomacs grogneront bruyamment"
+            },
+            {
+              "front": "I will wash my hands",
+              "back": "je vais me laver les mains"
+            },
+            {
+              "front": "His hair will grow longer",
+              "back": "ses cheveux pousseront plus longtemps"
+            },
+            {
+              "front": "We will touch our necks",
+              "back": "nous toucherons nos cous"
+            },
+            {
+              "front": "Her teeth will be white",
+              "back": "ses dents seront blanches"
+            },
+            {
+              "front": "You will clench your fists",
+              "back": "tu serreras les poings"
+            },
+            {
+              "front": "My ears will ring loudly",
+              "back": "mes oreilles sonneront fort"
+            },
+            {
+              "front": "Our feet will grow warmer",
+              "back": "nos pieds se réchaufferont"
+            },
+            {
+              "front": "I will see with eyes",
+              "back": "je verrai avec les yeux"
+            },
+            {
+              "front": "Their hands will feel cold",
+              "back": "leurs mains seront froides"
+            },
+            {
+              "front": "His head will feel light",
+              "back": "sa tête sera légère"
+            },
+            {
+              "front": "She will rub her lips",
+              "back": "elle se frottera les lèvres"
+            },
+            {
+              "front": "We will feel pulse race",
+              "back": "nous sentirons le pouls s&#39;accélérer"
+            },
+            { "front": "My skin will feel dry", "back": "ma peau sera sèche" },
+            {
+              "front": "Your chest will rise quickly",
+              "back": "ta poitrine va se soulever rapidement"
+            },
+            {
+              "front": "Our necks will be stiff",
+              "back": "nos cous seront raides"
+            },
+            {
+              "front": "I will stretch my legs",
+              "back": "je vais me dégourdir les jambes"
+            },
+            {
+              "front": "Her finger will swell badly",
+              "back": "son doigt va beaucoup gonfler"
+            },
+            {
+              "front": "We will notice sore throats",
+              "back": "nous remarquerons des maux de gorge"
+            },
+            {
+              "front": "His foot will throb badly",
+              "back": "son pied va beaucoup palpiter"
+            },
+            {
+              "front": "I will feel muscles ache",
+              "back": "je ressentirai des douleurs musculaires"
+            },
+            {
+              "front": "You will hear with ears",
+              "back": "tu entendras avec tes oreilles"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "My vein will show on my arm",
+              "back": "ma veine sera visible sur mon bras"
+            },
+            {
+              "front": "My muscle will grow in strength",
+              "back": "mes muscles vont gagner en force"
+            },
+            {
+              "front": "My foot will heal after surgery",
+              "back": "mon pied guérira après l&#39;opération"
+            },
+            {
+              "front": "His tooth will ache during night",
+              "back": "sa dent lui fera mal pendant la nuit"
+            },
+            {
+              "front": "His liver will heal with rest",
+              "back": "son foie guérira avec du repos"
+            },
+            {
+              "front": "My skin will clear up soon",
+              "back": "ma peau va bientôt s&#39;éclaircir"
+            },
+            {
+              "front": "Her eye will twitch nervously soon",
+              "back": "son œil va bientôt trembler nerveusement"
+            },
+            {
+              "front": "His finger will break with force",
+              "back": "son doigt se brisera avec force"
+            },
+            {
+              "front": "My hand will shake with fear",
+              "back": "ma main tremblera de peur"
+            },
+            {
+              "front": "Her leg will ache after walking",
+              "back": "sa jambe lui fera mal après avoir marché"
+            },
+            {
+              "front": "My arm will hurt for days",
+              "back": "mon bras va me faire mal pendant des jours"
+            },
+            {
+              "front": "Your chest will tighten with anxiety",
+              "back": "votre poitrine se serrera d&#39;anxiété"
+            },
+            {
+              "front": "His heart will race with excitement",
+              "back": "son cœur s&#39;emballera d&#39;excitation"
+            },
+            {
+              "front": "Our stomachs will growl with hunger",
+              "back": "nos estomacs grogneront de faim"
+            },
+            {
+              "front": "My nose will run from allergies",
+              "back": "mon nez va couler à cause des allergies"
+            },
+            {
+              "front": "Her wrist will sprain while stretching",
+              "back": "son poignet va se fouler en s&#39;étirant"
+            },
+            {
+              "front": "My knee will bend easily now",
+              "back": "mon genou se pliera facilement maintenant"
+            },
+            {
+              "front": "Your toe will bruise from impact",
+              "back": "votre orteil sera meurtri par l&#39;impact"
+            },
+            {
+              "front": "His back will straighten after rest",
+              "back": "son dos se redressera après le repos"
+            },
+            {
+              "front": "My mouth will dry out quickly",
+              "back": "ma bouche va vite s&#39;assécher"
+            },
+            {
+              "front": "Her foot will swell from walking",
+              "back": "son pied va gonfler à force de marcher"
+            },
+            {
+              "front": "His ear will pop on plane",
+              "back": "son oreille va éclater dans l&#39;avion"
+            },
+            {
+              "front": "My neck will crack from stress",
+              "back": "mon cou va craquer à cause du stress"
+            },
+            {
+              "front": "Your teeth will sparkle after brushing",
+              "back": "vos dents brilleront après le brossage"
+            },
+            {
+              "front": "His ankle will twist on uneven ground",
+              "back": "sa cheville se tordra sur un sol irrégulier"
+            },
+            {
+              "front": "My vein will throb in wrist",
+              "back": "ma veine palpitera dans mon poignet"
+            },
+            {
+              "front": "Her finger will swell up badly",
+              "back": "son doigt va beaucoup gonfler"
+            },
+            {
+              "front": "My chest will expand with breath",
+              "back": "ma poitrine se dilatera avec le souffle"
+            },
+            {
+              "front": "His leg will cramp from standing",
+              "back": "sa jambe aura des crampes à force de rester debout"
+            },
+            {
+              "front": "Our veins will pulse with energy",
+              "back": "nos veines pulseront d&#39;énergie"
+            },
+            {
+              "front": "My eye will twitch in stress",
+              "back": "mon œil va trembler à cause du stress"
+            },
+            {
+              "front": "Her skin will smooth with care",
+              "back": "sa peau sera lisse avec soin"
+            },
+            {
+              "front": "My muscle will strain with exertion",
+              "back": "mes muscles vont se tendre avec l&#39;effort"
+            },
+            {
+              "front": "His lip will bleed after biting",
+              "back": "sa lèvre saignera après avoir mordu"
+            },
+            {
+              "front": "Our ears will ring from noise",
+              "back": "nos oreilles bourdonneront à cause du bruit"
+            },
+            {
+              "front": "My knee will lock up suddenly",
+              "back": "mon genou va se bloquer soudainement"
+            },
+            {
+              "front": "Her hair will grow out beautifully",
+              "back": "ses cheveux pousseront magnifiquement"
+            },
+            {
+              "front": "His head will spin from dizziness",
+              "back": "sa tête tournera à cause du vertige"
+            },
+            {
+              "front": "My mouth will open in surprise",
+              "back": "ma bouche s&#39;ouvrira de surprise"
+            },
+            {
+              "front": "Your hand will stretch with effort",
+              "back": "ta main s&#39;étirera avec effort"
+            },
+            {
+              "front": "Her muscle will tighten with stress",
+              "back": "ses muscles vont se contracter sous l&#39;effet du stress"
+            },
+            {
+              "front": "My foot will blister from walking",
+              "back": "mon pied va avoir des ampoules à force de marcher"
+            },
+            {
+              "front": "His hand will freeze in cold",
+              "back": "sa main va geler de froid"
+            },
+            {
+              "front": "My teeth will whiten over time",
+              "back": "mes dents blanchiront avec le temps"
+            },
+            {
+              "front": "Your back will ache from sitting",
+              "back": "votre dos vous fera mal à force de rester assis"
+            },
+            {
+              "front": "Her throat will close from fear",
+              "back": "sa gorge se fermera de peur"
+            },
+            {
+              "front": "My chest will ache from coughing",
+              "back": "ma poitrine me fera mal à cause de la toux"
+            },
+            {
+              "front": "His tongue will swell after burn",
+              "back": "sa langue gonflera après la brûlure"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

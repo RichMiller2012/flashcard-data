@@ -1,0 +1,1335 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Family",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Mother", "back": "mère" },
+            { "front": "Father", "back": "père" },
+            { "front": "Daughter", "back": "fille" },
+            { "front": "Son", "back": "fils" },
+            { "front": "Brother", "back": "frère" },
+            { "front": "Sister", "back": "sœur" },
+            { "front": "Uncle", "back": "oncle" },
+            { "front": "Aunt", "back": "tante" },
+            { "front": "Cousin", "back": "cousin" },
+            { "front": "Grandmother", "back": "grand-mère" },
+            { "front": "Grandfather", "back": "grand-père" },
+            { "front": "Niece", "back": "nièce" },
+            { "front": "Nephew", "back": "neveu" },
+            { "front": "Parent", "back": "mère" },
+            { "front": "Child", "back": "enfant" },
+            { "front": "Family", "back": "famille" },
+            { "front": "Relative", "back": "relatif" },
+            { "front": "Spouse", "back": "conjoint" },
+            { "front": "Partner", "back": "partenaire" },
+            { "front": "Sibling", "back": "frère et sœur" },
+            { "front": "Kin", "back": "proche" },
+            { "front": "Guardian", "back": "tuteur" },
+            { "front": "Stepchild", "back": "beau-fils" },
+            { "front": "Stepparent", "back": "beau-parent" },
+            { "front": "Half-sister", "back": "demi-soeur" },
+            { "front": "Half-brother", "back": "demi-frère" },
+            { "front": "Foster", "back": "favoriser" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "tall nephew", "back": "grand neveu" },
+            { "front": "beautiful daughter", "back": "belle fille" },
+            { "front": "old grandfather", "back": "vieux grand-père" },
+            { "front": "young grandmother", "back": "jeune grand-mère" },
+            { "front": "smart brother", "back": "frère intelligent" },
+            { "front": "kind sister", "back": "gentille sœur" },
+            { "front": "loving mother", "back": "mère aimante" },
+            { "front": "caring father", "back": "père attentionné" },
+            { "front": "fun cousin", "back": "cousin amusant" },
+            { "front": "supportive partner", "back": "partenaire de soutien" },
+            { "front": "hardworking aunt", "back": "tante travailleuse" },
+            { "front": "funny uncle", "back": "oncle drôle" },
+            { "front": "sweet niece", "back": "douce nièce" },
+            { "front": "playful son", "back": "fils joueur" },
+            { "front": "friendly daughter", "back": "fille amicale" },
+            { "front": "dedicated spouse", "back": "conjoint dévoué" },
+            { "front": "caring guardian", "back": "tuteur attentionné" },
+            { "front": "helpful stepchild", "back": "beau-fils serviable" },
+            { "front": "old half-brother", "back": "vieux demi-frère" },
+            { "front": "young half-sister", "back": "jeune demi-soeur" },
+            {
+              "front": "supportive in-law",
+              "back": "beaux-parents solidaires"
+            },
+            { "front": "close relative", "back": "proche parent" },
+            { "front": "reliable sibling", "back": "frère ou sœur fiable" },
+            { "front": "loving kin", "back": "parents aimants" },
+            { "front": "happy family", "back": "famille heureuse" },
+            { "front": "cherished friend", "back": "ami chéri" },
+            { "front": "trusted confidant", "back": "confident de confiance" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "tall nephew plays", "back": "grand neveu joue" },
+            {
+              "front": "beautiful daughter smiles",
+              "back": "belle fille sourit"
+            },
+            {
+              "front": "grandfather tells stories",
+              "back": "grand-père raconte des histoires"
+            },
+            {
+              "front": "grandmother bakes cookies",
+              "back": "grand-mère fait des biscuits"
+            },
+            { "front": "brother studies hard", "back": "mon frère étudie dur" },
+            { "front": "sister helps out", "back": "la sœur aide" },
+            {
+              "front": "mother hugs tightly",
+              "back": "la mère serre fort dans ses bras"
+            },
+            {
+              "front": "father supports family",
+              "back": "le père soutient la famille"
+            },
+            {
+              "front": "cousin visits often",
+              "back": "cousin rend souvent visite"
+            },
+            {
+              "front": "partner listens patiently",
+              "back": "le partenaire écoute patiemment"
+            },
+            { "front": "aunt cooks dinner", "back": "tante prépare le dîner" },
+            {
+              "front": "uncle cracks jokes",
+              "back": "l&#39;oncle fait des blagues"
+            },
+            {
+              "front": "niece giggles happily",
+              "back": "la nièce rit joyeusement"
+            },
+            { "front": "son enjoys games", "back": "mon fils aime les jeux" },
+            {
+              "front": "daughter makes friends",
+              "back": "sa fille se fait des amis"
+            },
+            {
+              "front": "spouse works hard",
+              "back": "le conjoint travaille dur"
+            },
+            {
+              "front": "guardian watches closely",
+              "back": "le gardien surveille de près"
+            },
+            { "front": "stepchild cleans up", "back": "le beau-fils nettoie" },
+            {
+              "front": "half-brother shares wisdom",
+              "back": "un demi-frère partage sa sagesse"
+            },
+            {
+              "front": "half-sister loves drawing",
+              "back": "demi-soeur adore dessiner"
+            },
+            {
+              "front": "in-law offers help",
+              "back": "beau-parent propose de l&#39;aide"
+            },
+            {
+              "front": "relative visits frequently",
+              "back": "visites familiales fréquentes"
+            },
+            {
+              "front": "sibling always listens",
+              "back": "le frère ou la sœur écoute toujours"
+            },
+            {
+              "front": "kin gathers together",
+              "back": "les proches se rassemblent"
+            },
+            {
+              "front": "family enjoys meals",
+              "back": "la famille apprécie les repas"
+            },
+            {
+              "front": "friend brings joy",
+              "back": "un ami apporte de la joie"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "tall nephew plays cards",
+              "back": "le grand neveu joue aux cartes"
+            },
+            {
+              "front": "beautiful daughter smiles sweetly",
+              "back": "belle fille sourit doucement"
+            },
+            {
+              "front": "old grandfather tells stories",
+              "back": "le vieux grand-père raconte des histoires"
+            },
+            {
+              "front": "young grandmother bakes cookies",
+              "back": "une jeune grand-mère fait des biscuits"
+            },
+            {
+              "front": "smart brother studies hard",
+              "back": "frère intelligent étudie dur"
+            },
+            {
+              "front": "kind sister helps out",
+              "back": "une gentille sœur aide"
+            },
+            {
+              "front": "loving mother hugs tightly",
+              "back": "une mère aimante serre fort dans ses bras"
+            },
+            {
+              "front": "caring father supports family",
+              "back": "un père attentionné soutient sa famille"
+            },
+            {
+              "front": "fun cousin visits often",
+              "back": "un cousin amusant me rend souvent visite"
+            },
+            {
+              "front": "supportive partner listens patiently",
+              "back": "un partenaire solidaire écoute patiemment"
+            },
+            {
+              "front": "hardworking aunt cooks dinner",
+              "back": "une tante travailleuse prépare le dîner"
+            },
+            {
+              "front": "funny uncle cracks jokes",
+              "back": "un oncle drôle fait des blagues"
+            },
+            {
+              "front": "sweet niece giggles happily",
+              "back": "la douce nièce rit joyeusement"
+            },
+            {
+              "front": "playful son enjoys games",
+              "back": "fils joueur aime les jeux"
+            },
+            {
+              "front": "friendly daughter makes friends",
+              "back": "une fille amicale se fait des amis"
+            },
+            {
+              "front": "dedicated spouse works hard",
+              "back": "conjoint dévoué qui travaille dur"
+            },
+            {
+              "front": "caring guardian watches closely",
+              "back": "un gardien attentionné surveille de près"
+            },
+            {
+              "front": "helpful stepchild cleans up",
+              "back": "un beau-fils serviable nettoie"
+            },
+            {
+              "front": "old half-brother shares wisdom",
+              "back": "un vieux demi-frère partage sa sagesse"
+            },
+            {
+              "front": "young half-sister loves drawing",
+              "back": "la jeune demi-sœur adore dessiner"
+            },
+            {
+              "front": "supportive in-law offers help",
+              "back": "un beau-parent solidaire propose de l&#39;aide"
+            },
+            {
+              "front": "close relative visits frequently",
+              "back": "des proches parents rendent fréquemment visite"
+            },
+            {
+              "front": "reliable sibling always listens",
+              "back": "frère fiable toujours à l&#39;écoute"
+            },
+            {
+              "front": "loving kin gathers together",
+              "back": "les proches aimants se rassemblent"
+            },
+            {
+              "front": "happy family enjoys meals",
+              "back": "une famille heureuse profite des repas"
+            },
+            {
+              "front": "cherished friend brings joy",
+              "back": "un ami chéri apporte de la joie"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "nephew plays basketball with friends",
+              "back": "mon neveu joue au basket avec des amis"
+            },
+            {
+              "front": "daughter sings in the choir",
+              "back": "ma fille chante dans la chorale"
+            },
+            {
+              "front": "grandfather tells stories about history",
+              "back": "grand-père raconte des histoires sur l&#39;histoire"
+            },
+            {
+              "front": "grandmother bakes cookies every week",
+              "back": "grand-mère fait des biscuits chaque semaine"
+            },
+            {
+              "front": "brother studies hard for exams",
+              "back": "mon frère étudie dur pour les examens"
+            },
+            {
+              "front": "sister helps with homework daily",
+              "back": "ma sœur aide aux devoirs tous les jours"
+            },
+            {
+              "front": "mother hugs her children tightly",
+              "back": "la mère serre fort ses enfants dans ses bras"
+            },
+            {
+              "front": "father supports his family always",
+              "back": "le père soutient toujours sa famille"
+            },
+            {
+              "front": "cousin visits during the summer",
+              "back": "cousin en visite pendant l&#39;été"
+            },
+            {
+              "front": "partner listens to my concerns",
+              "back": "mon partenaire écoute mes préoccupations"
+            },
+            {
+              "front": "aunt cooks dinner every evening",
+              "back": "ma tante prépare le dîner tous les soirs"
+            },
+            {
+              "front": "uncle cracks jokes at dinner",
+              "back": "l&#39;oncle fait des blagues au dîner"
+            },
+            {
+              "front": "niece giggles and plays around",
+              "back": "la nièce rit et joue"
+            },
+            {
+              "front": "son enjoys video games daily",
+              "back": "mon fils aime les jeux vidéo tous les jours"
+            },
+            {
+              "front": "daughter makes friends at school",
+              "back": "sa fille se fait des amis à l&#39;école"
+            },
+            {
+              "front": "spouse works hard for family",
+              "back": "le conjoint travaille dur pour la famille"
+            },
+            {
+              "front": "guardian watches over the children",
+              "back": "le tuteur veille sur les enfants"
+            },
+            {
+              "front": "stepchild cleans their own room",
+              "back": "le beau-fils nettoie sa propre chambre"
+            },
+            {
+              "front": "half-brother shares wisdom and advice",
+              "back": "un demi-frère partage sa sagesse et ses conseils"
+            },
+            {
+              "front": "half-sister loves drawing and painting",
+              "back": "demi-soeur aime dessiner et peindre"
+            },
+            {
+              "front": "in-law offers help and guidance",
+              "back": "le beau-frère offre de l&#39;aide et des conseils"
+            },
+            {
+              "front": "relative visits often and brings gifts",
+              "back": "un parent rend souvent visite et apporte des cadeaux"
+            },
+            {
+              "front": "sibling always listens to problems",
+              "back": "le frère ou la sœur écoute toujours les problèmes"
+            },
+            {
+              "front": "kin gathers together for holidays",
+              "back": "les proches se réunissent pour les vacances"
+            },
+            {
+              "front": "family enjoys meals together daily",
+              "back": "la famille profite des repas ensemble tous les jours"
+            },
+            {
+              "front": "friend brings joy and laughter",
+              "back": "un ami apporte joie et rire"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "nephew plays basketball with his friends",
+              "back": "son neveu joue au basket avec ses amis"
+            },
+            {
+              "front": "daughter sings beautifully in the choir",
+              "back": "ma fille chante magnifiquement dans la chorale"
+            },
+            {
+              "front": "grandfather tells fascinating stories about history",
+              "back": "grand-père raconte des histoires fascinantes sur l&#39;histoire"
+            },
+            {
+              "front": "grandmother bakes delicious cookies every week",
+              "back": "grand-mère prépare de délicieux biscuits chaque semaine"
+            },
+            {
+              "front": "brother studies hard for his exams",
+              "back": "mon frère étudie dur pour ses examens"
+            },
+            {
+              "front": "sister helps with homework every day",
+              "back": "ma sœur m&#39;aide à faire mes devoirs tous les jours"
+            },
+            {
+              "front": "mother hugs her children very tightly",
+              "back": "la mère serre très fort ses enfants dans ses bras"
+            },
+            {
+              "front": "father supports his family at home",
+              "back": "le père soutient sa famille à la maison"
+            },
+            {
+              "front": "cousin visits during the summer holidays",
+              "back": "cousin en visite pendant les vacances d&#39;été"
+            },
+            {
+              "front": "partner listens to my concerns carefully",
+              "back": "mon partenaire écoute attentivement mes préoccupations"
+            },
+            {
+              "front": "aunt cooks wonderful dinner every evening",
+              "back": "ma tante prépare un merveilleux dîner tous les soirs"
+            },
+            {
+              "front": "uncle cracks funny jokes at dinner",
+              "back": "mon oncle fait des blagues amusantes au dîner"
+            },
+            {
+              "front": "niece giggles and plays with everyone",
+              "back": "la nièce rigole et joue avec tout le monde"
+            },
+            {
+              "front": "son enjoys playing video games daily",
+              "back": "mon fils aime jouer à des jeux vidéo tous les jours"
+            },
+            {
+              "front": "daughter makes friends at her school",
+              "back": "sa fille se fait des amis à l&#39;école"
+            },
+            {
+              "front": "spouse works hard for our family",
+              "back": "mon conjoint travaille dur pour notre famille"
+            },
+            {
+              "front": "guardian watches over the children closely",
+              "back": "le tuteur surveille étroitement les enfants"
+            },
+            {
+              "front": "stepchild cleans their room every day",
+              "back": "le beau-fils nettoie sa chambre tous les jours"
+            },
+            {
+              "front": "half-brother shares wise advice with me",
+              "back": "mon demi-frère partage avec moi de sages conseils"
+            },
+            {
+              "front": "half-sister loves drawing and painting often",
+              "back": "demi-sœur aime souvent dessiner et peindre"
+            },
+            {
+              "front": "in-law offers helpful advice and support",
+              "back": "le beau-frère offre des conseils et un soutien utiles"
+            },
+            {
+              "front": "relative visits often and brings gifts",
+              "back": "un parent rend souvent visite et apporte des cadeaux"
+            },
+            {
+              "front": "sibling always listens to my problems",
+              "back": "mon frère écoute toujours mes problèmes"
+            },
+            {
+              "front": "kin gathers together for family holidays",
+              "back": "les proches se réunissent pour les vacances en famille"
+            },
+            {
+              "front": "family enjoys meals together every day",
+              "back": "la famille profite des repas ensemble tous les jours"
+            },
+            {
+              "front": "friend brings joy and laughter always",
+              "back": "un ami apporte toujours de la joie et du rire"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "nephew played", "back": "neveu a joué" },
+            { "front": "father visited", "back": "père a rendu visite" },
+            { "front": "mother baked", "back": "mère cuite" },
+            { "front": "daughter sang", "back": "fille a chanté" },
+            { "front": "son studied", "back": "fils a étudié" },
+            { "front": "brother helped", "back": "frère a aidé" },
+            { "front": "sister laughed", "back": "ma sœur a ri" },
+            { "front": "grandmother cooked", "back": "grand-mère cuisinait" },
+            { "front": "grandfather told", "back": "grand-père a dit" },
+            { "front": "uncle joked", "back": "l&#39;oncle a plaisanté" },
+            { "front": "aunt traveled", "back": "tante a voyagé" },
+            { "front": "cousin joined", "back": "cousin a rejoint" },
+            { "front": "niece danced", "back": "nièce a dansé" },
+            { "front": "nephew drew", "back": "neveu a dessiné" },
+            { "front": "partner supported", "back": "partenaire soutenu" },
+            { "front": "spouse worked", "back": "le conjoint a travaillé" },
+            { "front": "guardian watched", "back": "gardien surveillé" },
+            { "front": "relative called", "back": "parent appelé" },
+            { "front": "in-law helped", "back": "beau-frère a aidé" },
+            { "front": "stepchild cleaned", "back": "beau-fils nettoyé" },
+            { "front": "half-brother shared", "back": "demi-frère partagé" },
+            { "front": "half-sister painted", "back": "demi-soeur peinte" },
+            { "front": "kin gathered", "back": "parents rassemblés" },
+            { "front": "family celebrated", "back": "la famille a célébré" },
+            { "front": "friend comforted", "back": "ami réconforté" },
+            { "front": "parent encouraged", "back": "parents encouragés" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "spouse worked hard",
+              "back": "le conjoint a travaillé dur"
+            },
+            { "front": "aunt traveled far", "back": "tante a voyagé loin" },
+            {
+              "front": "nephew played soccer",
+              "back": "mon neveu jouait au football"
+            },
+            {
+              "front": "father visited yesterday",
+              "back": "mon père m&#39;a rendu visite hier"
+            },
+            {
+              "front": "mother baked cookies",
+              "back": "biscuits cuits par la mère"
+            },
+            {
+              "front": "daughter sang beautifully",
+              "back": "ma fille a chanté magnifiquement"
+            },
+            { "front": "son studied late", "back": "le fils a étudié tard" },
+            { "front": "brother helped me", "back": "mon frère m&#39;a aidé" },
+            { "front": "sister laughed loudly", "back": "ma sœur a ri fort" },
+            {
+              "front": "grandmother cooked dinner",
+              "back": "grand-mère a préparé le dîner"
+            },
+            {
+              "front": "grandfather told stories",
+              "back": "grand-père racontait des histoires"
+            },
+            { "front": "uncle joked around", "back": "mon oncle plaisantait" },
+            { "front": "cousin joined us", "back": "cousin nous a rejoint" },
+            {
+              "front": "niece danced happily",
+              "back": "la nièce a dansé joyeusement"
+            },
+            {
+              "front": "nephew drew pictures",
+              "back": "mon neveu a dessiné des images"
+            },
+            {
+              "front": "partner supported me",
+              "back": "mon partenaire m&#39;a soutenu"
+            },
+            {
+              "front": "guardian watched closely",
+              "back": "le gardien surveillait de près"
+            },
+            { "front": "relative called back", "back": "parent rappelé" },
+            {
+              "front": "in-law helped out",
+              "back": "les beaux-parents ont aidé"
+            },
+            {
+              "front": "stepchild cleaned room",
+              "back": "chambre nettoyée par le beau-fils"
+            },
+            {
+              "front": "half-brother shared secrets",
+              "back": "demi-frère partageant des secrets"
+            },
+            {
+              "front": "half-sister painted pictures",
+              "back": "tableaux peints par une demi-sœur"
+            },
+            { "front": "kin gathered together", "back": "parents réunis" },
+            {
+              "front": "family celebrated together",
+              "back": "la famille a célébré ensemble"
+            },
+            {
+              "front": "friend comforted me",
+              "back": "un ami m&#39;a réconforté"
+            },
+            {
+              "front": "parent encouraged me",
+              "back": "mes parents m&#39;ont encouragé"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "spouse worked for family",
+              "back": "le conjoint travaillait pour la famille"
+            },
+            {
+              "front": "aunt traveled last summer",
+              "back": "ma tante a voyagé l&#39;été dernier"
+            },
+            {
+              "front": "nephew played soccer well",
+              "back": "mon neveu jouait bien au football"
+            },
+            {
+              "front": "father visited us yesterday",
+              "back": "père nous a rendu visite hier"
+            },
+            {
+              "front": "mother baked cookies skillfully",
+              "back": "maman a fait des biscuits avec habileté"
+            },
+            {
+              "front": "daughter sang at recital",
+              "back": "sa fille a chanté au récital"
+            },
+            {
+              "front": "son studied for exams",
+              "back": "mon fils a étudié pour les examens"
+            },
+            {
+              "front": "brother helped with homework",
+              "back": "frère aidé avec les devoirs"
+            },
+            {
+              "front": "sister laughed at joke",
+              "back": "ma sœur a ri à la blague"
+            },
+            {
+              "front": "grandmother cooked dinner happily",
+              "back": "grand-mère a préparé le dîner avec joie"
+            },
+            {
+              "front": "grandfather told good stories",
+              "back": "grand-père racontait de bonnes histoires"
+            },
+            {
+              "front": "uncle joked around happily",
+              "back": "mon oncle plaisantait joyeusement"
+            },
+            {
+              "front": "cousin joined our dinner",
+              "back": "cousin a rejoint notre dîner"
+            },
+            {
+              "front": "niece danced at party",
+              "back": "ma nièce a dansé à la fête"
+            },
+            {
+              "front": "nephew drew dinosaur pictures",
+              "back": "mon neveu a dessiné des dinosaures"
+            },
+            {
+              "front": "partner supported me everytime",
+              "back": "mon partenaire m&#39;a soutenu à chaque fois"
+            },
+            {
+              "front": "guardian watched over children",
+              "back": "tuteur veillant sur les enfants"
+            },
+            {
+              "front": "relative called back today",
+              "back": "un parent a rappelé aujourd&#39;hui"
+            },
+            {
+              "front": "in-law helped with preparations",
+              "back": "les beaux-parents ont aidé aux préparatifs"
+            },
+            {
+              "front": "stepchild cleaned their room",
+              "back": "le beau-fils a nettoyé sa chambre"
+            },
+            {
+              "front": "half-brother shared his secrets",
+              "back": "demi-frère a partagé ses secrets"
+            },
+            {
+              "front": "half-sister painted pictures yesterday",
+              "back": "la demi-sœur a peint des tableaux hier"
+            },
+            {
+              "front": "kin gathered for holidays",
+              "back": "parents réunis pour les vacances"
+            },
+            {
+              "front": "family celebrated birthdays joyfully",
+              "back": "la famille a célébré les anniversaires avec joie"
+            },
+            {
+              "front": "friend comforted my pain",
+              "back": "un ami a réconforté ma douleur"
+            },
+            {
+              "front": "parent encouraged my success",
+              "back": "mes parents ont encouragé ma réussite"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "spouse worked hard for family",
+              "back": "le conjoint a travaillé dur pour la famille"
+            },
+            {
+              "front": "aunt traveled far last summer",
+              "back": "ma tante a voyagé loin l&#39;été dernier"
+            },
+            {
+              "front": "nephew played soccer with friends",
+              "back": "mon neveu jouait au football avec des amis"
+            },
+            {
+              "front": "father visited our home yesterday",
+              "back": "mon père a visité notre maison hier"
+            },
+            {
+              "front": "mother baked cookies for everyone",
+              "back": "maman a fait des biscuits pour tout le monde"
+            },
+            {
+              "front": "daughter sang beautifully at recital",
+              "back": "ma fille a magnifiquement chanté au récital"
+            },
+            {
+              "front": "son studied hard for exams",
+              "back": "mon fils a beaucoup étudié pour les examens"
+            },
+            {
+              "front": "brother helped me with homework",
+              "back": "mon frère m&#39;a aidé à faire mes devoirs"
+            },
+            {
+              "front": "sister laughed at silly joke",
+              "back": "ma sœur a ri d&#39;une blague idiote"
+            },
+            {
+              "front": "grandmother cooked dinner for family",
+              "back": "grand-mère a préparé le dîner pour la famille"
+            },
+            {
+              "front": "grandfather told stories by fire",
+              "back": "grand-père racontait des histoires au coin du feu"
+            },
+            {
+              "front": "uncle joked around at dinner",
+              "back": "mon oncle a plaisanté au dîner"
+            },
+            {
+              "front": "cousin joined us for dinner",
+              "back": "mon cousin nous a rejoint pour le dîner"
+            },
+            {
+              "front": "niece danced excitedly at party",
+              "back": "ma nièce a dansé avec enthousiasme à la fête"
+            },
+            {
+              "front": "nephew drew pictures of dinosaurs",
+              "back": "mon neveu a dessiné des dinosaures"
+            },
+            {
+              "front": "partner supported me through everything",
+              "back": "mon partenaire m&#39;a soutenu dans toutes les situations"
+            },
+            {
+              "front": "guardian watched over all children",
+              "back": "tuteur veillait sur tous les enfants"
+            },
+            {
+              "front": "relative called back last night",
+              "back": "un parent a rappelé hier soir"
+            },
+            {
+              "front": "in-law helped with dinner preparations",
+              "back": "les beaux-parents ont aidé à préparer le dîner"
+            },
+            {
+              "front": "stepchild cleaned their messy room",
+              "back": "le beau-fils a nettoyé sa chambre en désordre"
+            },
+            {
+              "front": "half-brother shared secrets with me",
+              "back": "mon demi-frère a partagé des secrets avec moi"
+            },
+            {
+              "front": "half-sister painted pictures last weekend",
+              "back": "la demi-sœur a peint des tableaux le week-end dernier"
+            },
+            {
+              "front": "kin gathered for national holidays",
+              "back": "les proches se sont réunis pour les fêtes nationales"
+            },
+            {
+              "front": "family celebrated birthdays with joy",
+              "back": "la famille a célébré les anniversaires avec joie"
+            },
+            {
+              "front": "friend comforted me during struggles",
+              "back": "un ami m&#39;a réconforté pendant les difficultés"
+            },
+            {
+              "front": "parent encouraged me to succeed",
+              "back": "mes parents m&#39;ont encouragé à réussir"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "spouse worked hard for the family",
+              "back": "le conjoint a travaillé dur pour la famille"
+            },
+            {
+              "front": "aunt traveled far last summer vacation",
+              "back": "ma tante a voyagé loin pendant les vacances d&#39;été dernières"
+            },
+            {
+              "front": "nephew played soccer with his friends",
+              "back": "mon neveu jouait au football avec ses amis"
+            },
+            {
+              "front": "father visited us for the weekend",
+              "back": "papa nous a rendu visite pour le week-end"
+            },
+            {
+              "front": "mother baked cookies for the party",
+              "back": "maman a fait des biscuits pour la fête"
+            },
+            {
+              "front": "daughter sang beautifully in the recital",
+              "back": "ma fille a magnifiquement chanté lors du récital"
+            },
+            {
+              "front": "son studied hard for his exams",
+              "back": "mon fils a beaucoup étudié pour ses examens"
+            },
+            {
+              "front": "brother helped me with my homework",
+              "back": "mon frère m&#39;a aidé avec mes devoirs"
+            },
+            {
+              "front": "sister laughed at the funny joke",
+              "back": "ma sœur a ri à la blague drôle"
+            },
+            {
+              "front": "grandmother cooked dinner for the family",
+              "back": "grand-mère préparait le dîner pour la famille"
+            },
+            {
+              "front": "grandfather told interesting stories by fire",
+              "back": "grand-père racontait des histoires intéressantes au coin du feu"
+            },
+            {
+              "front": "uncle joked around during family gatherings",
+              "back": "mon oncle plaisantait pendant les réunions de famille"
+            },
+            {
+              "front": "cousin joined us for the dinner",
+              "back": "mon cousin nous a rejoint pour le dîner"
+            },
+            {
+              "front": "niece danced happily at the party",
+              "back": "ma nièce a dansé joyeusement à la fête"
+            },
+            {
+              "front": "nephew drew pictures of dinosaurs yesterday",
+              "back": "mon neveu a dessiné des dinosaures hier"
+            },
+            {
+              "front": "partner supported me through tough times",
+              "back": "mon partenaire m&#39;a soutenu dans les moments difficiles"
+            },
+            {
+              "front": "guardian watched over the children closely",
+              "back": "le tuteur surveillait les enfants de près"
+            },
+            {
+              "front": "relative called back after family meeting",
+              "back": "un proche rappelé après une réunion de famille"
+            },
+            {
+              "front": "in-law helped out with family plans",
+              "back": "les beaux-parents ont aidé à planifier les projets familiaux"
+            },
+            {
+              "front": "stepchild cleaned their room every day",
+              "back": "le beau-fils nettoyait sa chambre tous les jours"
+            },
+            {
+              "front": "half-brother shared wise advice with me",
+              "back": "mon demi-frère m&#39;a donné de sages conseils"
+            },
+            {
+              "front": "half-sister painted beautiful pictures last weekend",
+              "back": "la demi-sœur a peint de beaux tableaux le week-end dernier"
+            },
+            {
+              "front": "kin gathered together for family reunion",
+              "back": "des proches réunis pour une réunion de famille"
+            },
+            {
+              "front": "family celebrated birthdays with lots of joy",
+              "back": "la famille a célébré les anniversaires avec beaucoup de joie"
+            },
+            {
+              "front": "friend comforted me during difficult times",
+              "back": "un ami m&#39;a réconforté dans les moments difficiles"
+            },
+            {
+              "front": "parent encouraged me to achieve goals",
+              "back": "mes parents m&#39;ont encouragé à atteindre mes objectifs"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "father will eat", "back": "le père mangera" },
+            { "front": "mother will cook", "back": "la mère cuisinera" },
+            { "front": "son will play", "back": "le fils jouera" },
+            { "front": "daughter will sing", "back": "ma fille chantera" },
+            { "front": "brother will help", "back": "mon frère va aider" },
+            { "front": "sister will laugh", "back": "ma sœur va rire" },
+            {
+              "front": "uncle will visit",
+              "back": "l&#39;oncle viendra nous rendre visite"
+            },
+            { "front": "aunt will travel", "back": "tante voyagera" },
+            { "front": "cousin will join", "back": "cousin va se joindre à" },
+            {
+              "front": "grandmother will bake",
+              "back": "grand-mère va cuisiner"
+            },
+            { "front": "grandfather will tell", "back": "grand-père dira" },
+            { "front": "niece will dance", "back": "la nièce dansera" },
+            { "front": "nephew will draw", "back": "neveu dessinera" },
+            {
+              "front": "partner will support",
+              "back": "le partenaire soutiendra"
+            },
+            { "front": "spouse will work", "back": "le conjoint travaillera" },
+            {
+              "front": "guardian will watch",
+              "back": "le gardien surveillera"
+            },
+            { "front": "relative will call", "back": "un parent appellera" },
+            { "front": "in-law will help", "back": "la belle-famille aidera" },
+            {
+              "front": "stepchild will clean",
+              "back": "le beau-fils nettoiera"
+            },
+            {
+              "front": "half-brother will share",
+              "back": "le demi-frère partagera"
+            },
+            {
+              "front": "half-sister will paint",
+              "back": "la demi-soeur peindra"
+            },
+            {
+              "front": "kin will gather",
+              "back": "les proches se rassembleront"
+            },
+            {
+              "front": "family will celebrate",
+              "back": "la famille va célébrer"
+            },
+            {
+              "front": "friend will visit",
+              "back": "un ami viendra nous rendre visite"
+            },
+            {
+              "front": "parent will encourage",
+              "back": "les parents encourageront"
+            },
+            { "front": "child will play", "back": "l&#39;enfant jouera" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "father will eat dinner", "back": "le père va dîner" },
+            { "front": "mother will cook food", "back": "la mère cuisinera" },
+            {
+              "front": "son will play today",
+              "back": "mon fils jouera aujourd&#39;hui"
+            },
+            {
+              "front": "daughter will sing tomorrow",
+              "back": "ma fille chantera demain"
+            },
+            {
+              "front": "brother will do chores",
+              "back": "mon frère fera les corvées"
+            },
+            {
+              "front": "sister will laugh loudly",
+              "back": "ma sœur rira fort"
+            },
+            {
+              "front": "uncle will visit us",
+              "back": "tonton viendra nous rendre visite"
+            },
+            {
+              "front": "aunt will travel home",
+              "back": "tante rentrera à la maison"
+            },
+            { "front": "cousin will join us", "back": "cousin nous rejoindra" },
+            {
+              "front": "grandmother will bake pies",
+              "back": "grand-mère fera des tartes"
+            },
+            {
+              "front": "grandfather will tell stories",
+              "back": "grand-père racontera des histoires"
+            },
+            {
+              "front": "niece will practice dance",
+              "back": "ma nièce va pratiquer la danse"
+            },
+            {
+              "front": "nephew will draw pictures",
+              "back": "mon neveu fera des dessins"
+            },
+            {
+              "front": "partner will support dreams",
+              "back": "le partenaire soutiendra les rêves"
+            },
+            {
+              "front": "spouse will work hard",
+              "back": "le conjoint travaillera dur"
+            },
+            {
+              "front": "guardian will watch children",
+              "back": "le tuteur surveillera les enfants"
+            },
+            {
+              "front": "relative will call later",
+              "back": "un parent appellera plus tard"
+            },
+            {
+              "front": "in-law will help planning",
+              "back": "les beaux-parents aideront à la planification"
+            },
+            {
+              "front": "stepchild will clean room",
+              "back": "le beau-fils nettoiera la chambre"
+            },
+            {
+              "front": "half-brother will share toys",
+              "back": "le demi-frère partagera les jouets"
+            },
+            {
+              "front": "half-sister will paint room",
+              "back": "la demi-soeur peindra la chambre"
+            },
+            {
+              "front": "kin will gather soon",
+              "back": "les proches se rassembleront bientôt"
+            },
+            {
+              "front": "family will celebrate occasions",
+              "back": "la famille célébrera des occasions"
+            },
+            {
+              "front": "friend will visit soon",
+              "back": "un ami viendra bientôt me rendre visite"
+            },
+            {
+              "front": "parent will encourage habits",
+              "back": "les parents encourageront les habitudes"
+            },
+            {
+              "front": "child will play tomorrow",
+              "back": "l&#39;enfant jouera demain"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "father will eat dinner together",
+              "back": "le père dînera ensemble"
+            },
+            {
+              "front": "mother will cook for us",
+              "back": "maman cuisinera pour nous"
+            },
+            {
+              "front": "son will play with friends",
+              "back": "mon fils jouera avec ses amis"
+            },
+            {
+              "front": "daughter will sing at school",
+              "back": "ma fille chantera à l&#39;école"
+            },
+            {
+              "front": "brother will help with chores",
+              "back": "mon frère m&#39;aidera avec les tâches ménagères"
+            },
+            {
+              "front": "sister will laugh at jokes",
+              "back": "la sœur rira aux blagues"
+            },
+            {
+              "front": "uncle will visit us tomorrow",
+              "back": "tonton viendra nous rendre visite demain"
+            },
+            {
+              "front": "aunt will travel to Canada",
+              "back": "ma tante voyagera au Canada"
+            },
+            {
+              "front": "cousin will join the party",
+              "back": "le cousin se joindra à la fête"
+            },
+            {
+              "front": "grandmother will bake a pie",
+              "back": "grand-mère va faire une tarte"
+            },
+            {
+              "front": "grandfather will tell us stories",
+              "back": "grand-père nous racontera des histoires"
+            },
+            {
+              "front": "niece will dance at recital",
+              "back": "la nièce dansera au récital"
+            },
+            {
+              "front": "nephew will draw amazing pictures",
+              "back": "mon neveu dessinera des images étonnantes"
+            },
+            {
+              "front": "partner will support my dreams",
+              "back": "mon partenaire soutiendra mes rêves"
+            },
+            {
+              "front": "spouse will work on project",
+              "back": "le conjoint travaillera sur le projet"
+            },
+            {
+              "front": "guardian will watch over children",
+              "back": "le tuteur veillera sur les enfants"
+            },
+            {
+              "front": "relative will call us later",
+              "back": "un parent nous appellera plus tard"
+            },
+            {
+              "front": "in-law will help with planning",
+              "back": "les beaux-parents aideront à la planification"
+            },
+            {
+              "front": "stepchild will clean their room",
+              "back": "le beau-fils nettoiera sa chambre"
+            },
+            {
+              "front": "half-brother will share his toys",
+              "back": "le demi-frère partagera ses jouets"
+            },
+            {
+              "front": "half-sister will paint her room",
+              "back": "la demi-soeur va peindre sa chambre"
+            },
+            {
+              "front": "kin will gather for holidays",
+              "back": "les proches se réuniront pour les vacances"
+            },
+            {
+              "front": "family will celebrate special occasions",
+              "back": "la famille célébrera des occasions spéciales"
+            },
+            {
+              "front": "friend will visit us soon",
+              "back": "un ami nous rendra visite bientôt"
+            },
+            {
+              "front": "parent will encourage good habits",
+              "back": "les parents encourageront les bonnes habitudes"
+            },
+            {
+              "front": "child will play outside tomorrow",
+              "back": "l&#39;enfant jouera dehors demain"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "father will eat dinner with us",
+              "back": "père dînera avec nous"
+            },
+            {
+              "front": "mother will cook a special meal",
+              "back": "la mère préparera un repas spécial"
+            },
+            {
+              "front": "son will play soccer with friends",
+              "back": "mon fils jouera au foot avec ses amis"
+            },
+            {
+              "front": "daughter will sing at school recital",
+              "back": "ma fille chantera au récital de l&#39;école"
+            },
+            {
+              "front": "brother will help with the chores",
+              "back": "mon frère m&#39;aidera avec les tâches ménagères"
+            },
+            {
+              "front": "sister will laugh at the jokes",
+              "back": "ma sœur rira aux blagues"
+            },
+            {
+              "front": "uncle will visit us during summer",
+              "back": "tonton nous rendra visite pendant l&#39;été"
+            },
+            {
+              "front": "aunt will travel to Canada next",
+              "back": "ma tante voyagera au Canada ensuite"
+            },
+            {
+              "front": "cousin will join the family gathering",
+              "back": "le cousin se joindra à la réunion de famille"
+            },
+            {
+              "front": "grandmother will bake a chocolate pie",
+              "back": "grand-mère va faire une tarte au chocolat"
+            },
+            {
+              "front": "grandfather will tell us scary stories",
+              "back": "grand-père nous racontera des histoires effrayantes"
+            },
+            {
+              "front": "niece will dance at the recital",
+              "back": "la nièce dansera au récital"
+            },
+            {
+              "front": "nephew will draw us amazing pictures",
+              "back": "mon neveu nous dessinera des images étonnantes"
+            },
+            {
+              "front": "partner will support through tough times",
+              "back": "le partenaire vous soutiendra dans les moments difficiles"
+            },
+            {
+              "front": "spouse will work on the project",
+              "back": "le conjoint travaillera sur le projet"
+            },
+            {
+              "front": "guardian will watch over the children",
+              "back": "le tuteur veillera sur les enfants"
+            },
+            {
+              "front": "relative will call us after dinner",
+              "back": "un parent nous appellera après le dîner"
+            },
+            {
+              "front": "in-law will help with party planning",
+              "back": "les beaux-parents aideront à planifier la fête"
+            },
+            {
+              "front": "stepchild will clean their room soon",
+              "back": "le beau-fils va bientôt ranger sa chambre"
+            },
+            {
+              "front": "half-brother will share his toys tomorrow",
+              "back": "le demi-frère partagera ses jouets demain"
+            },
+            {
+              "front": "half-sister will paint her room later",
+              "back": "la demi-soeur peindra sa chambre plus tard"
+            },
+            {
+              "front": "kin will gather together for reunion",
+              "back": "les proches se réuniront pour des retrouvailles"
+            },
+            {
+              "front": "family will celebrate holidays with everyone",
+              "back": "la famille célébrera les vacances avec tout le monde"
+            },
+            {
+              "front": "friend will visit us for dinner",
+              "back": "un ami viendra nous rendre visite pour dîner"
+            },
+            {
+              "front": "parent will encourage habits for children",
+              "back": "les parents encourageront les habitudes des enfants"
+            },
+            {
+              "front": "child will play outside with friends",
+              "back": "l&#39;enfant jouera dehors avec des amis"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

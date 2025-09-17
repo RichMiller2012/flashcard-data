@@ -1,0 +1,1140 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Directions",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "forward", "back": "avant" },
+            { "front": "back", "back": "dos" },
+            { "front": "left", "back": "gauche" },
+            { "front": "right", "back": "droite" },
+            { "front": "up", "back": "en haut" },
+            { "front": "down", "back": "vers le bas" },
+            { "front": "in", "back": "dans" },
+            { "front": "out", "back": "dehors" },
+            { "front": "inside", "back": "à l&#39;intérieur" },
+            { "front": "outside", "back": "dehors" },
+            { "front": "here", "back": "ici" },
+            { "front": "there", "back": "là" },
+            { "front": "towards", "back": "vers" },
+            { "front": "away", "back": "loin" },
+            { "front": "near", "back": "près" },
+            { "front": "far", "back": "loin" },
+            { "front": "close", "back": "fermer" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Move forward", "back": "avancer" },
+            { "front": "Go back", "back": "revenir en arrière" },
+            { "front": "Turn left", "back": "Tourner à gauche" },
+            { "front": "Turn right", "back": "Tournez à droite" },
+            { "front": "Come inside", "back": "entrez" },
+            { "front": "Go outside", "back": "sortir" },
+            { "front": "Move up", "back": "monter" },
+            { "front": "Move down", "back": "descendre" },
+            { "front": "Go in", "back": "entrer" },
+            { "front": "Go out", "back": "sortir" },
+            { "front": "Come here", "back": "venez ici" },
+            { "front": "Go there", "back": "vas-y" },
+            { "front": "Move towards", "back": "se diriger vers" },
+            { "front": "Go away", "back": "s&#39;en aller" },
+            { "front": "Stay near", "back": "rester à proximité" },
+            { "front": "Move far", "back": "aller loin" },
+            { "front": "Move close", "back": "se rapprocher" },
+            { "front": "Head forward", "back": "tête en avant" },
+            { "front": "Head back", "back": "tête en arrière" },
+            { "front": "Walk left", "back": "marcher à gauche" },
+            { "front": "Walk right", "back": "marcher à droite" },
+            { "front": "Follow up", "back": "suivi" },
+            { "front": "Follow down", "back": "suivre" },
+            { "front": "Drive forward", "back": "avancer" },
+            { "front": "Drive back", "back": "repousser" },
+            { "front": "Run left", "back": "courir à gauche" },
+            { "front": "Run right", "back": "courir à droite" },
+            { "front": "Proceed forward", "back": "avancer" },
+            { "front": "Proceed back", "back": "revenir en arrière" },
+            { "front": "Take left", "back": "prendre à gauche" },
+            { "front": "Take right", "back": "prendre à droite" },
+            { "front": "Take up", "back": "prendre" },
+            { "front": "Take down", "back": "démonter" },
+            { "front": "Stay in", "back": "rester à l&#39;intérieur" },
+            { "front": "Stay out", "back": "rester dehors" },
+            { "front": "Stand near", "back": "se tenir près de" },
+            { "front": "Stand far", "back": "rester loin" },
+            { "front": "Move here", "back": "déménager ici" },
+            { "front": "Move there", "back": "déménager là-bas" },
+            { "front": "Proceed towards", "back": "procéder vers" },
+            { "front": "Keep forward", "back": "continuer en avant" },
+            { "front": "Keep back", "back": "rester en arrière" },
+            { "front": "Keep left", "back": "Restez sur la gauche" },
+            { "front": "Keep right", "back": "Restez à droite" },
+            { "front": "Keep near", "back": "garder près de" },
+            { "front": "Keep far", "back": "rester loin" },
+            { "front": "Look towards", "back": "regarder vers" },
+            { "front": "Look away", "back": "détourner les yeux" },
+            { "front": "Look near", "back": "regarder de près" },
+            { "front": "Look far", "back": "regarde loin" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Go forward now",
+              "back": "va de l&#39;avant maintenant"
+            },
+            {
+              "front": "Turn back quickly",
+              "back": "faire demi-tour rapidement"
+            },
+            { "front": "Look left here", "back": "regarde à gauche ici" },
+            { "front": "Turn right now", "back": "tourne à droite maintenant" },
+            { "front": "Move up stairs", "back": "monter les escaliers" },
+            { "front": "Go down here", "back": "descends ici" },
+            { "front": "Come inside now", "back": "entrez maintenant" },
+            { "front": "Go outside please", "back": "sors s&#39;il te plaît" },
+            { "front": "Stand here now", "back": "reste ici maintenant" },
+            { "front": "Go there today", "back": "vas-y aujourd&#39;hui" },
+            {
+              "front": "Head towards beach",
+              "back": "se diriger vers la plage"
+            },
+            { "front": "Move away now", "back": "éloigne-toi maintenant" },
+            {
+              "front": "Stay near entrance",
+              "back": "rester près de l&#39;entrée"
+            },
+            { "front": "Walk far away", "back": "marcher loin" },
+            { "front": "Stay close here", "back": "reste près d&#39;ici" },
+            { "front": "Drive forward now", "back": "avancez maintenant" },
+            {
+              "front": "Move back please",
+              "back": "reculez s&#39;il vous plaît"
+            },
+            { "front": "Take left here", "back": "prendre à gauche ici" },
+            { "front": "Take right here", "back": "prendre ici" },
+            {
+              "front": "Cross street now",
+              "back": "traverser la rue maintenant"
+            },
+            { "front": "Go down path", "back": "descendre le chemin" },
+            {
+              "front": "Follow signs closely",
+              "back": "suivez attentivement les panneaux"
+            },
+            { "front": "Travel towards city", "back": "voyager vers la ville" },
+            {
+              "front": "Walk beside fence",
+              "back": "marcher à côté de la clôture"
+            },
+            {
+              "front": "Head south now",
+              "back": "dirigez-vous vers le sud maintenant"
+            },
+            { "front": "Look for bus", "back": "chercher un bus" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "left at intersection",
+              "back": "à gauche à l&#39;intersection"
+            },
+            { "front": "right at the light", "back": "juste au feu" },
+            {
+              "front": "Come inside the house",
+              "back": "entre dans la maison"
+            },
+            { "front": "Go back to start", "back": "revenir au début" },
+            { "front": "Move up the stairs", "back": "monter les escaliers" },
+            { "front": "Go down the hallway", "back": "descendre le couloir" },
+            { "front": "Walk in the park", "back": "promenade dans le parc" },
+            { "front": "Go outside to play", "back": "sortir pour jouer" },
+            {
+              "front": "Stand here at the corner",
+              "back": "reste ici au coin"
+            },
+            {
+              "front": "Drive straight on road",
+              "back": "conduire tout droit sur la route"
+            },
+            { "front": "Take the left turn", "back": "prendre à gauche" },
+            {
+              "front": "Cross the street safely",
+              "back": "traverser la rue en toute sécurité"
+            },
+            {
+              "front": "Head towards the station",
+              "back": "se diriger vers la gare"
+            },
+            {
+              "front": "Stay near the entrance",
+              "back": "rester près de l&#39;entrée"
+            },
+            {
+              "front": "Walk far down street",
+              "back": "marcher loin dans la rue"
+            },
+            {
+              "front": "Move close to building",
+              "back": "se rapprocher du bâtiment"
+            },
+            {
+              "front": "Look down the path",
+              "back": "regarde en bas du chemin"
+            },
+            {
+              "front": "Drive toward the city",
+              "back": "conduire vers la ville"
+            },
+            {
+              "front": "Follow the signs carefully",
+              "back": "suivez attentivement les panneaux"
+            },
+            {
+              "front": "Turn around at light",
+              "back": "faire demi-tour au feu"
+            },
+            {
+              "front": "Take the shortcut home",
+              "back": "prendre le raccourci pour rentrer à la maison"
+            },
+            {
+              "front": "Ride the bus today",
+              "back": "prendre le bus aujourd&#39;hui"
+            },
+            { "front": "Look for the stop", "back": "chercher l&#39;arrêt" },
+            {
+              "front": "Walk around the corner",
+              "back": "marcher au coin de la rue"
+            },
+            {
+              "front": "Wait at the crosswalk",
+              "back": "attendre au passage pour piétons"
+            },
+            {
+              "front": "Drive through the tunnel",
+              "back": "traverser le tunnel"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "Go left at the sign",
+              "back": "aller à gauche au panneau"
+            },
+            {
+              "front": "Turn right at the intersection",
+              "back": "tourner à droite à l&#39;intersection"
+            },
+            {
+              "front": "Walk forward until you see",
+              "back": "avancez jusqu&#39;à ce que vous voyiez"
+            },
+            {
+              "front": "Drive straight down the road",
+              "back": "conduire tout droit sur la route"
+            },
+            {
+              "front": "back to where you started",
+              "back": "retour à ton point de départ"
+            },
+            {
+              "front": "Move up the long staircase",
+              "back": "monter le long escalier"
+            },
+            {
+              "front": "Cross the street at light",
+              "back": "traverser la rue au feu rouge"
+            },
+            {
+              "front": "Take the left turn now",
+              "back": "tournez à gauche maintenant"
+            },
+            {
+              "front": "Take a right at corner",
+              "back": "prendre à droite au coin"
+            },
+            {
+              "front": "Go down the narrow path",
+              "back": "descendre le chemin étroit"
+            },
+            {
+              "front": "Stay close to the entrance",
+              "back": "restez près de l&#39;entrée"
+            },
+            {
+              "front": "Look for the bus stop",
+              "back": "chercher l&#39;arrêt de bus"
+            },
+            {
+              "front": "Follow signs to the park",
+              "back": "suivre les panneaux indiquant le parc"
+            },
+            {
+              "front": "Wait at the traffic light",
+              "back": "attendre au feu rouge"
+            },
+            {
+              "front": "Drive toward the city center",
+              "back": "conduire vers le centre-ville"
+            },
+            {
+              "front": "Walk around the shopping center",
+              "back": "se promener dans le centre commercial"
+            },
+            {
+              "front": "Take the shortcut to home",
+              "back": "prendre le raccourci vers la maison"
+            },
+            {
+              "front": "Look both ways before crossing",
+              "back": "regardez des deux côtés avant de traverser"
+            },
+            {
+              "front": "Ride the bus to downtown",
+              "back": "prendre le bus jusqu&#39;au centre-ville"
+            },
+            {
+              "front": "Walk beside the tall fence",
+              "back": "marcher à côté de la haute clôture"
+            },
+            {
+              "front": "Drive through the roundabout carefully",
+              "back": "traversez le rond-point avec prudence"
+            },
+            {
+              "front": "Head south toward the beach",
+              "back": "dirigez-vous vers le sud en direction de la plage"
+            },
+            {
+              "front": "Turn around if you miss",
+              "back": "retourne-toi si tu rates"
+            },
+            {
+              "front": "Go inside the office building",
+              "back": "entrer dans l&#39;immeuble de bureaux"
+            },
+            {
+              "front": "Take the next exit quickly",
+              "back": "prendre rapidement la prochaine sortie"
+            },
+            {
+              "front": "Follow road to the freeway",
+              "back": "suivre la route jusqu&#39;à l&#39;autoroute"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Go left at the stop sign",
+              "back": "aller à gauche au stop"
+            },
+            {
+              "front": "Turn right at the intersection ahead",
+              "back": "tourner à droite à l&#39;intersection devant"
+            },
+            {
+              "front": "Walk forward until you see the sign",
+              "back": "avancez jusqu&#39;à ce que vous voyiez le panneau"
+            },
+            {
+              "front": "Drive straight down the road carefully",
+              "back": "conduisez prudemment tout droit sur la route"
+            },
+            {
+              "front": "Head back to where you started",
+              "back": "retournez à votre point de départ"
+            },
+            {
+              "front": "Move up the long staircase quickly",
+              "back": "monter rapidement le long escalier"
+            },
+            {
+              "front": "Cross the street at the light",
+              "back": "traverser la rue au feu"
+            },
+            {
+              "front": "Take the left turn at corner",
+              "back": "prendre à gauche au coin"
+            },
+            {
+              "front": "Take a right at the corner",
+              "back": "prendre à droite au coin"
+            },
+            {
+              "front": "Go down the path towards park",
+              "back": "descendre le chemin vers le parc"
+            },
+            {
+              "front": "Stay close to the building entrance",
+              "back": "rester près de l&#39;entrée du bâtiment"
+            },
+            {
+              "front": "Look for the bus stop now",
+              "back": "cherchez l&#39;arrêt de bus maintenant"
+            },
+            {
+              "front": "Follow the signs to the playground",
+              "back": "suivez les panneaux indiquant l&#39;aire de jeux"
+            },
+            {
+              "front": "Wait at the traffic light patiently",
+              "back": "attendre patiemment au feu rouge"
+            },
+            {
+              "front": "Drive toward the city center today",
+              "back": "conduisez vers le centre-ville aujourd&#39;hui"
+            },
+            {
+              "front": "Walk around the shopping center now",
+              "back": "promenez-vous dans le centre commercial maintenant"
+            },
+            {
+              "front": "Take the shortcut to home quickly",
+              "back": "prendre rapidement le raccourci pour rentrer chez soi"
+            },
+            {
+              "front": "Look both ways before crossing road",
+              "back": "regardez dans les deux sens avant de traverser la route"
+            },
+            {
+              "front": "Ride the blue bus to downtown",
+              "back": "prendre le bus bleu jusqu&#39;au centre-ville"
+            },
+            {
+              "front": "Walk beside the tall wooden fence",
+              "back": "marcher à côté de la haute clôture en bois"
+            },
+            {
+              "front": "Drive through the small roundabout carefully",
+              "back": "traversez prudemment le petit rond-point"
+            },
+            {
+              "front": "Head south toward the sandy beach",
+              "back": "dirigez-vous vers le sud en direction de la plage de sable"
+            },
+            {
+              "front": "Turn around if you miss exits",
+              "back": "faites demi-tour si vous manquez les sorties"
+            },
+            {
+              "front": "Go inside the office for meeting",
+              "back": "entrer dans le bureau pour une réunion"
+            },
+            {
+              "front": "Take the exit quickly and safely",
+              "back": "prendre la sortie rapidement et en toute sécurité"
+            },
+            {
+              "front": "Follow the road to the freeway",
+              "back": "suivre la route jusqu&#39;à l&#39;autoroute"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Turned left", "back": "tourné à gauche" },
+            { "front": "Went right", "back": "c&#39;est allé à droite" },
+            { "front": "Came back", "back": "est revenu" },
+            { "front": "Moved forward", "back": "avancé" },
+            { "front": "Headed south", "back": "en direction du sud" },
+            { "front": "Drove straight", "back": "conduit tout droit" },
+            { "front": "Crossed street", "back": "rue traversée" },
+            { "front": "Took path", "back": "a pris le chemin" },
+            { "front": "Went up", "back": "est monté" },
+            { "front": "Went down", "back": "est tombé" },
+            { "front": "Saw sign", "back": "panneau de scie" },
+            { "front": "Followed signs", "back": "suivi les panneaux" },
+            { "front": "Waited outside", "back": "j&#39;ai attendu dehors" },
+            { "front": "Looked left", "back": "regardé à gauche" },
+            { "front": "Looked right", "back": "avait l&#39;air bien" },
+            { "front": "Moved back", "back": "reculé" },
+            { "front": "Parked car", "back": "voiture garée" },
+            { "front": "Rode bus", "back": "pris le bus" },
+            { "front": "Drove home", "back": "conduit à la maison" },
+            { "front": "Exited highway", "back": "sortie d&#39;autoroute" },
+            { "front": "Walked around", "back": "se promenait" },
+            { "front": "Went inside", "back": "est entré à l&#39;intérieur" },
+            { "front": "Sailed across", "back": "navigué à travers" },
+            { "front": "Traveled through", "back": "voyagé à travers" },
+            { "front": "Headed back", "back": "retour" },
+            { "front": "Took ferry", "back": "pris le ferry" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I turned left", "back": "j&#39;ai tourné à gauche" },
+            { "front": "He went right", "back": "il est allé à droite" },
+            { "front": "She came back", "back": "elle est revenue" },
+            { "front": "They moved forward", "back": "ils ont avancé" },
+            {
+              "front": "We headed south",
+              "back": "nous nous sommes dirigés vers le sud"
+            },
+            {
+              "front": "You drove straight",
+              "back": "tu as conduit tout droit"
+            },
+            { "front": "I crossed street", "back": "j&#39;ai traversé la rue" },
+            { "front": "He took path", "back": "il a pris le chemin" },
+            { "front": "She went up", "back": "elle est montée" },
+            { "front": "They went down", "back": "ils sont descendus" },
+            { "front": "I saw sign", "back": "j&#39;ai vu un panneau" },
+            {
+              "front": "We followed signs",
+              "back": "nous avons suivi les panneaux"
+            },
+            { "front": "You waited outside", "back": "tu as attendu dehors" },
+            { "front": "He looked left", "back": "il a regardé à gauche" },
+            {
+              "front": "She looked right",
+              "back": "elle avait l&#39;air bien"
+            },
+            { "front": "They moved back", "back": "ils sont revenus" },
+            { "front": "I parked car", "back": "j&#39;ai garé la voiture" },
+            { "front": "He rode bus", "back": "il a pris le bus" },
+            {
+              "front": "We drove home",
+              "back": "nous sommes rentrés à la maison"
+            },
+            {
+              "front": "They exited highway",
+              "back": "ils ont quitté l&#39;autoroute"
+            },
+            { "front": "You walked around", "back": "tu t&#39;es promené" },
+            { "front": "I went inside", "back": "je suis entré" },
+            { "front": "He sailed across", "back": "il a navigué à travers" },
+            {
+              "front": "We traveled through",
+              "back": "nous avons voyagé à travers"
+            },
+            { "front": "You headed back", "back": "tu es rentré" },
+            { "front": "I took ferry", "back": "j&#39;ai pris le ferry" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I turned left here",
+              "back": "j&#39;ai tourné à gauche ici"
+            },
+            {
+              "front": "He went right there",
+              "back": "il est allé directement là-bas"
+            },
+            {
+              "front": "She came back home",
+              "back": "elle est rentrée à la maison"
+            },
+            {
+              "front": "They moved forward quickly",
+              "back": "ils ont avancé rapidement"
+            },
+            {
+              "front": "We headed south today",
+              "back": "nous sommes allés vers le sud aujourd&#39;hui"
+            },
+            {
+              "front": "You drove straight ahead",
+              "back": "tu as roulé tout droit"
+            },
+            {
+              "front": "Everyone crossed the street",
+              "back": "tout le monde a traversé la rue"
+            },
+            {
+              "front": "Nobody took the bus",
+              "back": "personne n&#39;a pris le bus"
+            },
+            {
+              "front": "I looked down there",
+              "back": "j&#39;ai regardé là-bas"
+            },
+            {
+              "front": "She walked around corner",
+              "back": "elle a marché au coin de la rue"
+            },
+            {
+              "front": "He rode bike yesterday",
+              "back": "il a fait du vélo hier"
+            },
+            {
+              "front": "They parked near entrance",
+              "back": "ils se sont garés près de l&#39;entrée"
+            },
+            {
+              "front": "I took the shortcut",
+              "back": "j&#39;ai pris le raccourci"
+            },
+            {
+              "front": "You waited at light",
+              "back": "tu as attendu à la lumière"
+            },
+            {
+              "front": "He followed the signs",
+              "back": "il a suivi les panneaux"
+            },
+            {
+              "front": "We exited the highway",
+              "back": "nous sommes sortis de l&#39;autoroute"
+            },
+            {
+              "front": "I went inside building",
+              "back": "je suis entré dans le bâtiment"
+            },
+            {
+              "front": "She sailed across river",
+              "back": "elle a traversé la rivière"
+            },
+            {
+              "front": "They traveled through woods",
+              "back": "ils ont voyagé à travers les bois"
+            },
+            {
+              "front": "Everyone moved back quickly",
+              "back": "tout le monde est rapidement revenu"
+            },
+            {
+              "front": "Nobody arrived on time",
+              "back": "personne n&#39;est arrivé à l&#39;heure"
+            },
+            {
+              "front": "I watched the tram",
+              "back": "j&#39;ai regardé le tram"
+            },
+            {
+              "front": "You walked to park",
+              "back": "tu es allé au parc à pied"
+            },
+            {
+              "front": "We drove down road",
+              "back": "nous avons roulé sur la route"
+            },
+            {
+              "front": "He took ferry yesterday",
+              "back": "il a pris le ferry hier"
+            },
+            {
+              "front": "She headed toward exit",
+              "back": "elle s&#39;est dirigée vers la sortie"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I turned left at intersection",
+              "back": "j&#39;ai tourné à gauche à l&#39;intersection"
+            },
+            {
+              "front": "He went right at light",
+              "back": "il est allé droit au feu"
+            },
+            {
+              "front": "She came back to start",
+              "back": "elle est revenue pour commencer"
+            },
+            {
+              "front": "They moved forward quickly",
+              "back": "ils ont avancé rapidement"
+            },
+            {
+              "front": "We headed south to beach",
+              "back": "nous nous sommes dirigés vers le sud jusqu&#39;à la plage"
+            },
+            {
+              "front": "You drove straight down road",
+              "back": "tu as conduit tout droit sur la route"
+            },
+            {
+              "front": "I crossed street safely today",
+              "back": "j&#39;ai traversé la rue en toute sécurité aujourd&#39;hui"
+            },
+            {
+              "front": "He took path through woods",
+              "back": "il a pris un chemin à travers les bois"
+            },
+            {
+              "front": "She went up the hill",
+              "back": "elle est montée sur la colline"
+            },
+            {
+              "front": "They went down the stairs",
+              "back": "ils sont descendus les escaliers"
+            },
+            {
+              "front": "I saw sign clearly yesterday",
+              "back": "j&#39;ai clairement vu le panneau hier"
+            },
+            {
+              "front": "We followed signs closely yesterday",
+              "back": "nous avons suivi attentivement les panneaux hier"
+            },
+            {
+              "front": "You waited outside the building",
+              "back": "tu as attendu à l&#39;extérieur du bâtiment"
+            },
+            {
+              "front": "He looked left at corner",
+              "back": "il a regardé à gauche dans le coin"
+            },
+            {
+              "front": "She looked right at light",
+              "back": "elle a regardé droit vers la lumière"
+            },
+            {
+              "front": "They moved back to start",
+              "back": "ils sont revenus au début"
+            },
+            {
+              "front": "I parked car near entrance",
+              "back": "j&#39;ai garé la voiture près de l&#39;entrée"
+            },
+            {
+              "front": "He rode bus to school",
+              "back": "il a pris le bus pour aller à l&#39;école"
+            },
+            {
+              "front": "We drove home after event",
+              "back": "nous sommes rentrés à la maison après l&#39;événement"
+            },
+            {
+              "front": "They exited highway at exit",
+              "back": "ils ont quitté l&#39;autoroute à la sortie"
+            },
+            {
+              "front": "You walked around the park",
+              "back": "tu t&#39;es promené dans le parc"
+            },
+            {
+              "front": "I went inside the house",
+              "back": "je suis entré dans la maison"
+            },
+            {
+              "front": "He sailed across the river",
+              "back": "il a traversé la rivière"
+            },
+            {
+              "front": "We traveled through the city",
+              "back": "nous avons voyagé à travers la ville"
+            },
+            {
+              "front": "You headed back to base",
+              "back": "tu es retourné à la base"
+            },
+            {
+              "front": "I took ferry to island",
+              "back": "j&#39;ai pris le ferry pour l&#39;île"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I turned left at the intersection",
+              "back": "j&#39;ai tourné à gauche à l&#39;intersection"
+            },
+            {
+              "front": "He went right at the light",
+              "back": "il est allé droit au feu"
+            },
+            {
+              "front": "She came back after the meeting",
+              "back": "elle est revenue après la réunion"
+            },
+            {
+              "front": "They moved forward through the crowd",
+              "back": "ils avançaient à travers la foule"
+            },
+            {
+              "front": "We headed south toward the beach",
+              "back": "nous nous sommes dirigés vers le sud en direction de la plage"
+            },
+            {
+              "front": "You drove straight to the destination",
+              "back": "tu as conduit directement jusqu&#39;à la destination"
+            },
+            {
+              "front": "Everyone crossed the street carefully today",
+              "back": "tout le monde a traversé la rue prudemment aujourd&#39;hui"
+            },
+            {
+              "front": "Nobody took the bus yesterday morning",
+              "back": "personne n&#39;a pris le bus hier matin"
+            },
+            {
+              "front": "I looked down the dark alley",
+              "back": "j&#39;ai regardé dans la ruelle sombre"
+            },
+            {
+              "front": "She walked around the corner slowly",
+              "back": "elle marchait lentement au coin de la rue"
+            },
+            {
+              "front": "He rode his bike to school",
+              "back": "il est allé à l&#39;école à vélo"
+            },
+            {
+              "front": "They parked near the entrance yesterday",
+              "back": "ils se sont garés près de l&#39;entrée hier"
+            },
+            {
+              "front": "I took the shortcut through town",
+              "back": "j&#39;ai pris le raccourci à travers la ville"
+            },
+            {
+              "front": "You waited at the traffic light",
+              "back": "tu as attendu au feu rouge"
+            },
+            {
+              "front": "He followed the signs to home",
+              "back": "il a suivi les panneaux indiquant la maison"
+            },
+            {
+              "front": "We exited the highway at noon",
+              "back": "nous avons quitté l&#39;autoroute à midi"
+            },
+            {
+              "front": "I went inside the building earlier",
+              "back": "je suis entré dans le bâtiment plus tôt"
+            },
+            {
+              "front": "She sailed across the river yesterday",
+              "back": "elle a traversé la rivière hier"
+            },
+            {
+              "front": "They traveled through the wooded area",
+              "back": "ils ont traversé la zone boisée"
+            },
+            {
+              "front": "Everyone moved back when they arrived",
+              "back": "tout le monde est revenu en arrière à leur arrivée"
+            },
+            {
+              "front": "Nobody arrived on time for meeting",
+              "back": "personne n&#39;est arrivé à l&#39;heure à la réunion"
+            },
+            {
+              "front": "I watched the tram arrive on time",
+              "back": "j&#39;ai regardé le tram arriver à l&#39;heure"
+            },
+            {
+              "front": "You walked to the park quickly",
+              "back": "tu es allé rapidement au parc"
+            },
+            {
+              "front": "We drove down the long road",
+              "back": "nous avons parcouru la longue route"
+            },
+            {
+              "front": "He took the ferry across river",
+              "back": "il a pris le ferry pour traverser la rivière"
+            },
+            {
+              "front": "She headed toward the exit slowly",
+              "back": "elle se dirigea lentement vers la sortie"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "We will go", "back": "nous irons" },
+            { "front": "You will go", "back": "tu iras" },
+            { "front": "Nobody will go", "back": "personne n&#39;ira" },
+            { "front": "They will follow", "back": "ils suivront" },
+            { "front": "I will turn", "back": "je vais me tourner" },
+            { "front": "He will drive", "back": "il conduira" },
+            { "front": "She will arrive", "back": "elle arrivera" },
+            { "front": "We will walk", "back": "nous marcherons" },
+            { "front": "They will park", "back": "ils se gareront" },
+            { "front": "You will exit", "back": "tu sortiras" },
+            { "front": "I will wait", "back": "j&#39;attendrai" },
+            { "front": "He will come", "back": "il viendra" },
+            { "front": "She will leave", "back": "elle partira" },
+            { "front": "We will travel", "back": "nous voyagerons" },
+            { "front": "You will ride", "back": "tu vas rouler" },
+            {
+              "front": "Nobody will stop",
+              "back": "personne ne s&#39;arrêtera"
+            },
+            { "front": "I will head", "back": "je vais me diriger" },
+            { "front": "He will go", "back": "il ira" },
+            { "front": "She will go", "back": "elle ira" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I will turn left", "back": "je vais tourner à gauche" },
+            { "front": "He will go right", "back": "il ira à droite" },
+            { "front": "They will move forward", "back": "ils avanceront" },
+            { "front": "We will head south", "back": "nous irons vers le sud" },
+            {
+              "front": "You will take the path",
+              "back": "tu prendras le chemin"
+            },
+            {
+              "front": "She will drive straight ahead",
+              "back": "elle conduira tout droit"
+            },
+            {
+              "front": "Nobody will wait here",
+              "back": "personne n&#39;attendra ici"
+            },
+            {
+              "front": "Everyone will go inside",
+              "back": "tout le monde ira à l&#39;intérieur"
+            },
+            {
+              "front": "I will follow the signs",
+              "back": "je suivrai les panneaux"
+            },
+            { "front": "He will ride the bus", "back": "il prendra le bus" },
+            {
+              "front": "We will cross the street",
+              "back": "nous traverserons la rue"
+            },
+            {
+              "front": "You will stop at light",
+              "back": "tu t&#39;arrêteras au feu"
+            },
+            {
+              "front": "They will arrive at noon",
+              "back": "ils arriveront à midi"
+            },
+            {
+              "front": "She will wait at corner",
+              "back": "elle attendra au coin de la rue"
+            },
+            {
+              "front": "I will walk beside fence",
+              "back": "je marcherai à côté de la clôture"
+            },
+            {
+              "front": "He will travel through town",
+              "back": "il traversera la ville"
+            },
+            {
+              "front": "We will move towards park",
+              "back": "nous nous dirigerons vers le parc"
+            },
+            {
+              "front": "You will head back home",
+              "back": "tu rentreras chez toi"
+            },
+            {
+              "front": "They will take the ferry",
+              "back": "ils prendront le ferry"
+            },
+            {
+              "front": "Everyone will meet at entrance",
+              "back": "tout le monde se retrouvera à l&#39;entrée"
+            },
+            {
+              "front": "I will stay close to you",
+              "back": "je resterai près de toi"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will go home now",
+              "back": "je vais rentrer à la maison maintenant"
+            },
+            {
+              "front": "He will return back soon",
+              "back": "il reviendra bientôt"
+            },
+            {
+              "front": "They will turn left here",
+              "back": "ils tourneront à gauche ici"
+            },
+            {
+              "front": "She will walk towards me",
+              "back": "elle marchera vers moi"
+            },
+            {
+              "front": "He will go inside quickly",
+              "back": "il entrera rapidement à l&#39;intérieur"
+            },
+            {
+              "front": "We will drive straight ahead",
+              "back": "nous allons continuer tout droit"
+            },
+            {
+              "front": "You will stop at home",
+              "back": "tu t&#39;arrêteras à la maison"
+            },
+            { "front": "I will wait for you", "back": "je vais vous attendre" },
+            {
+              "front": "They will follow the signs",
+              "back": "ils suivront les signes"
+            },
+            {
+              "front": "Everyone will meet at entrance",
+              "back": "tout le monde se retrouvera à l&#39;entrée"
+            },
+            {
+              "front": "She will look for directions",
+              "back": "elle cherchera des directions"
+            },
+            { "front": "He will ride the bus", "back": "il prendra le bus" },
+            {
+              "front": "We will head towards work",
+              "back": "nous irons au travail"
+            },
+            { "front": "You will go to work", "back": "tu iras travailler" },
+            {
+              "front": "I will walk beside you",
+              "back": "je marcherai à tes côtés"
+            },
+            {
+              "front": "They will arrive at noon",
+              "back": "ils arriveront à midi"
+            },
+            {
+              "front": "He will turn right here",
+              "back": "il tournera à droite ici"
+            },
+            { "front": "She will go to heaven", "back": "elle ira au paradis" },
+            {
+              "front": "We will move back quickly",
+              "back": "nous reviendrons rapidement"
+            },
+            {
+              "front": "You will take the shortcut",
+              "back": "tu prendras le raccourci"
+            },
+            {
+              "front": "Everyone will leave after lunch",
+              "back": "tout le monde partira après le déjeuner"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will turn left at intersection",
+              "back": "je tournerai à gauche à l&#39;intersection"
+            },
+            {
+              "front": "He will go right at light",
+              "back": "il ira droit au feu"
+            },
+            {
+              "front": "They will move forward carefully today",
+              "back": "ils avanceront prudemment aujourd&#39;hui"
+            },
+            {
+              "front": "We will head south to beach",
+              "back": "nous nous dirigerons vers le sud jusqu&#39;à la plage"
+            },
+            {
+              "front": "You will take the path home",
+              "back": "tu prendras le chemin de la maison"
+            },
+            {
+              "front": "She will drive straight to office",
+              "back": "elle ira directement au bureau"
+            },
+            {
+              "front": "Nobody will wait here for long",
+              "back": "personne n&#39;attendra ici longtemps"
+            },
+            {
+              "front": "Everyone will go inside the building",
+              "back": "tout le monde ira à l&#39;intérieur du bâtiment"
+            },
+            {
+              "front": "I will follow the signs closely",
+              "back": "je suivrai les panneaux de près"
+            },
+            {
+              "front": "He will ride the bus tomorrow",
+              "back": "il prendra le bus demain"
+            },
+            {
+              "front": "We will cross the street safely",
+              "back": "nous traverserons la rue en toute sécurité"
+            },
+            {
+              "front": "You will stop at the light",
+              "back": "tu t&#39;arrêteras au feu"
+            },
+            {
+              "front": "They will arrive at noon today",
+              "back": "ils arriveront à midi aujourd&#39;hui"
+            },
+            {
+              "front": "She will wait at the corner",
+              "back": "elle attendra au coin"
+            },
+            {
+              "front": "I will walk beside the fence",
+              "back": "je marcherai à côté de la clôture"
+            },
+            {
+              "front": "He will travel through the town",
+              "back": "il traversera la ville"
+            },
+            {
+              "front": "We will move towards the park",
+              "back": "nous nous dirigerons vers le parc"
+            },
+            {
+              "front": "You will head back home soon",
+              "back": "tu rentreras bientôt à la maison"
+            },
+            {
+              "front": "They will take the ferry across",
+              "back": "ils prendront le ferry pour traverser"
+            },
+            {
+              "front": "Everyone will meet at the entrance",
+              "back": "tout le monde se retrouvera à l&#39;entrée"
+            },
+            {
+              "front": "I will stay with you today",
+              "back": "je resterai avec toi aujourd&#39;hui"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

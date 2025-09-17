@@ -1,0 +1,1312 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Food and Drink",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Apple", "back": "pomme" },
+            { "front": "Banana", "back": "banane" },
+            { "front": "Orange", "back": "orange" },
+            { "front": "Grape", "back": "raisin" },
+            { "front": "Mango", "back": "mangue" },
+            { "front": "Peach", "back": "pêche" },
+            { "front": "Pear", "back": "poire" },
+            { "front": "Pineapple", "back": "ananas" },
+            { "front": "Strawberry", "back": "fraise" },
+            { "front": "Blueberry", "back": "myrtille" },
+            { "front": "Watermelon", "back": "pastèque" },
+            { "front": "Lemon", "back": "citron" },
+            { "front": "Lime", "back": "citron vert" },
+            { "front": "Cherry", "back": "cerise" },
+            { "front": "Kiwi", "back": "kiwi" },
+            { "front": "Tomato", "back": "tomate" },
+            { "front": "Potato", "back": "pomme de terre" },
+            { "front": "Carrot", "back": "carotte" },
+            { "front": "Onion", "back": "oignon" },
+            { "front": "Garlic", "back": "ail" },
+            { "front": "Lettuce", "back": "laitue" },
+            { "front": "Spinach", "back": "épinard" },
+            { "front": "Broccoli", "back": "brocoli" },
+            { "front": "Cucumber", "back": "concombre" },
+            { "front": "Bellpepper", "back": "poivron" },
+            { "front": "Rice", "back": "riz" },
+            { "front": "Pasta", "back": "pâtes" },
+            { "front": "Bread", "back": "pain" },
+            { "front": "Cheese", "back": "fromage" },
+            { "front": "Yogurt", "back": "yaourt" },
+            { "front": "Butter", "back": "beurre" },
+            { "front": "Milk", "back": "lait" },
+            { "front": "Juice", "back": "jus" },
+            { "front": "Coffee", "back": "café" },
+            { "front": "Tea", "back": "thé" },
+            { "front": "Soda", "back": "soude" },
+            { "front": "Beer", "back": "bière" },
+            { "front": "Wine", "back": "vin" },
+            { "front": "Smoothie", "back": "smoothie" },
+            { "front": "Soup", "back": "soupe" },
+            { "front": "Salad", "back": "salade" },
+            { "front": "Chicken", "back": "poulet" },
+            { "front": "Beef", "back": "bœuf" },
+            { "front": "Pork", "back": "porc" },
+            { "front": "Fish", "back": "poisson" },
+            { "front": "Shrimp", "back": "crevette" },
+            { "front": "Egg", "back": "œuf" },
+            { "front": "Nut", "back": "noix" },
+            { "front": "Cookie", "back": "biscuit" },
+            { "front": "Cake", "back": "gâteau" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "boiled egg", "back": "œuf à la coque" },
+            { "front": "tasty cookie", "back": "biscuit savoureux" },
+            { "front": "wedding cake", "back": "gâteau de mariage" },
+            { "front": "sweet wine", "back": "vin doux" },
+            { "front": "fresh apple", "back": "pomme fraîche" },
+            { "front": "ripe banana", "back": "banane mûre" },
+            { "front": "juicy orange", "back": "orange juteuse" },
+            { "front": "sour lemon", "back": "citron aigre" },
+            { "front": "crunchy carrot", "back": "carotte croquante" },
+            { "front": "creamy cheese", "back": "fromage crémeux" },
+            { "front": "grilled chicken", "back": "poulet grillé" },
+            { "front": "spicy beef", "back": "bœuf épicé" },
+            { "front": "fried fish", "back": "friture" },
+            { "front": "baked potato", "back": "pomme de terre au four" },
+            { "front": "salty popcorn", "back": "pop-corn salé" },
+            { "front": "chilled soda", "back": "soda frais" },
+            { "front": "hot coffee", "back": "café chaud" },
+            { "front": "iced tea", "back": "thé glacé" },
+            { "front": "smooth smoothie", "back": "smoothie onctueux" },
+            { "front": "crisp lettuce", "back": "laitue croquante" },
+            { "front": "warm bread", "back": "pain chaud" },
+            { "front": "savory soup", "back": "soupe salée" },
+            { "front": "sweet dessert", "back": "dessert sucré" },
+            { "front": "cold beer", "back": "bière fraîche" },
+            { "front": "light salad", "back": "salade légère" },
+            { "front": "tender shrimp", "back": "crevettes tendres" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "juicy tender shrimp",
+              "back": "crevettes tendres et juteuses"
+            },
+            {
+              "front": "savory delicious soup",
+              "back": "soupe savoureuse et délicieuse"
+            },
+            {
+              "front": "crispy fried chicken",
+              "back": "poulet frit croustillant"
+            },
+            { "front": "sweet ripe mango", "back": "mangue mûre et sucrée" },
+            { "front": "fresh baked bread", "back": "pain frais cuit au four" },
+            {
+              "front": "tasty chocolate cake",
+              "back": "savoureux gâteau au chocolat"
+            },
+            {
+              "front": "smooth creamy yogurt",
+              "back": "yaourt onctueux et crémeux"
+            },
+            { "front": "spicy grilled fish", "back": "poisson grillé épicé" },
+            {
+              "front": "warm chocolate chip",
+              "back": "pépites de chocolat chaudes"
+            },
+            {
+              "front": "cold refreshing lemonade",
+              "back": "limonade froide et rafraîchissante"
+            },
+            {
+              "front": "zesty garlic bread",
+              "back": "pain à l&#39;ail piquant"
+            },
+            {
+              "front": "crunchy fresh salad",
+              "back": "salade fraîche croquante"
+            },
+            {
+              "front": "tart lemon meringue",
+              "back": "tarte au citron meringuée"
+            },
+            { "front": "rich vanilla ice", "back": "glace à la vanille riche" },
+            {
+              "front": "smooth velvety pudding",
+              "back": "pudding onctueux et velouté"
+            },
+            {
+              "front": "sweet homemade jam",
+              "back": "confiture sucrée maison"
+            },
+            {
+              "front": "crunchy peanut butter",
+              "back": "beurre de cacahuète croquant"
+            },
+            {
+              "front": "creamy mushroom risotto",
+              "back": "risotto crémeux aux champignons"
+            },
+            { "front": "spicy beef tacos", "back": "tacos au bœuf épicé" },
+            { "front": "tender grilled steak", "back": "steak grillé tendre" },
+            {
+              "front": "light berry smoothie",
+              "back": "smoothie léger aux baies"
+            },
+            {
+              "front": "fluffy scrambled eggs",
+              "back": "œufs brouillés moelleux"
+            },
+            {
+              "front": "sweet vanilla custard",
+              "back": "crème anglaise à la vanille sucrée"
+            },
+            {
+              "front": "sour dill pickles",
+              "back": "cornichons à l&#39;aneth aigres"
+            },
+            {
+              "front": "tangy barbecue sauce",
+              "back": "sauce barbecue acidulée"
+            },
+            {
+              "front": "fizzy orange soda",
+              "back": "soda à l&#39;orange pétillant"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "drinking fizzy orange soda",
+              "back": "boire du soda à l&#39;orange pétillant"
+            },
+            {
+              "front": "eating crunchy fresh salad",
+              "back": "manger une salade fraîche et croquante"
+            },
+            {
+              "front": "making sweet homemade jam",
+              "back": "faire de la confiture sucrée maison"
+            },
+            {
+              "front": "baking delicious chocolate cake",
+              "back": "préparer un délicieux gâteau au chocolat"
+            },
+            {
+              "front": "sipping cold refreshing lemonade",
+              "back": "sirotant une limonade fraîche et rafraîchissante"
+            },
+            {
+              "front": "cooking savory grilled chicken",
+              "back": "cuisiner du poulet grillé savoureux"
+            },
+            {
+              "front": "preparing spicy beef tacos",
+              "back": "préparer des tacos au bœuf épicés"
+            },
+            {
+              "front": "tasting rich vanilla ice",
+              "back": "goût riche de glace à la vanille"
+            },
+            {
+              "front": "enjoying creamy mushroom risotto",
+              "back": "savourer un risotto crémeux aux champignons"
+            },
+            {
+              "front": "serving warm chocolate chip",
+              "back": "servir des pépites de chocolat chaudes"
+            },
+            {
+              "front": "spreading creamy peanut butter",
+              "back": "tartiner du beurre de cacahuète crémeux"
+            },
+            {
+              "front": "pouring tangy barbecue sauce",
+              "back": "verser une sauce barbecue acidulée"
+            },
+            {
+              "front": "eating tender grilled steak",
+              "back": "manger un steak grillé tendre"
+            },
+            {
+              "front": "savoring sweet ripe mango",
+              "back": "savourer une mangue mûre et sucrée"
+            },
+            {
+              "front": "cooking fluffy scrambled eggs",
+              "back": "cuisiner des œufs brouillés moelleux"
+            },
+            {
+              "front": "baking flaky apple pie",
+              "back": "cuisson d&#39;une tarte aux pommes feuilletée"
+            },
+            {
+              "front": "drinking smooth berry smoothie",
+              "back": "boire un smoothie aux baies onctueux"
+            },
+            {
+              "front": "sipping hot herbal tea",
+              "back": "siroter une tisane chaude"
+            },
+            {
+              "front": "grilling juicy tender shrimp",
+              "back": "griller des crevettes tendres et juteuses"
+            },
+            {
+              "front": "whipping light vanilla custard",
+              "back": "crème anglaise légère à la vanille"
+            },
+            {
+              "front": "enjoying warm baked bread",
+              "back": "savourer du pain chaud cuit au four"
+            },
+            {
+              "front": "eating zesty garlic bread",
+              "back": "manger du pain à l&#39;ail piquant"
+            },
+            {
+              "front": "spreading rich chocolate frosting",
+              "back": "étaler un riche glaçage au chocolat"
+            },
+            {
+              "front": "serving tangy dill pickles",
+              "back": "servir des cornichons à l&#39;aneth acidulés"
+            },
+            {
+              "front": "sipping refreshing fruit punch",
+              "back": "en sirotant un punch aux fruits rafraîchissant"
+            },
+            {
+              "front": "making savory vegetable soup",
+              "back": "préparer une soupe de légumes savoureuse"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "drinking fizzy orange soda now",
+              "back": "je bois du soda à l&#39;orange pétillant maintenant"
+            },
+            {
+              "front": "eating crunchy fresh salad daily",
+              "back": "manger une salade fraîche et croquante tous les jours"
+            },
+            {
+              "front": "making sweet homemade jam today",
+              "back": "faire de la confiture maison sucrée aujourd&#39;hui"
+            },
+            {
+              "front": "baking chocolate cake for dessert",
+              "back": "faire cuire un gâteau au chocolat pour le dessert"
+            },
+            {
+              "front": "sipping refreshing lemonade with friends",
+              "back": "siroter une limonade rafraîchissante avec des amis"
+            },
+            {
+              "front": "cooking grilled chicken for dinner",
+              "back": "cuisiner du poulet grillé pour le dîner"
+            },
+            {
+              "front": "preparing beef tacos for lunch",
+              "back": "préparer des tacos au bœuf pour le déjeuner"
+            },
+            {
+              "front": "tasting vanilla ice cream",
+              "back": "dégustation de glace à la vanille"
+            },
+            {
+              "front": "enjoying creamy mushroom risotto tonight",
+              "back": "savourer un risotto crémeux aux champignons ce soir"
+            },
+            {
+              "front": "serving warm chocolate chip cookies",
+              "back": "servir des biscuits chauds aux pépites de chocolat"
+            },
+            {
+              "front": "spreading peanut butter on toast",
+              "back": "tartiner du beurre de cacahuète sur du pain grillé"
+            },
+            {
+              "front": "pouring tangy barbecue sauce generously",
+              "back": "verser généreusement de la sauce barbecue acidulée"
+            },
+            {
+              "front": "eating grilled steak with sides",
+              "back": "manger un steak grillé avec des accompagnements"
+            },
+            {
+              "front": "savoring sweet ripe mango slices",
+              "back": "savourer de douces tranches de mangue mûre"
+            },
+            {
+              "front": "cooking fluffy scrambled eggs perfectly",
+              "back": "cuisiner parfaitement des œufs brouillés moelleux"
+            },
+            {
+              "front": "baking apple pie from scratch",
+              "back": "faire cuire une tarte aux pommes à partir de zéro"
+            },
+            {
+              "front": "drinking berry smoothie every morning",
+              "back": "boire un smoothie aux baies tous les matins"
+            },
+            {
+              "front": "sipping hot herbal tea quietly",
+              "back": "sirotant tranquillement une tisane chaude"
+            },
+            {
+              "front": "grilling tender shrimp on skewers",
+              "back": "faire griller des crevettes tendres sur des brochettes"
+            },
+            {
+              "front": "whipping light vanilla custard dessert",
+              "back": "dessert léger à la crème anglaise à la vanille"
+            },
+            {
+              "front": "enjoying baked bread with butter",
+              "back": "savourer du pain cuit au four avec du beurre"
+            },
+            {
+              "front": "eating garlic bread with pasta",
+              "back": "manger du pain à l&#39;ail avec des pâtes"
+            },
+            {
+              "front": "spreading chocolate frosting on cake",
+              "back": "étaler du glaçage au chocolat sur un gâteau"
+            },
+            {
+              "front": "serving dill pickles at lunch",
+              "back": "servir des cornichons à l&#39;aneth au déjeuner"
+            },
+            {
+              "front": "sipping fruit punch at party",
+              "back": "siroter un punch aux fruits à la fête"
+            },
+            {
+              "front": "making vegetable soup for dinner",
+              "back": "préparer une soupe aux légumes pour le dîner"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "drinking fizzy orange soda with friends",
+              "back": "boire un soda à l&#39;orange pétillant avec des amis"
+            },
+            {
+              "front": "eating crunchy fresh salad for lunch",
+              "back": "manger une salade fraîche et croquante pour le déjeuner"
+            },
+            {
+              "front": "making sweet homemade jam for breakfast",
+              "back": "faire de la confiture maison sucrée pour le petit-déjeuner"
+            },
+            {
+              "front": "baking delicious chocolate cake for dessert",
+              "back": "préparer un délicieux gâteau au chocolat pour le dessert"
+            },
+            {
+              "front": "sipping cold refreshing lemonade on patio",
+              "back": "siroter une limonade fraîche et rafraîchissante sur la terrasse"
+            },
+            {
+              "front": "cooking savory grilled chicken for dinner",
+              "back": "cuisiner du poulet grillé savoureux pour le dîner"
+            },
+            {
+              "front": "preparing spicy beef tacos for lunch",
+              "back": "préparer des tacos au bœuf épicés pour le déjeuner"
+            },
+            {
+              "front": "tasting rich vanilla ice cream cone",
+              "back": "cornet de glace à la vanille au goût riche"
+            },
+            {
+              "front": "enjoying creamy mushroom risotto with parmesan",
+              "back": "savourer un risotto crémeux aux champignons et au parmesan"
+            },
+            {
+              "front": "serving warm chocolate chip cookies tonight",
+              "back": "servir des biscuits chauds aux pépites de chocolat ce soir"
+            },
+            {
+              "front": "spreading creamy peanut butter on toast",
+              "back": "tartiner du beurre de cacahuète crémeux sur du pain grillé"
+            },
+            {
+              "front": "pouring tangy barbecue sauce on ribs",
+              "back": "verser de la sauce barbecue acidulée sur les côtes"
+            },
+            {
+              "front": "eating tender grilled steak with vegetables",
+              "back": "manger un steak tendre grillé avec des légumes"
+            },
+            {
+              "front": "savoring sweet ripe mango slices daily",
+              "back": "savourer quotidiennement des tranches de mangue mûres et sucrées"
+            },
+            {
+              "front": "cooking fluffy scrambled eggs with herbs",
+              "back": "cuisiner des œufs brouillés moelleux aux herbes"
+            },
+            {
+              "front": "baking flaky apple pie from scratch",
+              "back": "faire une tarte aux pommes feuilletée à partir de zéro"
+            },
+            {
+              "front": "drinking smooth berry smoothie every morning",
+              "back": "boire un smoothie aux baies onctueux tous les matins"
+            },
+            {
+              "front": "sipping hot herbal tea before bed",
+              "back": "siroter une tisane chaude avant de se coucher"
+            },
+            {
+              "front": "grilling juicy tender shrimp on skewers",
+              "back": "faire griller des crevettes tendres et juteuses sur des brochettes"
+            },
+            {
+              "front": "whipping light vanilla custard for dessert",
+              "back": "fouetter une crème anglaise légère à la vanille pour le dessert"
+            },
+            {
+              "front": "enjoying warm baked bread with butter",
+              "back": "savourer du pain chaud cuit au four avec du beurre"
+            },
+            {
+              "front": "eating zesty garlic bread with pasta",
+              "back": "manger du pain à l&#39;ail piquant avec des pâtes"
+            },
+            {
+              "front": "spreading rich chocolate frosting on cake",
+              "back": "étaler un riche glaçage au chocolat sur le gâteau"
+            },
+            {
+              "front": "serving tangy dill pickles at picnic",
+              "back": "servir des cornichons à l&#39;aneth acidulés lors d&#39;un pique-nique"
+            },
+            {
+              "front": "sipping refreshing fruit punch at party",
+              "back": "siroter un punch aux fruits rafraîchissant lors d&#39;une fête"
+            },
+            {
+              "front": "making savory vegetable soup for dinner",
+              "back": "préparer une soupe de légumes savoureuse pour le dîner"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "ate bread", "back": "mangé du pain" },
+            { "front": "drank lemonade", "back": "bu de la limonade" },
+            { "front": "served soup", "back": "soupe servie" },
+            { "front": "baked cake", "back": "gâteau cuit au four" },
+            { "front": "cooked chicken", "back": "poulet cuit" },
+            { "front": "sipped coffee", "back": "café siroté" },
+            { "front": "made jam", "back": "fait de la confiture" },
+            { "front": "grilled fish", "back": "poisson grillé" },
+            { "front": "fried eggs", "back": "œufs au plat" },
+            { "front": "tasted salad", "back": "salade goûtée" },
+            { "front": "enjoyed pasta", "back": "apprécié les pâtes" },
+            { "front": "savored dessert", "back": "dessert savouré" },
+            { "front": "poured juice", "back": "jus versé" },
+            { "front": "eaten fruit", "back": "mangé des fruits" },
+            { "front": "prepared tacos", "back": "tacos préparés" },
+            { "front": "whipped cream", "back": "crème fouettée" },
+            { "front": "mixed ingredients", "back": "ingrédients mélangés" },
+            { "front": "served pizza", "back": "pizza servie" },
+            { "front": "made smoothie", "back": "fait un smoothie" },
+            { "front": "opened beer", "back": "bière ouverte" },
+            { "front": "shared dessert", "back": "dessert partagé" },
+            { "front": "brought snacks", "back": "apporté des collations" },
+            { "front": "washed vegetables", "back": "légumes lavés" },
+            { "front": "tore bread", "back": "déchiré le pain" },
+            { "front": "chopped herbs", "back": "herbes hachées" },
+            { "front": "scooped ice", "back": "glace en boule" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "ate fresh bread", "back": "mangé du pain frais" },
+            {
+              "front": "drank cold lemonade",
+              "back": "j&#39;ai bu de la limonade froide"
+            },
+            { "front": "served hot soup", "back": "soupe chaude servie" },
+            { "front": "baked a cake", "back": "fait un gâteau" },
+            { "front": "cooked spicy chicken", "back": "poulet épicé cuit" },
+            { "front": "sipped strong coffee", "back": "siroté un café fort" },
+            {
+              "front": "made homemade jam",
+              "back": "fait de la confiture maison"
+            },
+            { "front": "grilled tender fish", "back": "poisson tendre grillé" },
+            { "front": "fried two eggs", "back": "deux œufs au plat" },
+            {
+              "front": "tasted delicious salad",
+              "back": "j&#39;ai goûté une délicieuse salade"
+            },
+            {
+              "front": "enjoyed creamy pasta",
+              "back": "apprécié les pâtes crémeuses"
+            },
+            {
+              "front": "savored rich dessert",
+              "back": "dessert riche et savoureux"
+            },
+            { "front": "poured fresh juice", "back": "jus frais versé" },
+            {
+              "front": "eaten seasonal fruit",
+              "back": "mangé des fruits de saison"
+            },
+            {
+              "front": "prepared beef tacos",
+              "back": "tacos au bœuf préparés"
+            },
+            { "front": "whipped light cream", "back": "crème fouettée légère" },
+            {
+              "front": "mixed colorful ingredients",
+              "back": "ingrédients colorés mélangés"
+            },
+            { "front": "served hot pizza", "back": "pizza chaude servie" },
+            {
+              "front": "made berry smoothie",
+              "back": "fait un smoothie aux baies"
+            },
+            { "front": "opened cold beer", "back": "bière froide ouverte" },
+            {
+              "front": "shared sweet dessert",
+              "back": "dessert sucré partagé"
+            },
+            {
+              "front": "brought crunchy snacks",
+              "back": "apporté des collations croquantes"
+            },
+            {
+              "front": "washed fresh vegetables",
+              "back": "légumes frais lavés"
+            },
+            { "front": "tore warm bread", "back": "déchiré du pain chaud" },
+            {
+              "front": "chopped fresh herbs",
+              "back": "herbes fraîches hachées"
+            },
+            { "front": "scooped vanilla ice", "back": "glace à la vanille" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "ate fresh baked bread",
+              "back": "mangé du pain frais cuit au four"
+            },
+            {
+              "front": "drank cold refreshing lemonade",
+              "back": "j&#39;ai bu de la limonade fraîche et rafraîchissante"
+            },
+            {
+              "front": "served delicious hot soup",
+              "back": "servi une délicieuse soupe chaude"
+            },
+            {
+              "front": "baked a chocolate cake",
+              "back": "fait cuire un gâteau au chocolat"
+            },
+            {
+              "front": "cooked spicy grilled chicken",
+              "back": "poulet grillé épicé cuit"
+            },
+            {
+              "front": "sipped strong black coffee",
+              "back": "siroté du café noir fort"
+            },
+            {
+              "front": "made homemade strawberry jam",
+              "back": "fait de la confiture de fraises maison"
+            },
+            {
+              "front": "grilled tender salmon fillet",
+              "back": "filet de saumon tendre grillé"
+            },
+            {
+              "front": "fried two sunny-side eggs",
+              "back": "deux œufs au plat"
+            },
+            {
+              "front": "tasted fresh garden salad",
+              "back": "j&#39;ai goûté une salade fraîche du jardin"
+            },
+            {
+              "front": "enjoyed creamy pasta dish",
+              "back": "j&#39;ai apprécié le plat de pâtes crémeuses"
+            },
+            {
+              "front": "savored rich chocolate dessert",
+              "back": "dessert au chocolat riche et savoureux"
+            },
+            {
+              "front": "poured fresh orange juice",
+              "back": "jus d&#39;orange frais versé"
+            },
+            {
+              "front": "eaten seasonal ripe fruit",
+              "back": "mangé des fruits mûrs de saison"
+            },
+            {
+              "front": "prepared spicy beef tacos",
+              "back": "tacos au bœuf épicé préparés"
+            },
+            {
+              "front": "whipped up light cream",
+              "back": "crème légère fouettée"
+            },
+            {
+              "front": "mixed colorful salad ingredients",
+              "back": "ingrédients de salade colorée mélangée"
+            },
+            {
+              "front": "served hot cheesy pizza",
+              "back": "pizza chaude au fromage servie"
+            },
+            {
+              "front": "made a berry smoothie",
+              "back": "fait un smoothie aux baies"
+            },
+            {
+              "front": "opened a cold beer",
+              "back": "ouvert une bière fraîche"
+            },
+            {
+              "front": "shared sweet chocolate dessert",
+              "back": "dessert au chocolat sucré partagé"
+            },
+            {
+              "front": "brought crunchy vegetable snacks",
+              "back": "apporté des collations de légumes croquants"
+            },
+            {
+              "front": "washed fresh salad greens",
+              "back": "salade verte fraîche lavée"
+            },
+            {
+              "front": "tore warm crusty bread",
+              "back": "déchiré du pain croustillant chaud"
+            },
+            {
+              "front": "chopped fresh fragrant herbs",
+              "back": "herbes fraîches parfumées hachées"
+            },
+            {
+              "front": "scooped creamy vanilla ice",
+              "back": "glace à la vanille crémeuse"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "ate fresh baked bread yesterday",
+              "back": "j&#39;ai mangé du pain frais hier"
+            },
+            {
+              "front": "drank cold refreshing lemonade today",
+              "back": "j&#39;ai bu de la limonade fraîche et rafraîchissante aujourd&#39;hui"
+            },
+            {
+              "front": "served delicious soup for dinner",
+              "back": "servi une délicieuse soupe pour le dîner"
+            },
+            {
+              "front": "baked chocolate cake for dessert",
+              "back": "gâteau au chocolat cuit au four pour le dessert"
+            },
+            {
+              "front": "cooked grilled chicken with rice",
+              "back": "poulet grillé cuit avec du riz"
+            },
+            {
+              "front": "sipped black coffee in morning",
+              "back": "j&#39;ai siroté du café noir le matin"
+            },
+            {
+              "front": "made strawberry jam from berries",
+              "back": "fait de la confiture de fraises à partir de baies"
+            },
+            {
+              "front": "grilled salmon fillet with herbs",
+              "back": "filet de saumon grillé aux herbes"
+            },
+            {
+              "front": "fried sunny-side eggs for breakfast",
+              "back": "œufs au plat au plat pour le petit-déjeuner"
+            },
+            {
+              "front": "tasted garden salad with dressing",
+              "back": "salade du jardin goûtée avec vinaigrette"
+            },
+            {
+              "front": "enjoyed pasta dish last night",
+              "back": "j&#39;ai apprécié le plat de pâtes hier soir"
+            },
+            {
+              "front": "savored chocolate dessert after dinner",
+              "back": "dessert au chocolat savouré après le dîner"
+            },
+            {
+              "front": "poured orange juice in glass",
+              "back": "verser du jus d&#39;orange dans un verre"
+            },
+            {
+              "front": "eaten ripe fruit for snack",
+              "back": "mangé des fruits mûrs en guise de collation"
+            },
+            {
+              "front": "prepared beef tacos for lunch",
+              "back": "tacos au bœuf préparés pour le déjeuner"
+            },
+            {
+              "front": "whipped up cream for dessert",
+              "back": "crème fouettée pour le dessert"
+            },
+            {
+              "front": "mixed salad ingredients for picnic",
+              "back": "ingrédients de salade mixte pour pique-nique"
+            },
+            {
+              "front": "served hot pizza for dinner",
+              "back": "pizza chaude servie pour le dîner"
+            },
+            {
+              "front": "made a smoothie this morning",
+              "back": "j&#39;ai fait un smoothie ce matin"
+            },
+            {
+              "front": "opened cold beer after work",
+              "back": "ouvert une bière fraîche après le travail"
+            },
+            {
+              "front": "shared chocolate dessert with friends",
+              "back": "dessert au chocolat partagé entre amis"
+            },
+            {
+              "front": "brought vegetable snacks for party",
+              "back": "apporté des collations de légumes pour la fête"
+            },
+            {
+              "front": "washed salad greens before serving",
+              "back": "lavé les salades vertes avant de servir"
+            },
+            {
+              "front": "sliced warm bread for sandwiches",
+              "back": "pain chaud tranché pour sandwichs"
+            },
+            {
+              "front": "chopped fragrant herbs for seasoning",
+              "back": "herbes parfumées hachées pour l&#39;assaisonnement"
+            },
+            {
+              "front": "scooped vanilla ice cream tonight",
+              "back": "glace à la vanille ce soir"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "ate fresh baked bread with butter",
+              "back": "mangé du pain frais avec du beurre"
+            },
+            {
+              "front": "drank cold refreshing lemonade on patio",
+              "back": "j&#39;ai bu de la limonade fraîche et rafraîchissante sur la terrasse"
+            },
+            {
+              "front": "served delicious hot soup to guests",
+              "back": "servi une délicieuse soupe chaude aux invités"
+            },
+            {
+              "front": "baked a chocolate cake for party",
+              "back": "j&#39;ai fait un gâteau au chocolat pour la fête"
+            },
+            {
+              "front": "cooked spicy grilled chicken with vegetables",
+              "back": "poulet grillé épicé cuit avec des légumes"
+            },
+            {
+              "front": "sipped strong black coffee in morning",
+              "back": "j&#39;ai bu du café noir fort le matin"
+            },
+            {
+              "front": "made homemade strawberry jam from berries",
+              "back": "confiture de fraises maison à partir de baies"
+            },
+            {
+              "front": "grilled tender salmon fillet with lemon",
+              "back": "filet de saumon tendre grillé au citron"
+            },
+            {
+              "front": "fried two sunny-side eggs for breakfast",
+              "back": "deux œufs au plat au petit-déjeuner"
+            },
+            {
+              "front": "tasted fresh garden salad with dressing",
+              "back": "j&#39;ai goûté une salade fraîche du jardin avec vinaigrette"
+            },
+            {
+              "front": "enjoyed creamy pasta dish with cheese",
+              "back": "j&#39;ai apprécié un plat de pâtes crémeuses au fromage"
+            },
+            {
+              "front": "savored rich chocolate dessert after dinner",
+              "back": "j&#39;ai savouré un riche dessert au chocolat après le dîner"
+            },
+            {
+              "front": "poured fresh orange juice into glass",
+              "back": "verser du jus d&#39;orange frais dans un verre"
+            },
+            {
+              "front": "eaten seasonal ripe fruit for snack",
+              "back": "mangé des fruits mûrs de saison en guise de collation"
+            },
+            {
+              "front": "prepared spicy beef tacos with salsa",
+              "back": "tacos de bœuf épicés préparés avec salsa"
+            },
+            {
+              "front": "whipped up light cream for dessert",
+              "back": "crème fouettée légère pour le dessert"
+            },
+            {
+              "front": "mixed colorful salad ingredients for picnic",
+              "back": "ingrédients de salade colorée mélangée pour pique-nique"
+            },
+            {
+              "front": "served hot cheesy pizza with friends",
+              "back": "servi une pizza chaude au fromage avec des amis"
+            },
+            {
+              "front": "made a berry smoothie this morning",
+              "back": "j&#39;ai fait un smoothie aux baies ce matin"
+            },
+            {
+              "front": "opened a cold beer after work",
+              "back": "j&#39;ai ouvert une bière fraîche après le travail"
+            },
+            {
+              "front": "shared sweet chocolate dessert with family",
+              "back": "dessert au chocolat sucré partagé en famille"
+            },
+            {
+              "front": "brought crunchy vegetable snacks for party",
+              "back": "apporté des collations de légumes croquants pour la fête"
+            },
+            {
+              "front": "washed fresh salad greens before serving",
+              "back": "salade verte fraîche lavée avant de servir"
+            },
+            {
+              "front": "tore warm crusty bread for sandwiches",
+              "back": "déchiré du pain croustillant chaud pour les sandwichs"
+            },
+            {
+              "front": "chopped fresh fragrant herbs for seasoning",
+              "back": "herbes fraîches parfumées hachées pour l&#39;assaisonnement"
+            },
+            {
+              "front": "scooped vanilla ice cream for dessert",
+              "back": "glace à la vanille en boule pour le dessert"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "will eat bread", "back": "mangera du pain" },
+            { "front": "will drink tea", "back": "boira du thé" },
+            { "front": "will bake cake", "back": "fera un gâteau" },
+            { "front": "will cook chicken", "back": "cuisinera du poulet" },
+            { "front": "will sip coffee", "back": "va siroter du café" },
+            { "front": "will make jam", "back": "fera de la confiture" },
+            { "front": "will grill fish", "back": "fera griller du poisson" },
+            { "front": "will fry eggs", "back": "fera frire des œufs" },
+            { "front": "will taste salad", "back": "goûtera la salade" },
+            { "front": "will enjoy pasta", "back": "apprécieront les pâtes" },
+            { "front": "will savor dessert", "back": "savourera le dessert" },
+            { "front": "will pour juice", "back": "versera du jus" },
+            { "front": "will eat fruit", "back": "mangera des fruits" },
+            { "front": "will prepare tacos", "back": "préparera des tacos" },
+            { "front": "will whip cream", "back": "fouettera la crème" },
+            {
+              "front": "will mix ingredients",
+              "back": "mélangera les ingrédients"
+            },
+            { "front": "will serve pizza", "back": "servira de la pizza" },
+            { "front": "will make smoothie", "back": "fera un smoothie" },
+            { "front": "will open beer", "back": "ouvrira la bière" },
+            { "front": "will share dessert", "back": "partagera le dessert" },
+            {
+              "front": "will bring snacks",
+              "back": "apportera des collations"
+            },
+            { "front": "will wash vegetables", "back": "lavera les légumes" },
+            { "front": "will tear bread", "back": "déchirera le pain" },
+            { "front": "will chop herbs", "back": "hachera les herbes" },
+            { "front": "will scoop ice", "back": "ramassera de la glace" },
+            { "front": "will enjoy wine", "back": "apprécieront le vin" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "will enjoy sweet wine",
+              "back": "appréciera le vin doux"
+            },
+            {
+              "front": "will slice fresh bread",
+              "back": "coupera du pain frais"
+            },
+            { "front": "will bake a cake", "back": "fera un gâteau" },
+            {
+              "front": "will cook delicious chicken",
+              "back": "cuisinera du poulet délicieux"
+            },
+            {
+              "front": "will sip hot coffee",
+              "back": "sirotera du café chaud"
+            },
+            {
+              "front": "will make homemade jam",
+              "back": "fera de la confiture maison"
+            },
+            {
+              "front": "will grill tender fish",
+              "back": "fera griller du poisson tendre"
+            },
+            {
+              "front": "will fry crispy eggs",
+              "back": "fera frire des œufs croustillants"
+            },
+            {
+              "front": "will taste colorful salad",
+              "back": "goûtera une salade colorée"
+            },
+            {
+              "front": "will enjoy creamy pasta",
+              "back": "apprécieront les pâtes crémeuses"
+            },
+            {
+              "front": "will savor rich dessert",
+              "back": "savourera un dessert riche"
+            },
+            {
+              "front": "will pour fresh juice",
+              "back": "versera du jus frais"
+            },
+            {
+              "front": "will eat seasonal fruit",
+              "back": "mangera des fruits de saison"
+            },
+            {
+              "front": "will prepare spicy tacos",
+              "back": "préparera des tacos épicés"
+            },
+            {
+              "front": "will whip light cream",
+              "back": "fouettera la crème légère"
+            },
+            {
+              "front": "will mix salad ingredients",
+              "back": "mélangera les ingrédients de la salade"
+            },
+            {
+              "front": "will serve hot pizza",
+              "back": "servira des pizzas chaudes"
+            },
+            { "front": "will make a smoothie", "back": "fera un smoothie" },
+            { "front": "will open a beer", "back": "ouvrira une bière" },
+            {
+              "front": "will share sweet dessert",
+              "back": "partagera un dessert sucré"
+            },
+            {
+              "front": "will bring crunchy snacks",
+              "back": "apportera des collations croquantes"
+            },
+            {
+              "front": "will wash fresh vegetables",
+              "back": "lavera les légumes frais"
+            },
+            {
+              "front": "will chop fragrant herbs",
+              "back": "hachera des herbes parfumées"
+            },
+            {
+              "front": "will scoop creamy ice",
+              "back": "va ramasser de la glace crémeuse"
+            },
+            {
+              "front": "will enjoy sparkling water",
+              "back": "apprécieront l&#39;eau pétillante"
+            },
+            {
+              "front": "will savor chocolate cake",
+              "back": "savourera le gâteau au chocolat"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "will enjoy wine with dinner",
+              "back": "apprécieront le vin avec le dîner"
+            },
+            {
+              "front": "will slice bread for sandwiches",
+              "back": "coupera du pain pour les sandwichs"
+            },
+            {
+              "front": "will bake a cake tomorrow",
+              "back": "je ferai un gâteau demain"
+            },
+            {
+              "front": "will cook chicken with herbs",
+              "back": "je vais cuisiner du poulet aux herbes"
+            },
+            {
+              "front": "will sip coffee every morning",
+              "back": "je siroterai du café tous les matins"
+            },
+            {
+              "front": "will make jam soon",
+              "back": "je ferai bientôt de la confiture"
+            },
+            {
+              "front": "will grill fish on barbecue",
+              "back": "je ferai griller du poisson au barbecue"
+            },
+            {
+              "front": "will fry eggs for breakfast",
+              "back": "je ferai des œufs au plat pour le petit-déjeuner"
+            },
+            {
+              "front": "will taste salad at lunch",
+              "back": "je goûterai de la salade au déjeuner"
+            },
+            {
+              "front": "will enjoy pasta dish tonight",
+              "back": "je vais apprécier le plat de pâtes ce soir"
+            },
+            {
+              "front": "will savor dessert later",
+              "back": "je savourerai le dessert plus tard"
+            },
+            {
+              "front": "will pour juice daily",
+              "back": "je verserai du jus tous les jours"
+            },
+            {
+              "front": "will eat fruit daily",
+              "back": "mangera des fruits tous les jours"
+            },
+            {
+              "front": "will prepare tacos tonight",
+              "back": "je préparerai des tacos ce soir"
+            },
+            {
+              "front": "will whip up cream dessert",
+              "back": "je vais préparer un dessert à la crème"
+            },
+            {
+              "front": "will mix salad ingredients for picnic",
+              "back": "je mélangerai les ingrédients de la salade pour le pique-nique"
+            },
+            {
+              "front": "will serve pizza today",
+              "back": "servira de la pizza aujourd&#39;hui"
+            },
+            {
+              "front": "will make a smoothie tomorrow",
+              "back": "je ferai un smoothie demain"
+            },
+            {
+              "front": "will open a beer tonight",
+              "back": "j&#39;ouvrirai une bière ce soir"
+            },
+            {
+              "front": "will share dessert together",
+              "back": "partagerons le dessert ensemble"
+            },
+            {
+              "front": "will bring snacks for party",
+              "back": "apportera des collations pour la fête"
+            },
+            {
+              "front": "will wash salad greens before serving",
+              "back": "lavera les salades vertes avant de servir"
+            },
+            {
+              "front": "will chop herbs for seasoning",
+              "back": "hachera les herbes pour l&#39;assaisonnement"
+            },
+            {
+              "front": "will scoop ice cream",
+              "back": "va ramasser de la glace"
+            },
+            {
+              "front": "will enjoy water with lemon",
+              "back": "appréciera l&#39;eau avec du citron"
+            },
+            {
+              "front": "will savor cake at party",
+              "back": "savourera le gâteau à la fête"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "will enjoy wine with dinner tonight",
+              "back": "je dégusterai du vin avec le dîner ce soir"
+            },
+            {
+              "front": "will slice bread for sandwiches later",
+              "back": "je couperai du pain pour les sandwichs plus tard"
+            },
+            {
+              "front": "will bake a cake for dessert",
+              "back": "je ferai un gâteau pour le dessert"
+            },
+            {
+              "front": "will cook chicken with herbs tomorrow",
+              "back": "je vais cuisiner du poulet aux herbes demain"
+            },
+            {
+              "front": "will sip coffee every single morning",
+              "back": "je siroterai du café tous les matins"
+            },
+            {
+              "front": "will make jam from fresh berries",
+              "back": "fera de la confiture à partir de baies fraîches"
+            },
+            {
+              "front": "will grill fish on the barbecue",
+              "back": "je ferai griller du poisson au barbecue"
+            },
+            {
+              "front": "will fry eggs for breakfast tomorrow",
+              "back": "je ferai des œufs au plat pour le petit-déjeuner demain"
+            },
+            {
+              "front": "will taste salad at lunch today",
+              "back": "je goûterai de la salade au déjeuner aujourd&#39;hui"
+            },
+            {
+              "front": "will enjoy pasta dish for dinner",
+              "back": "apprécieront un plat de pâtes pour le dîner"
+            },
+            {
+              "front": "will savor dessert after the meal",
+              "back": "savourera le dessert après le repas"
+            },
+            {
+              "front": "will pour juice into the glass",
+              "back": "versera du jus dans le verre"
+            },
+            {
+              "front": "will eat fruit for a snack",
+              "back": "mangera des fruits en guise de collation"
+            },
+            {
+              "front": "will prepare tacos for lunch tomorrow",
+              "back": "je préparerai des tacos pour le déjeuner demain"
+            },
+            {
+              "front": "will whip up cream for dessert",
+              "back": "je vais fouetter de la crème pour le dessert"
+            },
+            {
+              "front": "will mix salad ingredients for picnic",
+              "back": "je mélangerai les ingrédients de la salade pour le pique-nique"
+            },
+            {
+              "front": "will serve pizza at the party",
+              "back": "servira de la pizza à la fête"
+            },
+            {
+              "front": "will make a smoothie for breakfast",
+              "back": "je ferai un smoothie pour le petit-déjeuner"
+            },
+            {
+              "front": "will open a beer after work",
+              "back": "j&#39;ouvrirai une bière après le travail"
+            },
+            {
+              "front": "will share dessert with my friends",
+              "back": "je partagerai le dessert avec mes amis"
+            },
+            {
+              "front": "will bring snacks for the party",
+              "back": "apportera des collations pour la fête"
+            },
+            {
+              "front": "will wash salad greens before serving",
+              "back": "lavera les salades vertes avant de servir"
+            },
+            {
+              "front": "will chop herbs for the recipe",
+              "back": "je hacherai les herbes pour la recette"
+            },
+            {
+              "front": "will scoop ice cream into bowls",
+              "back": "je mettrai de la glace dans des bols"
+            },
+            {
+              "front": "will enjoy water with a lemon",
+              "back": "appréciera l&#39;eau avec un citron"
+            },
+            {
+              "front": "will savor cake at the party",
+              "back": "savourera le gâteau à la fête"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

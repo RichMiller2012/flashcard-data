@@ -1,0 +1,1288 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Places",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Store", "back": "magasin" },
+            { "front": "Station", "back": "gare" },
+            { "front": "Port", "back": "port" },
+            { "front": "Airport", "back": "aéroport" },
+            { "front": "Subway", "back": "métro" },
+            { "front": "Park", "back": "parc" },
+            { "front": "Museum", "back": "musée" },
+            { "front": "Mall", "back": "centre commercial" },
+            { "front": "Beach", "back": "plage" },
+            { "front": "Library", "back": "bibliothèque" },
+            { "front": "Hospital", "back": "hôpital" },
+            { "front": "Hotel", "back": "hôtel" },
+            { "front": "Restaurant", "back": "restaurant" },
+            { "front": "Cafe", "back": "café" },
+            { "front": "School", "back": "école" },
+            { "front": "Office", "back": "bureau" },
+            { "front": "Gym", "back": "salle de sport" },
+            { "front": "Church", "back": "église" },
+            { "front": "Theater", "back": "théâtre" },
+            { "front": "Bakery", "back": "boulangerie" },
+            { "front": "Factory", "back": "usine" },
+            { "front": "Market", "back": "marché" },
+            { "front": "Zoo", "back": "bien" },
+            { "front": "Bar", "back": "bar" },
+            { "front": "Clinic", "back": "clinique" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Busy store", "back": "magasin très fréquenté" },
+            { "front": "Train station", "back": "gare" },
+            { "front": "Crowded port", "back": "port bondé" },
+            { "front": "Large airport", "back": "grand aéroport" },
+            { "front": "Underground subway", "back": "métro souterrain" },
+            { "front": "Green park", "back": "parc verdoyant" },
+            { "front": "Famous museum", "back": "musée célèbre" },
+            { "front": "Big mall", "back": "grand centre commercial" },
+            { "front": "Sandy beach", "back": "plage de sable" },
+            { "front": "Quiet library", "back": "bibliothèque tranquille" },
+            { "front": "Busy hospital", "back": "hôpital très fréquenté" },
+            { "front": "Luxury hotel", "back": "hôtel de luxe" },
+            { "front": "Cozy cafe", "back": "café chaleureux" },
+            { "front": "Large restaurant", "back": "grand restaurant" },
+            { "front": "Busy school", "back": "école très fréquentée" },
+            { "front": "Small office", "back": "petit bureau" },
+            { "front": "Modern gym", "back": "salle de sport moderne" },
+            { "front": "Big church", "back": "grande église" },
+            { "front": "Old theater", "back": "ancien théâtre" },
+            { "front": "Popular bakery", "back": "boulangerie populaire" },
+            { "front": "Large factory", "back": "grande usine" },
+            { "front": "Outdoor market", "back": "marché en plein air" },
+            { "front": "Big zoo", "back": "grand zoo" },
+            { "front": "Crowded bar", "back": "bar bondé" },
+            { "front": "Local clinic", "back": "clinique locale" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Busy store downtown",
+              "back": "magasin très fréquenté du centre-ville"
+            },
+            { "front": "Train station nearby", "back": "gare à proximité" },
+            {
+              "front": "Crowded port today",
+              "back": "port bondé aujourd&#39;hui"
+            },
+            {
+              "front": "Large airport terminal",
+              "back": "grand terminal d&#39;aéroport"
+            },
+            {
+              "front": "Underground subway station",
+              "back": "station de métro souterraine"
+            },
+            { "front": "Green park entrance", "back": "entrée du parc vert" },
+            {
+              "front": "Famous museum exhibits",
+              "back": "expositions de musée célèbres"
+            },
+            {
+              "front": "Big mall opening",
+              "back": "ouverture d&#39;un grand centre commercial"
+            },
+            {
+              "front": "Sandy beach view",
+              "back": "vue sur la plage de sable"
+            },
+            {
+              "front": "Quiet library corner",
+              "back": "coin bibliothèque tranquille"
+            },
+            {
+              "front": "Busy hospital staff",
+              "back": "personnel hospitalier occupé"
+            },
+            {
+              "front": "Luxury hotel lobby",
+              "back": "hall d&#39;un hôtel de luxe"
+            },
+            {
+              "front": "Cozy cafe atmosphere",
+              "back": "ambiance de café chaleureuse"
+            },
+            {
+              "front": "Large restaurant menu",
+              "back": "grand menu de restaurant"
+            },
+            {
+              "front": "Busy school day",
+              "back": "journée d&#39;école chargée"
+            },
+            { "front": "Small office space", "back": "petit espace de bureau" },
+            {
+              "front": "Modern gym facilities",
+              "back": "installations de gymnastique modernes"
+            },
+            {
+              "front": "Big church bell",
+              "back": "grosse cloche d&#39;église"
+            },
+            {
+              "front": "Old theater building",
+              "back": "ancien bâtiment de théâtre"
+            },
+            { "front": "Popular bakery shop", "back": "boulangerie populaire" },
+            {
+              "front": "Large factory workers",
+              "back": "ouvriers des grandes usines"
+            },
+            {
+              "front": "Outdoor market stalls",
+              "back": "étals de marché en plein air"
+            },
+            { "front": "Big zoo entrance", "back": "grande entrée du zoo" },
+            { "front": "Crowded bar tonight", "back": "bar bondé ce soir" },
+            {
+              "front": "Local clinic service",
+              "back": "service de clinique locale"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My sandy beach view",
+              "back": "ma vue sur la plage de sable"
+            },
+            { "front": "His bar is crowded", "back": "son bar est bondé" },
+            {
+              "front": "Her luxury hotel room",
+              "back": "sa chambre d&#39;hôtel de luxe"
+            },
+            {
+              "front": "The crowded sandy beach",
+              "back": "la plage de sable bondée"
+            },
+            {
+              "front": "Their busy store downtown",
+              "back": "leur magasin très fréquenté du centre-ville"
+            },
+            {
+              "front": "Our train station nearby",
+              "back": "notre gare à proximité"
+            },
+            {
+              "front": "Their quiet library corner",
+              "back": "leur coin bibliothèque tranquille"
+            },
+            {
+              "front": "The famous museum exhibits",
+              "back": "les célèbres expositions du musée"
+            },
+            {
+              "front": "Their large airport terminal",
+              "back": "leur grand terminal d&#39;aéroport"
+            },
+            {
+              "front": "My green park entrance",
+              "back": "l&#39;entrée de mon parc verdoyant"
+            },
+            {
+              "front": "His modern gym facilities",
+              "back": "ses installations de gym modernes"
+            },
+            {
+              "front": "Her cozy cafe atmosphere",
+              "back": "son ambiance de café cosy"
+            },
+            {
+              "front": "The busy hospital staff",
+              "back": "le personnel hospitalier occupé"
+            },
+            {
+              "front": "Their old theater building",
+              "back": "leur ancien bâtiment de théâtre"
+            },
+            {
+              "front": "Our big zoo entrance",
+              "back": "notre grande entrée au zoo"
+            },
+            {
+              "front": "The large restaurant menu",
+              "back": "la grande carte du restaurant"
+            },
+            {
+              "front": "Her popular bakery shop",
+              "back": "sa boulangerie populaire"
+            },
+            {
+              "front": "The outdoor market stalls",
+              "back": "les étals du marché en plein air"
+            },
+            {
+              "front": "His big church bell",
+              "back": "sa grosse cloche d&#39;église"
+            },
+            {
+              "front": "The crowded port today",
+              "back": "le port bondé aujourd&#39;hui"
+            },
+            {
+              "front": "Their small office space",
+              "back": "leur petit espace de bureau"
+            },
+            {
+              "front": "My large factory workers",
+              "back": "mes grands ouvriers d&#39;usine"
+            },
+            {
+              "front": "Her crowded bar tonight",
+              "back": "son bar bondé ce soir"
+            },
+            {
+              "front": "Their local clinic service",
+              "back": "leur service clinique local"
+            },
+            {
+              "front": "Our busy school day",
+              "back": "notre journée d&#39;école chargée"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I am at the beach", "back": "je suis à la plage" },
+            { "front": "He is at the bar", "back": "il est au bar" },
+            {
+              "front": "Everyone loves the small office",
+              "back": "tout le monde aime le petit bureau"
+            },
+            { "front": "I drink in the bar", "back": "je bois au bar" },
+            {
+              "front": "She works in the hospital",
+              "back": "elle travaille à l&#39;hôpital"
+            },
+            {
+              "front": "We meet at the library",
+              "back": "on se retrouve à la bibliothèque"
+            },
+            {
+              "front": "They shop at the mall",
+              "back": "ils font leurs courses au centre commercial"
+            },
+            { "front": "He eats at the cafe", "back": "il mange au café" },
+            {
+              "front": "I visit the busy park",
+              "back": "je visite le parc animé"
+            },
+            {
+              "front": "She studies at the school",
+              "back": "elle étudie à l&#39;école"
+            },
+            {
+              "front": "We walk through the museum",
+              "back": "nous traversons le musée"
+            },
+            {
+              "front": "He trains at the gym",
+              "back": "il s&#39;entraîne à la salle de sport"
+            },
+            {
+              "front": "She stays in the hotel",
+              "back": "elle reste à l&#39;hôtel"
+            },
+            {
+              "front": "They dine at the restaurant",
+              "back": "ils dînent au restaurant"
+            },
+            {
+              "front": "I run around the track",
+              "back": "je cours autour de la piste"
+            },
+            { "front": "We go to the zoo", "back": "nous allons au zoo" },
+            {
+              "front": "He arrives at the airport",
+              "back": "il arrive à l&#39;aéroport"
+            },
+            {
+              "front": "She reads in the library",
+              "back": "elle lit à la bibliothèque"
+            },
+            {
+              "front": "We relax on the beach",
+              "back": "nous nous détendons sur la plage"
+            },
+            {
+              "front": "He waits at the station",
+              "back": "il attend à la gare"
+            },
+            {
+              "front": "They park at the port",
+              "back": "ils se garent au port"
+            },
+            {
+              "front": "I work at the office",
+              "back": "je travaille au bureau"
+            },
+            {
+              "front": "She exercises at the gym",
+              "back": "elle fait de l&#39;exercice à la salle de sport"
+            },
+            {
+              "front": "We travel by the subway",
+              "back": "nous voyageons en métro"
+            },
+            {
+              "front": "Everyone shops at the market",
+              "back": "tout le monde fait ses courses au marché"
+            },
+            {
+              "front": "We are at the gym",
+              "back": "nous sommes à la salle de sport"
+            },
+            {
+              "front": "I take the subway home",
+              "back": "je prends le métro pour rentrer chez moi"
+            },
+            {
+              "front": "Ships leave the port today",
+              "back": "les navires quittent le port aujourd&#39;hui"
+            },
+            {
+              "front": "He studies in the library",
+              "back": "il étudie à la bibliothèque"
+            },
+            {
+              "front": "We walk through the park",
+              "back": "nous marchons dans le parc"
+            },
+            {
+              "front": "She waits at the station",
+              "back": "elle attend à la gare"
+            },
+            {
+              "front": "They eat at the restaurant",
+              "back": "ils mangent au restaurant"
+            },
+            {
+              "front": "I visit the museum often",
+              "back": "je visite souvent le musée"
+            },
+            {
+              "front": "Dogs play in the park",
+              "back": "les chiens jouent dans le parc"
+            },
+            {
+              "front": "She works in the office",
+              "back": "elle travaille au bureau"
+            },
+            {
+              "front": "We live near the mall",
+              "back": "nous habitons près du centre commercial"
+            },
+            {
+              "front": "He exercises at the gym",
+              "back": "il fait de l&#39;exercice à la salle de sport"
+            },
+            {
+              "front": "Planes land at the airport",
+              "back": "les avions atterrissent à l&#39;aéroport"
+            },
+            {
+              "front": "She shops at the market",
+              "back": "elle fait ses courses au marché"
+            },
+            {
+              "front": "I eat lunch at school",
+              "back": "je déjeune à l&#39;école"
+            },
+            {
+              "front": "They meet friends at cafe",
+              "back": "ils rencontrent des amis au café"
+            },
+            {
+              "front": "We rest at the beach",
+              "back": "nous nous reposons à la plage"
+            },
+            {
+              "front": "She checks into the hotel",
+              "back": "elle s&#39;enregistre à l&#39;hôtel"
+            },
+            {
+              "front": "He works out at gym",
+              "back": "il s&#39;entraîne à la salle de sport"
+            },
+            { "front": "We drive to the zoo", "back": "nous allons au zoo" },
+            {
+              "front": "They arrive at the airport",
+              "back": "ils arrivent à l&#39;aéroport"
+            },
+            {
+              "front": "I read books at library",
+              "back": "je lis des livres à la bibliothèque"
+            },
+            {
+              "front": "She buys bread at bakery",
+              "back": "elle achète du pain à la boulangerie"
+            },
+            {
+              "front": "We wait inside the theater",
+              "back": "nous attendons à l&#39;intérieur du théâtre"
+            },
+            {
+              "front": "He leaves for work now",
+              "back": "il part au travail maintenant"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am at the gym now",
+              "back": "je suis à la salle de sport maintenant"
+            },
+            {
+              "front": "He is at the bar drinking",
+              "back": "il est au bar en train de boire"
+            },
+            {
+              "front": "Dogs play on the park grass",
+              "back": "les chiens jouent sur l&#39;herbe du parc"
+            },
+            {
+              "front": "Planes land at the busy airport",
+              "back": "les avions atterrissent à l&#39;aéroport très fréquenté"
+            },
+            {
+              "front": "She works at the hospital today",
+              "back": "elle travaille à l&#39;hôpital aujourd&#39;hui"
+            },
+            {
+              "front": "We meet at the library often",
+              "back": "nous nous rencontrons souvent à la bibliothèque"
+            },
+            {
+              "front": "They shop at the mall",
+              "back": "ils font leurs courses au centre commercial"
+            },
+            {
+              "front": "He eats breakfast at the cafe",
+              "back": "il prend son petit-déjeuner au café"
+            },
+            {
+              "front": "I visit the park frequently",
+              "back": "je visite fréquemment le parc"
+            },
+            {
+              "front": "She studies at the public school",
+              "back": "elle étudie à l&#39;école publique"
+            },
+            {
+              "front": "We walk around the museum exhibits",
+              "back": "nous nous promenons dans les expositions du musée"
+            },
+            {
+              "front": "He exercises at the gym regularly",
+              "back": "il fait régulièrement de l&#39;exercice à la salle de sport"
+            },
+            {
+              "front": "She stays at the luxury hotel",
+              "back": "elle séjourne à l&#39;hôtel de luxe"
+            },
+            {
+              "front": "They dine out at the restaurant",
+              "back": "ils dînent au restaurant"
+            },
+            {
+              "front": "I run laps at the track",
+              "back": "je fais des tours de piste"
+            },
+            {
+              "front": "We visit the animal zoo weekly",
+              "back": "nous visitons le zoo animalier chaque semaine"
+            },
+            {
+              "front": "He arrives early at the airport",
+              "back": "il arrive tôt à l&#39;aéroport"
+            },
+            {
+              "front": "She reads books at the library",
+              "back": "elle lit des livres à la bibliothèque"
+            },
+            {
+              "front": "We relax daily at the beach",
+              "back": "nous nous détendons tous les jours à la plage"
+            },
+            {
+              "front": "He waits patiently at the station",
+              "back": "il attend patiemment à la gare"
+            },
+            {
+              "front": "They park cars at the port",
+              "back": "ils garent les voitures au port"
+            },
+            {
+              "front": "I work daily at the office",
+              "back": "je travaille tous les jours au bureau"
+            },
+            {
+              "front": "She exercises every day at gym",
+              "back": "elle fait de l&#39;exercice tous les jours à la salle de sport"
+            },
+            {
+              "front": "We commute by the subway often",
+              "back": "nous prenons souvent le métro pour nous déplacer"
+            },
+            {
+              "front": "Everyone shops weekly at the market",
+              "back": "tout le monde fait ses courses chaque semaine au marché"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Visited the store", "back": "visité le magasin" },
+            { "front": "Left the station", "back": "quitté la gare" },
+            { "front": "Arrived at port", "back": "arrivé au port" },
+            {
+              "front": "Landed at airport",
+              "back": "atterri à l&#39;aéroport"
+            },
+            { "front": "Used the subway", "back": "utilisé le métro" },
+            { "front": "Enjoyed the park", "back": "apprécié le parc" },
+            { "front": "Entered the museum", "back": "entré dans le musée" },
+            {
+              "front": "Visited the mall",
+              "back": "visité le centre commercial"
+            },
+            { "front": "Swam at beach", "back": "nagé à la plage" },
+            { "front": "Read in library", "back": "lire à la bibliothèque" },
+            {
+              "front": "Entered the hospital",
+              "back": "est entré à l&#39;hôpital"
+            },
+            {
+              "front": "Checked into hotel",
+              "back": "enregistré à l&#39;hôtel"
+            },
+            { "front": "Dined at restaurant", "back": "dîné au restaurant" },
+            { "front": "Visited the cafe", "back": "visité le café" },
+            { "front": "Attended the school", "back": "fréquenté l&#39;école" },
+            { "front": "Worked at office", "back": "travaillé au bureau" },
+            {
+              "front": "Exercised at gym",
+              "back": "fait de l&#39;exercice au gymnase"
+            },
+            { "front": "Prayed at church", "back": "prié à l&#39;église" },
+            { "front": "Watched the theater", "back": "regardé le théâtre" },
+            {
+              "front": "Bought from bakery",
+              "back": "acheté à la boulangerie"
+            },
+            {
+              "front": "Worked in factory",
+              "back": "travaillé dans une usine"
+            },
+            {
+              "front": "Shopped at market",
+              "back": "fait ses courses au marché"
+            },
+            { "front": "Visited the zoo", "back": "visité le zoo" },
+            { "front": "Entered the bar", "back": "est entré dans le bar" },
+            {
+              "front": "Checked into clinic",
+              "back": "enregistré à la clinique"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I visited the store",
+              "back": "j&#39;ai visité le magasin"
+            },
+            { "front": "He left the station", "back": "il a quitté la gare" },
+            {
+              "front": "We arrived at port",
+              "back": "nous sommes arrivés au port"
+            },
+            {
+              "front": "They landed at airport",
+              "back": "ils ont atterri à l&#39;aéroport"
+            },
+            {
+              "front": "I used the subway",
+              "back": "j&#39;ai utilisé le métro"
+            },
+            {
+              "front": "She enjoyed the park",
+              "back": "elle a apprécié le parc"
+            },
+            {
+              "front": "We entered the museum",
+              "back": "nous sommes entrés dans le musée"
+            },
+            {
+              "front": "He visited the mall",
+              "back": "il a visité le centre commercial"
+            },
+            {
+              "front": "They swam at beach",
+              "back": "ils ont nagé à la plage"
+            },
+            {
+              "front": "I read in library",
+              "back": "je lis à la bibliothèque"
+            },
+            {
+              "front": "She entered the hospital",
+              "back": "elle est entrée à l&#39;hôpital"
+            },
+            {
+              "front": "They checked into hotel",
+              "back": "ils se sont enregistrés à l&#39;hôtel"
+            },
+            {
+              "front": "We dined at restaurant",
+              "back": "nous avons dîné au restaurant"
+            },
+            { "front": "He visited the cafe", "back": "il a visité le café" },
+            {
+              "front": "I attended the school",
+              "back": "j&#39;ai fréquenté l&#39;école"
+            },
+            {
+              "front": "She worked at office",
+              "back": "elle travaillait au bureau"
+            },
+            {
+              "front": "We exercised at gym",
+              "back": "nous avons fait de l&#39;exercice à la salle de sport"
+            },
+            {
+              "front": "He prayed at church",
+              "back": "il a prié à l&#39;église"
+            },
+            {
+              "front": "They watched the theater",
+              "back": "ils ont regardé le théâtre"
+            },
+            {
+              "front": "I bought from bakery",
+              "back": "j&#39;ai acheté à la boulangerie"
+            },
+            {
+              "front": "We worked in factory",
+              "back": "nous avons travaillé dans une usine"
+            },
+            {
+              "front": "She shopped at market",
+              "back": "elle a fait ses courses au marché"
+            },
+            { "front": "He visited the zoo", "back": "il a visité le zoo" },
+            {
+              "front": "They entered the bar",
+              "back": "ils sont entrés dans le bar"
+            },
+            {
+              "front": "I checked into clinic",
+              "back": "je me suis enregistré à la clinique"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I worked at the factory",
+              "back": "j&#39;ai travaillé à l&#39;usine"
+            },
+            {
+              "front": "She shopped at the store",
+              "back": "elle a fait du shopping au magasin"
+            },
+            { "front": "We drank at the bar", "back": "nous avons bu au bar" },
+            {
+              "front": "Everyone arrived at the airport",
+              "back": "tout le monde est arrivé à l&#39;aéroport"
+            },
+            {
+              "front": "They stayed at the hotel",
+              "back": "ils sont restés à l&#39;hôtel"
+            },
+            {
+              "front": "He studied at the library",
+              "back": "il a étudié à la bibliothèque"
+            },
+            {
+              "front": "We relaxed on the beach",
+              "back": "nous nous sommes détendus sur la plage"
+            },
+            {
+              "front": "She dined at the restaurant",
+              "back": "elle a dîné au restaurant"
+            },
+            {
+              "front": "He prayed in the church",
+              "back": "il a prié dans l&#39;église"
+            },
+            {
+              "front": "We met at the subway",
+              "back": "nous nous sommes rencontrés dans le métro"
+            },
+            {
+              "front": "I read in the library",
+              "back": "je lis à la bibliothèque"
+            },
+            {
+              "front": "They exercised at the gym",
+              "back": "ils ont fait de l&#39;exercice à la salle de sport"
+            },
+            {
+              "front": "We walked through the museum",
+              "back": "nous avons traversé le musée"
+            },
+            {
+              "front": "He waited at the station",
+              "back": "il a attendu à la gare"
+            },
+            {
+              "front": "I bought bread at bakery",
+              "back": "j&#39;ai acheté du pain à la boulangerie"
+            },
+            {
+              "front": "She worked late at office",
+              "back": "elle a travaillé tard au bureau"
+            },
+            {
+              "front": "They visited the local zoo",
+              "back": "ils ont visité le zoo local"
+            },
+            {
+              "front": "We drove to the market",
+              "back": "nous sommes allés au marché"
+            },
+            {
+              "front": "He ate lunch at school",
+              "back": "il a déjeuné à l&#39;école"
+            },
+            {
+              "front": "She watched a movie theater",
+              "back": "elle a regardé un film"
+            },
+            {
+              "front": "We shopped at the mall",
+              "back": "nous avons fait du shopping au centre commercial"
+            },
+            {
+              "front": "I checked into the clinic",
+              "back": "je me suis enregistré à la clinique"
+            },
+            {
+              "front": "He waited at the port",
+              "back": "il attendait au port"
+            },
+            {
+              "front": "They parked cars at airport",
+              "back": "ils ont garé des voitures à l&#39;aéroport"
+            },
+            {
+              "front": "We worked hard at factory",
+              "back": "nous avons travaillé dur à l&#39;usine"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Everyone arrived at the port today",
+              "back": "tout le monde est arrivé au port aujourd&#39;hui"
+            },
+            {
+              "front": "He worked hard at the factory",
+              "back": "il a travaillé dur à l&#39;usine"
+            },
+            {
+              "front": "I walked to the gas station",
+              "back": "je suis allé à la station-service"
+            },
+            {
+              "front": "She waited patiently at the airport",
+              "back": "elle a attendu patiemment à l&#39;aéroport"
+            },
+            {
+              "front": "We shopped at the busy mall",
+              "back": "nous avons fait du shopping dans le centre commercial très fréquenté"
+            },
+            {
+              "front": "They relaxed on the sandy beach",
+              "back": "ils se sont détendus sur la plage de sable"
+            },
+            {
+              "front": "He prayed quietly in the church",
+              "back": "il a prié tranquillement dans l&#39;église"
+            },
+            {
+              "front": "We dined together at the restaurant",
+              "back": "nous avons dîné ensemble au restaurant"
+            },
+            {
+              "front": "She studied late at the library",
+              "back": "elle a étudié tard à la bibliothèque"
+            },
+            {
+              "front": "I bought fresh bread from bakery",
+              "back": "j&#39;ai acheté du pain frais à la boulangerie"
+            },
+            {
+              "front": "They exercised daily at the gym",
+              "back": "ils faisaient de l&#39;exercice tous les jours à la salle de sport"
+            },
+            {
+              "front": "We met yesterday at the cafe",
+              "back": "nous nous sommes rencontrés hier au café"
+            },
+            {
+              "front": "He parked the car at station",
+              "back": "il a garé la voiture à la gare"
+            },
+            {
+              "front": "She checked into the luxury hotel",
+              "back": "elle s&#39;est enregistrée à l&#39;hôtel de luxe"
+            },
+            {
+              "front": "I visited the local zoo yesterday",
+              "back": "j&#39;ai visité le zoo local hier"
+            },
+            {
+              "front": "We waited for hours at hospital",
+              "back": "nous avons attendu des heures à l&#39;hôpital"
+            },
+            {
+              "front": "They traveled across town by subway",
+              "back": "ils ont traversé la ville en métro"
+            },
+            {
+              "front": "He walked home from the park",
+              "back": "il est rentré du parc à pied"
+            },
+            {
+              "front": "She attended school for the day",
+              "back": "elle est allée à l&#39;école pour la journée"
+            },
+            {
+              "front": "We watched a movie at theater",
+              "back": "nous avons regardé un film au cinéma"
+            },
+            {
+              "front": "I left work early from office",
+              "back": "j&#39;ai quitté le travail plus tôt que prévu"
+            },
+            {
+              "front": "They toured the museum with friends",
+              "back": "ils ont visité le musée avec des amis"
+            },
+            {
+              "front": "We worked overtime at the factory",
+              "back": "nous avons fait des heures supplémentaires à l&#39;usine"
+            },
+            {
+              "front": "He drove quickly to the clinic",
+              "back": "il s&#39;est rendu rapidement à la clinique"
+            },
+            {
+              "front": "I bought flowers at the market",
+              "back": "j&#39;ai acheté des fleurs au marché"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Airport will open", "back": "l&#39;aéroport ouvrira" },
+            { "front": "Market will display", "back": "le marché affichera" },
+            { "front": "Office will close", "back": "le bureau fermera" },
+            { "front": "Will visit zoo", "back": "visiterai le zoo" },
+            { "front": "Store will open", "back": "le magasin ouvrira" },
+            { "front": "Station will close", "back": "la station va fermer" },
+            { "front": "Park will open", "back": "le parc ouvrira" },
+            {
+              "front": "Mall will expand",
+              "back": "le centre commercial va s&#39;agrandir"
+            },
+            { "front": "Cafe will serve", "back": "le café servira" },
+            { "front": "Beach will reopen", "back": "la plage rouvrira" },
+            { "front": "Museum will exhibit", "back": "le musée exposera" },
+            {
+              "front": "Gym will renovate",
+              "back": "salle de sport va être rénovée"
+            },
+            { "front": "Church will host", "back": "l&#39;église accueillera" },
+            {
+              "front": "Hotel will welcome",
+              "back": "l&#39;hôtel accueillera"
+            },
+            { "front": "Subway will operate", "back": "le métro fonctionnera" },
+            { "front": "Bar will reopen", "back": "le bar rouvrira" },
+            {
+              "front": "Port will expand",
+              "back": "le port va s&#39;agrandir"
+            },
+            {
+              "front": "Zoo will improve",
+              "back": "le zoo va s&#39;améliorer"
+            },
+            {
+              "front": "Library will close",
+              "back": "la bibliothèque va fermer"
+            },
+            { "front": "Clinic will help", "back": "la clinique aidera" },
+            { "front": "Factory will produce", "back": "l&#39;usine produira" },
+            { "front": "Theater will play", "back": "le théâtre jouera" },
+            { "front": "Hospital will open", "back": "l&#39;hôpital ouvrira" },
+            {
+              "front": "Restaurant will serve",
+              "back": "le restaurant servira"
+            },
+            { "front": "School will teach", "back": "l&#39;école enseignera" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Hotel will welcome guests",
+              "back": "l&#39;hôtel accueillera les clients"
+            },
+            {
+              "front": "Bar will reopen soon",
+              "back": "le bar rouvrira bientôt"
+            },
+            {
+              "front": "Market will display goods",
+              "back": "le marché exposera des marchandises"
+            },
+            {
+              "front": "Airport will open tomorrow",
+              "back": "l&#39;aéroport ouvrira demain"
+            },
+            {
+              "front": "Office will close early",
+              "back": "le bureau fermera plus tôt"
+            },
+            { "front": "We will visit zoo", "back": "nous visiterons le zoo" },
+            {
+              "front": "Store will open soon",
+              "back": "le magasin ouvrira bientôt"
+            },
+            {
+              "front": "Station will close late",
+              "back": "la station fermera tard"
+            },
+            {
+              "front": "Park will host events",
+              "back": "le parc accueillera des événements"
+            },
+            {
+              "front": "Mall will expand shops",
+              "back": "le centre commercial agrandira ses magasins"
+            },
+            {
+              "front": "Cafe will serve breakfast",
+              "back": "le café servira le petit-déjeuner"
+            },
+            {
+              "front": "Beach will reopen soon",
+              "back": "la plage rouvrira bientôt"
+            },
+            {
+              "front": "Museum will exhibit art",
+              "back": "le musée exposera des œuvres d&#39;art"
+            },
+            {
+              "front": "Gym will renovate equipment",
+              "back": "la salle de sport va rénover ses équipements"
+            },
+            {
+              "front": "Church will host service",
+              "back": "l&#39;église accueillera le service"
+            },
+            {
+              "front": "Subway will operate daily",
+              "back": "le métro fonctionnera tous les jours"
+            },
+            {
+              "front": "Port will expand capacity",
+              "back": "le port augmentera sa capacité"
+            },
+            {
+              "front": "Zoo will improve exhibits",
+              "back": "le zoo améliorera les expositions"
+            },
+            {
+              "front": "Library will close soon",
+              "back": "la bibliothèque fermera bientôt"
+            },
+            {
+              "front": "Clinic will help patients",
+              "back": "la clinique aidera les patients"
+            },
+            {
+              "front": "Factory will produce goods",
+              "back": "l&#39;usine produira des marchandises"
+            },
+            {
+              "front": "Theater will play movies",
+              "back": "le théâtre diffusera des films"
+            },
+            {
+              "front": "Hospital will open soon",
+              "back": "l&#39;hôpital ouvrira bientôt"
+            },
+            {
+              "front": "Restaurant will serve dinner",
+              "back": "le restaurant servira le dîner"
+            },
+            {
+              "front": "School will teach classes",
+              "back": "l&#39;école donnera des cours"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will build a bar",
+              "back": "je vais construire un bar"
+            },
+            {
+              "front": "He will close the office",
+              "back": "il fermera le bureau"
+            },
+            {
+              "front": "Everyone will arrive at airport",
+              "back": "tout le monde arrivera à l&#39;aéroport"
+            },
+            {
+              "front": "I will renovate the gym",
+              "back": "je vais rénover la salle de sport"
+            },
+            {
+              "front": "Pastor will host church service",
+              "back": "le pasteur animera le service religieux"
+            },
+            {
+              "front": "She will reopen the store",
+              "back": "elle rouvrira le magasin"
+            },
+            {
+              "front": "We will visit the zoo",
+              "back": "nous visiterons le zoo"
+            },
+            {
+              "front": "They will expand the market",
+              "back": "ils élargiront le marché"
+            },
+            {
+              "front": "He will visit the museum",
+              "back": "il visitera le musée"
+            },
+            {
+              "front": "I will design a hotel",
+              "back": "je vais concevoir un hôtel"
+            },
+            {
+              "front": "She will organize the clinic",
+              "back": "elle organisera la clinique"
+            },
+            {
+              "front": "We will shop at mall",
+              "back": "nous ferons du shopping au centre commercial"
+            },
+            {
+              "front": "They will study at school",
+              "back": "ils étudieront à l&#39;école"
+            },
+            {
+              "front": "He will manage the factory",
+              "back": "il dirigera l&#39;usine"
+            },
+            {
+              "front": "I will book a flight",
+              "back": "je vais réserver un vol"
+            },
+            {
+              "front": "They will attend theater performance",
+              "back": "ils assisteront à une représentation théâtrale"
+            },
+            {
+              "front": "We will walk in park",
+              "back": "nous marcherons dans le parc"
+            },
+            {
+              "front": "She will serve breakfast cafe",
+              "back": "elle servira le petit-déjeuner au café"
+            },
+            {
+              "front": "I will drive to hospital",
+              "back": "je conduirai jusqu&#39;à l&#39;hôpital"
+            },
+            {
+              "front": "They will clean the restaurant",
+              "back": "ils vont nettoyer le restaurant"
+            },
+            {
+              "front": "He will finish school soon",
+              "back": "il finira bientôt l&#39;école"
+            },
+            {
+              "front": "We will work at office",
+              "back": "nous travaillerons au bureau"
+            },
+            {
+              "front": "She will close the bakery",
+              "back": "elle fermera la boulangerie"
+            },
+            {
+              "front": "I will visit the library",
+              "back": "je visiterai la bibliothèque"
+            },
+            {
+              "front": "They will prepare the airport",
+              "back": "ils prépareront l&#39;aéroport"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will build a bar",
+              "back": "je vais construire un bar"
+            },
+            {
+              "front": "He will close the office",
+              "back": "il fermera le bureau"
+            },
+            {
+              "front": "Everyone will arrive at airport",
+              "back": "tout le monde arrivera à l&#39;aéroport"
+            },
+            {
+              "front": "I will renovate the gym",
+              "back": "je vais rénover la salle de sport"
+            },
+            {
+              "front": "Pastor will host church service",
+              "back": "le pasteur animera le service religieux"
+            },
+            {
+              "front": "She will reopen the store",
+              "back": "elle rouvrira le magasin"
+            },
+            {
+              "front": "We will visit the zoo",
+              "back": "nous visiterons le zoo"
+            },
+            {
+              "front": "They will expand the market",
+              "back": "ils élargiront le marché"
+            },
+            {
+              "front": "He will visit the museum",
+              "back": "il visitera le musée"
+            },
+            {
+              "front": "I will design a hotel",
+              "back": "je vais concevoir un hôtel"
+            },
+            {
+              "front": "She will organize the clinic",
+              "back": "elle organisera la clinique"
+            },
+            {
+              "front": "We will shop at mall",
+              "back": "nous ferons du shopping au centre commercial"
+            },
+            {
+              "front": "They will study at school",
+              "back": "ils étudieront à l&#39;école"
+            },
+            {
+              "front": "He will manage the factory",
+              "back": "il dirigera l&#39;usine"
+            },
+            {
+              "front": "I will book a flight",
+              "back": "je vais réserver un vol"
+            },
+            {
+              "front": "They will attend theater performance",
+              "back": "ils assisteront à une représentation théâtrale"
+            },
+            {
+              "front": "We will walk in park",
+              "back": "nous marcherons dans le parc"
+            },
+            {
+              "front": "She will serve breakfast cafe",
+              "back": "elle servira le petit-déjeuner au café"
+            },
+            {
+              "front": "I will drive to hospital",
+              "back": "je conduirai jusqu&#39;à l&#39;hôpital"
+            },
+            {
+              "front": "They will clean the restaurant",
+              "back": "ils vont nettoyer le restaurant"
+            },
+            {
+              "front": "He will finish school soon",
+              "back": "il finira bientôt l&#39;école"
+            },
+            {
+              "front": "We will work at office",
+              "back": "nous travaillerons au bureau"
+            },
+            {
+              "front": "She will close the bakery",
+              "back": "elle fermera la boulangerie"
+            },
+            {
+              "front": "I will visit the library",
+              "back": "je visiterai la bibliothèque"
+            },
+            {
+              "front": "They will prepare the airport",
+              "back": "ils prépareront l&#39;aéroport"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

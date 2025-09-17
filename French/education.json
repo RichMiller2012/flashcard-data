@@ -1,0 +1,1400 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Education",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "School", "back": "école" },
+            { "front": "Teacher", "back": "professeur" },
+            { "front": "Classroom", "back": "classe" },
+            { "front": "Homework", "back": "devoirs" },
+            { "front": "Lecture", "back": "conférence" },
+            { "front": "Student", "back": "étudiant" },
+            { "front": "Curriculum", "back": "programme d&#39;études" },
+            { "front": "Exam", "back": "examen" },
+            { "front": "Textbook", "back": "manuel" },
+            { "front": "Library", "back": "bibliothèque" },
+            { "front": "Assignment", "back": "affectation" },
+            { "front": "Grade", "back": "grade" },
+            { "front": "Diploma", "back": "diplôme" },
+            { "front": "University", "back": "université" },
+            { "front": "College", "back": "collège" },
+            { "front": "Course", "back": "cours" },
+            { "front": "Subject", "back": "sujet" },
+            { "front": "Notebook", "back": "carnet de notes" },
+            { "front": "Seminar", "back": "séminaire" },
+            { "front": "Study", "back": "étude" },
+            { "front": "Graduation", "back": "graduation" },
+            { "front": "Principal", "back": "principal" },
+            { "front": "Education", "back": "éducation" },
+            { "front": "Blackboard", "back": "tableau noir" },
+            { "front": "Syllabus", "back": "programme" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Attend class", "back": "assister aux cours" },
+            { "front": "Study hard", "back": "étudier dur" },
+            { "front": "Read textbook", "back": "lire un manuel" },
+            { "front": "Take notes", "back": "prendre des notes" },
+            { "front": "Ask questions", "back": "poser des questions" },
+            { "front": "Complete assignments", "back": "terminer les devoirs" },
+            { "front": "Write essays", "back": "rédiger des essais" },
+            {
+              "front": "Participate actively",
+              "back": "participer activement"
+            },
+            { "front": "Listen attentively", "back": "écoutez attentivement" },
+            {
+              "front": "Understand concepts",
+              "back": "comprendre les concepts"
+            },
+            { "front": "Review materials", "back": "documents de révision" },
+            { "front": "Submit homework", "back": "soumettre les devoirs" },
+            { "front": "Learn vocabulary", "back": "apprendre du vocabulaire" },
+            { "front": "Solve problems", "back": "résoudre des problèmes" },
+            {
+              "front": "Join study group",
+              "back": "rejoindre un groupe d&#39;étude"
+            },
+            { "front": "Attend lecture", "back": "assister à une conférence" },
+            { "front": "Conduct research", "back": "mener des recherches" },
+            {
+              "front": "Prepare presentations",
+              "back": "préparer des présentations"
+            },
+            { "front": "Manage time", "back": "gérer le temps" },
+            {
+              "front": "Participate discussion",
+              "back": "participer à la discussion"
+            },
+            { "front": "Explore topics", "back": "explorer les sujets" },
+            { "front": "Analyze data", "back": "analyser les données" },
+            { "front": "Present findings", "back": "résultats actuels" },
+            { "front": "Review notes", "back": "notes de révision" },
+            {
+              "front": "Understand theories",
+              "back": "comprendre les théories"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I attend class", "back": "je vais en cours" },
+            { "front": "He studies hard", "back": "il étudie dur" },
+            { "front": "She reads textbook", "back": "elle lit un manuel" },
+            { "front": "They take notes", "back": "ils prennent des notes" },
+            {
+              "front": "We ask questions",
+              "back": "nous posons des questions"
+            },
+            {
+              "front": "You complete assignments",
+              "back": "vous accomplissez des devoirs"
+            },
+            { "front": "I write essays", "back": "j&#39;écris des essais" },
+            {
+              "front": "He participates actively",
+              "back": "il participe activement"
+            },
+            {
+              "front": "She listens attentively",
+              "back": "elle écoute attentivement"
+            },
+            {
+              "front": "They understand concepts",
+              "back": "ils comprennent les concepts"
+            },
+            {
+              "front": "We review materials",
+              "back": "nous examinons les matériaux"
+            },
+            {
+              "front": "You submit homework",
+              "back": "vous soumettez des devoirs"
+            },
+            {
+              "front": "I learn vocabulary",
+              "back": "j&#39;apprends du vocabulaire"
+            },
+            {
+              "front": "He solves problems",
+              "back": "il résout les problèmes"
+            },
+            {
+              "front": "She joins study group",
+              "back": "elle rejoint un groupe d&#39;étude"
+            },
+            {
+              "front": "They attend lecture",
+              "back": "ils assistent à une conférence"
+            },
+            {
+              "front": "We conduct research",
+              "back": "nous menons des recherches"
+            },
+            {
+              "front": "You prepare presentations",
+              "back": "vous préparez des présentations"
+            },
+            { "front": "I manage time", "back": "je gère le temps" },
+            {
+              "front": "He participates in discussions",
+              "back": "il participe aux discussions"
+            },
+            {
+              "front": "She explores topics",
+              "back": "elle explore des sujets"
+            },
+            {
+              "front": "They analyze data",
+              "back": "ils analysent les données"
+            },
+            {
+              "front": "We present findings",
+              "back": "nous présentons les résultats"
+            },
+            { "front": "You review notes", "back": "vous révisez les notes" },
+            {
+              "front": "I understand theories",
+              "back": "je comprends les théories"
+            },
+            { "front": "He attends classes", "back": "il assiste aux cours" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I attend morning classes",
+              "back": "j&#39;assiste aux cours du matin"
+            },
+            {
+              "front": "He studies math diligently",
+              "back": "il étudie les mathématiques avec diligence"
+            },
+            {
+              "front": "She reads science textbooks",
+              "back": "elle lit des manuels scientifiques"
+            },
+            {
+              "front": "They take detailed notes",
+              "back": "ils prennent des notes détaillées"
+            },
+            {
+              "front": "We ask insightful questions",
+              "back": "nous posons des questions pertinentes"
+            },
+            {
+              "front": "You complete assignments promptly",
+              "back": "vous terminez les tâches rapidement"
+            },
+            {
+              "front": "I write research essays",
+              "back": "j&#39;écris des essais de recherche"
+            },
+            {
+              "front": "He participates actively in class",
+              "back": "il participe activement en classe"
+            },
+            {
+              "front": "She listens attentively to lectures",
+              "back": "elle écoute attentivement les cours"
+            },
+            {
+              "front": "They understand complex concepts",
+              "back": "ils comprennent des concepts complexes"
+            },
+            {
+              "front": "We review study materials",
+              "back": "nous examinons le matériel d&#39;étude"
+            },
+            {
+              "front": "You submit homework assignments",
+              "back": "vous soumettez des devoirs"
+            },
+            {
+              "front": "I learn new vocabulary",
+              "back": "j&#39;apprends du nouveau vocabulaire"
+            },
+            {
+              "front": "He solves challenging problems",
+              "back": "il résout des problèmes difficiles"
+            },
+            {
+              "front": "She joins the study group",
+              "back": "elle rejoint le groupe d&#39;étude"
+            },
+            {
+              "front": "They attend evening lectures",
+              "back": "ils assistent à des cours du soir"
+            },
+            {
+              "front": "We conduct extensive research",
+              "back": "nous menons des recherches approfondies"
+            },
+            {
+              "front": "You prepare informative presentations",
+              "back": "vous préparez des présentations informatives"
+            },
+            { "front": "I manage my time", "back": "je gère mon temps" },
+            {
+              "front": "He participates in discussions",
+              "back": "il participe aux discussions"
+            },
+            {
+              "front": "She explores various topics",
+              "back": "elle explore divers sujets"
+            },
+            {
+              "front": "They analyze the data",
+              "back": "ils analysent les données"
+            },
+            {
+              "front": "We present our findings",
+              "back": "nous présentons nos conclusions"
+            },
+            {
+              "front": "You review your notes",
+              "back": "vous révisez vos notes"
+            },
+            {
+              "front": "I understand theoretical concepts",
+              "back": "je comprends les concepts théoriques"
+            },
+            {
+              "front": "He attends all classes",
+              "back": "il assiste à tous les cours"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I attend morning classes regularly",
+              "back": "j&#39;assiste régulièrement aux cours du matin"
+            },
+            {
+              "front": "He studies mathematics diligently every day",
+              "back": "il étudie les mathématiques avec diligence tous les jours"
+            },
+            {
+              "front": "She reads science textbooks thoroughly",
+              "back": "elle lit attentivement les manuels scientifiques"
+            },
+            {
+              "front": "They take detailed notes daily",
+              "back": "ils prennent des notes détaillées quotidiennement"
+            },
+            {
+              "front": "We ask insightful questions during lectures",
+              "back": "nous posons des questions pertinentes pendant les cours"
+            },
+            {
+              "front": "You complete assignments on time",
+              "back": "vous terminez vos devoirs à temps"
+            },
+            {
+              "front": "I write research essays effectively",
+              "back": "j&#39;écris des essais de recherche efficacement"
+            },
+            {
+              "front": "He participates actively in discussions",
+              "back": "il participe activement aux discussions"
+            },
+            {
+              "front": "She listens attentively to lectures",
+              "back": "elle écoute attentivement les cours"
+            },
+            {
+              "front": "They understand complex scientific concepts",
+              "back": "ils comprennent des concepts scientifiques complexes"
+            },
+            {
+              "front": "We review study materials regularly",
+              "back": "nous révisons régulièrement le matériel d&#39;étude"
+            },
+            {
+              "front": "You submit homework assignments promptly",
+              "back": "vous soumettez vos devoirs rapidement"
+            },
+            {
+              "front": "I learn new vocabulary words",
+              "back": "j&#39;apprends de nouveaux mots de vocabulaire"
+            },
+            {
+              "front": "He solves challenging mathematical problems",
+              "back": "il résout des problèmes mathématiques difficiles"
+            },
+            {
+              "front": "She joins the study group",
+              "back": "elle rejoint le groupe d&#39;étude"
+            },
+            {
+              "front": "They attend evening lectures regularly",
+              "back": "ils assistent régulièrement aux cours du soir"
+            },
+            {
+              "front": "We conduct extensive research projects",
+              "back": "nous menons des projets de recherche approfondis"
+            },
+            {
+              "front": "You prepare informative presentations effectively",
+              "back": "vous préparez efficacement des présentations informatives"
+            },
+            {
+              "front": "I manage my study time",
+              "back": "je gère mon temps d&#39;étude"
+            },
+            {
+              "front": "He participates in class discussions",
+              "back": "il participe aux discussions en classe"
+            },
+            {
+              "front": "She explores various academic topics",
+              "back": "elle explore divers sujets académiques"
+            },
+            {
+              "front": "They analyze the collected data",
+              "back": "ils analysent les données collectées"
+            },
+            {
+              "front": "We present our findings clearly",
+              "back": "nous présentons clairement nos résultats"
+            },
+            {
+              "front": "You review your lecture notes",
+              "back": "vous révisez vos notes de cours"
+            },
+            {
+              "front": "I understand theoretical physics concepts",
+              "back": "je comprends les concepts de physique théorique"
+            },
+            {
+              "front": "He attends all scheduled classes",
+              "back": "il assiste à tous les cours prévus"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I attend morning classes every day",
+              "back": "je participe aux cours du matin tous les jours"
+            },
+            {
+              "front": "He studies mathematics diligently each semester",
+              "back": "il étudie les mathématiques avec diligence chaque semestre"
+            },
+            {
+              "front": "She reads science textbooks every night",
+              "back": "elle lit des manuels scientifiques tous les soirs"
+            },
+            {
+              "front": "They take detailed notes during lectures",
+              "back": "ils prennent des notes détaillées pendant les cours"
+            },
+            {
+              "front": "We ask insightful questions in class",
+              "back": "nous posons des questions pertinentes en classe"
+            },
+            {
+              "front": "You complete assignments before deadlines",
+              "back": "vous terminez les devoirs avant les délais"
+            },
+            {
+              "front": "I write research essays effectively",
+              "back": "j&#39;écris des essais de recherche efficacement"
+            },
+            {
+              "front": "He participates actively in all discussions",
+              "back": "il participe activement à toutes les discussions"
+            },
+            {
+              "front": "She listens attentively to every lecture",
+              "back": "elle écoute attentivement chaque conférence"
+            },
+            {
+              "front": "They understand complex scientific concepts well",
+              "back": "ils comprennent bien les concepts scientifiques complexes"
+            },
+            {
+              "front": "We review study materials regularly",
+              "back": "nous révisons régulièrement le matériel d&#39;étude"
+            },
+            {
+              "front": "You submit homework assignments promptly",
+              "back": "vous soumettez vos devoirs rapidement"
+            },
+            {
+              "front": "I learn new vocabulary words daily",
+              "back": "j&#39;apprends de nouveaux mots de vocabulaire tous les jours"
+            },
+            {
+              "front": "He solves challenging mathematical problems efficiently",
+              "back": "il résout efficacement les problèmes mathématiques difficiles"
+            },
+            {
+              "front": "She joins the study group often",
+              "back": "elle rejoint souvent le groupe d&#39;étude"
+            },
+            {
+              "front": "They attend evening lectures regularly",
+              "back": "ils assistent régulièrement aux cours du soir"
+            },
+            {
+              "front": "We conduct extensive research projects together",
+              "back": "nous menons ensemble de vastes projets de recherche"
+            },
+            {
+              "front": "You prepare informative presentations effectively",
+              "back": "vous préparez efficacement des présentations informatives"
+            },
+            {
+              "front": "I manage my study time well",
+              "back": "je gère bien mon temps d&#39;étude"
+            },
+            {
+              "front": "He participates in class discussions actively",
+              "back": "il participe activement aux discussions en classe"
+            },
+            {
+              "front": "She explores various academic topics deeply",
+              "back": "elle explore en profondeur divers sujets académiques"
+            },
+            {
+              "front": "They analyze the collected data thoroughly",
+              "back": "ils analysent minutieusement les données collectées"
+            },
+            {
+              "front": "We present our findings clearly",
+              "back": "nous présentons clairement nos résultats"
+            },
+            {
+              "front": "You review your lecture notes carefully",
+              "back": "vous relisez attentivement vos notes de cours"
+            },
+            {
+              "front": "I understand theoretical physics concepts well",
+              "back": "je comprends bien les concepts de physique théorique"
+            },
+            {
+              "front": "He attends all scheduled classes diligently",
+              "back": "il assiste assidûment à tous les cours prévus"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Attended class", "back": "assisté aux cours" },
+            { "front": "Studied hard", "back": "étudié dur" },
+            { "front": "Read textbook", "back": "lire un manuel" },
+            { "front": "Took exam", "back": "passé l&#39;examen" },
+            { "front": "Wrote essay", "back": "a écrit un essai" },
+            { "front": "Completed homework", "back": "devoirs terminés" },
+            { "front": "Joined study", "back": "étude conjointe" },
+            { "front": "Presented project", "back": "projet présenté" },
+            { "front": "Passed test", "back": "test réussi" },
+            { "front": "Reviewed notes", "back": "notes révisées" },
+            { "front": "Listened lecture", "back": "écouté la conférence" },
+            { "front": "Asked questions", "back": "questions posées" },
+            {
+              "front": "Prepared presentation",
+              "back": "présentation préparée"
+            },
+            { "front": "Managed time", "back": "temps géré" },
+            { "front": "Explored topics", "back": "sujets explorés" },
+            { "front": "Analyzed data", "back": "données analysées" },
+            { "front": "Solved problems", "back": "problèmes résolus" },
+            { "front": "Conducted research", "back": "recherches menées" },
+            { "front": "Explained concept", "back": "concept expliqué" },
+            { "front": "Summarized chapter", "back": "chapitre résumé" },
+            { "front": "Completed assignment", "back": "mission terminée" },
+            { "front": "Reviewed material", "back": "matériel révisé" },
+            {
+              "front": "Participated discussion",
+              "back": "discussion participée"
+            },
+            { "front": "Handed in work", "back": "travail remis" },
+            { "front": "Attended seminar", "back": "assisté à un séminaire" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I attended class",
+              "back": "j&#39;ai assisté au cours"
+            },
+            { "front": "He studied hard", "back": "il a étudié dur" },
+            { "front": "She read textbook", "back": "elle a lu un manuel" },
+            { "front": "They took exam", "back": "ils ont passé l&#39;examen" },
+            { "front": "We wrote essay", "back": "nous avons écrit un essai" },
+            {
+              "front": "You completed homework",
+              "back": "tu as terminé tes devoirs"
+            },
+            {
+              "front": "I joined study group",
+              "back": "j&#39;ai rejoint un groupe d&#39;étude"
+            },
+            {
+              "front": "He presented project",
+              "back": "il a présenté le projet"
+            },
+            { "front": "She passed test", "back": "elle a réussi le test" },
+            {
+              "front": "They reviewed notes",
+              "back": "ils ont examiné les notes"
+            },
+            {
+              "front": "We listened lecture",
+              "back": "nous avons écouté la conférence"
+            },
+            {
+              "front": "You asked questions",
+              "back": "vous avez posé des questions"
+            },
+            {
+              "front": "I prepared presentation",
+              "back": "j&#39;ai préparé une présentation"
+            },
+            {
+              "front": "He managed time",
+              "back": "il a réussi à gagner du temps"
+            },
+            {
+              "front": "She explored topics",
+              "back": "elle a exploré des sujets"
+            },
+            {
+              "front": "They analyzed data",
+              "back": "ils ont analysé les données"
+            },
+            {
+              "front": "We solved problems",
+              "back": "nous avons résolu des problèmes"
+            },
+            {
+              "front": "You conducted research",
+              "back": "vous avez mené des recherches"
+            },
+            {
+              "front": "I explained concept",
+              "back": "j&#39;ai expliqué le concept"
+            },
+            {
+              "front": "He summarized chapter",
+              "back": "il a résumé le chapitre"
+            },
+            {
+              "front": "She completed assignment",
+              "back": "elle a terminé sa mission"
+            },
+            {
+              "front": "They reviewed material",
+              "back": "ils ont examiné le matériel"
+            },
+            {
+              "front": "We participated discussion",
+              "back": "nous avons participé à la discussion"
+            },
+            {
+              "front": "You handed in work",
+              "back": "tu as remis ton travail"
+            },
+            {
+              "front": "I attended seminar",
+              "back": "j&#39;ai assisté à un séminaire"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I attended morning classes",
+              "back": "j&#39;ai assisté aux cours du matin"
+            },
+            {
+              "front": "He studied mathematics diligently",
+              "back": "il a étudié les mathématiques avec diligence"
+            },
+            { "front": "She read the textbook", "back": "elle a lu le manuel" },
+            {
+              "front": "They took the exam",
+              "back": "ils ont passé l&#39;examen"
+            },
+            {
+              "front": "We wrote a comprehensive essay",
+              "back": "nous avons écrit un essai complet"
+            },
+            {
+              "front": "You completed your homework",
+              "back": "tu as fini tes devoirs"
+            },
+            {
+              "front": "I joined the study group",
+              "back": "j&#39;ai rejoint le groupe d&#39;étude"
+            },
+            {
+              "front": "He presented the project",
+              "back": "il a présenté le projet"
+            },
+            { "front": "She passed the test", "back": "elle a réussi le test" },
+            {
+              "front": "They reviewed their notes",
+              "back": "ils ont révisé leurs notes"
+            },
+            {
+              "front": "We listened to lecture",
+              "back": "nous avons écouté une conférence"
+            },
+            {
+              "front": "You asked insightful questions",
+              "back": "vous avez posé des questions perspicaces"
+            },
+            {
+              "front": "I prepared the presentation",
+              "back": "j&#39;ai préparé la présentation"
+            },
+            { "front": "He managed his time", "back": "il a géré son temps" },
+            {
+              "front": "She explored various topics",
+              "back": "elle a exploré divers sujets"
+            },
+            {
+              "front": "They analyzed the data",
+              "back": "ils ont analysé les données"
+            },
+            {
+              "front": "We solved challenging problems",
+              "back": "nous avons résolu des problèmes difficiles"
+            },
+            {
+              "front": "You conducted the research",
+              "back": "vous avez mené la recherche"
+            },
+            {
+              "front": "I explained the concept",
+              "back": "j&#39;ai expliqué le concept"
+            },
+            {
+              "front": "He summarized the chapter",
+              "back": "il a résumé le chapitre"
+            },
+            {
+              "front": "She completed the assignment",
+              "back": "elle a terminé la mission"
+            },
+            {
+              "front": "They reviewed the material",
+              "back": "ils ont examiné le matériel"
+            },
+            {
+              "front": "We participated in discussion",
+              "back": "nous avons participé à la discussion"
+            },
+            {
+              "front": "You handed in the work",
+              "back": "tu as remis le travail"
+            },
+            {
+              "front": "I attended the seminar",
+              "back": "j&#39;ai assisté au séminaire"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I attended morning classes yesterday",
+              "back": "j&#39;ai assisté aux cours du matin hier"
+            },
+            {
+              "front": "He studied mathematics last night",
+              "back": "il a étudié les mathématiques hier soir"
+            },
+            {
+              "front": "She read the textbook thoroughly",
+              "back": "elle a lu le manuel attentivement"
+            },
+            {
+              "front": "They took the final exam",
+              "back": "ils ont passé l&#39;examen final"
+            },
+            {
+              "front": "We wrote a comprehensive essay",
+              "back": "nous avons écrit un essai complet"
+            },
+            {
+              "front": "You completed your homework on time",
+              "back": "tu as fini tes devoirs à temps"
+            },
+            {
+              "front": "I joined the study group",
+              "back": "j&#39;ai rejoint le groupe d&#39;étude"
+            },
+            {
+              "front": "He presented his project successfully",
+              "back": "il a présenté son projet avec succès"
+            },
+            {
+              "front": "She passed the difficult test",
+              "back": "elle a réussi le test difficile"
+            },
+            {
+              "front": "They reviewed their class notes",
+              "back": "ils ont révisé leurs notes de cours"
+            },
+            {
+              "front": "We listened to the lecture",
+              "back": "nous avons écouté la conférence"
+            },
+            {
+              "front": "You asked insightful questions today",
+              "back": "vous avez posé des questions pertinentes aujourd&#39;hui"
+            },
+            {
+              "front": "I prepared the presentation diligently",
+              "back": "j&#39;ai préparé la présentation avec diligence"
+            },
+            {
+              "front": "He managed his study time",
+              "back": "il a géré son temps d&#39;étude"
+            },
+            {
+              "front": "She explored various academic topics",
+              "back": "elle a exploré divers sujets académiques"
+            },
+            {
+              "front": "They analyzed the collected data",
+              "back": "ils ont analysé les données collectées"
+            },
+            {
+              "front": "We solved the challenging problems",
+              "back": "nous avons résolu les problèmes difficiles"
+            },
+            {
+              "front": "You conducted the research project",
+              "back": "vous avez mené le projet de recherche"
+            },
+            {
+              "front": "I explained the complex concept",
+              "back": "j&#39;ai expliqué le concept complexe"
+            },
+            {
+              "front": "He summarized the entire chapter",
+              "back": "il a résumé tout le chapitre"
+            },
+            {
+              "front": "She completed the assignment promptly",
+              "back": "elle a terminé la mission rapidement"
+            },
+            {
+              "front": "They reviewed the study material",
+              "back": "ils ont examiné le matériel d&#39;étude"
+            },
+            {
+              "front": "We participated in the discussion",
+              "back": "nous avons participé à la discussion"
+            },
+            {
+              "front": "You handed in your work",
+              "back": "tu as remis ton travail"
+            },
+            {
+              "front": "I attended the educational seminar",
+              "back": "j&#39;ai assisté au séminaire éducatif"
+            },
+            {
+              "front": "He completed his thesis successfully",
+              "back": "il a terminé sa thèse avec succès"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I attended morning classes yesterday morning",
+              "back": "j&#39;ai assisté aux cours du matin hier matin"
+            },
+            {
+              "front": "He studied mathematics diligently last semester",
+              "back": "il a étudié les mathématiques avec diligence le semestre dernier"
+            },
+            {
+              "front": "She read the textbook thoroughly last night",
+              "back": "elle a lu le manuel attentivement hier soir"
+            },
+            {
+              "front": "They took the final exam yesterday",
+              "back": "ils ont passé l&#39;examen final hier"
+            },
+            {
+              "front": "We wrote a comprehensive essay yesterday",
+              "back": "nous avons écrit un essai complet hier"
+            },
+            {
+              "front": "You completed your homework on time",
+              "back": "tu as fini tes devoirs à temps"
+            },
+            {
+              "front": "I joined the study group last week",
+              "back": "j&#39;ai rejoint le groupe d&#39;étude la semaine dernière"
+            },
+            {
+              "front": "He presented his project successfully yesterday",
+              "back": "il a présenté son projet avec succès hier"
+            },
+            {
+              "front": "She passed the difficult test last week",
+              "back": "elle a réussi le test difficile la semaine dernière"
+            },
+            {
+              "front": "They reviewed their class notes yesterday",
+              "back": "ils ont révisé leurs notes de cours hier"
+            },
+            {
+              "front": "We listened to the lecture attentively",
+              "back": "nous avons écouté la conférence attentivement"
+            },
+            {
+              "front": "You asked insightful questions during class",
+              "back": "vous avez posé des questions pertinentes pendant le cours"
+            },
+            {
+              "front": "I prepared the presentation diligently yesterday",
+              "back": "j&#39;ai préparé la présentation avec diligence hier"
+            },
+            {
+              "front": "He managed his study time effectively",
+              "back": "il a géré son temps d&#39;étude efficacement"
+            },
+            {
+              "front": "She explored various academic topics yesterday",
+              "back": "elle a exploré divers sujets académiques hier"
+            },
+            {
+              "front": "They analyzed the collected data thoroughly",
+              "back": "ils ont analysé minutieusement les données collectées"
+            },
+            {
+              "front": "We solved the challenging problems yesterday",
+              "back": "nous avons résolu les problèmes difficiles hier"
+            },
+            {
+              "front": "You conducted the research project successfully",
+              "back": "vous avez mené le projet de recherche avec succès"
+            },
+            {
+              "front": "I explained the complex concept clearly",
+              "back": "j&#39;ai expliqué clairement le concept complexe"
+            },
+            {
+              "front": "He summarized the entire chapter yesterday",
+              "back": "il a résumé tout le chapitre hier"
+            },
+            {
+              "front": "She completed the assignment promptly yesterday",
+              "back": "elle a terminé le devoir rapidement hier"
+            },
+            {
+              "front": "They reviewed the study material thoroughly",
+              "back": "ils ont examiné le matériel d&#39;étude en profondeur"
+            },
+            {
+              "front": "We participated in the discussion actively",
+              "back": "nous avons participé activement à la discussion"
+            },
+            {
+              "front": "You handed in your work yesterday",
+              "back": "tu as rendu ton travail hier"
+            },
+            {
+              "front": "I attended the educational seminar yesterday",
+              "back": "j&#39;ai assisté au séminaire éducatif hier"
+            },
+            {
+              "front": "He completed his thesis successfully yesterday",
+              "back": "il a terminé sa thèse avec succès hier"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I will study", "back": "j&#39;étudierai" },
+            { "front": "He will teach", "back": "il enseignera" },
+            { "front": "She will learn", "back": "elle apprendra" },
+            { "front": "They will graduate", "back": "ils seront diplômés" },
+            { "front": "We will explore", "back": "nous allons explorer" },
+            { "front": "You will enroll", "back": "tu t&#39;inscriras" },
+            { "front": "I will attend", "back": "je serai présent" },
+            { "front": "He will research", "back": "il fera des recherches" },
+            { "front": "She will present", "back": "elle présentera" },
+            { "front": "They will participate", "back": "ils participeront" },
+            { "front": "We will collaborate", "back": "nous collaborerons" },
+            { "front": "You will submit", "back": "tu soumettras" },
+            { "front": "I will revise", "back": "je vais réviser" },
+            { "front": "He will mentor", "back": "il sera le mentor" },
+            { "front": "She will teach", "back": "elle enseignera" },
+            { "front": "They will attend", "back": "ils assisteront" },
+            { "front": "We will discuss", "back": "nous discuterons" },
+            { "front": "You will learn", "back": "tu apprendras" },
+            { "front": "I will analyze", "back": "je vais analyser" },
+            { "front": "He will write", "back": "il écrira" },
+            { "front": "She will grade", "back": "elle va noter" },
+            {
+              "front": "They will tutor",
+              "back": "ils donneront des cours particuliers"
+            },
+            { "front": "We will prepare", "back": "nous préparerons" },
+            { "front": "You will teach", "back": "tu enseigneras" },
+            { "front": "I will develop", "back": "je vais développer" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will attend class",
+              "back": "j&#39;assisterai au cours"
+            },
+            {
+              "front": "He will teach math",
+              "back": "il enseignera les mathématiques"
+            },
+            {
+              "front": "She will learn biology",
+              "back": "elle apprendra la biologie"
+            },
+            {
+              "front": "They will graduate next",
+              "back": "ils seront diplômés ensuite"
+            },
+            {
+              "front": "We will explore subjects",
+              "back": "nous explorerons des sujets"
+            },
+            { "front": "You will enroll in", "back": "vous vous inscrirez à" },
+            {
+              "front": "I will conduct research",
+              "back": "je vais mener des recherches"
+            },
+            {
+              "front": "He will present findings",
+              "back": "il présentera les conclusions"
+            },
+            {
+              "front": "She will participate actively",
+              "back": "elle participera activement"
+            },
+            {
+              "front": "They will collaborate on projects",
+              "back": "ils collaboreront sur des projets"
+            },
+            {
+              "front": "We will submit assignments",
+              "back": "nous soumettrons des devoirs"
+            },
+            {
+              "front": "You will revise chapters",
+              "back": "vous réviserez les chapitres"
+            },
+            {
+              "front": "I will mentor students",
+              "back": "je vais encadrer des étudiants"
+            },
+            {
+              "front": "He will teach literature",
+              "back": "il enseignera la littérature"
+            },
+            {
+              "front": "She will attend seminars",
+              "back": "elle assistera à des séminaires"
+            },
+            {
+              "front": "They will discuss topics",
+              "back": "ils discuteront de sujets"
+            },
+            {
+              "front": "We will learn concepts",
+              "back": "nous apprendrons des concepts"
+            },
+            {
+              "front": "You will analyze data",
+              "back": "vous analyserez les données"
+            },
+            {
+              "front": "I will write paper",
+              "back": "j&#39;écrirai un article"
+            },
+            { "front": "He will grade exams", "back": "il notera les examens" },
+            {
+              "front": "She will tutor peers",
+              "back": "elle donnera des cours particuliers à ses pairs"
+            },
+            {
+              "front": "They will prepare presentations",
+              "back": "ils prépareront des présentations"
+            },
+            {
+              "front": "We will teach classes",
+              "back": "nous donnerons des cours"
+            },
+            {
+              "front": "You will develop curriculum",
+              "back": "vous développerez un programme d&#39;études"
+            },
+            {
+              "front": "I will review notes",
+              "back": "je vais revoir les notes"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will attend morning classes",
+              "back": "j&#39;assisterai aux cours du matin"
+            },
+            {
+              "front": "He will study mathematics diligently",
+              "back": "il étudiera les mathématiques avec diligence"
+            },
+            {
+              "front": "She will learn biology thoroughly",
+              "back": "elle apprendra la biologie à fond"
+            },
+            {
+              "front": "They will graduate next semester",
+              "back": "ils seront diplômés le semestre prochain"
+            },
+            {
+              "front": "We will explore new topics",
+              "back": "nous explorerons de nouveaux sujets"
+            },
+            {
+              "front": "You will enroll in courses",
+              "back": "vous vous inscrirez à des cours"
+            },
+            {
+              "front": "I will conduct research projects",
+              "back": "je mènerai des projets de recherche"
+            },
+            {
+              "front": "He will present his findings",
+              "back": "il présentera ses conclusions"
+            },
+            {
+              "front": "She will participate in discussions",
+              "back": "elle participera aux discussions"
+            },
+            {
+              "front": "They will collaborate on assignments",
+              "back": "ils collaboreront sur des missions"
+            },
+            {
+              "front": "We will submit our assignments",
+              "back": "nous soumettrons nos devoirs"
+            },
+            {
+              "front": "You will revise chapters regularly",
+              "back": "vous réviserez les chapitres régulièrement"
+            },
+            {
+              "front": "I will mentor new students",
+              "back": "je vais encadrer les nouveaux étudiants"
+            },
+            {
+              "front": "He will teach literature courses",
+              "back": "il donnera des cours de littérature"
+            },
+            {
+              "front": "She will attend academic seminars",
+              "back": "elle assistera à des séminaires universitaires"
+            },
+            {
+              "front": "They will discuss project ideas",
+              "back": "ils discuteront d&#39;idées de projets"
+            },
+            {
+              "front": "We will learn theoretical concepts",
+              "back": "nous apprendrons des concepts théoriques"
+            },
+            {
+              "front": "You will analyze collected data",
+              "back": "vous analyserez les données collectées"
+            },
+            {
+              "front": "I will write research papers",
+              "back": "j&#39;écrirai des articles de recherche"
+            },
+            {
+              "front": "He will grade student exams",
+              "back": "il notera les examens des étudiants"
+            },
+            {
+              "front": "She will tutor her peers",
+              "back": "elle donnera des cours particuliers à ses pairs"
+            },
+            {
+              "front": "They will prepare presentations together",
+              "back": "ils prépareront des présentations ensemble"
+            },
+            {
+              "front": "We will teach advanced classes",
+              "back": "nous enseignerons des cours avancés"
+            },
+            {
+              "front": "You will develop new curriculum",
+              "back": "vous développerez un nouveau programme"
+            },
+            {
+              "front": "I will review lecture notes",
+              "back": "je vais revoir les notes de cours"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will attend morning classes",
+              "back": "j&#39;assisterai aux cours du matin"
+            },
+            {
+              "front": "He will study mathematics diligently",
+              "back": "il étudiera les mathématiques avec diligence"
+            },
+            {
+              "front": "She will learn biology thoroughly",
+              "back": "elle apprendra la biologie à fond"
+            },
+            {
+              "front": "They will graduate next semester",
+              "back": "ils seront diplômés le semestre prochain"
+            },
+            {
+              "front": "We will explore new topics",
+              "back": "nous explorerons de nouveaux sujets"
+            },
+            {
+              "front": "You will enroll in courses",
+              "back": "vous vous inscrirez à des cours"
+            },
+            {
+              "front": "I will conduct research projects",
+              "back": "je mènerai des projets de recherche"
+            },
+            {
+              "front": "He will present his findings",
+              "back": "il présentera ses conclusions"
+            },
+            {
+              "front": "She will participate in discussions",
+              "back": "elle participera aux discussions"
+            },
+            {
+              "front": "They will collaborate on assignments",
+              "back": "ils collaboreront sur des missions"
+            },
+            {
+              "front": "We will submit our assignments",
+              "back": "nous soumettrons nos devoirs"
+            },
+            {
+              "front": "You will revise chapters regularly",
+              "back": "vous réviserez les chapitres régulièrement"
+            },
+            {
+              "front": "I will mentor new students",
+              "back": "je vais encadrer les nouveaux étudiants"
+            },
+            {
+              "front": "He will teach literature courses",
+              "back": "il donnera des cours de littérature"
+            },
+            {
+              "front": "She will attend academic seminars",
+              "back": "elle assistera à des séminaires universitaires"
+            },
+            {
+              "front": "They will discuss project ideas",
+              "back": "ils discuteront d&#39;idées de projets"
+            },
+            {
+              "front": "We will learn theoretical concepts",
+              "back": "nous apprendrons des concepts théoriques"
+            },
+            {
+              "front": "You will analyze collected data",
+              "back": "vous analyserez les données collectées"
+            },
+            {
+              "front": "I will write research papers",
+              "back": "j&#39;écrirai des articles de recherche"
+            },
+            {
+              "front": "He will grade student exams",
+              "back": "il notera les examens des étudiants"
+            },
+            {
+              "front": "She will tutor her peers",
+              "back": "elle donnera des cours particuliers à ses pairs"
+            },
+            {
+              "front": "They will prepare presentations together",
+              "back": "ils prépareront des présentations ensemble"
+            },
+            {
+              "front": "We will teach advanced classes",
+              "back": "nous enseignerons des cours avancés"
+            },
+            {
+              "front": "You will develop new curriculum",
+              "back": "vous développerez un nouveau programme"
+            },
+            {
+              "front": "I will review lecture notes",
+              "back": "je vais revoir les notes de cours"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will attend morning classes tomorrow",
+              "back": "j&#39;assisterai aux cours du matin demain"
+            },
+            {
+              "front": "He will study mathematics next semester",
+              "back": "il étudiera les mathématiques le semestre prochain"
+            },
+            {
+              "front": "She will learn biology this year",
+              "back": "elle apprendra la biologie cette année"
+            },
+            {
+              "front": "They will graduate from university soon",
+              "back": "ils seront bientôt diplômés de l&#39;université"
+            },
+            {
+              "front": "We will explore new topics today",
+              "back": "nous explorerons de nouveaux sujets aujourd&#39;hui"
+            },
+            {
+              "front": "You will enroll in advanced courses",
+              "back": "vous vous inscrirez à des cours avancés"
+            },
+            {
+              "front": "I will conduct projects next month",
+              "back": "je réaliserai des projets le mois prochain"
+            },
+            {
+              "front": "He will present his findings tomorrow",
+              "back": "il présentera ses conclusions demain"
+            },
+            {
+              "front": "She will participate in discussions actively",
+              "back": "elle participera activement aux discussions"
+            },
+            {
+              "front": "They will collaborate on assignments together",
+              "back": "ils collaboreront ensemble sur des missions"
+            },
+            {
+              "front": "We will submit our assignments tomorrow",
+              "back": "nous rendrons nos devoirs demain"
+            },
+            {
+              "front": "You will revise chapters before exams",
+              "back": "vous réviserez les chapitres avant les examens"
+            },
+            {
+              "front": "I will mentor students next year",
+              "back": "je serai le mentor des étudiants l&#39;année prochaine"
+            },
+            {
+              "front": "He will teach literature courses later",
+              "back": "il enseignera des cours de littérature plus tard"
+            },
+            {
+              "front": "She will attend academic seminars regularly",
+              "back": "elle assistera régulièrement à des séminaires universitaires"
+            },
+            {
+              "front": "They will discuss project ideas tomorrow",
+              "back": "ils discuteront des idées de projets demain"
+            },
+            {
+              "front": "We will learn theoretical concepts",
+              "back": "nous apprendrons des concepts théoriques"
+            },
+            {
+              "front": "You will analyze collected data effectively",
+              "back": "vous analyserez efficacement les données collectées"
+            },
+            {
+              "front": "I will write research papers diligently",
+              "back": "j&#39;écrirai des articles de recherche avec diligence"
+            },
+            {
+              "front": "He will grade student exams promptly",
+              "back": "il notera rapidement les examens des étudiants"
+            },
+            {
+              "front": "She will tutor her peers regularly",
+              "back": "elle donnera régulièrement des cours particuliers à ses pairs"
+            },
+            {
+              "front": "They will prepare presentations next week",
+              "back": "ils prépareront des présentations la semaine prochaine"
+            },
+            {
+              "front": "We will teach classes next semester",
+              "back": "nous donnerons des cours au prochain semestre"
+            },
+            {
+              "front": "You will develop new curriculum ideas",
+              "back": "vous développerez de nouvelles idées de programmes"
+            },
+            {
+              "front": "I will review lecture notes thoroughly",
+              "back": "je vais revoir attentivement les notes de cours"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

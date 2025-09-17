@@ -1,0 +1,1009 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Common Phrases",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Hello", "back": "Bonjour" },
+            { "front": "Bye", "back": "au revoir" },
+            { "front": "Yes", "back": "Oui" },
+            { "front": "No", "back": "Non" },
+            { "front": "Please", "back": "s&#39;il te plaît" },
+            { "front": "Thanks", "back": "merci" },
+            { "front": "Sorry", "back": "Désolé" },
+            { "front": "Welcome", "back": "accueillir" },
+            { "front": "Help", "back": "aide" },
+            { "front": "Stop", "back": "arrêt" },
+            { "front": "Go", "back": "aller" },
+            { "front": "Wait", "back": "attendez" },
+            { "front": "Sure", "back": "bien sûr" },
+            { "front": "Maybe", "back": "peut être" },
+            { "front": "Okay", "back": "d&#39;accord" },
+            { "front": "Alright", "back": "Très bien" },
+            { "front": "Greetings", "back": "salutations" },
+            { "front": "Farewell", "back": "adieu" },
+            { "front": "Cheers", "back": "acclamations" },
+            { "front": "Congrats", "back": "bravo" },
+            { "front": "Goodbye", "back": "au revoir" },
+            { "front": "Excuse", "back": "excuse" },
+            { "front": "Indeed", "back": "en effet" },
+            { "front": "Absolutely", "back": "absolument" },
+            { "front": "Definitely", "back": "certainement" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Good morning", "back": "bonjour" },
+            { "front": "Thank you", "back": "merci" },
+            { "front": "See you", "back": "à bientôt" },
+            { "front": "Take care", "back": "prends soin de toi" },
+            { "front": "Come here", "back": "venez ici" },
+            { "front": "Go away", "back": "s&#39;en aller" },
+            { "front": "Stay safe", "back": "soyez prudent" },
+            { "front": "Sit down", "back": "asseyez-vous" },
+            { "front": "Stand up", "back": "se lever" },
+            { "front": "Be quiet", "back": "Soyez silencieux" },
+            { "front": "Speak up", "back": "parle" },
+            { "front": "Feel better", "back": "se sentir mieux" },
+            { "front": "Stay strong", "back": "reste fort" },
+            { "front": "Hang on", "back": "accrochez-vous" },
+            { "front": "Hold tight", "back": "tiens bon" },
+            { "front": "Come back", "back": "revenir" },
+            { "front": "Listen carefully", "back": "écoute attentivement" },
+            { "front": "Wake up", "back": "réveillez-vous" },
+            { "front": "Get ready", "back": "se préparer" },
+            { "front": "Cheer up", "back": "remonter le moral" },
+            { "front": "Move forward", "back": "avancer" },
+            { "front": "Stay calm", "back": "rester calme" },
+            { "front": "Wait here", "back": "attends ici" },
+            { "front": "Call me", "back": "appelez-moi" },
+            { "front": "Come over", "back": "viens" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "How are you", "back": "comment vas-tu ?" },
+            { "front": "I am sorry", "back": "je suis désolé" },
+            { "front": "Thank you very", "back": "merci beaucoup" },
+            { "front": "See you later", "back": "à plus tard" },
+            { "front": "Have a seat", "back": "asseyez-vous" },
+            { "front": "I love you", "back": "Je vous aime" },
+            { "front": "What is your", "back": "quel est ton" },
+            { "front": "Good night everyone", "back": "bonne nuit à tous" },
+            { "front": "Take your time", "back": "prenez votre temps" },
+            {
+              "front": "I understand completely",
+              "back": "je comprends parfaitement"
+            },
+            { "front": "Can you help", "back": "peux-tu aider" },
+            { "front": "Let me know", "back": "fais-moi savoir" },
+            { "front": "I need help", "back": "j&#39;ai besoin d&#39;aide" },
+            { "front": "That's very kind", "back": "c&#39;est très gentil" },
+            { "front": "I don't know", "back": "je ne sais pas" },
+            { "front": "Good to see", "back": "bon à voir" },
+            { "front": "What is the", "back": "quel est le" },
+            { "front": "I am not", "back": "je ne suis pas" },
+            {
+              "front": "Please call me",
+              "back": "s&#39;il te plaît appelle-moi"
+            },
+            { "front": "Have a good", "back": "passe une bonne" },
+            { "front": "Let's go together", "back": "allons-y ensemble" },
+            { "front": "I am feeling", "back": "je me sens" },
+            { "front": "See you soon", "back": "à bientôt" },
+            { "front": "Be right back", "back": "je reviens tout de suite" },
+            { "front": "It's my pleasure", "back": "C&#39;est mon plaisir" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "Nice to meet you", "back": "ravi de vous rencontrer" },
+            { "front": "Have a good day", "back": "passe une bonne journée" },
+            { "front": "Can you help me", "back": "pouvez-vous m&#39;aider" },
+            { "front": "How are you doing", "back": "comment allez-vous" },
+            { "front": "I love you too", "back": "je t&#39;aime aussi" },
+            { "front": "What is your name", "back": "quel est ton nom" },
+            {
+              "front": "Please call me back",
+              "back": "s&#39;il te plaît rappelle-moi"
+            },
+            {
+              "front": "Have a nice evening",
+              "back": "Passez une bonne soirée"
+            },
+            { "front": "Let's go to school", "back": "allons à l&#39;école" },
+            { "front": "Do you need help", "back": "as-tu besoin d&#39;aide" },
+            {
+              "front": "I don't understand you",
+              "back": "je ne te comprends pas"
+            },
+            {
+              "front": "See you later today",
+              "back": "à plus tard dans la journée"
+            },
+            { "front": "Take care of yourself", "back": "prends soin de toi" },
+            { "front": "What are you doing", "back": "que fais-tu" },
+            {
+              "front": "How was your day",
+              "back": "comment s&#39;est passée ta journée"
+            },
+            {
+              "front": "Let's get started now",
+              "back": "Commençons maintenant"
+            },
+            { "front": "Where are you from", "back": "d&#39;où venez-vous" },
+            { "front": "Have a great day", "back": "passe une bonne journée" },
+            {
+              "front": "It's nice to see",
+              "back": "c&#39;est agréable à voir"
+            },
+            { "front": "I will see you", "back": "je te verrai" },
+            { "front": "Thank you very much", "back": "merci beaucoup" },
+            { "front": "How can I help", "back": "Comment puis-je aider" },
+            { "front": "Have a safe trip", "back": "Bon voyage" },
+            {
+              "front": "Enjoy your meal tonight",
+              "back": "bon appétit ce soir"
+            },
+            {
+              "front": "Let's meet tomorrow morning",
+              "back": "rencontrons-nous demain matin"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I really love you too",
+              "back": "je t&#39;aime vraiment aussi"
+            },
+            {
+              "front": "You are a nice person",
+              "back": "tu es une personne gentille"
+            },
+            {
+              "front": "Thank you for the time",
+              "back": "merci pour le temps"
+            },
+            {
+              "front": "Enjoy your dinner with them",
+              "back": "profitez de votre dîner avec eux"
+            },
+            {
+              "front": "I don't understand your accent",
+              "back": "je ne comprends pas ton accent"
+            },
+            {
+              "front": "Can you help me please",
+              "back": "pouvez-vous m&#39;aider s&#39;il vous plaît"
+            },
+            {
+              "front": "Let's meet at the park",
+              "back": "retrouvons-nous au parc"
+            },
+            {
+              "front": "How are you feeling today",
+              "back": "comment te sens-tu aujourd&#39;hui"
+            },
+            {
+              "front": "I need some more time",
+              "back": "j&#39;ai besoin de plus de temps"
+            },
+            {
+              "front": "Please pass me the salt",
+              "back": "s&#39;il te plaît, passe-moi le sel"
+            },
+            { "front": "Do you want some coffee", "back": "tu veux du café" },
+            {
+              "front": "It's nice to see you",
+              "back": "c&#39;est agréable de te voir"
+            },
+            {
+              "front": "She always helps me out",
+              "back": "elle m&#39;aide toujours"
+            },
+            {
+              "front": "They are coming over later",
+              "back": "ils viennent plus tard"
+            },
+            {
+              "front": "We should go together today",
+              "back": "nous devrions y aller ensemble aujourd&#39;hui"
+            },
+            {
+              "front": "He enjoys reading books daily",
+              "back": "il aime lire des livres tous les jours"
+            },
+            {
+              "front": "I appreciate your hard work",
+              "back": "j&#39;apprécie votre travail acharné"
+            },
+            {
+              "front": "You look happy today",
+              "back": "tu as l&#39;air heureux aujourd&#39;hui"
+            },
+            {
+              "front": "Please take your time",
+              "back": "s&#39;il vous plaît, prenez votre temps"
+            },
+            {
+              "front": "I am learning new things",
+              "back": "j&#39;apprends de nouvelles choses"
+            },
+            {
+              "front": "We are planning a trip",
+              "back": "nous prévoyons un voyage"
+            },
+            {
+              "front": "She loves playing the piano",
+              "back": "elle aime jouer du piano"
+            },
+            {
+              "front": "They need some more information",
+              "back": "ils ont besoin de plus d&#39;informations"
+            },
+            {
+              "front": "Can you repeat that please",
+              "back": "peux-tu répéter cela s&#39;il te plaît"
+            },
+            {
+              "front": "I hope you feel better",
+              "back": "j&#39;espère que tu te sens mieux"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I really enjoy learning new things",
+              "back": "j&#39;aime vraiment apprendre de nouvelles choses"
+            },
+            {
+              "front": "She always helps me with homework",
+              "back": "elle m&#39;aide toujours à faire mes devoirs"
+            },
+            {
+              "front": "He can answer any question now",
+              "back": "il peut répondre à n&#39;importe quelle question maintenant"
+            },
+            {
+              "front": "Let's have dinner together tonight",
+              "back": "dînons ensemble ce soir"
+            },
+            {
+              "front": "They are going to the park",
+              "back": "ils vont au parc"
+            },
+            {
+              "front": "We enjoy spending time together",
+              "back": "nous aimons passer du temps ensemble"
+            },
+            {
+              "front": "You should take a break",
+              "back": "tu devrais faire une pause"
+            },
+            {
+              "front": "It is important to listen",
+              "back": "il est important d&#39;écouter"
+            },
+            {
+              "front": "I appreciate your kind support",
+              "back": "j&#39;apprécie votre aimable soutien"
+            },
+            { "front": "She knows how to cook", "back": "elle sait cuisiner" },
+            {
+              "front": "He understands the problem well",
+              "back": "il comprend bien le problème"
+            },
+            {
+              "front": "They like watching movies together",
+              "back": "ils aiment regarder des films ensemble"
+            },
+            {
+              "front": "We need to find solutions",
+              "back": "nous devons trouver des solutions"
+            },
+            {
+              "front": "You are doing great work",
+              "back": "vous faites un excellent travail"
+            },
+            {
+              "front": "I feel happy today",
+              "back": "je me sens heureux aujourd&#39;hui"
+            },
+            {
+              "front": "She wants to join us",
+              "back": "elle veut nous rejoindre"
+            },
+            {
+              "front": "He plans to travel soon",
+              "back": "il prévoit de voyager bientôt"
+            },
+            {
+              "front": "They love playing sports outdoors",
+              "back": "ils aiment faire du sport en plein air"
+            },
+            {
+              "front": "We can solve this issue",
+              "back": "nous pouvons résoudre ce problème"
+            },
+            {
+              "front": "You seem very interested today",
+              "back": "tu sembles très intéressé aujourd&#39;hui"
+            },
+            {
+              "front": "I believe in your abilities",
+              "back": "je crois en tes capacités"
+            },
+            {
+              "front": "She enjoys reading books daily",
+              "back": "elle aime lire des livres tous les jours"
+            },
+            {
+              "front": "He manages his time efficiently",
+              "back": "il gère son temps efficacement"
+            },
+            {
+              "front": "They appreciate your hard work",
+              "back": "ils apprécient votre travail acharné"
+            },
+            {
+              "front": "We support each other's goals",
+              "back": "nous soutenons les objectifs de chacun"
+            },
+            {
+              "front": "You make a great impression",
+              "back": "tu fais une excellente impression"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I went home", "back": "je suis rentré à la maison" },
+            { "front": "He called me", "back": "il m&#39;a appelé" },
+            { "front": "She cooked dinner", "back": "elle a préparé le dîner" },
+            { "front": "They saw movie", "back": "ils ont vu un film" },
+            { "front": "We had lunch", "back": "nous avons déjeuné" },
+            { "front": "You finished work", "back": "tu as fini le travail" },
+            { "front": "I felt happy", "back": "je me sentais heureux" },
+            { "front": "He stayed late", "back": "il est resté tard" },
+            {
+              "front": "She looked tired",
+              "back": "elle avait l&#39;air fatiguée"
+            },
+            { "front": "They left early", "back": "ils sont partis tôt" },
+            { "front": "We talked yesterday", "back": "nous avons parlé hier" },
+            { "front": "You helped me", "back": "tu m&#39;as aidé" },
+            {
+              "front": "I heard news",
+              "back": "j&#39;ai entendu des nouvelles"
+            },
+            { "front": "He wrote letter", "back": "il a écrit une lettre" },
+            {
+              "front": "She danced gracefully",
+              "back": "elle a dansé gracieusement"
+            },
+            { "front": "They played games", "back": "ils ont joué à des jeux" },
+            {
+              "front": "We visited friends",
+              "back": "nous avons rendu visite à des amis"
+            },
+            {
+              "front": "You listened carefully",
+              "back": "tu as écouté attentivement"
+            },
+            { "front": "I read book", "back": "je lis un livre" },
+            { "front": "He drove car", "back": "il conduisait une voiture" },
+            { "front": "She laughed loudly", "back": "elle a ri fort" },
+            {
+              "front": "They studied together",
+              "back": "ils ont étudié ensemble"
+            },
+            {
+              "front": "We enjoyed meal",
+              "back": "nous avons apprécié le repas"
+            },
+            {
+              "front": "You remembered everything",
+              "back": "tu t&#39;es souvenu de tout"
+            },
+            {
+              "front": "I understood question",
+              "back": "j&#39;ai compris la question"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I had a good day",
+              "back": "j&#39;ai passé une bonne journée"
+            },
+            {
+              "front": "She went to school",
+              "back": "elle est allée à l&#39;école"
+            },
+            {
+              "front": "He called me yesterday",
+              "back": "il m&#39;a appelé hier"
+            },
+            {
+              "front": "They met at lunch",
+              "back": "ils se sont rencontrés au déjeuner"
+            },
+            {
+              "front": "We had fun together",
+              "back": "nous nous sommes amusés ensemble"
+            },
+            {
+              "front": "You helped me yesterday",
+              "back": "tu m&#39;as aidé hier"
+            },
+            { "front": "I saw you there", "back": "je t&#39;ai vu là-bas" },
+            {
+              "front": "She listened to music",
+              "back": "elle écoutait de la musique"
+            },
+            {
+              "front": "He finished his homework",
+              "back": "il a fini ses devoirs"
+            },
+            {
+              "front": "They left the room",
+              "back": "ils ont quitté la pièce"
+            },
+            { "front": "We talked about it", "back": "nous en avons parlé" },
+            {
+              "front": "You gave me advice",
+              "back": "tu m&#39;as donné des conseils"
+            },
+            {
+              "front": "I felt very happy",
+              "back": "je me sentais très heureux"
+            },
+            { "front": "She bought a gift", "back": "elle a acheté un cadeau" },
+            {
+              "front": "He drove to work",
+              "back": "il est allé au travail en voiture"
+            },
+            {
+              "front": "They played soccer yesterday",
+              "back": "ils ont joué au football hier"
+            },
+            {
+              "front": "We enjoyed the meal",
+              "back": "nous avons apprécié le repas"
+            },
+            {
+              "front": "You brought your book",
+              "back": "tu as apporté ton livre"
+            },
+            {
+              "front": "I heard the news",
+              "back": "j&#39;ai entendu la nouvelle"
+            },
+            {
+              "front": "She wrote a letter",
+              "back": "elle a écrit une lettre"
+            },
+            {
+              "front": "He cooked dinner tonight",
+              "back": "il a préparé le dîner ce soir"
+            },
+            {
+              "front": "They watched the game",
+              "back": "ils ont regardé le match"
+            },
+            {
+              "front": "We cleaned the house",
+              "back": "nous avons nettoyé la maison"
+            },
+            { "front": "You fixed the car", "back": "tu as réparé la voiture" },
+            {
+              "front": "I learned a lesson",
+              "back": "j&#39;ai appris une leçon"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I really loved you too",
+              "back": "je t&#39;ai vraiment aimé aussi"
+            },
+            {
+              "front": "You were a nice person",
+              "back": "tu étais une personne gentille"
+            },
+            {
+              "front": "Thank you for helping me",
+              "back": "merci de m&#39;aider"
+            },
+            {
+              "front": "Enjoyed your dinner with them",
+              "back": "j&#39;ai apprécié votre dîner avec eux"
+            },
+            {
+              "front": "I didn't understand your accent",
+              "back": "je n&#39;ai pas compris ton accent"
+            },
+            {
+              "front": "We had a great time",
+              "back": "nous avons passé un très bon moment"
+            },
+            {
+              "front": "She taught me well",
+              "back": "elle m&#39;a bien appris"
+            },
+            {
+              "front": "He helped me yesterday",
+              "back": "il m&#39;a aidé hier"
+            },
+            {
+              "front": "They visited us last week",
+              "back": "ils nous ont rendu visite la semaine dernière"
+            },
+            { "front": "I saw you there", "back": "je t&#39;ai vu là-bas" },
+            {
+              "front": "We talked about everything",
+              "back": "nous avons parlé de tout"
+            },
+            {
+              "front": "She called me earlier",
+              "back": "elle m&#39;a appelé plus tôt"
+            },
+            {
+              "front": "He gave me advice",
+              "back": "il m&#39;a donné des conseils"
+            },
+            {
+              "front": "They joined us for dinner",
+              "back": "ils nous ont rejoint pour dîner"
+            },
+            { "front": "I learned a lot", "back": "j&#39;ai beaucoup appris" },
+            {
+              "front": "You supported me always",
+              "back": "tu m&#39;as toujours soutenu"
+            },
+            {
+              "front": "We enjoyed the party",
+              "back": "nous avons apprécié la fête"
+            },
+            {
+              "front": "She prepared the meal",
+              "back": "elle a préparé le repas"
+            },
+            { "front": "He wrote a letter", "back": "il a écrit une lettre" },
+            {
+              "front": "They played games together",
+              "back": "ils ont joué à des jeux ensemble"
+            },
+            {
+              "front": "I felt very happy",
+              "back": "je me sentais très heureux"
+            },
+            {
+              "front": "You brought your book",
+              "back": "tu as apporté ton livre"
+            },
+            {
+              "front": "We watched a movie",
+              "back": "nous avons regardé un film"
+            },
+            {
+              "front": "She drove to work",
+              "back": "elle est allée au travail en voiture"
+            },
+            { "front": "He fixed the car", "back": "il a réparé la voiture" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I really loved you very much",
+              "back": "je t&#39;ai vraiment beaucoup aimé"
+            },
+            {
+              "front": "You were a wonderful person yesterday",
+              "back": "tu étais une personne merveilleuse hier"
+            },
+            {
+              "front": "Thank you for helping me yesterday",
+              "back": "merci de m&#39;avoir aidé hier"
+            },
+            {
+              "front": "We enjoyed our dinner with them",
+              "back": "nous avons apprécié notre dîner avec eux"
+            },
+            {
+              "front": "I didn't understand your accent yesterday",
+              "back": "je n&#39;ai pas compris ton accent hier"
+            },
+            {
+              "front": "We had a great time together",
+              "back": "nous avons passé un bon moment ensemble"
+            },
+            {
+              "front": "She taught me well last week",
+              "back": "elle m&#39;a bien appris la semaine dernière"
+            },
+            {
+              "front": "He helped me with my project",
+              "back": "il m&#39;a aidé avec mon projet"
+            },
+            {
+              "front": "They visited us last Sunday evening",
+              "back": "ils nous ont rendu visite dimanche soir dernier"
+            },
+            {
+              "front": "I saw you at the park",
+              "back": "je t&#39;ai vu au parc"
+            },
+            {
+              "front": "We talked about everything last night",
+              "back": "nous avons parlé de tout hier soir"
+            },
+            {
+              "front": "She called me earlier this morning",
+              "back": "elle m&#39;a appelé plus tôt ce matin"
+            },
+            {
+              "front": "He gave me valuable advice yesterday",
+              "back": "il m&#39;a donné de précieux conseils hier"
+            },
+            {
+              "front": "They joined us for dinner yesterday",
+              "back": "ils nous ont rejoint pour dîner hier"
+            },
+            {
+              "front": "I learned a lot from you",
+              "back": "j&#39;ai beaucoup appris de toi"
+            },
+            {
+              "front": "You supported me when I struggled",
+              "back": "tu m&#39;as soutenu quand j&#39;étais en difficulté"
+            },
+            {
+              "front": "We enjoyed the party last night",
+              "back": "nous avons apprécié la fête hier soir"
+            },
+            {
+              "front": "She prepared the meal very well",
+              "back": "elle a très bien préparé le repas"
+            },
+            {
+              "front": "He wrote a letter to me",
+              "back": "il m&#39;a écrit une lettre"
+            },
+            {
+              "front": "They played games together last weekend",
+              "back": "ils ont joué à des jeux ensemble le week-end dernier"
+            },
+            {
+              "front": "I felt very happy last night",
+              "back": "je me suis senti très heureux hier soir"
+            },
+            {
+              "front": "You brought your book to class",
+              "back": "tu as apporté ton livre en classe"
+            },
+            {
+              "front": "We watched a movie last night",
+              "back": "nous avons regardé un film hier soir"
+            },
+            {
+              "front": "She drove to work early today",
+              "back": "elle est allée travailler tôt aujourd&#39;hui"
+            },
+            {
+              "front": "He fixed the car for me",
+              "back": "il a réparé la voiture pour moi"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I will go", "back": "je vais aller" },
+            { "front": "You will see", "back": "tu verras" },
+            { "front": "We will meet", "back": "nous nous rencontrerons" },
+            { "front": "They will come", "back": "ils viendront" },
+            { "front": "It will happen", "back": "ça va arriver" },
+            { "front": "She will arrive", "back": "elle arrivera" },
+            { "front": "He will help", "back": "il aidera" },
+            { "front": "I will try", "back": "j&#39;essaierai" },
+            { "front": "You will learn", "back": "tu apprendras" },
+            { "front": "We will wait", "back": "nous attendrons" },
+            { "front": "They will know", "back": "ils sauront" },
+            { "front": "I will call", "back": "j&#39;appellerai" },
+            { "front": "It will rain", "back": "il pleuvra" },
+            { "front": "You will succeed", "back": "tu réussiras" },
+            { "front": "She will understand", "back": "elle comprendra" },
+            { "front": "He will return", "back": "il reviendra" },
+            { "front": "We will see", "back": "nous verrons" },
+            { "front": "They will decide", "back": "ils décideront" },
+            { "front": "I will help", "back": "j&#39;aiderai" },
+            { "front": "You will enjoy", "back": "vous apprécierez" },
+            { "front": "We will go", "back": "nous irons" },
+            { "front": "They will agree", "back": "ils seront d&#39;accord" },
+            { "front": "I will remember", "back": "je me souviendrai" },
+            { "front": "He will sing", "back": "il chantera" },
+            { "front": "She will dance", "back": "elle dansera" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I will call you", "back": "je vais vous appeler" },
+            {
+              "front": "We will meet tomorrow",
+              "back": "nous nous rencontrerons demain"
+            },
+            { "front": "She will be there", "back": "elle sera là" },
+            { "front": "They will come soon", "back": "ils viendront bientôt" },
+            { "front": "You will find out", "back": "tu découvriras" },
+            { "front": "It will be okay", "back": "ça ira" },
+            { "front": "I will see you", "back": "je te verrai" },
+            { "front": "He will help us", "back": "il nous aidera" },
+            { "front": "We will go together", "back": "nous irons ensemble" },
+            {
+              "front": "They will arrive soon",
+              "back": "ils arriveront bientôt"
+            },
+            {
+              "front": "You will do great",
+              "back": "tu feras de grandes choses"
+            },
+            { "front": "I will miss you", "back": "Vous allez me manquer" },
+            { "front": "She will let me", "back": "elle me laissera" },
+            { "front": "He will not come", "back": "il ne viendra pas" },
+            { "front": "It will not happen", "back": "ça n&#39;arrivera pas" },
+            { "front": "We will make it", "back": "nous y arriverons" },
+            { "front": "They will be there", "back": "ils seront là" },
+            { "front": "You will love it", "back": "tu vas adorer" },
+            { "front": "I will be there", "back": "je serai là" },
+            { "front": "She will join us", "back": "elle nous rejoindra" },
+            { "front": "He will call back", "back": "il rappellera" },
+            { "front": "It will get better", "back": "ça ira mieux" },
+            {
+              "front": "We will start soon",
+              "back": "nous commencerons bientôt"
+            },
+            {
+              "front": "They will need help",
+              "back": "ils auront besoin d&#39;aide"
+            },
+            {
+              "front": "You will see results",
+              "back": "vous verrez des résultats"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will see you tomorrow",
+              "back": "je te verrai demain"
+            },
+            {
+              "front": "We will meet again soon",
+              "back": "nous nous reverrons bientôt"
+            },
+            {
+              "front": "You will do great things",
+              "back": "tu feras de grandes choses"
+            },
+            {
+              "front": "She will be here soon",
+              "back": "elle sera bientôt là"
+            },
+            {
+              "front": "They will come to visit",
+              "back": "ils viendront visiter"
+            },
+            { "front": "It will be okay soon", "back": "ça ira bientôt" },
+            {
+              "front": "I will always love you",
+              "back": "je vous aimerai toujours"
+            },
+            {
+              "front": "You will achieve your goals",
+              "back": "vous atteindrez vos objectifs"
+            },
+            {
+              "front": "We will make it together",
+              "back": "nous y arriverons ensemble"
+            },
+            {
+              "front": "He will not be late",
+              "back": "il ne sera pas en retard"
+            },
+            {
+              "front": "They will never forget you",
+              "back": "ils ne t&#39;oublieront jamais"
+            },
+            {
+              "front": "I will call you later",
+              "back": "je t&#39;appellerai plus tard"
+            },
+            {
+              "front": "You will get the job",
+              "back": "tu obtiendras le travail"
+            },
+            {
+              "front": "She will finish the project",
+              "back": "elle finira le projet"
+            },
+            { "front": "We will have a party", "back": "nous ferons une fête" },
+            {
+              "front": "They will announce the winner",
+              "back": "ils annonceront le gagnant"
+            },
+            {
+              "front": "It will rain this afternoon",
+              "back": "il pleuvra cet après-midi"
+            },
+            {
+              "front": "You will pass the test",
+              "back": "tu réussiras le test"
+            },
+            {
+              "front": "He will start his journey",
+              "back": "il commencera son voyage"
+            },
+            { "front": "I will help you out", "back": "je vais t&#39;aider" },
+            {
+              "front": "She will send the email",
+              "back": "elle enverra l&#39;e-mail"
+            },
+            {
+              "front": "We will try our best",
+              "back": "nous ferons de notre mieux"
+            },
+            {
+              "front": "They will arrive on time",
+              "back": "ils arriveront à l&#39;heure"
+            },
+            {
+              "front": "You will receive the package",
+              "back": "vous recevrez le colis"
+            },
+            { "front": "It will be worth it", "back": "ça en vaudra la peine" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will always love you forever",
+              "back": "je t&#39;aimerai toujours pour toujours"
+            },
+            {
+              "front": "You will achieve all your goals",
+              "back": "vous atteindrez tous vos objectifs"
+            },
+            {
+              "front": "We will meet again very soon",
+              "back": "nous nous reverrons très bientôt"
+            },
+            {
+              "front": "They will come to visit us",
+              "back": "ils viendront nous rendre visite"
+            },
+            {
+              "front": "She will be here on time",
+              "back": "elle sera là à l&#39;heure"
+            },
+            {
+              "front": "He will not forget your kindness",
+              "back": "il n&#39;oubliera pas ta gentillesse"
+            },
+            {
+              "front": "It will be worth the wait",
+              "back": "ça vaudra la peine d&#39;attendre"
+            },
+            {
+              "front": "I will see you next week",
+              "back": "je te verrai la semaine prochaine"
+            },
+            {
+              "front": "You will do great in life",
+              "back": "tu réussiras dans la vie"
+            },
+            {
+              "front": "We will make it through together",
+              "back": "nous y arriverons ensemble"
+            },
+            {
+              "front": "They will arrive before dinner time",
+              "back": "ils arriveront avant l&#39;heure du dîner"
+            },
+            {
+              "front": "She will finish the project soon",
+              "back": "elle finira bientôt le projet"
+            },
+            {
+              "front": "He will start his new job",
+              "back": "il commencera son nouveau travail"
+            },
+            {
+              "front": "It will get better with time",
+              "back": "ça ira mieux avec le temps"
+            },
+            {
+              "front": "I will call you tomorrow morning",
+              "back": "je t&#39;appellerai demain matin"
+            },
+            {
+              "front": "You will receive the package soon",
+              "back": "vous recevrez bientôt le colis"
+            },
+            {
+              "front": "We will celebrate your success together",
+              "back": "nous célébrerons votre succès ensemble"
+            },
+            {
+              "front": "They will announce the results tomorrow",
+              "back": "ils annonceront les résultats demain"
+            },
+            {
+              "front": "She will learn from her mistakes",
+              "back": "elle apprendra de ses erreurs"
+            },
+            {
+              "front": "He will always be by your side",
+              "back": "il sera toujours à tes côtés"
+            },
+            {
+              "front": "It will rain later this afternoon",
+              "back": "il pleuvra plus tard cet après-midi"
+            },
+            {
+              "front": "I will help you move house",
+              "back": "je t&#39;aiderai à déménager"
+            },
+            {
+              "front": "You will find happiness and peace",
+              "back": "tu trouveras le bonheur et la paix"
+            },
+            {
+              "front": "We will start the meeting shortly",
+              "back": "nous commencerons la réunion sous peu"
+            },
+            {
+              "front": "They will need our assistance soon",
+              "back": "ils auront bientôt besoin de notre aide"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

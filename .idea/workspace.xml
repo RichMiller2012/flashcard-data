@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="294149f1-d2e5-4825-a682-bb20046b18ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Spanish/animals.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/animals.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/bodyparts.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/bodyparts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/clothing.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/clothing.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/colors.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/colors.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/commonphrases.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/commonphrases.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/cooking.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/cooking.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/directions.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/directions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/education.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/education.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/emotions.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/emotions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/family.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/family.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/foodanddrink.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/foodanddrink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/furniture.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/furniture.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/health.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/health.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/householditems.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/householditems.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/insects.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/insects.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/interrogatives.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/interrogatives.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/marinelife.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/marinelife.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/months.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/months.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/musicalinstruments.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/musicalinstruments.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/nature.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/nature.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/numbers.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/numbers.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/occupations.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/occupations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/personaltraits.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/personaltraits.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/places.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/places.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/seasons.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/seasons.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/shapes.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/shapes.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/transportation.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/transportation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/travel.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/travel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/vehicles.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/vehicles.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spanish/weather.json" beforeDir="false" afterPath="$PROJECT_DIR$/Spanish/weather.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="32qCFQQOQp57KIiWA9aDokwXqt0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/richm/dev/flashcard-data"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="294149f1-d2e5-4825-a682-bb20046b18ba" name="Changes" comment="" />
+      <created>1758138611938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758138611938</updated>
+    </task>
+    <servers />
+  </component>
+</project>

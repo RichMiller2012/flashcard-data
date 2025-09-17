@@ -1,0 +1,1211 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Musical Instruments",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Guitar", "back": "guitare" },
+            { "front": "Piano", "back": "piano" },
+            { "front": "Drums", "back": "batterie" },
+            { "front": "Violin", "back": "violon" },
+            { "front": "Saxophone", "back": "saxophone" },
+            { "front": "Trumpet", "back": "trompette" },
+            { "front": "Flute", "back": "flûte" },
+            { "front": "Cello", "back": "violoncelle" },
+            { "front": "Clarinet", "back": "clarinette" },
+            { "front": "Harp", "back": "harpe" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Play guitar", "back": "jouer de la guitare" },
+            { "front": "Hold violin", "back": "tenir le violon" },
+            { "front": "Tune piano", "back": "accorder un piano" },
+            { "front": "Strike drums", "back": "frapper les tambours" },
+            { "front": "Blow saxophone", "back": "saxophone soufflé" },
+            { "front": "Sing trumpet", "back": "chanter de la trompette" },
+            { "front": "Play flute", "back": "jouer de la flûte" },
+            { "front": "Bow cello", "back": "archet de violoncelle" },
+            { "front": "Strum harp", "back": "gratter la harpe" },
+            { "front": "Pluck ukulele", "back": "pincer le ukulélé" },
+            { "front": "Finger clarinet", "back": "clarinette à doigt" },
+            { "front": "Dance tambourine", "back": "tambourin de danse" },
+            { "front": "Press piano", "back": "appuyez sur piano" },
+            { "front": "Shake maracas", "back": "secouer les maracas" },
+            { "front": "Blow horn", "back": "souffler dans la corne" },
+            { "front": "Strike cymbals", "back": "cymbales de frappe" },
+            { "front": "Beat drums", "back": "battre les tambours" },
+            { "front": "Guitar strum", "back": "grattement de guitare" },
+            { "front": "Violin bow", "back": "archet de violon" },
+            { "front": "Cello play", "back": "jeu de violoncelle" },
+            { "front": "Harp pluck", "back": "pincement de harpe" },
+            { "front": "Clarinet finger", "back": "doigt de clarinette" },
+            { "front": "Trumpet blow", "back": "coup de trompette" },
+            { "front": "Flute play", "back": "jeu de flûte" },
+            { "front": "Saxophone jam", "back": "confiture de saxophone" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I play guitar", "back": "je joue de la guitare" },
+            { "front": "He holds violin", "back": "il tient un violon" },
+            { "front": "She tunes piano", "back": "elle accorde le piano" },
+            {
+              "front": "They strike drums",
+              "back": "ils frappent des tambours"
+            },
+            {
+              "front": "We blow saxophone",
+              "back": "nous soufflons dans le saxophone"
+            },
+            {
+              "front": "You sing trumpet",
+              "back": "tu chantes de la trompette"
+            },
+            { "front": "I play flute", "back": "je joue de la flûte" },
+            { "front": "He bows cello", "back": "il joue du violoncelle" },
+            { "front": "She strums harp", "back": "elle gratte la harpe" },
+            { "front": "They pluck ukulele", "back": "ils pincent le ukulélé" },
+            {
+              "front": "We finger clarinet",
+              "back": "nous jouons de la clarinette"
+            },
+            {
+              "front": "You dance tambourine",
+              "back": "tu danses le tambourin"
+            },
+            { "front": "I press piano", "back": "j&#39;appuie sur piano" },
+            { "front": "He shakes maracas", "back": "il secoue des maracas" },
+            { "front": "She blows horn", "back": "elle souffle dans le cor" },
+            {
+              "front": "They strike cymbals",
+              "back": "ils frappent des cymbales"
+            },
+            { "front": "We beat drums", "back": "nous battons des tambours" },
+            { "front": "You guitar strum", "back": "tu grattes la guitare" },
+            { "front": "I violin bow", "back": "un archet de violon" },
+            { "front": "He cello play", "back": "le jeu de violoncelle" },
+            { "front": "She harp pluck", "back": "elle pince la harpe" },
+            {
+              "front": "They clarinet finger",
+              "back": "le doigt de la clarinette"
+            },
+            {
+              "front": "We trumpet blow",
+              "back": "nous sonnons de la trompette"
+            },
+            { "front": "You flute play", "back": "tu joues de la flûte" },
+            { "front": "He saxophone jam", "back": "la confiture de saxophone" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I play guitar daily",
+              "back": "je joue de la guitare tous les jours"
+            },
+            {
+              "front": "He holds violin carefully",
+              "back": "il tient le violon avec précaution"
+            },
+            {
+              "front": "She tunes piano regularly",
+              "back": "elle accorde régulièrement son piano"
+            },
+            {
+              "front": "They strike drums loudly",
+              "back": "ils frappent fort sur les tambours"
+            },
+            {
+              "front": "We blow saxophone beautifully",
+              "back": "nous soufflons magnifiquement dans le saxophone"
+            },
+            {
+              "front": "You sing trumpet passionately",
+              "back": "tu chantes de la trompette avec passion"
+            },
+            {
+              "front": "I play flute gracefully",
+              "back": "je joue de la flûte avec grâce"
+            },
+            {
+              "front": "He bows cello skillfully",
+              "back": "il joue du violoncelle avec habileté"
+            },
+            {
+              "front": "She strums harp softly",
+              "back": "elle gratte doucement la harpe"
+            },
+            {
+              "front": "They pluck ukulele lightly",
+              "back": "ils pincent légèrement le ukulélé"
+            },
+            {
+              "front": "We finger clarinet accurately",
+              "back": "nous jouons la clarinette avec précision"
+            },
+            {
+              "front": "You dance tambourine energetically",
+              "back": "tu danses le tambourin avec énergie"
+            },
+            {
+              "front": "I press piano keys",
+              "back": "j&#39;appuie sur les touches du piano"
+            },
+            {
+              "front": "He shakes maracas rhythmically",
+              "back": "il secoue les maracas en rythme"
+            },
+            {
+              "front": "She blows horn powerfully",
+              "back": "elle souffle du cor puissamment"
+            },
+            {
+              "front": "They strike cymbals sharply",
+              "back": "ils frappent les cymbales avec force"
+            },
+            {
+              "front": "We beat drums steadily",
+              "back": "nous battons les tambours régulièrement"
+            },
+            {
+              "front": "You guitar strum smoothly",
+              "back": "tu grattes doucement ta guitare"
+            },
+            {
+              "front": "I violin bow carefully",
+              "back": "je joue du violon avec précaution"
+            },
+            {
+              "front": "He cello play beautifully",
+              "back": "le violoncelle joue magnifiquement"
+            },
+            {
+              "front": "She harp pluck delicately",
+              "back": "elle pince délicatement la harpe"
+            },
+            {
+              "front": "They clarinet finger precisely",
+              "back": "ils jouent avec précision du doigt de la clarinette"
+            },
+            {
+              "front": "We trumpet blow loudly",
+              "back": "nous sonnons fort de la trompette"
+            },
+            {
+              "front": "You flute play softly",
+              "back": "tu joues doucement de la flûte"
+            },
+            {
+              "front": "He saxophone jam energetically",
+              "back": "le saxophone joue avec énergie"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I play guitar every day",
+              "back": "je joue de la guitare tous les jours"
+            },
+            {
+              "front": "He holds violin with skill",
+              "back": "il tient le violon avec habileté"
+            },
+            {
+              "front": "She tunes piano carefully now",
+              "back": "elle accorde soigneusement son piano maintenant"
+            },
+            {
+              "front": "They strike drums during practice",
+              "back": "ils frappent des tambours pendant la pratique"
+            },
+            {
+              "front": "We blow saxophone beautifully today",
+              "back": "nous jouons magnifiquement du saxophone aujourd&#39;hui"
+            },
+            {
+              "front": "You sing trumpet with passion",
+              "back": "tu chantes de la trompette avec passion"
+            },
+            {
+              "front": "I play flute gracefully daily",
+              "back": "je joue de la flûte avec grâce tous les jours"
+            },
+            {
+              "front": "He bows cello with precision",
+              "back": "il joue du violoncelle avec précision"
+            },
+            {
+              "front": "She strums harp softly now",
+              "back": "elle gratte doucement la harpe maintenant"
+            },
+            {
+              "front": "They pluck ukulele lightly today",
+              "back": "ils pincent légèrement le ukulélé aujourd&#39;hui"
+            },
+            {
+              "front": "We finger clarinet accurately now",
+              "back": "nous jouons la clarinette avec précision maintenant"
+            },
+            {
+              "front": "You dance tambourine energetically today",
+              "back": "tu danses le tambourin avec énergie aujourd&#39;hui"
+            },
+            {
+              "front": "I press piano keys daily",
+              "back": "j&#39;appuie sur les touches du piano tous les jours"
+            },
+            {
+              "front": "He shakes maracas rhythmically now",
+              "back": "il secoue maintenant les maracas en rythme"
+            },
+            {
+              "front": "She blows horn powerfully today",
+              "back": "elle souffle du cor puissamment aujourd&#39;hui"
+            },
+            {
+              "front": "They strike cymbals sharply now",
+              "back": "ils frappent maintenant fort les cymbales"
+            },
+            {
+              "front": "We beat drums steadily today",
+              "back": "nous battons régulièrement des tambours aujourd&#39;hui"
+            },
+            {
+              "front": "You guitar strum smoothly now",
+              "back": "tu grattes ta guitare en douceur maintenant"
+            },
+            {
+              "front": "I violin bow carefully today",
+              "back": "je joue du violon avec précaution aujourd&#39;hui"
+            },
+            {
+              "front": "He cello play beautifully now",
+              "back": "Le violoncelle joue magnifiquement maintenant"
+            },
+            {
+              "front": "She harp pluck delicately today",
+              "back": "elle pince délicatement la harpe aujourd&#39;hui"
+            },
+            {
+              "front": "They clarinet finger precisely now",
+              "back": "ils ont le doigt de clarinette précisément maintenant"
+            },
+            {
+              "front": "We trumpet blow loudly today",
+              "back": "nous sonnons fort de la trompette aujourd&#39;hui"
+            },
+            {
+              "front": "You flute play softly now",
+              "back": "tu joues doucement de la flûte maintenant"
+            },
+            {
+              "front": "He saxophone jam energetically today",
+              "back": "le saxophone joue énergiquement aujourd&#39;hui"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I play guitar every single day",
+              "back": "je joue de la guitare tous les jours"
+            },
+            {
+              "front": "He holds violin with great skill",
+              "back": "il tient le violon avec beaucoup d&#39;habileté"
+            },
+            {
+              "front": "She tunes piano very carefully now",
+              "back": "elle accorde le piano très soigneusement maintenant"
+            },
+            {
+              "front": "They strike drums during intense practice",
+              "back": "ils frappent des tambours pendant des entraînements intenses"
+            },
+            {
+              "front": "We blow saxophone beautifully every evening",
+              "back": "nous jouons magnifiquement du saxophone tous les soirs"
+            },
+            {
+              "front": "You sing trumpet with lots of passion",
+              "back": "tu chantes de la trompette avec beaucoup de passion"
+            },
+            {
+              "front": "I play flute gracefully every morning",
+              "back": "je joue de la flûte avec grâce tous les matins"
+            },
+            {
+              "front": "He bows cello with perfect precision",
+              "back": "il joue du violoncelle avec une précision parfaite"
+            },
+            {
+              "front": "She strums harp softly every night",
+              "back": "elle gratte doucement la harpe tous les soirs"
+            },
+            {
+              "front": "They pluck ukulele lightly every session",
+              "back": "ils pincent légèrement le ukulélé à chaque séance"
+            },
+            {
+              "front": "We finger clarinet accurately every rehearsal",
+              "back": "nous doigtons la clarinette avec précision à chaque répétition"
+            },
+            {
+              "front": "You dance tambourine energetically during performances",
+              "back": "vous dansez le tambourin avec énergie pendant les représentations"
+            },
+            {
+              "front": "I press piano keys every day",
+              "back": "j&#39;appuie sur les touches du piano tous les jours"
+            },
+            {
+              "front": "He shakes maracas rhythmically during shows",
+              "back": "il secoue des maracas en rythme pendant les spectacles"
+            },
+            {
+              "front": "She blows horn powerfully every concert",
+              "back": "elle souffle puissamment dans le cor à chaque concert"
+            },
+            {
+              "front": "They strike cymbals sharply every performance",
+              "back": "ils frappent les cymbales avec force à chaque représentation"
+            },
+            {
+              "front": "We beat drums steadily every session",
+              "back": "nous battons les tambours régulièrement à chaque session"
+            },
+            {
+              "front": "You guitar strum smoothly every evening",
+              "back": "tu grattes doucement ta guitare tous les soirs"
+            },
+            {
+              "front": "I violin bow carefully every practice",
+              "back": "je m&#39;incline soigneusement à chaque pratique du violon"
+            },
+            {
+              "front": "He cello play beautifully every night",
+              "back": "le violoncelle joue magnifiquement tous les soirs"
+            },
+            {
+              "front": "She harp pluck delicately every performance",
+              "back": "elle pince délicatement la harpe à chaque représentation"
+            },
+            {
+              "front": "They clarinet finger precisely every rehearsal",
+              "back": "ils jouent la clarinette avec précision à chaque répétition"
+            },
+            {
+              "front": "We trumpet blow loudly every concert",
+              "back": "nous sonnons fort de la trompette à chaque concert"
+            },
+            {
+              "front": "You flute play softly every morning",
+              "back": "tu joues doucement de la flûte chaque matin"
+            },
+            {
+              "front": "He saxophone jam energetically every session",
+              "back": "le saxophone joue énergiquement à chaque séance"
+            },
+            {
+              "front": "She enjoys playing harp gracefully daily",
+              "back": "elle aime jouer de la harpe avec grâce tous les jours"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Played guitar", "back": "jouait de la guitare" },
+            { "front": "Held violin", "back": "violon tenu" },
+            { "front": "Tuned piano", "back": "piano accordé" },
+            { "front": "Struck drums", "back": "tambours frappés" },
+            { "front": "Blew saxophone", "back": "saxophone soufflé" },
+            { "front": "Sang trumpet", "back": "la trompette" },
+            { "front": "Played flute", "back": "jouait de la flûte" },
+            { "front": "Bowed cello", "back": "violoncelle à archet" },
+            { "front": "Strummed harp", "back": "harpe grattée" },
+            { "front": "Plucked ukulele", "back": "ukulélé à cordes pincées" },
+            { "front": "Fingers clarinet", "back": "clarinette à doigts" },
+            { "front": "Danced tambourine", "back": "tambourin dansé" },
+            { "front": "Pressed piano", "back": "piano pressé" },
+            { "front": "Shook maracas", "back": "maracas secoués" },
+            { "front": "Blew horn", "back": "sonné du cor" },
+            { "front": "Struck cymbals", "back": "cymbales frappées" },
+            { "front": "Beat drums", "back": "battre les tambours" },
+            { "front": "Strummed guitar", "back": "guitare grattée" },
+            { "front": "Bowed violin", "back": "violon à archet" },
+            { "front": "Played cello", "back": "jouait du violoncelle" },
+            { "front": "Plucked harp", "back": "harpe à cordes pincées" },
+            { "front": "Fingered clarinet", "back": "clarinette à doigts" },
+            { "front": "Blew trumpet", "back": "sonné de la trompette" },
+            { "front": "Played flute", "back": "jouait de la flûte" },
+            { "front": "Jammed saxophone", "back": "saxophone coincé" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I played guitar",
+              "back": "j&#39;ai joué de la guitare"
+            },
+            { "front": "He held violin", "back": "il tenait un violon" },
+            { "front": "She tuned piano", "back": "elle a accordé un piano" },
+            {
+              "front": "They struck drums",
+              "back": "ils ont frappé des tambours"
+            },
+            {
+              "front": "We blew saxophone",
+              "back": "nous avons soufflé dans le saxophone"
+            },
+            {
+              "front": "You sang trumpet",
+              "back": "tu as chanté de la trompette"
+            },
+            { "front": "I played flute", "back": "j&#39;ai joué de la flûte" },
+            { "front": "He bowed cello", "back": "il a joué du violoncelle" },
+            {
+              "front": "She strummed harp",
+              "back": "elle grattait de la harpe"
+            },
+            {
+              "front": "They plucked ukulele",
+              "back": "ils ont pincé le ukulélé"
+            },
+            {
+              "front": "We fingered clarinet",
+              "back": "nous avons joué de la clarinette"
+            },
+            {
+              "front": "You danced tambourine",
+              "back": "tu as dansé le tambourin"
+            },
+            { "front": "I pressed piano", "back": "j&#39;ai appuyé sur piano" },
+            { "front": "He shook maracas", "back": "il a secoué des maracas" },
+            { "front": "She blew horn", "back": "elle a sonné du cor" },
+            {
+              "front": "They struck cymbals",
+              "back": "ils ont frappé des cymbales"
+            },
+            { "front": "We beat drums", "back": "nous battons des tambours" },
+            {
+              "front": "You strummed guitar",
+              "back": "tu as gratté de la guitare"
+            },
+            { "front": "I bowed violin", "back": "j&#39;ai joué du violon" },
+            { "front": "He played cello", "back": "il jouait du violoncelle" },
+            { "front": "She plucked harp", "back": "elle a pincé la harpe" },
+            {
+              "front": "They fingered clarinet",
+              "back": "ils ont joué de la clarinette"
+            },
+            {
+              "front": "We blew trumpet",
+              "back": "nous avons sonné de la trompette"
+            },
+            { "front": "You played flute", "back": "tu as joué de la flûte" },
+            {
+              "front": "He jammed saxophone",
+              "back": "il a coincé le saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I played guitar yesterday",
+              "back": "j&#39;ai joué de la guitare hier"
+            },
+            {
+              "front": "He held violin carefully",
+              "back": "il tenait le violon avec précaution"
+            },
+            {
+              "front": "She tuned piano today",
+              "back": "elle a accordé un piano aujourd&#39;hui"
+            },
+            {
+              "front": "They struck drums loudly",
+              "back": "ils frappaient bruyamment les tambours"
+            },
+            {
+              "front": "We blew saxophone beautifully",
+              "back": "nous avons magnifiquement joué du saxophone"
+            },
+            {
+              "front": "You sang trumpet passionately",
+              "back": "tu as chanté de la trompette avec passion"
+            },
+            {
+              "front": "I played flute gracefully",
+              "back": "j&#39;ai joué de la flûte avec grâce"
+            },
+            {
+              "front": "He bowed cello skillfully",
+              "back": "il jouait du violoncelle avec habileté"
+            },
+            {
+              "front": "She strummed harp softly",
+              "back": "elle jouait doucement de la harpe"
+            },
+            {
+              "front": "They plucked ukulele lightly",
+              "back": "ils ont pincé légèrement le ukulélé"
+            },
+            {
+              "front": "We fingered clarinet accurately",
+              "back": "nous avons doigté la clarinette avec précision"
+            },
+            {
+              "front": "You danced tambourine energetically",
+              "back": "tu as dansé le tambourin avec énergie"
+            },
+            {
+              "front": "I pressed piano keys",
+              "back": "j&#39;ai appuyé sur les touches du piano"
+            },
+            {
+              "front": "He shook maracas rhythmically",
+              "back": "il secouait les maracas en rythme"
+            },
+            {
+              "front": "She blew horn powerfully",
+              "back": "elle a sonné du cor avec force"
+            },
+            {
+              "front": "They struck cymbals sharply",
+              "back": "ils frappèrent les cymbales avec force"
+            },
+            {
+              "front": "We beat drums steadily",
+              "back": "nous battons les tambours régulièrement"
+            },
+            {
+              "front": "You strummed guitar smoothly",
+              "back": "tu as gratté la guitare en douceur"
+            },
+            {
+              "front": "I bowed violin carefully",
+              "back": "j&#39;ai soigneusement incliné le violon"
+            },
+            {
+              "front": "He played cello beautifully",
+              "back": "il jouait magnifiquement du violoncelle"
+            },
+            {
+              "front": "She plucked harp delicately",
+              "back": "elle pinçait délicatement la harpe"
+            },
+            {
+              "front": "They fingered clarinet precisely",
+              "back": "ils ont joué la clarinette avec précision"
+            },
+            {
+              "front": "We blew trumpet loudly",
+              "back": "nous avons sonné de la trompette bruyamment"
+            },
+            {
+              "front": "You played flute softly",
+              "back": "tu as joué de la flûte doucement"
+            },
+            {
+              "front": "He jammed saxophone energetically",
+              "back": "il a joué du saxophone avec énergie"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I played guitar yesterday evening",
+              "back": "j&#39;ai joué de la guitare hier soir"
+            },
+            {
+              "front": "He held violin with care",
+              "back": "il tenait le violon avec précaution"
+            },
+            {
+              "front": "She tuned piano last night",
+              "back": "elle a accordé le piano hier soir"
+            },
+            {
+              "front": "They struck drums during practice",
+              "back": "ils frappaient des tambours pendant l&#39;entraînement"
+            },
+            {
+              "front": "We blew saxophone beautifully today",
+              "back": "nous avons magnifiquement joué du saxophone aujourd&#39;hui"
+            },
+            {
+              "front": "You sang trumpet with passion",
+              "back": "tu as chanté de la trompette avec passion"
+            },
+            {
+              "front": "I played flute gracefully today",
+              "back": "j&#39;ai joué de la flûte avec grâce aujourd&#39;hui"
+            },
+            {
+              "front": "He bowed cello skillfully now",
+              "back": "il jouait maintenant habilement du violoncelle"
+            },
+            {
+              "front": "She strummed harp softly now",
+              "back": "elle jouait doucement de la harpe maintenant"
+            },
+            {
+              "front": "They plucked ukulele lightly today",
+              "back": "ils ont légèrement pincé le ukulélé aujourd&#39;hui"
+            },
+            {
+              "front": "We fingered clarinet accurately now",
+              "back": "nous avons maintenant joué la clarinette avec précision"
+            },
+            {
+              "front": "You danced tambourine energetically today",
+              "back": "tu as dansé le tambourin avec énergie aujourd&#39;hui"
+            },
+            {
+              "front": "I pressed piano keys yesterday",
+              "back": "j&#39;ai appuyé sur les touches du piano hier"
+            },
+            {
+              "front": "He shook maracas rhythmically now",
+              "back": "il secouait maintenant les maracas en rythme"
+            },
+            {
+              "front": "She blew horn powerfully today",
+              "back": "elle a sonné du cor avec force aujourd&#39;hui"
+            },
+            {
+              "front": "They struck cymbals sharply now",
+              "back": "ils frappèrent maintenant les cymbales avec force"
+            },
+            {
+              "front": "We beat drums steadily today",
+              "back": "nous battons régulièrement des tambours aujourd&#39;hui"
+            },
+            {
+              "front": "You strummed guitar smoothly now",
+              "back": "tu as maintenant gratté la guitare en douceur"
+            },
+            {
+              "front": "I bowed violin carefully today",
+              "back": "j&#39;ai soigneusement joué du violon aujourd&#39;hui"
+            },
+            {
+              "front": "He played cello beautifully now",
+              "back": "il jouait magnifiquement du violoncelle maintenant"
+            },
+            {
+              "front": "She plucked harp delicately now",
+              "back": "elle pinçait délicatement la harpe maintenant"
+            },
+            {
+              "front": "They fingered clarinet precisely now",
+              "back": "ils ont maintenant joué la clarinette avec précision"
+            },
+            {
+              "front": "We blew trumpet loudly today",
+              "back": "nous avons sonné fort de la trompette aujourd&#39;hui"
+            },
+            {
+              "front": "You played flute softly now",
+              "back": "tu jouais doucement de la flûte maintenant"
+            },
+            {
+              "front": "He jammed saxophone energetically now",
+              "back": "il a maintenant joué du saxophone avec énergie"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I played guitar every single day",
+              "back": "je jouais de la guitare tous les jours"
+            },
+            {
+              "front": "He held violin with great care",
+              "back": "il tenait le violon avec beaucoup de soin"
+            },
+            {
+              "front": "She tuned piano very carefully now",
+              "back": "elle a accordé le piano très soigneusement maintenant"
+            },
+            {
+              "front": "They struck drums during intense practice",
+              "back": "ils frappaient des tambours pendant des répétitions intenses"
+            },
+            {
+              "front": "We blew saxophone beautifully during concert",
+              "back": "nous avons magnifiquement joué du saxophone pendant le concert"
+            },
+            {
+              "front": "You sang trumpet with great passion",
+              "back": "tu as chanté de la trompette avec beaucoup de passion"
+            },
+            {
+              "front": "I played flute gracefully every morning",
+              "back": "je jouais de la flûte avec grâce tous les matins"
+            },
+            {
+              "front": "He bowed cello skillfully during performance",
+              "back": "il a joué du violoncelle avec habileté pendant la représentation"
+            },
+            {
+              "front": "She strummed harp softly every evening",
+              "back": "elle jouait doucement de la harpe tous les soirs"
+            },
+            {
+              "front": "They plucked ukulele lightly during session",
+              "back": "ils ont légèrement pincé le ukulélé pendant la séance"
+            },
+            {
+              "front": "We fingered clarinet accurately every rehearsal",
+              "back": "nous avons joué la clarinette avec précision à chaque répétition"
+            },
+            {
+              "front": "You danced tambourine energetically during show",
+              "back": "tu as dansé le tambourin avec énergie pendant le spectacle"
+            },
+            {
+              "front": "I pressed piano keys yesterday evening",
+              "back": "j&#39;ai appuyé sur les touches du piano hier soir"
+            },
+            {
+              "front": "He shook maracas rhythmically during performance",
+              "back": "il secouait les maracas de manière rythmique pendant la représentation"
+            },
+            {
+              "front": "She blew horn powerfully during concert",
+              "back": "elle a soufflé du cor puissamment pendant le concert"
+            },
+            {
+              "front": "They struck cymbals sharply during show",
+              "back": "ils ont frappé les cymbales violemment pendant le spectacle"
+            },
+            {
+              "front": "We beat drums steadily during rehearsal",
+              "back": "nous battions régulièrement des tambours pendant les répétitions"
+            },
+            {
+              "front": "You strummed guitar smoothly during practice",
+              "back": "tu as gratté la guitare en douceur pendant la pratique"
+            },
+            {
+              "front": "I bowed violin carefully during performance",
+              "back": "j&#39;ai soigneusement incliné le violon pendant la représentation"
+            },
+            {
+              "front": "He played cello beautifully during concert",
+              "back": "il a magnifiquement joué du violoncelle pendant le concert"
+            },
+            {
+              "front": "She plucked harp delicately during session",
+              "back": "elle a délicatement pincé la harpe pendant la séance"
+            },
+            {
+              "front": "They fingered clarinet precisely during rehearsal",
+              "back": "ils ont joué la clarinette avec précision pendant la répétition"
+            },
+            {
+              "front": "We blew trumpet loudly during show",
+              "back": "nous avons sonné fort de la trompette pendant le spectacle"
+            },
+            {
+              "front": "You played flute softly during concert",
+              "back": "tu as joué doucement de la flûte pendant le concert"
+            },
+            {
+              "front": "He jammed saxophone energetically during session",
+              "back": "il a joué du saxophone avec énergie pendant la séance"
+            },
+            {
+              "front": "She enjoyed playing harp gracefully daily",
+              "back": "elle aimait jouer de la harpe avec grâce tous les jours"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will play guitar", "back": "jouera de la guitare" },
+            { "front": "Will hold violin", "back": "tiendra le violon" },
+            { "front": "Will tune piano", "back": "accordera le piano" },
+            { "front": "Will strike drums", "back": "frapperont des tambours" },
+            {
+              "front": "Will blow saxophone",
+              "back": "soufflera du saxophone"
+            },
+            {
+              "front": "Will sing trumpet",
+              "back": "chantera de la trompette"
+            },
+            { "front": "Will play flute", "back": "jouera de la flûte" },
+            { "front": "Will bow cello", "back": "jouera du violoncelle" },
+            { "front": "Will strum harp", "back": "jouera de la harpe" },
+            { "front": "Will pluck ukulele", "back": "va pincer le ukulélé" },
+            { "front": "Will finger clarinet", "back": "clarinette à doigts" },
+            {
+              "front": "Will dance tambourine",
+              "back": "dansera le tambourin"
+            },
+            { "front": "Will press piano", "back": "appuie sur le piano" },
+            { "front": "Will shake maracas", "back": "secouera les maracas" },
+            { "front": "Will blow horn", "back": "soufflera du cor" },
+            { "front": "Will strike cymbals", "back": "frappera des cymbales" },
+            { "front": "Will beat drums", "back": "battra des tambours" },
+            {
+              "front": "Will jam saxophone",
+              "back": "va brouiller le saxophone"
+            },
+            { "front": "Will play horn", "back": "jouera du cor" },
+            { "front": "Will bow violin", "back": "jouera du violon" },
+            { "front": "Will pluck harp", "back": "pincera la harpe" },
+            { "front": "Will finger clarinet", "back": "clarinette à doigts" },
+            { "front": "Will blow trumpet", "back": "sonnera de la trompette" },
+            { "front": "Will play flute", "back": "jouera de la flûte" },
+            {
+              "front": "Will jam saxophone",
+              "back": "va brouiller le saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will play guitar",
+              "back": "je jouerai de la guitare"
+            },
+            { "front": "He will hold violin", "back": "il tiendra un violon" },
+            {
+              "front": "She will tune piano",
+              "back": "elle accordera le piano"
+            },
+            {
+              "front": "They will strike drums",
+              "back": "ils frapperont des tambours"
+            },
+            {
+              "front": "We will blow saxophone",
+              "back": "nous allons souffler dans le saxophone"
+            },
+            {
+              "front": "You will sing trumpet",
+              "back": "tu chanteras de la trompette"
+            },
+            { "front": "I will play flute", "back": "je jouerai de la flûte" },
+            {
+              "front": "He will bow cello",
+              "back": "il jouera du violoncelle"
+            },
+            {
+              "front": "She will strum harp",
+              "back": "elle jouera de la harpe"
+            },
+            {
+              "front": "They will pluck ukulele",
+              "back": "ils joueront du ukulélé"
+            },
+            {
+              "front": "We will finger clarinet",
+              "back": "nous jouerons de la clarinette"
+            },
+            {
+              "front": "You will dance tambourine",
+              "back": "tu danseras le tambourin"
+            },
+            {
+              "front": "I will press piano",
+              "back": "j&#39;appuierai sur piano"
+            },
+            {
+              "front": "He will shake maracas",
+              "back": "il secouera des maracas"
+            },
+            { "front": "She will blow horn", "back": "elle soufflera du cor" },
+            {
+              "front": "They will strike cymbals",
+              "back": "ils frapperont des cymbales"
+            },
+            {
+              "front": "We will beat drums",
+              "back": "nous battrons des tambours"
+            },
+            {
+              "front": "You will jam saxophone",
+              "back": "tu vas jouer du saxophone"
+            },
+            { "front": "I will play horn", "back": "je jouerai du cor" },
+            { "front": "He will bow violin", "back": "il jouera du violon" },
+            { "front": "She will pluck harp", "back": "elle pincera la harpe" },
+            {
+              "front": "They will finger clarinet",
+              "back": "ils joueront de la clarinette"
+            },
+            {
+              "front": "We will blow trumpet",
+              "back": "nous sonnerons de la trompette"
+            },
+            {
+              "front": "You will play flute",
+              "back": "tu joueras de la flûte"
+            },
+            {
+              "front": "He will jam saxophone",
+              "back": "il va jouer du saxophone"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will play guitar today",
+              "back": "je vais jouer de la guitare aujourd&#39;hui"
+            },
+            {
+              "front": "He will hold violin carefully",
+              "back": "il tiendra le violon avec précaution"
+            },
+            {
+              "front": "She will tune piano now",
+              "back": "elle va accorder le piano maintenant"
+            },
+            {
+              "front": "They will strike drums loudly",
+              "back": "ils frapperont bruyamment les tambours"
+            },
+            {
+              "front": "We will blow saxophone beautifully",
+              "back": "nous soufflerons magnifiquement du saxophone"
+            },
+            {
+              "front": "You will sing trumpet passionately",
+              "back": "tu chanteras de la trompette avec passion"
+            },
+            {
+              "front": "I will play flute gracefully",
+              "back": "je jouerai de la flûte avec grâce"
+            },
+            {
+              "front": "He will bow cello skillfully",
+              "back": "il jouera du violoncelle avec habileté"
+            },
+            {
+              "front": "She will strum harp softly",
+              "back": "elle jouera doucement de la harpe"
+            },
+            {
+              "front": "They will pluck ukulele lightly",
+              "back": "ils pinceront légèrement le ukulélé"
+            },
+            {
+              "front": "We will finger clarinet accurately",
+              "back": "nous doigterons la clarinette avec précision"
+            },
+            {
+              "front": "You will dance tambourine energetically",
+              "back": "tu danseras le tambourin avec énergie"
+            },
+            {
+              "front": "I will press piano keys",
+              "back": "j&#39;appuierai sur les touches du piano"
+            },
+            {
+              "front": "He will shake maracas rhythmically",
+              "back": "il secouera les maracas en rythme"
+            },
+            {
+              "front": "She will blow horn powerfully",
+              "back": "elle soufflera du cor puissamment"
+            },
+            {
+              "front": "They will strike cymbals sharply",
+              "back": "ils frapperont les cymbales avec force"
+            },
+            {
+              "front": "We will beat drums steadily",
+              "back": "nous battrons les tambours régulièrement"
+            },
+            {
+              "front": "You will strum guitar smoothly",
+              "back": "tu joueras de la guitare en douceur"
+            },
+            {
+              "front": "I will bow violin carefully",
+              "back": "je vais jouer du violon avec précaution"
+            },
+            {
+              "front": "He will play cello beautifully",
+              "back": "il jouera magnifiquement du violoncelle"
+            },
+            {
+              "front": "She will pluck harp delicately",
+              "back": "elle pincera délicatement la harpe"
+            },
+            {
+              "front": "They will finger clarinet precisely",
+              "back": "ils joueront la clarinette avec précision"
+            },
+            {
+              "front": "We will blow trumpet loudly",
+              "back": "nous sonnerons fort de la trompette"
+            },
+            {
+              "front": "You will play flute softly",
+              "back": "tu joueras doucement de la flûte"
+            },
+            {
+              "front": "He will jam saxophone energetically",
+              "back": "il jouera du saxophone avec énergie"
+            },
+            {
+              "front": "She will play harp gracefully",
+              "back": "elle jouera de la harpe avec grâce"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will play guitar tomorrow evening",
+              "back": "je jouerai de la guitare demain soir"
+            },
+            {
+              "front": "He will hold violin during concert",
+              "back": "il tiendra le violon pendant le concert"
+            },
+            {
+              "front": "She will tune piano this morning",
+              "back": "elle accordera le piano ce matin"
+            },
+            {
+              "front": "They will strike drums at show",
+              "back": "ils frapperont des tambours au spectacle"
+            },
+            {
+              "front": "We will blow saxophone beautifully tonight",
+              "back": "nous jouerons magnifiquement du saxophone ce soir"
+            },
+            {
+              "front": "You will sing trumpet at event",
+              "back": "tu chanteras de la trompette lors de l&#39;événement"
+            },
+            {
+              "front": "I will play flute gracefully today",
+              "back": "je jouerai de la flûte avec grâce aujourd&#39;hui"
+            },
+            {
+              "front": "He will bow cello skillfully tonight",
+              "back": "il jouera habilement du violoncelle ce soir"
+            },
+            {
+              "front": "She will strum harp softly tonight",
+              "back": "elle jouera doucement de la harpe ce soir"
+            },
+            {
+              "front": "They will pluck ukulele lightly today",
+              "back": "ils pinceront légèrement le ukulélé aujourd&#39;hui"
+            },
+            {
+              "front": "We will finger clarinet accurately tomorrow",
+              "back": "nous doigterons la clarinette avec précision demain"
+            },
+            {
+              "front": "You will dance tambourine energetically today",
+              "back": "vous danserez le tambourin avec énergie aujourd&#39;hui"
+            },
+            {
+              "front": "I will press piano keys today",
+              "back": "je vais appuyer sur les touches du piano aujourd&#39;hui"
+            },
+            {
+              "front": "He will shake maracas rhythmically now",
+              "back": "il va maintenant secouer les maracas en rythme"
+            },
+            {
+              "front": "She will blow horn powerfully today",
+              "back": "elle soufflera du cor avec force aujourd&#39;hui"
+            },
+            {
+              "front": "They will strike cymbals sharply now",
+              "back": "ils vont maintenant frapper fort sur les cymbales"
+            },
+            {
+              "front": "We will beat drums steadily today",
+              "back": "nous battrons les tambours régulièrement aujourd&#39;hui"
+            },
+            {
+              "front": "You will strum guitar smoothly now",
+              "back": "tu vas maintenant gratter la guitare en douceur"
+            },
+            {
+              "front": "I will bow violin carefully tonight",
+              "back": "je jouerai du violon avec précaution ce soir"
+            },
+            {
+              "front": "He will play cello beautifully tonight",
+              "back": "il jouera magnifiquement du violoncelle ce soir"
+            },
+            {
+              "front": "She will pluck harp delicately now",
+              "back": "elle va maintenant pincer délicatement la harpe"
+            },
+            {
+              "front": "They will finger clarinet precisely now",
+              "back": "ils vont maintenant jouer la clarinette avec précision"
+            },
+            {
+              "front": "We will blow trumpet loudly today",
+              "back": "nous sonnerons fort de la trompette aujourd&#39;hui"
+            },
+            {
+              "front": "You will play flute softly tonight",
+              "back": "tu joueras doucement de la flûte ce soir"
+            },
+            {
+              "front": "He will jam saxophone energetically tonight",
+              "back": "il jouera du saxophone avec énergie ce soir"
+            },
+            {
+              "front": "She will play harp gracefully tonight",
+              "back": "elle jouera de la harpe avec grâce ce soir"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

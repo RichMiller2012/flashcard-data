@@ -1,0 +1,1187 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Months",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "January", "back": "Janvier" },
+            { "front": "February", "back": "février" },
+            { "front": "March", "back": "mars" },
+            { "front": "April", "back": "avril" },
+            { "front": "May", "back": "peut" },
+            { "front": "June", "back": "juin" },
+            { "front": "July", "back": "juillet" },
+            { "front": "August", "back": "août" },
+            { "front": "September", "back": "septembre" },
+            { "front": "October", "back": "octobre" },
+            { "front": "November", "back": "novembre" },
+            { "front": "December", "back": "décembre" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Cold January", "back": "janvier froid" },
+            { "front": "Warm February", "back": "février chaud" },
+            { "front": "Rainy March", "back": "mars pluvieux" },
+            { "front": "Sunny April", "back": "avril ensoleillé" },
+            { "front": "Bright May", "back": "mai brillant" },
+            { "front": "Hot June", "back": "juin chaud" },
+            { "front": "Sunny July", "back": "juillet ensoleillé" },
+            { "front": "Warm August", "back": "août chaud" },
+            { "front": "Cool September", "back": "septembre frais" },
+            { "front": "Windy October", "back": "octobre venteux" },
+            { "front": "Chilly November", "back": "novembre froid" },
+            { "front": "Cold December", "back": "décembre froid" },
+            { "front": "Holiday December", "back": "vacances de décembre" },
+            { "front": "Winter January", "back": "hiver janvier" },
+            { "front": "Summer July", "back": "juillet d&#39;été" },
+            { "front": "Vacation August", "back": "vacances d&#39;août" },
+            { "front": "Spring March", "back": "marche du printemps" },
+            { "front": "Fall October", "back": "automne octobre" },
+            { "front": "Cool April", "back": "avril frais" },
+            { "front": "Festive November", "back": "novembre festif" },
+            { "front": "Wet February", "back": "février humide" },
+            { "front": "Busy December", "back": "décembre chargé" },
+            { "front": "Calm September", "back": "septembre calme" },
+            { "front": "Clear May", "back": "clair mai" },
+            { "front": "Breezy June", "back": "juin venteux" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Cold wind January", "back": "vent froid janvier" },
+            {
+              "front": "Warm sunshine February",
+              "back": "soleil chaud en février"
+            },
+            {
+              "front": "Rain showers March",
+              "back": "averses de pluie en mars"
+            },
+            {
+              "front": "Bright sunny April",
+              "back": "avril ensoleillé et lumineux"
+            },
+            {
+              "front": "Flowers bloom May",
+              "back": "les fleurs fleurissent en mai"
+            },
+            { "front": "Hot days June", "back": "journées chaudes de juin" },
+            { "front": "Vacation time July", "back": "vacances de juillet" },
+            {
+              "front": "Warm evenings August",
+              "back": "soirées chaudes d&#39;août"
+            },
+            {
+              "front": "Cool breeze September",
+              "back": "brise fraîche de septembre"
+            },
+            {
+              "front": "Colorful leaves October",
+              "back": "feuilles colorées octobre"
+            },
+            {
+              "front": "Chilly winds November",
+              "back": "vents froids de novembre"
+            },
+            {
+              "front": "Festive holidays December",
+              "back": "fêtes de fin d&#39;année décembre"
+            },
+            { "front": "Clear skies April", "back": "ciel clair avril" },
+            {
+              "front": "Cool nights May",
+              "back": "les nuits fraîches peuvent"
+            },
+            {
+              "front": "Summer begins June",
+              "back": "l&#39;été commence en juin"
+            },
+            { "front": "The warm July", "back": "le mois de juillet chaud" },
+            { "front": "Bright hot August", "back": "août chaud et lumineux" },
+            {
+              "front": "Leaves fall September",
+              "back": "les feuilles tombent en septembre"
+            },
+            {
+              "front": "Halloween fun October",
+              "back": "plaisir d&#39;Halloween en octobre"
+            },
+            {
+              "front": "Winter comes December",
+              "back": "l&#39;hiver arrive en décembre"
+            },
+            { "front": "Rainy early March", "back": "début mars pluvieux" },
+            {
+              "front": "Busy shopping November",
+              "back": "shopping chargé en novembre"
+            },
+            { "front": "New year January", "back": "nouvel an janvier" },
+            { "front": "Cold crisp December", "back": "décembre froid et vif" },
+            {
+              "front": "Warm cozy February",
+              "back": "février chaleureux et confortable"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "It is June now", "back": "c&#39;est juin maintenant" },
+            {
+              "front": "It is July tomorrow",
+              "back": "c&#39;est juillet demain"
+            },
+            {
+              "front": "I am here December",
+              "back": "je suis ici en décembre"
+            },
+            {
+              "front": "Dogs love June days",
+              "back": "les chiens adorent les jours de juin"
+            },
+            {
+              "front": "We enjoy warm April",
+              "back": "nous profitons du mois d&#39;avril chaud"
+            },
+            {
+              "front": "She celebrates in August",
+              "back": "elle fête en août"
+            },
+            { "front": "I visit in October", "back": "je visite en octobre" },
+            {
+              "front": "My birthday is May",
+              "back": "mon anniversaire est en mai"
+            },
+            { "front": "They travel in March", "back": "ils voyagent en mars" },
+            {
+              "front": "We stay home January",
+              "back": "nous restons à la maison en janvier"
+            },
+            { "front": "It rains in April", "back": "il pleut en avril" },
+            {
+              "front": "I like sunny June",
+              "back": "j&#39;aime le mois de juin ensoleillé"
+            },
+            {
+              "front": "We plant flowers May",
+              "back": "nous plantons des fleurs"
+            },
+            {
+              "front": "Summer begins in July",
+              "back": "l&#39;été commence en juillet"
+            },
+            {
+              "front": "They leave in December",
+              "back": "ils partent en décembre"
+            },
+            {
+              "front": "Fall starts in September",
+              "back": "l&#39;automne commence en septembre"
+            },
+            {
+              "front": "Halloween is in October",
+              "back": "Halloween est en octobre"
+            },
+            {
+              "front": "The festival is March",
+              "back": "le festival est en mars"
+            },
+            {
+              "front": "Snow falls in February",
+              "back": "chutes de neige en février"
+            },
+            { "front": "I travel in August", "back": "je voyage en août" },
+            {
+              "front": "She loves bright November",
+              "back": "elle aime le mois de novembre lumineux"
+            },
+            {
+              "front": "Winter begins in December",
+              "back": "l&#39;hiver commence en décembre"
+            },
+            {
+              "front": "We prepare for June",
+              "back": "nous nous préparons pour juin"
+            },
+            {
+              "front": "Rain ends in April",
+              "back": "la pluie s&#39;arrête en avril"
+            },
+            {
+              "front": "New year begins January",
+              "back": "la nouvelle année commence en janvier"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am here all December",
+              "back": "je suis ici tout le mois de décembre"
+            },
+            {
+              "front": "Dogs love playing in June",
+              "back": "les chiens adorent jouer en juin"
+            },
+            {
+              "front": "Babies are born in February",
+              "back": "les bébés naissent en février"
+            },
+            {
+              "front": "Rain comes in late September",
+              "back": "la pluie arrive fin septembre"
+            },
+            {
+              "front": "We always travel in August",
+              "back": "nous voyageons toujours en août"
+            },
+            {
+              "front": "She celebrates Christmas in December",
+              "back": "elle fête Noël en décembre"
+            },
+            {
+              "front": "I go skiing in January",
+              "back": "je vais skier en janvier"
+            },
+            {
+              "front": "They start school in September",
+              "back": "ils commencent l&#39;école en septembre"
+            },
+            {
+              "front": "We plant trees in April",
+              "back": "nous plantons des arbres en avril"
+            },
+            { "front": "It gets warm in May", "back": "il fait chaud en mai" },
+            {
+              "front": "Flowers bloom everywhere in March",
+              "back": "les fleurs fleurissent partout en mars"
+            },
+            {
+              "front": "She visits family in October",
+              "back": "elle rend visite à sa famille en octobre"
+            },
+            {
+              "front": "We stay indoors in July",
+              "back": "nous restons à l&#39;intérieur en juillet"
+            },
+            {
+              "front": "My vacation starts in June",
+              "back": "mes vacances commencent en juin"
+            },
+            {
+              "front": "Leaves fall in cool November",
+              "back": "les feuilles tombent en novembre frais"
+            },
+            {
+              "front": "The new year starts January",
+              "back": "la nouvelle année commence en janvier"
+            },
+            {
+              "front": "Rain pours down in April",
+              "back": "la pluie tombe à verse en avril"
+            },
+            {
+              "front": "We love summer in July",
+              "back": "nous aimons l&#39;été en juillet"
+            },
+            {
+              "front": "School ends early in June",
+              "back": "l&#39;école se termine tôt en juin"
+            },
+            {
+              "front": "Halloween happens in late October",
+              "back": "Halloween a lieu fin octobre"
+            },
+            {
+              "front": "They travel south in November",
+              "back": "ils voyagent vers le sud en novembre"
+            },
+            {
+              "front": "The garden blooms in May",
+              "back": "le jardin fleurit en mai"
+            },
+            {
+              "front": "She celebrates birthdays in August",
+              "back": "elle fête ses anniversaires en août"
+            },
+            {
+              "front": "It rains a lot March",
+              "back": "il pleut beaucoup en mars"
+            },
+            {
+              "front": "The fair starts in June",
+              "back": "la foire commence en juin"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am staying here all December",
+              "back": "je reste ici tout le mois de décembre"
+            },
+            {
+              "front": "Dogs love playing outside in June",
+              "back": "les chiens adorent jouer dehors en juin"
+            },
+            {
+              "front": "Babies are born every February morning",
+              "back": "les bébés naissent chaque matin de février"
+            },
+            {
+              "front": "Rain comes in late September evenings",
+              "back": "la pluie arrive en fin de soirée de septembre"
+            },
+            {
+              "front": "We go swimming every year in August",
+              "back": "nous allons nager chaque année en août"
+            },
+            {
+              "front": "She celebrates Christmas during cold December",
+              "back": "elle fête Noël pendant le froid décembre"
+            },
+            {
+              "front": "I go skiing every snowy January",
+              "back": "je vais skier chaque mois de janvier enneigé"
+            },
+            {
+              "front": "They start school in early September",
+              "back": "ils commencent l&#39;école début septembre"
+            },
+            {
+              "front": "We plant trees in sunny April",
+              "back": "nous plantons des arbres en avril ensoleillé"
+            },
+            {
+              "front": "It gets very warm by May",
+              "back": "il fait très chaud en mai"
+            },
+            {
+              "front": "Flowers bloom everywhere during March rains",
+              "back": "les fleurs fleurissent partout pendant les pluies de mars"
+            },
+            {
+              "front": "She visits family during cool October",
+              "back": "elle rend visite à sa famille pendant le mois d&#39;octobre frais"
+            },
+            {
+              "front": "We stay indoors during hot July",
+              "back": "nous restons à l&#39;intérieur pendant le mois chaud de juillet"
+            },
+            {
+              "front": "My summer vacation starts in June",
+              "back": "mes vacances d&#39;été commencent en juin"
+            },
+            {
+              "front": "Leaves fall slowly during cool November",
+              "back": "les feuilles tombent lentement pendant le mois frais de novembre"
+            },
+            {
+              "front": "The new year begins in January",
+              "back": "la nouvelle année commence en janvier"
+            },
+            {
+              "front": "Rain pours heavily in late April",
+              "back": "la pluie tombe abondamment fin avril"
+            },
+            {
+              "front": "We love summer afternoons in July",
+              "back": "nous aimons les après-midi d&#39;été en juillet"
+            },
+            {
+              "front": "School ends early on June days",
+              "back": "l&#39;école se termine tôt les jours de juin"
+            },
+            {
+              "front": "Halloween celebrations happen in October evenings",
+              "back": "les célébrations d&#39;Halloween ont lieu dans les soirées d&#39;octobre"
+            },
+            {
+              "front": "They travel south every November weekend",
+              "back": "ils voyagent vers le sud chaque week-end de novembre"
+            },
+            {
+              "front": "The garden blooms beautifully in May",
+              "back": "le jardin fleurit magnifiquement en mai"
+            },
+            {
+              "front": "She celebrates birthdays throughout warm August",
+              "back": "elle célèbre les anniversaires tout au long du mois d&#39;août"
+            },
+            {
+              "front": "It rains frequently during late March",
+              "back": "il pleut fréquemment fin mars"
+            },
+            {
+              "front": "The fair starts every sunny June",
+              "back": "la foire commence chaque mois de juin ensoleillé"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Was January", "back": "c&#39;était en janvier" },
+            { "front": "February passed", "back": "février est passé" },
+            { "front": "March ended", "back": "fin de la marche" },
+            { "front": "April bloomed", "back": "avril a fleuri" },
+            { "front": "May rained", "back": "il a plu en mai" },
+            { "front": "Was June", "back": "c&#39;était en juin" },
+            { "front": "July burned", "back": "juillet a brûlé" },
+            { "front": "August shined", "back": "août a brillé" },
+            { "front": "September cooled", "back": "septembre refroidi" },
+            { "front": "October flew", "back": "octobre a volé" },
+            { "front": "November chilled", "back": "novembre frais" },
+            { "front": "December froze", "back": "décembre a gelé" },
+            { "front": "January snowed", "back": "janvier a neigé" },
+            { "front": "February ended", "back": "février terminé" },
+            { "front": "March passed", "back": "mars passé" },
+            { "front": "April warmed", "back": "avril réchauffé" },
+            { "front": "May ended", "back": "mai terminé" },
+            { "front": "June bloomed", "back": "juin a fleuri" },
+            { "front": "July ended", "back": "juillet terminé" },
+            { "front": "August passed", "back": "août est passé" },
+            { "front": "September cooled", "back": "septembre refroidi" },
+            { "front": "October ended", "back": "fin octobre" },
+            { "front": "November passed", "back": "novembre est passé" },
+            { "front": "December snowed", "back": "décembre a neigé" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "He came June", "back": "il est venu en juin" },
+            { "front": "I left April", "back": "je suis parti en avril" },
+            {
+              "front": "December snowed greatly",
+              "back": "décembre a beaucoup neigé"
+            },
+            {
+              "front": "She visited February",
+              "back": "elle a visité février"
+            },
+            {
+              "front": "They returned October",
+              "back": "ils sont revenus en octobre"
+            },
+            {
+              "front": "We traveled July",
+              "back": "nous avons voyagé en juillet"
+            },
+            {
+              "front": "He stayed November",
+              "back": "il est resté en novembre"
+            },
+            {
+              "front": "She arrived March",
+              "back": "elle est arrivée en mars"
+            },
+            { "front": "I finished January", "back": "j&#39;ai fini janvier" },
+            {
+              "front": "They enjoyed August",
+              "back": "ils ont apprécié le mois d&#39;août"
+            },
+            {
+              "front": "We celebrated May",
+              "back": "nous avons célébré le mois de mai"
+            },
+            { "front": "He called September", "back": "il a appelé septembre" },
+            {
+              "front": "She left December",
+              "back": "elle est partie en décembre"
+            },
+            { "front": "We visited June", "back": "nous avons visité juin" },
+            {
+              "front": "He celebrated April",
+              "back": "il a fêté le mois d&#39;avril"
+            },
+            { "front": "She loved May", "back": "elle aimait mai" },
+            {
+              "front": "They traveled August",
+              "back": "ils ont voyagé en août"
+            },
+            { "front": "He enjoyed February", "back": "il a apprécié février" },
+            {
+              "front": "I celebrated October",
+              "back": "j&#39;ai fêté octobre"
+            },
+            { "front": "She liked March", "back": "elle aimait mars" },
+            {
+              "front": "We left July",
+              "back": "nous sommes partis en juillet"
+            },
+            { "front": "He missed November", "back": "il a raté novembre" },
+            {
+              "front": "They stayed September",
+              "back": "ils sont restés en septembre"
+            },
+            { "front": "I saw January", "back": "j&#39;ai vu janvier" },
+            {
+              "front": "We played December",
+              "back": "nous avons joué en décembre"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Dogs loved June evenings",
+              "back": "les chiens adoraient les soirées de juin"
+            },
+            {
+              "front": "I loved cold Decembers",
+              "back": "J&#39;ai adoré les mois de décembre froids"
+            },
+            { "front": "I left in August", "back": "je suis parti en août" },
+            {
+              "front": "Everyone traveled after May",
+              "back": "tout le monde a voyagé après mai"
+            },
+            {
+              "front": "We visited during April",
+              "back": "nous avons visité en avril"
+            },
+            {
+              "front": "She arrived in March",
+              "back": "elle est arrivée en mars"
+            },
+            {
+              "front": "They celebrated in December",
+              "back": "ils ont fêté en décembre"
+            },
+            {
+              "front": "He worked through July",
+              "back": "il a travaillé jusqu&#39;en juillet"
+            },
+            {
+              "front": "I stayed until January",
+              "back": "je suis resté jusqu&#39;en janvier"
+            },
+            {
+              "front": "We relaxed in February",
+              "back": "nous nous sommes détendus en février"
+            },
+            {
+              "front": "They returned during October",
+              "back": "ils sont revenus en octobre"
+            },
+            {
+              "front": "I traveled in November",
+              "back": "j&#39;ai voyagé en novembre"
+            },
+            {
+              "front": "She left during September",
+              "back": "elle est partie en septembre"
+            },
+            {
+              "front": "We finished by June",
+              "back": "nous avons terminé en juin"
+            },
+            { "front": "He arrived on May", "back": "il est arrivé en mai" },
+            {
+              "front": "They celebrated in April",
+              "back": "ils ont fêté en avril"
+            },
+            {
+              "front": "I returned in July",
+              "back": "je suis revenu en juillet"
+            },
+            {
+              "front": "We visited during August",
+              "back": "nous avons visité en août"
+            },
+            {
+              "front": "She stayed until March",
+              "back": "elle est restée jusqu&#39;en mars"
+            },
+            {
+              "front": "He loved rainy February",
+              "back": "il aimait le mois de février pluvieux"
+            },
+            {
+              "front": "They arrived on December",
+              "back": "ils sont arrivés en décembre"
+            },
+            {
+              "front": "We left after October",
+              "back": "nous sommes partis après octobre"
+            },
+            { "front": "I celebrated in May", "back": "j&#39;ai fêté en mai" },
+            {
+              "front": "He stayed during January",
+              "back": "il est resté en janvier"
+            },
+            {
+              "front": "We worked through September",
+              "back": "nous avons travaillé jusqu&#39;en septembre"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My dogs loved June evenings",
+              "back": "mes chiens adoraient les soirées de juin"
+            },
+            {
+              "front": "The doctor performed in May",
+              "back": "le médecin a effectué l&#39;intervention en mai"
+            },
+            {
+              "front": "We worked all of September",
+              "back": "nous avons travaillé tout le mois de septembre"
+            },
+            {
+              "front": "They traveled after rainy April",
+              "back": "ils ont voyagé après un mois d&#39;avril pluvieux"
+            },
+            {
+              "front": "I visited family during December",
+              "back": "j&#39;ai rendu visite à ma famille en décembre"
+            },
+            {
+              "front": "He left early in July",
+              "back": "il est parti début juillet"
+            },
+            {
+              "front": "She arrived late in March",
+              "back": "elle est arrivée fin mars"
+            },
+            {
+              "front": "We celebrated birthdays in August",
+              "back": "nous avons fêté les anniversaires en août"
+            },
+            {
+              "front": "The festival happened in October",
+              "back": "le festival a eu lieu en octobre"
+            },
+            {
+              "front": "I returned home in February",
+              "back": "je suis rentré chez moi en février"
+            },
+            {
+              "front": "They worked hard all May",
+              "back": "ils ont travaillé dur tout le mois de mai"
+            },
+            {
+              "front": "He traveled every summer in June",
+              "back": "il voyageait chaque été en juin"
+            },
+            {
+              "front": "We visited friends during April",
+              "back": "nous avons rendu visite à des amis en avril"
+            },
+            {
+              "front": "She stayed until early November",
+              "back": "elle est restée jusqu&#39;au début novembre"
+            },
+            {
+              "front": "He completed the task in January",
+              "back": "il a terminé la tâche en janvier"
+            },
+            {
+              "front": "We rested on Sundays in July",
+              "back": "nous nous sommes reposés le dimanche en juillet"
+            },
+            {
+              "front": "They loved hiking in September",
+              "back": "ils adoraient faire de la randonnée en septembre"
+            },
+            {
+              "front": "She cooked dinner every December",
+              "back": "elle préparait le dîner tous les mois de décembre"
+            },
+            {
+              "front": "He studied every day in March",
+              "back": "il a étudié tous les jours en mars"
+            },
+            {
+              "front": "We finished work by early June",
+              "back": "nous avons terminé les travaux début juin"
+            },
+            {
+              "front": "I visited my grandparents in May",
+              "back": "j&#39;ai rendu visite à mes grands-parents en mai"
+            },
+            {
+              "front": "They celebrated together during August",
+              "back": "ils ont fêté ensemble en août"
+            },
+            {
+              "front": "The party happened during October",
+              "back": "la fête a eu lieu en octobre"
+            },
+            {
+              "front": "We enjoyed long evenings in June",
+              "back": "nous avons profité de longues soirées en juin"
+            },
+            {
+              "front": "He worked hard during January",
+              "back": "il a travaillé dur en janvier"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "He worked in the June sun",
+              "back": "il travaillait sous le soleil de juin"
+            },
+            {
+              "front": "We rested in the December winter",
+              "back": "nous nous sommes reposés en décembre hiver"
+            },
+            {
+              "front": "The team completed January task deadlines",
+              "back": "l&#39;équipe a terminé les délais des tâches de janvier"
+            },
+            {
+              "front": "She celebrated her birthday in April",
+              "back": "elle a fêté son anniversaire en avril"
+            },
+            {
+              "front": "We enjoyed hiking during September weekends",
+              "back": "nous avons apprécié la randonnée pendant les week-ends de septembre"
+            },
+            {
+              "front": "They traveled together in late July",
+              "back": "ils ont voyagé ensemble fin juillet"
+            },
+            {
+              "front": "I stayed home during February storms",
+              "back": "je suis resté à la maison pendant les tempêtes de février"
+            },
+            {
+              "front": "He worked late in August evenings",
+              "back": "il travaillait tard le soir en août"
+            },
+            {
+              "front": "We celebrated holidays in cold December",
+              "back": "nous avons célébré les vacances en décembre froid"
+            },
+            {
+              "front": "The event happened in early May",
+              "back": "l&#39;événement s&#39;est produit début mai"
+            },
+            {
+              "front": "She arrived in March without delay",
+              "back": "elle est arrivée en mars sans délai"
+            },
+            {
+              "front": "They visited family in October holidays",
+              "back": "ils ont rendu visite à la famille pendant les vacances d&#39;octobre"
+            },
+            {
+              "front": "We finished everything in November rain",
+              "back": "nous avons tout terminé sous la pluie de novembre"
+            },
+            {
+              "front": "He left in the January morning ",
+              "back": "il est parti le matin de janvier "
+            },
+            {
+              "front": "I returned from vacation in June",
+              "back": "je suis rentré de vacances en juin"
+            },
+            {
+              "front": "The flowers bloomed beautifully in April",
+              "back": "les fleurs ont magnifiquement fleuri en avril"
+            },
+            {
+              "front": "We attended the festival in August",
+              "back": "nous avons assisté au festival en août"
+            },
+            {
+              "front": "She baked pies daily in December",
+              "back": "elle faisait des tartes tous les jours en décembre"
+            },
+            {
+              "front": "They played soccer every June afternoon",
+              "back": "ils jouaient au football tous les après-midi de juin"
+            },
+            {
+              "front": "He completed tasks before May deadline",
+              "back": "il a terminé les tâches avant la date limite de mai"
+            },
+            {
+              "front": "I worked on projects every September",
+              "back": "j&#39;ai travaillé sur des projets chaque mois de septembre"
+            },
+            {
+              "front": "We traveled in the July summer",
+              "back": "nous avons voyagé en juillet été"
+            },
+            {
+              "front": "The team prepared meals during February",
+              "back": "l&#39;équipe a préparé les repas en février"
+            },
+            {
+              "front": "She stayed until the rainy November",
+              "back": "elle est restée jusqu&#39;au mois de novembre pluvieux"
+            },
+            {
+              "front": "We visited the park in March",
+              "back": "nous avons visité le parc en mars"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will be January", "back": "sera en janvier" },
+            { "front": "December will snow", "back": "décembre neigera" },
+            { "front": "Will rain April", "back": "il pleuvra en avril" },
+            { "front": "February will freeze", "back": "février va geler" },
+            { "front": "March will bloom", "back": "mars fleurira" },
+            { "front": "May will shine", "back": "mai brillera" },
+            { "front": "Will be June", "back": "sera juin" },
+            { "front": "July will burn", "back": "juillet brûlera" },
+            { "front": "August will shine", "back": "août brillera" },
+            {
+              "front": "September will cool",
+              "back": "septembre sera plus frais"
+            },
+            { "front": "October will fly", "back": "octobre volera" },
+            { "front": "November will chill", "back": "novembre sera frais" },
+            { "front": "Will snow December", "back": "il neigera en décembre" },
+            { "front": "January will start", "back": "janvier commencera" },
+            { "front": "Will come February", "back": "viendra en février" },
+            { "front": "Will rain March", "back": "il pleuvra en mars" },
+            { "front": "April will warm", "back": "avril sera chaud" },
+            { "front": "June will arrive", "back": "juin arrivera" },
+            { "front": "July will come", "back": "juillet viendra" },
+            { "front": "August will pass", "back": "août passera" },
+            { "front": "Will shine May", "back": "brillera peut-être" },
+            { "front": "Will cool September", "back": "septembre sera frais" },
+            { "front": "Will fly October", "back": "volera en octobre" },
+            { "front": "Will be November", "back": "sera en novembre" },
+            { "front": "December will freeze", "back": "décembre va geler" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will come January",
+              "back": "je viendrai en janvier"
+            },
+            {
+              "front": "It will snow December",
+              "back": "il neigera en décembre"
+            },
+            {
+              "front": "We will travel July",
+              "back": "nous voyagerons en juillet"
+            },
+            { "front": "They will visit March", "back": "ils visiteront mars" },
+            {
+              "front": "She will leave August",
+              "back": "elle partira en août"
+            },
+            { "front": "We will arrive May", "back": "nous arriverons en mai" },
+            {
+              "front": "I will enjoy February",
+              "back": "je vais profiter de février"
+            },
+            { "front": "He will relax June", "back": "il se reposera en juin" },
+            { "front": "She will call April", "back": "elle appellera avril" },
+            {
+              "front": "We will hike September",
+              "back": "nous ferons une randonnée en septembre"
+            },
+            {
+              "front": "They will rest October",
+              "back": "ils se reposeront en octobre"
+            },
+            {
+              "front": "I will celebrate November",
+              "back": "je fêterai novembre"
+            },
+            {
+              "front": "We will return January",
+              "back": "nous reviendrons en janvier"
+            },
+            {
+              "front": "She will visit December",
+              "back": "elle viendra en décembre"
+            },
+            {
+              "front": "He will work July",
+              "back": "il travaillera en juillet"
+            },
+            {
+              "front": "They will leave April",
+              "back": "ils partiront en avril"
+            },
+            {
+              "front": "I will relax May",
+              "back": "je vais me détendre peut-être"
+            },
+            { "front": "We will celebrate June", "back": "nous fêterons juin" },
+            {
+              "front": "She will return February",
+              "back": "elle reviendra en février"
+            },
+            { "front": "He will call March", "back": "il appellera mars" },
+            {
+              "front": "They will visit October",
+              "back": "ils viendront en octobre"
+            },
+            {
+              "front": "We will travel August",
+              "back": "nous voyagerons en août"
+            },
+            {
+              "front": "I will work November",
+              "back": "je travaillerai en novembre"
+            },
+            {
+              "front": "She will stay September",
+              "back": "elle restera en septembre"
+            },
+            {
+              "front": "He will rest December",
+              "back": "il se reposera en décembre"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "June will bring hot sun",
+              "back": "juin apportera un soleil chaud"
+            },
+            {
+              "front": "December will bring snowy days",
+              "back": "décembre apportera des jours de neige"
+            },
+            {
+              "front": "July will bring summer heat",
+              "back": "juillet apportera la chaleur estivale"
+            },
+            {
+              "front": "March will bring spring rain",
+              "back": "mars apportera la pluie de printemps"
+            },
+            {
+              "front": "February will bring cold winds",
+              "back": "février apportera des vents froids"
+            },
+            {
+              "front": "August will bring warm nights",
+              "back": "août apportera des nuits chaudes"
+            },
+            {
+              "front": "September will bring cool breezes",
+              "back": "septembre apportera des brises fraîches"
+            },
+            {
+              "front": "October will bring falling leaves",
+              "back": "octobre apportera la chute des feuilles"
+            },
+            {
+              "front": "November will bring shorter days",
+              "back": "novembre apportera des jours plus courts"
+            },
+            {
+              "front": "May will bring blooming flowers",
+              "back": "mai apportera des fleurs épanouies"
+            },
+            {
+              "front": "April will bring mild rain",
+              "back": "avril apportera de légères pluies"
+            },
+            {
+              "front": "We will visit during December",
+              "back": "nous visiterons en décembre"
+            },
+            {
+              "front": "He will celebrate in July",
+              "back": "il fêtera en juillet"
+            },
+            {
+              "front": "They will leave by January",
+              "back": "ils partiront en janvier"
+            },
+            {
+              "front": "I will work all February",
+              "back": "je travaillerai tout le mois de février"
+            },
+            {
+              "front": "She will arrive in April",
+              "back": "elle arrivera en avril"
+            },
+            {
+              "front": "We will travel in August",
+              "back": "nous voyagerons en août"
+            },
+            {
+              "front": "They will relax in June",
+              "back": "ils se détendront en juin"
+            },
+            {
+              "front": "He will enjoy warm May",
+              "back": "il profitera du mois de mai chaud"
+            },
+            {
+              "front": "I will return next October",
+              "back": "je reviendrai en octobre prochain"
+            },
+            {
+              "front": "She will leave by September",
+              "back": "elle partira en septembre"
+            },
+            {
+              "front": "We will celebrate in November",
+              "back": "nous fêterons en novembre"
+            },
+            {
+              "front": "He will rest in December",
+              "back": "il se reposera en décembre"
+            },
+            {
+              "front": "They will visit early March",
+              "back": "ils viendront début mars"
+            },
+            {
+              "front": "We will start in January",
+              "back": "nous commencerons en janvier"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will stay warm in December",
+              "back": "je resterai au chaud en décembre"
+            },
+            {
+              "front": "June will be great for swimming",
+              "back": "juin sera idéal pour nager"
+            },
+            {
+              "front": "Everyone will leave when November arrives",
+              "back": "tout le monde partira quand novembre arrivera"
+            },
+            {
+              "front": "July will be perfect for vacation",
+              "back": "juillet sera parfait pour les vacances"
+            },
+            {
+              "front": "We will plant flowers in April",
+              "back": "nous planterons des fleurs en avril"
+            },
+            {
+              "front": "They will return home in March",
+              "back": "ils rentreront chez eux en mars"
+            },
+            {
+              "front": "She will celebrate her birthday in May",
+              "back": "elle fêtera son anniversaire en mai"
+            },
+            {
+              "front": "August will bring warm summer nights",
+              "back": "août apportera des nuits d&#39;été chaudes"
+            },
+            {
+              "front": "We will travel together in February",
+              "back": "nous voyagerons ensemble en février"
+            },
+            {
+              "front": "He will finish everything by January",
+              "back": "il finira tout d&#39;ici janvier"
+            },
+            {
+              "front": "October will bring cooler weather soon",
+              "back": "octobre apportera bientôt un temps plus frais"
+            },
+            {
+              "front": "They will visit the beach in June",
+              "back": "ils visiteront la plage en juin"
+            },
+            {
+              "front": "She will arrive early in April",
+              "back": "elle arrivera début avril"
+            },
+            {
+              "front": "We will relax by the pool in July",
+              "back": "nous nous détendreons au bord de la piscine en juillet"
+            },
+            {
+              "front": "He will take a break in August",
+              "back": "il fera une pause en août"
+            },
+            {
+              "front": "September will be perfect for hiking",
+              "back": "septembre sera parfait pour la randonnée"
+            },
+            {
+              "front": "I will return home in December",
+              "back": "je rentrerai chez moi en décembre"
+            },
+            {
+              "front": "We will celebrate the holidays in November",
+              "back": "nous célébrerons les vacances en novembre"
+            },
+            {
+              "front": "She will leave next year in January",
+              "back": "elle partira l&#39;année prochaine en janvier"
+            },
+            {
+              "front": "He will visit family in February",
+              "back": "il rendra visite à sa famille en février"
+            },
+            {
+              "front": "They will start working hard in March",
+              "back": "ils commenceront à travailler dur en mars"
+            },
+            {
+              "front": "I will enjoy the sunshine in May",
+              "back": "je profiterai du soleil en mai"
+            },
+            {
+              "front": "We will travel across the country in June",
+              "back": "nous voyagerons à travers le pays en juin"
+            },
+            {
+              "front": "They will celebrate the new year in December",
+              "back": "ils fêteront le nouvel an en décembre"
+            },
+            {
+              "front": "We will enjoy cool nights in September",
+              "back": "nous profiterons de nuits fraîches en septembre"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

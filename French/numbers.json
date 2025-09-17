@@ -1,0 +1,1180 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Numbers",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "One", "back": "un" },
+            { "front": "Two", "back": "deux" },
+            { "front": "Three", "back": "trois" },
+            { "front": "Four", "back": "quatre" },
+            { "front": "Five", "back": "cinq" },
+            { "front": "Six", "back": "six" },
+            { "front": "Seven", "back": "Sept" },
+            { "front": "Eight", "back": "huit" },
+            { "front": "Nine", "back": "neuf" },
+            { "front": "Ten", "back": "dix" },
+            { "front": "Eleven", "back": "onze" },
+            { "front": "Twelve", "back": "douze" },
+            { "front": "Thirteen", "back": "treize" },
+            { "front": "Fourteen", "back": "quatorze" },
+            { "front": "Fifteen", "back": "quinze" },
+            { "front": "Sixteen", "back": "seize" },
+            { "front": "Seventeen", "back": "dix-sept" },
+            { "front": "Eighteen", "back": "dix-huit" },
+            { "front": "Nineteen", "back": "dix-neuf" },
+            { "front": "Twenty", "back": "vingt" },
+            { "front": "Twenty-one", "back": "vingt-et-un" },
+            { "front": "Twenty-two", "back": "vingt-deux" },
+            { "front": "Twenty-three", "back": "vingt-trois" },
+            { "front": "Twenty-four", "back": "vingt-quatre" },
+            { "front": "Twenty-five", "back": "vingt cinq" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "One card", "back": "une carte" },
+            { "front": "Two eggs", "back": "deux œufs" },
+            { "front": "Three cars", "back": "trois voitures" },
+            { "front": "Four chairs", "back": "quatre chaises" },
+            { "front": "Five apples", "back": "cinq pommes" },
+            { "front": "Six books", "back": "six livres" },
+            { "front": "Seven bags", "back": "sept sacs" },
+            { "front": "Eight cups", "back": "huit tasses" },
+            { "front": "Nine balls", "back": "neuf boules" },
+            { "front": "Ten trees", "back": "dix arbres" },
+            { "front": "Eleven doors", "back": "onze portes" },
+            { "front": "Twelve pens", "back": "douze stylos" },
+            { "front": "Thirteen keys", "back": "treize clés" },
+            { "front": "Fourteen lights", "back": "quatorze lumières" },
+            { "front": "Fifteen dogs", "back": "quinze chiens" },
+            { "front": "Sixteen cats", "back": "seize chats" },
+            { "front": "Seventeen trucks", "back": "dix-sept camions" },
+            { "front": "Eighteen bikes", "back": "dix-huit vélos" },
+            { "front": "Nineteen hats", "back": "dix-neuf chapeaux" },
+            { "front": "Twenty people", "back": "vingt personnes" },
+            { "front": "Twenty-one houses", "back": "vingt et une maisons" },
+            { "front": "Twenty-two bags", "back": "vingt-deux sacs" },
+            { "front": "Twenty-three shoes", "back": "vingt-trois chaussures" },
+            { "front": "Twenty-four clocks", "back": "vingt-quatre heures" },
+            { "front": "Twenty-five plates", "back": "vingt-cinq plaques" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "One black card", "back": "une carte noire" },
+            { "front": "My two dogs", "back": "mes deux chiens" },
+            {
+              "front": "Everyone has four",
+              "back": "tout le monde en a quatre"
+            },
+            { "front": "I need five", "back": "j&#39;en ai besoin de cinq" },
+            { "front": "Give him six", "back": "donne-lui six" },
+            { "front": "Seven red apples", "back": "sept pommes rouges" },
+            { "front": "She took eight", "back": "elle en a pris huit" },
+            { "front": "I have nine", "back": "j&#39;en ai neuf" },
+            { "front": "Ten tall trees", "back": "dix grands arbres" },
+            { "front": "He bought eleven", "back": "il en a acheté onze" },
+            { "front": "She has twelve", "back": "elle en a douze" },
+            { "front": "Thirteen new books", "back": "treize nouveaux livres" },
+            {
+              "front": "Fourteen large cups",
+              "back": "quatorze grandes tasses"
+            },
+            {
+              "front": "We carry fifteen",
+              "back": "nous en transportons quinze"
+            },
+            { "front": "Sixteen green bags", "back": "seize sacs verts" },
+            {
+              "front": "They found seventeen",
+              "back": "ils en ont trouvé dix-sept"
+            },
+            {
+              "front": "Eighteen small chairs",
+              "back": "dix-huit petites chaises"
+            },
+            {
+              "front": "Nineteen blue cars",
+              "back": "dix-neuf voitures bleues"
+            },
+            { "front": "I want twenty", "back": "j&#39;en veux vingt" },
+            {
+              "front": "Twenty-one big trucks",
+              "back": "vingt et un gros camions"
+            },
+            { "front": "She has twenty-two", "back": "elle a vingt-deux ans" },
+            {
+              "front": "We need twenty-three",
+              "back": "il nous en faut vingt-trois"
+            },
+            {
+              "front": "Twenty-four bright lights",
+              "back": "vingt-quatre lumières vives"
+            },
+            { "front": "Give him twenty-five", "back": "donne-lui vingt-cinq" },
+            { "front": "They brought six", "back": "ils ont apporté six" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I have one card", "back": "j&#39;ai une carte" },
+            { "front": "My two dogs play", "back": "mes deux chiens jouent" },
+            {
+              "front": "Everyone had four bags",
+              "back": "tout le monde avait quatre sacs"
+            },
+            {
+              "front": "I need five plates",
+              "back": "j&#39;ai besoin de cinq assiettes"
+            },
+            { "front": "Give him six apples", "back": "donne-lui six pommes" },
+            {
+              "front": "Seven cars are parked",
+              "back": "sept voitures sont garées"
+            },
+            {
+              "front": "She brought eight chairs",
+              "back": "elle a apporté huit chaises"
+            },
+            { "front": "I have nine books", "back": "j&#39;ai neuf livres" },
+            {
+              "front": "Ten apples are fresh",
+              "back": "dix pommes sont fraîches"
+            },
+            {
+              "front": "He bought eleven hats",
+              "back": "il a acheté onze chapeaux"
+            },
+            { "front": "She has twelve cups", "back": "elle a douze tasses" },
+            {
+              "front": "Thirteen pens are missing",
+              "back": "treize stylos manquent"
+            },
+            {
+              "front": "Fourteen clocks are ticking",
+              "back": "quatorze horloges tournent"
+            },
+            {
+              "front": "We carry fifteen bags",
+              "back": "nous portons quinze sacs"
+            },
+            {
+              "front": "Sixteen cars are fast",
+              "back": "seize voitures sont rapides"
+            },
+            {
+              "front": "They found seventeen boxes",
+              "back": "ils ont trouvé dix-sept boîtes"
+            },
+            {
+              "front": "Eighteen chairs are ready",
+              "back": "dix-huit chaises sont prêtes"
+            },
+            {
+              "front": "Nineteen shoes are worn",
+              "back": "dix-neuf chaussures sont portées"
+            },
+            {
+              "front": "I want twenty plates",
+              "back": "je veux vingt assiettes"
+            },
+            {
+              "front": "Twenty-one trucks are moving",
+              "back": "vingt et un camions sont en mouvement"
+            },
+            {
+              "front": "She has twenty-two books",
+              "back": "elle a vingt-deux livres"
+            },
+            {
+              "front": "We need twenty-three bags",
+              "back": "nous avons besoin de vingt-trois sacs"
+            },
+            {
+              "front": "Twenty-four pens are working",
+              "back": "vingt-quatre stylos fonctionnent"
+            },
+            {
+              "front": "Give him twenty-five glasses",
+              "back": "donne-lui vingt-cinq verres"
+            },
+            {
+              "front": "They gave us books",
+              "back": "ils nous ont donné des livres"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I have one black card",
+              "back": "j&#39;ai une carte noire"
+            },
+            {
+              "front": "My two dogs are playing",
+              "back": "mes deux chiens jouent"
+            },
+            {
+              "front": "Everyone had four large bags",
+              "back": "tout le monde avait quatre grands sacs"
+            },
+            {
+              "front": "I need five small plates",
+              "back": "j&#39;ai besoin de cinq petites assiettes"
+            },
+            {
+              "front": "Give him six red apples",
+              "back": "donne-lui six pommes rouges"
+            },
+            {
+              "front": "Seven blue cars are parked",
+              "back": "sept voitures bleues sont garées"
+            },
+            {
+              "front": "She brought eight tall chairs",
+              "back": "elle a apporté huit chaises hautes"
+            },
+            {
+              "front": "I have nine green books",
+              "back": "j&#39;ai neuf livres verts"
+            },
+            {
+              "front": "Ten red apples are fresh",
+              "back": "dix pommes rouges sont fraîches"
+            },
+            {
+              "front": "He bought eleven new hats",
+              "back": "il a acheté onze nouveaux chapeaux"
+            },
+            {
+              "front": "She has twelve small cups",
+              "back": "elle a douze petites tasses"
+            },
+            {
+              "front": "Thirteen blue pens are missing",
+              "back": "treize stylos bleus manquent"
+            },
+            {
+              "front": "Fourteen large clocks are ticking",
+              "back": "quatorze grandes horloges font tic-tac"
+            },
+            {
+              "front": "We carry fifteen heavy bags",
+              "back": "nous portons quinze sacs lourds"
+            },
+            {
+              "front": "Sixteen red cars are fast",
+              "back": "seize voitures rouges sont rapides"
+            },
+            {
+              "front": "They found seventeen large boxes",
+              "back": "ils ont trouvé dix-sept grandes boîtes"
+            },
+            {
+              "front": "Eighteen green chairs are ready",
+              "back": "dix-huit chaises vertes sont prêtes"
+            },
+            {
+              "front": "Nineteen black shoes are worn",
+              "back": "dix-neuf chaussures noires sont portées"
+            },
+            {
+              "front": "I want twenty clean plates",
+              "back": "je veux vingt assiettes propres"
+            },
+            {
+              "front": "Twenty-one big trucks are moving",
+              "back": "vingt et un gros camions sont en mouvement"
+            },
+            {
+              "front": "She has twenty-two new books",
+              "back": "elle a vingt-deux nouveaux livres"
+            },
+            {
+              "front": "We need twenty-three small bags",
+              "back": "nous avons besoin de vingt-trois petits sacs"
+            },
+            {
+              "front": "Twenty-four blue pens are working",
+              "back": "vingt-quatre stylos bleus fonctionnent"
+            },
+            {
+              "front": "Give him twenty-five clean glasses",
+              "back": "donnez-lui vingt-cinq verres propres"
+            },
+            {
+              "front": "They gave us ten books",
+              "back": "ils nous ont donné dix livres"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I have one card in hand",
+              "back": "j&#39;ai une carte en main"
+            },
+            {
+              "front": "My two dogs run every morning",
+              "back": "mes deux chiens courent tous les matins"
+            },
+            {
+              "front": "Everyone had four bags last night",
+              "back": "tout le monde avait quatre sacs hier soir"
+            },
+            {
+              "front": "I need five plates for dinner",
+              "back": "j&#39;ai besoin de cinq assiettes pour le dîner"
+            },
+            {
+              "front": "Give him six apples to eat",
+              "back": "donne-lui six pommes à manger"
+            },
+            {
+              "front": "Seven cars are parked outside now",
+              "back": "sept voitures sont garées dehors maintenant"
+            },
+            {
+              "front": "She brought eight chairs to school",
+              "back": "elle a apporté huit chaises à l&#39;école"
+            },
+            {
+              "front": "I have nine books to read",
+              "back": "j&#39;ai neuf livres à lire"
+            },
+            {
+              "front": "Ten apples are fresh and tasty",
+              "back": "dix pommes sont fraîches et savoureuses"
+            },
+            {
+              "front": "He bought eleven hats for friends",
+              "back": "il a acheté onze chapeaux pour ses amis"
+            },
+            {
+              "front": "She has twelve cups in kitchen",
+              "back": "elle a douze tasses dans la cuisine"
+            },
+            {
+              "front": "Thirteen pens are missing from desk",
+              "back": "treize stylos manquent sur le bureau"
+            },
+            {
+              "front": "Fourteen clocks are ticking in house",
+              "back": "quatorze horloges tournent dans la maison"
+            },
+            {
+              "front": "We carry fifteen bags every day",
+              "back": "nous transportons quinze sacs chaque jour"
+            },
+            {
+              "front": "Sixteen cars are fast on highway",
+              "back": "seize voitures sont rapides sur l&#39;autoroute"
+            },
+            {
+              "front": "They found seventeen boxes in storage",
+              "back": "ils ont trouvé dix-sept cartons dans le stockage"
+            },
+            {
+              "front": "Eighteen chairs are ready for event",
+              "back": "dix-huit chaises sont prêtes pour l&#39;événement"
+            },
+            {
+              "front": "Nineteen shoes are worn by students",
+              "back": "dix-neuf chaussures sont portées par les étudiants"
+            },
+            {
+              "front": "I want twenty plates for party",
+              "back": "je veux vingt assiettes pour la fête"
+            },
+            {
+              "front": "Twenty-one trucks are moving right now",
+              "back": "vingt et un camions circulent en ce moment"
+            },
+            {
+              "front": "She has twenty-two books to read",
+              "back": "elle a vingt-deux livres à lire"
+            },
+            {
+              "front": "We need twenty-three bags for groceries",
+              "back": "nous avons besoin de vingt-trois sacs pour les courses"
+            },
+            {
+              "front": "Twenty-four pens are working very well",
+              "back": "vingt-quatre stylos fonctionnent très bien"
+            },
+            {
+              "front": "Give him twenty-five glasses to clean",
+              "back": "donnez-lui vingt-cinq verres à nettoyer"
+            },
+            {
+              "front": "They gave us books for school",
+              "back": "ils nous ont donné des livres pour l&#39;école"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Was one", "back": "était un" },
+            { "front": "Had two", "back": "avait deux" },
+            { "front": "Used three", "back": "utilisé trois" },
+            { "front": "Saw four", "back": "j&#39;ai vu quatre" },
+            { "front": "Needed five", "back": "il en fallait cinq" },
+            { "front": "Bought six", "back": "acheté six" },
+            { "front": "Found seven", "back": "trouvé sept" },
+            { "front": "Lost eight", "back": "perdu huit" },
+            { "front": "Took nine", "back": "il en a fallu neuf" },
+            { "front": "Carried ten", "back": "porté dix" },
+            { "front": "Counted eleven", "back": "compté onze" },
+            { "front": "Gave twelve", "back": "a donné douze" },
+            { "front": "Kept thirteen", "back": "gardé treize" },
+            { "front": "Held fourteen", "back": "a tenu quatorze" },
+            { "front": "Collected fifteen", "back": "collecté quinze" },
+            { "front": "Gathered sixteen", "back": "rassemblé seize" },
+            { "front": "Picked seventeen", "back": "choisi dix-sept" },
+            { "front": "Chose eighteen", "back": "choisi dix-huit" },
+            { "front": "Arranged nineteen", "back": "arrangé dix-neuf" },
+            { "front": "Needed twenty", "back": "il en fallait vingt" },
+            { "front": "Used twenty-one", "back": "utilisé vingt et un" },
+            { "front": "Had twenty-two", "back": "avait vingt-deux" },
+            { "front": "Saw twenty-three", "back": "vu vingt-trois" },
+            { "front": "Held twenty-four", "back": "tenu vingt-quatre" },
+            { "front": "Bought twenty-five", "back": "acheté vingt-cinq" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I had one", "back": "j&#39;en avais un" },
+            { "front": "He needed three", "back": "il lui en fallait trois" },
+            { "front": "They used twelve", "back": "ils ont utilisé douze" },
+            { "front": "She bought five", "back": "elle en a acheté cinq" },
+            { "front": "We found seven", "back": "nous en avons trouvé sept" },
+            { "front": "He lost eight", "back": "il a perdu huit" },
+            { "front": "They carried ten", "back": "ils en portaient dix" },
+            { "front": "I took nine", "back": "j&#39;en ai pris neuf" },
+            { "front": "She saw four", "back": "elle en a vu quatre" },
+            {
+              "front": "We kept thirteen",
+              "back": "nous en avons gardé treize"
+            },
+            { "front": "He gave two", "back": "il a donné deux" },
+            { "front": "She held eleven", "back": "elle en avait onze" },
+            { "front": "I used six", "back": "j&#39;en ai utilisé six" },
+            {
+              "front": "They gathered sixteen",
+              "back": "ils en ont rassemblé seize"
+            },
+            {
+              "front": "He counted fourteen",
+              "back": "il en a compté quatorze"
+            },
+            {
+              "front": "We picked seventeen",
+              "back": "nous en avons choisi dix-sept"
+            },
+            { "front": "I chose fifteen", "back": "j&#39;ai choisi quinze" },
+            {
+              "front": "She arranged nineteen",
+              "back": "elle en a arrangé dix-neuf"
+            },
+            { "front": "He needed twenty", "back": "il lui en fallait vingt" },
+            {
+              "front": "They held twenty-one",
+              "back": "ils détenaient vingt et un"
+            },
+            {
+              "front": "We had twenty-two",
+              "back": "nous en avions vingt-deux"
+            },
+            {
+              "front": "She used twenty-three",
+              "back": "elle a utilisé vingt-trois"
+            },
+            { "front": "He saw twenty-four", "back": "il a vu vingt-quatre" },
+            {
+              "front": "They bought twenty-five",
+              "back": "ils en ont acheté vingt-cinq"
+            },
+            {
+              "front": "I found eighteen",
+              "back": "j&#39;en ai trouvé dix-huit"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I needed one more",
+              "back": "il m&#39;en fallait un de plus"
+            },
+            { "front": "He had two extra", "back": "il avait deux extras" },
+            {
+              "front": "Everyone bought four more",
+              "back": "tout le monde en a acheté quatre de plus"
+            },
+            {
+              "front": "Nobody had three apples",
+              "back": "personne n&#39;avait trois pommes"
+            },
+            {
+              "front": "There were six cars",
+              "back": "il y avait six voitures"
+            },
+            { "front": "We had nine dogs", "back": "nous avions neuf chiens" },
+            {
+              "front": "She needed ten chairs",
+              "back": "elle avait besoin de dix chaises"
+            },
+            {
+              "front": "They bought five hats",
+              "back": "ils ont acheté cinq chapeaux"
+            },
+            {
+              "front": "He used eleven pens",
+              "back": "il a utilisé onze stylos"
+            },
+            {
+              "front": "We kept twelve books",
+              "back": "nous avons gardé douze livres"
+            },
+            {
+              "front": "She carried seven bags",
+              "back": "elle portait sept sacs"
+            },
+            {
+              "front": "They found fourteen seats",
+              "back": "ils ont trouvé quatorze sièges"
+            },
+            {
+              "front": "I took eight cups",
+              "back": "j&#39;ai pris huit tasses"
+            },
+            {
+              "front": "He lost fifteen shoes",
+              "back": "il a perdu quinze chaussures"
+            },
+            {
+              "front": "Nobody saw eighteen stars",
+              "back": "personne n&#39;a vu dix-huit étoiles"
+            },
+            {
+              "front": "She gave thirteen dollars",
+              "back": "elle a donné treize dollars"
+            },
+            {
+              "front": "They held sixteen boxes",
+              "back": "ils tenaient seize boîtes"
+            },
+            {
+              "front": "We picked twenty apples",
+              "back": "nous avons cueilli vingt pommes"
+            },
+            {
+              "front": "I found seventeen chairs",
+              "back": "j&#39;ai trouvé dix-sept chaises"
+            },
+            {
+              "front": "He counted twenty-two cars",
+              "back": "il a compté vingt-deux voitures"
+            },
+            {
+              "front": "They needed twenty-five items",
+              "back": "ils avaient besoin de vingt-cinq articles"
+            },
+            {
+              "front": "She arranged twenty-four bags",
+              "back": "elle a arrangé vingt-quatre sacs"
+            },
+            {
+              "front": "We bought twenty-one books",
+              "back": "nous avons acheté vingt et un livres"
+            },
+            {
+              "front": "Nobody used nineteen tools",
+              "back": "personne n&#39;a utilisé dix-neuf outils"
+            },
+            {
+              "front": "Everyone saw twenty-three paintings",
+              "back": "tout le monde a vu vingt-trois tableaux"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I needed one big plate",
+              "back": "j&#39;avais besoin d&#39;une grande assiette"
+            },
+            {
+              "front": "She saw seven good dogs",
+              "back": "elle a vu sept bons chiens"
+            },
+            {
+              "front": "Everyone had five poker cards",
+              "back": "tout le monde avait cinq cartes de poker"
+            },
+            {
+              "front": "He used two small bowls",
+              "back": "il a utilisé deux petits bols"
+            },
+            {
+              "front": "We found nine clean glasses",
+              "back": "nous avons trouvé neuf verres propres"
+            },
+            {
+              "front": "They brought four fresh apples",
+              "back": "ils ont apporté quatre pommes fraîches"
+            },
+            {
+              "front": "He carried six heavy bags",
+              "back": "il portait six sacs lourds"
+            },
+            {
+              "front": "I took three large books",
+              "back": "j&#39;ai pris trois gros livres"
+            },
+            {
+              "front": "Nobody saw five fast cars",
+              "back": "personne n&#39;a vu cinq voitures rapides"
+            },
+            {
+              "front": "She gave eight golden coins",
+              "back": "elle a donné huit pièces d&#39;or"
+            },
+            {
+              "front": "They bought ten new hats",
+              "back": "ils ont acheté dix nouveaux chapeaux"
+            },
+            {
+              "front": "We kept fourteen precious items",
+              "back": "nous avons gardé quatorze objets précieux"
+            },
+            {
+              "front": "He counted eleven missing chairs",
+              "back": "il a compté onze chaises manquantes"
+            },
+            {
+              "front": "She held fifteen large plates",
+              "back": "elle tenait quinze grandes assiettes"
+            },
+            {
+              "front": "Everyone needed twelve fresh towels",
+              "back": "tout le monde avait besoin de douze serviettes propres"
+            },
+            {
+              "front": "He found sixteen useful tools",
+              "back": "il a trouvé seize outils utiles"
+            },
+            {
+              "front": "They arranged twenty bright flowers",
+              "back": "ils ont disposé vingt fleurs lumineuses"
+            },
+            {
+              "front": "I lost thirteen important papers",
+              "back": "j&#39;ai perdu treize papiers importants"
+            },
+            {
+              "front": "Nobody picked nineteen ripe oranges",
+              "back": "personne n&#39;a cueilli dix-neuf oranges mûres"
+            },
+            {
+              "front": "We brought eighteen cold drinks",
+              "back": "nous avons apporté dix-huit boissons fraîches"
+            },
+            {
+              "front": "She bought seventeen yellow dresses",
+              "back": "elle a acheté dix-sept robes jaunes"
+            },
+            {
+              "front": "He gave twenty nice presents",
+              "back": "il a offert vingt beaux cadeaux"
+            },
+            {
+              "front": "They counted twenty-five long cables",
+              "back": "ils ont compté vingt-cinq longs câbles"
+            },
+            {
+              "front": "I needed twenty-two black pens",
+              "back": "j&#39;avais besoin de vingt-deux stylos noirs"
+            },
+            {
+              "front": "Nobody had twenty-three blue chairs",
+              "back": "personne n&#39;avait vingt-trois chaises bleues"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The captain needed five good men",
+              "back": "le capitaine avait besoin de cinq bons hommes"
+            },
+            {
+              "front": "I bought fifteen dinner plates",
+              "back": "j&#39;ai acheté quinze assiettes plates"
+            },
+            {
+              "front": "Everyone was dealt five poker cards",
+              "back": "tout le monde a reçu cinq cartes de poker"
+            },
+            {
+              "front": "Only three chairs had blue cover",
+              "back": "seulement trois chaises avaient une housse bleue"
+            },
+            {
+              "front": "She gave him two clean towels",
+              "back": "elle lui a donné deux serviettes propres"
+            },
+            {
+              "front": "We found seven missing red keys",
+              "back": "nous avons trouvé sept clés rouges manquantes"
+            },
+            {
+              "front": "They needed six bags of apples",
+              "back": "ils avaient besoin de six sacs de pommes"
+            },
+            {
+              "front": "He carried twelve heavy wooden boxes",
+              "back": "il portait douze lourdes caisses en bois"
+            },
+            {
+              "front": "I counted nine colorful birthday balloons",
+              "back": "j&#39;ai compté neuf ballons d&#39;anniversaire colorés"
+            },
+            {
+              "front": "Nobody saw eight large parked trucks",
+              "back": "personne n&#39;a vu huit gros camions garés"
+            },
+            {
+              "front": "She brought four books to class",
+              "back": "elle a apporté quatre livres en classe"
+            },
+            {
+              "front": "He had fourteen days of vacation",
+              "back": "il avait quatorze jours de vacances"
+            },
+            {
+              "front": "We picked twenty flowers last night",
+              "back": "nous avons cueilli vingt fleurs hier soir"
+            },
+            {
+              "front": "She held thirteen coins in hand",
+              "back": "elle tenait treize pièces dans sa main"
+            },
+            {
+              "front": "He lost ten of his papers",
+              "back": "il a perdu dix de ses papiers"
+            },
+            {
+              "front": "They arranged eighteen seats in rows",
+              "back": "ils ont disposé dix-huit sièges en rangées"
+            },
+            {
+              "front": "I found sixteen ripe apples yesterday",
+              "back": "j&#39;ai trouvé seize pommes mûres hier"
+            },
+            {
+              "front": "Nobody needed eleven chairs for event",
+              "back": "personne n&#39;avait besoin de onze chaises pour un événement"
+            },
+            {
+              "front": "We carried twenty-five plates last night",
+              "back": "nous avons transporté vingt-cinq assiettes hier soir"
+            },
+            {
+              "front": "She bought twenty new pens yesterday",
+              "back": "elle a acheté vingt nouveaux stylos hier"
+            },
+            {
+              "front": "They gave him nineteen red balloons",
+              "back": "ils lui ont donné dix-neuf ballons rouges"
+            },
+            {
+              "front": "He had twenty-one bags of flour",
+              "back": "il avait vingt et un sacs de farine"
+            },
+            {
+              "front": "I lost seventeen books last week",
+              "back": "j&#39;ai perdu dix-sept livres la semaine dernière"
+            },
+            {
+              "front": "We counted twenty-two spoons after dinner",
+              "back": "nous avons compté vingt-deux cuillères après le dîner"
+            },
+            {
+              "front": "Everyone received twenty-four fresh towels",
+              "back": "tout le monde a reçu vingt-quatre serviettes propres"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will have one", "back": "en aura un" },
+            { "front": "Two will show", "back": "deux montreront" },
+            { "front": "Three will appear", "back": "trois apparaîtront" },
+            { "front": "Will be six", "back": "aura six ans" },
+            { "front": "Four will follow", "back": "quatre suivront" },
+            { "front": "Will find five", "back": "trouvera cinq" },
+            { "front": "Will use seven", "back": "utilisera sept" },
+            { "front": "Eight will arrive", "back": "huit arriveront" },
+            { "front": "Nine will remain", "back": "il en restera neuf" },
+            { "front": "Will bring ten", "back": "apportera dix" },
+            { "front": "Eleven will help", "back": "onze aideront" },
+            { "front": "Will need twelve", "back": "il en faudra douze" },
+            { "front": "Thirteen will fit", "back": "treize conviendront" },
+            { "front": "Fourteen will count", "back": "quatorze compteront" },
+            { "front": "Will take fifteen", "back": "cela prendra quinze" },
+            { "front": "Sixteen will move", "back": "seize vont déménager" },
+            { "front": "Seventeen will stay", "back": "dix-sept resteront" },
+            { "front": "Will hold eighteen", "back": "tiendra dix-huit" },
+            { "front": "Nineteen will wait", "back": "dix-neuf attendront" },
+            { "front": "Will have twenty", "back": "aura vingt" },
+            {
+              "front": "Twenty-one will continue",
+              "back": "vingt et un continueront"
+            },
+            {
+              "front": "Will bring twenty-two",
+              "back": "apportera vingt-deux"
+            },
+            {
+              "front": "Will find twenty-three",
+              "back": "trouvera vingt-trois"
+            },
+            {
+              "front": "Twenty-four will fit",
+              "back": "vingt-quatre conviendront"
+            },
+            { "front": "Will need twenty-five", "back": "il faudra vingt-cinq" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "He will need one",
+              "back": "il en aura besoin d&#39;un"
+            },
+            { "front": "I will have two", "back": "j&#39;en aurai deux" },
+            {
+              "front": "They will bring three",
+              "back": "ils en apporteront trois"
+            },
+            {
+              "front": "Everyone will have ten",
+              "back": "tout le monde en aura dix"
+            },
+            {
+              "front": "She will find four",
+              "back": "elle en trouvera quatre"
+            },
+            {
+              "front": "We will need five",
+              "back": "nous aurons besoin de cinq"
+            },
+            { "front": "He will use six", "back": "il en utilisera six" },
+            { "front": "I will keep seven", "back": "j&#39;en garderai sept" },
+            { "front": "She will take eight", "back": "elle en prendra huit" },
+            { "front": "They will carry nine", "back": "ils porteront neuf" },
+            { "front": "He will bring ten", "back": "il en apportera dix" },
+            {
+              "front": "We will share eleven",
+              "back": "nous partagerons onze"
+            },
+            {
+              "front": "I will hold twelve",
+              "back": "j&#39;en tiendrai douze"
+            },
+            {
+              "front": "She will carry thirteen",
+              "back": "elle portera treize"
+            },
+            {
+              "front": "They will need fourteen",
+              "back": "ils auront besoin de quatorze"
+            },
+            {
+              "front": "I will count fifteen",
+              "back": "je vais compter quinze"
+            },
+            {
+              "front": "We will take sixteen",
+              "back": "nous en prendrons seize"
+            },
+            {
+              "front": "He will show seventeen",
+              "back": "il montrera dix-sept"
+            },
+            {
+              "front": "She will have eighteen",
+              "back": "elle aura dix-huit ans"
+            },
+            {
+              "front": "I will bring nineteen",
+              "back": "j&#39;en apporterai dix-neuf"
+            },
+            {
+              "front": "They will find twenty",
+              "back": "ils en trouveront vingt"
+            },
+            {
+              "front": "She will hold twenty-one",
+              "back": "elle en détiendra vingt et un"
+            },
+            {
+              "front": "We will use twenty-two",
+              "back": "nous utiliserons vingt-deux"
+            },
+            {
+              "front": "He will need twenty-three",
+              "back": "il lui en faudra vingt-trois"
+            },
+            {
+              "front": "I will find twenty-four",
+              "back": "je trouverai vingt-quatre"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will need one more",
+              "back": "il m&#39;en faudra encore un"
+            },
+            {
+              "front": "He will make five chairs",
+              "back": "il fera cinq chaises"
+            },
+            {
+              "front": "She will wait seven minutes",
+              "back": "elle attendra sept minutes"
+            },
+            {
+              "front": "There are six dogs here",
+              "back": "il y a six chiens ici"
+            },
+            {
+              "front": "Seven more cars will arrive",
+              "back": "sept autres voitures arriveront"
+            },
+            {
+              "front": "We will buy ten apples",
+              "back": "nous achèterons dix pommes"
+            },
+            {
+              "front": "They will bring four bags",
+              "back": "ils apporteront quatre sacs"
+            },
+            {
+              "front": "I will pick three books",
+              "back": "je choisirai trois livres"
+            },
+            {
+              "front": "She will give two gifts",
+              "back": "elle offrira deux cadeaux"
+            },
+            {
+              "front": "He will count twelve boxes",
+              "back": "il comptera douze boîtes"
+            },
+            {
+              "front": "They will need eight chairs",
+              "back": "ils auront besoin de huit chaises"
+            },
+            {
+              "front": "We will carry nine bags",
+              "back": "nous porterons neuf sacs"
+            },
+            {
+              "front": "She will hold thirteen flowers",
+              "back": "elle tiendra treize fleurs"
+            },
+            {
+              "front": "He will arrange fifteen tables",
+              "back": "il disposera quinze tables"
+            },
+            {
+              "front": "We will take twenty pictures",
+              "back": "nous prendrons vingt photos"
+            },
+            {
+              "front": "I will need twenty cups",
+              "back": "j&#39;aurai besoin de vingt tasses"
+            },
+            {
+              "front": "He will use twenty-one pens",
+              "back": "il utilisera vingt et un stylos"
+            },
+            {
+              "front": "She will bring twenty-four plates",
+              "back": "elle apportera vingt-quatre assiettes"
+            },
+            {
+              "front": "They will sell twenty-five tickets",
+              "back": "ils vendront vingt-cinq billets"
+            },
+            {
+              "front": "We will show sixteen photos",
+              "back": "nous montrerons seize photos"
+            },
+            {
+              "front": "He will find seventeen coins",
+              "back": "il trouvera dix-sept pièces"
+            },
+            {
+              "front": "She will have fourteen candles",
+              "back": "elle aura quatorze bougies"
+            },
+            {
+              "front": "I will need eleven spoons",
+              "back": "j&#39;aurai besoin de onze cuillères"
+            },
+            {
+              "front": "He will find twenty-three chairs",
+              "back": "il trouvera vingt-trois chaises"
+            },
+            {
+              "front": "We will take nineteen steps",
+              "back": "nous ferons dix-neuf pas"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will need one big plate",
+              "back": "j&#39;aurai besoin d&#39;une grande assiette"
+            },
+            {
+              "front": "Everyone will want seven big apples",
+              "back": "tout le monde voudra sept grosses pommes"
+            },
+            {
+              "front": "Six dogs play in the park",
+              "back": "six chiens jouent dans le parc"
+            },
+            {
+              "front": "Nine cars collide on the freeway",
+              "back": "neuf voitures entrent en collision sur l&#39;autoroute"
+            },
+            {
+              "front": "We will carry five heavy bags",
+              "back": "nous porterons cinq sacs lourds"
+            },
+            {
+              "front": "He will count eleven small chairs",
+              "back": "il comptera onze petites chaises"
+            },
+            {
+              "front": "She will hold thirteen red roses",
+              "back": "elle tiendra treize roses rouges"
+            },
+            {
+              "front": "They will bring ten wooden tables",
+              "back": "ils apporteront dix tables en bois"
+            },
+            {
+              "front": "I will find twenty-two golden coins",
+              "back": "je trouverai vingt-deux pièces d&#39;or"
+            },
+            {
+              "front": "He will buy twelve colorful balloons",
+              "back": "il achètera douze ballons colorés"
+            },
+            {
+              "front": "She will sell nine old books",
+              "back": "elle vendra neuf vieux livres"
+            },
+            {
+              "front": "They will arrange eight tall chairs",
+              "back": "ils disposeront huit chaises hautes"
+            },
+            {
+              "front": "We will show nineteen interesting pictures",
+              "back": "nous montrerons dix-neuf images intéressantes"
+            },
+            {
+              "front": "He will use fourteen blue markers",
+              "back": "il utilisera quatorze marqueurs bleus"
+            },
+            {
+              "front": "She will bake twenty large cookies",
+              "back": "elle fera cuire vingt gros biscuits"
+            },
+            {
+              "front": "I will need six red cups",
+              "back": "j&#39;aurai besoin de six tasses rouges"
+            },
+            {
+              "front": "He will find twenty-five silver spoons",
+              "back": "il trouvera vingt-cinq cuillères en argent"
+            },
+            {
+              "front": "She will buy seventeen new plates",
+              "back": "elle achètera dix-sept nouvelles assiettes"
+            },
+            {
+              "front": "We will carry sixteen heavy boxes",
+              "back": "nous porterons seize cartons lourds"
+            },
+            {
+              "front": "They will send twenty important emails",
+              "back": "ils enverront vingt e-mails importants"
+            },
+            {
+              "front": "I will want fifteen ripe bananas",
+              "back": "je voudrais quinze bananes mûres"
+            },
+            {
+              "front": "He will paint twenty-three small fences",
+              "back": "il peindra vingt-trois petites clôtures"
+            },
+            {
+              "front": "She will sew twenty-four silk dresses",
+              "back": "elle coudra vingt-quatre robes en soie"
+            },
+            {
+              "front": "They will drive eleven fast cars",
+              "back": "ils conduiront onze voitures rapides"
+            },
+            {
+              "front": "We will take twenty cool pictures",
+              "back": "nous prendrons vingt photos sympas"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

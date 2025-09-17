@@ -1,0 +1,1793 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Household Items",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Lamp", "back": "lampe" },
+            { "front": "Bed", "back": "lit" },
+            { "front": "Desk", "back": "bureau" },
+            { "front": "Chair", "back": "chaise" },
+            { "front": "Couch", "back": "canapé" },
+            { "front": "Table", "back": "tableau" },
+            { "front": "Bookshelf", "back": "étagère" },
+            { "front": "Dresser", "back": "buffet" },
+            { "front": "Closet", "back": "placard" },
+            { "front": "Carpet", "back": "tapis" },
+            { "front": "Rug", "back": "tapis" },
+            { "front": "Mirror", "back": "miroir" },
+            { "front": "Curtains", "back": "rideaux" },
+            { "front": "Television", "back": "télévision" },
+            { "front": "Remote", "back": "télécommande" },
+            { "front": "Picture frame", "back": "cadre photo" },
+            { "front": "Fan", "back": "ventilateur" },
+            { "front": "Clock", "back": "horloge" },
+            { "front": "Laundry basket", "back": "panier à linge" },
+            { "front": "Pillow", "back": "oreiller" },
+            { "front": "Blanket", "back": "couverture" },
+            { "front": "Lampstand", "back": "pied de lampe" },
+            { "front": "Wardrobe", "back": "garde-robe" },
+            { "front": "Sofa", "back": "canapé" },
+            { "front": "Nightstand", "back": "table de chevet" },
+            { "front": "Armchair", "back": "fauteuil" },
+            { "front": "Coffee table", "back": "table basse" },
+            { "front": "End table", "back": "table d&#39;appoint" },
+            { "front": "Books", "back": "livres" },
+            { "front": "Plant", "back": "usine" },
+            { "front": "Vase", "back": "vase" },
+            { "front": "Chandelier", "back": "lustre" },
+            { "front": "Drawer", "back": "tiroir" },
+            { "front": "Mat", "back": "avec" },
+            { "front": "Shoe rack", "back": "étagère à chaussures" },
+            { "front": "Coat rack", "back": "porte-manteau" },
+            { "front": "Painting", "back": "peinture" },
+            { "front": "Candles", "back": "bougies" },
+            { "front": "Throw pillow", "back": "coussin décoratif" },
+            { "front": "Magazine", "back": "revue" },
+            { "front": "Picture", "back": "image" },
+            { "front": "Heater", "back": "chauffage" },
+            { "front": "Vacuum cleaner", "back": "aspirateur" },
+            { "front": "Stereo", "back": "stéréo" },
+            { "front": "Trash can", "back": "poubelle" },
+            { "front": "Shoes", "back": "chaussures" },
+            { "front": "Picture album", "back": "album photo" },
+            { "front": "Blinds", "back": "stores" },
+            { "front": "Shelves", "back": "étagères" },
+            { "front": "Step stool", "back": "escabeau" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "My couch", "back": "mon canapé" },
+            { "front": "His chair", "back": "sa chaise" },
+            { "front": "Her stereo", "back": "sa chaîne stéréo" },
+            { "front": "The vase", "back": "le vase" },
+            { "front": "The plant", "back": "la plante" },
+            { "front": "My bed", "back": "mon lit" },
+            { "front": "Her desk", "back": "son bureau" },
+            { "front": "His lamp", "back": "sa lampe" },
+            { "front": "The rug", "back": "le tapis" },
+            { "front": "My bookshelf", "back": "ma bibliothèque" },
+            { "front": "His dresser", "back": "sa commode" },
+            { "front": "Her mirror", "back": "son miroir" },
+            { "front": "The table", "back": "la table" },
+            { "front": "My fan", "back": "mon fan" },
+            { "front": "Her clock", "back": "son horloge" },
+            { "front": "His laundry basket", "back": "son panier à linge" },
+            { "front": "The pillow", "back": "l&#39;oreiller" },
+            { "front": "Her blanket", "back": "sa couverture" },
+            { "front": "His nightstand", "back": "sa table de nuit" },
+            { "front": "The carpet", "back": "le tapis" },
+            { "front": "My curtains", "back": "mes rideaux" },
+            { "front": "Her armchair", "back": "son fauteuil" },
+            { "front": "His picture frame", "back": "son cadre photo" },
+            { "front": "The remote", "back": "la télécommande" },
+            { "front": "Her wardrobe", "back": "sa garde-robe" },
+            { "front": "His sofa", "back": "son canapé" },
+            { "front": "My end table", "back": "ma table d&#39;appoint" },
+            { "front": "The lampstand", "back": "le chandelier" },
+            { "front": "My mat", "back": "mon tapis" },
+            { "front": "Her magazine", "back": "son magazine" },
+            { "front": "His coat rack", "back": "son porte-manteau" },
+            { "front": "My drawer", "back": "mon tiroir" },
+            { "front": "The chandelier", "back": "le lustre" },
+            { "front": "Her painting", "back": "sa peinture" },
+            { "front": "His shoes", "back": "ses chaussures" },
+            { "front": "The heater", "back": "le radiateur" },
+            { "front": "My trash can", "back": "ma poubelle" },
+            { "front": "Her step stool", "back": "son marchepied" },
+            { "front": "His blinds", "back": "ses stores" },
+            { "front": "The shelves", "back": "les étagères" },
+            { "front": "My picture", "back": "ma photo" },
+            { "front": "Her candles", "back": "ses bougies" },
+            { "front": "His shoe rack", "back": "son étagère à chaussures" },
+            { "front": "The vacuum cleaner", "back": "l&#39;aspirateur" },
+            { "front": "My coat rack", "back": "mon porte-manteau" },
+            { "front": "Her picture album", "back": "son album photo" },
+            { "front": "His step stool", "back": "son escabeau" },
+            { "front": "The trash can", "back": "la poubelle" },
+            { "front": "My heater", "back": "mon radiateur" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "The tall vase", "back": "le grand vase" },
+            {
+              "front": "My comfortable couch",
+              "back": "mon canapé confortable"
+            },
+            { "front": "The melted candles", "back": "les bougies fondues" },
+            { "front": "Her colorful picture", "back": "sa photo colorée" },
+            { "front": "His large bed", "back": "son grand lit" },
+            { "front": "The soft blanket", "back": "la couverture douce" },
+            { "front": "Her shiny mirror", "back": "son miroir brillant" },
+            { "front": "My wooden desk", "back": "mon bureau en bois" },
+            { "front": "The round table", "back": "la table ronde" },
+            { "front": "His fluffy pillow", "back": "son oreiller moelleux" },
+            { "front": "Her silver lamp", "back": "sa lampe en argent" },
+            { "front": "The thick carpet", "back": "le tapis épais" },
+            {
+              "front": "His modern bookshelf",
+              "back": "sa bibliothèque moderne"
+            },
+            { "front": "My red curtains", "back": "mes rideaux rouges" },
+            { "front": "Her old dresser", "back": "sa vieille commode" },
+            { "front": "The big wardrobe", "back": "la grande armoire" },
+            {
+              "front": "His sleek nightstand",
+              "back": "sa table de chevet élégante"
+            },
+            { "front": "My small rug", "back": "mon petit tapis" },
+            { "front": "Her tall lampstand", "back": "son grand chandelier" },
+            { "front": "The heavy armchair", "back": "le fauteuil lourd" },
+            { "front": "My glass chandelier", "back": "mon lustre en verre" },
+            {
+              "front": "His vintage stereo",
+              "back": "sa chaîne stéréo vintage"
+            },
+            { "front": "Her soft pillow", "back": "son oreiller moelleux" },
+            { "front": "The black remote", "back": "la télécommande noire" },
+            {
+              "front": "His sturdy coffee table",
+              "back": "sa table basse robuste"
+            },
+            { "front": "My elegant chandelier", "back": "mon élégant lustre" },
+            { "front": "Her framed picture", "back": "sa photo encadrée" },
+            { "front": "The comfy sofa", "back": "le canapé confortable" },
+            { "front": "His green plant", "back": "sa plante verte" },
+            { "front": "The bright painting", "back": "le tableau lumineux" },
+            { "front": "Her stylish curtains", "back": "ses rideaux élégants" },
+            { "front": "My blue carpet", "back": "mon tapis bleu" },
+            { "front": "The soft chair", "back": "la chaise moelleuse" },
+            { "front": "His tall bookshelf", "back": "sa grande étagère" },
+            { "front": "My big closet", "back": "mon grand placard" },
+            {
+              "front": "Her favorite magazine",
+              "back": "son magazine préféré"
+            },
+            { "front": "The warm heater", "back": "le radiateur chaud" },
+            { "front": "His clean trash can", "back": "sa poubelle propre" },
+            { "front": "The shiny mirror", "back": "le miroir brillant" },
+            { "front": "Her sturdy dresser", "back": "sa commode robuste" },
+            { "front": "The soft mat", "back": "le tapis moelleux" },
+            { "front": "His old coat rack", "back": "son vieux porte-manteau" },
+            { "front": "My red lamp", "back": "ma lampe rouge" },
+            {
+              "front": "Her bright lampstand",
+              "back": "son chandelier brillant"
+            },
+            {
+              "front": "His white picture frame",
+              "back": "son cadre photo blanc"
+            },
+            { "front": "The blue armchair", "back": "le fauteuil bleu" },
+            { "front": "My tall coat rack", "back": "mon grand porte-manteau" },
+            { "front": "Her old step stool", "back": "son vieux marchepied" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "His lamp shines bright",
+              "back": "sa lampe brille fort"
+            },
+            { "front": "Her chair is nice", "back": "sa chaise est belle" },
+            {
+              "front": "They have nice pictures",
+              "back": "ils ont de belles photos"
+            },
+            { "front": "The mat is dirty", "back": "le tapis est sale" },
+            {
+              "front": "The curtains are closed",
+              "back": "les rideaux sont fermés"
+            },
+            {
+              "front": "My bed feels comfortable",
+              "back": "mon lit est confortable"
+            },
+            {
+              "front": "The table looks clean",
+              "back": "la table a l&#39;air propre"
+            },
+            {
+              "front": "Her couch is cozy",
+              "back": "son canapé est confortable"
+            },
+            { "front": "His pillow is soft", "back": "son oreiller est doux" },
+            {
+              "front": "The mirror reflects light",
+              "back": "le miroir reflète la lumière"
+            },
+            {
+              "front": "Their rug looks beautiful",
+              "back": "leur tapis est magnifique"
+            },
+            {
+              "front": "Our desk is messy",
+              "back": "notre bureau est en désordre"
+            },
+            { "front": "The lamp is broken", "back": "La lampe est cassée" },
+            { "front": "His dresser is full", "back": "sa commode est pleine" },
+            {
+              "front": "Her bookshelf is empty",
+              "back": "sa bibliothèque est vide"
+            },
+            {
+              "front": "The fan spins quickly",
+              "back": "le ventilateur tourne rapidement"
+            },
+            {
+              "front": "His blanket is warm",
+              "back": "sa couverture est chaude"
+            },
+            {
+              "front": "Her closet is organized",
+              "back": "son placard est organisé"
+            },
+            {
+              "front": "The clock ticks loudly",
+              "back": "l&#39;horloge sonne fort"
+            },
+            {
+              "front": "Our armchair is new",
+              "back": "notre fauteuil est neuf"
+            },
+            {
+              "front": "His curtains are open",
+              "back": "ses rideaux sont ouverts"
+            },
+            {
+              "front": "Her vase looks beautiful",
+              "back": "son vase est magnifique"
+            },
+            {
+              "front": "The remote is missing",
+              "back": "la télécommande est manquante"
+            },
+            {
+              "front": "Their couch feels soft",
+              "back": "leur canapé est moelleux"
+            },
+            { "front": "The heater is on", "back": "le chauffage est allumé" },
+            { "front": "My mirror is clean", "back": "mon miroir est propre" },
+            { "front": "Her plant is growing", "back": "sa plante pousse" },
+            {
+              "front": "The chandelier is bright",
+              "back": "le lustre est brillant"
+            },
+            { "front": "His rug is soft", "back": "son tapis est doux" },
+            {
+              "front": "The dresser is messy",
+              "back": "la commode est en désordre"
+            },
+            {
+              "front": "Our trash can smells",
+              "back": "notre poubelle sent mauvais"
+            },
+            {
+              "front": "The carpet looks new",
+              "back": "le tapis a l&#39;air neuf"
+            },
+            {
+              "front": "Her nightstand is small",
+              "back": "sa table de nuit est petite"
+            },
+            {
+              "front": "His picture frame shines",
+              "back": "son cadre photo brille"
+            },
+            { "front": "The clock is ticking", "back": "le temps presse" },
+            {
+              "front": "My stereo plays music",
+              "back": "ma chaîne stéréo joue de la musique"
+            },
+            {
+              "front": "Her bookshelf is wooden",
+              "back": "sa bibliothèque est en bois"
+            },
+            {
+              "front": "Their lampstand is tall",
+              "back": "leur chandelier est haut"
+            },
+            { "front": "The rug is dirty", "back": "le tapis est sale" },
+            {
+              "front": "Her coffee table wobbles",
+              "back": "sa table basse vacille"
+            },
+            {
+              "front": "The picture looks faded",
+              "back": "l&#39;image semble décolorée"
+            },
+            {
+              "front": "His end table squeaks",
+              "back": "sa table d&#39;appoint grince"
+            },
+            {
+              "front": "Her shoe rack collapsed",
+              "back": "son étagère à chaussures s&#39;est effondrée"
+            },
+            { "front": "The mat feels rough", "back": "le tapis est rugueux" },
+            {
+              "front": "Our armchair is sturdy",
+              "back": "notre fauteuil est robuste"
+            },
+            { "front": "The chair is broken", "back": "la chaise est cassée" },
+            { "front": "My carpet is stained", "back": "mon tapis est taché" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "He sat in the chair",
+              "back": "il s&#39;est assis sur la chaise"
+            },
+            {
+              "front": "Dinner is on the table",
+              "back": "le dîner est sur la table"
+            },
+            {
+              "front": "The cat sleeps on pillows",
+              "back": "le chat dort sur des oreillers"
+            },
+            {
+              "front": "He has a nice picture",
+              "back": "il a une belle photo"
+            },
+            {
+              "front": "She placed books on shelf",
+              "back": "elle a placé des livres sur une étagère"
+            },
+            {
+              "front": "I am sitting on couch",
+              "back": "je suis assis sur le canapé"
+            },
+            {
+              "front": "The vase sits by window",
+              "back": "le vase est assis près de la fenêtre"
+            },
+            {
+              "front": "The lamp is shining bright",
+              "back": "la lampe brille fort"
+            },
+            {
+              "front": "He relaxes on the sofa",
+              "back": "il se détend sur le canapé"
+            },
+            {
+              "front": "She enjoys reading by lamp",
+              "back": "elle aime lire à la lampe"
+            },
+            {
+              "front": "They have shoes on rack",
+              "back": "ils ont des chaussures sur un support"
+            },
+            {
+              "front": "My mirror reflects the sunlight",
+              "back": "mon miroir reflète la lumière du soleil"
+            },
+            {
+              "front": "She keeps magazines on table",
+              "back": "elle garde des magazines sur la table"
+            },
+            {
+              "front": "He stores clothes in dresser",
+              "back": "il range ses vêtements dans une commode"
+            },
+            {
+              "front": "The remote is on couch",
+              "back": "la télécommande est sur le canapé"
+            },
+            {
+              "front": "The clock shows wrong time",
+              "back": "l&#39;horloge indique la mauvaise heure"
+            },
+            {
+              "front": "I have pillows on bed",
+              "back": "j&#39;ai des oreillers sur le lit"
+            },
+            {
+              "front": "Her stereo plays loud music",
+              "back": "sa chaîne stéréo joue de la musique forte"
+            },
+            {
+              "front": "The bookshelf holds many books",
+              "back": "la bibliothèque contient de nombreux livres"
+            },
+            {
+              "front": "She puts flowers in vase",
+              "back": "elle met des fleurs dans un vase"
+            },
+            {
+              "front": "The rug covers entire floor",
+              "back": "le tapis recouvre tout le sol"
+            },
+            {
+              "front": "The heater warms up room",
+              "back": "le radiateur réchauffe la pièce"
+            },
+            {
+              "front": "He turns on bedside lamp",
+              "back": "il allume la lampe de chevet"
+            },
+            {
+              "front": "The curtains block out sun",
+              "back": "les rideaux bloquent le soleil"
+            },
+            {
+              "front": "She cleaned the mirror today",
+              "back": "elle a nettoyé le miroir aujourd&#39;hui"
+            },
+            {
+              "front": "The painting hangs above desk",
+              "back": "le tableau est accroché au-dessus du bureau"
+            },
+            {
+              "front": "The dog lies on carpet",
+              "back": "le chien est allongé sur le tapis"
+            },
+            {
+              "front": "She adjusts the pillow carefully",
+              "back": "elle ajuste soigneusement l&#39;oreiller"
+            },
+            {
+              "front": "He places the picture frame",
+              "back": "il place le cadre photo"
+            },
+            {
+              "front": "The fan spins on high",
+              "back": "le ventilateur tourne à plein régime"
+            },
+            {
+              "front": "My dresser drawers are full",
+              "back": "les tiroirs de ma commode sont pleins"
+            },
+            {
+              "front": "He uses the vacuum daily",
+              "back": "il utilise l&#39;aspirateur tous les jours"
+            },
+            {
+              "front": "She lights candles every evening",
+              "back": "elle allume des bougies tous les soirs"
+            },
+            {
+              "front": "The plant grows by window",
+              "back": "la plante pousse près de la fenêtre"
+            },
+            {
+              "front": "I organize my bookshelf today",
+              "back": "j&#39;organise ma bibliothèque aujourd&#39;hui"
+            },
+            {
+              "front": "She dusts off coffee table",
+              "back": "elle dépoussière la table basse"
+            },
+            {
+              "front": "He places shoes on mat",
+              "back": "il place les chaussures sur le tapis"
+            },
+            {
+              "front": "The armchair is next couch",
+              "back": "le fauteuil est le canapé à côté"
+            },
+            {
+              "front": "She arranges flowers in vase",
+              "back": "elle arrange des fleurs dans un vase"
+            },
+            {
+              "front": "The end table holds lamp",
+              "back": "la table d&#39;appoint contient une lampe"
+            },
+            {
+              "front": "He fixes broken coat rack",
+              "back": "il répare le porte-manteau cassé"
+            },
+            {
+              "front": "The curtains are tied back",
+              "back": "les rideaux sont attachés"
+            },
+            {
+              "front": "She places keys on table",
+              "back": "elle pose les clés sur la table"
+            },
+            {
+              "front": "He paints wall behind chair",
+              "back": "il peint le mur derrière la chaise"
+            },
+            {
+              "front": "The nightstand holds her book",
+              "back": "la table de nuit contient son livre"
+            },
+            {
+              "front": "She opens window near dresser",
+              "back": "elle ouvre la fenêtre près de la commode"
+            },
+            {
+              "front": "He sets alarm clock daily",
+              "back": "il règle son réveil tous les jours"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "He sat in the metal chair",
+              "back": "il s&#39;est assis sur la chaise en métal"
+            },
+            {
+              "front": "Dinner is on the table now",
+              "back": "le dîner est sur la table maintenant"
+            },
+            {
+              "front": "The cat sleeps on soft pillows",
+              "back": "le chat dort sur des oreillers moelleux"
+            },
+            {
+              "front": "He has a nice picture frame",
+              "back": "il a un joli cadre photo"
+            },
+            {
+              "front": "She placed books on the shelf",
+              "back": "elle a placé des livres sur l&#39;étagère"
+            },
+            {
+              "front": "I am sitting on the couch",
+              "back": "je suis assis sur le canapé"
+            },
+            {
+              "front": "The vase sits by the window",
+              "back": "le vase est assis près de la fenêtre"
+            },
+            {
+              "front": "The large lamp is shining brightly",
+              "back": "la grande lampe brille intensément"
+            },
+            {
+              "front": "He relaxes on the comfortable sofa",
+              "back": "il se détend sur le canapé confortable"
+            },
+            {
+              "front": "She enjoys reading by the lamp",
+              "back": "elle aime lire à la lampe"
+            },
+            {
+              "front": "They have shoes on the rack",
+              "back": "ils ont des chaussures sur le support"
+            },
+            {
+              "front": "My mirror reflects the afternoon sunlight",
+              "back": "mon miroir reflète la lumière du soleil de l&#39;après-midi"
+            },
+            {
+              "front": "She keeps magazines on the table",
+              "back": "elle garde des magazines sur la table"
+            },
+            {
+              "front": "He stores clothes in the dresser",
+              "back": "il range les vêtements dans la commode"
+            },
+            {
+              "front": "The remote is on the couch",
+              "back": "la télécommande est sur le canapé"
+            },
+            {
+              "front": "The clock shows the wrong time",
+              "back": "l&#39;horloge indique la mauvaise heure"
+            },
+            {
+              "front": "I have pillows on my bed",
+              "back": "j&#39;ai des oreillers sur mon lit"
+            },
+            {
+              "front": "Her stereo plays loud annoying music",
+              "back": "sa chaîne stéréo joue une musique forte et agaçante"
+            },
+            {
+              "front": "The bookshelf holds many large books",
+              "back": "la bibliothèque contient de nombreux gros livres"
+            },
+            {
+              "front": "She puts flowers in the vase",
+              "back": "elle met des fleurs dans le vase"
+            },
+            {
+              "front": "The rug covers the entire floor",
+              "back": "le tapis recouvre tout le sol"
+            },
+            {
+              "front": "The heater warms up the room",
+              "back": "le radiateur réchauffe la pièce"
+            },
+            {
+              "front": "He turns on the bedside lamp",
+              "back": "il allume la lampe de chevet"
+            },
+            {
+              "front": "The curtains block out the sun",
+              "back": "les rideaux bloquent le soleil"
+            },
+            {
+              "front": "She cleaned the dirty mirror today",
+              "back": "elle a nettoyé le miroir sale aujourd&#39;hui"
+            },
+            {
+              "front": "The painting hangs above the desk",
+              "back": "le tableau est accroché au-dessus du bureau"
+            },
+            {
+              "front": "The dog lies on the carpet",
+              "back": "le chien est allongé sur le tapis"
+            },
+            {
+              "front": "She adjusts the wrinkled pillow carefully",
+              "back": "elle ajuste soigneusement l&#39;oreiller froissé"
+            },
+            {
+              "front": "He places the wooden picture frame",
+              "back": "il place le cadre photo en bois"
+            },
+            {
+              "front": "The fan spins on full speed",
+              "back": "le ventilateur tourne à pleine vitesse"
+            },
+            {
+              "front": "My dresser drawers are very full",
+              "back": "les tiroirs de ma commode sont très pleins"
+            },
+            {
+              "front": "He uses the vacuum cleaner daily",
+              "back": "il utilise l&#39;aspirateur tous les jours"
+            },
+            {
+              "front": "She lights the candles every evening",
+              "back": "elle allume les bougies tous les soirs"
+            },
+            {
+              "front": "The flower plant grows by the window",
+              "back": "la plante à fleurs pousse près de la fenêtre"
+            },
+            {
+              "front": "I organize my large bookshelf today",
+              "back": "j&#39;organise ma grande bibliothèque aujourd&#39;hui"
+            },
+            {
+              "front": "She dusts off the coffee table",
+              "back": "elle dépoussière la table basse"
+            },
+            {
+              "front": "He places shoes on the mat",
+              "back": "il place des chaussures sur le tapis"
+            },
+            {
+              "front": "The armchair is next to couch",
+              "back": "le fauteuil est à côté du canapé"
+            },
+            {
+              "front": "She arranges flowers in the vase",
+              "back": "elle arrange les fleurs dans le vase"
+            },
+            {
+              "front": "The end table holds a lamp",
+              "back": "la table d&#39;appoint contient une lampe"
+            },
+            {
+              "front": "He fixes the broken coat rack",
+              "back": "il répare le porte-manteau cassé"
+            },
+            {
+              "front": "The curtains are tied back today",
+              "back": "les rideaux sont tirés aujourd&#39;hui"
+            },
+            {
+              "front": "She places keys on the table",
+              "back": "elle pose les clés sur la table"
+            },
+            {
+              "front": "He paints the wall behind chair",
+              "back": "il peint le mur derrière la chaise"
+            },
+            {
+              "front": "The nightstand holds her favorite book",
+              "back": "la table de nuit contient son livre préféré"
+            },
+            {
+              "front": "She opens the window near me",
+              "back": "elle ouvre la fenêtre près de moi"
+            },
+            {
+              "front": "He sets the alarm clock daily",
+              "back": "il règle le réveil tous les jours"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Lamp was off", "back": "la lampe était éteinte" },
+            { "front": "Chair was dirty", "back": "la chaise était sale" },
+            { "front": "My nice picture", "back": "ma belle photo" },
+            { "front": "Her clean couch", "back": "son canapé propre" },
+            { "front": "My painting hung", "back": "mon tableau accroché" },
+            { "front": "The rug moved", "back": "le tapis a bougé" },
+            { "front": "Bed was messy", "back": "le lit était en désordre" },
+            {
+              "front": "Curtains were closed",
+              "back": "les rideaux étaient fermés"
+            },
+            {
+              "front": "Mirror was cracked",
+              "back": "le miroir était fissuré"
+            },
+            {
+              "front": "Fan stopped spinning",
+              "back": "le ventilateur a arrêté de tourner"
+            },
+            {
+              "front": "Clock stopped ticking",
+              "back": "l&#39;horloge a cessé de tourner"
+            },
+            { "front": "Her vase broke", "back": "son vase s&#39;est cassé" },
+            { "front": "His chair squeaked", "back": "sa chaise grinçait" },
+            { "front": "The lamp broke", "back": "la lampe s&#39;est cassée" },
+            { "front": "Sofa was clean", "back": "le canapé était propre" },
+            {
+              "front": "Pillows were stacked",
+              "back": "les oreillers étaient empilés"
+            },
+            { "front": "The dresser wobbled", "back": "la commode vacillait" },
+            {
+              "front": "Bookshelf was empty",
+              "back": "la bibliothèque était vide"
+            },
+            {
+              "front": "His remote disappeared",
+              "back": "sa télécommande a disparu"
+            },
+            {
+              "front": "Carpet looked worn",
+              "back": "le tapis avait l&#39;air usé"
+            },
+            { "front": "Her table broke", "back": "sa table s&#39;est cassée" },
+            { "front": "The picture fell", "back": "l&#39;image est tombée" },
+            { "front": "Her stereo played", "back": "sa chaîne stéréo jouait" },
+            { "front": "Pillow was soft", "back": "l&#39;oreiller était doux" },
+            {
+              "front": "Their rug faded",
+              "back": "leur tapis s&#39;est décoloré"
+            },
+            {
+              "front": "The clock ticked",
+              "back": "l&#39;horloge a fait tic tac"
+            },
+            {
+              "front": "His couch sagged",
+              "back": "son canapé s&#39;est affaissé"
+            },
+            {
+              "front": "Blanket felt warm",
+              "back": "couverture en feutre chaude"
+            },
+            { "front": "The fan wobbled", "back": "le ventilateur a vacillé" },
+            {
+              "front": "Heater was loud",
+              "back": "le chauffage était bruyant"
+            },
+            { "front": "Trash can tipped", "back": "poubelle renversée" },
+            {
+              "front": "Shoes were dirty",
+              "back": "les chaussures étaient sales"
+            },
+            {
+              "front": "Her bookshelf tilted",
+              "back": "sa bibliothèque inclinée"
+            },
+            {
+              "front": "Wardrobe was full",
+              "back": "la garde-robe était pleine"
+            },
+            { "front": "The carpet stained", "back": "le tapis taché" },
+            { "front": "My curtains fell", "back": "mes rideaux sont tombés" },
+            { "front": "Drawer was stuck", "back": "le tiroir était coincé" },
+            { "front": "My picture tilted", "back": "ma photo inclinée" },
+            { "front": "The rug ripped", "back": "le tapis s&#39;est déchiré" },
+            { "front": "Chair was old", "back": "la chaise était vieille" },
+            { "front": "Fan was loud", "back": "le ventilateur était bruyant" },
+            {
+              "front": "The vase shattered",
+              "back": "le vase s&#39;est brisé"
+            },
+            {
+              "front": "Remote was missing",
+              "back": "la télécommande était manquante"
+            },
+            {
+              "front": "Clock stopped working",
+              "back": "l&#39;horloge a cessé de fonctionner"
+            },
+            { "front": "My dresser squeaked", "back": "ma commode a grincé" },
+            {
+              "front": "Her mirror cracked",
+              "back": "son miroir s&#39;est fissuré"
+            },
+            {
+              "front": "The end table wobbled",
+              "back": "la table d&#39;appoint vacillait"
+            },
+            {
+              "front": "My coat rack collapsed",
+              "back": "mon porte-manteau s&#39;est effondré"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "My chair was hard", "back": "ma chaise était dure" },
+            {
+              "front": "His dresser was full",
+              "back": "sa commode était pleine"
+            },
+            {
+              "front": "The rack held shoes",
+              "back": "le support contenait des chaussures"
+            },
+            {
+              "front": "The table was broken",
+              "back": "la table était cassée"
+            },
+            {
+              "front": "They had nice curtains",
+              "back": "ils avaient de beaux rideaux"
+            },
+            {
+              "front": "Her mirror was cracked",
+              "back": "son miroir était fissuré"
+            },
+            {
+              "front": "The lamp stopped working",
+              "back": "la lampe a cessé de fonctionner"
+            },
+            {
+              "front": "My couch felt comfortable",
+              "back": "mon canapé était confortable"
+            },
+            {
+              "front": "Their rug was stained",
+              "back": "leur tapis était taché"
+            },
+            {
+              "front": "The pillow was soft",
+              "back": "l&#39;oreiller était doux"
+            },
+            {
+              "front": "His bookshelf was empty",
+              "back": "sa bibliothèque était vide"
+            },
+            {
+              "front": "Her stereo played loudly",
+              "back": "sa chaîne stéréo jouait fort"
+            },
+            {
+              "front": "The fan spun slowly",
+              "back": "le ventilateur tournait lentement"
+            },
+            {
+              "front": "The clock stopped ticking",
+              "back": "l&#39;horloge s&#39;est arrêtée de tourner"
+            },
+            { "front": "My vase was tall", "back": "mon vase était grand" },
+            {
+              "front": "The sofa looked clean",
+              "back": "le canapé avait l&#39;air propre"
+            },
+            {
+              "front": "Her curtains were closed",
+              "back": "ses rideaux étaient fermés"
+            },
+            {
+              "front": "The dresser was heavy",
+              "back": "la commode était lourde"
+            },
+            {
+              "front": "My plant grew quickly",
+              "back": "ma plante a poussé rapidement"
+            },
+            {
+              "front": "His coffee table wobbled",
+              "back": "sa table basse vacillait"
+            },
+            { "front": "The mat was dirty", "back": "le tapis était sale" },
+            {
+              "front": "Her lampstand was tall",
+              "back": "son chandelier était haut"
+            },
+            {
+              "front": "His carpet was clean",
+              "back": "son tapis était propre"
+            },
+            {
+              "front": "The picture frame tilted",
+              "back": "le cadre photo incliné"
+            },
+            {
+              "front": "My bookshelf held books",
+              "back": "ma bibliothèque contenait des livres"
+            },
+            {
+              "front": "Her nightstand was small",
+              "back": "sa table de nuit était petite"
+            },
+            {
+              "front": "The chandelier hung low",
+              "back": "le lustre était suspendu bas"
+            },
+            {
+              "front": "The drawer was stuck",
+              "back": "le tiroir était coincé"
+            },
+            {
+              "front": "The armchair felt sturdy",
+              "back": "le fauteuil semblait solide"
+            },
+            {
+              "front": "His fan stopped working",
+              "back": "son ventilateur a cessé de fonctionner"
+            },
+            { "front": "Her vase fell over", "back": "son vase est tombé" },
+            {
+              "front": "The chair felt wobbly",
+              "back": "la chaise semblait bancale"
+            },
+            { "front": "The sofa was torn", "back": "le canapé était déchiré" },
+            { "front": "My carpet felt soft", "back": "mon tapis était doux" },
+            {
+              "front": "Their bed was comfortable",
+              "back": "leur lit était confortable"
+            },
+            {
+              "front": "The remote stopped working",
+              "back": "la télécommande a cessé de fonctionner"
+            },
+            {
+              "front": "Her stereo was loud",
+              "back": "sa chaîne stéréo était forte"
+            },
+            { "front": "My mirror fell down", "back": "mon miroir est tombé" },
+            {
+              "front": "His dresser drawers stuck",
+              "back": "les tiroirs de sa commode sont coincés"
+            },
+            {
+              "front": "The end table wobbled",
+              "back": "la table d&#39;appoint vacillait"
+            },
+            {
+              "front": "Her clock stopped ticking",
+              "back": "son horloge a cessé de tourner"
+            },
+            {
+              "front": "The armchair looked old",
+              "back": "le fauteuil avait l&#39;air vieux"
+            },
+            { "front": "My trash can tipped", "back": "ma poubelle a basculé" },
+            {
+              "front": "His bookshelf was empty",
+              "back": "sa bibliothèque était vide"
+            },
+            { "front": "The rug was stained", "back": "le tapis était taché" },
+            {
+              "front": "Their table looked sturdy",
+              "back": "leur table avait l&#39;air solide"
+            },
+            {
+              "front": "My chair felt comfortable",
+              "back": "ma chaise était confortable"
+            },
+            {
+              "front": "The picture frame cracked",
+              "back": "le cadre photo s&#39;est fissuré"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "Dogs slept on the carpet",
+              "back": "les chiens dormaient sur le tapis"
+            },
+            {
+              "front": "My chair was very nice",
+              "back": "ma chaise était très jolie"
+            },
+            {
+              "front": "Her vase was very tall",
+              "back": "son vase était très grand"
+            },
+            {
+              "front": "The mirror was not clean",
+              "back": "le miroir n&#39;était pas propre"
+            },
+            {
+              "front": "The couch felt extremely comfortable",
+              "back": "le canapé était extrêmement confortable"
+            },
+            {
+              "front": "His bookshelf was nearly empty",
+              "back": "sa bibliothèque était presque vide"
+            },
+            {
+              "front": "She placed flowers in the vase",
+              "back": "elle a placé des fleurs dans le vase"
+            },
+            {
+              "front": "The fan stopped working suddenly",
+              "back": "le ventilateur a cessé de fonctionner soudainement"
+            },
+            {
+              "front": "The bed was very soft",
+              "back": "le lit était très mou"
+            },
+            {
+              "front": "They slept on the sofa",
+              "back": "ils ont dormi sur le canapé"
+            },
+            {
+              "front": "Her stereo played loud music",
+              "back": "sa chaîne stéréo jouait de la musique forte"
+            },
+            {
+              "front": "My pillow was extremely soft",
+              "back": "mon oreiller était extrêmement doux"
+            },
+            {
+              "front": "The lamp broke last night",
+              "back": "la lampe s&#39;est cassée hier soir"
+            },
+            {
+              "front": "Her coffee table wobbled often",
+              "back": "sa table basse vacillait souvent"
+            },
+            {
+              "front": "The clock stopped ticking yesterday",
+              "back": "l&#39;horloge s&#39;est arrêtée de tourner hier"
+            },
+            {
+              "front": "My dresser drawers got stuck",
+              "back": "les tiroirs de ma commode sont restés coincés"
+            },
+            {
+              "front": "She cleaned the mirror yesterday",
+              "back": "elle a nettoyé le miroir hier"
+            },
+            {
+              "front": "His end table looked sturdy",
+              "back": "sa table d&#39;appoint avait l&#39;air solide"
+            },
+            {
+              "front": "The curtains were always closed",
+              "back": "les rideaux étaient toujours fermés"
+            },
+            {
+              "front": "Their rug was very dirty",
+              "back": "leur tapis était très sale"
+            },
+            {
+              "front": "The bookshelf held many books",
+              "back": "la bibliothèque contenait de nombreux livres"
+            },
+            {
+              "front": "The picture frame was cracked",
+              "back": "le cadre photo était fissuré"
+            },
+            {
+              "front": "Her vase fell off yesterday",
+              "back": "son vase est tombé hier"
+            },
+            {
+              "front": "My nightstand held a lamp",
+              "back": "ma table de nuit contenait une lampe"
+            },
+            {
+              "front": "The armchair was very sturdy",
+              "back": "le fauteuil était très robuste"
+            },
+            {
+              "front": "He turned on the bedside lamp",
+              "back": "il a allumé la lampe de chevet"
+            },
+            {
+              "front": "My plant grew very tall",
+              "back": "ma plante a poussé très haut"
+            },
+            {
+              "front": "The carpet was freshly cleaned",
+              "back": "le tapis a été fraîchement nettoyé"
+            },
+            {
+              "front": "She arranged the flowers nicely",
+              "back": "elle a joliment arrangé les fleurs"
+            },
+            {
+              "front": "His chair felt quite comfortable",
+              "back": "sa chaise était plutôt confortable"
+            },
+            {
+              "front": "The curtains blocked out sunlight",
+              "back": "les rideaux bloquaient la lumière du soleil"
+            },
+            {
+              "front": "Her mirror hung on the wall",
+              "back": "son miroir accroché au mur"
+            },
+            {
+              "front": "The dresser drawers were stuck",
+              "back": "les tiroirs de la commode étaient coincés"
+            },
+            {
+              "front": "My chandelier hung above us",
+              "back": "mon lustre était suspendu au-dessus de nous"
+            },
+            {
+              "front": "He vacuumed the carpet thoroughly",
+              "back": "il a soigneusement aspiré le tapis"
+            },
+            {
+              "front": "Her mat was placed carefully",
+              "back": "son tapis a été placé avec soin"
+            },
+            {
+              "front": "The trash can was empty",
+              "back": "la poubelle était vide"
+            },
+            {
+              "front": "Their coat rack was full",
+              "back": "leur porte-manteau était plein"
+            },
+            {
+              "front": "The table held many items",
+              "back": "la table contenait de nombreux objets"
+            },
+            {
+              "front": "Her armchair looked very old",
+              "back": "son fauteuil avait l&#39;air très vieux"
+            },
+            {
+              "front": "His rug was surprisingly clean",
+              "back": "son tapis était étonnamment propre"
+            },
+            {
+              "front": "The remote was hard to find",
+              "back": "la télécommande était difficile à trouver"
+            },
+            {
+              "front": "The sofa felt very old",
+              "back": "le canapé semblait très vieux"
+            },
+            {
+              "front": "Her vase shattered into pieces",
+              "back": "son vase s&#39;est brisé en morceaux"
+            },
+            {
+              "front": "My chair was not comfortable",
+              "back": "ma chaise n&#39;était pas confortable"
+            },
+            {
+              "front": "The painting hung above bed",
+              "back": "le tableau accroché au-dessus du lit"
+            },
+            {
+              "front": "Her bookshelf was filled with books",
+              "back": "sa bibliothèque était remplie de livres"
+            },
+            {
+              "front": "He placed the picture carefully",
+              "back": "il a placé l&#39;image avec soin"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "Dogs slept on the carpet",
+              "back": "les chiens dormaient sur le tapis"
+            },
+            {
+              "front": "My chair was very nice",
+              "back": "ma chaise était très jolie"
+            },
+            {
+              "front": "Her vase was very tall",
+              "back": "son vase était très grand"
+            },
+            {
+              "front": "The mirror was not clean",
+              "back": "le miroir n&#39;était pas propre"
+            },
+            {
+              "front": "The couch felt extremely comfortable",
+              "back": "le canapé était extrêmement confortable"
+            },
+            {
+              "front": "His bookshelf was nearly empty",
+              "back": "sa bibliothèque était presque vide"
+            },
+            {
+              "front": "She placed flowers in the vase",
+              "back": "elle a placé des fleurs dans le vase"
+            },
+            {
+              "front": "The fan stopped working suddenly",
+              "back": "le ventilateur a cessé de fonctionner soudainement"
+            },
+            {
+              "front": "The bed was very soft",
+              "back": "le lit était très mou"
+            },
+            {
+              "front": "They slept on the sofa",
+              "back": "ils ont dormi sur le canapé"
+            },
+            {
+              "front": "Her stereo played loud music",
+              "back": "sa chaîne stéréo jouait de la musique forte"
+            },
+            {
+              "front": "My pillow was extremely soft",
+              "back": "mon oreiller était extrêmement doux"
+            },
+            {
+              "front": "The lamp broke last night",
+              "back": "la lampe s&#39;est cassée hier soir"
+            },
+            {
+              "front": "Her coffee table wobbled often",
+              "back": "sa table basse vacillait souvent"
+            },
+            {
+              "front": "The clock stopped ticking yesterday",
+              "back": "l&#39;horloge s&#39;est arrêtée de tourner hier"
+            },
+            {
+              "front": "My dresser drawers got stuck",
+              "back": "les tiroirs de ma commode sont restés coincés"
+            },
+            {
+              "front": "She cleaned the mirror yesterday",
+              "back": "elle a nettoyé le miroir hier"
+            },
+            {
+              "front": "His end table looked sturdy",
+              "back": "sa table d&#39;appoint avait l&#39;air solide"
+            },
+            {
+              "front": "The curtains were always closed",
+              "back": "les rideaux étaient toujours fermés"
+            },
+            {
+              "front": "Their rug was very dirty",
+              "back": "leur tapis était très sale"
+            },
+            {
+              "front": "The bookshelf held many books",
+              "back": "la bibliothèque contenait de nombreux livres"
+            },
+            {
+              "front": "The picture frame was cracked",
+              "back": "le cadre photo était fissuré"
+            },
+            {
+              "front": "Her vase fell off yesterday",
+              "back": "son vase est tombé hier"
+            },
+            {
+              "front": "My nightstand held a lamp",
+              "back": "ma table de nuit contenait une lampe"
+            },
+            {
+              "front": "The armchair was very sturdy",
+              "back": "le fauteuil était très robuste"
+            },
+            {
+              "front": "He turned on the bedside lamp",
+              "back": "il a allumé la lampe de chevet"
+            },
+            {
+              "front": "My plant grew very tall",
+              "back": "ma plante a poussé très haut"
+            },
+            {
+              "front": "The carpet was freshly cleaned",
+              "back": "le tapis a été fraîchement nettoyé"
+            },
+            {
+              "front": "She arranged the flowers nicely",
+              "back": "elle a joliment arrangé les fleurs"
+            },
+            {
+              "front": "His chair felt quite comfortable",
+              "back": "sa chaise était plutôt confortable"
+            },
+            {
+              "front": "The curtains blocked out sunlight",
+              "back": "les rideaux bloquaient la lumière du soleil"
+            },
+            {
+              "front": "Her mirror hung on the wall",
+              "back": "son miroir accroché au mur"
+            },
+            {
+              "front": "The dresser drawers were stuck",
+              "back": "les tiroirs de la commode étaient coincés"
+            },
+            {
+              "front": "My chandelier hung above us",
+              "back": "mon lustre était suspendu au-dessus de nous"
+            },
+            {
+              "front": "He vacuumed the carpet thoroughly",
+              "back": "il a soigneusement aspiré le tapis"
+            },
+            {
+              "front": "Her mat was placed carefully",
+              "back": "son tapis a été placé avec soin"
+            },
+            {
+              "front": "The trash can was empty",
+              "back": "la poubelle était vide"
+            },
+            {
+              "front": "Their coat rack was full",
+              "back": "leur porte-manteau était plein"
+            },
+            {
+              "front": "The table held many items",
+              "back": "la table contenait de nombreux objets"
+            },
+            {
+              "front": "Her armchair looked very old",
+              "back": "son fauteuil avait l&#39;air très vieux"
+            },
+            {
+              "front": "His rug was surprisingly clean",
+              "back": "son tapis était étonnamment propre"
+            },
+            {
+              "front": "The remote was hard to find",
+              "back": "la télécommande était difficile à trouver"
+            },
+            {
+              "front": "The sofa felt very old",
+              "back": "le canapé semblait très vieux"
+            },
+            {
+              "front": "Her vase shattered into pieces",
+              "back": "son vase s&#39;est brisé en morceaux"
+            },
+            {
+              "front": "My chair was not comfortable",
+              "back": "ma chaise n&#39;était pas confortable"
+            },
+            {
+              "front": "The painting hung above bed",
+              "back": "le tableau accroché au-dessus du lit"
+            },
+            {
+              "front": "Her bookshelf was filled with books",
+              "back": "sa bibliothèque était remplie de livres"
+            },
+            {
+              "front": "He placed the picture carefully",
+              "back": "il a placé l&#39;image avec soin"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Chair will hold", "back": "la chaise tiendra" },
+            {
+              "front": "Picture will display",
+              "back": "l&#39;image s&#39;affichera"
+            },
+            { "front": "Rug will set", "back": "le tapis sera installé" },
+            { "front": "Lamp will shine", "back": "la lampe brillera" },
+            { "front": "Sofa will last", "back": "le canapé durera" },
+            { "front": "Table will stand", "back": "la table restera debout" },
+            {
+              "front": "Curtains will open",
+              "back": "les rideaux s&#39;ouvriront"
+            },
+            { "front": "Fan will spin", "back": "le ventilateur tournera" },
+            {
+              "front": "Clock will tick",
+              "back": "l&#39;horloge fera tic tac"
+            },
+            { "front": "Mirror will reflect", "back": "le miroir reflétera" },
+            { "front": "Plant will grow", "back": "la plante poussera" },
+            {
+              "front": "Bookshelf will hold",
+              "back": "la bibliothèque peut contenir"
+            },
+            {
+              "front": "Dresser will open",
+              "back": "la commode s&#39;ouvrira"
+            },
+            { "front": "Heater will warm", "back": "le radiateur chauffera" },
+            { "front": "Blanket will cover", "back": "la couverture couvrira" },
+            {
+              "front": "Pillows will support",
+              "back": "les oreillers soutiendront"
+            },
+            {
+              "front": "Couch will soften",
+              "back": "le canapé va s&#39;adoucir"
+            },
+            { "front": "Chandelier will shine", "back": "le lustre brillera" },
+            { "front": "Vase will display", "back": "le vase s&#39;affichera" },
+            { "front": "Drawer will slide", "back": "le tiroir coulissera" },
+            { "front": "Mat will flatten", "back": "le tapis s&#39;aplatira" },
+            { "front": "Trash will fill", "back": "la poubelle se remplira" },
+            { "front": "Shoes will fit", "back": "les chaussures iront" },
+            { "front": "Rug will flatten", "back": "le tapis s&#39;aplatira" },
+            {
+              "front": "Chair will recline",
+              "back": "la chaise s&#39;inclinera"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will build chairs",
+              "back": "je vais construire des chaises"
+            },
+            {
+              "front": "Vase will fall later",
+              "back": "le vase tombera plus tard"
+            },
+            {
+              "front": "Mirror will need cleaning",
+              "back": "le miroir aura besoin d&#39;être nettoyé"
+            },
+            {
+              "front": "Drawer will slide slowly",
+              "back": "le tiroir coulissera lentement"
+            },
+            {
+              "front": "Blanket will warm children",
+              "back": "la couverture réchauffera les enfants"
+            },
+            {
+              "front": "Fan will spin faster",
+              "back": "le ventilateur tournera plus vite"
+            },
+            {
+              "front": "He will clean mirror",
+              "back": "il nettoiera le miroir"
+            },
+            {
+              "front": "Sofa will look great",
+              "back": "le canapé aura fière allure"
+            },
+            {
+              "front": "Curtains will open tomorrow",
+              "back": "les rideaux s&#39;ouvriront demain"
+            },
+            {
+              "front": "Bookshelf will hold books",
+              "back": "l&#39;étagère contiendra des livres"
+            },
+            {
+              "front": "I will organize desk",
+              "back": "j&#39;organiserai le bureau"
+            },
+            {
+              "front": "Lamp will shine brightly",
+              "back": "la lampe brillera intensément"
+            },
+            {
+              "front": "She will vacuum carpet",
+              "back": "elle passera l&#39;aspirateur sur le tapis"
+            },
+            {
+              "front": "Pillows will support heads",
+              "back": "les oreillers soutiendront les têtes"
+            },
+            { "front": "He will move rug", "back": "il déplacera le tapis" },
+            {
+              "front": "They will build table",
+              "back": "ils construiront une table"
+            },
+            {
+              "front": "We will fix chairs",
+              "back": "nous réparerons les chaises"
+            },
+            {
+              "front": "The dresser will open easily",
+              "back": "la commode s&#39;ouvrira facilement"
+            },
+            {
+              "front": "The remote will work fine",
+              "back": "la télécommande fonctionnera bien"
+            },
+            {
+              "front": "He will replace fan",
+              "back": "il remplacera le ventilateur"
+            },
+            {
+              "front": "The trash will fill up",
+              "back": "la poubelle va se remplir"
+            },
+            {
+              "front": "I will paint picture",
+              "back": "je vais peindre un tableau"
+            },
+            {
+              "front": "She will arrange flowers",
+              "back": "elle arrangera des fleurs"
+            },
+            {
+              "front": "Clock will tick longer",
+              "back": "l&#39;horloge fera tic tac plus longtemps"
+            },
+            {
+              "front": "We will clean windows",
+              "back": "nous nettoierons les fenêtres"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will place chairs carefully",
+              "back": "je placerai les chaises avec soin"
+            },
+            {
+              "front": "Dog will sleep on mat",
+              "back": "le chien dormira sur un tapis"
+            },
+            {
+              "front": "Cat will purr on pillow",
+              "back": "le chat ronronne sur l&#39;oreiller"
+            },
+            {
+              "front": "He will turn off lights",
+              "back": "il éteindra les lumières"
+            },
+            {
+              "front": "She will clean the mirror",
+              "back": "elle nettoiera le miroir"
+            },
+            {
+              "front": "They will move the table",
+              "back": "ils déplaceront la table"
+            },
+            {
+              "front": "I will rearrange the books",
+              "back": "je vais réorganiser les livres"
+            },
+            {
+              "front": "The fan will spin faster",
+              "back": "le ventilateur tournera plus vite"
+            },
+            {
+              "front": "He will vacuum the carpet",
+              "back": "il passera l&#39;aspirateur sur le tapis"
+            },
+            {
+              "front": "She will open the curtains",
+              "back": "elle ouvrira les rideaux"
+            },
+            {
+              "front": "We will hang the picture",
+              "back": "nous accrocherons le tableau"
+            },
+            {
+              "front": "I will build the bookshelf",
+              "back": "je vais construire l&#39;étagère"
+            },
+            { "front": "He will fix the lamp", "back": "il réparera la lampe" },
+            {
+              "front": "They will clean the rug",
+              "back": "ils nettoieront le tapis"
+            },
+            {
+              "front": "She will arrange the flowers",
+              "back": "elle arrangera les fleurs"
+            },
+            {
+              "front": "He will move the sofa",
+              "back": "il déplacera le canapé"
+            },
+            {
+              "front": "I will fold the blanket",
+              "back": "je vais plier la couverture"
+            },
+            {
+              "front": "She will wash the pillows",
+              "back": "elle lavera les oreillers"
+            },
+            {
+              "front": "The chair will be repaired",
+              "back": "la chaise sera réparée"
+            },
+            {
+              "front": "I will dust the dresser",
+              "back": "je vais épousseter la commode"
+            },
+            {
+              "front": "The clock will tick loudly",
+              "back": "l&#39;horloge fera tic tac fort"
+            },
+            {
+              "front": "We will open the blinds",
+              "back": "nous ouvrirons les stores"
+            },
+            {
+              "front": "She will close the door",
+              "back": "elle fermera la porte"
+            },
+            {
+              "front": "He will paint the walls",
+              "back": "il peindra les murs"
+            },
+            {
+              "front": "I will replace the lightbulb",
+              "back": "je vais remplacer l&#39;ampoule"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will place chairs in order",
+              "back": "je vais placer les chaises dans l&#39;ordre"
+            },
+            {
+              "front": "The dog will sleep on mat",
+              "back": "le chien dormira sur un tapis"
+            },
+            {
+              "front": "The cat will purr on pillow",
+              "back": "le chat ronronnera sur l&#39;oreiller"
+            },
+            {
+              "front": "She will turn off the lights",
+              "back": "elle éteindra les lumières"
+            },
+            {
+              "front": "He will rearrange the living room",
+              "back": "il réaménagera le salon"
+            },
+            {
+              "front": "I will clean the mirror tomorrow",
+              "back": "je nettoierai le miroir demain"
+            },
+            {
+              "front": "We will move the table downstairs",
+              "back": "nous allons déplacer la table en bas"
+            },
+            {
+              "front": "They will vacuum the entire carpet",
+              "back": "ils passeront l&#39;aspirateur sur tout le tapis"
+            },
+            {
+              "front": "I will organize the bookshelf properly",
+              "back": "je vais organiser correctement la bibliothèque"
+            },
+            {
+              "front": "The fan will spin at maximum",
+              "back": "le ventilateur tournera au maximum"
+            },
+            {
+              "front": "She will arrange flowers in vase",
+              "back": "elle arrangera des fleurs dans un vase"
+            },
+            {
+              "front": "He will hang the picture frame",
+              "back": "il accrochera le cadre photo"
+            },
+            {
+              "front": "I will fold the blanket neatly",
+              "back": "je vais plier soigneusement la couverture"
+            },
+            {
+              "front": "The chair will be fixed soon",
+              "back": "la chaise sera bientôt réparée"
+            },
+            {
+              "front": "He will wash the couch covers",
+              "back": "il lavera les housses du canapé"
+            },
+            {
+              "front": "She will open the curtains tomorrow",
+              "back": "elle ouvrira les rideaux demain"
+            },
+            {
+              "front": "We will dust the bookshelf completely",
+              "back": "nous allons dépoussiérer complètement la bibliothèque"
+            },
+            {
+              "front": "I will replace the broken lamp",
+              "back": "je remplacerai la lampe cassée"
+            },
+            {
+              "front": "They will clean the windows later",
+              "back": "ils nettoieront les fenêtres plus tard"
+            },
+            {
+              "front": "She will turn on the heater",
+              "back": "elle allumera le chauffage"
+            },
+            {
+              "front": "The blanket will cover all children",
+              "back": "la couverture couvrira tous les enfants"
+            },
+            {
+              "front": "He will repair the broken chair",
+              "back": "il réparera la chaise cassée"
+            },
+            {
+              "front": "I will stack pillows on couch",
+              "back": "j&#39;empilerai des oreillers sur le canapé"
+            },
+            {
+              "front": "We will paint the walls soon",
+              "back": "nous peindrons bientôt les murs"
+            },
+            {
+              "front": "She will adjust the window blinds",
+              "back": "elle ajustera les stores des fenêtres"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

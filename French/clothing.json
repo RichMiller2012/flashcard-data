@@ -1,0 +1,2232 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Clothing",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Shirt", "back": "chemise" },
+            { "front": "Pants", "back": "pantalon" },
+            { "front": "Dress", "back": "robe" },
+            { "front": "Skirt", "back": "jupe" },
+            { "front": "Shorts", "back": "shorts" },
+            { "front": "Jacket", "back": "veste" },
+            { "front": "Coat", "back": "manteau" },
+            { "front": "Sweater", "back": "pull-over" },
+            { "front": "Blouse", "back": "blouse" },
+            { "front": "T-shirt", "back": "T-shirt" },
+            { "front": "Hoodie", "back": "sweatshirt à capuche" },
+            { "front": "Jeans", "back": "jeans" },
+            { "front": "Scarf", "back": "foulard" },
+            { "front": "Hat", "back": "a" },
+            { "front": "Belt", "back": "ceinture" },
+            { "front": "Socks", "back": "chaussettes" },
+            { "front": "Shoes", "back": "chaussures" },
+            { "front": "Boots", "back": "bottes" },
+            { "front": "Gloves", "back": "gants" },
+            { "front": "Tie", "back": "cravate" },
+            { "front": "Swimsuit", "back": "maillot de bain" },
+            { "front": "Underwear", "back": "sous-vêtement" },
+            { "front": "Nightgown", "back": "chemise de nuit" },
+            { "front": "Robe", "back": "peignoir" },
+            { "front": "Leggings", "back": "guêtres" },
+            { "front": "Overalls", "back": "salopette" },
+            { "front": "Capris", "back": "capris" },
+            { "front": "Lingerie", "back": "lingerie" },
+            { "front": "Slippers", "back": "pantoufles" },
+            { "front": "Sandals", "back": "sandales" },
+            { "front": "Mittens", "back": "mitaines" },
+            { "front": "Pajamas", "back": "pyjamas" },
+            { "front": "Tank top", "back": "débardeur" },
+            { "front": "Blazer", "back": "blazer" },
+            { "front": "Culottes", "back": "culottes" },
+            { "front": "Kimono", "back": "kimono" },
+            { "front": "Bikini", "back": "bikini" },
+            { "front": "Tracksuit", "back": "survêtement" },
+            { "front": "Bodysuit", "back": "body" },
+            { "front": "Wrap", "back": "envelopper" },
+            { "front": "Peacoat", "back": "caban" },
+            { "front": "Trousers", "back": "pantalon" },
+            { "front": "Parka", "back": "parka" },
+            { "front": "Chinos", "back": "chino" },
+            { "front": "Cardigan", "back": "cardigan" },
+            { "front": "Kilt", "back": "kilt" },
+            { "front": "Jumpsuit", "back": "combinaison" },
+            { "front": "Fleece", "back": "toison" },
+            { "front": "Windbreaker", "back": "coupe-vent" },
+            { "front": "Anorak", "back": "anorak" },
+            { "front": "Sundress", "back": "robe d&#39;été" },
+            { "front": "Skort", "back": "pénurie" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "blue shirt", "back": "chemise bleue" },
+            { "front": "black pants", "back": "pantalon noir" },
+            { "front": "red dress", "back": "robe rouge" },
+            { "front": "striped skirt", "back": "jupe rayée" },
+            { "front": "cargo shorts", "back": "short cargo" },
+            { "front": "leather jacket", "back": "veste en cuir" },
+            { "front": "wool coat", "back": "manteau en laine" },
+            { "front": "knit sweater", "back": "pull en tricot" },
+            { "front": "silk blouse", "back": "chemisier en soie" },
+            { "front": "graphic t-shirt", "back": "t-shirt graphique" },
+            { "front": "fleece hoodie", "back": "sweat à capuche en polaire" },
+            { "front": "denim jeans", "back": "jeans en denim" },
+            { "front": "knit scarf", "back": "écharpe en tricot" },
+            { "front": "baseball hat", "back": "casquette de baseball" },
+            { "front": "canvas belt", "back": "ceinture en toile" },
+            { "front": "ankle socks", "back": "chaussettes à la cheville" },
+            { "front": "running shoes", "back": "chaussures de course" },
+            { "front": "winter boots", "back": "bottes d&#39;hiver" },
+            { "front": "wool gloves", "back": "gants en laine" },
+            { "front": "silk tie", "back": "cravate en soie" },
+            { "front": "bright swimsuit", "back": "maillot de bain lumineux" },
+            { "front": "cotton underwear", "back": "sous-vêtements en coton" },
+            { "front": "soft nightgown", "back": "chemise de nuit douce" },
+            { "front": "fluffy robe", "back": "robe moelleuse" },
+            { "front": "black leggings", "back": "leggings noirs" },
+            { "front": "denim overalls", "back": "salopette en jean" },
+            { "front": "white capris", "back": "capris blancs" },
+            { "front": "lace lingerie", "back": "lingerie en dentelle" },
+            { "front": "comfy slippers", "back": "pantoufles confortables" },
+            { "front": "strappy sandals", "back": "sandales à lanières" },
+            { "front": "knitted mittens", "back": "mitaines tricotées" },
+            { "front": "cozy pajamas", "back": "pyjama confortable" },
+            { "front": "sleek tank top", "back": "débardeur élégant" },
+            { "front": "tailored blazer", "back": "blazer sur mesure" },
+            { "front": "casual culottes", "back": "culottes décontractées" },
+            { "front": "colorful kimono", "back": "kimono coloré" },
+            { "front": "stylish bikini", "back": "bikini élégant" },
+            { "front": "matching tracksuit", "back": "survêtement assorti" },
+            { "front": "comfortable bodysuit", "back": "body confortable" },
+            { "front": "fashionable wrap", "back": "écharpe à la mode" },
+            { "front": "navy peacoat", "back": "caban bleu marine" },
+            { "front": "light trousers", "back": "pantalon léger" },
+            { "front": "heavy parka", "back": "parka lourde" },
+            { "front": "khaki chinos", "back": "chino kaki" },
+            { "front": "long cardigan", "back": "cardigan long" },
+            { "front": "plaid kilt", "back": "kilt à carreaux" },
+            { "front": "stylish jumpsuit", "back": "combinaison élégante" },
+            { "front": "warm fleece", "back": "polaire chaude" },
+            {
+              "front": "waterproof windbreaker",
+              "back": "coupe-vent imperméable"
+            },
+            { "front": "rainy anorak", "back": "père anorak" },
+            { "front": "flowy sundress", "back": "robe d&#39;été fluide" },
+            { "front": "comfortable skort", "back": "short confortable" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "My blue shirt", "back": "ma chemise bleue" },
+            { "front": "My warm sweater", "back": "mon pull chaud" },
+            { "front": "Her cute dress", "back": "sa jolie robe" },
+            { "front": "His red jacket", "back": "sa veste rouge" },
+            { "front": "Our new shoes", "back": "nos nouvelles chaussures" },
+            {
+              "front": "Their cozy scarves",
+              "back": "leurs écharpes douillettes"
+            },
+            { "front": "My black pants", "back": "mon pantalon noir" },
+            { "front": "Her white blouse", "back": "son chemisier blanc" },
+            { "front": "His leather boots", "back": "ses bottes en cuir" },
+            { "front": "My yellow hat", "back": "mon chapeau jaune" },
+            { "front": "Your green socks", "back": "tes chaussettes vertes" },
+            { "front": "Her denim jeans", "back": "son jean en denim" },
+            { "front": "My plaid shirt", "back": "ma chemise à carreaux" },
+            { "front": "His wool sweater", "back": "son pull en laine" },
+            { "front": "Our stylish coats", "back": "nos manteaux stylés" },
+            { "front": "Their soft gloves", "back": "leurs gants doux" },
+            { "front": "My warm boots", "back": "mes bottes chaudes" },
+            {
+              "front": "Your patterned scarf",
+              "back": "votre écharpe à motifs"
+            },
+            { "front": "Her leather purse", "back": "son sac à main en cuir" },
+            {
+              "front": "His comfy hoodie",
+              "back": "son sweat à capuche confortable"
+            },
+            { "front": "My striped shirt", "back": "ma chemise rayée" },
+            { "front": "Her floral dress", "back": "sa robe fleurie" },
+            { "front": "Your fitted jeans", "back": "votre jean ajusté" },
+            {
+              "front": "His athletic shoes",
+              "back": "ses chaussures de sport"
+            },
+            { "front": "Our bright jackets", "back": "nos vestes lumineuses" },
+            { "front": "My old jeans", "back": "mon vieux jean" },
+            { "front": "His leather gloves", "back": "ses gants en cuir" },
+            { "front": "Her stylish boots", "back": "ses bottes élégantes" },
+            {
+              "front": "My cozy hoodie",
+              "back": "mon sweat à capuche douillet"
+            },
+            { "front": "Your black belt", "back": "ta ceinture noire" },
+            { "front": "His soft hat", "back": "son chapeau doux" },
+            {
+              "front": "Our casual shoes",
+              "back": "nos chaussures décontractées"
+            },
+            { "front": "Her colorful scarf", "back": "son écharpe colorée" },
+            { "front": "My checkered shirt", "back": "ma chemise à carreaux" },
+            { "front": "His white t-shirt", "back": "son t-shirt blanc" },
+            { "front": "Her warm jacket", "back": "sa veste chaude" },
+            { "front": "Your leather shoes", "back": "vos chaussures en cuir" },
+            { "front": "My bright sweater", "back": "mon pull brillant" },
+            { "front": "Her long coat", "back": "son long manteau" },
+            { "front": "His soft socks", "back": "ses chaussettes douces" },
+            { "front": "Our winter hats", "back": "nos chapeaux d&#39;hiver" },
+            { "front": "Your floral blouse", "back": "votre chemisier fleuri" },
+            { "front": "My comfortable dress", "back": "ma robe confortable" },
+            { "front": "His tailored suit", "back": "son costume sur mesure" },
+            { "front": "Her high heels", "back": "ses talons hauts" },
+            { "front": "My warm gloves", "back": "mes gants chauds" },
+            { "front": "Their cozy sweaters", "back": "leurs pulls douillets" },
+            { "front": "Your denim jacket", "back": "ta veste en jean" },
+            { "front": "His casual shirt", "back": "sa chemise décontractée" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "My blue shirt fits", "back": "ma chemise bleue me va" },
+            {
+              "front": "My warm sweater works",
+              "back": "mon pull chaud fonctionne"
+            },
+            {
+              "front": "Her cute dress looks",
+              "back": "sa jolie robe a l&#39;air"
+            },
+            {
+              "front": "His red jacket shines",
+              "back": "sa veste rouge brille"
+            },
+            {
+              "front": "Our new shoes shine",
+              "back": "nos nouvelles chaussures brillent"
+            },
+            {
+              "front": "Their cozy scarves warm",
+              "back": "leurs écharpes douillettes et chaudes"
+            },
+            {
+              "front": "My black pants match",
+              "back": "mon pantalon noir va bien"
+            },
+            {
+              "front": "Her white blouse glows",
+              "back": "son chemisier blanc brille"
+            },
+            {
+              "front": "His leather boots gleam",
+              "back": "ses bottes en cuir brillent"
+            },
+            {
+              "front": "My yellow hat shines",
+              "back": "mon chapeau jaune brille"
+            },
+            {
+              "front": "Your green socks match",
+              "back": "tes chaussettes vertes correspondent"
+            },
+            {
+              "front": "Her denim jeans fit",
+              "back": "son jean en denim lui va"
+            },
+            {
+              "front": "My plaid shirt stirs",
+              "back": "ma chemise à carreaux remue"
+            },
+            {
+              "front": "His wool sweater works",
+              "back": "son pull en laine fonctionne"
+            },
+            {
+              "front": "Our stylish coats impress",
+              "back": "nos manteaux élégants impressionnent"
+            },
+            {
+              "front": "Their soft gloves warm",
+              "back": "leurs gants doux et chauds"
+            },
+            {
+              "front": "My warm boots protect",
+              "back": "mes bottes chaudes protègent"
+            },
+            {
+              "front": "Your patterned scarf wraps",
+              "back": "vos écharpes à motifs"
+            },
+            {
+              "front": "Her leather purse shines",
+              "back": "son sac à main en cuir brille"
+            },
+            {
+              "front": "His comfy hoodie comforts",
+              "back": "son sweat à capuche confortable réconforte"
+            },
+            {
+              "front": "My striped shirt fits",
+              "back": "ma chemise rayée me va"
+            },
+            {
+              "front": "Her floral dress flows",
+              "back": "sa robe fleurie flotte"
+            },
+            {
+              "front": "Your fitted jeans hug",
+              "back": "ton jean ajusté te serre"
+            },
+            {
+              "front": "His athletic shoes fit",
+              "back": "ses chaussures de sport lui vont"
+            },
+            {
+              "front": "Our bright jackets shine",
+              "back": "nos vestes brillantes brillent"
+            },
+            {
+              "front": "My old jeans fray",
+              "back": "mon vieux jean s&#39;effiloche"
+            },
+            {
+              "front": "His leather gloves fit",
+              "back": "ses gants en cuir lui vont"
+            },
+            {
+              "front": "Her stylish boots clink",
+              "back": "ses bottes élégantes tintent"
+            },
+            {
+              "front": "My cozy hoodie fits",
+              "back": "mon sweat à capuche confortable me va"
+            },
+            {
+              "front": "Your black belt tightens",
+              "back": "ta ceinture noire se resserre"
+            },
+            {
+              "front": "His soft hat rests",
+              "back": "son chapeau doux repose"
+            },
+            {
+              "front": "Our casual shoes slip",
+              "back": "nos chaussures décontractées glissent"
+            },
+            {
+              "front": "Her colorful scarf wraps",
+              "back": "son écharpe colorée s&#39;enroule"
+            },
+            {
+              "front": "My checkered shirt fits",
+              "back": "ma chemise à carreaux me va"
+            },
+            {
+              "front": "His white t-shirt fits",
+              "back": "son t-shirt blanc lui va"
+            },
+            {
+              "front": "Her warm jacket shields",
+              "back": "sa veste chaude protège"
+            },
+            {
+              "front": "Your leather shoes shine",
+              "back": "tes chaussures en cuir brillent"
+            },
+            {
+              "front": "My bright sweater glows",
+              "back": "mon pull brillant brille"
+            },
+            {
+              "front": "Her long coat fits",
+              "back": "son long manteau lui va"
+            },
+            {
+              "front": "His soft socks warm",
+              "back": "ses chaussettes douces et chaudes"
+            },
+            {
+              "front": "Our winter hats protect",
+              "back": "nos chapeaux d&#39;hiver protègent"
+            },
+            {
+              "front": "Your floral blouse fits",
+              "back": "votre chemisier fleuri vous va"
+            },
+            {
+              "front": "My comfortable dress fits",
+              "back": "ma robe confortable me va"
+            },
+            {
+              "front": "His tailored suit looks",
+              "back": "son costume sur mesure ressemble"
+            },
+            {
+              "front": "Her high heels click",
+              "back": "ses talons hauts claquent"
+            },
+            {
+              "front": "My warm gloves fit",
+              "back": "mes gants chauds me vont"
+            },
+            {
+              "front": "Their cozy sweaters warm",
+              "back": "leurs pulls douillets et chauds"
+            },
+            {
+              "front": "Your denim jacket fits",
+              "back": "ta veste en jean te va"
+            },
+            {
+              "front": "His casual shirt fits",
+              "back": "sa chemise décontractée lui va"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My blue shirt fits perfectly",
+              "back": "ma chemise bleue me va parfaitement"
+            },
+            {
+              "front": "My warm sweater feels comfortable",
+              "back": "mon pull chaud est confortable"
+            },
+            {
+              "front": "Her cute dress looks amazing",
+              "back": "sa jolie robe est superbe"
+            },
+            {
+              "front": "His red jacket looks stylish",
+              "back": "sa veste rouge a l&#39;air élégante"
+            },
+            {
+              "front": "Our new shoes fit well",
+              "back": "nos nouvelles chaussures nous vont bien"
+            },
+            {
+              "front": "Their cozy scarves keep warm",
+              "back": "leurs écharpes douillettes tiennent chaud"
+            },
+            {
+              "front": "My black pants are tight",
+              "back": "mon pantalon noir est serré"
+            },
+            {
+              "front": "Her white blouse looks elegant",
+              "back": "son chemisier blanc a l&#39;air élégant"
+            },
+            {
+              "front": "His leather boots are sturdy",
+              "back": "ses bottes en cuir sont robustes"
+            },
+            {
+              "front": "My yellow hat shines brightly",
+              "back": "mon chapeau jaune brille de mille feux"
+            },
+            {
+              "front": "Your green socks look great",
+              "back": "tes chaussettes vertes sont superbes"
+            },
+            {
+              "front": "Her denim jeans fit perfectly",
+              "back": "son jean en denim lui va parfaitement"
+            },
+            {
+              "front": "My plaid shirt matches well",
+              "back": "ma chemise à carreaux va bien"
+            },
+            {
+              "front": "His wool sweater feels soft",
+              "back": "son pull en laine est doux"
+            },
+            {
+              "front": "Our stylish coats look fantastic",
+              "back": "nos manteaux élégants sont fantastiques"
+            },
+            {
+              "front": "Their soft gloves keep warm",
+              "back": "leurs gants doux gardent au chaud"
+            },
+            {
+              "front": "My warm boots protect feet",
+              "back": "mes bottes chaudes protègent les pieds"
+            },
+            {
+              "front": "Your patterned scarf looks beautiful",
+              "back": "ton écharpe à motifs est magnifique"
+            },
+            {
+              "front": "Her leather purse holds everything",
+              "back": "son sac en cuir contient tout"
+            },
+            {
+              "front": "His comfy hoodie feels cozy",
+              "back": "son sweat à capuche confortable est douillet"
+            },
+            {
+              "front": "My striped shirt feels soft",
+              "back": "ma chemise rayée est douce"
+            },
+            {
+              "front": "Her floral dress is stunning",
+              "back": "sa robe fleurie est magnifique"
+            },
+            {
+              "front": "Your fitted jeans look great",
+              "back": "ton jean ajusté est superbe"
+            },
+            {
+              "front": "His athletic shoes are comfortable",
+              "back": "ses chaussures de sport sont confortables"
+            },
+            {
+              "front": "Our bright jackets stand out",
+              "back": "nos vestes lumineuses se démarquent"
+            },
+            {
+              "front": "My old jeans are faded",
+              "back": "mes vieux jeans sont délavés"
+            },
+            {
+              "front": "His leather gloves keep warm",
+              "back": "ses gants en cuir tiennent chaud"
+            },
+            {
+              "front": "Her stylish boots are trendy",
+              "back": "ses bottes élégantes sont tendance"
+            },
+            {
+              "front": "My cozy hoodie fits perfectly",
+              "back": "mon sweat à capuche confortable me va parfaitement"
+            },
+            {
+              "front": "Your black belt matches well",
+              "back": "ta ceinture noire te va bien"
+            },
+            {
+              "front": "His soft hat keeps warm",
+              "back": "son chapeau doux tient chaud"
+            },
+            {
+              "front": "Our casual shoes are comfy",
+              "back": "nos chaussures décontractées sont confortables"
+            },
+            {
+              "front": "Her colorful scarf adds style",
+              "back": "son écharpe colorée ajoute du style"
+            },
+            {
+              "front": "My checkered shirt looks great",
+              "back": "ma chemise à carreaux est superbe"
+            },
+            {
+              "front": "His white t-shirt is fresh",
+              "back": "son t-shirt blanc est frais"
+            },
+            {
+              "front": "Her warm jacket keeps cozy",
+              "back": "sa veste chaude reste confortable"
+            },
+            {
+              "front": "Your leather shoes are polished",
+              "back": "tes chaussures en cuir sont cirées"
+            },
+            {
+              "front": "My bright sweater feels soft",
+              "back": "mon pull brillant est doux"
+            },
+            {
+              "front": "Her long coat is perfect",
+              "back": "son long manteau est parfait"
+            },
+            {
+              "front": "His soft socks keep warm",
+              "back": "ses chaussettes douces tiennent chaud"
+            },
+            {
+              "front": "Our winter hats are cozy",
+              "back": "nos chapeaux d&#39;hiver sont douillets"
+            },
+            {
+              "front": "Your floral blouse looks chic",
+              "back": "ton chemisier fleuri est chic"
+            },
+            {
+              "front": "My comfortable dress feels great",
+              "back": "ma robe confortable me fait du bien"
+            },
+            {
+              "front": "His tailored suit fits perfectly",
+              "back": "son costume sur mesure lui va parfaitement"
+            },
+            {
+              "front": "Her high heels are stylish",
+              "back": "ses talons hauts sont élégants"
+            },
+            {
+              "front": "My warm gloves protect hands",
+              "back": "mes gants chauds protègent les mains"
+            },
+            {
+              "front": "Their cozy sweaters are soft",
+              "back": "leurs pulls douillets sont doux"
+            },
+            {
+              "front": "Your denim jacket looks casual",
+              "back": "ta veste en jean a l&#39;air décontractée"
+            },
+            {
+              "front": "His casual shirt fits comfortably",
+              "back": "sa chemise décontractée lui va confortablement"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "shirt fits perfectly on my body",
+              "back": "la chemise s&#39;adapte parfaitement à mon corps"
+            },
+            {
+              "front": "pants look great on you today",
+              "back": "le pantalon te va bien aujourd&#39;hui"
+            },
+            {
+              "front": "dress feels comfortable for every occasion",
+              "back": "la robe est confortable pour toutes les occasions"
+            },
+            {
+              "front": "skirt sways gracefully with every step",
+              "back": "la jupe se balance gracieusement à chaque pas"
+            },
+            {
+              "front": "shorts are stylish for hot weather",
+              "back": "les shorts sont élégants par temps chaud"
+            },
+            {
+              "front": "jacket keeps warm in chilly evenings",
+              "back": "la veste garde au chaud pendant les soirées fraîches"
+            },
+            {
+              "front": "coat protects against cold winter winds",
+              "back": "le manteau protège des vents froids de l&#39;hiver"
+            },
+            {
+              "front": "sweater feels cozy during cold nights",
+              "back": "le pull est confortable pendant les nuits froides"
+            },
+            {
+              "front": "blouse matches my favorite pair today",
+              "back": "le chemisier correspond à ma paire préférée aujourd&#39;hui"
+            },
+            {
+              "front": "graphic t-shirt shows my personality clearly",
+              "back": "le t-shirt graphique montre clairement ma personnalité"
+            },
+            {
+              "front": "hoodie provides comfort during long travels",
+              "back": "le sweat à capuche offre du confort lors des longs voyages"
+            },
+            {
+              "front": "jeans fit well on my frame",
+              "back": "les jeans me vont bien"
+            },
+            {
+              "front": "knit scarf adds style to outfit",
+              "back": "l&#39;écharpe en tricot ajoute du style à la tenue"
+            },
+            {
+              "front": "baseball hat completes my casual look",
+              "back": "une casquette de baseball complète mon look décontracté"
+            },
+            {
+              "front": "canvas belt holds pants up securely",
+              "back": "la ceinture en toile maintient le pantalon en toute sécurité"
+            },
+            {
+              "front": "ankle socks keep feet warm always",
+              "back": "les chaussettes à la cheville gardent toujours les pieds au chaud"
+            },
+            {
+              "front": "running shoes match my workout gear",
+              "back": "les chaussures de course correspondent à mon équipement d&#39;entraînement"
+            },
+            {
+              "front": "winter boots look stylish and practical",
+              "back": "les bottes d&#39;hiver sont élégantes et pratiques"
+            },
+            {
+              "front": "wool gloves keep hands warm during winter",
+              "back": "les gants en laine gardent les mains au chaud pendant l&#39;hiver"
+            },
+            {
+              "front": "silk tie adds elegance to outfit",
+              "back": "la cravate en soie ajoute de l&#39;élégance à la tenue"
+            },
+            {
+              "front": "bright swimsuit fits perfectly at beach",
+              "back": "maillot de bain lumineux qui s&#39;adapte parfaitement à la plage"
+            },
+            {
+              "front": "cotton underwear feels soft against skin",
+              "back": "les sous-vêtements en coton sont doux contre la peau"
+            },
+            {
+              "front": "nightgown is comfortable for sleeping well",
+              "back": "la chemise de nuit est confortable pour bien dormir"
+            },
+            {
+              "front": "fluffy robe feels luxurious every morning",
+              "back": "une robe moelleuse procure une sensation de luxe chaque matin"
+            },
+            {
+              "front": "black leggings provide great flexibility today",
+              "back": "les leggings noirs offrent une grande flexibilité aujourd&#39;hui"
+            },
+            {
+              "front": "denim overalls are quite practical for work",
+              "back": "les salopettes en jean sont très pratiques pour le travail"
+            },
+            {
+              "front": "white capris look fashionable in summer",
+              "back": "les capris blancs sont à la mode en été"
+            },
+            {
+              "front": "lace lingerie feels elegant and beautiful",
+              "back": "la lingerie en dentelle est élégante et belle"
+            },
+            {
+              "front": "comfy slippers are perfect for relaxing",
+              "back": "les pantoufles confortables sont parfaites pour se détendre"
+            },
+            {
+              "front": "strappy sandals are great for summer",
+              "back": "les sandales à lanières sont idéales pour l&#39;été"
+            },
+            {
+              "front": "knitted mittens protect hands from cold",
+              "back": "les mitaines tricotées protègent les mains du froid"
+            },
+            {
+              "front": "cozy pajamas are perfect for relaxing",
+              "back": "les pyjamas confortables sont parfaits pour se détendre"
+            },
+            {
+              "front": "sleek tank top is stylish for summer",
+              "back": "le débardeur élégant est élégant pour l&#39;été"
+            },
+            {
+              "front": "tailored blazer looks professional for work",
+              "back": "un blazer sur mesure a l&#39;air professionnel pour le travail"
+            },
+            {
+              "front": "casual culottes are comfortable to wear",
+              "back": "les culottes décontractées sont confortables à porter"
+            },
+            {
+              "front": "colorful kimono adds flair to outfit",
+              "back": "un kimono coloré ajoute du style à la tenue"
+            },
+            {
+              "front": "stylish bikini fits perfectly for beach",
+              "back": "bikini élégant qui s&#39;adapte parfaitement à la plage"
+            },
+            {
+              "front": "matching tracksuit is perfect for workouts",
+              "back": "le survêtement assorti est parfait pour les entraînements"
+            },
+            {
+              "front": "comfortable bodysuit hugs curves nicely today",
+              "back": "un body confortable épouse joliment les courbes aujourd&#39;hui"
+            },
+            {
+              "front": "fashionable wrap enhances any outfit beautifully",
+              "back": "l&#39;écharpe à la mode met magnifiquement en valeur n&#39;importe quelle tenue"
+            },
+            {
+              "front": "navy peacoat looks chic and warm",
+              "back": "le caban bleu marine est chic et chaud"
+            },
+            {
+              "front": "light trousers are great for summer",
+              "back": "les pantalons légers sont parfaits pour l&#39;été"
+            },
+            {
+              "front": "heavy parka protects from cold weather",
+              "back": "une parka épaisse protège du froid"
+            },
+            {
+              "front": "khaki chinos look polished and neat",
+              "back": "les chinos kaki ont l&#39;air soignés et soignés"
+            },
+            {
+              "front": "long cardigan layers nicely for warmth",
+              "back": "les longs cardigans se superposent parfaitement pour plus de chaleur"
+            },
+            {
+              "front": "plaid kilt offers unique style always",
+              "back": "Le kilt à carreaux offre toujours un style unique"
+            },
+            {
+              "front": "jumpsuit simplifies getting dressed in mornings",
+              "back": "la combinaison simplifie l&#39;habillage le matin"
+            },
+            {
+              "front": "warm fleece is perfect for winter",
+              "back": "la polaire chaude est parfaite pour l&#39;hiver"
+            },
+            {
+              "front": "waterproof windbreaker is great for rain",
+              "back": "le coupe-vent imperméable est idéal pour la pluie"
+            },
+            {
+              "front": "rainy anorak protects from wet weather",
+              "back": "l&#39;anorak de pluie protège du temps humide"
+            },
+            {
+              "front": "flowy sundress is perfect for summer",
+              "back": "la robe d&#39;été fluide est parfaite pour l&#39;été"
+            },
+            {
+              "front": "comfortable skort allows freedom of movement",
+              "back": "une jupe-short confortable permet une liberté de mouvement"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "shirt fit perfectly",
+              "back": "la chemise s&#39;adapte parfaitement"
+            },
+            {
+              "front": "pants looked great",
+              "back": "le pantalon avait l&#39;air superbe"
+            },
+            {
+              "front": "dress felt comfortable",
+              "back": "la robe était confortable"
+            },
+            {
+              "front": "skirt swayed gracefully",
+              "back": "la jupe se balançait gracieusement"
+            },
+            {
+              "front": "shorts were stylish",
+              "back": "les shorts étaient élégants"
+            },
+            { "front": "jacket kept warm", "back": "veste gardée au chaud" },
+            {
+              "front": "coat protected against cold",
+              "back": "manteau protégé contre le froid"
+            },
+            {
+              "front": "sweater felt cozy",
+              "back": "le pull était confortable"
+            },
+            {
+              "front": "blouse matched skirt",
+              "back": "chemisier assorti à la jupe"
+            },
+            {
+              "front": "t-shirt showed personality",
+              "back": "le t-shirt montre la personnalité"
+            },
+            {
+              "front": "hoodie provided comfort",
+              "back": "sweat à capuche offrant un confort"
+            },
+            { "front": "jeans fit well", "back": "les jeans vont bien" },
+            {
+              "front": "scarf added style",
+              "back": "écharpe ajoutée au style"
+            },
+            {
+              "front": "hat completed outfit",
+              "back": "chapeau tenue terminée"
+            },
+            { "front": "belt held pants", "back": "pantalon à ceinture" },
+            {
+              "front": "socks kept feet warm",
+              "back": "les chaussettes gardaient les pieds au chaud"
+            },
+            {
+              "front": "shoes matched dress",
+              "back": "chaussures assorties à la robe"
+            },
+            {
+              "front": "boots looked fashionable",
+              "back": "les bottes avaient l&#39;air à la mode"
+            },
+            {
+              "front": "gloves kept hands warm",
+              "back": "les gants gardaient les mains au chaud"
+            },
+            {
+              "front": "tie added sophistication",
+              "back": "la cravate ajoute de la sophistication"
+            },
+            {
+              "front": "swimsuit fit snugly",
+              "back": "maillot de bain bien ajusté"
+            },
+            {
+              "front": "underwear felt soft",
+              "back": "les sous-vêtements étaient doux"
+            },
+            {
+              "front": "nightgown was comfortable",
+              "back": "la chemise de nuit était confortable"
+            },
+            {
+              "front": "robe felt luxurious",
+              "back": "robe en feutre luxueuse"
+            },
+            {
+              "front": "leggings provided flexibility",
+              "back": "les leggings offrent de la flexibilité"
+            },
+            {
+              "front": "overalls were practical",
+              "back": "les salopettes étaient pratiques"
+            },
+            {
+              "front": "capris looked fashionable",
+              "back": "les capris avaient l&#39;air à la mode"
+            },
+            {
+              "front": "lingerie felt elegant",
+              "back": "lingerie en feutre élégante"
+            },
+            {
+              "front": "slippers were cozy",
+              "back": "les pantoufles étaient confortables"
+            },
+            {
+              "front": "sandals kept feet cool",
+              "back": "les sandales gardent les pieds au frais"
+            },
+            {
+              "front": "mittens protected hands",
+              "back": "mitaines protégeant les mains"
+            },
+            { "front": "pajamas felt soft", "back": "pyjama en feutre doux" },
+            {
+              "front": "tank top looked great",
+              "back": "le débardeur avait l&#39;air superbe"
+            },
+            {
+              "front": "blazer looked professional",
+              "back": "le blazer avait l&#39;air professionnel"
+            },
+            {
+              "front": "culottes offered comfort",
+              "back": "les culottes offraient du confort"
+            },
+            { "front": "kimono added flair", "back": "kimono ajouté du style" },
+            {
+              "front": "bikini fit perfectly",
+              "back": "le bikini s&#39;adapte parfaitement"
+            },
+            {
+              "front": "tracksuit was comfortable",
+              "back": "le survêtement était confortable"
+            },
+            {
+              "front": "bodysuit hugged curves",
+              "back": "body moulant aux courbes"
+            },
+            {
+              "front": "wrap enhanced look",
+              "back": "look enveloppant amélioré"
+            },
+            { "front": "peacoat kept warm", "back": "caban gardé au chaud" },
+            { "front": "trousers fit well", "back": "le pantalon va bien" },
+            {
+              "front": "parka protected from rain",
+              "back": "parka protégée de la pluie"
+            },
+            {
+              "front": "chinos looked polished",
+              "back": "les chinos avaient l&#39;air soignés"
+            },
+            {
+              "front": "cardigan layered nicely",
+              "back": "cardigan joliment superposé"
+            },
+            {
+              "front": "kilt offered uniqueness",
+              "back": "le kilt offrait une singularité"
+            },
+            {
+              "front": "jumpsuit simplified dressing",
+              "back": "combinaison dressing simplifié"
+            },
+            {
+              "front": "fleece provided warmth",
+              "back": "la polaire fournit de la chaleur"
+            },
+            {
+              "front": "windbreaker was great",
+              "back": "le coupe-vent était super"
+            },
+            {
+              "front": "anorak protected me",
+              "back": "l&#39;anorak m&#39;a protégé"
+            },
+            {
+              "front": "sundress was perfect",
+              "back": "la robe d&#39;été était parfaite"
+            },
+            {
+              "front": "skort allowed movement",
+              "back": "la jupe-short permettait le mouvement"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "He wore clean pants",
+              "back": "il portait un pantalon propre"
+            },
+            { "front": "She washed a dress", "back": "elle a lavé une robe" },
+            {
+              "front": "They bought new shoes",
+              "back": "ils ont acheté de nouvelles chaussures"
+            },
+            {
+              "front": "They had dirty jackets",
+              "back": "ils avaient des vestes sales"
+            },
+            {
+              "front": "I wore warm boots",
+              "back": "je portais des bottes chaudes"
+            },
+            { "front": "He wore a sweater", "back": "il portait un pull" },
+            {
+              "front": "She wore a blouse",
+              "back": "elle portait un chemisier"
+            },
+            {
+              "front": "We bought stylish coats",
+              "back": "nous avons acheté des manteaux élégants"
+            },
+            { "front": "His jeans were tight", "back": "son jean était serré" },
+            { "front": "My hat was yellow", "back": "mon chapeau était jaune" },
+            {
+              "front": "Her dress was beautiful",
+              "back": "sa robe était belle"
+            },
+            {
+              "front": "They wore soft gloves",
+              "back": "ils portaient des gants doux"
+            },
+            {
+              "front": "We wore black shoes",
+              "back": "nous portions des chaussures noires"
+            },
+            {
+              "front": "She wore warm socks",
+              "back": "elle portait des chaussettes chaudes"
+            },
+            {
+              "front": "His boots were dirty",
+              "back": "ses bottes étaient sales"
+            },
+            {
+              "front": "They had leather belts",
+              "back": "ils avaient des ceintures en cuir"
+            },
+            {
+              "front": "He wore plaid shirts",
+              "back": "il portait des chemises à carreaux"
+            },
+            {
+              "front": "I had cozy scarves",
+              "back": "j&#39;avais des écharpes douillettes"
+            },
+            {
+              "front": "Her jacket was colorful",
+              "back": "sa veste était colorée"
+            },
+            {
+              "front": "We wore denim jeans",
+              "back": "nous portions des jeans en denim"
+            },
+            {
+              "front": "His pants were ripped",
+              "back": "son pantalon était déchiré"
+            },
+            {
+              "front": "I bought new boots",
+              "back": "j&#39;ai acheté de nouvelles bottes"
+            },
+            {
+              "front": "She wore fitted jeans",
+              "back": "elle portait un jean ajusté"
+            },
+            {
+              "front": "We had warm sweaters",
+              "back": "nous avions des pulls chauds"
+            },
+            {
+              "front": "His shirt was white",
+              "back": "sa chemise était blanche"
+            },
+            {
+              "front": "My gloves were soft",
+              "back": "mes gants étaient doux"
+            },
+            {
+              "front": "They wore bright jackets",
+              "back": "ils portaient des vestes brillantes"
+            },
+            {
+              "front": "Her shoes were comfortable",
+              "back": "ses chaussures étaient confortables"
+            },
+            {
+              "front": "I bought a coat",
+              "back": "j&#39;ai acheté un manteau"
+            },
+            {
+              "front": "We wore leather shoes",
+              "back": "nous portions des chaussures en cuir"
+            },
+            {
+              "front": "He had clean socks",
+              "back": "il avait des chaussettes propres"
+            },
+            {
+              "front": "They wore casual shirts",
+              "back": "ils portaient des chemises décontractées"
+            },
+            {
+              "front": "I wore a hoodie",
+              "back": "je portais un sweat à capuche"
+            },
+            {
+              "front": "She bought new boots",
+              "back": "elle a acheté de nouvelles bottes"
+            },
+            {
+              "front": "His jacket was stylish",
+              "back": "sa veste était élégante"
+            },
+            {
+              "front": "We wore colorful scarves",
+              "back": "nous portions des foulards colorés"
+            },
+            {
+              "front": "They bought denim jackets",
+              "back": "ils ont acheté des vestes en jean"
+            },
+            {
+              "front": "My pants were comfortable",
+              "back": "mon pantalon était confortable"
+            },
+            { "front": "I wore a hat", "back": "je portais un chapeau" },
+            {
+              "front": "They had leather jackets",
+              "back": "ils avaient des vestes en cuir"
+            },
+            {
+              "front": "Her boots were shiny",
+              "back": "ses bottes étaient brillantes"
+            },
+            {
+              "front": "We wore soft gloves",
+              "back": "nous portions des gants doux"
+            },
+            {
+              "front": "His shoes were polished",
+              "back": "ses chaussures étaient cirées"
+            },
+            {
+              "front": "I had new shoes",
+              "back": "j&#39;avais de nouvelles chaussures"
+            },
+            {
+              "front": "They wore matching scarves",
+              "back": "ils portaient des foulards assortis"
+            },
+            {
+              "front": "We had leather purses",
+              "back": "nous avions des sacs à main en cuir"
+            },
+            { "front": "Her jacket was warm", "back": "sa veste était chaude" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "He tied his shoes tight",
+              "back": "il a bien attaché ses chaussures"
+            },
+            {
+              "front": "She wore a nice dress",
+              "back": "elle portait une jolie robe"
+            },
+            {
+              "front": "His gloves made him warm",
+              "back": "ses gants le réchauffaient"
+            },
+            {
+              "front": "They bought new shoes yesterday",
+              "back": "ils ont acheté de nouvelles chaussures hier"
+            },
+            {
+              "front": "I wore my new jacket",
+              "back": "j&#39;ai porté ma nouvelle veste"
+            },
+            {
+              "front": "She wore a colorful scarf",
+              "back": "elle portait une écharpe colorée"
+            },
+            {
+              "front": "His boots kept him warm",
+              "back": "ses bottes le gardaient au chaud"
+            },
+            {
+              "front": "We wore our comfortable jeans",
+              "back": "nous portions nos jeans confortables"
+            },
+            {
+              "front": "They wore leather jackets today",
+              "back": "ils portaient des vestes en cuir aujourd&#39;hui"
+            },
+            {
+              "front": "My shirt fit perfectly today",
+              "back": "ma chemise me va parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "Her sweater was really cozy",
+              "back": "son pull était vraiment confortable"
+            },
+            {
+              "front": "His pants looked too tight",
+              "back": "son pantalon semblait trop serré"
+            },
+            {
+              "front": "I bought new gloves today",
+              "back": "j&#39;ai acheté de nouveaux gants aujourd&#39;hui"
+            },
+            {
+              "front": "She wore a black dress",
+              "back": "elle portait une robe noire"
+            },
+            {
+              "front": "Their shoes were very stylish",
+              "back": "leurs chaussures étaient très élégantes"
+            },
+            {
+              "front": "He wore a wool sweater",
+              "back": "il portait un pull en laine"
+            },
+            {
+              "front": "I tied my shoes tight",
+              "back": "j&#39;ai bien attaché mes chaussures"
+            },
+            {
+              "front": "Her coat was very warm",
+              "back": "son manteau était très chaud"
+            },
+            {
+              "front": "My socks were warm today",
+              "back": "mes chaussettes étaient chaudes aujourd&#39;hui"
+            },
+            {
+              "front": "They wore jackets in winter",
+              "back": "ils portaient des vestes en hiver"
+            },
+            {
+              "front": "His hoodie fit perfectly today",
+              "back": "son sweat à capuche lui allait parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "Her gloves kept her warm",
+              "back": "ses gants la gardaient au chaud"
+            },
+            {
+              "front": "I wore new boots today",
+              "back": "j&#39;ai porté de nouvelles bottes aujourd&#39;hui"
+            },
+            {
+              "front": "They wore matching scarves today",
+              "back": "ils portaient des foulards assortis aujourd&#39;hui"
+            },
+            {
+              "front": "His t-shirt fit snugly today",
+              "back": "son t-shirt lui allait parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "My jeans fit too tight",
+              "back": "mon jean est trop serré"
+            },
+            {
+              "front": "Her boots looked very stylish",
+              "back": "ses bottes avaient l&#39;air très élégantes"
+            },
+            {
+              "front": "We bought new hats today",
+              "back": "nous avons acheté de nouveaux chapeaux aujourd&#39;hui"
+            },
+            {
+              "front": "He wore a bright jacket",
+              "back": "il portait une veste brillante"
+            },
+            {
+              "front": "She bought new shoes today",
+              "back": "elle a acheté de nouvelles chaussures aujourd&#39;hui"
+            },
+            {
+              "front": "My sweater kept me warm",
+              "back": "mon pull m&#39;a gardé au chaud"
+            },
+            {
+              "front": "They wore warm jackets today",
+              "back": "ils portaient des vestes chaudes aujourd&#39;hui"
+            },
+            {
+              "front": "His gloves felt very soft",
+              "back": "ses gants étaient très doux"
+            },
+            {
+              "front": "I wore a striped shirt",
+              "back": "je portais une chemise rayée"
+            },
+            {
+              "front": "Her coat kept her warm",
+              "back": "son manteau la tenait au chaud"
+            },
+            {
+              "front": "We wore hats in winter",
+              "back": "nous portions des chapeaux en hiver"
+            },
+            {
+              "front": "My boots kept me dry",
+              "back": "mes bottes m&#39;ont gardé au sec"
+            },
+            {
+              "front": "They bought jackets yesterday",
+              "back": "ils ont acheté des vestes hier"
+            },
+            {
+              "front": "His pants looked too big",
+              "back": "son pantalon semblait trop grand"
+            },
+            {
+              "front": "I bought leather gloves today",
+              "back": "j&#39;ai acheté des gants en cuir aujourd&#39;hui"
+            },
+            {
+              "front": "She wore a bright dress",
+              "back": "elle portait une robe brillante"
+            },
+            {
+              "front": "We wore scarves in winter",
+              "back": "nous portions des écharpes en hiver"
+            },
+            {
+              "front": "His shirt fit perfectly today",
+              "back": "sa chemise lui allait parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "I wore a new hat",
+              "back": "j&#39;ai porté un nouveau chapeau"
+            },
+            {
+              "front": "Her boots fit perfectly today",
+              "back": "ses bottes lui vont parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "They bought stylish jackets today",
+              "back": "ils ont acheté des vestes élégantes aujourd&#39;hui"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "He tied his shoes tight today",
+              "back": "il a bien attaché ses chaussures aujourd&#39;hui"
+            },
+            {
+              "front": "She wore a nice dress yesterday",
+              "back": "elle portait une jolie robe hier"
+            },
+            {
+              "front": "His gloves made him warm today",
+              "back": "ses gants l&#39;ont tenu chaud aujourd&#39;hui"
+            },
+            {
+              "front": "They bought new shoes yesterday afternoon",
+              "back": "ils ont acheté de nouvelles chaussures hier après-midi"
+            },
+            {
+              "front": "I wore my new jacket today",
+              "back": "j&#39;ai porté ma nouvelle veste aujourd&#39;hui"
+            },
+            {
+              "front": "She wore a colorful scarf today",
+              "back": "elle portait une écharpe colorée aujourd&#39;hui"
+            },
+            {
+              "front": "His boots kept him warm all day",
+              "back": "ses bottes le gardaient au chaud toute la journée"
+            },
+            {
+              "front": "We wore our comfortable jeans today",
+              "back": "nous avons porté nos jeans confortables aujourd&#39;hui"
+            },
+            {
+              "front": "They wore leather jackets all day",
+              "back": "ils portaient des vestes en cuir toute la journée"
+            },
+            {
+              "front": "My shirt fit perfectly this morning",
+              "back": "ma chemise me va parfaitement ce matin"
+            },
+            {
+              "front": "Her sweater was really cozy today",
+              "back": "son pull était vraiment confortable aujourd&#39;hui"
+            },
+            {
+              "front": "His pants looked too tight today",
+              "back": "son pantalon avait l&#39;air trop serré aujourd&#39;hui"
+            },
+            {
+              "front": "I bought new gloves this morning",
+              "back": "j&#39;ai acheté de nouveaux gants ce matin"
+            },
+            {
+              "front": "She wore a black dress today",
+              "back": "elle portait une robe noire aujourd&#39;hui"
+            },
+            {
+              "front": "Their shoes were very stylish today",
+              "back": "leurs chaussures étaient très élégantes aujourd&#39;hui"
+            },
+            {
+              "front": "He wore a wool sweater today",
+              "back": "il portait un pull en laine aujourd&#39;hui"
+            },
+            {
+              "front": "I tied my shoes tight today",
+              "back": "j&#39;ai bien attaché mes chaussures aujourd&#39;hui"
+            },
+            {
+              "front": "Her coat was very warm today",
+              "back": "son manteau était très chaud aujourd&#39;hui"
+            },
+            {
+              "front": "My socks were warm this morning",
+              "back": "mes chaussettes étaient chaudes ce matin"
+            },
+            {
+              "front": "They wore jackets in winter time",
+              "back": "ils portaient des vestes en hiver"
+            },
+            {
+              "front": "His hoodie fit perfectly today",
+              "back": "son sweat à capuche lui allait parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "Her gloves kept her warm today",
+              "back": "ses gants l&#39;ont gardée au chaud aujourd&#39;hui"
+            },
+            {
+              "front": "I wore new boots today",
+              "back": "j&#39;ai porté de nouvelles bottes aujourd&#39;hui"
+            },
+            {
+              "front": "They wore matching scarves today",
+              "back": "ils portaient des foulards assortis aujourd&#39;hui"
+            },
+            {
+              "front": "His t-shirt fit snugly today",
+              "back": "son t-shirt lui allait parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "My jeans fit too tight today",
+              "back": "mon jean est trop serré aujourd&#39;hui"
+            },
+            {
+              "front": "Her boots looked very stylish today",
+              "back": "ses bottes étaient très élégantes aujourd&#39;hui"
+            },
+            {
+              "front": "We bought new hats today",
+              "back": "nous avons acheté de nouveaux chapeaux aujourd&#39;hui"
+            },
+            {
+              "front": "He wore a bright jacket today",
+              "back": "il portait une veste brillante aujourd&#39;hui"
+            },
+            {
+              "front": "She bought new shoes today",
+              "back": "elle a acheté de nouvelles chaussures aujourd&#39;hui"
+            },
+            {
+              "front": "My sweater kept me warm today",
+              "back": "mon pull m&#39;a gardé au chaud aujourd&#39;hui"
+            },
+            {
+              "front": "They wore warm jackets today",
+              "back": "ils portaient des vestes chaudes aujourd&#39;hui"
+            },
+            {
+              "front": "His gloves felt very soft today",
+              "back": "ses gants étaient très doux aujourd&#39;hui"
+            },
+            {
+              "front": "I wore a striped shirt today",
+              "back": "j&#39;ai porté une chemise rayée aujourd&#39;hui"
+            },
+            {
+              "front": "Her coat kept her warm today",
+              "back": "son manteau l&#39;a gardée au chaud aujourd&#39;hui"
+            },
+            {
+              "front": "We wore hats in winter",
+              "back": "nous portions des chapeaux en hiver"
+            },
+            {
+              "front": "My boots kept me dry today",
+              "back": "mes bottes m&#39;ont gardé au sec aujourd&#39;hui"
+            },
+            {
+              "front": "They bought jackets yesterday afternoon",
+              "back": "ils ont acheté des vestes hier après-midi"
+            },
+            {
+              "front": "His pants looked too big today",
+              "back": "son pantalon semblait trop grand aujourd&#39;hui"
+            },
+            {
+              "front": "I bought leather gloves today",
+              "back": "j&#39;ai acheté des gants en cuir aujourd&#39;hui"
+            },
+            {
+              "front": "She wore a bright dress today",
+              "back": "elle portait une robe brillante aujourd&#39;hui"
+            },
+            {
+              "front": "We wore scarves in winter",
+              "back": "nous portions des écharpes en hiver"
+            },
+            {
+              "front": "His shirt fit perfectly today",
+              "back": "sa chemise lui allait parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "I wore a new hat today",
+              "back": "j&#39;ai porté un nouveau chapeau aujourd&#39;hui"
+            },
+            {
+              "front": "Her boots fit perfectly today",
+              "back": "ses bottes lui vont parfaitement aujourd&#39;hui"
+            },
+            {
+              "front": "They bought stylish jackets today",
+              "back": "ils ont acheté des vestes élégantes aujourd&#39;hui"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "bikini will fit", "back": "le bikini ira" },
+            { "front": "shirt will shrink", "back": "la chemise va rétrécir" },
+            { "front": "dress will flow", "back": "la robe coulera" },
+            {
+              "front": "pants will stretch",
+              "back": "le pantalon s&#39;étirera"
+            },
+            { "front": "skirt will twirl", "back": "la jupe va virevolter" },
+            { "front": "jacket will keep", "back": "la veste gardera" },
+            { "front": "coat will protect", "back": "le manteau protégera" },
+            { "front": "sweater will warm", "back": "le pull va réchauffer" },
+            { "front": "blouse will match", "back": "le chemisier ira bien" },
+            {
+              "front": "t-shirt will look",
+              "back": "le t-shirt aura l&#39;air"
+            },
+            {
+              "front": "hoodie will comfort",
+              "back": "le sweat à capuche réconfortera"
+            },
+            {
+              "front": "jeans will fade",
+              "back": "les jeans vont se décolorer"
+            },
+            {
+              "front": "scarf will accessorize",
+              "back": "l&#39;écharpe accessoirisera"
+            },
+            {
+              "front": "hat will shade",
+              "back": "le chapeau fera de l&#39;ombre"
+            },
+            { "front": "belt will hold", "back": "la ceinture tiendra" },
+            {
+              "front": "socks will cushion",
+              "back": "les chaussettes amortiront"
+            },
+            {
+              "front": "shoes will support",
+              "back": "les chaussures soutiendront"
+            },
+            { "front": "boots will protect", "back": "les bottes protégeront" },
+            { "front": "gloves will warm", "back": "les gants réchaufferont" },
+            {
+              "front": "tie will complete",
+              "back": "la cravate sera complétée"
+            },
+            { "front": "swimsuit will fit", "back": "le maillot de bain ira" },
+            {
+              "front": "underwear will comfort",
+              "back": "les sous-vêtements réconforteront"
+            },
+            {
+              "front": "nightgown will relax",
+              "back": "la chemise de nuit détendra"
+            },
+            { "front": "robe will wrap", "back": "la robe enveloppera" },
+            {
+              "front": "leggings will stretch",
+              "back": "les leggings s&#39;étireront"
+            },
+            { "front": "overalls will fit", "back": "la salopette ira" },
+            { "front": "capris will flatter", "back": "les capris flatteront" },
+            {
+              "front": "lingerie will excite",
+              "back": "la lingerie va exciter"
+            },
+            {
+              "front": "slippers will relax",
+              "back": "les pantoufles détendront"
+            },
+            {
+              "front": "sandals will breathe",
+              "back": "les sandales respireront"
+            },
+            {
+              "front": "mittens will shield",
+              "back": "les mitaines protégeront"
+            },
+            {
+              "front": "pajamas will comfort",
+              "back": "les pyjamas réconforteront"
+            },
+            {
+              "front": "tank top will flatter",
+              "back": "le débardeur sera flatteur"
+            },
+            { "front": "blazer will elevate", "back": "le blazer rehaussera" },
+            {
+              "front": "culottes will drape",
+              "back": "les culottes vont draper"
+            },
+            { "front": "kimono will flow", "back": "le kimono coulera" },
+            { "front": "tracksuit will fit", "back": "le survêtement ira" },
+            { "front": "bodysuit will hug", "back": "le body va serrer" },
+            { "front": "wrap will style", "back": "envelopper va styliser" },
+            { "front": "peacoat will warm", "back": "le caban réchauffera" },
+            { "front": "trousers will fit", "back": "le pantalon ira" },
+            { "front": "parka will shield", "back": "la parka protégera" },
+            {
+              "front": "chinos will style",
+              "back": "les chinos donneront du style"
+            },
+            {
+              "front": "cardigan will layer",
+              "back": "le cardigan sera superposé"
+            },
+            {
+              "front": "jumpsuit will simplify",
+              "back": "la combinaison simplifiera"
+            },
+            { "front": "fleece will insulate", "back": "la polaire isolera" },
+            {
+              "front": "windbreaker will protect",
+              "back": "le coupe-vent protégera"
+            },
+            { "front": "anorak will shield", "back": "l&#39;anorak protégera" },
+            {
+              "front": "sundress will flatter",
+              "back": "la robe d&#39;été sera flatteuse"
+            },
+            { "front": "skort will move", "back": "la jupe bougera" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "She will wear shoes",
+              "back": "elle portera des chaussures"
+            },
+            { "front": "His jacket will fit", "back": "sa veste lui ira" },
+            {
+              "front": "Their shoes will run",
+              "back": "leurs chaussures couleront"
+            },
+            { "front": "I will wear boots", "back": "je porterai des bottes" },
+            { "front": "Her dress will shine", "back": "sa robe brillera" },
+            {
+              "front": "We will buy shoes",
+              "back": "nous achèterons des chaussures"
+            },
+            {
+              "front": "Your sweater will stretch",
+              "back": "ton pull va s&#39;étirer"
+            },
+            { "front": "He will wear a coat", "back": "il portera un manteau" },
+            { "front": "My boots will shine", "back": "mes bottes brilleront" },
+            {
+              "front": "She will wear gloves",
+              "back": "elle portera des gants"
+            },
+            { "front": "Their jacket will fit", "back": "leur veste ira" },
+            {
+              "front": "We will buy jackets",
+              "back": "nous achèterons des vestes"
+            },
+            {
+              "front": "His shoes will match",
+              "back": "ses chaussures iront avec"
+            },
+            {
+              "front": "I will wear socks",
+              "back": "je porterai des chaussettes"
+            },
+            {
+              "front": "Her shirt will wrinkle",
+              "back": "sa chemise va se froisser"
+            },
+            { "front": "You will wear jeans", "back": "tu porteras des jeans" },
+            {
+              "front": "We will buy pants",
+              "back": "nous achèterons des pantalons"
+            },
+            {
+              "front": "He will wear sneakers",
+              "back": "il portera des baskets"
+            },
+            {
+              "front": "My coat will keep warm",
+              "back": "mon manteau me tiendra chaud"
+            },
+            {
+              "front": "Their boots will fit",
+              "back": "leurs bottes iront bien"
+            },
+            {
+              "front": "She will wear scarves",
+              "back": "elle portera des foulards"
+            },
+            { "front": "I will wear a hat", "back": "je porterai un chapeau" },
+            {
+              "front": "We will buy shoes",
+              "back": "nous achèterons des chaussures"
+            },
+            {
+              "front": "Her pants will stretch",
+              "back": "son pantalon va s&#39;étirer"
+            },
+            {
+              "front": "His gloves will warm",
+              "back": "ses gants vont réchauffer"
+            },
+            {
+              "front": "My shirt will wrinkle",
+              "back": "ma chemise va se froisser"
+            },
+            { "front": "Their coat will fit", "back": "leur manteau leur ira" },
+            {
+              "front": "We will wear hats",
+              "back": "nous porterons des chapeaux"
+            },
+            {
+              "front": "You will wear boots",
+              "back": "tu porteras des bottes"
+            },
+            {
+              "front": "His socks will match",
+              "back": "ses chaussettes seront assorties"
+            },
+            {
+              "front": "Her gloves will keep warm",
+              "back": "ses gants resteront au chaud"
+            },
+            {
+              "front": "We will wear jackets",
+              "back": "nous porterons des vestes"
+            },
+            {
+              "front": "Their shoes will sparkle",
+              "back": "leurs chaussures brilleront"
+            },
+            {
+              "front": "She will wear a sweater",
+              "back": "elle portera un pull"
+            },
+            { "front": "I will wear jeans", "back": "je porterai un jean" },
+            { "front": "My boots will shine", "back": "mes bottes brilleront" },
+            {
+              "front": "We will wear scarves",
+              "back": "nous porterons des foulards"
+            },
+            { "front": "His shirt will match", "back": "sa chemise ira avec" },
+            {
+              "front": "Her jacket will protect",
+              "back": "sa veste protégera"
+            },
+            { "front": "I will wear dress", "back": "je porterai une robe" },
+            { "front": "My hat will fit", "back": "mon chapeau ira" },
+            {
+              "front": "Their shoes will fit",
+              "back": "leurs chaussures leur iront"
+            },
+            {
+              "front": "You will wear gloves",
+              "back": "tu porteras des gants"
+            },
+            {
+              "front": "We will wear shoes",
+              "back": "nous porterons des chaussures"
+            },
+            {
+              "front": "She will wear a coat",
+              "back": "elle portera un manteau"
+            },
+            { "front": "His pants will fit", "back": "son pantalon lui ira" },
+            { "front": "My shirt will fit", "back": "ma chemise ira" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "She will wear new shoes",
+              "back": "elle portera de nouvelles chaussures"
+            },
+            {
+              "front": "His jacket will fit perfectly",
+              "back": "sa veste lui ira parfaitement"
+            },
+            {
+              "front": "Their shoes will run fast",
+              "back": "leurs chaussures courront vite"
+            },
+            {
+              "front": "I will wear my boots",
+              "back": "je porterai mes bottes"
+            },
+            {
+              "front": "Her dress will shine brightly",
+              "back": "sa robe brillera de mille feux"
+            },
+            {
+              "front": "We will buy new shoes",
+              "back": "nous achèterons de nouvelles chaussures"
+            },
+            {
+              "front": "Your sweater will stretch nicely",
+              "back": "votre pull s&#39;étirera bien"
+            },
+            { "front": "He will wear a coat", "back": "il portera un manteau" },
+            {
+              "front": "My boots will shine tomorrow",
+              "back": "mes bottes brilleront demain"
+            },
+            {
+              "front": "She will wear warm gloves",
+              "back": "elle portera des gants chauds"
+            },
+            {
+              "front": "Their jacket will fit perfectly",
+              "back": "leur veste ira parfaitement"
+            },
+            {
+              "front": "We will buy jackets soon",
+              "back": "nous achèterons bientôt des vestes"
+            },
+            {
+              "front": "His shoes will match well",
+              "back": "ses chaussures iront bien"
+            },
+            {
+              "front": "I will wear thick socks",
+              "back": "je porterai des chaussettes épaisses"
+            },
+            {
+              "front": "Her shirt will wrinkle quickly",
+              "back": "sa chemise va se froisser rapidement"
+            },
+            {
+              "front": "You will wear blue jeans",
+              "back": "tu porteras un jean bleu"
+            },
+            {
+              "front": "We will buy new pants",
+              "back": "nous achèterons un nouveau pantalon"
+            },
+            {
+              "front": "He will wear sneakers daily",
+              "back": "il portera des baskets tous les jours"
+            },
+            {
+              "front": "My coat will keep me warm",
+              "back": "mon manteau me gardera au chaud"
+            },
+            {
+              "front": "Their boots will fit perfectly",
+              "back": "leurs bottes s&#39;adapteront parfaitement"
+            },
+            {
+              "front": "She will wear scarves often",
+              "back": "elle portera souvent des foulards"
+            },
+            { "front": "I will wear a hat", "back": "je porterai un chapeau" },
+            {
+              "front": "We will buy more shoes",
+              "back": "nous achèterons plus de chaussures"
+            },
+            {
+              "front": "Her pants will stretch comfortably",
+              "back": "son pantalon s&#39;étirera confortablement"
+            },
+            {
+              "front": "His gloves will warm him",
+              "back": "ses gants le réchaufferont"
+            },
+            {
+              "front": "My shirt will wrinkle easily",
+              "back": "ma chemise se froisse facilement"
+            },
+            {
+              "front": "Their coat will fit perfectly",
+              "back": "leur manteau ira parfaitement"
+            },
+            {
+              "front": "We will wear hats daily",
+              "back": "nous porterons des chapeaux tous les jours"
+            },
+            {
+              "front": "You will wear warm boots",
+              "back": "tu porteras des bottes chaudes"
+            },
+            {
+              "front": "His socks will match today",
+              "back": "ses chaussettes seront assorties aujourd&#39;hui"
+            },
+            {
+              "front": "Her gloves will keep her warm",
+              "back": "ses gants la garderont au chaud"
+            },
+            {
+              "front": "We will wear jackets soon",
+              "back": "nous porterons bientôt des vestes"
+            },
+            {
+              "front": "Their shoes will sparkle brightly",
+              "back": "leurs chaussures brilleront de mille feux"
+            },
+            {
+              "front": "She will wear a sweater",
+              "back": "elle portera un pull"
+            },
+            {
+              "front": "I will wear black jeans",
+              "back": "je porterai un jean noir"
+            },
+            {
+              "front": "My boots will shine today",
+              "back": "mes bottes brilleront aujourd&#39;hui"
+            },
+            {
+              "front": "We will wear scarves again",
+              "back": "nous porterons à nouveau des foulards"
+            },
+            {
+              "front": "His shirt will match perfectly",
+              "back": "sa chemise ira parfaitement"
+            },
+            {
+              "front": "Her jacket will protect her",
+              "back": "sa veste la protégera"
+            },
+            { "front": "I will wear a dress", "back": "je porterai une robe" },
+            {
+              "front": "My hat will fit snugly",
+              "back": "mon chapeau ira bien"
+            },
+            {
+              "front": "Their shoes will fit comfortably",
+              "back": "leurs chaussures leur iront confortablement"
+            },
+            {
+              "front": "You will wear new gloves",
+              "back": "tu porteras de nouveaux gants"
+            },
+            {
+              "front": "We will wear shoes tomorrow",
+              "back": "nous porterons des chaussures demain"
+            },
+            {
+              "front": "She will wear a coat",
+              "back": "elle portera un manteau"
+            },
+            {
+              "front": "His pants will fit perfectly",
+              "back": "son pantalon lui ira parfaitement"
+            },
+            { "front": "My shirt will fit well", "back": "ma chemise ira bien" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "her bikini will fit me perfectly",
+              "back": "son bikini m&#39;ira parfaitement"
+            },
+            {
+              "front": "his shirt will shrink in dryer",
+              "back": "sa chemise va rétrécir au sèche-linge"
+            },
+            {
+              "front": "this dress will flow with movement",
+              "back": "cette robe sera fluide avec le mouvement"
+            },
+            {
+              "front": "new pants will stretch for you",
+              "back": "un nouveau pantalon s&#39;étirera pour toi"
+            },
+            {
+              "front": "skirt will twirl as she dances",
+              "back": "la jupe virevoltera pendant qu&#39;elle dansera"
+            },
+            {
+              "front": "thick jacket will keep me warm",
+              "back": "une veste épaisse me gardera au chaud"
+            },
+            {
+              "front": "coat will protect him from cold",
+              "back": "le manteau le protégera du froid"
+            },
+            {
+              "front": "sweater will warm her during winter",
+              "back": "le pull la réchauffera pendant l&#39;hiver"
+            },
+            {
+              "front": "old blouse will match your skirt",
+              "back": "un vieux chemisier ira avec ta jupe"
+            },
+            {
+              "front": "custom graphic t-shirt will show personality",
+              "back": "un t-shirt graphique personnalisé montrera votre personnalité"
+            },
+            {
+              "front": "hoodie will provide comfort for me",
+              "back": "le sweat à capuche me procurera du confort"
+            },
+            {
+              "front": "relaxed jeans will fit you well",
+              "back": "un jean décontracté vous ira bien"
+            },
+            {
+              "front": "colorful knit scarf will add style",
+              "back": "une écharpe en tricot colorée ajoutera du style"
+            },
+            {
+              "front": "baseball hat will complete his outfit",
+              "back": "une casquette de baseball complètera sa tenue"
+            },
+            {
+              "front": "canvas belt will hold up pants",
+              "back": "la ceinture en toile maintiendra le pantalon"
+            },
+            {
+              "front": "ankle socks will keep her warm",
+              "back": "des chaussettes à la cheville la garderont au chaud"
+            },
+            {
+              "front": "running shoes will match your outfit",
+              "back": "les chaussures de course s&#39;accorderont avec votre tenue"
+            },
+            {
+              "front": "boots will look stylish for you",
+              "back": "les bottes vous iront à merveille"
+            },
+            {
+              "front": "wool gloves will keep him warm",
+              "back": "des gants en laine le garderont au chaud"
+            },
+            {
+              "front": "tie will add elegance for her",
+              "back": "la cravate ajoutera de l&#39;élégance pour elle"
+            },
+            {
+              "front": "bright swimsuit will fit me snugly",
+              "back": "un maillot de bain lumineux me conviendra parfaitement"
+            },
+            {
+              "front": "my cotton underwear will feel soft",
+              "back": "mes sous-vêtements en coton seront doux"
+            },
+            {
+              "front": "nightgown will be comfortable for her",
+              "back": "la chemise de nuit sera confortable pour elle"
+            },
+            {
+              "front": "robe will feel luxurious to you",
+              "back": "la robe vous semblera luxueuse"
+            },
+            {
+              "front": "leggings will provide flexibility for me",
+              "back": "les leggings me donneront de la souplesse"
+            },
+            {
+              "front": "overalls will be practical for him",
+              "back": "une salopette lui sera pratique"
+            },
+            {
+              "front": "capris will look fashionable on you",
+              "back": "les capris vous iront à la mode"
+            },
+            {
+              "front": "lingerie will feel elegant for her",
+              "back": "la lingerie lui semblera élégante"
+            },
+            {
+              "front": "slippers will be cozy for me",
+              "back": "les pantoufles seront confortables pour moi"
+            },
+            {
+              "front": "sandals will keep your feet cool",
+              "back": "les sandales garderont vos pieds au frais"
+            },
+            {
+              "front": "mittens will protect his hands nicely",
+              "back": "les mitaines protégeront bien ses mains"
+            },
+            {
+              "front": "pajamas will feel soft on her",
+              "back": "le pyjama sera doux sur elle"
+            },
+            {
+              "front": "his tank top will look great",
+              "back": "son débardeur sera superbe"
+            },
+            {
+              "front": "blazer will look professional for him",
+              "back": "le blazer lui va à merveille"
+            },
+            {
+              "front": "culottes will offer comfort for me",
+              "back": "les culottes me procureront du réconfort"
+            },
+            {
+              "front": "kimono will add flair to her",
+              "back": "le kimono ajoutera du style à sa tenue"
+            },
+            {
+              "front": "bikini will fit perfectly on her",
+              "back": "le bikini lui ira parfaitement"
+            },
+            {
+              "front": "tracksuit will be comfortable for you",
+              "back": "le survêtement sera confortable pour vous"
+            },
+            {
+              "front": "slim bodysuit will hug curves nicely",
+              "back": "le body slim épousera joliment les courbes"
+            },
+            {
+              "front": "wrap will enhance look for you",
+              "back": "l&#39;enveloppement rehaussera votre look"
+            },
+            {
+              "front": "his peacoat will keep me warm",
+              "back": "son caban me tiendra chaud"
+            },
+            {
+              "front": "slim trousers will fit you perfectly",
+              "back": "un pantalon slim vous ira parfaitement"
+            },
+            {
+              "front": "parka will protect him from wind",
+              "back": "la parka le protégera du vent"
+            },
+            {
+              "front": "chinos will look polished on her",
+              "back": "les chinos lui iront bien"
+            },
+            {
+              "front": "cardigan will layer nicely on you",
+              "back": "le cardigan s&#39;agencera parfaitement avec vous"
+            },
+            {
+              "front": "jumpsuit will simplify dressing for me",
+              "back": "la combinaison me simplifiera l&#39;habillage"
+            },
+            {
+              "front": "fleece will provide warmth for her",
+              "back": "la polaire lui fournira de la chaleur"
+            },
+            {
+              "front": "windbreaker will be great for you",
+              "back": "un coupe-vent vous conviendra parfaitement"
+            },
+            {
+              "front": "anorak will protect her from rain",
+              "back": "l&#39;anorak la protégera de la pluie"
+            },
+            {
+              "front": "sundress will be perfect for him",
+              "back": "la robe d&#39;été sera parfaite pour lui"
+            },
+            {
+              "front": "skort will allow movement for me",
+              "back": "la jupe-short me permettra de bouger"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1159 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Personal Traits",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Honest", "back": "honnête" },
+            { "front": "Confident", "back": "confiant" },
+            { "front": "Brave", "back": "courageux" },
+            { "front": "Kind", "back": "gentil" },
+            { "front": "Creative", "back": "créatif" },
+            { "front": "Loyal", "back": "loyal" },
+            { "front": "Generous", "back": "généreux" },
+            { "front": "Curious", "back": "curieux" },
+            { "front": "Polite", "back": "poli" },
+            { "front": "Patient", "back": "patient" },
+            { "front": "Ambitious", "back": "ambitieux" },
+            { "front": "Courageous", "back": "courageux" },
+            { "front": "Friendly", "back": "amical" },
+            { "front": "Funny", "back": "drôle" },
+            { "front": "Hardworking", "back": "travailler dur" },
+            { "front": "Helpful", "back": "utile" },
+            { "front": "Optimistic", "back": "optimiste" },
+            { "front": "Organized", "back": "organisé" },
+            { "front": "Reliable", "back": "fiable" },
+            { "front": "Respectful", "back": "respectueux" },
+            { "front": "Responsible", "back": "responsable" },
+            { "front": "Sincere", "back": "sincère" },
+            { "front": "Smart", "back": "intelligent" },
+            { "front": "Thoughtful", "back": "réfléchi" },
+            { "front": "Wise", "back": "sage" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Honest man", "back": "homme honnête" },
+            { "front": "Confident leader", "back": "leader confiant" },
+            { "front": "Brave soldier", "back": "brave soldat" },
+            { "front": "Kind teacher", "back": "professeur gentil" },
+            { "front": "Creative artist", "back": "artiste créatif" },
+            { "front": "Loyal friend", "back": "ami fidèle" },
+            { "front": "Generous neighbor", "back": "voisin généreux" },
+            { "front": "Curious child", "back": "enfant curieux" },
+            { "front": "Polite customer", "back": "client poli" },
+            { "front": "Patient student", "back": "étudiant patient" },
+            {
+              "front": "Ambitious entrepreneur",
+              "back": "entrepreneur ambitieux"
+            },
+            { "front": "Courageous firefighter", "back": "pompier courageux" },
+            { "front": "Friendly coworker", "back": "collègue sympathique" },
+            { "front": "Funny comedian", "back": "comédien drôle" },
+            { "front": "Hardworking employee", "back": "employé travailleur" },
+            { "front": "Helpful neighbor", "back": "voisin serviable" },
+            { "front": "Optimistic person", "back": "personne optimiste" },
+            { "front": "Organized manager", "back": "gestionnaire organisé" },
+            { "front": "Reliable partner", "back": "partenaire fiable" },
+            { "front": "Respectful student", "back": "étudiant respectueux" },
+            { "front": "Responsible adult", "back": "adulte responsable" },
+            { "front": "Sincere friend", "back": "ami sincère" },
+            { "front": "Smart scientist", "back": "scientifique intelligent" },
+            { "front": "Thoughtful writer", "back": "écrivain réfléchi" },
+            { "front": "Wise elder", "back": "sage aîné" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "The brave soldier", "back": "le brave soldat" },
+            { "front": "The confident leader", "back": "le leader confiant" },
+            { "front": "He is honest", "back": "il est honnête" },
+            { "front": "She is friendly", "back": "elle est amicale" },
+            { "front": "They are sincere", "back": "ils sont sincères" },
+            {
+              "front": "Everyone is respectful",
+              "back": "tout le monde est respectueux"
+            },
+            {
+              "front": "Nobody is perfect",
+              "back": "personne n&#39;est parfait"
+            },
+            { "front": "The loyal friend", "back": "l&#39;ami fidèle" },
+            { "front": "She is patient", "back": "elle est patiente" },
+            { "front": "He is smart", "back": "il est intelligent" },
+            { "front": "They are generous", "back": "ils sont généreux" },
+            {
+              "front": "The thoughtful writer",
+              "back": "l&#39;écrivain réfléchi"
+            },
+            { "front": "She is organized", "back": "elle est organisée" },
+            { "front": "He is hardworking", "back": "il est travailleur" },
+            { "front": "We are helpful", "back": "nous sommes utiles" },
+            { "front": "You are polite", "back": "tu es poli" },
+            { "front": "The funny comedian", "back": "le comédien drôle" },
+            {
+              "front": "Everyone is responsible",
+              "back": "tout le monde est responsable"
+            },
+            { "front": "She is optimistic", "back": "elle est optimiste" },
+            { "front": "The wise elder", "back": "le sage aîné" },
+            { "front": "He is respectful", "back": "il est respectueux" },
+            { "front": "They are ambitious", "back": "ils sont ambitieux" },
+            { "front": "The creative artist", "back": "l&#39;artiste créatif" },
+            { "front": "You are sincere", "back": "tu es sincère" },
+            {
+              "front": "Nobody is courageous",
+              "back": "personne n&#39;est courageux"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "brave soldier is ready",
+              "back": "le brave soldat est prêt"
+            },
+            {
+              "front": "The confident leader inspires",
+              "back": "le leader confiant inspire"
+            },
+            {
+              "front": "He is always honest",
+              "back": "il est toujours honnête"
+            },
+            {
+              "front": "She is very friendly",
+              "back": "elle est très sympathique"
+            },
+            {
+              "front": "They are always sincere",
+              "back": "ils sont toujours sincères"
+            },
+            {
+              "front": "Everyone is being respectful",
+              "back": "tout le monde est respectueux"
+            },
+            {
+              "front": "Nobody is ever perfect",
+              "back": "personne n&#39;est jamais parfait"
+            },
+            {
+              "front": "The loyal friend stays",
+              "back": "l&#39;ami fidèle reste"
+            },
+            {
+              "front": "She is incredibly patient",
+              "back": "elle est incroyablement patiente"
+            },
+            { "front": "He is very smart", "back": "il est très intelligent" },
+            {
+              "front": "They are very generous",
+              "back": "ils sont très généreux"
+            },
+            {
+              "front": "The thoughtful writer creates",
+              "back": "l&#39;écrivain réfléchi crée"
+            },
+            {
+              "front": "She is always organized",
+              "back": "elle est toujours organisée"
+            },
+            {
+              "front": "He is hardworking always",
+              "back": "il est toujours travailleur"
+            },
+            {
+              "front": "We are always helpful",
+              "back": "nous sommes toujours utiles"
+            },
+            { "front": "You are quite polite", "back": "tu es assez poli" },
+            {
+              "front": "The funny comedian entertains",
+              "back": "le comédien drôle divertit"
+            },
+            {
+              "front": "Everyone is very responsible",
+              "back": "tout le monde est très responsable"
+            },
+            {
+              "front": "She is very optimistic",
+              "back": "elle est très optimiste"
+            },
+            {
+              "front": "The wise elder advises",
+              "back": "le sage aîné conseille"
+            },
+            {
+              "front": "He is always respectful",
+              "back": "il est toujours respectueux"
+            },
+            {
+              "front": "They are extremely ambitious",
+              "back": "ils sont extrêmement ambitieux"
+            },
+            {
+              "front": "The creative artist draws",
+              "back": "l&#39;artiste créatif dessine"
+            },
+            { "front": "You are being sincere", "back": "tu es sincère" },
+            {
+              "front": "Nobody is naturally courageous",
+              "back": "personne n&#39;est naturellement courageux"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The brave soldier inspires us",
+              "back": "le brave soldat nous inspire"
+            },
+            {
+              "front": "The confident leader motivates others",
+              "back": "le leader confiant motive les autres"
+            },
+            {
+              "front": "He is honest with everyone",
+              "back": "il est honnête avec tout le monde"
+            },
+            {
+              "front": "She is friendly with others",
+              "back": "elle est amicale avec les autres"
+            },
+            {
+              "front": "They are sincere to everyone",
+              "back": "ils sont sincères envers tout le monde"
+            },
+            {
+              "front": "Everyone is respectful of others",
+              "back": "tout le monde est respectueux des autres"
+            },
+            {
+              "front": "Nobody is perfect in life",
+              "back": "personne n&#39;est parfait dans la vie"
+            },
+            {
+              "front": "The loyal friend never leaves",
+              "back": "l&#39;ami fidèle ne part jamais"
+            },
+            {
+              "front": "She is patient with kids",
+              "back": "elle est patiente avec les enfants"
+            },
+            {
+              "front": "He is smart and capable",
+              "back": "il est intelligent et capable"
+            },
+            {
+              "front": "They are generous to us",
+              "back": "ils sont généreux avec nous"
+            },
+            {
+              "front": "The thoughtful writer expresses",
+              "back": "l&#39;écrivain réfléchi exprime"
+            },
+            {
+              "front": "She is organized in tasks",
+              "back": "elle est organisée dans les tâches"
+            },
+            {
+              "front": "He is hardworking and focused",
+              "back": "il est travailleur et concentré"
+            },
+            {
+              "front": "We are helpful to others",
+              "back": "nous sommes utiles aux autres"
+            },
+            {
+              "front": "You are polite to elders",
+              "back": "tu es poli avec les aînés"
+            },
+            {
+              "front": "The funny comedian entertains crowds",
+              "back": "le comédien drôle divertit les foules"
+            },
+            {
+              "front": "Everyone is responsible for actions",
+              "back": "chacun est responsable de ses actes"
+            },
+            {
+              "front": "She is optimistic about future",
+              "back": "elle est optimiste quant à l&#39;avenir"
+            },
+            {
+              "front": "The wise elder shares advice",
+              "back": "le sage aîné partage ses conseils"
+            },
+            {
+              "front": "He is respectful in everyone",
+              "back": "il est respectueux envers tout le monde"
+            },
+            {
+              "front": "They are ambitious with goals",
+              "back": "ils sont ambitieux avec des objectifs"
+            },
+            {
+              "front": "The creative artist brings ideas",
+              "back": "l&#39;artiste créatif apporte des idées"
+            },
+            {
+              "front": "You are sincere with intentions",
+              "back": "vous êtes sincère dans vos intentions"
+            },
+            {
+              "front": "Nobody is courageous every time",
+              "back": "personne n&#39;est courageux à chaque fois"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The brave soldier inspires us all",
+              "back": "le brave soldat nous inspire tous"
+            },
+            {
+              "front": "The confident leader motivates the team",
+              "back": "le leader confiant motive l&#39;équipe"
+            },
+            {
+              "front": "He is always honest with everyone",
+              "back": "il est toujours honnête avec tout le monde"
+            },
+            {
+              "front": "She is very friendly with others",
+              "back": "elle est très amicale avec les autres"
+            },
+            {
+              "front": "They are sincere in their actions",
+              "back": "ils sont sincères dans leurs actions"
+            },
+            {
+              "front": "Everyone is respectful of each other",
+              "back": "tout le monde est respectueux des autres"
+            },
+            {
+              "front": "Nobody is perfect in this world",
+              "back": "personne n&#39;est parfait dans ce monde"
+            },
+            {
+              "front": "The loyal friend never leaves you",
+              "back": "l&#39;ami fidèle ne vous quitte jamais"
+            },
+            {
+              "front": "She is incredibly patient with children",
+              "back": "elle est incroyablement patiente avec les enfants"
+            },
+            {
+              "front": "He is very smart and capable",
+              "back": "il est très intelligent et capable"
+            },
+            {
+              "front": "They are generous with their time",
+              "back": "ils sont généreux de leur temps"
+            },
+            {
+              "front": "The thoughtful writer expresses deep emotions",
+              "back": "l&#39;écrivain réfléchi exprime des émotions profondes"
+            },
+            {
+              "front": "She is organized in her tasks",
+              "back": "elle est organisée dans ses tâches"
+            },
+            {
+              "front": "He is hardworking and always focused",
+              "back": "il est travailleur et toujours concentré"
+            },
+            {
+              "front": "We are helpful to those in need",
+              "back": "nous sommes utiles à ceux qui sont dans le besoin"
+            },
+            {
+              "front": "You are polite to your elders",
+              "back": "tu es poli avec tes aînés"
+            },
+            {
+              "front": "The funny comedian entertains the crowd",
+              "back": "le comédien drôle divertit la foule"
+            },
+            {
+              "front": "Everyone is responsible for their actions",
+              "back": "chacun est responsable de ses actes"
+            },
+            {
+              "front": "She is optimistic about the future",
+              "back": "elle est optimiste quant à l&#39;avenir"
+            },
+            {
+              "front": "The wise elder shares valuable advice",
+              "back": "le sage aîné partage de précieux conseils"
+            },
+            {
+              "front": "He is respectful in all situations",
+              "back": "il est respectueux dans toutes les situations"
+            },
+            {
+              "front": "They are ambitious with big goals",
+              "back": "ils sont ambitieux avec de grands objectifs"
+            },
+            {
+              "front": "The creative artist brings ideas alive",
+              "back": "l&#39;artiste créatif donne vie aux idées"
+            },
+            {
+              "front": "You are sincere with your intentions",
+              "back": "vous êtes sincère dans vos intentions"
+            },
+            {
+              "front": "Nobody is courageous all the time",
+              "back": "personne n&#39;est courageux tout le temps"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Was honest", "back": "était honnête" },
+            { "front": "Was wise", "back": "était sage" },
+            { "front": "Was brave", "back": "était courageux" },
+            { "front": "Was kind", "back": "était gentil" },
+            { "front": "Was loyal", "back": "était loyal" },
+            { "front": "Was generous", "back": "était généreux" },
+            { "front": "Was polite", "back": "était poli" },
+            { "front": "Was patient", "back": "était patient" },
+            { "front": "Was sincere", "back": "était sincère" },
+            { "front": "Was smart", "back": "était intelligent" },
+            { "front": "Was funny", "back": "c&#39;était drôle" },
+            { "front": "Was helpful", "back": "était utile" },
+            { "front": "Was reliable", "back": "était fiable" },
+            { "front": "Was optimistic", "back": "était optimiste" },
+            { "front": "Was thoughtful", "back": "était réfléchi" },
+            { "front": "Was creative", "back": "était créatif" },
+            { "front": "Was respectful", "back": "était respectueux" },
+            { "front": "Was responsible", "back": "était responsable" },
+            { "front": "Was courageous", "back": "était courageux" },
+            { "front": "Was ambitious", "back": "était ambitieux" },
+            { "front": "Was hardworking", "back": "était travailleur" },
+            { "front": "Was organized", "back": "a été organisé" },
+            { "front": "Was curious", "back": "était curieux" },
+            { "front": "Was friendly", "back": "était amical" },
+            { "front": "Was sincere", "back": "était sincère" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "He was honest", "back": "il était honnête" },
+            { "front": "She was wise", "back": "elle était sage" },
+            { "front": "They were brave", "back": "ils étaient courageux" },
+            { "front": "We were kind", "back": "nous étions gentils" },
+            { "front": "I was loyal", "back": "j&#39;étais loyal" },
+            { "front": "He was generous", "back": "il était généreux" },
+            { "front": "She was polite", "back": "elle était polie" },
+            { "front": "They were patient", "back": "ils étaient patients" },
+            { "front": "We were sincere", "back": "nous étions sincères" },
+            { "front": "He was smart", "back": "il était intelligent" },
+            { "front": "She was funny", "back": "elle était drôle" },
+            { "front": "They were helpful", "back": "ils ont été utiles" },
+            {
+              "front": "Everybody was reliable",
+              "back": "tout le monde était fiable"
+            },
+            {
+              "front": "Nobody was optimistic",
+              "back": "personne n&#39;était optimiste"
+            },
+            {
+              "front": "Everyone was thoughtful",
+              "back": "tout le monde était pensif"
+            },
+            { "front": "He was creative", "back": "il était créatif" },
+            {
+              "front": "She was respectful",
+              "back": "elle était respectueuse"
+            },
+            {
+              "front": "They were responsible",
+              "back": "ils étaient responsables"
+            },
+            {
+              "front": "Everybody was courageous",
+              "back": "tout le monde était courageux"
+            },
+            { "front": "I was ambitious", "back": "j&#39;étais ambitieux" },
+            {
+              "front": "We were hardworking",
+              "back": "nous étions travailleurs"
+            },
+            {
+              "front": "Nobody was organized",
+              "back": "personne n&#39;était organisé"
+            },
+            { "front": "She was curious", "back": "elle était curieuse" },
+            { "front": "He was friendly", "back": "il était amical" },
+            { "front": "They were sincere", "back": "ils étaient sincères" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "He was always honest",
+              "back": "il a toujours été honnête"
+            },
+            { "front": "She was very wise", "back": "elle était très sage" },
+            {
+              "front": "They were incredibly brave",
+              "back": "ils étaient incroyablement courageux"
+            },
+            {
+              "front": "We were always kind",
+              "back": "nous avons toujours été gentils"
+            },
+            { "front": "I was very loyal", "back": "j&#39;étais très fidèle" },
+            {
+              "front": "He was extremely generous",
+              "back": "il était extrêmement généreux"
+            },
+            {
+              "front": "She was always polite",
+              "back": "elle était toujours polie"
+            },
+            {
+              "front": "They were very patient",
+              "back": "ils ont été très patients"
+            },
+            {
+              "front": "We were always sincere",
+              "back": "nous avons toujours été sincères"
+            },
+            {
+              "front": "He was extremely smart",
+              "back": "il était extrêmement intelligent"
+            },
+            {
+              "front": "She was always funny",
+              "back": "elle a toujours été drôle"
+            },
+            {
+              "front": "They were quite helpful",
+              "back": "ils ont été très utiles"
+            },
+            {
+              "front": "Everybody was always reliable",
+              "back": "tout le monde était toujours fiable"
+            },
+            {
+              "front": "Nobody was being optimistic",
+              "back": "personne n&#39;était optimiste"
+            },
+            {
+              "front": "Everyone was very thoughtful",
+              "back": "tout le monde était très attentionné"
+            },
+            {
+              "front": "He was highly creative",
+              "back": "il était très créatif"
+            },
+            {
+              "front": "She was very respectful",
+              "back": "elle était très respectueuse"
+            },
+            {
+              "front": "They were always responsible",
+              "back": "ils ont toujours été responsables"
+            },
+            {
+              "front": "Everybody was very courageous",
+              "back": "tout le monde était très courageux"
+            },
+            {
+              "front": "I was very ambitious",
+              "back": "j&#39;étais très ambitieux"
+            },
+            {
+              "front": "We were always hardworking",
+              "back": "nous avons toujours travaillé dur"
+            },
+            {
+              "front": "Nobody was being organized",
+              "back": "personne n&#39;était organisé"
+            },
+            {
+              "front": "She was very curious",
+              "back": "elle était très curieuse"
+            },
+            {
+              "front": "He was always friendly",
+              "back": "il a toujours été amical"
+            },
+            {
+              "front": "They were very sincere",
+              "back": "ils étaient très sincères"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I was honest with him",
+              "back": "j&#39;ai été honnête avec lui"
+            },
+            {
+              "front": "He was brave in war",
+              "back": "il était courageux à la guerre"
+            },
+            {
+              "front": "The lawyer was always respectful",
+              "back": "l&#39;avocat a toujours été respectueux"
+            },
+            {
+              "front": "Everybody was organized at work",
+              "back": "tout le monde était organisé au travail"
+            },
+            {
+              "front": "She was wise beyond years",
+              "back": "elle était sage au-delà des années"
+            },
+            {
+              "front": "They were sincere in conversation",
+              "back": "ils étaient sincères dans la conversation"
+            },
+            {
+              "front": "He was generous with money",
+              "back": "il était généreux avec l&#39;argent"
+            },
+            {
+              "front": "We were patient to them",
+              "back": "nous avons été patients avec eux"
+            },
+            {
+              "front": "Nobody was optimistic about future",
+              "back": "personne n&#39;était optimiste quant à l&#39;avenir"
+            },
+            {
+              "front": "The teacher was very kind",
+              "back": "le professeur était très gentil"
+            },
+            { "front": "I was loyal to them", "back": "je leur étais fidèle" },
+            {
+              "front": "They were helpful all day",
+              "back": "ils ont été utiles toute la journée"
+            },
+            {
+              "front": "She was always very polite",
+              "back": "elle a toujours été très polie"
+            },
+            {
+              "front": "He was responsible for everything",
+              "back": "il était responsable de tout"
+            },
+            {
+              "front": "Everybody was hardworking last year",
+              "back": "tout le monde a travaillé dur l&#39;année dernière"
+            },
+            {
+              "front": "She was curious about science",
+              "back": "elle était curieuse de la science"
+            },
+            {
+              "front": "He was friendly with everyone",
+              "back": "il était amical avec tout le monde"
+            },
+            {
+              "front": "We were respectful to everyone",
+              "back": "nous étions respectueux envers tout le monde"
+            },
+            {
+              "front": "The artist was highly creative",
+              "back": "l&#39;artiste était très créatif"
+            },
+            {
+              "front": "Nobody was being responsible today",
+              "back": "personne n&#39;était responsable aujourd&#39;hui"
+            },
+            {
+              "front": "She was thoughtful to people",
+              "back": "elle était attentionnée envers les gens"
+            },
+            {
+              "front": "He was ambitious at work",
+              "back": "il était ambitieux au travail"
+            },
+            {
+              "front": "The soldier was very courageous",
+              "back": "le soldat était très courageux"
+            },
+            {
+              "front": "They were reliable bus drivers",
+              "back": "ils étaient des chauffeurs de bus fiables"
+            },
+            {
+              "front": "She was organized at home",
+              "back": "elle était organisée à la maison"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I was honest with him last week",
+              "back": "j&#39;ai été honnête avec lui la semaine dernière"
+            },
+            {
+              "front": "He was brave in the battle",
+              "back": "il était courageux dans la bataille"
+            },
+            {
+              "front": "The lawyer was respectful in court",
+              "back": "l&#39;avocat était respectueux au tribunal"
+            },
+            {
+              "front": "Everybody was organized at work yesterday",
+              "back": "tout le monde était organisé au travail hier"
+            },
+            {
+              "front": "She was wise beyond her years",
+              "back": "elle était sage au-delà de son âge"
+            },
+            {
+              "front": "They were sincere in every conversation",
+              "back": "ils étaient sincères dans chaque conversation"
+            },
+            {
+              "front": "He was generous with his money",
+              "back": "il était généreux avec son argent"
+            },
+            {
+              "front": "We were patient during the meeting",
+              "back": "nous avons été patients pendant la réunion"
+            },
+            {
+              "front": "Nobody was optimistic about the future",
+              "back": "personne n&#39;était optimiste quant à l&#39;avenir"
+            },
+            {
+              "front": "The teacher was kind to students",
+              "back": "le professeur était gentil avec les élèves"
+            },
+            {
+              "front": "I was loyal to my friend",
+              "back": "j&#39;étais fidèle à mon ami"
+            },
+            {
+              "front": "They were helpful all day long",
+              "back": "ils ont été utiles toute la journée"
+            },
+            {
+              "front": "She was always polite to guests",
+              "back": "elle était toujours polie avec les invités"
+            },
+            {
+              "front": "He was responsible for his actions",
+              "back": "il était responsable de ses actes"
+            },
+            {
+              "front": "Everybody was hardworking throughout the project",
+              "back": "tout le monde a travaillé dur tout au long du projet"
+            },
+            {
+              "front": "She was curious about the discovery",
+              "back": "elle était curieuse de la découverte"
+            },
+            {
+              "front": "He was friendly with everyone here",
+              "back": "il était amical avec tout le monde ici"
+            },
+            {
+              "front": "We were respectful of all opinions",
+              "back": "nous étions respectueux de toutes les opinions"
+            },
+            {
+              "front": "The artist was creative with ideas",
+              "back": "l&#39;artiste était créatif avec des idées"
+            },
+            {
+              "front": "Nobody was being responsible this morning",
+              "back": "personne n&#39;était responsable ce matin"
+            },
+            {
+              "front": "She was thoughtful towards her family",
+              "back": "elle était attentionnée envers sa famille"
+            },
+            {
+              "front": "He was ambitious in his career",
+              "back": "il était ambitieux dans sa carrière"
+            },
+            {
+              "front": "The soldier was courageous during combat",
+              "back": "le soldat était courageux pendant le combat"
+            },
+            {
+              "front": "They were reliable during the times",
+              "back": "ils étaient fiables à l&#39;époque"
+            },
+            {
+              "front": "She was organized at the event",
+              "back": "elle était organisée lors de l&#39;événement"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will be honest", "back": "sera honnête" },
+            { "front": "Courage will follow", "back": "le courage suivra" },
+            { "front": "Will be wise", "back": "sera sage" },
+            { "front": "Will stay brave", "back": "restera courageux" },
+            { "front": "Will be kind", "back": "sera gentil" },
+            { "front": "Will remain loyal", "back": "restera fidèle" },
+            { "front": "Will be generous", "back": "sera généreux" },
+            { "front": "Will stay polite", "back": "restera poli" },
+            { "front": "Will be patient", "back": "sera patient" },
+            { "front": "Will be sincere", "back": "sera sincère" },
+            { "front": "Wisdom will grow", "back": "la sagesse grandira" },
+            { "front": "Will be smart", "back": "sera intelligent" },
+            {
+              "front": "Kindness will shine",
+              "back": "la gentillesse brillera"
+            },
+            { "front": "Will help others", "back": "aidera les autres" },
+            { "front": "Will stay reliable", "back": "restera fiable" },
+            { "front": "Will remain optimistic", "back": "restera optimiste" },
+            {
+              "front": "Thoughtfulness will show",
+              "back": "la prévenance se montrera"
+            },
+            {
+              "front": "Will act creative",
+              "back": "agira de manière créative"
+            },
+            { "front": "Will be respectful", "back": "sera respectueux" },
+            {
+              "front": "Will remain responsible",
+              "back": "restera responsable"
+            },
+            { "front": "Courage will guide", "back": "le courage guidera" },
+            { "front": "Will be ambitious", "back": "sera ambitieux" },
+            { "front": "Will work hard", "back": "travaillera dur" },
+            { "front": "Will stay organized", "back": "restera organisé" },
+            { "front": "Will stay curious", "back": "restera curieux" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "Everyone will be honest",
+              "back": "tout le monde sera honnête"
+            },
+            {
+              "front": "Nobody will show courage",
+              "back": "personne ne fera preuve de courage"
+            },
+            { "front": "He will be wise", "back": "il sera sage" },
+            {
+              "front": "She will stay brave",
+              "back": "elle restera courageuse"
+            },
+            { "front": "They will be kind", "back": "ils seront gentils" },
+            {
+              "front": "We will remain loyal",
+              "back": "nous resterons fidèles"
+            },
+            { "front": "I will be generous", "back": "je serai généreux" },
+            {
+              "front": "Everybody will stay polite",
+              "back": "tout le monde restera poli"
+            },
+            { "front": "You will be patient", "back": "tu seras patient" },
+            { "front": "She will be sincere", "back": "elle sera sincère" },
+            {
+              "front": "We will grow wiser",
+              "back": "nous deviendrons plus sages"
+            },
+            { "front": "He will stay smart", "back": "il restera intelligent" },
+            {
+              "front": "Kindness will guide everyone",
+              "back": "la gentillesse guidera tout le monde"
+            },
+            {
+              "front": "They will help others",
+              "back": "ils aideront les autres"
+            },
+            {
+              "front": "Nobody will be reliable",
+              "back": "personne ne sera fiable"
+            },
+            {
+              "front": "Everyone will remain optimistic",
+              "back": "tout le monde restera optimiste"
+            },
+            {
+              "front": "Thoughtfulness will guide everybody",
+              "back": "la prévenance guidera tout le monde"
+            },
+            {
+              "front": "We will act creatively",
+              "back": "nous agirons de manière créative"
+            },
+            {
+              "front": "She will be respectful",
+              "back": "elle sera respectueuse"
+            },
+            {
+              "front": "He will stay responsible",
+              "back": "il restera responsable"
+            },
+            {
+              "front": "Courage will lead everyone",
+              "back": "le courage guidera tout le monde"
+            },
+            { "front": "You will be ambitious", "back": "tu seras ambitieux" },
+            { "front": "They will work hard", "back": "ils travailleront dur" },
+            {
+              "front": "Nobody will stay organized",
+              "back": "personne ne restera organisé"
+            },
+            {
+              "front": "Everyone will stay curious",
+              "back": "tout le monde restera curieux"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will show wisdom today",
+              "back": "je ferai preuve de sagesse aujourd&#39;hui"
+            },
+            {
+              "front": "Everyone shows fear in war",
+              "back": "tout le monde montre de la peur en temps de guerre"
+            },
+            {
+              "front": "He will learn great wisdom",
+              "back": "il apprendra une grande sagesse"
+            },
+            {
+              "front": "She will show kindness everyday",
+              "back": "elle fera preuve de gentillesse tous les jours"
+            },
+            {
+              "front": "They will be brave tomorrow",
+              "back": "ils seront courageux demain"
+            },
+            {
+              "front": "We will remain loyal forever",
+              "back": "nous resterons fidèles pour toujours"
+            },
+            {
+              "front": "You will act very generous",
+              "back": "tu agiras de manière très généreuse"
+            },
+            {
+              "front": "Nobody will be polite tonight",
+              "back": "personne ne sera poli ce soir"
+            },
+            {
+              "front": "I will become more patient",
+              "back": "je deviendrai plus patient"
+            },
+            {
+              "front": "She will act very sincere",
+              "back": "elle agira de manière très sincère"
+            },
+            {
+              "front": "He will show his intelligence",
+              "back": "il montrera son intelligence"
+            },
+            {
+              "front": "Kindness will follow us everywhere",
+              "back": "la gentillesse nous suivra partout"
+            },
+            {
+              "front": "They will help others succeed",
+              "back": "ils aideront les autres à réussir"
+            },
+            {
+              "front": "Nobody will be reliable tomorrow",
+              "back": "personne ne sera fiable demain"
+            },
+            {
+              "front": "Thoughtfulness will shine in everyone",
+              "back": "la prévenance brillera en chacun"
+            },
+            {
+              "front": "You will act creatively today",
+              "back": "vous agirez de manière créative aujourd&#39;hui"
+            },
+            {
+              "front": "She will remain respectful always",
+              "back": "elle restera toujours respectueuse"
+            },
+            {
+              "front": "We will stay responsible together",
+              "back": "nous resterons responsables ensemble"
+            },
+            {
+              "front": "Everybody will show great courage",
+              "back": "tout le monde fera preuve d&#39;un grand courage"
+            },
+            {
+              "front": "He will be ambitious soon",
+              "back": "il sera bientôt ambitieux"
+            },
+            {
+              "front": "They will work hard tomorrow",
+              "back": "ils travailleront dur demain"
+            },
+            {
+              "front": "Nobody will stay organized today",
+              "back": "personne ne restera organisé aujourd&#39;hui"
+            },
+            {
+              "front": "Everyone will learn new things",
+              "back": "tout le monde apprendra de nouvelles choses"
+            },
+            {
+              "front": "I will keep my promises",
+              "back": "je tiendrai mes promesses"
+            },
+            { "front": "He will be wise soon", "back": "il sera bientôt sage" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will show wisdom in decisions",
+              "back": "je ferai preuve de sagesse dans mes décisions"
+            },
+            {
+              "front": "Everyone will show fear in battle",
+              "back": "tout le monde montrera de la peur au combat"
+            },
+            {
+              "front": "He will learn great wisdom soon",
+              "back": "il apprendra bientôt une grande sagesse"
+            },
+            {
+              "front": "She will show kindness to everyone",
+              "back": "elle fera preuve de gentillesse envers tout le monde"
+            },
+            {
+              "front": "They will be brave in tough times",
+              "back": "ils seront courageux dans les moments difficiles"
+            },
+            {
+              "front": "We will remain loyal to friends",
+              "back": "nous resterons fidèles à nos amis"
+            },
+            {
+              "front": "You will act very generous today",
+              "back": "tu agiras très généreusement aujourd&#39;hui"
+            },
+            {
+              "front": "Nobody will stay polite at work",
+              "back": "personne ne restera poli au travail"
+            },
+            {
+              "front": "I will become more patient soon",
+              "back": "je deviendrai bientôt plus patient"
+            },
+            {
+              "front": "She will act very sincere tomorrow",
+              "back": "elle agira très sincèrement demain"
+            },
+            {
+              "front": "He will show intelligence in challenges",
+              "back": "il fera preuve d&#39;intelligence dans les défis"
+            },
+            {
+              "front": "Your kindness will follow us everywhere",
+              "back": "votre gentillesse nous suivra partout"
+            },
+            {
+              "front": "They will help others succeed in goals",
+              "back": "ils aideront les autres à atteindre leurs objectifs"
+            },
+            {
+              "front": "Nobody will be reliable tomorrow afternoon",
+              "back": "personne ne sera fiable demain après-midi"
+            },
+            {
+              "front": "Thoughtfulness will shine in tough times",
+              "back": "la prévenance brillera dans les moments difficiles"
+            },
+            {
+              "front": "You will act creatively in projects",
+              "back": "vous agirez de manière créative dans les projets"
+            },
+            {
+              "front": "She will remain respectful every day",
+              "back": "elle restera respectueuse tous les jours"
+            },
+            {
+              "front": "We will stay responsible at work",
+              "back": "nous resterons responsables au travail"
+            },
+            {
+              "front": "Everybody will show great courage soon",
+              "back": "tout le monde fera bientôt preuve de beaucoup de courage"
+            },
+            {
+              "front": "He will be ambitious in career",
+              "back": "il sera ambitieux dans sa carrière"
+            },
+            {
+              "front": "They will work hard on tasks",
+              "back": "ils travailleront dur sur les tâches"
+            },
+            {
+              "front": "Nobody will stay organized during meetings",
+              "back": "personne ne restera organisé pendant les réunions"
+            },
+            {
+              "front": "Everyone will learn new things quickly",
+              "back": "tout le monde apprendra rapidement de nouvelles choses"
+            },
+            {
+              "front": "I will keep my promises tomorrow",
+              "back": "je tiendrai mes promesses demain"
+            },
+            {
+              "front": "He will be wise very soon",
+              "back": "il sera sage très bientôt"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

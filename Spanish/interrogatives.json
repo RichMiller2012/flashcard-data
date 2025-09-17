@@ -1,1 +1,914 @@
-{"language":"Spanish","flashcards":[{"topic":"Interrogatives","cards":[{"tense":"present","wordcount":1,"phrases":[{"front":"Who","back":"OMS"},{"front":"What","back":"qué"},{"front":"Why","back":"por qué"},{"front":"Where","back":"dónde"},{"front":"When","back":"cuando"},{"front":"How","back":"cómo"}]},{"tense":"present","wordcount":2,"phrases":[{"front":"Who is","back":"quién es"},{"front":"What is","back":"qué es"},{"front":"Why is","back":"¿Por qué es?"},{"front":"Where is","back":"dónde es"},{"front":"When is","back":"cuando es"},{"front":"How is","back":"cómo es"},{"front":"Who are","back":"quienes son"},{"front":"What are","back":"¿cuáles son?"},{"front":"Why are","back":"¿Por qué son?"},{"front":"Where are","back":"¿Dónde están?"},{"front":"When are","back":"cuando son"},{"front":"How are","back":"cómo están"},{"front":"Who knows","back":"quién sabe"},{"front":"What happened","back":"qué sucedió"},{"front":"Why me","back":"¿Por qué yo?"},{"front":"Where now","back":"¿Dónde ahora?"},{"front":"When exactly","back":"cuando exactamente"},{"front":"How come","back":"Cómo"},{"front":"What next","back":"¿Qué sigue?"},{"front":"Who else","back":"¿Quién más?"},{"front":"Why bother","back":"¿Por qué molestarse?"},{"front":"Where to","back":"adonde"},{"front":"When's lunch","back":"¿Cuándo es el almuerzo?"},{"front":"How's life","back":"¿Cómo va la vida?"},{"front":"Who cares","back":"A quién le importa"}]},{"tense":"present","wordcount":3,"phrases":[{"front":"Who is he","back":"quién es él"},{"front":"What is that","back":"¿qué es eso?"},{"front":"Why are we","back":"¿Por qué somos?"},{"front":"Where are you","back":"dónde estás"},{"front":"When is it","back":"¿Cuándo es?"},{"front":"How are you","back":"Cómo estás"},{"front":"Who knows this","back":"quien sabe esto"},{"front":"What comes next","back":"¿Qué viene después?"},{"front":"Why wait now","back":"¿Por qué esperar ahora?"},{"front":"Where is she","back":"¿Dónde está ella?"},{"front":"When is lunch","back":"¿Cuándo es el almuerzo?"},{"front":"How is he","back":"¿Cómo está él?"},{"front":"Who wants coffee","back":"¿Quién quiere café?"},{"front":"What happens now","back":"¿Qué pasa ahora?"},{"front":"Why ask me","back":"¿Por qué me preguntas?"},{"front":"Where is home","back":"¿Dónde está el hogar?"},{"front":"When do we","back":"¿Cuándo lo hacemos?"},{"front":"How does this","back":"¿Cómo funciona esto?"},{"front":"Who needs help","back":"¿Quién necesita ayuda?"},{"front":"What is wrong","back":"lo que está mal"},{"front":"Why not go","back":"¿Por qué no ir?"},{"front":"Where am I","back":"Dónde estoy"},{"front":"When is dinner","back":"¿Cuándo es la cena?"},{"front":"How is life","back":"¿Cómo es la vida?"},{"front":"Who are they","back":"Quiénes son"}]},{"tense":"present","wordcount":4,"phrases":[{"front":"Who are you now","back":"¿Quién eres ahora?"},{"front":"What is your name","back":"cómo te llamas"},{"front":"Why are we here","back":"¿Por qué estamos aquí?"},{"front":"Where is the exit","back":"¿Dónde está la salida?"},{"front":"When is the meeting","back":"¿Cuándo es la reunión?"},{"front":"How are you feeling","back":"¿cómo te sientes?"},{"front":"Who wants some coffee","back":"¿Quién quiere un café?"},{"front":"What is the plan","back":"¿Cuál es el plan?"},{"front":"Why is it raining","back":"¿Por qué está lloviendo?"},{"front":"Where do you live","back":"dónde vive"},{"front":"When do we start","back":"¿Cuándo empezamos?"},{"front":"How does this work","back":"Cómo funciona esto"},{"front":"Who knows the answer","back":"¿Quién sabe la respuesta?"},{"front":"What time is it","back":"¿qué hora es?"},{"front":"Why is this happening","back":"¿Por qué está pasando esto?"},{"front":"Where is my phone","back":"¿Dónde está mi teléfono?"},{"front":"When can we leave","back":"¿Cuándo podemos irnos?"},{"front":"How do you know","back":"Cómo lo sabes"},{"front":"Who needs more time","back":"¿Quién necesita más tiempo?"},{"front":"What are you doing","back":"qué estás haciendo"},{"front":"Why are you upset","back":"¿Por qué estás molesto?"},{"front":"Where did he go","back":"¿A dónde fue?"},{"front":"When is the party","back":"¿Cuándo es la fiesta?"},{"front":"How is your day","back":"Cómo va su día"},{"front":"Who can help me","back":"¿Quién me puede ayudar?"}]},{"tense":"present","wordcount":5,"phrases":[{"front":"Who do you think is","back":"¿Quién crees que es?"},{"front":"What are you doing now","back":"qué estás haciendo ahora"},{"front":"Where is the nearest café","back":"¿Dónde está la cafetería más cercana?"},{"front":"When does the movie start","back":"¿Cuándo empieza la película?"},{"front":"Why is the sky blue","back":"¿Por qué el cielo es azul?"},{"front":"How do you know that","back":"¿Cómo sabes eso?"},{"front":"Who is your favorite singer","back":"¿Quién es tu cantante favorito?"},{"front":"What makes you feel happy","back":"¿Qué te hace sentir feliz?"},{"front":"Where are we going today","back":"¿A dónde vamos hoy?"},{"front":"When is the next bus","back":"Cuándo pasa el próximo autobús"},{"front":"Why are they so late","back":"¿Por qué llegan tan tarde?"},{"front":"How is your mother doing","back":"¿Cómo está tu madre?"},{"front":"Who wants to join me","back":"¿Quién quiere unirse a mí?"},{"front":"What time is it now","back":"¿Qué hora es ahora?"},{"front":"Where can I find help","back":"¿Dónde puedo encontrar ayuda?"},{"front":"When do we eat lunch","back":"¿Cuándo comemos el almuerzo?"},{"front":"Why does she look upset","back":"¿Por qué se ve molesta?"},{"front":"How are you feeling today","back":"¿Cómo te sientes hoy?"},{"front":"Who needs assistance right now","back":"¿Quién necesita ayuda ahora mismo?"},{"front":"What is your favorite color","back":"¿Cuál es tu color favorito?"},{"front":"Where did I put keys","back":"¿Dónde puse las llaves?"},{"front":"When are we meeting again","back":"¿Cuándo nos volveremos a ver?"},{"front":"Why is this happening now","back":"¿Por qué está pasando esto ahora?"},{"front":"How does this machine work","back":"¿Cómo funciona esta máquina?"},{"front":"Who can answer this question","back":"¿Quién puede responder a esta pregunta?"}]},{"tense":"present","wordcount":6,"phrases":[{"front":"Who do you think you are","back":"¿Quién te crees que eres?"},{"front":"What are you planning to do","back":"¿Qué planeas hacer?"},{"front":"Where is the bathroom located here","back":"¿Dónde está ubicado el baño aquí?"},{"front":"When does the train usually arrive","back":"¿Cuándo suele llegar el tren?"},{"front":"Why is the sky blue today","back":"¿Por qué el cielo es azul hoy?"},{"front":"How do you know my name","back":"¿Cómo sabes mi nombre?"},{"front":"Who is your favorite author now","back":"¿Quién es tu autor favorito ahora?"},{"front":"What makes you happy these days","back":"¿Qué te hace feliz estos días?"},{"front":"Where can I find good coffee","back":"¿Dónde puedo encontrar un buen café?"},{"front":"When are we going to leave","back":"¿Cuándo nos vamos a ir?"},{"front":"Why are you acting so strange","back":"¿Por qué actúas tan extraño?"},{"front":"How is your family doing lately","back":"¿Cómo está tu familia últimamente?"},{"front":"Who wants to join me today","back":"¿Quién quiere acompañarme hoy?"},{"front":"What is the plan for tonight","back":"¿Cuál es el plan para esta noche?"},{"front":"Where should we meet for lunch","back":"¿Dónde deberíamos reunirnos para almorzar?"},{"front":"When is the next class starting","back":"¿Cuándo empieza la próxima clase?"},{"front":"Why are they always late today","back":"¿Por qué siempre llegan tarde hoy?"},{"front":"How do you use this device","back":"¿Cómo se utiliza este dispositivo?"},{"front":"Who can help me with this","back":"¿Quién me puede ayudar con esto?"},{"front":"What time do you usually wake","back":"¿A qué hora te despiertas normalmente?"},{"front":"Where are you going right now","back":"¿A dónde vas ahora mismo?"},{"front":"When do we need to submit this","back":"¿Cuándo debemos enviar esto?"},{"front":"Why is this happening to me","back":"¿Por qué me pasa esto?"},{"front":"How are you feeling right now","back":"¿Cómo te sientes ahora mismo?"},{"front":"Who is responsible for this mess","back":"¿Quién es responsable de este desastre?"}]},{"tense":"past","wordcount":3,"phrases":[{"front":"Who was that","back":"¿Quién era ese?"},{"front":"What happened yesterday","back":"¿Qué pasó ayer?"},{"front":"Why did you","back":"¿Por qué lo hiciste?"},{"front":"Where were you","back":"Dónde estabas"},{"front":"When was that","back":"¿Cuándo fue eso?"},{"front":"How was it","back":"cómo fue"},{"front":"Who helped you","back":"¿Quién te ayudó?"},{"front":"What went wrong","back":"¿Qué salió mal?"},{"front":"Why leave early","back":"¿Por qué salir temprano?"},{"front":"Where did he","back":"¿Dónde estuvo?"},{"front":"When did we","back":"¿Cuándo lo hicimos?"},{"front":"How did you","back":"¿Cómo lo hiciste?"},{"front":"Who told you","back":"¿Quién te lo dijo?"},{"front":"What broke down","back":"¿Qué se rompió?"},{"front":"Why feel sad","back":"¿Por qué sentirse triste?"},{"front":"Where was she","back":"¿Dónde estaba ella?"},{"front":"When did it","back":"¿Cuándo lo hizo?"},{"front":"How went it","back":"¿Cómo te fue?"},{"front":"Who saw that","back":"¿Quién vio eso?"},{"front":"What caused that","back":"¿Qué causó eso?"},{"front":"Why cry now","back":"¿Por qué llorar ahora?"},{"front":"Where did they","back":"¿Dónde estaban?"},{"front":"When arrived you","back":"Cuando llegaste tú"},{"front":"How managed you","back":"¿Cómo lo lograste?"},{"front":"Who fixed it","back":"¿Quién lo arregló?"}]},{"tense":"past","wordcount":4,"phrases":[{"front":"Who was at home","back":"quien estaba en casa"},{"front":"What did you say","back":"qué dijiste"},{"front":"Why did you leave","back":"¿Por qué te fuiste?"},{"front":"Where did he go","back":"¿A dónde fue?"},{"front":"When did it happen","back":"Cuándo ocurrió"},{"front":"How did you know","back":"¿Cómo lo supiste?"},{"front":"Who won the game","back":"¿Quién ganó el juego?"},{"front":"What made you laugh","back":"¿Qué te hizo reír?"},{"front":"Why were you late","back":"¿Por qué llegaste tarde?"},{"front":"Where were you yesterday","back":"¿Dónde estabas ayer?"},{"front":"When did they arrive","back":"¿Cuándo llegaron?"},{"front":"How was your day","back":"cómo estuvo su día"},{"front":"Who told you that","back":"¿Quién te dijo eso?"},{"front":"What broke the window","back":"¿Qué rompió la ventana?"},{"front":"Why did she cry","back":"¿Por qué lloró?"},{"front":"Where did we meet","back":"¿Dónde nos conocimos?"},{"front":"When was the party","back":"¿Cuándo fue la fiesta?"},{"front":"How did it go","back":"¿Cómo te fue?"},{"front":"Who forgot the keys","back":"¿Quién olvidó las llaves?"},{"front":"What caused the delay","back":"¿Qué causó el retraso?"},{"front":"Why was he angry","back":"¿Por qué estaba enojado?"},{"front":"Where did they stay","back":"¿Dónde se quedaron?"},{"front":"When was the meeting","back":"¿Cuándo fue la reunión?"},{"front":"How did you feel","back":"¿Cómo te sentiste?"},{"front":"Who fixed the problem","back":"¿Quién arregló el problema?"}]},{"tense":"past","wordcount":6,"phrases":[{"front":"Who did you think I was","back":"¿Quién creías que era yo?"},{"front":"What did you do last night","back":"¿Qué hiciste anoche?"},{"front":"Where did you leave your phone","back":"¿Dónde dejaste tu teléfono?"},{"front":"When did they plan to arrive","back":"¿Cuándo planeaban llegar?"},{"front":"Why did she leave so early","back":"¿Por qué se fue tan temprano?"},{"front":"How did you solve that problem","back":"¿Cómo resolviste ese problema?"},{"front":"Who was responsible for the mistake","back":"¿Quién fue responsable del error?"},{"front":"What made you change your mind","back":"¿Qué te hizo cambiar de opinión?"},{"front":"Where did you park the car","back":"¿Dónde estacionaste el auto?"},{"front":"When did the show finally start","back":"¿Cuándo empezó finalmente el espectáculo?"},{"front":"Why were they not informed earlier","back":"¿Por qué no se les informó antes?"},{"front":"How was your experience at school","back":"¿Cómo fue tu experiencia en la escuela?"},{"front":"Who told you about the event","back":"¿Quién te contó sobre el evento?"},{"front":"What happened after I left","back":"¿Qué pasó después de que me fui?"},{"front":"Where were you when it occurred","back":"¿Dónde estabas cuando ocurrió?"},{"front":"When did you first meet her","back":"¿Cuándo la conociste por primera vez?"},{"front":"Why didn't you answer my call","back":"¿Por qué no respondiste mi llamada?"},{"front":"How did they react to news","back":"¿Cómo reaccionaron a la noticia?"},{"front":"Who forgot to turn off lights","back":"¿Quién se olvidó de apagar las luces?"},{"front":"What did he say to you","back":"¿Qué te dijo?"},{"front":"Where did all the time go","back":"¿A dónde se fue todo el tiempo?"},{"front":"When was the last time we spoke","back":"¿Cuándo fue la última vez que hablamos?"},{"front":"Why didn't you come to party","back":"¿Por qué no viniste a la fiesta?"},{"front":"How did you enjoy the trip","back":"¿Cómo disfrutaste el viaje?"},{"front":"Who was sitting next to you","back":"¿Quién estaba sentado a tu lado?"}]},{"tense":"past","wordcount":6,"phrases":[{"front":"Who did you think I was","back":"¿Quién creías que era yo?"},{"front":"What did you do last night","back":"¿Qué hiciste anoche?"},{"front":"Where did you leave your phone","back":"¿Dónde dejaste tu teléfono?"},{"front":"When did they plan to arrive","back":"¿Cuándo planeaban llegar?"},{"front":"Why did she leave so early","back":"¿Por qué se fue tan temprano?"},{"front":"How did you solve that problem","back":"¿Cómo resolviste ese problema?"},{"front":"Who was responsible for the mistake","back":"¿Quién fue responsable del error?"},{"front":"What made you change your mind","back":"¿Qué te hizo cambiar de opinión?"},{"front":"Where did you park the car","back":"¿Dónde estacionaste el auto?"},{"front":"When did the show finally start","back":"¿Cuándo empezó finalmente el espectáculo?"},{"front":"Why were they not informed earlier","back":"¿Por qué no se les informó antes?"},{"front":"How was your experience at school","back":"¿Cómo fue tu experiencia en la escuela?"},{"front":"Who told you about the event","back":"¿Quién te contó sobre el evento?"},{"front":"What happened after I left","back":"¿Qué pasó después de que me fui?"},{"front":"Where were you when it occurred","back":"¿Dónde estabas cuando ocurrió?"},{"front":"When did you first meet her","back":"¿Cuándo la conociste por primera vez?"},{"front":"Why didn't you answer my call","back":"¿Por qué no respondiste mi llamada?"},{"front":"How did they react to news","back":"¿Cómo reaccionaron a la noticia?"},{"front":"Who forgot to turn off lights","back":"¿Quién se olvidó de apagar las luces?"},{"front":"What did he say to you","back":"¿Qué te dijo?"},{"front":"Where did all the time go","back":"¿A dónde se fue todo el tiempo?"},{"front":"When was the last time we spoke","back":"¿Cuándo fue la última vez que hablamos?"},{"front":"Why didn't you come to party","back":"¿Por qué no viniste a la fiesta?"},{"front":"How did you enjoy the trip","back":"¿Cómo disfrutaste el viaje?"},{"front":"Who was sitting next to you","back":"¿Quién estaba sentado a tu lado?"}]},{"tense":"future","wordcount":3,"phrases":[{"front":"Who will go","back":"¿Quién irá?"},{"front":"What will happen","back":"¿Qué pasará?"},{"front":"Where will you","back":"¿A dónde irás?"},{"front":"When will it","back":"¿Cuándo será?"},{"front":"Why will he","back":"¿Por qué lo hará?"},{"front":"How will we","back":"¿Cómo lo haremos?"},{"front":"Who will know","back":"¿Quién lo sabrá?"},{"front":"What will change","back":"¿Qué cambiará?"},{"front":"Where will they","back":"¿Dónde estarán?"},{"front":"When will you","back":"¿Cuándo lo harás?"},{"front":"Why will she","back":"¿Por qué ella lo hará?"},{"front":"How will I","back":"¿Cómo lo haré?"},{"front":"Who will help","back":"¿Quién ayudará?"},{"front":"What will be","back":"¿Qué será?"},{"front":"Where will we","back":"¿A dónde iremos?"},{"front":"When will they","back":"¿Cuándo lo harán?"},{"front":"Why will it","back":"¿Por qué lo hará?"},{"front":"How will you","back":"¿Cómo lo harás?"},{"front":"Who will come","back":"¿Quién vendrá?"},{"front":"What will end","back":"¿Qué terminará?"},{"front":"Where will I","back":"¿Dónde estaré?"},{"front":"When will he","back":"¿Cuándo lo hará?"},{"front":"Why will we","back":"¿Por qué lo haremos?"},{"front":"How will she","back":"¿Cómo lo hará ella?"},{"front":"Who will decide","back":"¿Quién decidirá?"}]},{"tense":"future","wordcount":4,"phrases":[{"front":"Who will you call","back":"¿A quién llamarás?"},{"front":"What will happen next","back":"¿Qué pasará después?"},{"front":"Where will they go","back":"¿A dónde irán?"},{"front":"When will it end","back":"¿Cuándo terminará?"},{"front":"Why will he leave","back":"¿Por qué se irá?"},{"front":"How will we know","back":"¿Cómo lo sabremos?"},{"front":"Who will help us","back":"¿Quién nos ayudará?"},{"front":"What will you do","back":"Qué vas a hacer"},{"front":"Where will she be","back":"¿Dónde estará ella?"},{"front":"When will I see","back":"¿Cuándo lo veré?"},{"front":"Why will they wait","back":"¿Por qué esperarán?"},{"front":"How will you manage","back":"¿Cómo lo lograrás?"},{"front":"Who will attend meeting","back":"¿Quién asistirá a la reunión?"},{"front":"What will be done","back":"¿Qué se hará?"},{"front":"Where will we meet","back":"¿Dónde nos encontraremos?"},{"front":"When will you come","back":"¿Cuándo vendrás?"},{"front":"Why will it matter","back":"¿Por qué importará?"},{"front":"How will she react","back":"¿Cómo reaccionará ella?"},{"front":"Who will lead team","back":"¿Quién liderará el equipo?"},{"front":"What will they say","back":"¿Qué dirán?"},{"front":"Where will I stay","back":"¿Dónde me quedaré?"},{"front":"When will he return","back":"¿Cuándo volverá?"},{"front":"Why will we try","back":"¿Por qué lo intentaremos?"},{"front":"How will it work","back":"¿Cómo funcionará?"},{"front":"Who will believe this","back":"¿Quién creerá esto?"}]},{"tense":"future","wordcount":5,"phrases":[{"front":"Who will you meet tomorrow","back":"¿A quién conocerás mañana?"},{"front":"What will happen to us","back":"¿Qué nos va a pasar?"},{"front":"Where will they stay tonight","back":"¿Dónde se quedarán esta noche?"},{"front":"When will she arrive here","back":"¿Cuándo llegará aquí?"},{"front":"Why will it take longer","back":"¿Por qué tardará más?"},{"front":"How will we fix this","back":"¿Cómo solucionaremos esto?"},{"front":"Who will help me move","back":"¿Quién me ayudará a mudarme?"},{"front":"What will you do now","back":"¿Qué harás ahora?"},{"front":"Where will we meet later","back":"¿Dónde nos encontraremos más tarde?"},{"front":"When will you know results","back":"¿Cuándo sabrás los resultados?"},{"front":"Why will they cancel it","back":"¿Por qué lo cancelarán?"},{"front":"How will she get there","back":"¿Cómo llegará allí?"},{"front":"Who will pay the bill","back":"¿Quién pagará la cuenta?"},{"front":"What will make you happy","back":"¿Qué te hará feliz?"},{"front":"Where will he find work","back":"¿Dónde encontrará trabajo?"},{"front":"When will we start dinner","back":"¿Cuándo empezaremos a cenar?"},{"front":"Why will you leave early","back":"¿Por qué te vas temprano?"},{"front":"How will they solve this","back":"¿Cómo resolverán esto?"},{"front":"Who will win the game","back":"¿Quién ganará el juego?"},{"front":"What will be your choice","back":"¿Cuál será tu elección?"},{"front":"Where will she go next","back":"¿A dónde irá después?"},{"front":"When will it stop raining","back":"¿Cuándo dejará de llover?"},{"front":"Why will we change plans","back":"¿Por qué cambiaremos los planes?"},{"front":"How will you get home","back":"¿Cómo llegarás a casa?"},{"front":"Who will you call first","back":"¿A quién llamarás primero?"}]},{"tense":"future","wordcount":6,"phrases":[{"front":"Who will you invite to party","back":"¿A quién invitarás a la fiesta?"},{"front":"What will happen if we fail","back":"¿Qué pasará si fallamos?"},{"front":"Where will they stay tonight","back":"¿Dónde se quedarán esta noche?"},{"front":"When will it be over completely","back":"¿Cuándo terminará por completo?"},{"front":"Why will he not join us","back":"¿Por qué no se une a nosotros?"},{"front":"How will we solve this problem","back":"¿Cómo resolveremos este problema?"},{"front":"Who will help me move house","back":"¿Quién me ayudará a mudarme de casa?"},{"front":"What will you do about it","back":"¿Qué harás al respecto?"},{"front":"Where will she be staying tonight","back":"¿Dónde se quedará esta noche?"},{"front":"When will I see you again","back":"¿Cuándo te volveré a ver?"},{"front":"Why will they not wait longer","back":"¿Por qué no esperarán más?"},{"front":"How will you get there tomorrow","back":"¿Cómo llegarás allí mañana?"},{"front":"Who will attend the meeting tomorrow","back":"¿Quién asistirá a la reunión mañana?"},{"front":"What will be the final outcome","back":"¿Cuál será el resultado final?"},{"front":"Where will we meet up later","back":"¿Dónde nos encontraremos más tarde?"},{"front":"When will you arrive at home","back":"¿Cuándo llegarás a casa?"},{"front":"Why will it take so long","back":"¿Por qué tardará tanto?"},{"front":"How will she react to news","back":"¿Cómo reaccionará a las noticias?"},{"front":"Who will lead the new team","back":"¿Quién liderará el nuevo equipo?"},{"front":"What will they decide about proposal","back":"¿Qué decidirán sobre la propuesta?"},{"front":"Where will I find you tomorrow","back":"¿Dónde te encontraré mañana?"},{"front":"When will he get back home","back":"¿Cuándo volverá a casa?"},{"front":"Why will we try again tomorrow","back":"¿Por qué lo intentaremos de nuevo mañana?"},{"front":"How will it affect our plans","back":"¿Cómo afectará esto a nuestros planes?"},{"front":"Who will believe our story now","back":"¿Quién creerá nuestra historia ahora?"}]}]}]}
+{
+  "language": "Spanish",
+  "flashcards": [
+    {
+      "topic": "Interrogatives",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Who", "back": "oms" },
+            { "front": "What", "back": "qué" },
+            { "front": "Why", "back": "por qué" },
+            { "front": "Where", "back": "dónde" },
+            { "front": "When", "back": "cuando" },
+            { "front": "How", "back": "cómo" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Who is", "back": "quién es" },
+            { "front": "What is", "back": "qué es" },
+            { "front": "Why is", "back": "¿por qué es?" },
+            { "front": "Where is", "back": "dónde es" },
+            { "front": "When is", "back": "cuando es" },
+            { "front": "How is", "back": "cómo es" },
+            { "front": "Who are", "back": "quienes son" },
+            { "front": "What are", "back": "¿cuáles son?" },
+            { "front": "Why are", "back": "¿por qué son?" },
+            { "front": "Where are", "back": "¿dónde están?" },
+            { "front": "When are", "back": "cuando son" },
+            { "front": "How are", "back": "cómo están" },
+            { "front": "Who knows", "back": "quién sabe" },
+            { "front": "What happened", "back": "qué sucedió" },
+            { "front": "Why me", "back": "¿por qué yo?" },
+            { "front": "Where now", "back": "¿dónde ahora?" },
+            { "front": "When exactly", "back": "cuando exactamente" },
+            { "front": "How come", "back": "cómo" },
+            { "front": "What next", "back": "¿qué sigue?" },
+            { "front": "Who else", "back": "¿quién más?" },
+            { "front": "Why bother", "back": "¿por qué molestarse?" },
+            { "front": "Where to", "back": "adonde" },
+            { "front": "When's lunch", "back": "¿cuándo es el almuerzo?" },
+            { "front": "How's life", "back": "¿cómo va la vida?" },
+            { "front": "Who cares", "back": "a quién le importa" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Who is he", "back": "quién es él" },
+            { "front": "What is that", "back": "¿qué es eso?" },
+            { "front": "Why are we", "back": "¿por qué somos?" },
+            { "front": "Where are you", "back": "dónde estás" },
+            { "front": "When is it", "back": "¿cuándo es?" },
+            { "front": "How are you", "back": "cómo estás" },
+            { "front": "Who knows this", "back": "quien sabe esto" },
+            { "front": "What comes next", "back": "¿qué viene después?" },
+            { "front": "Why wait now", "back": "¿por qué esperar ahora?" },
+            { "front": "Where is she", "back": "¿dónde está ella?" },
+            { "front": "When is lunch", "back": "¿cuándo es el almuerzo?" },
+            { "front": "How is he", "back": "¿cómo está él?" },
+            { "front": "Who wants coffee", "back": "¿quién quiere café?" },
+            { "front": "What happens now", "back": "¿qué pasa ahora?" },
+            { "front": "Why ask me", "back": "¿por qué me preguntas?" },
+            { "front": "Where is home", "back": "¿dónde está el hogar?" },
+            { "front": "When do we", "back": "¿cuándo lo hacemos?" },
+            { "front": "How does this", "back": "¿cómo funciona esto?" },
+            { "front": "Who needs help", "back": "¿quién necesita ayuda?" },
+            { "front": "What is wrong", "back": "lo que está mal" },
+            { "front": "Why not go", "back": "¿por qué no ir?" },
+            { "front": "Where am I", "back": "dónde estoy" },
+            { "front": "When is dinner", "back": "¿cuándo es la cena?" },
+            { "front": "How is life", "back": "¿cómo es la vida?" },
+            { "front": "Who are they", "back": "quiénes son" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "Who are you now", "back": "¿quién eres ahora?" },
+            { "front": "What is your name", "back": "cómo te llamas" },
+            { "front": "Why are we here", "back": "¿por qué estamos aquí?" },
+            { "front": "Where is the exit", "back": "¿dónde está la salida?" },
+            {
+              "front": "When is the meeting",
+              "back": "¿cuándo es la reunión?"
+            },
+            { "front": "How are you feeling", "back": "¿cómo te sientes?" },
+            {
+              "front": "Who wants some coffee",
+              "back": "¿quién quiere un café?"
+            },
+            { "front": "What is the plan", "back": "¿cuál es el plan?" },
+            {
+              "front": "Why is it raining",
+              "back": "¿por qué está lloviendo?"
+            },
+            { "front": "Where do you live", "back": "dónde vive" },
+            { "front": "When do we start", "back": "¿cuándo empezamos?" },
+            { "front": "How does this work", "back": "cómo funciona esto" },
+            {
+              "front": "Who knows the answer",
+              "back": "¿quién sabe la respuesta?"
+            },
+            { "front": "What time is it", "back": "¿qué hora es?" },
+            {
+              "front": "Why is this happening",
+              "back": "¿por qué está pasando esto?"
+            },
+            {
+              "front": "Where is my phone",
+              "back": "¿dónde está mi teléfono?"
+            },
+            { "front": "When can we leave", "back": "¿cuándo podemos irnos?" },
+            { "front": "How do you know", "back": "cómo lo sabes" },
+            {
+              "front": "Who needs more time",
+              "back": "¿quién necesita más tiempo?"
+            },
+            { "front": "What are you doing", "back": "qué estás haciendo" },
+            { "front": "Why are you upset", "back": "¿por qué estás molesto?" },
+            { "front": "Where did he go", "back": "¿a dónde fue?" },
+            { "front": "When is the party", "back": "¿cuándo es la fiesta?" },
+            { "front": "How is your day", "back": "cómo va su día" },
+            { "front": "Who can help me", "back": "¿quién me puede ayudar?" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "Who do you think is", "back": "¿quién crees que es?" },
+            {
+              "front": "What are you doing now",
+              "back": "qué estás haciendo ahora"
+            },
+            {
+              "front": "Where is the nearest café",
+              "back": "¿dónde está la cafetería más cercana?"
+            },
+            {
+              "front": "When does the movie start",
+              "back": "¿cuándo empieza la película?"
+            },
+            {
+              "front": "Why is the sky blue",
+              "back": "¿por qué el cielo es azul?"
+            },
+            { "front": "How do you know that", "back": "¿cómo sabes eso?" },
+            {
+              "front": "Who is your favorite singer",
+              "back": "¿quién es tu cantante favorito?"
+            },
+            {
+              "front": "What makes you feel happy",
+              "back": "¿qué te hace sentir feliz?"
+            },
+            {
+              "front": "Where are we going today",
+              "back": "¿a dónde vamos hoy?"
+            },
+            {
+              "front": "When is the next bus",
+              "back": "cuándo pasa el próximo autobús"
+            },
+            {
+              "front": "Why are they so late",
+              "back": "¿por qué llegan tan tarde?"
+            },
+            {
+              "front": "How is your mother doing",
+              "back": "¿cómo está tu madre?"
+            },
+            {
+              "front": "Who wants to join me",
+              "back": "¿quién quiere unirse a mí?"
+            },
+            { "front": "What time is it now", "back": "¿qué hora es ahora?" },
+            {
+              "front": "Where can I find help",
+              "back": "¿dónde puedo encontrar ayuda?"
+            },
+            {
+              "front": "When do we eat lunch",
+              "back": "¿cuándo comemos el almuerzo?"
+            },
+            {
+              "front": "Why does she look upset",
+              "back": "¿por qué se ve molesta?"
+            },
+            {
+              "front": "How are you feeling today",
+              "back": "¿cómo te sientes hoy?"
+            },
+            {
+              "front": "Who needs assistance right now",
+              "back": "¿quién necesita ayuda ahora mismo?"
+            },
+            {
+              "front": "What is your favorite color",
+              "back": "¿cuál es tu color favorito?"
+            },
+            {
+              "front": "Where did I put keys",
+              "back": "¿dónde puse las llaves?"
+            },
+            {
+              "front": "When are we meeting again",
+              "back": "¿cuándo nos volveremos a ver?"
+            },
+            {
+              "front": "Why is this happening now",
+              "back": "¿por qué está pasando esto ahora?"
+            },
+            {
+              "front": "How does this machine work",
+              "back": "¿cómo funciona esta máquina?"
+            },
+            {
+              "front": "Who can answer this question",
+              "back": "¿quién puede responder a esta pregunta?"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Who do you think you are",
+              "back": "¿quién te crees que eres?"
+            },
+            {
+              "front": "What are you planning to do",
+              "back": "¿qué planeas hacer?"
+            },
+            {
+              "front": "Where is the bathroom located here",
+              "back": "¿dónde está ubicado el baño aquí?"
+            },
+            {
+              "front": "When does the train usually arrive",
+              "back": "¿cuándo suele llegar el tren?"
+            },
+            {
+              "front": "Why is the sky blue today",
+              "back": "¿por qué el cielo es azul hoy?"
+            },
+            {
+              "front": "How do you know my name",
+              "back": "¿cómo sabes mi nombre?"
+            },
+            {
+              "front": "Who is your favorite author now",
+              "back": "¿quién es tu autor favorito ahora?"
+            },
+            {
+              "front": "What makes you happy these days",
+              "back": "¿qué te hace feliz estos días?"
+            },
+            {
+              "front": "Where can I find good coffee",
+              "back": "¿dónde puedo encontrar un buen café?"
+            },
+            {
+              "front": "When are we going to leave",
+              "back": "¿cuándo nos vamos a ir?"
+            },
+            {
+              "front": "Why are you acting so strange",
+              "back": "¿por qué actúas tan extraño?"
+            },
+            {
+              "front": "How is your family doing lately",
+              "back": "¿cómo está tu familia últimamente?"
+            },
+            {
+              "front": "Who wants to join me today",
+              "back": "¿quién quiere acompañarme hoy?"
+            },
+            {
+              "front": "What is the plan for tonight",
+              "back": "¿cuál es el plan para esta noche?"
+            },
+            {
+              "front": "Where should we meet for lunch",
+              "back": "¿dónde deberíamos reunirnos para almorzar?"
+            },
+            {
+              "front": "When is the next class starting",
+              "back": "¿cuándo empieza la próxima clase?"
+            },
+            {
+              "front": "Why are they always late today",
+              "back": "¿por qué siempre llegan tarde hoy?"
+            },
+            {
+              "front": "How do you use this device",
+              "back": "¿cómo se utiliza este dispositivo?"
+            },
+            {
+              "front": "Who can help me with this",
+              "back": "¿quién me puede ayudar con esto?"
+            },
+            {
+              "front": "What time do you usually wake",
+              "back": "¿a qué hora te despiertas normalmente?"
+            },
+            {
+              "front": "Where are you going right now",
+              "back": "¿a dónde vas ahora mismo?"
+            },
+            {
+              "front": "When do we need to submit this",
+              "back": "¿cuándo debemos enviar esto?"
+            },
+            {
+              "front": "Why is this happening to me",
+              "back": "¿por qué me pasa esto?"
+            },
+            {
+              "front": "How are you feeling right now",
+              "back": "¿cómo te sientes ahora mismo?"
+            },
+            {
+              "front": "Who is responsible for this mess",
+              "back": "¿quién es responsable de este desastre?"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Who was that", "back": "¿quién era ese?" },
+            { "front": "What happened yesterday", "back": "¿qué pasó ayer?" },
+            { "front": "Why did you", "back": "¿por qué lo hiciste?" },
+            { "front": "Where were you", "back": "dónde estabas" },
+            { "front": "When was that", "back": "¿cuándo fue eso?" },
+            { "front": "How was it", "back": "cómo fue" },
+            { "front": "Who helped you", "back": "¿quién te ayudó?" },
+            { "front": "What went wrong", "back": "¿qué salió mal?" },
+            { "front": "Why leave early", "back": "¿por qué salir temprano?" },
+            { "front": "Where did he", "back": "¿dónde estuvo?" },
+            { "front": "When did we", "back": "¿cuándo lo hicimos?" },
+            { "front": "How did you", "back": "¿cómo lo hiciste?" },
+            { "front": "Who told you", "back": "¿quién te lo dijo?" },
+            { "front": "What broke down", "back": "¿qué se rompió?" },
+            { "front": "Why feel sad", "back": "¿por qué sentirse triste?" },
+            { "front": "Where was she", "back": "¿dónde estaba ella?" },
+            { "front": "When did it", "back": "¿cuándo lo hizo?" },
+            { "front": "How went it", "back": "¿cómo te fue?" },
+            { "front": "Who saw that", "back": "¿quién vio eso?" },
+            { "front": "What caused that", "back": "¿qué causó eso?" },
+            { "front": "Why cry now", "back": "¿por qué llorar ahora?" },
+            { "front": "Where did they", "back": "¿dónde estaban?" },
+            { "front": "When arrived you", "back": "cuando llegaste tú" },
+            { "front": "How managed you", "back": "¿cómo lo lograste?" },
+            { "front": "Who fixed it", "back": "¿quién lo arregló?" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "Who was at home", "back": "quien estaba en casa" },
+            { "front": "What did you say", "back": "qué dijiste" },
+            { "front": "Why did you leave", "back": "¿por qué te fuiste?" },
+            { "front": "Where did he go", "back": "¿a dónde fue?" },
+            { "front": "When did it happen", "back": "cuándo ocurrió" },
+            { "front": "How did you know", "back": "¿cómo lo supiste?" },
+            { "front": "Who won the game", "back": "¿quién ganó el juego?" },
+            { "front": "What made you laugh", "back": "¿qué te hizo reír?" },
+            {
+              "front": "Why were you late",
+              "back": "¿por qué llegaste tarde?"
+            },
+            {
+              "front": "Where were you yesterday",
+              "back": "¿dónde estabas ayer?"
+            },
+            { "front": "When did they arrive", "back": "¿cuándo llegaron?" },
+            { "front": "How was your day", "back": "cómo estuvo su día" },
+            { "front": "Who told you that", "back": "¿quién te dijo eso?" },
+            {
+              "front": "What broke the window",
+              "back": "¿qué rompió la ventana?"
+            },
+            { "front": "Why did she cry", "back": "¿por qué lloró?" },
+            { "front": "Where did we meet", "back": "¿dónde nos conocimos?" },
+            { "front": "When was the party", "back": "¿cuándo fue la fiesta?" },
+            { "front": "How did it go", "back": "¿cómo te fue?" },
+            {
+              "front": "Who forgot the keys",
+              "back": "¿quién olvidó las llaves?"
+            },
+            {
+              "front": "What caused the delay",
+              "back": "¿qué causó el retraso?"
+            },
+            { "front": "Why was he angry", "back": "¿por qué estaba enojado?" },
+            { "front": "Where did they stay", "back": "¿dónde se quedaron?" },
+            {
+              "front": "When was the meeting",
+              "back": "¿cuándo fue la reunión?"
+            },
+            { "front": "How did you feel", "back": "¿cómo te sentiste?" },
+            {
+              "front": "Who fixed the problem",
+              "back": "¿quién arregló el problema?"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Who did you think I was",
+              "back": "¿quién creías que era yo?"
+            },
+            {
+              "front": "What did you do last night",
+              "back": "¿qué hiciste anoche?"
+            },
+            {
+              "front": "Where did you leave your phone",
+              "back": "¿dónde dejaste tu teléfono?"
+            },
+            {
+              "front": "When did they plan to arrive",
+              "back": "¿cuándo planeaban llegar?"
+            },
+            {
+              "front": "Why did she leave so early",
+              "back": "¿por qué se fue tan temprano?"
+            },
+            {
+              "front": "How did you solve that problem",
+              "back": "¿cómo resolviste ese problema?"
+            },
+            {
+              "front": "Who was responsible for the mistake",
+              "back": "¿quién fue responsable del error?"
+            },
+            {
+              "front": "What made you change your mind",
+              "back": "¿qué te hizo cambiar de opinión?"
+            },
+            {
+              "front": "Where did you park the car",
+              "back": "¿dónde estacionaste el auto?"
+            },
+            {
+              "front": "When did the show finally start",
+              "back": "¿cuándo empezó finalmente el espectáculo?"
+            },
+            {
+              "front": "Why were they not informed earlier",
+              "back": "¿por qué no se les informó antes?"
+            },
+            {
+              "front": "How was your experience at school",
+              "back": "¿cómo fue tu experiencia en la escuela?"
+            },
+            {
+              "front": "Who told you about the event",
+              "back": "¿quién te contó sobre el evento?"
+            },
+            {
+              "front": "What happened after I left",
+              "back": "¿qué pasó después de que me fui?"
+            },
+            {
+              "front": "Where were you when it occurred",
+              "back": "¿dónde estabas cuando ocurrió?"
+            },
+            {
+              "front": "When did you first meet her",
+              "back": "¿cuándo la conociste por primera vez?"
+            },
+            {
+              "front": "Why didn't you answer my call",
+              "back": "¿por qué no respondiste mi llamada?"
+            },
+            {
+              "front": "How did they react to news",
+              "back": "¿cómo reaccionaron a la noticia?"
+            },
+            {
+              "front": "Who forgot to turn off lights",
+              "back": "¿quién se olvidó de apagar las luces?"
+            },
+            { "front": "What did he say to you", "back": "¿qué te dijo?" },
+            {
+              "front": "Where did all the time go",
+              "back": "¿a dónde se fue todo el tiempo?"
+            },
+            {
+              "front": "When was the last time we spoke",
+              "back": "¿cuándo fue la última vez que hablamos?"
+            },
+            {
+              "front": "Why didn't you come to party",
+              "back": "¿por qué no viniste a la fiesta?"
+            },
+            {
+              "front": "How did you enjoy the trip",
+              "back": "¿cómo disfrutaste el viaje?"
+            },
+            {
+              "front": "Who was sitting next to you",
+              "back": "¿quién estaba sentado a tu lado?"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Who did you think I was",
+              "back": "¿quién creías que era yo?"
+            },
+            {
+              "front": "What did you do last night",
+              "back": "¿qué hiciste anoche?"
+            },
+            {
+              "front": "Where did you leave your phone",
+              "back": "¿dónde dejaste tu teléfono?"
+            },
+            {
+              "front": "When did they plan to arrive",
+              "back": "¿cuándo planeaban llegar?"
+            },
+            {
+              "front": "Why did she leave so early",
+              "back": "¿por qué se fue tan temprano?"
+            },
+            {
+              "front": "How did you solve that problem",
+              "back": "¿cómo resolviste ese problema?"
+            },
+            {
+              "front": "Who was responsible for the mistake",
+              "back": "¿quién fue responsable del error?"
+            },
+            {
+              "front": "What made you change your mind",
+              "back": "¿qué te hizo cambiar de opinión?"
+            },
+            {
+              "front": "Where did you park the car",
+              "back": "¿dónde estacionaste el auto?"
+            },
+            {
+              "front": "When did the show finally start",
+              "back": "¿cuándo empezó finalmente el espectáculo?"
+            },
+            {
+              "front": "Why were they not informed earlier",
+              "back": "¿por qué no se les informó antes?"
+            },
+            {
+              "front": "How was your experience at school",
+              "back": "¿cómo fue tu experiencia en la escuela?"
+            },
+            {
+              "front": "Who told you about the event",
+              "back": "¿quién te contó sobre el evento?"
+            },
+            {
+              "front": "What happened after I left",
+              "back": "¿qué pasó después de que me fui?"
+            },
+            {
+              "front": "Where were you when it occurred",
+              "back": "¿dónde estabas cuando ocurrió?"
+            },
+            {
+              "front": "When did you first meet her",
+              "back": "¿cuándo la conociste por primera vez?"
+            },
+            {
+              "front": "Why didn't you answer my call",
+              "back": "¿por qué no respondiste mi llamada?"
+            },
+            {
+              "front": "How did they react to news",
+              "back": "¿cómo reaccionaron a la noticia?"
+            },
+            {
+              "front": "Who forgot to turn off lights",
+              "back": "¿quién se olvidó de apagar las luces?"
+            },
+            { "front": "What did he say to you", "back": "¿qué te dijo?" },
+            {
+              "front": "Where did all the time go",
+              "back": "¿a dónde se fue todo el tiempo?"
+            },
+            {
+              "front": "When was the last time we spoke",
+              "back": "¿cuándo fue la última vez que hablamos?"
+            },
+            {
+              "front": "Why didn't you come to party",
+              "back": "¿por qué no viniste a la fiesta?"
+            },
+            {
+              "front": "How did you enjoy the trip",
+              "back": "¿cómo disfrutaste el viaje?"
+            },
+            {
+              "front": "Who was sitting next to you",
+              "back": "¿quién estaba sentado a tu lado?"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Who will go", "back": "¿quién irá?" },
+            { "front": "What will happen", "back": "¿qué pasará?" },
+            { "front": "Where will you", "back": "¿a dónde irás?" },
+            { "front": "When will it", "back": "¿cuándo será?" },
+            { "front": "Why will he", "back": "¿por qué lo hará?" },
+            { "front": "How will we", "back": "¿cómo lo haremos?" },
+            { "front": "Who will know", "back": "¿quién lo sabrá?" },
+            { "front": "What will change", "back": "¿qué cambiará?" },
+            { "front": "Where will they", "back": "¿dónde estarán?" },
+            { "front": "When will you", "back": "¿cuándo lo harás?" },
+            { "front": "Why will she", "back": "¿por qué ella lo hará?" },
+            { "front": "How will I", "back": "¿cómo lo haré?" },
+            { "front": "Who will help", "back": "¿quién ayudará?" },
+            { "front": "What will be", "back": "¿qué será?" },
+            { "front": "Where will we", "back": "¿a dónde iremos?" },
+            { "front": "When will they", "back": "¿cuándo lo harán?" },
+            { "front": "Why will it", "back": "¿por qué lo hará?" },
+            { "front": "How will you", "back": "¿cómo lo harás?" },
+            { "front": "Who will come", "back": "¿quién vendrá?" },
+            { "front": "What will end", "back": "¿qué terminará?" },
+            { "front": "Where will I", "back": "¿dónde estaré?" },
+            { "front": "When will he", "back": "¿cuándo lo hará?" },
+            { "front": "Why will we", "back": "¿por qué lo haremos?" },
+            { "front": "How will she", "back": "¿cómo lo hará ella?" },
+            { "front": "Who will decide", "back": "¿quién decidirá?" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "Who will you call", "back": "¿a quién llamarás?" },
+            {
+              "front": "What will happen next",
+              "back": "¿qué pasará después?"
+            },
+            { "front": "Where will they go", "back": "¿a dónde irán?" },
+            { "front": "When will it end", "back": "¿cuándo terminará?" },
+            { "front": "Why will he leave", "back": "¿por qué se irá?" },
+            { "front": "How will we know", "back": "¿cómo lo sabremos?" },
+            { "front": "Who will help us", "back": "¿quién nos ayudará?" },
+            { "front": "What will you do", "back": "qué vas a hacer" },
+            { "front": "Where will she be", "back": "¿dónde estará ella?" },
+            { "front": "When will I see", "back": "¿cuándo lo veré?" },
+            { "front": "Why will they wait", "back": "¿por qué esperarán?" },
+            { "front": "How will you manage", "back": "¿cómo lo lograrás?" },
+            {
+              "front": "Who will attend meeting",
+              "back": "¿quién asistirá a la reunión?"
+            },
+            { "front": "What will be done", "back": "¿qué se hará?" },
+            {
+              "front": "Where will we meet",
+              "back": "¿dónde nos encontraremos?"
+            },
+            { "front": "When will you come", "back": "¿cuándo vendrás?" },
+            { "front": "Why will it matter", "back": "¿por qué importará?" },
+            {
+              "front": "How will she react",
+              "back": "¿cómo reaccionará ella?"
+            },
+            {
+              "front": "Who will lead team",
+              "back": "¿quién liderará el equipo?"
+            },
+            { "front": "What will they say", "back": "¿qué dirán?" },
+            { "front": "Where will I stay", "back": "¿dónde me quedaré?" },
+            { "front": "When will he return", "back": "¿cuándo volverá?" },
+            { "front": "Why will we try", "back": "¿por qué lo intentaremos?" },
+            { "front": "How will it work", "back": "¿cómo funcionará?" },
+            { "front": "Who will believe this", "back": "¿quién creerá esto?" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "Who will you meet tomorrow",
+              "back": "¿a quién conocerás mañana?"
+            },
+            {
+              "front": "What will happen to us",
+              "back": "¿qué nos va a pasar?"
+            },
+            {
+              "front": "Where will they stay tonight",
+              "back": "¿dónde se quedarán esta noche?"
+            },
+            {
+              "front": "When will she arrive here",
+              "back": "¿cuándo llegará aquí?"
+            },
+            {
+              "front": "Why will it take longer",
+              "back": "¿por qué tardará más?"
+            },
+            {
+              "front": "How will we fix this",
+              "back": "¿cómo solucionaremos esto?"
+            },
+            {
+              "front": "Who will help me move",
+              "back": "¿quién me ayudará a mudarme?"
+            },
+            { "front": "What will you do now", "back": "¿qué harás ahora?" },
+            {
+              "front": "Where will we meet later",
+              "back": "¿dónde nos encontraremos más tarde?"
+            },
+            {
+              "front": "When will you know results",
+              "back": "¿cuándo sabrás los resultados?"
+            },
+            {
+              "front": "Why will they cancel it",
+              "back": "¿por qué lo cancelarán?"
+            },
+            {
+              "front": "How will she get there",
+              "back": "¿cómo llegará allí?"
+            },
+            {
+              "front": "Who will pay the bill",
+              "back": "¿quién pagará la cuenta?"
+            },
+            {
+              "front": "What will make you happy",
+              "back": "¿qué te hará feliz?"
+            },
+            {
+              "front": "Where will he find work",
+              "back": "¿dónde encontrará trabajo?"
+            },
+            {
+              "front": "When will we start dinner",
+              "back": "¿cuándo empezaremos a cenar?"
+            },
+            {
+              "front": "Why will you leave early",
+              "back": "¿por qué te vas temprano?"
+            },
+            {
+              "front": "How will they solve this",
+              "back": "¿cómo resolverán esto?"
+            },
+            {
+              "front": "Who will win the game",
+              "back": "¿quién ganará el juego?"
+            },
+            {
+              "front": "What will be your choice",
+              "back": "¿cuál será tu elección?"
+            },
+            {
+              "front": "Where will she go next",
+              "back": "¿a dónde irá después?"
+            },
+            {
+              "front": "When will it stop raining",
+              "back": "¿cuándo dejará de llover?"
+            },
+            {
+              "front": "Why will we change plans",
+              "back": "¿por qué cambiaremos los planes?"
+            },
+            {
+              "front": "How will you get home",
+              "back": "¿cómo llegarás a casa?"
+            },
+            {
+              "front": "Who will you call first",
+              "back": "¿a quién llamarás primero?"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Who will you invite to party",
+              "back": "¿a quién invitarás a la fiesta?"
+            },
+            {
+              "front": "What will happen if we fail",
+              "back": "¿qué pasará si fallamos?"
+            },
+            {
+              "front": "Where will they stay tonight",
+              "back": "¿dónde se quedarán esta noche?"
+            },
+            {
+              "front": "When will it be over completely",
+              "back": "¿cuándo terminará por completo?"
+            },
+            {
+              "front": "Why will he not join us",
+              "back": "¿por qué no se une a nosotros?"
+            },
+            {
+              "front": "How will we solve this problem",
+              "back": "¿cómo resolveremos este problema?"
+            },
+            {
+              "front": "Who will help me move house",
+              "back": "¿quién me ayudará a mudarme de casa?"
+            },
+            {
+              "front": "What will you do about it",
+              "back": "¿qué harás al respecto?"
+            },
+            {
+              "front": "Where will she be staying tonight",
+              "back": "¿dónde se quedará esta noche?"
+            },
+            {
+              "front": "When will I see you again",
+              "back": "¿cuándo te volveré a ver?"
+            },
+            {
+              "front": "Why will they not wait longer",
+              "back": "¿por qué no esperarán más?"
+            },
+            {
+              "front": "How will you get there tomorrow",
+              "back": "¿cómo llegarás allí mañana?"
+            },
+            {
+              "front": "Who will attend the meeting tomorrow",
+              "back": "¿quién asistirá a la reunión mañana?"
+            },
+            {
+              "front": "What will be the final outcome",
+              "back": "¿cuál será el resultado final?"
+            },
+            {
+              "front": "Where will we meet up later",
+              "back": "¿dónde nos encontraremos más tarde?"
+            },
+            {
+              "front": "When will you arrive at home",
+              "back": "¿cuándo llegarás a casa?"
+            },
+            {
+              "front": "Why will it take so long",
+              "back": "¿por qué tardará tanto?"
+            },
+            {
+              "front": "How will she react to news",
+              "back": "¿cómo reaccionará a las noticias?"
+            },
+            {
+              "front": "Who will lead the new team",
+              "back": "¿quién liderará el nuevo equipo?"
+            },
+            {
+              "front": "What will they decide about proposal",
+              "back": "¿qué decidirán sobre la propuesta?"
+            },
+            {
+              "front": "Where will I find you tomorrow",
+              "back": "¿dónde te encontraré mañana?"
+            },
+            {
+              "front": "When will he get back home",
+              "back": "¿cuándo volverá a casa?"
+            },
+            {
+              "front": "Why will we try again tomorrow",
+              "back": "¿por qué lo intentaremos de nuevo mañana?"
+            },
+            {
+              "front": "How will it affect our plans",
+              "back": "¿cómo afectará esto a nuestros planes?"
+            },
+            {
+              "front": "Who will believe our story now",
+              "back": "¿quién creerá nuestra historia ahora?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

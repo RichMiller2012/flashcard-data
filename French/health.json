@@ -1,0 +1,1315 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Health",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Doctor", "back": "médecin" },
+            { "front": "Nurse", "back": "infirmière" },
+            { "front": "Patient", "back": "patient" },
+            { "front": "Medicine", "back": "médecine" },
+            { "front": "Bandage", "back": "bandage" },
+            { "front": "Prescription", "back": "ordonnance" },
+            { "front": "Pill", "back": "pilule" },
+            { "front": "Checkup", "back": "check-up" },
+            { "front": "Injection", "back": "injection" },
+            { "front": "Vaccine", "back": "vaccin" },
+            { "front": "Therapy", "back": "thérapie" },
+            { "front": "Ambulance", "back": "ambulance" },
+            { "front": "X-ray", "back": "radiographie" },
+            { "front": "Clinic", "back": "clinique" },
+            { "front": "Hospital", "back": "hôpital" },
+            { "front": "Allergy", "back": "allergie" },
+            { "front": "Treatment", "back": "traitement" },
+            { "front": "Surgery", "back": "chirurgie" },
+            { "front": "Dentist", "back": "dentiste" },
+            { "front": "Cast", "back": "casting" },
+            { "front": "Thermometer", "back": "thermomètre" },
+            { "front": "Diagnosis", "back": "diagnostic" },
+            { "front": "Blood", "back": "sang" },
+            { "front": "Fracture", "back": "fracture" },
+            { "front": "Wheelchair", "back": "fauteuil roulant" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Doctor checkup", "back": "examen médical" },
+            { "front": "Nurse care", "back": "soins infirmiers" },
+            { "front": "Patient records", "back": "dossiers des patients" },
+            { "front": "Medicine bottle", "back": "flacon de médicament" },
+            { "front": "Bandage wound", "back": "plaie bandée" },
+            { "front": "Prescription pills", "back": "pilules sur ordonnance" },
+            { "front": "Pill bottle", "back": "flacon de pilules" },
+            { "front": "Health checkup", "back": "bilan de santé" },
+            { "front": "Injection site", "back": "site d&#39;injection" },
+            { "front": "Vaccine dose", "back": "dose de vaccin" },
+            { "front": "Therapy session", "back": "séance de thérapie" },
+            { "front": "Ambulance ride", "back": "trajet en ambulance" },
+            { "front": "X-ray scan", "back": "radiographie" },
+            {
+              "front": "Clinic appointment",
+              "back": "rendez-vous à la clinique"
+            },
+            { "front": "Hospital visit", "back": "visite à l&#39;hôpital" },
+            { "front": "Allergy symptoms", "back": "symptômes d&#39;allergie" },
+            { "front": "Treatment plan", "back": "plan de traitement" },
+            { "front": "Surgery room", "back": "salle d&#39;opération" },
+            {
+              "front": "Dentist appointment",
+              "back": "rendez-vous chez le dentiste"
+            },
+            { "front": "Fracture cast", "back": "plâtre pour fracture" },
+            {
+              "front": "Thermometer reading",
+              "back": "lecture du thermomètre"
+            },
+            { "front": "Diagnosis report", "back": "rapport de diagnostic" },
+            { "front": "Blood test", "back": "analyse de sang" },
+            { "front": "Broken bone", "back": "os cassé" },
+            {
+              "front": "Wheelchair access",
+              "back": "accès en fauteuil roulant"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Doctor checks patient",
+              "back": "le médecin examine le patient"
+            },
+            {
+              "front": "Nurse provides care",
+              "back": "l&#39;infirmière fournit des soins"
+            },
+            {
+              "front": "Patient takes medicine",
+              "back": "le patient prend des médicaments"
+            },
+            {
+              "front": "Bandage covers wound",
+              "back": "un bandage recouvre la plaie"
+            },
+            {
+              "front": "Prescription requires approval",
+              "back": "la prescription nécessite une approbation"
+            },
+            {
+              "front": "Pill bottle opens",
+              "back": "le flacon de pilules s&#39;ouvre"
+            },
+            {
+              "front": "Injection causes pain",
+              "back": "l&#39;injection provoque de la douleur"
+            },
+            {
+              "front": "Vaccine prevents disease",
+              "back": "le vaccin prévient la maladie"
+            },
+            {
+              "front": "Therapy session helps",
+              "back": "une séance de thérapie aide"
+            },
+            {
+              "front": "Ambulance arrives quickly",
+              "back": "l&#39;ambulance arrive rapidement"
+            },
+            {
+              "front": "X-ray shows fracture",
+              "back": "la radiographie montre une fracture"
+            },
+            {
+              "front": "Clinic accepts patients",
+              "back": "la clinique accepte les patients"
+            },
+            {
+              "front": "Hospital admits patients",
+              "back": "l&#39;hôpital admet des patients"
+            },
+            {
+              "front": "Allergy causes symptoms",
+              "back": "l&#39;allergie provoque des symptômes"
+            },
+            {
+              "front": "Treatment reduces pain",
+              "back": "le traitement réduit la douleur"
+            },
+            {
+              "front": "Surgery fixes injury",
+              "back": "la chirurgie répare les blessures"
+            },
+            {
+              "front": "Dentist cleans teeth",
+              "back": "le dentiste nettoie les dents"
+            },
+            {
+              "front": "Fracture requires cast",
+              "back": "la fracture nécessite un plâtre"
+            },
+            {
+              "front": "Thermometer checks temperature",
+              "back": "le thermomètre vérifie la température"
+            },
+            {
+              "front": "Diagnosis helps treatment",
+              "back": "le diagnostic aide au traitement"
+            },
+            {
+              "front": "Blood test needed",
+              "back": "analyse de sang nécessaire"
+            },
+            { "front": "Broken bone heals", "back": "l&#39;os cassé guérit" },
+            {
+              "front": "Wheelchair provides mobility",
+              "back": "le fauteuil roulant offre une mobilité"
+            },
+            {
+              "front": "Doctor performs surgery",
+              "back": "le médecin pratique une intervention chirurgicale"
+            },
+            {
+              "front": "Medicine reduces fever",
+              "back": "le médicament réduit la fièvre"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The doctor checks patients",
+              "back": "le médecin examine les patients"
+            },
+            {
+              "front": "She provides patient care",
+              "back": "elle fournit des soins aux patients"
+            },
+            {
+              "front": "I take my medicine",
+              "back": "je prends mes médicaments"
+            },
+            {
+              "front": "Bandage covers the wound",
+              "back": "un bandage recouvre la plaie"
+            },
+            {
+              "front": "His prescription requires approval",
+              "back": "sa prescription nécessite une approbation"
+            },
+            {
+              "front": "Pill bottle remains closed",
+              "back": "le flacon de pilules reste fermé"
+            },
+            {
+              "front": "She administers the injection",
+              "back": "elle administre l&#39;injection"
+            },
+            {
+              "front": "The vaccine prevents illness",
+              "back": "le vaccin prévient la maladie"
+            },
+            {
+              "front": "Therapy sessions help recovery",
+              "back": "les séances de thérapie aident à la guérison"
+            },
+            {
+              "front": "Ambulance arrives very fast",
+              "back": "l&#39;ambulance arrive très vite"
+            },
+            {
+              "front": "X-ray shows bone fracture",
+              "back": "la radiographie montre une fracture osseuse"
+            },
+            {
+              "front": "The clinic accepts walk-ins",
+              "back": "la clinique accepte les visites sans rendez-vous"
+            },
+            {
+              "front": "We visit the hospital",
+              "back": "nous visitons l&#39;hôpital"
+            },
+            {
+              "front": "Allergies cause various symptoms",
+              "back": "les allergies provoquent divers symptômes"
+            },
+            {
+              "front": "The treatment reduces pain",
+              "back": "le traitement réduit la douleur"
+            },
+            {
+              "front": "They perform successful surgery",
+              "back": "ils effectuent des opérations chirurgicales réussies"
+            },
+            {
+              "front": "The dentist cleans teeth",
+              "back": "le dentiste nettoie les dents"
+            },
+            {
+              "front": "His fracture needs casting",
+              "back": "sa fracture nécessite un plâtre"
+            },
+            {
+              "front": "The thermometer checks temperature",
+              "back": "le thermomètre vérifie la température"
+            },
+            {
+              "front": "Their diagnosis determines treatment",
+              "back": "leur diagnostic détermine le traitement"
+            },
+            {
+              "front": "Blood tests are important",
+              "back": "les analyses de sang sont importantes"
+            },
+            { "front": "A broken bone heals", "back": "un os cassé guérit" },
+            {
+              "front": "She uses a wheelchair",
+              "back": "elle utilise un fauteuil roulant"
+            },
+            {
+              "front": "Doctors perform necessary surgery",
+              "back": "les médecins pratiquent la chirurgie nécessaire"
+            },
+            {
+              "front": "Medicine reduces my fever",
+              "back": "les médicaments réduisent ma fièvre"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The doctor checks vital signs",
+              "back": "le médecin vérifie les signes vitaux"
+            },
+            {
+              "front": "She provides care to patients",
+              "back": "elle fournit des soins aux patients"
+            },
+            {
+              "front": "I take my medicine daily",
+              "back": "je prends mes médicaments tous les jours"
+            },
+            {
+              "front": "Bandage covers the open wound",
+              "back": "un bandage recouvre la plaie ouverte"
+            },
+            {
+              "front": "His prescription requires doctor approval",
+              "back": "sa prescription nécessite l&#39;approbation d&#39;un médecin"
+            },
+            {
+              "front": "The pill bottle remains closed",
+              "back": "le flacon de pilules reste fermé"
+            },
+            {
+              "front": "She administers the flu injection",
+              "back": "elle administre l&#39;injection contre la grippe"
+            },
+            {
+              "front": "The vaccine prevents serious illness",
+              "back": "le vaccin prévient les maladies graves"
+            },
+            {
+              "front": "Therapy sessions help with recovery",
+              "back": "les séances de thérapie aident à la récupération"
+            },
+            {
+              "front": "Ambulance arrives at the scene",
+              "back": "l&#39;ambulance arrive sur les lieux"
+            },
+            {
+              "front": "X-ray shows a bone fracture",
+              "back": "la radiographie montre une fracture osseuse"
+            },
+            {
+              "front": "The clinic accepts new patients",
+              "back": "la clinique accepte de nouveaux patients"
+            },
+            {
+              "front": "We visit the hospital regularly",
+              "back": "nous visitons l&#39;hôpital régulièrement"
+            },
+            {
+              "front": "Allergies cause many uncomfortable symptoms",
+              "back": "les allergies provoquent de nombreux symptômes inconfortables"
+            },
+            {
+              "front": "The treatment reduces severe pain",
+              "back": "le traitement réduit les douleurs intenses"
+            },
+            {
+              "front": "They perform life-saving surgery today",
+              "back": "ils pratiquent aujourd&#39;hui des opérations chirurgicales vitales"
+            },
+            {
+              "front": "The dentist cleans teeth carefully",
+              "back": "le dentiste nettoie soigneusement les dents"
+            },
+            {
+              "front": "His fracture needs a new cast",
+              "back": "sa fracture nécessite un nouveau plâtre"
+            },
+            {
+              "front": "The thermometer checks body temperature",
+              "back": "le thermomètre vérifie la température corporelle"
+            },
+            {
+              "front": "Their diagnosis determines proper treatment",
+              "back": "leur diagnostic détermine le traitement approprié"
+            },
+            {
+              "front": "Blood tests are always important",
+              "back": "les analyses de sang sont toujours importantes"
+            },
+            {
+              "front": "A broken bone heals slowly",
+              "back": "un os cassé guérit lentement"
+            },
+            {
+              "front": "She uses a motorized wheelchair",
+              "back": "elle utilise un fauteuil roulant motorisé"
+            },
+            {
+              "front": "Doctors perform necessary heart surgery",
+              "back": "les médecins pratiquent une intervention chirurgicale cardiaque nécessaire"
+            },
+            {
+              "front": "Medicine reduces my high fever",
+              "back": "les médicaments réduisent ma forte fièvre"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "doctor checks the patient's vital signs",
+              "back": "le médecin vérifie les signes vitaux du patient"
+            },
+            {
+              "front": "She provides excellent care to patients",
+              "back": "elle fournit d&#39;excellents soins aux patients"
+            },
+            {
+              "front": "I take my prescribed medicine every day",
+              "back": "je prends mes médicaments prescrits tous les jours"
+            },
+            {
+              "front": "Bandage covers the deep open wound",
+              "back": "un bandage recouvre la plaie ouverte profonde"
+            },
+            {
+              "front": "His prescription requires immediate doctor approval",
+              "back": "sa prescription nécessite l&#39;approbation immédiate d&#39;un médecin"
+            },
+            {
+              "front": "The pill bottle remains tightly closed",
+              "back": "le flacon de pilules reste bien fermé"
+            },
+            {
+              "front": "She administers the vaccine flu injection",
+              "back": "elle administre l&#39;injection du vaccin contre la grippe"
+            },
+            {
+              "front": "The vaccine prevents a serious illness",
+              "back": "le vaccin prévient une maladie grave"
+            },
+            {
+              "front": "Therapy sessions help with long recovery",
+              "back": "les séances de thérapie aident à une longue convalescence"
+            },
+            {
+              "front": "The ambulance arrives quickly at the scene",
+              "back": "l&#39;ambulance arrive rapidement sur les lieux"
+            },
+            {
+              "front": "X-ray shows a clear bone fracture",
+              "back": "la radiographie montre une fracture osseuse claire"
+            },
+            {
+              "front": "The clinic accepts walk-in new patients",
+              "back": "la clinique accepte les nouveaux patients sans rendez-vous"
+            },
+            {
+              "front": "We visit the local hospital regularly",
+              "back": "nous visitons régulièrement l&#39;hôpital local"
+            },
+            {
+              "front": "Allergies cause many uncomfortable physical symptoms",
+              "back": "les allergies provoquent de nombreux symptômes physiques inconfortables"
+            },
+            {
+              "front": "The treatment reduces the intense pain",
+              "back": "le traitement réduit la douleur intense"
+            },
+            {
+              "front": "They perform life-saving surgery this morning",
+              "back": "ils effectuent une opération chirurgicale vitale ce matin"
+            },
+            {
+              "front": "The dentist cleans my teeth carefully",
+              "back": "le dentiste nettoie soigneusement mes dents"
+            },
+            {
+              "front": "His leg fracture needs a new cast",
+              "back": "sa fracture de la jambe nécessite un nouveau plâtre"
+            },
+            {
+              "front": "The thermometer checks his body temperature",
+              "back": "le thermomètre vérifie sa température corporelle"
+            },
+            {
+              "front": "Their diagnosis determines the proper treatment",
+              "back": "leur diagnostic détermine le traitement approprié"
+            },
+            {
+              "front": "Blood tests are needed for diagnosis",
+              "back": "des analyses de sang sont nécessaires pour le diagnostic"
+            },
+            {
+              "front": "A broken bone usually heals slowly",
+              "back": "un os cassé guérit généralement lentement"
+            },
+            {
+              "front": "She uses a motorized wheelchair daily",
+              "back": "elle utilise un fauteuil roulant motorisé quotidiennement"
+            },
+            {
+              "front": "Doctors perform a necessary heart surgery",
+              "back": "les médecins pratiquent une opération cardiaque nécessaire"
+            },
+            {
+              "front": "Medicine reduces my fever and headache",
+              "back": "les médicaments réduisent ma fièvre et mes maux de tête"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Was treated", "back": "a été traité" },
+            { "front": "Had wheelchair", "back": "avait un fauteuil roulant" },
+            { "front": "Received medicine", "back": "reçu des médicaments" },
+            { "front": "Felt pain", "back": "ressenti de la douleur" },
+            { "front": "Took injection", "back": "a pris une injection" },
+            {
+              "front": "Had surgery",
+              "back": "a subi une intervention chirurgicale"
+            },
+            { "front": "Got diagnosis", "back": "reçu un diagnostic" },
+            { "front": "Broke bone", "back": "os cassé" },
+            { "front": "Had fever", "back": "avait de la fièvre" },
+            { "front": "Used crutches", "back": "béquilles usagées" },
+            { "front": "Had checkup", "back": "a eu un bilan de santé" },
+            { "front": "Needed bandage", "back": "bandage nécessaire" },
+            { "front": "Felt better", "back": "je me sentais mieux" },
+            { "front": "Had X-ray", "back": "a eu une radiographie" },
+            { "front": "Took pill", "back": "a pris la pilule" },
+            { "front": "Suffered fracture", "back": "a subi une fracture" },
+            { "front": "Needed treatment", "back": "traitement nécessaire" },
+            { "front": "Had allergy", "back": "avait une allergie" },
+            { "front": "Bled heavily", "back": "saignait abondamment" },
+            { "front": "Saw dentist", "back": "vu le dentiste" },
+            { "front": "Received vaccine", "back": "reçu le vaccin" },
+            { "front": "Wore cast", "back": "portait un plâtre" },
+            {
+              "front": "Used thermometer",
+              "back": "thermomètre d&#39;occasion"
+            },
+            {
+              "front": "Got stitches",
+              "back": "j&#39;ai eu des points de suture"
+            },
+            { "front": "Visited hospital", "back": "visité l&#39;hôpital" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I was treated", "back": "j&#39;ai été traité" },
+            {
+              "front": "She had wheelchair",
+              "back": "elle était en fauteuil roulant"
+            },
+            {
+              "front": "He received medicine",
+              "back": "il a reçu des médicaments"
+            },
+            {
+              "front": "They felt pain",
+              "back": "ils ont ressenti de la douleur"
+            },
+            {
+              "front": "We took injection",
+              "back": "nous avons pris une injection"
+            },
+            { "front": "He had surgery", "back": "il a été opéré" },
+            {
+              "front": "Everyone got diagnosis",
+              "back": "tout le monde a reçu un diagnostic"
+            },
+            { "front": "I broke bone", "back": "je me suis cassé un os" },
+            {
+              "front": "Nobody had fever",
+              "back": "personne n&#39;avait de fièvre"
+            },
+            {
+              "front": "She used crutches",
+              "back": "elle utilisait des béquilles"
+            },
+            {
+              "front": "He had checkup",
+              "back": "il a eu un contrôle médical"
+            },
+            {
+              "front": "They needed bandage",
+              "back": "ils avaient besoin de bandages"
+            },
+            { "front": "I felt better", "back": "je me sentais mieux" },
+            { "front": "She had X-ray", "back": "elle a eu une radiographie" },
+            {
+              "front": "Everybody took pill",
+              "back": "tout le monde a pris la pilule"
+            },
+            {
+              "front": "He suffered fracture",
+              "back": "il a subi une fracture"
+            },
+            {
+              "front": "We needed treatment",
+              "back": "nous avions besoin d&#39;un traitement"
+            },
+            { "front": "I had allergy", "back": "j&#39;avais une allergie" },
+            { "front": "He bled heavily", "back": "il a saigné abondamment" },
+            { "front": "We saw dentist", "back": "nous avons vu un dentiste" },
+            {
+              "front": "They received vaccine",
+              "back": "ils ont reçu le vaccin"
+            },
+            { "front": "She wore cast", "back": "elle portait un plâtre" },
+            {
+              "front": "Everybody used thermometer",
+              "back": "tout le monde utilisait un thermomètre"
+            },
+            {
+              "front": "Nobody got stitches",
+              "back": "personne n&#39;a eu de points de suture"
+            },
+            {
+              "front": "I visited hospital",
+              "back": "j&#39;ai visité l&#39;hôpital"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I took my vaccine",
+              "back": "j&#39;ai pris mon vaccin"
+            },
+            {
+              "front": "They had medical treatment",
+              "back": "ils ont reçu un traitement médical"
+            },
+            {
+              "front": "He had many stitches",
+              "back": "il avait beaucoup de points de suture"
+            },
+            { "front": "She wore a cast", "back": "elle portait un plâtre" },
+            {
+              "front": "We received the prescription",
+              "back": "nous avons reçu l&#39;ordonnance"
+            },
+            {
+              "front": "He felt a sharp pain",
+              "back": "il a ressenti une vive douleur"
+            },
+            {
+              "front": "She received her checkup",
+              "back": "elle a reçu son bilan de santé"
+            },
+            {
+              "front": "They needed more medicine",
+              "back": "ils avaient besoin de plus de médicaments"
+            },
+            {
+              "front": "I had my surgery",
+              "back": "j&#39;ai subi mon opération"
+            },
+            {
+              "front": "Everyone had their vaccine",
+              "back": "tout le monde a eu son vaccin"
+            },
+            {
+              "front": "He broke his arm",
+              "back": "il s&#39;est cassé le bras"
+            },
+            {
+              "front": "She took the injection",
+              "back": "elle a pris l&#39;injection"
+            },
+            {
+              "front": "We saw the dentist",
+              "back": "nous avons vu le dentiste"
+            },
+            {
+              "front": "They wore heavy bandages",
+              "back": "ils portaient des bandages épais"
+            },
+            {
+              "front": "I needed more treatment",
+              "back": "j&#39;avais besoin de plus de traitement"
+            },
+            {
+              "front": "She had an allergy",
+              "back": "elle avait une allergie"
+            },
+            {
+              "front": "He suffered a fracture",
+              "back": "il a subi une fracture"
+            },
+            {
+              "front": "They bled after injuries",
+              "back": "ils ont saigné après des blessures"
+            },
+            {
+              "front": "Nobody had a fever",
+              "back": "personne n&#39;avait de fièvre"
+            },
+            {
+              "front": "He used a wheelchair",
+              "back": "il utilisait un fauteuil roulant"
+            },
+            {
+              "front": "I received medical attention",
+              "back": "j&#39;ai reçu des soins médicaux"
+            },
+            {
+              "front": "She visited the hospital",
+              "back": "elle a visité l&#39;hôpital"
+            },
+            {
+              "front": "They needed an X-ray",
+              "back": "ils avaient besoin d&#39;une radiographie"
+            },
+            {
+              "front": "He had his diagnosis",
+              "back": "il a eu son diagnostic"
+            },
+            {
+              "front": "Everybody got their stitches",
+              "back": "tout le monde a eu ses points de suture"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I took my vaccine yesterday",
+              "back": "j&#39;ai pris mon vaccin hier"
+            },
+            {
+              "front": "They had medical treatment yesterday",
+              "back": "ils ont reçu un traitement médical hier"
+            },
+            {
+              "front": "He had many stitches removed",
+              "back": "il a eu de nombreux points de suture retirés"
+            },
+            {
+              "front": "She wore a cast for months",
+              "back": "elle a porté un plâtre pendant des mois"
+            },
+            {
+              "front": "We received the prescription yesterday",
+              "back": "nous avons reçu l&#39;ordonnance hier"
+            },
+            {
+              "front": "He felt sharp pain earlier",
+              "back": "il a ressenti une douleur aiguë plus tôt"
+            },
+            {
+              "front": "She received her checkup yesterday",
+              "back": "elle a reçu son examen hier"
+            },
+            {
+              "front": "They needed more medicine afterward",
+              "back": "ils avaient besoin de plus de médicaments par la suite"
+            },
+            {
+              "front": "I had surgery last week",
+              "back": "j&#39;ai été opéré la semaine dernière"
+            },
+            {
+              "front": "Everyone had their vaccine yesterday",
+              "back": "tout le monde a eu son vaccin hier"
+            },
+            {
+              "front": "He broke his arm yesterday",
+              "back": "il s&#39;est cassé le bras hier"
+            },
+            {
+              "front": "She took the injection calmly",
+              "back": "elle a pris l&#39;injection calmement"
+            },
+            {
+              "front": "We saw the dentist yesterday",
+              "back": "nous avons vu le dentiste hier"
+            },
+            {
+              "front": "They wore heavy bandages yesterday",
+              "back": "ils portaient des bandages épais hier"
+            },
+            {
+              "front": "I needed treatment last week",
+              "back": "j&#39;ai eu besoin d&#39;un traitement la semaine dernière"
+            },
+            {
+              "front": "She had allergy last spring",
+              "back": "elle avait une allergie au printemps dernier"
+            },
+            {
+              "front": "He suffered fracture last winter",
+              "back": "il a subi une fracture l&#39;hiver dernier"
+            },
+            {
+              "front": "They bled after the injury",
+              "back": "ils ont saigné après la blessure"
+            },
+            {
+              "front": "Nobody had a fever yesterday",
+              "back": "personne n&#39;avait de fièvre hier"
+            },
+            {
+              "front": "He used a wheelchair yesterday",
+              "back": "il a utilisé un fauteuil roulant hier"
+            },
+            {
+              "front": "I received medical attention immediately",
+              "back": "j&#39;ai reçu des soins médicaux immédiatement"
+            },
+            {
+              "front": "She visited the hospital yesterday",
+              "back": "elle a visité l&#39;hôpital hier"
+            },
+            {
+              "front": "They needed an X-ray yesterday",
+              "back": "ils avaient besoin d&#39;une radio hier"
+            },
+            {
+              "front": "He had his diagnosis yesterday",
+              "back": "il a eu son diagnostic hier"
+            },
+            {
+              "front": "Everybody got stitches yesterday",
+              "back": "tout le monde a eu des points de suture hier"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I took my vaccine at home",
+              "back": "j&#39;ai pris mon vaccin à la maison"
+            },
+            {
+              "front": "They had medical treatment last week",
+              "back": "ils ont reçu un traitement médical la semaine dernière"
+            },
+            {
+              "front": "He had many stitches removed",
+              "back": "il a eu de nombreux points de suture retirés"
+            },
+            {
+              "front": "She wore a cast for months",
+              "back": "elle a porté un plâtre pendant des mois"
+            },
+            {
+              "front": "We received the prescription last night",
+              "back": "nous avons reçu l&#39;ordonnance hier soir"
+            },
+            {
+              "front": "He felt a sharp pain earlier",
+              "back": "il a ressenti une vive douleur plus tôt"
+            },
+            {
+              "front": "She received her checkup last year",
+              "back": "elle a reçu son examen médical l&#39;année dernière"
+            },
+            {
+              "front": "They needed more medicine after surgery",
+              "back": "ils avaient besoin de plus de médicaments après l&#39;opération"
+            },
+            {
+              "front": "I had my surgery last week",
+              "back": "j&#39;ai été opéré la semaine dernière"
+            },
+            {
+              "front": "Everyone had their vaccine on time",
+              "back": "tout le monde a reçu son vaccin à temps"
+            },
+            {
+              "front": "He broke his arm last month",
+              "back": "il s&#39;est cassé le bras le mois dernier"
+            },
+            {
+              "front": "She took the injection without pain",
+              "back": "elle a pris l&#39;injection sans douleur"
+            },
+            {
+              "front": "We saw the dentist this morning",
+              "back": "nous avons vu le dentiste ce matin"
+            },
+            {
+              "front": "They wore heavy bandages all week",
+              "back": "ils ont porté des bandages épais toute la semaine"
+            },
+            {
+              "front": "I needed more treatment last month",
+              "back": "j&#39;ai eu besoin de plus de traitement le mois dernier"
+            },
+            {
+              "front": "She had an allergy last spring",
+              "back": "elle a eu une allergie au printemps dernier"
+            },
+            {
+              "front": "He suffered a fracture last winter",
+              "back": "il a subi une fracture l&#39;hiver dernier"
+            },
+            {
+              "front": "They bled after the injury yesterday",
+              "back": "ils ont saigné après la blessure d&#39;hier"
+            },
+            {
+              "front": "Nobody had a fever that day",
+              "back": "personne n&#39;avait de fièvre ce jour-là"
+            },
+            {
+              "front": "He used a wheelchair last week",
+              "back": "il a utilisé un fauteuil roulant la semaine dernière"
+            },
+            {
+              "front": "I received medical attention immediately",
+              "back": "j&#39;ai reçu des soins médicaux immédiatement"
+            },
+            {
+              "front": "She visited the hospital last weekend",
+              "back": "elle a visité l&#39;hôpital le week-end dernier"
+            },
+            {
+              "front": "They needed an X-ray last week",
+              "back": "ils avaient besoin d&#39;une radio la semaine dernière"
+            },
+            {
+              "front": "He had his diagnosis two days ago",
+              "back": "il a eu son diagnostic il y a deux jours"
+            },
+            {
+              "front": "Everybody got their stitches yesterday",
+              "back": "tout le monde a eu ses points de suture hier"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will get surgery", "back": "va se faire opérer" },
+            {
+              "front": "Fever will set",
+              "back": "la fièvre va s&#39;installer"
+            },
+            {
+              "front": "Will use wheelchair",
+              "back": "utilisera un fauteuil roulant"
+            },
+            {
+              "front": "Stitches will hurt",
+              "back": "les points de suture vont faire mal"
+            },
+            {
+              "front": "Will need medicine",
+              "back": "aura besoin de médicaments"
+            },
+            {
+              "front": "Pain will subside",
+              "back": "la douleur va s&#39;atténuer"
+            },
+            { "front": "Will get injection", "back": "recevra une injection" },
+            {
+              "front": "Will need checkup",
+              "back": "aura besoin d&#39;un bilan de santé"
+            },
+            { "front": "Fracture will heal", "back": "la fracture guérira" },
+            {
+              "front": "Will need bandage",
+              "back": "aura besoin d&#39;un bandage"
+            },
+            { "front": "Will take vaccine", "back": "prendra le vaccin" },
+            { "front": "Blood will clot", "back": "le sang va coaguler" },
+            { "front": "Will break bone", "back": "va casser l&#39;os" },
+            {
+              "front": "Allergy will return",
+              "back": "l&#39;allergie reviendra"
+            },
+            { "front": "Will wear cast", "back": "portera un plâtre" },
+            { "front": "Will feel better", "back": "je me sentirai mieux" },
+            {
+              "front": "Will require treatment",
+              "back": "nécessitera un traitement"
+            },
+            { "front": "Will see dentist", "back": "je verrai un dentiste" },
+            {
+              "front": "Will visit hospital",
+              "back": "visiterai l&#39;hôpital"
+            },
+            {
+              "front": "Diagnosis will change",
+              "back": "le diagnostic va changer"
+            },
+            {
+              "front": "Will need prescription",
+              "back": "aura besoin d&#39;une ordonnance"
+            },
+            { "front": "Will take pills", "back": "prendra des pilules" },
+            {
+              "front": "Will get bandages",
+              "back": "je vais recevoir des bandages"
+            },
+            {
+              "front": "Will suffer fracture",
+              "back": "souffrira d&#39;une fracture"
+            },
+            {
+              "front": "Symptoms will worsen",
+              "back": "les symptômes vont s&#39;aggraver"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My symptoms will worsen",
+              "back": "mes symptômes vont s&#39;aggraver"
+            },
+            {
+              "front": "I need a wheelchair",
+              "back": "j&#39;ai besoin d&#39;un fauteuil roulant"
+            },
+            {
+              "front": "He needs more medicine",
+              "back": "il a besoin de plus de médicaments"
+            },
+            {
+              "front": "They will perform surgery",
+              "back": "ils effectueront une intervention chirurgicale"
+            },
+            {
+              "front": "She will need checkup",
+              "back": "elle aura besoin d&#39;un contrôle"
+            },
+            {
+              "front": "We will receive vaccine",
+              "back": "nous recevrons le vaccin"
+            },
+            { "front": "I will feel better", "back": "je me sentirai mieux" },
+            {
+              "front": "His fracture will heal",
+              "back": "sa fracture guérira"
+            },
+            {
+              "front": "She will require stitches",
+              "back": "elle aura besoin de points de suture"
+            },
+            { "front": "He will take pills", "back": "il prendra des pilules" },
+            {
+              "front": "They will visit hospital",
+              "back": "ils iront à l&#39;hôpital"
+            },
+            { "front": "I will break bone", "back": "je vais me casser un os" },
+            { "front": "Her fever will rise", "back": "sa fièvre va monter" },
+            {
+              "front": "The doctor will check",
+              "back": "le médecin vérifiera"
+            },
+            {
+              "front": "You will need medicine",
+              "back": "tu auras besoin de médicaments"
+            },
+            {
+              "front": "They will get bandages",
+              "back": "ils recevront des bandages"
+            },
+            {
+              "front": "We will need surgery",
+              "back": "nous aurons besoin d&#39;une intervention chirurgicale"
+            },
+            {
+              "front": "I will see dentist",
+              "back": "je vais voir un dentiste"
+            },
+            { "front": "He will wear cast", "back": "il portera un plâtre" },
+            {
+              "front": "Her diagnosis will change",
+              "back": "son diagnostic va changer"
+            },
+            {
+              "front": "Everyone will need treatment",
+              "back": "tout le monde aura besoin d&#39;un traitement"
+            },
+            {
+              "front": "He will feel pain",
+              "back": "il ressentira de la douleur"
+            },
+            {
+              "front": "She will require therapy",
+              "back": "elle aura besoin d&#39;une thérapie"
+            },
+            {
+              "front": "We will take vaccine",
+              "back": "nous allons nous faire vacciner"
+            },
+            {
+              "front": "They will need bandages",
+              "back": "ils auront besoin de bandages"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The doctor will perform treatment",
+              "back": "le médecin effectuera le traitement"
+            },
+            {
+              "front": "He will use that wheelchair",
+              "back": "il utilisera ce fauteuil roulant"
+            },
+            {
+              "front": "Everyone will need more medicine",
+              "back": "tout le monde aura besoin de plus de médicaments"
+            },
+            {
+              "front": "She will require physical therapy",
+              "back": "elle aura besoin de physiothérapie"
+            },
+            {
+              "front": "They will perform surgery tomorrow",
+              "back": "ils effectueront une opération demain"
+            },
+            {
+              "front": "I will break my arm",
+              "back": "je vais me casser le bras"
+            },
+            {
+              "front": "The nurse will take blood",
+              "back": "l&#39;infirmière va prendre du sang"
+            },
+            {
+              "front": "He will need a bandage",
+              "back": "il aura besoin d&#39;un bandage"
+            },
+            {
+              "front": "We will receive medical attention",
+              "back": "nous recevrons des soins médicaux"
+            },
+            {
+              "front": "She will feel much better",
+              "back": "elle se sentira beaucoup mieux"
+            },
+            {
+              "front": "I will take my medicine",
+              "back": "je prendrai mes médicaments"
+            },
+            {
+              "front": "They will visit the hospital",
+              "back": "ils visiteront l&#39;hôpital"
+            },
+            {
+              "front": "Her fever will rise quickly",
+              "back": "sa fièvre va monter rapidement"
+            },
+            {
+              "front": "The surgeon will fix injury",
+              "back": "le chirurgien réparera la blessure"
+            },
+            {
+              "front": "You will need a prescription",
+              "back": "vous aurez besoin d&#39;une ordonnance"
+            },
+            {
+              "front": "I will need more treatment",
+              "back": "j&#39;aurai besoin de plus de traitement"
+            },
+            {
+              "front": "The ambulance will arrive soon",
+              "back": "l&#39;ambulance arrivera bientôt"
+            },
+            {
+              "front": "We will take the vaccine",
+              "back": "nous prendrons le vaccin"
+            },
+            {
+              "front": "They will require medical assistance",
+              "back": "ils auront besoin d&#39;une assistance médicale"
+            },
+            {
+              "front": "I will suffer a fracture",
+              "back": "je vais souffrir d&#39;une fracture"
+            },
+            {
+              "front": "He will use the crutches",
+              "back": "il utilisera les béquilles"
+            },
+            {
+              "front": "She will wear a cast",
+              "back": "elle portera un plâtre"
+            },
+            {
+              "front": "The diagnosis will change everything",
+              "back": "le diagnostic va tout changer"
+            },
+            {
+              "front": "The patient will need stitches",
+              "back": "le patient aura besoin de points de suture"
+            },
+            {
+              "front": "We will see the dentist",
+              "back": "nous verrons le dentiste"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The doctor will perform surgery tomorrow",
+              "back": "le médecin effectuera une opération demain"
+            },
+            {
+              "front": "He will use that wheelchair later",
+              "back": "il utilisera ce fauteuil roulant plus tard"
+            },
+            {
+              "front": "Everyone will need more medicine soon",
+              "back": "tout le monde aura bientôt besoin de plus de médicaments"
+            },
+            {
+              "front": "She will require physical therapy daily",
+              "back": "elle aura besoin de physiothérapie quotidienne"
+            },
+            {
+              "front": "They will perform surgery next morning",
+              "back": "ils effectueront une opération chirurgicale le lendemain matin"
+            },
+            {
+              "front": "I will break my arm tomorrow",
+              "back": "je vais me casser le bras demain"
+            },
+            {
+              "front": "The nurse will take blood today",
+              "back": "l&#39;infirmière va prendre du sang aujourd&#39;hui"
+            },
+            {
+              "front": "He will need a bandage afterward",
+              "back": "il aura besoin d&#39;un bandage après"
+            },
+            {
+              "front": "We will receive medical attention soon",
+              "back": "nous recevrons bientôt des soins médicaux"
+            },
+            {
+              "front": "She will feel better by tomorrow",
+              "back": "elle se sentira mieux demain"
+            },
+            {
+              "front": "I will take my medicine tonight",
+              "back": "je prendrai mes médicaments ce soir"
+            },
+            {
+              "front": "They will visit the hospital tomorrow",
+              "back": "ils iront à l&#39;hôpital demain"
+            },
+            {
+              "front": "Her fever will rise by evening",
+              "back": "sa fièvre va monter d&#39;ici le soir"
+            },
+            {
+              "front": "The surgeon will fix the fracture",
+              "back": "le chirurgien réparera la fracture"
+            },
+            {
+              "front": "You will need a prescription soon",
+              "back": "vous aurez bientôt besoin d&#39;une ordonnance"
+            },
+            {
+              "front": "I will need more treatment soon",
+              "back": "j&#39;aurai bientôt besoin de plus de traitement"
+            },
+            {
+              "front": "The ambulance will arrive after call",
+              "back": "l&#39;ambulance arrivera après l&#39;appel"
+            },
+            {
+              "front": "We will take the vaccine tomorrow",
+              "back": "nous prendrons le vaccin demain"
+            },
+            {
+              "front": "They will require assistance after injury",
+              "back": "ils auront besoin d&#39;aide après une blessure"
+            },
+            {
+              "front": "I will suffer a fracture soon",
+              "back": "je vais bientôt souffrir d&#39;une fracture"
+            },
+            {
+              "front": "He will use the crutches tomorrow",
+              "back": "il utilisera les béquilles demain"
+            },
+            {
+              "front": "She will wear a cast soon",
+              "back": "elle portera bientôt un plâtre"
+            },
+            {
+              "front": "The diagnosis will change the treatment",
+              "back": "le diagnostic changera le traitement"
+            },
+            {
+              "front": "The patient will need stitches soon",
+              "back": "le patient aura bientôt besoin de points de suture"
+            },
+            {
+              "front": "We will see the dentist Thursday",
+              "back": "nous verrons le dentiste jeudi"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

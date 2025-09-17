@@ -1,0 +1,1053 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Vehicles",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Car", "back": "voiture" },
+            { "front": "Truck", "back": "camion" },
+            { "front": "Bus", "back": "bus" },
+            { "front": "Bicycle", "back": "vélo" },
+            { "front": "Motorcycle", "back": "moto" },
+            { "front": "Scooter", "back": "scooter" },
+            { "front": "Van", "back": "par" },
+            { "front": "Train", "back": "former" },
+            { "front": "Airplane", "back": "avion" },
+            { "front": "Boat", "back": "bateau" },
+            { "front": "Helicopter", "back": "hélicoptère" },
+            { "front": "Submarine", "back": "sous-marin" },
+            { "front": "Tram", "back": "tram" },
+            { "front": "Rickshaw", "back": "pousse-pousse" },
+            { "front": "Limo", "back": "limo" },
+            { "front": "Yacht", "back": "yacht" },
+            { "front": "Trolley", "back": "chariot" },
+            { "front": "Firetruck", "back": "camion de pompiers" },
+            { "front": "Taxi", "back": "Taxi" },
+            { "front": "Forklift", "back": "chariot élévateur" },
+            { "front": "Snowplow", "back": "chasse-neige" },
+            { "front": "Golf cart", "back": "voiturette de golf" },
+            { "front": "Tank", "back": "réservoir" },
+            { "front": "Monster truck", "back": "camion monstre" },
+            { "front": "Sailboat", "back": "voilier" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Fast car", "back": "voiture rapide" },
+            { "front": "Large truck", "back": "gros camion" },
+            { "front": "City bus", "back": "bus urbain" },
+            { "front": "Mountain bicycle", "back": "vélo de montagne" },
+            { "front": "Sport motorcycle", "back": "moto de sport" },
+            { "front": "Electric scooter", "back": "scooter électrique" },
+            { "front": "Family van", "back": "famille de" },
+            { "front": "Freight train", "back": "train de marchandises" },
+            { "front": "Private airplane", "back": "avion privé" },
+            { "front": "Fishing boat", "back": "bateau de pêche" },
+            {
+              "front": "Rescue helicopter",
+              "back": "hélicoptère de sauvetage"
+            },
+            { "front": "Nuclear submarine", "back": "sous-marin nucléaire" },
+            { "front": "City tram", "back": "tramway urbain" },
+            { "front": "Pedicab rickshaw", "back": "pousse-pousse" },
+            { "front": "Luxury limo", "back": "limousine de luxe" },
+            { "front": "Sailing yacht", "back": "voilier" },
+            { "front": "Tour trolley", "back": "chariot de tournée" },
+            { "front": "Fire rescue truck", "back": "camion de pompiers" },
+            { "front": "Yellow taxi", "back": "taxi jaune" },
+            { "front": "Heavy forklift", "back": "chariot élévateur lourd" },
+            { "front": "Snow removal plow", "back": "chasse-neige" },
+            { "front": "Small golf cart", "back": "petite voiturette de golf" },
+            { "front": "Military tank", "back": "char militaire" },
+            { "front": "Monster truck", "back": "camion monstre" },
+            { "front": "Sailboat yacht", "back": "voilier" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Large freight train",
+              "back": "grand train de marchandises"
+            },
+            { "front": "A military tank", "back": "un char militaire" },
+            { "front": "Small fishing boat", "back": "petit bateau de pêche" },
+            { "front": "Fast sports car", "back": "voiture de sport rapide" },
+            {
+              "front": "New electric scooter",
+              "back": "nouveau scooter électrique"
+            },
+            {
+              "front": "Old family van",
+              "back": "vieille camionnette familiale"
+            },
+            {
+              "front": "High-speed airplane",
+              "back": "avion à grande vitesse"
+            },
+            {
+              "front": "Comfortable city bus",
+              "back": "bus urbain confortable"
+            },
+            { "front": "Heavy-duty truck", "back": "camion lourd" },
+            {
+              "front": "Bright red firetruck",
+              "back": "camion de pompiers rouge vif"
+            },
+            {
+              "front": "Luxury limousine service",
+              "back": "service de limousine de luxe"
+            },
+            {
+              "front": "Tourist sightseeing trolley",
+              "back": "chariot touristique"
+            },
+            {
+              "front": "Sleek motorcycle model",
+              "back": "modèle de moto élégant"
+            },
+            { "front": "Wide-body jet", "back": "jet à fuselage large" },
+            { "front": "Vibrant yellow taxi", "back": "taxi jaune vibrant" },
+            {
+              "front": "Classic convertible car",
+              "back": "voiture décapotable classique"
+            },
+            { "front": "Small compact car", "back": "petite voiture compacte" },
+            {
+              "front": "Fishing charter boat",
+              "back": "bateau de pêche charter"
+            },
+            {
+              "front": "Quiet hybrid vehicle",
+              "back": "véhicule hybride silencieux"
+            },
+            {
+              "front": "Luxury sports car",
+              "back": "voiture de sport de luxe"
+            },
+            {
+              "front": "Bumpy off-road vehicle",
+              "back": "véhicule tout-terrain cahoteux"
+            },
+            { "front": "Bright blue motorcycle", "back": "moto bleu vif" },
+            { "front": "Long cargo ship", "back": "long cargo" },
+            {
+              "front": "Fast electric bicycle",
+              "back": "vélo électrique rapide"
+            },
+            { "front": "Modern city tram", "back": "tramway urbain moderne" },
+            { "front": "Sleek racing yacht", "back": "yacht de course élégant" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I drive a truck", "back": "je conduis un camion" },
+            { "front": "She rides a bicycle", "back": "elle fait du vélo" },
+            { "front": "They take the bus", "back": "ils prennent le bus" },
+            { "front": "He owns a car", "back": "il possède une voiture" },
+            { "front": "We fly an airplane", "back": "nous pilotons un avion" },
+            {
+              "front": "The family enjoys their van",
+              "back": "la famille profite de sa camionnette"
+            },
+            { "front": "He rides a scooter", "back": "il conduit un scooter" },
+            { "front": "I spot a train", "back": "j&#39;aperçois un train" },
+            {
+              "front": "They sail a boat",
+              "back": "ils naviguent sur un bateau"
+            },
+            { "front": "She drives a taxi", "back": "elle conduit un taxi" },
+            {
+              "front": "We watch a firetruck",
+              "back": "nous regardons un camion de pompiers"
+            },
+            {
+              "front": "He uses a forklift",
+              "back": "il utilise un chariot élévateur"
+            },
+            { "front": "I ride a motorcycle", "back": "je conduis une moto" },
+            { "front": "They catch a ferry", "back": "ils prennent un ferry" },
+            { "front": "She parks a limo", "back": "elle gare une limousine" },
+            { "front": "He drives a cart", "back": "il conduit une charrette" },
+            { "front": "We see a tram", "back": "nous voyons un tramway" },
+            { "front": "I love my SUV", "back": "j&#39;adore mon SUV" },
+            {
+              "front": "They drive a minivan",
+              "back": "ils conduisent une mini-fourgonnette"
+            },
+            { "front": "She operates a bus", "back": "elle conduit un bus" },
+            {
+              "front": "He repairs a motorcycle",
+              "back": "il répare une moto"
+            },
+            { "front": "We ride in style", "back": "nous roulons avec style" },
+            { "front": "I drive a sedan", "back": "je conduis une berline" },
+            {
+              "front": "They enjoy a ride",
+              "back": "ils apprécient une balade"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I drive a large truck",
+              "back": "je conduis un gros camion"
+            },
+            {
+              "front": "She rides a fast bicycle",
+              "back": "elle fait du vélo rapide"
+            },
+            {
+              "front": "They take the city bus",
+              "back": "ils prennent le bus de la ville"
+            },
+            {
+              "front": "He owns a classic car",
+              "back": "il possède une voiture classique"
+            },
+            {
+              "front": "We fly in a private jet",
+              "back": "nous volons en jet privé"
+            },
+            {
+              "front": "The family enjoys their minivan",
+              "back": "la famille profite de sa minifourgonnette"
+            },
+            {
+              "front": "She drives a bright scooter",
+              "back": "elle conduit un scooter lumineux"
+            },
+            {
+              "front": "He operates a heavy forklift",
+              "back": "il conduit un chariot élévateur lourd"
+            },
+            {
+              "front": "They sail on a yacht",
+              "back": "ils naviguent sur un yacht"
+            },
+            {
+              "front": "I ride a motorcycle daily",
+              "back": "je conduis une moto tous les jours"
+            },
+            {
+              "front": "We board the fishing boat",
+              "back": "nous embarquons sur le bateau de pêche"
+            },
+            {
+              "front": "She drives a red convertible",
+              "back": "elle conduit une décapotable rouge"
+            },
+            {
+              "front": "He uses a delivery van",
+              "back": "il utilise une camionnette de livraison"
+            },
+            {
+              "front": "I spot a military tank",
+              "back": "j&#39;aperçois un char militaire"
+            },
+            {
+              "front": "They drive an electric car",
+              "back": "ils conduisent une voiture électrique"
+            },
+            {
+              "front": "We watch the freight train",
+              "back": "nous regardons le train de marchandises"
+            },
+            {
+              "front": "She rides a city tram",
+              "back": "elle prend le tramway de la ville"
+            },
+            {
+              "front": "He repairs the old bicycle",
+              "back": "il répare le vieux vélo"
+            },
+            {
+              "front": "I parked the yellow taxi",
+              "back": "j&#39;ai garé le taxi jaune"
+            },
+            {
+              "front": "They enjoyed a boat ride",
+              "back": "ils ont profité d&#39;une promenade en bateau"
+            },
+            {
+              "front": "We see the firetruck responding",
+              "back": "nous voyons le camion de pompiers intervenir"
+            },
+            {
+              "front": "He drives a compact car",
+              "back": "il conduit une voiture compacte"
+            },
+            {
+              "front": "She watches the airplane land",
+              "back": "elle regarde l&#39;avion atterrir"
+            },
+            {
+              "front": "I admire the sleek motorcycle",
+              "back": "j&#39;admire la moto élégante"
+            },
+            {
+              "front": "They enjoy the comfortable limo",
+              "back": "ils apprécient la limousine confortable"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I drive my red sports car",
+              "back": "je conduis ma voiture de sport rouge"
+            },
+            {
+              "front": "He rides a new bicycle now",
+              "back": "il conduit un nouveau vélo maintenant"
+            },
+            {
+              "front": "They take the bus to school",
+              "back": "ils prennent le bus pour aller à l&#39;école"
+            },
+            {
+              "front": "She loves her classic convertible car",
+              "back": "elle adore sa voiture décapotable classique"
+            },
+            {
+              "front": "We fly on a private airplane",
+              "back": "nous volons dans un avion privé"
+            },
+            {
+              "front": "The family enjoys their large van",
+              "back": "la famille profite de sa grande camionnette"
+            },
+            {
+              "front": "He rides his fast motorcycle daily",
+              "back": "il conduit sa moto rapide tous les jours"
+            },
+            {
+              "front": "I see the big freight train",
+              "back": "je vois le gros train de marchandises"
+            },
+            {
+              "front": "They sail on a fishing boat",
+              "back": "ils naviguent sur un bateau de pêche"
+            },
+            {
+              "front": "She drives a bright yellow taxi",
+              "back": "elle conduit un taxi jaune vif"
+            },
+            {
+              "front": "We watch the firetruck go by",
+              "back": "nous regardons le camion de pompiers passer"
+            },
+            {
+              "front": "He owns a heavy-duty truck",
+              "back": "il possède un camion lourd"
+            },
+            {
+              "front": "She rides her electric scooter everywhere",
+              "back": "elle conduit son scooter électrique partout"
+            },
+            {
+              "front": "I park my old minivan here",
+              "back": "je gare mon vieux monospace ici"
+            },
+            {
+              "front": "They repair the delivery van today",
+              "back": "ils réparent la camionnette de livraison aujourd&#39;hui"
+            },
+            {
+              "front": "He admires the racing yacht's design",
+              "back": "il admire le design du yacht de course"
+            },
+            {
+              "front": "We see a bright red firetruck",
+              "back": "nous voyons un camion de pompiers rouge vif"
+            },
+            {
+              "front": "She loves her new electric car",
+              "back": "elle adore sa nouvelle voiture électrique"
+            },
+            {
+              "front": "I spot a military tank nearby",
+              "back": "j&#39;aperçois un char militaire à proximité"
+            },
+            {
+              "front": "They enjoy a ride on the tram",
+              "back": "ils apprécient une balade en tramway"
+            },
+            {
+              "front": "He rides his scooter in style",
+              "back": "il conduit son scooter avec style"
+            },
+            {
+              "front": "We watch the airplane take off",
+              "back": "nous regardons l&#39;avion décoller"
+            },
+            {
+              "front": "She operates a busy taxi service",
+              "back": "elle exploite un service de taxi très fréquenté"
+            },
+            {
+              "front": "I drive my family to work",
+              "back": "je conduis ma famille au travail"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Drove truck", "back": "conduit un camion" },
+            { "front": "Rode bicycle", "back": "fait du vélo" },
+            { "front": "Took bus", "back": "pris le bus" },
+            { "front": "Owned car", "back": "voiture possédée" },
+            { "front": "Flew airplane", "back": "piloté un avion" },
+            { "front": "Enjoyed van", "back": "van apprécié" },
+            { "front": "Rode scooter", "back": "faire du scooter" },
+            { "front": "Spotted train", "back": "train repéré" },
+            { "front": "Sailed boat", "back": "bateau à voile" },
+            { "front": "Drove taxi", "back": "conduit un taxi" },
+            {
+              "front": "Saw firetruck",
+              "back": "j&#39;ai vu un camion de pompiers"
+            },
+            {
+              "front": "Used forklift",
+              "back": "chariot élévateur d&#39;occasion"
+            },
+            { "front": "Rode motorcycle", "back": "fait de la moto" },
+            { "front": "Caught ferry", "back": "ferry pris" },
+            { "front": "Parked limo", "back": "limousine garée" },
+            { "front": "Drove cart", "back": "conduit le chariot" },
+            { "front": "Saw tram", "back": "scie à tramway" },
+            { "front": "Loved SUV", "back": "j&#39;ai adoré le SUV" },
+            {
+              "front": "Drove minivan",
+              "back": "conduit une minifourgonnette"
+            },
+            { "front": "Operated bus", "back": "bus exploité" },
+            { "front": "Repaired motorcycle", "back": "moto réparée" },
+            { "front": "Rode in style", "back": "roulé avec style" },
+            { "front": "Drove sedan", "back": "conduit alors" },
+            { "front": "Enjoyed ride", "back": "J&#39;ai apprécié la balade" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "The truck drove fast",
+              "back": "le camion roulait vite"
+            },
+            {
+              "front": "She rode bicycle yesterday",
+              "back": "elle a fait du vélo hier"
+            },
+            { "front": "The bus left early", "back": "le bus est parti tôt" },
+            { "front": "He owned a car", "back": "il possédait une voiture" },
+            {
+              "front": "They flew airplane yesterday",
+              "back": "ils ont piloté un avion hier"
+            },
+            {
+              "front": "We enjoyed the van",
+              "back": "nous avons apprécié la camionnette"
+            },
+            {
+              "front": "He rode scooter quickly",
+              "back": "il a conduit rapidement le scooter"
+            },
+            {
+              "front": "They spotted the train",
+              "back": "ils ont repéré le train"
+            },
+            { "front": "The boat sailed", "back": "le bateau a navigué" },
+            { "front": "She drove taxi", "back": "elle conduisait un taxi" },
+            {
+              "front": "I saw firetruck",
+              "back": "J&#39;ai vu un camion de pompiers."
+            },
+            {
+              "front": "He used forklift",
+              "back": "il a utilisé un chariot élévateur"
+            },
+            {
+              "front": "They rode motorcycle",
+              "back": "ils ont fait de la moto"
+            },
+            { "front": "We caught ferry", "back": "nous avons pris le ferry" },
+            { "front": "She parked limo", "back": "elle a garé la limousine" },
+            { "front": "He drove cart", "back": "il conduisait une charrette" },
+            { "front": "We saw tram", "back": "nous avons vu le tramway" },
+            { "front": "I loved SUV", "back": "j&#39;ai adoré le SUV" },
+            {
+              "front": "They drove minivan",
+              "back": "ils conduisaient une mini-fourgonnette"
+            },
+            { "front": "He operated bus", "back": "il conduisait un bus" },
+            {
+              "front": "She repaired motorcycle",
+              "back": "elle a réparé une moto"
+            },
+            { "front": "I rode taxi", "back": "j&#39;ai pris un taxi" },
+            {
+              "front": "They drove sedan",
+              "back": "ils conduisaient une berline"
+            },
+            {
+              "front": "We enjoyed ride",
+              "back": "nous avons apprécié la balade"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "The truck drove fast",
+              "back": "le camion roulait vite"
+            },
+            {
+              "front": "She rode bicycle yesterday",
+              "back": "elle a fait du vélo hier"
+            },
+            { "front": "The bus left early", "back": "le bus est parti tôt" },
+            { "front": "He owned a car", "back": "il possédait une voiture" },
+            {
+              "front": "They flew airplane yesterday",
+              "back": "ils ont piloté un avion hier"
+            },
+            {
+              "front": "We enjoyed the van",
+              "back": "nous avons apprécié la camionnette"
+            },
+            {
+              "front": "He rode scooter quickly",
+              "back": "il a conduit rapidement le scooter"
+            },
+            {
+              "front": "They spotted the train",
+              "back": "ils ont repéré le train"
+            },
+            { "front": "The boat sailed", "back": "le bateau a navigué" },
+            { "front": "She drove taxi", "back": "elle conduisait un taxi" },
+            {
+              "front": "I saw firetruck",
+              "back": "J&#39;ai vu un camion de pompiers."
+            },
+            {
+              "front": "He used forklift",
+              "back": "il a utilisé un chariot élévateur"
+            },
+            {
+              "front": "They rode motorcycle",
+              "back": "ils ont fait de la moto"
+            },
+            { "front": "We caught ferry", "back": "nous avons pris le ferry" },
+            { "front": "She parked limo", "back": "elle a garé la limousine" },
+            { "front": "He drove cart", "back": "il conduisait une charrette" },
+            { "front": "We saw tram", "back": "nous avons vu le tramway" },
+            { "front": "I loved SUV", "back": "j&#39;ai adoré le SUV" },
+            {
+              "front": "They drove minivan",
+              "back": "ils conduisaient une mini-fourgonnette"
+            },
+            { "front": "He operated bus", "back": "il conduisait un bus" },
+            {
+              "front": "She repaired motorcycle",
+              "back": "elle a réparé une moto"
+            },
+            { "front": "I rode taxi", "back": "j&#39;ai pris un taxi" },
+            {
+              "front": "They drove sedan",
+              "back": "ils conduisaient une berline"
+            },
+            {
+              "front": "We enjoyed ride",
+              "back": "nous avons apprécié la balade"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I drove the truck",
+              "back": "j&#39;ai conduit le camion"
+            },
+            { "front": "He rode the bicycle", "back": "il a fait du vélo" },
+            { "front": "They took the bus", "back": "ils ont pris le bus" },
+            {
+              "front": "She owned a car",
+              "back": "elle possédait une voiture"
+            },
+            {
+              "front": "We flew an airplane",
+              "back": "nous avons piloté un avion"
+            },
+            {
+              "front": "He enjoyed the van",
+              "back": "il a apprécié la camionnette"
+            },
+            {
+              "front": "I rode my scooter",
+              "back": "j&#39;ai conduit mon scooter"
+            },
+            {
+              "front": "They spotted the train",
+              "back": "ils ont repéré le train"
+            },
+            {
+              "front": "We sailed the boat",
+              "back": "nous avons navigué sur le bateau"
+            },
+            { "front": "She drove the taxi", "back": "elle a conduit le taxi" },
+            {
+              "front": "I saw the firetruck",
+              "back": "j&#39;ai vu le camion de pompiers"
+            },
+            {
+              "front": "He used the forklift",
+              "back": "il a utilisé le chariot élévateur"
+            },
+            {
+              "front": "They rode the motorcycle",
+              "back": "ils ont conduit la moto"
+            },
+            {
+              "front": "We caught the ferry",
+              "back": "nous avons pris le ferry"
+            },
+            {
+              "front": "She parked the limo",
+              "back": "elle a garé la limousine"
+            },
+            {
+              "front": "He drove the cart",
+              "back": "il conduisait la charrette"
+            },
+            { "front": "I saw the tram", "back": "j&#39;ai vu le tram" },
+            {
+              "front": "They loved their SUV",
+              "back": "ils aimaient leur SUV"
+            },
+            {
+              "front": "We drove the minivan",
+              "back": "nous avons conduit le monospace"
+            },
+            { "front": "He operated the bus", "back": "il conduisait le bus" },
+            {
+              "front": "She repaired the motorcycle",
+              "back": "elle a réparé la moto"
+            },
+            { "front": "I rode in style", "back": "j&#39;ai roulé avec style" },
+            {
+              "front": "They drove the sedan",
+              "back": "ils ont conduit la berline"
+            },
+            {
+              "front": "We enjoyed the ride",
+              "back": "nous avons apprécié la balade"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I drove my big truck",
+              "back": "j&#39;ai conduit mon gros camion"
+            },
+            {
+              "front": "She rode her bicycle yesterday",
+              "back": "elle a fait du vélo hier"
+            },
+            {
+              "front": "They took the city bus",
+              "back": "ils ont pris le bus de la ville"
+            },
+            {
+              "front": "He owned a classic car",
+              "back": "il possédait une voiture classique"
+            },
+            {
+              "front": "We flew on an airplane",
+              "back": "nous avons pris l&#39;avion"
+            },
+            {
+              "front": "The family enjoyed their minivan",
+              "back": "la famille a apprécié leur minivan"
+            },
+            {
+              "front": "He rode a fast scooter",
+              "back": "il conduisait un scooter rapide"
+            },
+            {
+              "front": "I spotted a long train",
+              "back": "j&#39;ai repéré un long train"
+            },
+            {
+              "front": "They sailed a fishing boat",
+              "back": "ils ont navigué sur un bateau de pêche"
+            },
+            {
+              "front": "She drove a bright taxi",
+              "back": "elle conduisait un taxi lumineux"
+            },
+            {
+              "front": "We saw a red firetruck",
+              "back": "nous avons vu un camion de pompiers rouge"
+            },
+            {
+              "front": "He used a heavy forklift",
+              "back": "il a utilisé un chariot élévateur lourd"
+            },
+            {
+              "front": "I rode a cool motorcycle",
+              "back": "j&#39;ai conduit une moto cool"
+            },
+            {
+              "front": "They caught the morning ferry",
+              "back": "ils ont pris le ferry du matin"
+            },
+            {
+              "front": "She parked the yellow limo",
+              "back": "elle a garé la limousine jaune"
+            },
+            {
+              "front": "He drove the delivery cart",
+              "back": "il conduisait le chariot de livraison"
+            },
+            {
+              "front": "We saw a busy tram",
+              "back": "nous avons vu un tramway très fréquenté"
+            },
+            {
+              "front": "I loved my new SUV",
+              "back": "j&#39;ai adoré mon nouveau SUV"
+            },
+            {
+              "front": "They drove a large minivan",
+              "back": "ils conduisaient une grande fourgonnette"
+            },
+            {
+              "front": "She operated the school bus",
+              "back": "elle conduisait le bus scolaire"
+            },
+            {
+              "front": "I repaired the old motorcycle",
+              "back": "j&#39;ai réparé la vieille moto"
+            },
+            {
+              "front": "We rode in a taxi",
+              "back": "nous sommes montés dans un taxi"
+            },
+            {
+              "front": "He drove a small sedan",
+              "back": "il conduisait une petite berline"
+            },
+            {
+              "front": "They enjoyed the long ride",
+              "back": "ils ont apprécié le long voyage"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will drive truck", "back": "conduira un camion" },
+            { "front": "Will ride bicycle", "back": "fera du vélo" },
+            { "front": "Will take bus", "back": "prendra le bus" },
+            { "front": "Will own car", "back": "possédera une voiture" },
+            { "front": "Will fly airplane", "back": "pilotera un avion" },
+            { "front": "Will enjoy van", "back": "appréciera la camionnette" },
+            { "front": "Will ride scooter", "back": "fera du scooter" },
+            { "front": "Will spot train", "back": "repérera le train" },
+            { "front": "Will sail boat", "back": "fera du bateau à voile" },
+            { "front": "Will drive taxi", "back": "conduira un taxi" },
+            {
+              "front": "Will see firetruck",
+              "back": "verra un camion de pompiers"
+            },
+            {
+              "front": "Will use forklift",
+              "back": "utilisera un chariot élévateur"
+            },
+            { "front": "Will ride motorcycle", "back": "fera de la moto" },
+            { "front": "Will catch ferry", "back": "prendra le ferry" },
+            { "front": "Will park limo", "back": "garera la limousine" },
+            { "front": "Will drive cart", "back": "conduira le chariot" },
+            { "front": "Will see tram", "back": "verra le tram" },
+            { "front": "Will love SUV", "back": "j&#39;adorerai le SUV" },
+            {
+              "front": "Will drive minivan",
+              "back": "conduira une minifourgonnette"
+            },
+            { "front": "Will operate bus", "back": "exploitera le bus" },
+            { "front": "Will repair motorcycle", "back": "réparera la moto" },
+            { "front": "Will ride taxi", "back": "prendra un taxi" },
+            { "front": "Will drive sedan", "back": "conduira une berline" },
+            { "front": "Will enjoy ride", "back": "apprécieront la balade" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "Will drive the truck", "back": "conduira le camion" },
+            { "front": "Will ride the bicycle", "back": "fera du vélo" },
+            { "front": "Will take the bus", "back": "prendra le bus" },
+            { "front": "Will own a car", "back": "possédera une voiture" },
+            { "front": "Will fly an airplane", "back": "pilotera un avion" },
+            {
+              "front": "Will enjoy the van",
+              "back": "apprécieront la camionnette"
+            },
+            { "front": "Will ride the scooter", "back": "conduira le scooter" },
+            { "front": "Will spot the train", "back": "repérera le train" },
+            {
+              "front": "Will sail the boat",
+              "back": "fera naviguer le bateau"
+            },
+            { "front": "Will drive the taxi", "back": "conduira le taxi" },
+            {
+              "front": "Will see the firetruck",
+              "back": "verra le camion de pompiers"
+            },
+            {
+              "front": "Will use the forklift",
+              "back": "utilisera le chariot élévateur"
+            },
+            { "front": "Will ride the motorcycle", "back": "conduira la moto" },
+            { "front": "Will catch the ferry", "back": "prendra le ferry" },
+            { "front": "Will park the limo", "back": "garera la limousine" },
+            { "front": "Will drive the cart", "back": "conduira le chariot" },
+            { "front": "Will see the tram", "back": "verra le tram" },
+            { "front": "Will love the SUV", "back": "j&#39;adorerai le SUV" },
+            {
+              "front": "Will drive the minivan",
+              "back": "conduira la minifourgonnette"
+            },
+            { "front": "Will operate the bus", "back": "exploitera le bus" },
+            {
+              "front": "Will repair the motorcycle",
+              "back": "réparera la moto"
+            },
+            { "front": "Will ride the taxi", "back": "prendra le taxi" },
+            { "front": "Will drive the sedan", "back": "conduira la berline" },
+            { "front": "Will enjoy the ride", "back": "apprécieront la balade" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will drive my truck",
+              "back": "je conduirai mon camion"
+            },
+            {
+              "front": "She will ride her bicycle",
+              "back": "elle fera du vélo"
+            },
+            {
+              "front": "They will take the bus",
+              "back": "ils prendront le bus"
+            },
+            {
+              "front": "He will own a car",
+              "back": "il possédera une voiture"
+            },
+            {
+              "front": "We will fly an airplane",
+              "back": "nous piloterons un avion"
+            },
+            {
+              "front": "I will enjoy the van",
+              "back": "je vais profiter du van"
+            },
+            {
+              "front": "He will ride a scooter",
+              "back": "il conduira un scooter"
+            },
+            {
+              "front": "They will spot the train",
+              "back": "ils repéreront le train"
+            },
+            {
+              "front": "We will sail a boat",
+              "back": "nous allons naviguer sur un bateau"
+            },
+            {
+              "front": "She will drive the taxi",
+              "back": "elle conduira le taxi"
+            },
+            {
+              "front": "I will see the firetruck",
+              "back": "je verrai le camion de pompiers"
+            },
+            {
+              "front": "He will use the forklift",
+              "back": "il utilisera le chariot élévateur"
+            },
+            {
+              "front": "They will ride the motorcycle",
+              "back": "ils conduiront la moto"
+            },
+            {
+              "front": "We will catch the ferry",
+              "back": "nous prendrons le ferry"
+            },
+            {
+              "front": "She will park the limo",
+              "back": "elle garera la limousine"
+            },
+            {
+              "front": "He will drive the cart",
+              "back": "il conduira la charrette"
+            },
+            { "front": "We will see the tram", "back": "nous verrons le tram" },
+            { "front": "I will love my SUV", "back": "j&#39;adorerai mon SUV" },
+            {
+              "front": "They will drive the minivan",
+              "back": "ils conduiront la minifourgonnette"
+            },
+            {
+              "front": "He will operate the bus",
+              "back": "il conduira le bus"
+            },
+            {
+              "front": "She will repair the motorcycle",
+              "back": "elle réparera la moto"
+            },
+            { "front": "I will ride the taxi", "back": "je prendrai le taxi" },
+            {
+              "front": "They will drive the sedan",
+              "back": "ils conduiront la berline"
+            },
+            {
+              "front": "We will enjoy the ride",
+              "back": "nous allons profiter du voyage"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will drive my red truck",
+              "back": "je conduirai mon camion rouge"
+            },
+            {
+              "front": "She will ride her bicycle daily",
+              "back": "elle fera du vélo tous les jours"
+            },
+            {
+              "front": "They will take the city bus",
+              "back": "ils prendront le bus de la ville"
+            },
+            {
+              "front": "He will own a classic car",
+              "back": "il possédera une voiture classique"
+            },
+            {
+              "front": "We will fly on a private airplane",
+              "back": "nous volerons dans un avion privé"
+            },
+            {
+              "front": "The family will enjoy their van",
+              "back": "la famille appréciera son van"
+            },
+            {
+              "front": "He will ride his scooter quickly",
+              "back": "il conduira rapidement son scooter"
+            },
+            {
+              "front": "I will spot the long train",
+              "back": "je repérerai le long train"
+            },
+            {
+              "front": "They will sail the fishing boat",
+              "back": "ils navigueront sur le bateau de pêche"
+            },
+            {
+              "front": "She will drive the bright taxi",
+              "back": "elle conduira le taxi lumineux"
+            },
+            {
+              "front": "We will see the red firetruck",
+              "back": "nous verrons le camion de pompiers rouge"
+            },
+            {
+              "front": "He will use the heavy forklift",
+              "back": "il utilisera le chariot élévateur lourd"
+            },
+            {
+              "front": "I will ride a cool motorcycle",
+              "back": "je conduirai une moto cool"
+            },
+            {
+              "front": "They will catch the morning ferry",
+              "back": "ils prendront le ferry du matin"
+            },
+            {
+              "front": "She will park the yellow limo",
+              "back": "elle garera la limousine jaune"
+            },
+            {
+              "front": "He will drive the delivery cart",
+              "back": "il conduira le chariot de livraison"
+            },
+            {
+              "front": "We will see a busy tram",
+              "back": "nous verrons un tramway très fréquenté"
+            },
+            {
+              "front": "I will love my new SUV",
+              "back": "j&#39;adorerai mon nouveau SUV"
+            },
+            {
+              "front": "They will drive the large minivan",
+              "back": "ils conduiront la grande fourgonnette"
+            },
+            {
+              "front": "He will operate the school bus",
+              "back": "il conduira le bus scolaire"
+            },
+            {
+              "front": "She will repair my motorcycle today",
+              "back": "elle réparera ma moto aujourd&#39;hui"
+            },
+            { "front": "I will ride in a taxi", "back": "je prendrai un taxi" },
+            {
+              "front": "They will drive a small sedan",
+              "back": "ils conduiront une petite berline"
+            },
+            {
+              "front": "We will enjoy the long ride",
+              "back": "nous profiterons du long voyage"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

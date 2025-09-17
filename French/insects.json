@@ -1,0 +1,1318 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Insects",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Ant", "back": "sur" },
+            { "front": "Bee", "back": "abeille" },
+            { "front": "Beetle", "back": "scarabée" },
+            { "front": "Butterfly", "back": "papillon" },
+            { "front": "Moth", "back": "papillon de nuit" },
+            { "front": "Fly", "back": "voler" },
+            { "front": "Mosquito", "back": "moustique" },
+            { "front": "Grasshopper", "back": "sauterelle" },
+            { "front": "Cricket", "back": "cricket" },
+            { "front": "Ladybug", "back": "coccinelle" },
+            { "front": "Wasp", "back": "guêpe" },
+            { "front": "Dragonfly", "back": "libellule" },
+            { "front": "Spider", "back": "araignée" },
+            { "front": "Termite", "back": "termite" },
+            { "front": "Flea", "back": "puce" },
+            { "front": "Tick", "back": "cocher" },
+            { "front": "Cockroach", "back": "cafard" },
+            { "front": "Firefly", "back": "luciole" },
+            { "front": "Caterpillar", "back": "chenille" },
+            { "front": "Earwig", "back": "perce-oreille" },
+            { "front": "Centipede", "back": "mille-pattes" },
+            { "front": "Millipede", "back": "mille-pattes" },
+            { "front": "Scarab", "back": "scarabée" },
+            { "front": "Praying mantis", "back": "mante religieuse" },
+            { "front": "Hornet", "back": "frelon" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Busy ant", "back": "fourmi occupée" },
+            { "front": "Flying bee", "back": "abeille volante" },
+            { "front": "Small beetle", "back": "petit coléoptère" },
+            { "front": "Colorful butterfly", "back": "papillon coloré" },
+            { "front": "Nocturnal moth", "back": "papillon nocturne" },
+            { "front": "Annoying fly", "back": "mouche agaçante" },
+            { "front": "Buzzing mosquito", "back": "moustique bourdonnant" },
+            { "front": "Jumping grasshopper", "back": "sauterelle sauteuse" },
+            { "front": "Loud cricket", "back": "grillon bruyant" },
+            { "front": "Spotted ladybug", "back": "coccinelle tachetée" },
+            { "front": "Aggressive wasp", "back": "guêpe agressive" },
+            { "front": "Fast dragonfly", "back": "libellule rapide" },
+            { "front": "Creepy spider", "back": "araignée effrayante" },
+            { "front": "Destructive termite", "back": "termite destructrice" },
+            { "front": "Tiny flea", "back": "petite puce" },
+            { "front": "Dangerous tick", "back": "tique dangereuse" },
+            { "front": "Dirty cockroach", "back": "cafard sale" },
+            { "front": "Glowing firefly", "back": "luciole lumineuse" },
+            { "front": "Hungry caterpillar", "back": "chenille affamée" },
+            { "front": "Sharp earwig", "back": "perce-oreille pointu" },
+            { "front": "Crawling centipede", "back": "mille-pattes rampant" },
+            { "front": "Long millipede", "back": "mille-pattes long" },
+            { "front": "Sacred scarab", "back": "scarabée sacré" },
+            { "front": "Praying mantis", "back": "mante religieuse" },
+            { "front": "Fierce hornet", "back": "frelon féroce" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "The ant works", "back": "la fourmi travaille" },
+            { "front": "A bee flies", "back": "une abeille vole" },
+            {
+              "front": "Small beetle crawls",
+              "back": "un petit scarabée rampe"
+            },
+            {
+              "front": "Colorful butterfly flutters",
+              "back": "papillons colorés voletant"
+            },
+            {
+              "front": "Moth seeks light",
+              "back": "le papillon cherche la lumière"
+            },
+            {
+              "front": "Fly buzzes around",
+              "back": "la mouche bourdonne autour"
+            },
+            {
+              "front": "Mosquito bites skin",
+              "back": "piqûres de moustiques sur la peau"
+            },
+            {
+              "front": "Grasshopper jumps high",
+              "back": "la sauterelle saute haut"
+            },
+            {
+              "front": "Cricket chirps loudly",
+              "back": "le grillon chante fort"
+            },
+            {
+              "front": "Ladybug lands gently",
+              "back": "la coccinelle atterrit doucement"
+            },
+            {
+              "front": "Wasp stings hard",
+              "back": "les piqûres de guêpes sont fortes"
+            },
+            {
+              "front": "Dragonfly flies fast",
+              "back": "la libellule vole vite"
+            },
+            {
+              "front": "Spider spins web",
+              "back": "l&#39;araignée tisse sa toile"
+            },
+            {
+              "front": "Termite eats wood",
+              "back": "les termites mangent du bois"
+            },
+            {
+              "front": "Flea jumps quickly",
+              "back": "la puce saute rapidement"
+            },
+            {
+              "front": "Tick hides silently",
+              "back": "la tique se cache silencieusement"
+            },
+            { "front": "Cockroach runs fast", "back": "le cafard court vite" },
+            {
+              "front": "Firefly glows brightly",
+              "back": "la luciole brille intensément"
+            },
+            {
+              "front": "Caterpillar slowly crawls",
+              "back": "la chenille rampe lentement"
+            },
+            {
+              "front": "Earwig hides underground",
+              "back": "le perce-oreille se cache sous terre"
+            },
+            {
+              "front": "Centipede moves rapidly",
+              "back": "le mille-pattes se déplace rapidement"
+            },
+            {
+              "front": "Millipede crawls slowly",
+              "back": "le mille-pattes rampe lentement"
+            },
+            { "front": "Scarab rolls dirt", "back": "scarabée roule la terre" },
+            {
+              "front": "Mantis hunts prey",
+              "back": "la mante religieuse chasse une proie"
+            },
+            {
+              "front": "Hornet flies aggressively",
+              "back": "le frelon vole agressivement"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The ant carries food",
+              "back": "la fourmi transporte de la nourriture"
+            },
+            {
+              "front": "A bee makes honey",
+              "back": "une abeille fait du miel"
+            },
+            {
+              "front": "Small beetle crawls slowly",
+              "back": "le petit scarabée rampe lentement"
+            },
+            {
+              "front": "Colorful butterfly flutters gracefully",
+              "back": "un papillon coloré flotte gracieusement"
+            },
+            {
+              "front": "The moth flies around",
+              "back": "le papillon vole autour"
+            },
+            {
+              "front": "Fly lands on table",
+              "back": "la mouche atterrit sur la table"
+            },
+            {
+              "front": "Mosquito bites your arm",
+              "back": "un moustique vous pique le bras"
+            },
+            {
+              "front": "Grasshopper jumps very high",
+              "back": "la sauterelle saute très haut"
+            },
+            {
+              "front": "Cricket sings at night",
+              "back": "le cricket chante la nuit"
+            },
+            {
+              "front": "Ladybug crawls on leaf",
+              "back": "coccinelle rampe sur une feuille"
+            },
+            {
+              "front": "Wasp stings the intruder",
+              "back": "la guêpe pique l&#39;intrus"
+            },
+            {
+              "front": "Dragonfly flies very fast",
+              "back": "la libellule vole très vite"
+            },
+            {
+              "front": "Spider weaves a web",
+              "back": "l&#39;araignée tisse une toile"
+            },
+            {
+              "front": "Termite destroys wooden furniture",
+              "back": "les termites détruisent les meubles en bois"
+            },
+            {
+              "front": "The flea jumps quickly",
+              "back": "la puce saute rapidement"
+            },
+            {
+              "front": "Tick hides on animals",
+              "back": "les tiques se cachent sur les animaux"
+            },
+            {
+              "front": "Cockroach runs under furniture",
+              "back": "un cafard court sous les meubles"
+            },
+            {
+              "front": "Firefly lights up night",
+              "back": "une luciole illumine la nuit"
+            },
+            {
+              "front": "Caterpillar crawls on branches",
+              "back": "la chenille rampe sur les branches"
+            },
+            {
+              "front": "Earwig hides in soil",
+              "back": "le perce-oreille se cache dans le sol"
+            },
+            {
+              "front": "Centipede crawls very fast",
+              "back": "le mille-pattes rampe très vite"
+            },
+            {
+              "front": "Millipede moves very slowly",
+              "back": "le mille-pattes se déplace très lentement"
+            },
+            {
+              "front": "Scarab rolls dirt balls",
+              "back": "scarabée roule des boules de terre"
+            },
+            {
+              "front": "Mantis catches its prey",
+              "back": "la mante attrape sa proie"
+            },
+            {
+              "front": "Hornet flies near flowers",
+              "back": "les frelons volent près des fleurs"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The ant works very hard",
+              "back": "la fourmi travaille très dur"
+            },
+            {
+              "front": "A bee gathers nectar daily",
+              "back": "une abeille butine du nectar quotidiennement"
+            },
+            {
+              "front": "Small beetle crawls on leaves",
+              "back": "un petit coléoptère rampe sur les feuilles"
+            },
+            {
+              "front": "Colorful butterfly flutters over flowers",
+              "back": "un papillon coloré vole au-dessus des fleurs"
+            },
+            {
+              "front": "The moth flies near lights",
+              "back": "le papillon vole près des lumières"
+            },
+            {
+              "front": "Fly buzzes around the kitchen",
+              "back": "une mouche bourdonne dans la cuisine"
+            },
+            {
+              "front": "Mosquito bites in the evening",
+              "back": "piqûres de moustiques le soir"
+            },
+            {
+              "front": "Grasshopper jumps across the garden",
+              "back": "une sauterelle saute à travers le jardin"
+            },
+            {
+              "front": "Cricket sings loudly at night",
+              "back": "le cricket chante fort la nuit"
+            },
+            {
+              "front": "Ladybug lands softly on leaf",
+              "back": "la coccinelle atterrit doucement sur une feuille"
+            },
+            {
+              "front": "Wasp stings when it feels threatened",
+              "back": "la guêpe pique lorsqu&#39;elle se sent menacée"
+            },
+            {
+              "front": "Dragonfly flies quickly over water",
+              "back": "la libellule vole rapidement au-dessus de l&#39;eau"
+            },
+            {
+              "front": "Spider weaves intricate webs daily",
+              "back": "l&#39;araignée tisse quotidiennement des toiles complexes"
+            },
+            {
+              "front": "Termite damages wood very easily",
+              "back": "les termites endommagent le bois très facilement"
+            },
+            {
+              "front": "The flea jumps on animals",
+              "back": "la puce saute sur les animaux"
+            },
+            {
+              "front": "Tick hides on dogs' fur",
+              "back": "les tiques se cachent dans la fourrure des chiens"
+            },
+            {
+              "front": "Cockroach hides in dark corners",
+              "back": "le cafard se cache dans les coins sombres"
+            },
+            {
+              "front": "Firefly glows brightly at night",
+              "back": "la luciole brille intensément la nuit"
+            },
+            {
+              "front": "Caterpillar eats leaves on branches",
+              "back": "la chenille mange les feuilles des branches"
+            },
+            {
+              "front": "Earwig burrows deep into soil",
+              "back": "le perce-oreille creuse profondément dans le sol"
+            },
+            {
+              "front": "Centipede crawls very quickly indoors",
+              "back": "le mille-pattes rampe très rapidement à l&#39;intérieur"
+            },
+            {
+              "front": "Millipede moves slowly through grass",
+              "back": "le mille-pattes se déplace lentement dans l&#39;herbe"
+            },
+            {
+              "front": "Scarab rolls dirt in the sand",
+              "back": "le scarabée fait rouler la terre dans le sable"
+            },
+            {
+              "front": "Mantis waits patiently for prey",
+              "back": "la mante religieuse attend patiemment sa proie"
+            },
+            {
+              "front": "Hornet flies aggressively near nests",
+              "back": "le frelon vole agressivement près des nids"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The ant carries food to nest",
+              "back": "la fourmi transporte de la nourriture jusqu&#39;au nid"
+            },
+            {
+              "front": "A bee gathers nectar from flowers",
+              "back": "une abeille butine les fleurs"
+            },
+            {
+              "front": "Small beetle crawls across the ground",
+              "back": "un petit scarabée rampe sur le sol"
+            },
+            {
+              "front": "Colorful butterfly flutters above the garden",
+              "back": "un papillon coloré vole au-dessus du jardin"
+            },
+            {
+              "front": "The moth flies toward the light",
+              "back": "le papillon vole vers la lumière"
+            },
+            {
+              "front": "Fly buzzes around the food table",
+              "back": "une mouche bourdonne autour de la table à manger"
+            },
+            {
+              "front": "Mosquito bites skin during the night",
+              "back": "les moustiques piquent la peau pendant la nuit"
+            },
+            {
+              "front": "Grasshopper jumps high across the grass",
+              "back": "la sauterelle saute haut dans l&#39;herbe"
+            },
+            {
+              "front": "Cricket sings loudly under the stars",
+              "back": "le cricket chante fort sous les étoiles"
+            },
+            {
+              "front": "Ladybug rests gently on a leaf",
+              "back": "la coccinelle se repose doucement sur une feuille"
+            },
+            {
+              "front": "Wasp stings when it feels threatened",
+              "back": "la guêpe pique lorsqu&#39;elle se sent menacée"
+            },
+            {
+              "front": "Dragonfly hovers quickly above the pond",
+              "back": "la libellule plane rapidement au-dessus de l&#39;étang"
+            },
+            {
+              "front": "Spider spins a web in corners",
+              "back": "l&#39;araignée tisse une toile dans les coins"
+            },
+            {
+              "front": "Termite damages wood in old houses",
+              "back": "les termites endommagent le bois des vieilles maisons"
+            },
+            {
+              "front": "The flea jumps onto the dog",
+              "back": "la puce saute sur le chien"
+            },
+            {
+              "front": "Tick hides on the dog's fur",
+              "back": "la tique se cache sur la fourrure du chien"
+            },
+            {
+              "front": "Cockroach scurries fast across the floor",
+              "back": "le cafard se précipite rapidement sur le sol"
+            },
+            {
+              "front": "Firefly glows brightly in the dark",
+              "back": "la luciole brille dans le noir"
+            },
+            {
+              "front": "Caterpillar munches on leaves in trees",
+              "back": "la chenille grignote les feuilles des arbres"
+            },
+            {
+              "front": "Earwig hides under rocks and soil",
+              "back": "le perce-oreille se cache sous les rochers et la terre"
+            },
+            {
+              "front": "Centipede moves quickly across the ground",
+              "back": "le mille-pattes se déplace rapidement sur le sol"
+            },
+            {
+              "front": "Millipede crawls slowly through the garden",
+              "back": "le mille-pattes rampe lentement dans le jardin"
+            },
+            {
+              "front": "Scarab rolls dirt into large balls",
+              "back": "le scarabée roule la terre en grosses boules"
+            },
+            {
+              "front": "Mantis waits silently for its prey",
+              "back": "la mante attend silencieusement sa proie"
+            },
+            {
+              "front": "Hornet flies near flowers and trees",
+              "back": "les frelons volent près des fleurs et des arbres"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Ant carried", "back": "fourmi transportée" },
+            { "front": "Bee buzzed", "back": "l&#39;abeille bourdonnait" },
+            { "front": "Beetle crawled", "back": "le scarabée a rampé" },
+            { "front": "Butterfly fluttered", "back": "papillon voletant" },
+            { "front": "Moth flew", "back": "le papillon a volé" },
+            { "front": "Fly buzzed", "back": "mouche bourdonnante" },
+            { "front": "Mosquito bit", "back": "piqûre de moustique" },
+            { "front": "Grasshopper jumped", "back": "la sauterelle a sauté" },
+            { "front": "Cricket chirped", "back": "le grillon a chanté" },
+            { "front": "Ladybug landed", "back": "coccinelle a atterri" },
+            { "front": "Wasp stung", "back": "guêpe piquée" },
+            { "front": "Dragonfly hovered", "back": "libellule planait" },
+            { "front": "Spider spun", "back": "araignée filée" },
+            { "front": "Termite destroyed", "back": "termite détruite" },
+            { "front": "Flea jumped", "back": "la puce a sauté" },
+            { "front": "Tick hid", "back": "tique cachée" },
+            { "front": "Cockroach scurried", "back": "cafard se précipita" },
+            { "front": "Firefly glowed", "back": "la luciole brillait" },
+            { "front": "Caterpillar munched", "back": "chenille grignotée" },
+            { "front": "Earwig hid", "back": "perce-oreille caché" },
+            { "front": "Centipede moved", "back": "le mille-pattes a bougé" },
+            { "front": "Millipede crawled", "back": "mille-pattes rampé" },
+            { "front": "Scarab rolled", "back": "scarabée roulé" },
+            { "front": "Mantis caught", "back": "mante religieuse attrapée" },
+            { "front": "Hornet flew", "back": "le frelon a volé" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "Ant carried food",
+              "back": "la fourmi transportait de la nourriture"
+            },
+            {
+              "front": "Bee gathered nectar",
+              "back": "l&#39;abeille a récolté du nectar"
+            },
+            {
+              "front": "Beetle crawled away",
+              "back": "le scarabée s&#39;est éloigné en rampant"
+            },
+            {
+              "front": "Butterfly fluttered gently",
+              "back": "le papillon voletait doucement"
+            },
+            {
+              "front": "Moth flew inside",
+              "back": "un papillon a volé à l&#39;intérieur"
+            },
+            {
+              "front": "Fly buzzed loudly",
+              "back": "la mouche bourdonnait bruyamment"
+            },
+            {
+              "front": "Mosquito bit me",
+              "back": "un moustique m&#39;a piqué"
+            },
+            {
+              "front": "Grasshopper jumped high",
+              "back": "la sauterelle a sauté haut"
+            },
+            {
+              "front": "Cricket chirped outside",
+              "back": "le grillon chantait dehors"
+            },
+            {
+              "front": "Ladybug landed softly",
+              "back": "la coccinelle a atterri en douceur"
+            },
+            { "front": "Wasp stung hard", "back": "la guêpe a piqué fort" },
+            {
+              "front": "Dragonfly hovered nearby",
+              "back": "une libellule planait à proximité"
+            },
+            {
+              "front": "Spider spun webs",
+              "back": "toiles d&#39;araignée tissées"
+            },
+            {
+              "front": "Termite destroyed wood",
+              "back": "bois détruit par les termites"
+            },
+            {
+              "front": "Flea jumped quickly",
+              "back": "la puce a sauté rapidement"
+            },
+            {
+              "front": "Tick hid quietly",
+              "back": "la tique s&#39;est cachée tranquillement"
+            },
+            {
+              "front": "Cockroach scurried fast",
+              "back": "le cafard s&#39;est précipité"
+            },
+            {
+              "front": "Firefly glowed brightly",
+              "back": "la luciole brillait intensément"
+            },
+            {
+              "front": "Caterpillar munched leaves",
+              "back": "la chenille a grignoté des feuilles"
+            },
+            {
+              "front": "Earwig hid underground",
+              "back": "le perce-oreille s&#39;est caché sous terre"
+            },
+            {
+              "front": "Centipede moved fast",
+              "back": "le mille-pattes se déplaçait rapidement"
+            },
+            {
+              "front": "Millipede crawled slowly",
+              "back": "le mille-pattes rampait lentement"
+            },
+            {
+              "front": "Scarab rolled dirt",
+              "back": "scarabée roulé dans la terre"
+            },
+            {
+              "front": "Mantis caught prey",
+              "back": "la mante religieuse a attrapé une proie"
+            },
+            {
+              "front": "Hornet flew aggressively",
+              "back": "le frelon volait agressivement"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The ant carried food",
+              "back": "la fourmi transportait de la nourriture"
+            },
+            {
+              "front": "A bee buzzed loudly",
+              "back": "une abeille bourdonnait bruyamment"
+            },
+            {
+              "front": "The beetle crawled slowly",
+              "back": "le scarabée rampait lentement"
+            },
+            {
+              "front": "Butterfly fluttered over flowers",
+              "back": "papillon voletant au-dessus des fleurs"
+            },
+            {
+              "front": "The moth flew inside",
+              "back": "le papillon a volé à l&#39;intérieur"
+            },
+            {
+              "front": "Fly buzzed around food",
+              "back": "une mouche bourdonnait autour de la nourriture"
+            },
+            {
+              "front": "Mosquito bit my arm",
+              "back": "un moustique m&#39;a piqué le bras"
+            },
+            {
+              "front": "Grasshopper jumped very high",
+              "back": "la sauterelle a sauté très haut"
+            },
+            {
+              "front": "Cricket chirped all night",
+              "back": "le grillon a chanté toute la nuit"
+            },
+            {
+              "front": "Ladybug landed on leaf",
+              "back": "coccinelle posée sur une feuille"
+            },
+            {
+              "front": "Wasp stung my hand",
+              "back": "une guêpe m&#39;a piqué la main"
+            },
+            {
+              "front": "Dragonfly hovered near water",
+              "back": "libellule planait près de l&#39;eau"
+            },
+            {
+              "front": "Spider spun a web",
+              "back": "l&#39;araignée a tissé une toile"
+            },
+            {
+              "front": "Termite damaged the wood",
+              "back": "les termites ont endommagé le bois"
+            },
+            {
+              "front": "Flea jumped onto dog",
+              "back": "une puce a sauté sur un chien"
+            },
+            {
+              "front": "Tick hid on fur",
+              "back": "tique cachée dans la fourrure"
+            },
+            {
+              "front": "Cockroach scurried under table",
+              "back": "un cafard s&#39;est précipité sous la table"
+            },
+            {
+              "front": "Firefly glowed last night",
+              "back": "la luciole brillait la nuit dernière"
+            },
+            {
+              "front": "Caterpillar munched on leaves",
+              "back": "chenille grignotant des feuilles"
+            },
+            {
+              "front": "Earwig hid in soil",
+              "back": "perce-oreille caché dans le sol"
+            },
+            {
+              "front": "Centipede moved very quickly",
+              "back": "le mille-pattes se déplaçait très rapidement"
+            },
+            {
+              "front": "Millipede crawled under rock",
+              "back": "mille-pattes rampant sous la roche"
+            },
+            {
+              "front": "Scarab rolled dirt balls",
+              "back": "boules de terre roulées par un scarabée"
+            },
+            {
+              "front": "Mantis caught its prey",
+              "back": "la mante a attrapé sa proie"
+            },
+            {
+              "front": "Hornet flew around tree",
+              "back": "un frelon volait autour d&#39;un arbre"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The ant carried food home",
+              "back": "la fourmi a ramené de la nourriture à la maison"
+            },
+            {
+              "front": "A bee buzzed near flowers",
+              "back": "une abeille bourdonnait près des fleurs"
+            },
+            {
+              "front": "The beetle crawled across path",
+              "back": "le scarabée a rampé sur le chemin"
+            },
+            {
+              "front": "Butterfly fluttered over the flowers",
+              "back": "le papillon voletait au-dessus des fleurs"
+            },
+            {
+              "front": "The moth flew into house",
+              "back": "le papillon est entré dans la maison"
+            },
+            {
+              "front": "Fly buzzed around the table",
+              "back": "une mouche bourdonnait autour de la table"
+            },
+            {
+              "front": "Mosquito bit my leg yesterday",
+              "back": "un moustique m&#39;a piqué la jambe hier"
+            },
+            {
+              "front": "Grasshopper jumped very high today",
+              "back": "la sauterelle a sauté très haut aujourd&#39;hui"
+            },
+            {
+              "front": "Cricket chirped loudly all night",
+              "back": "le grillon a chanté fort toute la nuit"
+            },
+            {
+              "front": "Ladybug landed softly on leaves",
+              "back": "coccinelle atterrit doucement sur les feuilles"
+            },
+            {
+              "front": "Wasp stung him on hand",
+              "back": "une guêpe l&#39;a piqué à la main"
+            },
+            {
+              "front": "Dragonfly hovered above the water",
+              "back": "la libellule planait au-dessus de l&#39;eau"
+            },
+            {
+              "front": "Spider spun its web quietly",
+              "back": "l&#39;araignée tissait sa toile tranquillement"
+            },
+            {
+              "front": "Termite damaged wood in house",
+              "back": "bois endommagé par les termites dans la maison"
+            },
+            {
+              "front": "Flea jumped onto the dog",
+              "back": "la puce a sauté sur le chien"
+            },
+            {
+              "front": "Tick hid on animal's skin",
+              "back": "tique cachée sur la peau de l&#39;animal"
+            },
+            {
+              "front": "Cockroach scurried under the table",
+              "back": "un cafard s&#39;est précipité sous la table"
+            },
+            {
+              "front": "Firefly glowed brightly at night",
+              "back": "la luciole brillait intensément la nuit"
+            },
+            {
+              "front": "Caterpillar munched on green leaves",
+              "back": "chenille grignotant des feuilles vertes"
+            },
+            {
+              "front": "Earwig hid deep in soil",
+              "back": "perce-oreille caché profondément dans le sol"
+            },
+            {
+              "front": "Centipede moved quickly yesterday",
+              "back": "le mille-pattes s&#39;est déplacé rapidement hier"
+            },
+            {
+              "front": "Millipede crawled under a rock",
+              "back": "mille-pattes rampant sous un rocher"
+            },
+            {
+              "front": "Scarab rolled dirt on path",
+              "back": "scarabée a roulé de la terre sur le chemin"
+            },
+            {
+              "front": "Mantis caught its prey quickly",
+              "back": "la mante a attrapé sa proie rapidement"
+            },
+            {
+              "front": "Hornet flew around the tree",
+              "back": "le frelon volait autour de l&#39;arbre"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The ant carried food home",
+              "back": "la fourmi a ramené de la nourriture à la maison"
+            },
+            {
+              "front": "A bee buzzed near the flowers",
+              "back": "une abeille bourdonnait près des fleurs"
+            },
+            {
+              "front": "The beetle crawled across the path",
+              "back": "le scarabée a rampé sur le chemin"
+            },
+            {
+              "front": "Butterfly fluttered over colorful flowers",
+              "back": "papillon voletant au-dessus de fleurs colorées"
+            },
+            {
+              "front": "The moth flew into the house",
+              "back": "le papillon est entré dans la maison"
+            },
+            {
+              "front": "Fly buzzed around the kitchen table",
+              "back": "une mouche bourdonnait autour de la table de la cuisine"
+            },
+            {
+              "front": "Mosquito bit my leg yesterday",
+              "back": "un moustique m&#39;a piqué la jambe hier"
+            },
+            {
+              "front": "Grasshopper jumped very high today",
+              "back": "la sauterelle a sauté très haut aujourd&#39;hui"
+            },
+            {
+              "front": "Cricket chirped loudly all night",
+              "back": "le grillon a chanté fort toute la nuit"
+            },
+            {
+              "front": "Ladybug landed softly on leaves",
+              "back": "coccinelle atterrit doucement sur les feuilles"
+            },
+            {
+              "front": "Wasp stung him on the hand",
+              "back": "une guêpe l&#39;a piqué à la main"
+            },
+            {
+              "front": "Dragonfly hovered quickly above water",
+              "back": "la libellule planait rapidement au-dessus de l&#39;eau"
+            },
+            {
+              "front": "Spider spun its web quietly",
+              "back": "l&#39;araignée tissait sa toile tranquillement"
+            },
+            {
+              "front": "Termite damaged wood in the house",
+              "back": "bois endommagé par les termites dans la maison"
+            },
+            {
+              "front": "Flea jumped onto the dog's fur",
+              "back": "la puce a sauté sur la fourrure du chien"
+            },
+            {
+              "front": "Tick hid on the animal's skin",
+              "back": "la tique s&#39;est cachée sur la peau de l&#39;animal"
+            },
+            {
+              "front": "Cockroach scurried fast under the table",
+              "back": "le cafard s&#39;est précipité sous la table"
+            },
+            {
+              "front": "Firefly glowed brightly during the night",
+              "back": "la luciole brillait intensément pendant la nuit"
+            },
+            {
+              "front": "Caterpillar munched on green leaves",
+              "back": "chenille grignotant des feuilles vertes"
+            },
+            {
+              "front": "Earwig hid deep in the soil",
+              "back": "perce-oreille caché profondément dans le sol"
+            },
+            {
+              "front": "Centipede moved very quickly yesterday",
+              "back": "le mille-pattes s&#39;est déplacé très rapidement hier"
+            },
+            {
+              "front": "Millipede crawled slowly under a rock",
+              "back": "mille-pattes rampait lentement sous un rocher"
+            },
+            {
+              "front": "Scarab rolled dirt along the path",
+              "back": "scarabée a roulé de la terre le long du chemin"
+            },
+            {
+              "front": "Mantis caught its prey quickly",
+              "back": "la mante a attrapé sa proie rapidement"
+            },
+            {
+              "front": "Hornet flew aggressively around the tree",
+              "back": "le frelon volait agressivement autour de l&#39;arbre"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Ant will carry", "back": "la fourmi portera" },
+            { "front": "Bee will buzz", "back": "l&#39;abeille bourdonnera" },
+            { "front": "Beetle will crawl", "back": "le scarabée rampera" },
+            {
+              "front": "Butterfly will flutter",
+              "back": "le papillon flottera"
+            },
+            { "front": "Moth will fly", "back": "le papillon volera" },
+            { "front": "Fly will buzz", "back": "la mouche bourdonnera" },
+            { "front": "Mosquito will bite", "back": "le moustique va piquer" },
+            {
+              "front": "Grasshopper will jump",
+              "back": "la sauterelle va sauter"
+            },
+            { "front": "Cricket will chirp", "back": "le cricket chantera" },
+            {
+              "front": "Ladybug will land",
+              "back": "la coccinelle va atterrir"
+            },
+            { "front": "Wasp will sting", "back": "la guêpe piquera" },
+            { "front": "Dragonfly will hover", "back": "la libellule planera" },
+            {
+              "front": "Spider will spin",
+              "back": "l&#39;araignée va tourner"
+            },
+            {
+              "front": "Termite will destroy",
+              "back": "les termites détruiront"
+            },
+            { "front": "Flea will jump", "back": "la puce va sauter" },
+            { "front": "Tick will hide", "back": "la tique se cachera" },
+            {
+              "front": "Cockroach will scurry",
+              "back": "le cafard va se précipiter"
+            },
+            { "front": "Firefly will glow", "back": "la luciole brillera" },
+            {
+              "front": "Caterpillar will munch",
+              "back": "la chenille va grignoter"
+            },
+            {
+              "front": "Earwig will hide",
+              "back": "le perce-oreille se cachera"
+            },
+            {
+              "front": "Centipede will move",
+              "back": "le mille-pattes se déplacera"
+            },
+            {
+              "front": "Millipede will crawl",
+              "back": "le mille-pattes va ramper"
+            },
+            { "front": "Scarab will roll", "back": "le scarabée va rouler" },
+            {
+              "front": "Mantis will catch",
+              "back": "la mante religieuse attrapera"
+            },
+            { "front": "Hornet will fly", "back": "le frelon volera" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The ant will carry food",
+              "back": "la fourmi transportera de la nourriture"
+            },
+            {
+              "front": "A bee will gather nectar",
+              "back": "une abeille butinera"
+            },
+            {
+              "front": "The beetle will crawl away",
+              "back": "le scarabée s&#39;éloignera en rampant"
+            },
+            {
+              "front": "Butterfly will flutter over flowers",
+              "back": "le papillon volettera au-dessus des fleurs"
+            },
+            {
+              "front": "The moth will fly inside",
+              "back": "le papillon volera à l&#39;intérieur"
+            },
+            {
+              "front": "Fly will buzz near table",
+              "back": "la mouche bourdonnera près de la table"
+            },
+            {
+              "front": "Mosquito will bite your arm",
+              "back": "le moustique va te piquer le bras"
+            },
+            {
+              "front": "Grasshopper will jump very high",
+              "back": "la sauterelle sautera très haut"
+            },
+            {
+              "front": "Cricket will chirp at night",
+              "back": "le grillon chantera la nuit"
+            },
+            {
+              "front": "Ladybug will land on leaf",
+              "back": "la coccinelle atterrira sur une feuille"
+            },
+            {
+              "front": "Wasp will sting the intruder",
+              "back": "la guêpe piquera l&#39;intrus"
+            },
+            {
+              "front": "Dragonfly will hover over water",
+              "back": "la libellule planera au-dessus de l&#39;eau"
+            },
+            {
+              "front": "Spider will spin its web",
+              "back": "l&#39;araignée tissera sa toile"
+            },
+            {
+              "front": "Termite will damage the wood",
+              "back": "les termites endommageront le bois"
+            },
+            {
+              "front": "Flea will jump on dog",
+              "back": "la puce va sauter sur le chien"
+            },
+            {
+              "front": "Tick will hide in fur",
+              "back": "la tique se cachera dans la fourrure"
+            },
+            {
+              "front": "Cockroach will scurry under table",
+              "back": "le cafard se précipitera sous la table"
+            },
+            {
+              "front": "Firefly will glow at night",
+              "back": "la luciole brillera la nuit"
+            },
+            {
+              "front": "Caterpillar will munch on leaves",
+              "back": "la chenille grignotera les feuilles"
+            },
+            {
+              "front": "Earwig will hide in soil",
+              "back": "le perce-oreille se cache dans le sol"
+            },
+            {
+              "front": "Centipede will move very quickly",
+              "back": "le mille-pattes se déplacera très rapidement"
+            },
+            {
+              "front": "Millipede will crawl under rock",
+              "back": "le mille-pattes rampera sous les rochers"
+            },
+            {
+              "front": "Scarab will roll dirt balls",
+              "back": "le scarabée fera rouler des boules de terre"
+            },
+            {
+              "front": "Mantis will catch its prey",
+              "back": "la mante attrapera sa proie"
+            },
+            {
+              "front": "Hornet will fly near flowers",
+              "back": "le frelon volera près des fleurs"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "The ant will carry food",
+              "back": "la fourmi transportera de la nourriture"
+            },
+            {
+              "front": "A bee will gather nectar",
+              "back": "une abeille butinera"
+            },
+            {
+              "front": "The beetle will crawl away",
+              "back": "le scarabée s&#39;éloignera en rampant"
+            },
+            {
+              "front": "Butterfly will flutter over",
+              "back": "le papillon volettera au-dessus"
+            },
+            {
+              "front": "The moth will fly inside",
+              "back": "le papillon volera à l&#39;intérieur"
+            },
+            {
+              "front": "Fly will buzz near table",
+              "back": "la mouche bourdonnera près de la table"
+            },
+            {
+              "front": "Mosquito will bite your arm",
+              "back": "le moustique va te piquer le bras"
+            },
+            {
+              "front": "Grasshopper will jump very high",
+              "back": "la sauterelle sautera très haut"
+            },
+            {
+              "front": "Cricket will chirp at night",
+              "back": "le grillon chantera la nuit"
+            },
+            {
+              "front": "Ladybug will land on leaf",
+              "back": "la coccinelle atterrira sur une feuille"
+            },
+            {
+              "front": "Wasp will sting the intruder",
+              "back": "la guêpe piquera l&#39;intrus"
+            },
+            {
+              "front": "Dragonfly will hover over water",
+              "back": "la libellule planera au-dessus de l&#39;eau"
+            },
+            {
+              "front": "Spider will spin its web",
+              "back": "l&#39;araignée tissera sa toile"
+            },
+            {
+              "front": "Termite will damage the wood",
+              "back": "les termites endommageront le bois"
+            },
+            {
+              "front": "Flea will jump on dog",
+              "back": "la puce va sauter sur le chien"
+            },
+            {
+              "front": "Tick will hide in fur",
+              "back": "la tique se cachera dans la fourrure"
+            },
+            {
+              "front": "Cockroach will scurry under table",
+              "back": "le cafard se précipitera sous la table"
+            },
+            {
+              "front": "Firefly will glow at night",
+              "back": "la luciole brillera la nuit"
+            },
+            {
+              "front": "Caterpillar will munch on leaves",
+              "back": "la chenille grignotera les feuilles"
+            },
+            {
+              "front": "Earwig will hide in soil",
+              "back": "le perce-oreille se cache dans le sol"
+            },
+            {
+              "front": "Centipede will move very quickly",
+              "back": "le mille-pattes se déplacera très rapidement"
+            },
+            {
+              "front": "Millipede will crawl under rock",
+              "back": "le mille-pattes rampera sous les rochers"
+            },
+            {
+              "front": "Scarab will roll dirt balls",
+              "back": "le scarabée fera rouler des boules de terre"
+            },
+            {
+              "front": "Mantis will catch its prey",
+              "back": "la mante attrapera sa proie"
+            },
+            {
+              "front": "Hornet will fly near flowers",
+              "back": "le frelon volera près des fleurs"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "The ant will carry food home",
+              "back": "la fourmi ramènera de la nourriture à la maison"
+            },
+            {
+              "front": "A bee will gather nectar tomorrow",
+              "back": "une abeille butinera demain"
+            },
+            {
+              "front": "The beetle will crawl under rocks",
+              "back": "le scarabée rampera sous les rochers"
+            },
+            {
+              "front": "Butterfly will flutter across the garden",
+              "back": "le papillon volettera à travers le jardin"
+            },
+            {
+              "front": "The moth will fly toward light",
+              "back": "le papillon volera vers la lumière"
+            },
+            {
+              "front": "Fly will buzz around the table",
+              "back": "la mouche bourdonnera autour de la table"
+            },
+            {
+              "front": "Mosquito will bite when it’s dark",
+              "back": "le moustique pique quand il fait noir"
+            },
+            {
+              "front": "Grasshopper will jump high through grass",
+              "back": "la sauterelle sautera haut dans l&#39;herbe"
+            },
+            {
+              "front": "Cricket will chirp loudly at night",
+              "back": "le grillon chantera fort la nuit"
+            },
+            {
+              "front": "Ladybug will land softly on leaf",
+              "back": "la coccinelle atterrira doucement sur la feuille"
+            },
+            {
+              "front": "Wasp will sting if provoked tomorrow",
+              "back": "la guêpe piquera si elle est provoquée demain"
+            },
+            {
+              "front": "Dragonfly will hover over still water",
+              "back": "la libellule planera au-dessus de l&#39;eau calme"
+            },
+            {
+              "front": "Spider will spin a web tomorrow",
+              "back": "l&#39;araignée tissera une toile demain"
+            },
+            {
+              "front": "Termite will destroy wood in house",
+              "back": "les termites détruiront le bois de la maison"
+            },
+            {
+              "front": "Flea will jump on the dog",
+              "back": "la puce va sauter sur le chien"
+            },
+            {
+              "front": "Tick will hide in animal fur",
+              "back": "la tique se cache dans la fourrure des animaux"
+            },
+            {
+              "front": "Cockroach will scurry under the sink",
+              "back": "le cafard se précipitera sous l&#39;évier"
+            },
+            {
+              "front": "Firefly will glow brightly at night",
+              "back": "la luciole brillera intensément la nuit"
+            },
+            {
+              "front": "Caterpillar will munch on green leaves",
+              "back": "la chenille grignotera les feuilles vertes"
+            },
+            {
+              "front": "Earwig will hide in the ground",
+              "back": "le perce-oreille se cachera dans le sol"
+            },
+            {
+              "front": "Centipede will move quickly across floor",
+              "back": "le mille-pattes se déplacera rapidement sur le sol"
+            },
+            {
+              "front": "Millipede will crawl slowly through dirt",
+              "back": "le mille-pattes rampera lentement dans la terre"
+            },
+            {
+              "front": "Scarab will roll dirt into balls",
+              "back": "le scarabée roulera la terre en boules"
+            },
+            {
+              "front": "Mantis will catch its prey tomorrow",
+              "back": "la mante attrapera sa proie demain"
+            },
+            {
+              "front": "Hornet will fly around the garden",
+              "back": "le frelon volera autour du jardin"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

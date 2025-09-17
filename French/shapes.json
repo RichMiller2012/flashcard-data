@@ -1,0 +1,1128 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Shapes",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Circle", "back": "cercle" },
+            { "front": "Square", "back": "carré" },
+            { "front": "Triangle", "back": "triangle" },
+            { "front": "Rectangle", "back": "rectangle" },
+            { "front": "Oval", "back": "ovale" },
+            { "front": "Hexagon", "back": "hexagone" },
+            { "front": "Pentagon", "back": "Pentagone" },
+            { "front": "Octagon", "back": "octogone" },
+            { "front": "Cube", "back": "cube" },
+            { "front": "Sphere", "back": "sphère" },
+            { "front": "Cylinder", "back": "cylindre" },
+            { "front": "Cone", "back": "cône" },
+            { "front": "Pyramid", "back": "pyramide" },
+            { "front": "Rhombus", "back": "rhombe" },
+            { "front": "Trapezoid", "back": "trapèze" },
+            { "front": "Star", "back": "étoile" },
+            { "front": "Parallelogram", "back": "parallélogramme" },
+            { "front": "Diamond", "back": "diamant" },
+            { "front": "Semicircle", "back": "demi-cercle" },
+            { "front": "Ellipse", "back": "ellipse" },
+            { "front": "Tetrahedron", "back": "tétraèdre" },
+            { "front": "Quadrilateral", "back": "quadrilatère" },
+            { "front": "Kite", "back": "voir" },
+            { "front": "Crescent", "back": "croissant" },
+            { "front": "Arrow", "back": "flèche" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Big triangle", "back": "grand triangle" },
+            { "front": "Blue diamond", "back": "diamant bleu" },
+            { "front": "Perfect square", "back": "carré parfait" },
+            { "front": "Round circle", "back": "cercle rond" },
+            { "front": "Tall rectangle", "back": "grand rectangle" },
+            { "front": "Small star", "back": "petite étoile" },
+            { "front": "Wide hexagon", "back": "hexagone large" },
+            { "front": "Thin oval", "back": "ovale mince" },
+            { "front": "Sharp pentagon", "back": "pentagone pointu" },
+            { "front": "Bright crescent", "back": "croissant brillant" },
+            { "front": "Large cube", "back": "gros cube" },
+            { "front": "Green sphere", "back": "sphère verte" },
+            { "front": "Flat cylinder", "back": "cylindre plat" },
+            { "front": "Golden cone", "back": "cône d&#39;or" },
+            { "front": "Perfect rhombus", "back": "losange parfait" },
+            { "front": "Short trapezoid", "back": "trapèze court" },
+            { "front": "Big pyramid", "back": "grande pyramide" },
+            { "front": "Silver arrow", "back": "flèche d&#39;argent" },
+            { "front": "Curved semicircle", "back": "demi-cercle courbé" },
+            { "front": "Small parallelogram", "back": "petit parallélogramme" },
+            { "front": "Huge quadrilateral", "back": "immense quadrilatère" },
+            { "front": "Perfect ellipse", "back": "ellipse parfaite" },
+            { "front": "Bright star", "back": "étoile brillante" },
+            { "front": "Big kite", "back": "grand cerf-volant" },
+            { "front": "Thin tetrahedron", "back": "tétraèdre mince" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "My square box", "back": "ma boîte carrée" },
+            { "front": "His round ball", "back": "son ballon rond" },
+            { "front": "Star is bright", "back": "l&#39;étoile est brillante" },
+            { "front": "Cone is tall", "back": "le cône est grand" },
+            { "front": "Diamond is perfect", "back": "le diamant est parfait" },
+            { "front": "The big pyramid", "back": "la grande pyramide" },
+            { "front": "Her blue diamond", "back": "son diamant bleu" },
+            { "front": "Our perfect square", "back": "notre carré parfait" },
+            { "front": "The round circle", "back": "le cercle rond" },
+            { "front": "My small cube", "back": "mon petit cube" },
+            { "front": "Their wide rectangle", "back": "leur large rectangle" },
+            { "front": "His sharp pentagon", "back": "son pentagone pointu" },
+            { "front": "The bright star", "back": "l&#39;étoile brillante" },
+            { "front": "My green sphere", "back": "ma sphère verte" },
+            { "front": "She has ellipse", "back": "elle a une ellipse" },
+            { "front": "The love triangle", "back": "le triangle amoureux" },
+            { "front": "I like hexagons", "back": "j&#39;aime les hexagones" },
+            { "front": "The silver arrow", "back": "la flèche d&#39;argent" },
+            { "front": "Our tall cylinder", "back": "notre grand cylindre" },
+            { "front": "The small trapezoid", "back": "le petit trapèze" },
+            {
+              "front": "Your perfect rhombus",
+              "back": "votre losange parfait"
+            },
+            { "front": "He owns cube", "back": "il possède le cube" },
+            { "front": "She finds kite", "back": "elle trouve un cerf-volant" },
+            {
+              "front": "The curved semicircle",
+              "back": "le demi-cercle courbé"
+            },
+            { "front": "Their golden cone", "back": "leur cône d&#39;or" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "We have square boxes",
+              "back": "nous avons des boîtes carrées"
+            },
+            {
+              "front": "They have round circles",
+              "back": "ils ont des cercles ronds"
+            },
+            {
+              "front": "Cones are very special",
+              "back": "les cônes sont très spéciaux"
+            },
+            {
+              "front": "Triangles are good shapes",
+              "back": "les triangles sont de bonnes formes"
+            },
+            {
+              "front": "We draw perfect squares",
+              "back": "nous dessinons des carrés parfaits"
+            },
+            {
+              "front": "He likes big pyramids",
+              "back": "il aime les grandes pyramides"
+            },
+            {
+              "front": "She has blue diamonds",
+              "back": "elle a des diamants bleus"
+            },
+            {
+              "front": "Stars are very bright",
+              "back": "les étoiles sont très brillantes"
+            },
+            {
+              "front": "My kite is perfect",
+              "back": "mon cerf-volant est parfait"
+            },
+            {
+              "front": "Their oval is unique",
+              "back": "leur ovale est unique"
+            },
+            {
+              "front": "We like wide rectangles",
+              "back": "nous aimons les rectangles larges"
+            },
+            {
+              "front": "She owns sharp pentagons",
+              "back": "elle possède des pentagones pointus"
+            },
+            {
+              "front": "The sphere looks amazing",
+              "back": "la sphère a l&#39;air incroyable"
+            },
+            { "front": "Our circle is round", "back": "notre cercle est rond" },
+            {
+              "front": "The trapezoid is small",
+              "back": "le trapèze est petit"
+            },
+            {
+              "front": "We love perfect rhombuses",
+              "back": "nous aimons les losanges parfaits"
+            },
+            { "front": "My cube is huge", "back": "mon cube est énorme" },
+            {
+              "front": "Their hexagon is flat",
+              "back": "leur hexagone est plat"
+            },
+            {
+              "front": "His cylinder is tall",
+              "back": "son cylindre est grand"
+            },
+            { "front": "Our cone is golden", "back": "notre cône est doré" },
+            {
+              "front": "She finds small diamonds",
+              "back": "elle trouve des petits diamants"
+            },
+            {
+              "front": "I draw big kites",
+              "back": "je dessine de grands cerfs-volants"
+            },
+            {
+              "front": "We like curved semicircles",
+              "back": "nous aimons les demi-cercles courbes"
+            },
+            {
+              "front": "The arrow is silver",
+              "back": "la flèche est en argent"
+            },
+            {
+              "front": "He likes wide hexagons",
+              "back": "il aime les hexagones larges"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "His square box is full",
+              "back": "sa boîte carrée est pleine"
+            },
+            {
+              "front": "Her blue diamond is shiny",
+              "back": "son diamant bleu brille"
+            },
+            {
+              "front": "The arrow points to north",
+              "back": "la flèche pointe vers le nord"
+            },
+            {
+              "front": "They create cylinders at work",
+              "back": "ils créent des cylindres au travail"
+            },
+            {
+              "front": "Pentagons are nice wall decorations",
+              "back": "les pentagones sont de jolies décorations murales"
+            },
+            {
+              "front": "Our round circles look perfect",
+              "back": "nos cercles ronds ont l&#39;air parfaits"
+            },
+            {
+              "front": "She likes tall pyramids today",
+              "back": "elle aime les hautes pyramides aujourd&#39;hui"
+            },
+            {
+              "front": "He draws triangles in class",
+              "back": "il dessine des triangles en classe"
+            },
+            {
+              "front": "My kite flies in the sky",
+              "back": "mon cerf-volant vole dans le ciel"
+            },
+            {
+              "front": "Their wide rectangle looks sharp",
+              "back": "leur large rectangle semble net"
+            },
+            {
+              "front": "I see stars in the sky",
+              "back": "je vois des étoiles dans le ciel"
+            },
+            {
+              "front": "The sphere is perfectly round",
+              "back": "la sphère est parfaitement ronde"
+            },
+            {
+              "front": "We have big trapezoid shapes",
+              "back": "nous avons de grandes formes trapézoïdales"
+            },
+            {
+              "front": "His cube is very large",
+              "back": "son cube est très grand"
+            },
+            {
+              "front": "She owns a small oval",
+              "back": "elle possède un petit ovale"
+            },
+            {
+              "front": "We like bright crescent moons",
+              "back": "nous aimons les croissants de lune brillants"
+            },
+            {
+              "front": "They prefer perfect square boxes",
+              "back": "ils préfèrent les boîtes carrées parfaites"
+            },
+            {
+              "front": "The cylinder stands very tall",
+              "back": "le cylindre est très haut"
+            },
+            {
+              "front": "Their hexagon design is unique",
+              "back": "leur conception hexagonale est unique"
+            },
+            {
+              "front": "I prefer sharp pentagon edges",
+              "back": "je préfère les bords pointus du pentagone"
+            },
+            {
+              "front": "He finds rhombuses very interesting",
+              "back": "il trouve les losanges très intéressants"
+            },
+            {
+              "front": "We paint big stars often",
+              "back": "nous peignons souvent de grandes étoiles"
+            },
+            {
+              "front": "The diamond shines very brightly",
+              "back": "le diamant brille très fort"
+            },
+            {
+              "front": "She owns a curved semicircle",
+              "back": "elle possède un demi-cercle courbé"
+            },
+            {
+              "front": "My cone is made of metal",
+              "back": "mon cône est en métal"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I have big boxes at home",
+              "back": "j&#39;ai de grandes boîtes à la maison"
+            },
+            {
+              "front": "She sells diamonds at the store",
+              "back": "elle vend des diamants au magasin"
+            },
+            {
+              "front": "Big ovals are not perfect circles",
+              "back": "les grands ovales ne sont pas des cercles parfaits"
+            },
+            {
+              "front": "The ancient pyramids are more mysterious",
+              "back": "les anciennes pyramides sont plus mystérieuses"
+            },
+            {
+              "front": "He draws perfect squares in class",
+              "back": "il dessine des carrés parfaits en classe"
+            },
+            {
+              "front": "They design hexagons for building decorations",
+              "back": "ils conçoivent des hexagones pour la décoration des bâtiments"
+            },
+            {
+              "front": "We like round circles at work",
+              "back": "nous aimons les cercles ronds au travail"
+            },
+            {
+              "front": "His arrow points directly to north",
+              "back": "sa flèche pointe directement vers le nord"
+            },
+            {
+              "front": "The cylinder stands tall in the corner",
+              "back": "le cylindre se dresse haut dans le coin"
+            },
+            {
+              "front": "She creates colorful trapezoids for school",
+              "back": "elle crée des trapèzes colorés pour l&#39;école"
+            },
+            {
+              "front": "Our stars shine brightly in the sky",
+              "back": "nos étoiles brillent dans le ciel"
+            },
+            {
+              "front": "He has a huge rectangle at home",
+              "back": "il a un énorme rectangle à la maison"
+            },
+            {
+              "front": "The big sphere rolls down the hill",
+              "back": "la grande sphère roule en bas de la colline"
+            },
+            {
+              "front": "Her diamond necklace shines in the light",
+              "back": "son collier de diamants brille à la lumière"
+            },
+            {
+              "front": "They use cones to mark roads",
+              "back": "ils utilisent des cônes pour marquer les routes"
+            },
+            {
+              "front": "My friend loves perfect square designs",
+              "back": "mon ami adore les motifs carrés parfaits"
+            },
+            {
+              "front": "The wide cube fits in place",
+              "back": "le large cube s&#39;adapte en place"
+            },
+            {
+              "front": "We draw rhombuses for our project",
+              "back": "nous dessinons des losanges pour notre projet"
+            },
+            {
+              "front": "She creates pentagons for her class",
+              "back": "elle crée des pentagones pour sa classe"
+            },
+            {
+              "front": "He cuts rectangles for his class",
+              "back": "il découpe des rectangles pour sa classe"
+            },
+            {
+              "front": "My kite flies high in the sky",
+              "back": "mon cerf-volant vole haut dans le ciel"
+            },
+            {
+              "front": "The curved semicircle looks very elegant",
+              "back": "le demi-cercle incurvé semble très élégant"
+            },
+            {
+              "front": "We love creating parallelograms for fun",
+              "back": "nous aimons créer des parallélogrammes pour le plaisir"
+            },
+            {
+              "front": "They prefer tall cylinders for work",
+              "back": "ils préfèrent les grands cylindres pour travailler"
+            },
+            {
+              "front": "The large pyramid is very famous",
+              "back": "la grande pyramide est très célèbre"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Was a square", "back": "était un carré" },
+            { "front": "Was a circle", "back": "était un cercle" },
+            { "front": "Was a cube", "back": "était un cube" },
+            { "front": "Was a triangle", "back": "était un triangle" },
+            { "front": "Was a pyramid", "back": "était une pyramide" },
+            { "front": "Was a hexagon", "back": "était un hexagone" },
+            { "front": "Was a star", "back": "était une star" },
+            { "front": "Was a rhombus", "back": "était un losange" },
+            { "front": "Was a rectangle", "back": "était un rectangle" },
+            { "front": "Was an oval", "back": "était un ovale" },
+            { "front": "Was a pentagon", "back": "était un pentagone" },
+            { "front": "Was an arrow", "back": "était une flèche" },
+            { "front": "Was a sphere", "back": "était une sphère" },
+            { "front": "Was a diamond", "back": "était un diamant" },
+            { "front": "Was a trapezoid", "back": "était un trapèze" },
+            { "front": "Was a cylinder", "back": "était un cylindre" },
+            { "front": "Was a cone", "back": "était un cône" },
+            { "front": "Was a semicircle", "back": "était un demi-cercle" },
+            { "front": "Was an ellipse", "back": "était une ellipse" },
+            { "front": "Was a kite", "back": "était un cerf-volant" },
+            {
+              "front": "Was a parallelogram",
+              "back": "était un parallélogramme"
+            },
+            { "front": "Was a tetrahedron", "back": "était un tétraèdre" },
+            { "front": "Was a quadrilateral", "back": "était un quadrilatère" },
+            { "front": "Was a crescent", "back": "était un croissant" },
+            { "front": "Was a tetrahedron", "back": "était un tétraèdre" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I was making squares",
+              "back": "je faisais des carrés"
+            },
+            {
+              "front": "They needed big circles",
+              "back": "ils avaient besoin de grands cercles"
+            },
+            {
+              "front": "Diamonds were my favorite",
+              "back": "les diamants étaient mes préférés"
+            },
+            {
+              "front": "We drew perfect squares",
+              "back": "nous avons dessiné des carrés parfaits"
+            },
+            {
+              "front": "She had round circles",
+              "back": "elle avait des cercles ronds"
+            },
+            {
+              "front": "He drew small stars",
+              "back": "il a dessiné des petites étoiles"
+            },
+            {
+              "front": "I was designing triangles",
+              "back": "je concevais des triangles"
+            },
+            {
+              "front": "They painted large rectangles",
+              "back": "ils ont peint de grands rectangles"
+            },
+            {
+              "front": "We used blue hexagons",
+              "back": "nous avons utilisé des hexagones bleus"
+            },
+            {
+              "front": "He created big pyramids",
+              "back": "il a créé de grandes pyramides"
+            },
+            {
+              "front": "She liked golden diamonds",
+              "back": "elle aimait les diamants dorés"
+            },
+            {
+              "front": "They were making cylinders",
+              "back": "ils fabriquaient des cylindres"
+            },
+            {
+              "front": "We built tall cones",
+              "back": "nous avons construit de grands cônes"
+            },
+            {
+              "front": "I cut many trapezoids",
+              "back": "j&#39;ai coupé de nombreux trapèzes"
+            },
+            { "front": "He found a sphere", "back": "il a trouvé une sphère" },
+            {
+              "front": "She made small ovals",
+              "back": "elle a fait de petits ovales"
+            },
+            {
+              "front": "They created perfect rhombuses",
+              "back": "ils ont créé des losanges parfaits"
+            },
+            {
+              "front": "I liked wide parallelograms",
+              "back": "j&#39;ai aimé les parallélogrammes larges"
+            },
+            {
+              "front": "He used sharp pentagons",
+              "back": "il a utilisé des pentagones pointus"
+            },
+            {
+              "front": "She bought a crescent",
+              "back": "elle a acheté un croissant"
+            },
+            {
+              "front": "We discovered ancient pyramids",
+              "back": "nous avons découvert d&#39;anciennes pyramides"
+            },
+            {
+              "front": "They liked curved semicircles",
+              "back": "ils aimaient les demi-cercles courbés"
+            },
+            {
+              "front": "He wanted big cubes",
+              "back": "il voulait de gros cubes"
+            },
+            {
+              "front": "I found large arrows",
+              "back": "j&#39;ai trouvé de grosses flèches"
+            },
+            {
+              "front": "They loved tall cylinders",
+              "back": "ils aimaient les grands cylindres"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I painted pictures with circles",
+              "back": "j&#39;ai peint des tableaux avec des cercles"
+            },
+            {
+              "front": "They used square boxes today",
+              "back": "ils utilisaient des boîtes carrées aujourd&#39;hui"
+            },
+            {
+              "front": "Everyone was inside the pyramid",
+              "back": "tout le monde était à l&#39;intérieur de la pyramide"
+            },
+            {
+              "front": "Large arrows showed them where",
+              "back": "de grandes flèches leur indiquaient où"
+            },
+            {
+              "front": "We designed beautiful star shapes",
+              "back": "nous avons conçu de belles formes d&#39;étoiles"
+            },
+            {
+              "front": "She cut perfect blue diamonds",
+              "back": "elle a taillé des diamants bleus parfaits"
+            },
+            {
+              "front": "He found a golden hexagon",
+              "back": "il a trouvé un hexagone doré"
+            },
+            {
+              "front": "I made small red rectangles",
+              "back": "j&#39;ai fait des petits rectangles rouges"
+            },
+            {
+              "front": "They liked the large cubes",
+              "back": "ils aimaient les gros cubes"
+            },
+            {
+              "front": "She used many green triangles",
+              "back": "elle a utilisé de nombreux triangles verts"
+            },
+            {
+              "front": "We built huge tall cones",
+              "back": "nous avons construit d&#39;énormes cônes hauts"
+            },
+            {
+              "front": "He discovered ancient sharp rhombuses",
+              "back": "il a découvert d&#39;anciens losanges pointus"
+            },
+            {
+              "front": "I found a curved semicircle",
+              "back": "j&#39;ai trouvé un demi-cercle courbé"
+            },
+            {
+              "front": "They loved their round spheres",
+              "back": "ils aimaient leurs sphères rondes"
+            },
+            {
+              "front": "We created bright golden trapezoids",
+              "back": "nous avons créé des trapèzes dorés brillants"
+            },
+            {
+              "front": "He was drawing small kites",
+              "back": "il dessinait des petits cerfs-volants"
+            },
+            {
+              "front": "She preferred the thin ovals",
+              "back": "elle préférait les ovales fins"
+            },
+            {
+              "front": "I enjoyed making pentagon patterns",
+              "back": "j&#39;ai aimé faire des motifs pentagonaux"
+            },
+            {
+              "front": "We used the big cylinders",
+              "back": "nous avons utilisé les gros cylindres"
+            },
+            {
+              "front": "They designed complex parallelograms yesterday",
+              "back": "ils ont conçu des parallélogrammes complexes hier"
+            },
+            {
+              "front": "He chose large rectangles today",
+              "back": "il a choisi de grands rectangles aujourd&#39;hui"
+            },
+            {
+              "front": "She discovered ancient pyramids yesterday",
+              "back": "elle a découvert d&#39;anciennes pyramides hier"
+            },
+            {
+              "front": "They admired the perfect crescent",
+              "back": "ils admiraient le croissant parfait"
+            },
+            {
+              "front": "We painted big square walls",
+              "back": "nous avons peint de grands murs carrés"
+            },
+            {
+              "front": "I made a tall cylinder",
+              "back": "j&#39;ai fait un grand cylindre"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I painted big pictures with circles",
+              "back": "j&#39;ai peint de grands tableaux avec des cercles"
+            },
+            {
+              "front": "They used square boxes all day",
+              "back": "ils ont utilisé des boîtes carrées toute la journée"
+            },
+            {
+              "front": "Everyone was inside the ancient pyramid",
+              "back": "tout le monde était à l&#39;intérieur de l&#39;ancienne pyramide"
+            },
+            {
+              "front": "Large arrows showed them the way",
+              "back": "de grandes flèches leur ont montré le chemin"
+            },
+            {
+              "front": "We designed beautiful stars for decorations",
+              "back": "nous avons conçu de belles étoiles pour la décoration"
+            },
+            {
+              "front": "She cut perfect blue diamond shapes",
+              "back": "elle a taillé des formes de diamants bleus parfaites"
+            },
+            {
+              "front": "He found a golden hexagon pattern",
+              "back": "il a trouvé un motif hexagonal doré"
+            },
+            {
+              "front": "I made small red rectangular boxes",
+              "back": "j&#39;ai fait des petites boîtes rectangulaires rouges"
+            },
+            {
+              "front": "They admired the large round cubes",
+              "back": "ils admiraient les gros cubes ronds"
+            },
+            {
+              "front": "She used many green triangle cutouts",
+              "back": "elle a utilisé de nombreuses découpes de triangles verts"
+            },
+            {
+              "front": "We built huge cones for the project",
+              "back": "nous avons construit d&#39;énormes cônes pour le projet"
+            },
+            {
+              "front": "He discovered ancient sharp rhombus designs",
+              "back": "il a découvert d&#39;anciens motifs de losanges pointus"
+            },
+            {
+              "front": "I found a curved semicircle yesterday",
+              "back": "j&#39;ai trouvé un demi-cercle courbé hier"
+            },
+            {
+              "front": "They loved their big round spheres",
+              "back": "ils aimaient leurs grandes sphères rondes"
+            },
+            {
+              "front": "We created bright golden trapezoid patterns",
+              "back": "nous avons créé des motifs trapézoïdaux dorés brillants"
+            },
+            {
+              "front": "He was drawing small colorful kites",
+              "back": "il dessinait des petits cerfs-volants colorés"
+            },
+            {
+              "front": "She preferred the thin yellow ovals",
+              "back": "elle préférait les ovales jaunes fins"
+            },
+            {
+              "front": "I enjoyed making perfect pentagon patterns",
+              "back": "j&#39;ai aimé faire des motifs pentagonaux parfaits"
+            },
+            {
+              "front": "We used the tall glass cylinders",
+              "back": "nous avons utilisé les grands cylindres en verre"
+            },
+            {
+              "front": "They designed complex parallelograms last week",
+              "back": "ils ont conçu des parallélogrammes complexes la semaine dernière"
+            },
+            {
+              "front": "He chose large rectangular shapes today",
+              "back": "il a choisi aujourd&#39;hui de grandes formes rectangulaires"
+            },
+            {
+              "front": "She discovered ancient pyramids last year",
+              "back": "elle a découvert d&#39;anciennes pyramides l&#39;année dernière"
+            },
+            {
+              "front": "They admired the silver crescent moon",
+              "back": "ils admiraient le croissant de lune argenté"
+            },
+            {
+              "front": "We painted big square murals yesterday",
+              "back": "nous avons peint de grandes fresques murales carrées hier"
+            },
+            {
+              "front": "I made a tall metal cylinder",
+              "back": "j&#39;ai fait un grand cylindre en métal"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will be square", "back": "sera carré" },
+            { "front": "Will be triangular", "back": "sera triangulaire" },
+            { "front": "Will be round", "back": "sera rond" },
+            { "front": "Will be rectangular", "back": "sera rectangulaire" },
+            { "front": "Will be circular", "back": "sera circulaire" },
+            { "front": "Will be cubic", "back": "sera cubique" },
+            { "front": "Will be hexagonal", "back": "sera hexagonal" },
+            {
+              "front": "Will be star-shaped",
+              "back": "sera en forme d&#39;étoile"
+            },
+            { "front": "Will be conical", "back": "sera conique" },
+            { "front": "Will be pentagonal", "back": "sera pentagonal" },
+            { "front": "Will be elliptical", "back": "sera elliptique" },
+            {
+              "front": "Will be diamond-shaped",
+              "back": "sera en forme de losange"
+            },
+            { "front": "Will be spherical", "back": "sera sphérique" },
+            { "front": "Will be trapezoidal", "back": "sera trapézoïdal" },
+            { "front": "Will be cylindrical", "back": "sera cylindrique" },
+            { "front": "Will be pyramidal", "back": "sera pyramidal" },
+            { "front": "Will be rhombus", "back": "sera un losange" },
+            { "front": "Will be octagonal", "back": "sera octogonal" },
+            {
+              "front": "Will be kite-shaped",
+              "back": "aura la forme d&#39;un cerf-volant"
+            },
+            { "front": "Will be crescent", "back": "sera en croissant" },
+            {
+              "front": "Will be arrow-shaped",
+              "back": "sera en forme de flèche"
+            },
+            {
+              "front": "Will be parallelogram",
+              "back": "sera un parallélogramme"
+            },
+            { "front": "Will be tetrahedron", "back": "sera un tétraèdre" },
+            { "front": "Will be semicircular", "back": "sera semi-circulaire" },
+            { "front": "Will be quadrilateral", "back": "sera quadrilatère" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will use squares",
+              "back": "j&#39;utiliserai des carrés"
+            },
+            {
+              "front": "She will buy diamonds",
+              "back": "elle achètera des diamants"
+            },
+            {
+              "front": "Arrows will be useful",
+              "back": "les flèches seront utiles"
+            },
+            {
+              "front": "We will draw circles",
+              "back": "nous allons dessiner des cercles"
+            },
+            {
+              "front": "He will create triangles",
+              "back": "il créera des triangles"
+            },
+            {
+              "front": "They will design hexagons",
+              "back": "ils concevront des hexagones"
+            },
+            {
+              "front": "We will make stars",
+              "back": "nous ferons des étoiles"
+            },
+            {
+              "front": "She will need rectangles",
+              "back": "elle aura besoin de rectangles"
+            },
+            { "front": "He will buy cubes", "back": "il achètera des cubes" },
+            {
+              "front": "I will build pyramids",
+              "back": "je construirai des pyramides"
+            },
+            {
+              "front": "They will find trapezoids",
+              "back": "ils trouveront des trapèzes"
+            },
+            {
+              "front": "We will use cylinders",
+              "back": "nous utiliserons des cylindres"
+            },
+            {
+              "front": "She will paint ovals",
+              "back": "elle peindra des ovales"
+            },
+            {
+              "front": "He will choose spheres",
+              "back": "il choisira des sphères"
+            },
+            {
+              "front": "They will make kites",
+              "back": "ils feront des cerfs-volants"
+            },
+            {
+              "front": "I will cut rhombuses",
+              "back": "je vais couper des losanges"
+            },
+            {
+              "front": "She will need crescents",
+              "back": "elle aura besoin de croissants"
+            },
+            {
+              "front": "He will use pentagons",
+              "back": "il utilisera des pentagones"
+            },
+            {
+              "front": "We will draw arrows",
+              "back": "nous allons dessiner des flèches"
+            },
+            {
+              "front": "They will build cones",
+              "back": "ils construiront des cônes"
+            },
+            {
+              "front": "I will find ellipses",
+              "back": "je trouverai des ellipses"
+            },
+            {
+              "front": "She will create parallelograms",
+              "back": "elle créera des parallélogrammes"
+            },
+            {
+              "front": "He will design tetrahedrons",
+              "back": "il concevra des tétraèdres"
+            },
+            {
+              "front": "We will make quadrilaterals",
+              "back": "nous ferons des quadrilatères"
+            },
+            {
+              "front": "They will draw semicircles",
+              "back": "ils dessineront des demi-cercles"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will use square boxes",
+              "back": "j&#39;utiliserai des cases carrées"
+            },
+            {
+              "front": "She will buy diamond shapes",
+              "back": "elle achètera des formes de diamant"
+            },
+            {
+              "front": "Arrows will be very helpful",
+              "back": "les flèches seront très utiles"
+            },
+            {
+              "front": "We will draw perfect circles",
+              "back": "nous allons dessiner des cercles parfaits"
+            },
+            {
+              "front": "He will create tall triangles",
+              "back": "il créera de grands triangles"
+            },
+            {
+              "front": "They will design hexagon walls",
+              "back": "ils concevront des murs hexagonaux"
+            },
+            {
+              "front": "We will make bright stars",
+              "back": "nous ferons des étoiles brillantes"
+            },
+            {
+              "front": "She will need large rectangles",
+              "back": "elle aura besoin de grands rectangles"
+            },
+            {
+              "front": "He will buy small cubes",
+              "back": "il achètera des petits cubes"
+            },
+            {
+              "front": "I will build ancient pyramids",
+              "back": "je construirai d&#39;anciennes pyramides"
+            },
+            {
+              "front": "They will find trapezoid shapes",
+              "back": "ils trouveront des formes trapézoïdales"
+            },
+            {
+              "front": "We will use tall cylinders",
+              "back": "nous utiliserons des cylindres hauts"
+            },
+            {
+              "front": "She will paint colorful ovals",
+              "back": "elle peindra des ovales colorés"
+            },
+            {
+              "front": "He will choose round spheres",
+              "back": "il choisira des sphères rondes"
+            },
+            {
+              "front": "They will make red kites",
+              "back": "ils feront des milans royaux"
+            },
+            {
+              "front": "I will cut sharp rhombuses",
+              "back": "je vais couper des losanges pointus"
+            },
+            {
+              "front": "She will need curved crescents",
+              "back": "elle aura besoin de croissants courbés"
+            },
+            {
+              "front": "He will use golden pentagons",
+              "back": "il utilisera des pentagones dorés"
+            },
+            {
+              "front": "We will draw straight arrows",
+              "back": "nous allons dessiner des flèches droites"
+            },
+            {
+              "front": "They will build tall cones",
+              "back": "ils construiront de grands cônes"
+            },
+            {
+              "front": "I will find large ellipses",
+              "back": "je trouverai de grandes ellipses"
+            },
+            {
+              "front": "She will create complex parallelograms",
+              "back": "elle créera des parallélogrammes complexes"
+            },
+            {
+              "front": "He will design new tetrahedrons",
+              "back": "il concevra de nouveaux tétraèdres"
+            },
+            {
+              "front": "We will make perfect quadrilaterals",
+              "back": "nous ferons des quadrilatères parfaits"
+            },
+            {
+              "front": "They will draw curved semicircles",
+              "back": "ils dessineront des demi-cercles courbes"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will use square boxes tomorrow",
+              "back": "j&#39;utiliserai des boîtes carrées demain"
+            },
+            {
+              "front": "She will buy diamond shapes soon",
+              "back": "elle achètera bientôt des formes de diamant"
+            },
+            {
+              "front": "Arrows will be very helpful tomorrow",
+              "back": "les flèches seront très utiles demain"
+            },
+            {
+              "front": "We will draw perfect circles today",
+              "back": "nous allons dessiner des cercles parfaits aujourd&#39;hui"
+            },
+            {
+              "front": "He will create tall triangles tomorrow",
+              "back": "il créera de grands triangles demain"
+            },
+            {
+              "front": "They will design hexagon walls soon",
+              "back": "ils vont bientôt concevoir des murs hexagonaux"
+            },
+            {
+              "front": "We will make bright stars tonight",
+              "back": "nous ferons des étoiles brillantes ce soir"
+            },
+            {
+              "front": "She will need large rectangles soon",
+              "back": "elle aura bientôt besoin de grands rectangles"
+            },
+            {
+              "front": "He will buy small cubes tomorrow",
+              "back": "il achètera des petits cubes demain"
+            },
+            {
+              "front": "I will build ancient pyramids soon",
+              "back": "je construirai bientôt d&#39;anciennes pyramides"
+            },
+            {
+              "front": "They will find trapezoid shapes tomorrow",
+              "back": "ils trouveront des formes trapézoïdales demain"
+            },
+            {
+              "front": "We will use tall cylinders later",
+              "back": "nous utiliserons des cylindres hauts plus tard"
+            },
+            {
+              "front": "She will paint colorful ovals tomorrow",
+              "back": "elle peindra des ovales colorés demain"
+            },
+            {
+              "front": "He will choose round spheres tomorrow",
+              "back": "il choisira des sphères rondes demain"
+            },
+            {
+              "front": "They will make red kites tomorrow",
+              "back": "ils feront des milans royaux demain"
+            },
+            {
+              "front": "I will cut sharp rhombuses today",
+              "back": "je vais couper des losanges pointus aujourd&#39;hui"
+            },
+            {
+              "front": "She will need curved crescents later",
+              "back": "elle aura besoin de croissants courbés plus tard"
+            },
+            {
+              "front": "He will use golden pentagons tomorrow",
+              "back": "il utilisera des pentagones dorés demain"
+            },
+            {
+              "front": "We will draw straight arrows today",
+              "back": "nous allons dessiner des flèches droites aujourd&#39;hui"
+            },
+            {
+              "front": "They will build tall cones tomorrow",
+              "back": "ils construiront de grands cônes demain"
+            },
+            {
+              "front": "I will find large ellipses soon",
+              "back": "je trouverai bientôt de grandes ellipses"
+            },
+            {
+              "front": "She will create complex parallelograms soon",
+              "back": "elle créera bientôt des parallélogrammes complexes"
+            },
+            {
+              "front": "He will design new tetrahedrons soon",
+              "back": "il concevra bientôt de nouveaux tétraèdres"
+            },
+            {
+              "front": "We will make perfect quadrilaterals soon",
+              "back": "nous allons bientôt réaliser des quadrilatères parfaits"
+            },
+            {
+              "front": "They will draw curved semicircles tomorrow",
+              "back": "ils dessineront des demi-cercles courbes demain"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

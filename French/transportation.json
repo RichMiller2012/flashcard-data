@@ -1,0 +1,2456 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Transportation",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Route", "back": "itinéraire" },
+            { "front": "Schedule", "back": "calendrier" },
+            { "front": "Ticket", "back": "billet" },
+            { "front": "Station", "back": "gare" },
+            { "front": "Platform", "back": "plate-forme" },
+            { "front": "Transfer", "back": "transfert" },
+            { "front": "Cargo", "back": "cargaison" },
+            { "front": "Freight", "back": "fret" },
+            { "front": "Transit", "back": "transit" },
+            { "front": "Commute", "back": "navette" },
+            { "front": "Journey", "back": "voyage" },
+            { "front": "Connection", "back": "connexion" },
+            { "front": "Departure", "back": "départ" },
+            { "front": "Arrival", "back": "arrivée" },
+            { "front": "Boarding", "back": "embarquement" },
+            { "front": "Queue", "back": "file d&#39;attente" },
+            { "front": "Fare", "back": "Faire" },
+            { "front": "Luggage", "back": "bagage" },
+            { "front": "Safety", "back": "sécurité" },
+            { "front": "Regulation", "back": "règlement" },
+            { "front": "Signage", "back": "signalisation" },
+            { "front": "Conductor", "back": "conducteur" },
+            { "front": "Passenger", "back": "passager" },
+            { "front": "Navigation", "back": "navigation" },
+            { "front": "Inspection", "back": "inspection" },
+            { "front": "Traffic", "back": "trafic" },
+            { "front": "Control", "back": "contrôle" },
+            { "front": "Signaling", "back": "signalisation" },
+            { "front": "Distance", "back": "distance" },
+            { "front": "Destination", "back": "destination" },
+            { "front": "Reservation", "back": "réservation" },
+            { "front": "Payment", "back": "paiement" },
+            { "front": "Accessibility", "back": "accessibilité" },
+            { "front": "Transportation", "back": "transport" },
+            { "front": "Infrastructure", "back": "infrastructure" },
+            { "front": "Service", "back": "service" },
+            { "front": "Operation", "back": "opération" },
+            { "front": "Capacity", "back": "capacité" },
+            { "front": "Compliance", "back": "conformité" },
+            { "front": "Conveyance", "back": "transport" },
+            { "front": "Movement", "back": "mouvement" },
+            { "front": "Modal", "back": "capital" },
+            { "front": "Planning", "back": "planification" },
+            { "front": "Allocation", "back": "allocation" },
+            { "front": "Logistics", "back": "logistique" },
+            { "front": "Network", "back": "réseau" },
+            { "front": "Hub", "back": "moyeu" },
+            { "front": "Interchange", "back": "échange" },
+            { "front": "Routing", "back": "routage" },
+            { "front": "System", "back": "système" },
+            { "front": "Cycle", "back": "faire du vélo" },
+            { "front": "Efficiency", "back": "efficacité" },
+            { "front": "Compliance", "back": "conformité" },
+            { "front": "Consultation", "back": "consultation" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "departure time", "back": "heure de départ" },
+            { "front": "arrival schedule", "back": "horaire d&#39;arrivée" },
+            { "front": "ticket counter", "back": "guichet" },
+            { "front": "platform number", "back": "numéro de quai" },
+            { "front": "route map", "back": "carte routière" },
+            { "front": "cargo space", "back": "espace de chargement" },
+            { "front": "freight load", "back": "chargement de fret" },
+            { "front": "commute route", "back": "itinéraire de trajet" },
+            { "front": "queue line", "back": "file d&#39;attente" },
+            { "front": "fare price", "back": "prix du tarif" },
+            { "front": "passenger service", "back": "service aux passagers" },
+            { "front": "transfer station", "back": "station de transfert" },
+            { "front": "traffic signal", "back": "feu de circulation" },
+            { "front": "safety measure", "back": "mesure de sécurité" },
+            { "front": "inspection area", "back": "zone d&#39;inspection" },
+            { "front": "journey plan", "back": "plan de voyage" },
+            { "front": "navigation tool", "back": "outil de navigation" },
+            { "front": "bus stop", "back": "arrêt de bus" },
+            { "front": "rail line", "back": "ligne de chemin de fer" },
+            { "front": "logistics network", "back": "réseau logistique" },
+            { "front": "modal transport", "back": "transport modal" },
+            { "front": "travel allowance", "back": "indemnité de déplacement" },
+            { "front": "system upgrade", "back": "mise à niveau du système" },
+            { "front": "capacity limit", "back": "limite de capacité" },
+            {
+              "front": "accessibility feature",
+              "back": "fonctionnalité d&#39;accessibilité"
+            },
+            {
+              "front": "route planner",
+              "back": "planificateur d&#39;itinéraire"
+            },
+            { "front": "connection point", "back": "point de connexion" },
+            { "front": "service area", "back": "aire de service" },
+            {
+              "front": "consultation meeting",
+              "back": "réunion de consultation"
+            },
+            { "front": "compliance check", "back": "contrôle de conformité" },
+            {
+              "front": "operation schedule",
+              "back": "calendrier des opérations"
+            },
+            { "front": "movement tracking", "back": "suivi des mouvements" },
+            { "front": "distance measurement", "back": "mesure de distance" },
+            { "front": "hub location", "back": "emplacement du hub" },
+            { "front": "network analysis", "back": "analyse de réseau" },
+            {
+              "front": "allocation strategy",
+              "back": "stratégie d&#39;allocation"
+            },
+            { "front": "signage system", "back": "système de signalisation" },
+            { "front": "traffic report", "back": "rapport de circulation" },
+            {
+              "front": "consultation service",
+              "back": "service de consultation"
+            },
+            { "front": "logistics plan", "back": "plan logistique" },
+            { "front": "bicycle lane", "back": "piste cyclable" },
+            {
+              "front": "emergency response",
+              "back": "intervention d&#39;urgence"
+            },
+            { "front": "driving rule", "back": "règle de conduite" },
+            { "front": "road safety", "back": "sécurité routière" },
+            { "front": "service route", "back": "itinéraire de service" },
+            { "front": "schedule update", "back": "mise à jour du calendrier" },
+            { "front": "traffic congestion", "back": "embouteillages" },
+            { "front": "reservation system", "back": "système de réservation" },
+            { "front": "planning meeting", "back": "réunion de planification" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "good departure time", "back": "bonne heure de départ" },
+            {
+              "front": "reliable arrival schedule",
+              "back": "horaire d&#39;arrivée fiable"
+            },
+            {
+              "front": "busy ticket counter",
+              "back": "guichet très fréquenté"
+            },
+            {
+              "front": "correct platform number",
+              "back": "numéro de quai correct"
+            },
+            { "front": "clear route map", "back": "carte routière claire" },
+            {
+              "front": "limited cargo space",
+              "back": "espace de chargement limité"
+            },
+            { "front": "heavy freight load", "back": "charge de fret lourde" },
+            {
+              "front": "long commute route",
+              "back": "long trajet domicile-travail"
+            },
+            {
+              "front": "active queue line",
+              "back": "file d&#39;attente active"
+            },
+            {
+              "front": "rising fare price",
+              "back": "hausse du prix du billet"
+            },
+            {
+              "front": "excellent passenger service",
+              "back": "excellent service aux passagers"
+            },
+            {
+              "front": "crowded transfer station",
+              "back": "station de transfert bondée"
+            },
+            {
+              "front": "green traffic signal",
+              "back": "feu de circulation vert"
+            },
+            {
+              "front": "important safety measure",
+              "back": "mesure de sécurité importante"
+            },
+            {
+              "front": "busy inspection area",
+              "back": "zone d&#39;inspection très fréquentée"
+            },
+            { "front": "clear journey plan", "back": "plan de voyage clair" },
+            {
+              "front": "accurate navigation tool",
+              "back": "outil de navigation précis"
+            },
+            { "front": "nearby bus stop", "back": "arrêt de bus à proximité" },
+            { "front": "smooth rail line", "back": "ligne ferroviaire lisse" },
+            {
+              "front": "efficient logistics network",
+              "back": "réseau logistique efficace"
+            },
+            {
+              "front": "varied modal transport",
+              "back": "transport modal varié"
+            },
+            {
+              "front": "flexible travel allowance",
+              "back": "indemnité de déplacement flexible"
+            },
+            {
+              "front": "beneficial system upgrade",
+              "back": "mise à niveau bénéfique du système"
+            },
+            {
+              "front": "reached capacity limit",
+              "back": "limite de capacité atteinte"
+            },
+            {
+              "front": "useful accessibility feature",
+              "back": "fonctionnalité d&#39;accessibilité utile"
+            },
+            {
+              "front": "handy route planner",
+              "back": "planificateur d&#39;itinéraire pratique"
+            },
+            {
+              "front": "convenient connection point",
+              "back": "point de connexion pratique"
+            },
+            { "front": "clean service area", "back": "zone de service propre" },
+            {
+              "front": "productive consultation meeting",
+              "back": "réunion de consultation productive"
+            },
+            {
+              "front": "necessary compliance check",
+              "back": "vérification de conformité nécessaire"
+            },
+            {
+              "front": "updated operation schedule",
+              "back": "calendrier d&#39;opération mis à jour"
+            },
+            {
+              "front": "accurate movement tracking",
+              "back": "suivi précis des mouvements"
+            },
+            {
+              "front": "precise distance measurement",
+              "back": "mesure précise de la distance"
+            },
+            {
+              "front": "accessible hub location",
+              "back": "emplacement du hub accessible"
+            },
+            {
+              "front": "insightful network analysis",
+              "back": "analyse de réseau approfondie"
+            },
+            {
+              "front": "efficient allocation strategy",
+              "back": "stratégie d&#39;allocation efficace"
+            },
+            {
+              "front": "clear signage system",
+              "back": "système de signalisation clair"
+            },
+            {
+              "front": "informative traffic report",
+              "back": "rapport de trafic informatif"
+            },
+            {
+              "front": "helpful consultation service",
+              "back": "service de consultation utile"
+            },
+            {
+              "front": "effective logistics plan",
+              "back": "plan logistique efficace"
+            },
+            {
+              "front": "safe bicycle lane",
+              "back": "piste cyclable sécurisée"
+            },
+            {
+              "front": "swift emergency response",
+              "back": "réponse d&#39;urgence rapide"
+            },
+            {
+              "front": "universal driving rule",
+              "back": "règle de conduite universelle"
+            },
+            {
+              "front": "crucial road safety",
+              "back": "sécurité routière cruciale"
+            },
+            {
+              "front": "adjusted service route",
+              "back": "itinéraire de service ajusté"
+            },
+            {
+              "front": "necessary schedule update",
+              "back": "mise à jour du calendrier nécessaire"
+            },
+            {
+              "front": "traffic congestion issue",
+              "back": "problème de congestion du trafic"
+            },
+            {
+              "front": "efficient reservation system",
+              "back": "système de réservation efficace"
+            },
+            {
+              "front": "important planning meeting",
+              "back": "réunion de planification importante"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "departure time is approaching",
+              "back": "l&#39;heure de départ approche"
+            },
+            {
+              "front": "arrival schedule shows delays",
+              "back": "l&#39;horaire d&#39;arrivée indique des retards"
+            },
+            {
+              "front": "ticket counter is busy",
+              "back": "le guichet est occupé"
+            },
+            {
+              "front": "platform number is changing",
+              "back": "le numéro de quai change"
+            },
+            {
+              "front": "route map indicates detour",
+              "back": "la carte routière indique un détour"
+            },
+            {
+              "front": "cargo space is limited",
+              "back": "l&#39;espace de chargement est limité"
+            },
+            {
+              "front": "freight load is heavy",
+              "back": "la charge de fret est lourde"
+            },
+            {
+              "front": "commute route takes longer",
+              "back": "le trajet domicile-travail prend plus de temps"
+            },
+            {
+              "front": "queue line is forming",
+              "back": "une file d&#39;attente se forme"
+            },
+            {
+              "front": "fare price is rising",
+              "back": "le prix du billet augmente"
+            },
+            {
+              "front": "passenger service is excellent",
+              "back": "le service aux passagers est excellent"
+            },
+            {
+              "front": "transfer station is crowded",
+              "back": "la station de transfert est bondée"
+            },
+            {
+              "front": "traffic signal turns red",
+              "back": "le feu de circulation devient rouge"
+            },
+            {
+              "front": "safety measure is essential",
+              "back": "la mesure de sécurité est essentielle"
+            },
+            {
+              "front": "inspection area is busy",
+              "back": "la zone d&#39;inspection est occupée"
+            },
+            {
+              "front": "journey plan is confirmed",
+              "back": "le plan de voyage est confirmé"
+            },
+            {
+              "front": "navigation tool is accurate",
+              "back": "l&#39;outil de navigation est précis"
+            },
+            {
+              "front": "bus stop is nearby",
+              "back": "l&#39;arrêt de bus est à proximité"
+            },
+            {
+              "front": "rail line operates smoothly",
+              "back": "la ligne ferroviaire fonctionne sans problème"
+            },
+            {
+              "front": "logistics network is efficient",
+              "back": "le réseau logistique est efficace"
+            },
+            {
+              "front": "modal transport includes options",
+              "back": "le transport modal comprend des options"
+            },
+            {
+              "front": "travel allowance is sufficient",
+              "back": "l&#39;indemnité de déplacement est suffisante"
+            },
+            {
+              "front": "system upgrade improves efficiency",
+              "back": "la mise à niveau du système améliore l&#39;efficacité"
+            },
+            {
+              "front": "capacity limit is reached",
+              "back": "la limite de capacité est atteinte"
+            },
+            {
+              "front": "accessibility feature helps everyone",
+              "back": "la fonctionnalité d&#39;accessibilité aide tout le monde"
+            },
+            {
+              "front": "route planner is useful",
+              "back": "le planificateur d&#39;itinéraire est utile"
+            },
+            {
+              "front": "connection point is convenient",
+              "back": "le point de connexion est pratique"
+            },
+            {
+              "front": "service area is clean",
+              "back": "la zone de service est propre"
+            },
+            {
+              "front": "consultation meeting is scheduled",
+              "back": "une réunion de consultation est prévue"
+            },
+            {
+              "front": "compliance check is mandatory",
+              "back": "le contrôle de conformité est obligatoire"
+            },
+            {
+              "front": "operation schedule is posted",
+              "back": "le calendrier des opérations est affiché"
+            },
+            {
+              "front": "movement tracking is accurate",
+              "back": "le suivi des mouvements est précis"
+            },
+            {
+              "front": "distance measurement is precise",
+              "back": "la mesure de distance est précise"
+            },
+            {
+              "front": "hub location is accessible",
+              "back": "l&#39;emplacement du hub est accessible"
+            },
+            {
+              "front": "network analysis provides insights",
+              "back": "l&#39;analyse de réseau fournit des informations"
+            },
+            {
+              "front": "allocation strategy is efficient",
+              "back": "la stratégie d&#39;allocation est efficace"
+            },
+            {
+              "front": "signage system is clear",
+              "back": "le système de signalisation est clair"
+            },
+            {
+              "front": "traffic report indicates congestion",
+              "back": "le rapport de circulation indique des embouteillages"
+            },
+            {
+              "front": "consultation service is available",
+              "back": "un service de consultation est disponible"
+            },
+            {
+              "front": "logistics plan is effective",
+              "back": "le plan logistique est efficace"
+            },
+            {
+              "front": "bicycle lane encourages cycling",
+              "back": "la piste cyclable encourage le cyclisme"
+            },
+            {
+              "front": "emergency response is swift",
+              "back": "la réponse d&#39;urgence est rapide"
+            },
+            {
+              "front": "driving rule is essential",
+              "back": "la règle de conduite est essentielle"
+            },
+            {
+              "front": "road safety is prioritized",
+              "back": "la sécurité routière est une priorité"
+            },
+            {
+              "front": "service route is established",
+              "back": "la route de service est établie"
+            },
+            {
+              "front": "schedule update is necessary",
+              "back": "une mise à jour du calendrier est nécessaire"
+            },
+            {
+              "front": "traffic congestion affects commute",
+              "back": "les embouteillages affectent les déplacements"
+            },
+            {
+              "front": "reservation system is efficient",
+              "back": "le système de réservation est efficace"
+            },
+            {
+              "front": "planning meeting is important",
+              "back": "la réunion de planification est importante"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "departure time is approaching soon",
+              "back": "l&#39;heure de départ approche bientôt"
+            },
+            {
+              "front": "arrival schedule shows some delays",
+              "back": "l&#39;horaire d&#39;arrivée montre quelques retards"
+            },
+            {
+              "front": "ticket counter opens at eight",
+              "back": "le guichet ouvre à huit heures"
+            },
+            {
+              "front": "platform number is changing frequently",
+              "back": "le numéro de quai change fréquemment"
+            },
+            {
+              "front": "route map indicates a detour",
+              "back": "la carte routière indique un détour"
+            },
+            {
+              "front": "cargo space remains very limited",
+              "back": "l&#39;espace de chargement reste très limité"
+            },
+            {
+              "front": "freight load increases with demand",
+              "back": "la charge de fret augmente avec la demande"
+            },
+            {
+              "front": "commute route takes much longer",
+              "back": "le trajet domicile-travail prend beaucoup plus de temps"
+            },
+            {
+              "front": "queue line forms very quickly",
+              "back": "la file d&#39;attente se forme très rapidement"
+            },
+            {
+              "front": "fare price increases every month",
+              "back": "le prix des tarifs augmente chaque mois"
+            },
+            {
+              "front": "passenger service excels in quality",
+              "back": "le service aux passagers excelle en qualité"
+            },
+            {
+              "front": "transfer station is crowded during rush",
+              "back": "la station de transfert est bondée pendant les heures de pointe"
+            },
+            {
+              "front": "traffic signal turns green for vehicles",
+              "back": "le feu de circulation passe au vert pour les véhicules"
+            },
+            {
+              "front": "safety measure is critically important",
+              "back": "la mesure de sécurité est d&#39;une importance cruciale"
+            },
+            {
+              "front": "inspection area is very busy",
+              "back": "la zone d&#39;inspection est très fréquentée"
+            },
+            {
+              "front": "journey plan outlines travel route",
+              "back": "le plan de voyage décrit l&#39;itinéraire de voyage"
+            },
+            {
+              "front": "navigation tool guides all travelers",
+              "back": "l&#39;outil de navigation guide tous les voyageurs"
+            },
+            {
+              "front": "bus stop location is convenient",
+              "back": "l&#39;emplacement de l&#39;arrêt de bus est pratique"
+            },
+            {
+              "front": "rail line operates smoothly every day",
+              "back": "la ligne ferroviaire fonctionne sans problème tous les jours"
+            },
+            {
+              "front": "logistics network improves overall efficiency",
+              "back": "le réseau logistique améliore l&#39;efficacité globale"
+            },
+            {
+              "front": "modal transport includes various options",
+              "back": "le transport modal comprend diverses options"
+            },
+            {
+              "front": "travel allowance provides some flexibility",
+              "back": "l&#39;indemnité de déplacement offre une certaine flexibilité"
+            },
+            {
+              "front": "system upgrade enhances performance significantly",
+              "back": "la mise à niveau du système améliore considérablement les performances"
+            },
+            {
+              "front": "capacity limit reached very recently",
+              "back": "limite de capacité atteinte très récemment"
+            },
+            {
+              "front": "accessibility feature assists many passengers",
+              "back": "la fonction d&#39;accessibilité aide de nombreux passagers"
+            },
+            {
+              "front": "route planner helps all travelers",
+              "back": "le planificateur d&#39;itinéraire aide tous les voyageurs"
+            },
+            {
+              "front": "connection point facilitates easy transfers",
+              "back": "le point de connexion facilite les transferts faciles"
+            },
+            {
+              "front": "service area offers various amenities",
+              "back": "l&#39;aire de service offre diverses commodités"
+            },
+            {
+              "front": "consultation meeting addresses urgent concerns",
+              "back": "la réunion de consultation aborde les préoccupations urgentes"
+            },
+            {
+              "front": "compliance check ensures passenger safety",
+              "back": "le contrôle de conformité garantit la sécurité des passagers"
+            },
+            {
+              "front": "operation schedule updates every week",
+              "back": "le calendrier des opérations est mis à jour chaque semaine"
+            },
+            {
+              "front": "movement tracking monitors vehicle routes",
+              "back": "le suivi des mouvements surveille les itinéraires des véhicules"
+            },
+            {
+              "front": "distance measurement ensures travel accuracy",
+              "back": "la mesure de la distance garantit la précision du déplacement"
+            },
+            {
+              "front": "hub location simplifies access for everyone",
+              "back": "l&#39;emplacement du hub simplifie l&#39;accès pour tous"
+            },
+            {
+              "front": "network analysis identifies key improvements",
+              "back": "l&#39;analyse du réseau identifie les améliorations clés"
+            },
+            {
+              "front": "allocation strategy optimizes resource use",
+              "back": "la stratégie d&#39;allocation optimise l&#39;utilisation des ressources"
+            },
+            {
+              "front": "signage system directs all travelers",
+              "back": "le système de signalisation dirige tous les voyageurs"
+            },
+            {
+              "front": "traffic report indicates heavy congestion",
+              "back": "le rapport de circulation indique de fortes congestions"
+            },
+            {
+              "front": "consultation service provides valuable assistance",
+              "back": "le service de consultation fournit une aide précieuse"
+            },
+            {
+              "front": "logistics plan streamlines all processes",
+              "back": "le plan logistique rationalise tous les processus"
+            },
+            {
+              "front": "bicycle lane promotes safe cycling",
+              "back": "la piste cyclable favorise la pratique du vélo en toute sécurité"
+            },
+            {
+              "front": "emergency response saves many lives",
+              "back": "l&#39;intervention d&#39;urgence sauve de nombreuses vies"
+            },
+            {
+              "front": "driving rule applies to everyone",
+              "back": "la règle de conduite s&#39;applique à tout le monde"
+            },
+            {
+              "front": "road safety is always prioritized",
+              "back": "la sécurité routière est toujours une priorité"
+            },
+            {
+              "front": "service route requires regular adjustments",
+              "back": "l&#39;itinéraire de service nécessite des ajustements réguliers"
+            },
+            {
+              "front": "schedule update is very necessary",
+              "back": "la mise à jour du calendrier est très nécessaire"
+            },
+            {
+              "front": "traffic congestion impacts daily travel",
+              "back": "les embouteillages ont un impact sur les déplacements quotidiens"
+            },
+            {
+              "front": "reservation system simplifies travel bookings",
+              "back": "le système de réservation simplifie les réservations de voyages"
+            },
+            {
+              "front": "planning meeting sets clear agenda",
+              "back": "la réunion de planification établit un ordre du jour clair"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "departure time is approaching very soon",
+              "back": "l&#39;heure du départ approche très bientôt"
+            },
+            {
+              "front": "arrival schedule shows delays this morning",
+              "back": "l&#39;horaire d&#39;arrivée indique des retards ce matin"
+            },
+            {
+              "front": "ticket counter opens at eight o'clock",
+              "back": "le guichet ouvre à huit heures"
+            },
+            {
+              "front": "platform number is changing very frequently",
+              "back": "le numéro de quai change très fréquemment"
+            },
+            {
+              "front": "route map indicates a detour ahead",
+              "back": "la carte routière indique un détour à venir"
+            },
+            {
+              "front": "cargo space remains very limited right now",
+              "back": "l&#39;espace de chargement reste très limité pour le moment"
+            },
+            {
+              "front": "freight load increases with seasonal demand",
+              "back": "la charge de fret augmente avec la demande saisonnière"
+            },
+            {
+              "front": "commute route takes much longer today",
+              "back": "le trajet domicile-travail prend beaucoup plus de temps aujourd&#39;hui"
+            },
+            {
+              "front": "queue line forms very quickly at rush",
+              "back": "la file d&#39;attente se forme très rapidement aux heures de pointe"
+            },
+            {
+              "front": "fare price increases every single month",
+              "back": "le prix des tarifs augmente chaque mois"
+            },
+            {
+              "front": "passenger service excels in quality and reliability",
+              "back": "le service aux passagers excelle en qualité et en fiabilité"
+            },
+            {
+              "front": "transfer station is crowded during peak hours",
+              "back": "la station de transfert est bondée aux heures de pointe"
+            },
+            {
+              "front": "traffic signal turns green for vehicles now",
+              "back": "le feu de circulation passe désormais au vert pour les véhicules"
+            },
+            {
+              "front": "safety measure is critically important for everyone",
+              "back": "la mesure de sécurité est d&#39;une importance cruciale pour tout le monde"
+            },
+            {
+              "front": "inspection area is very busy today",
+              "back": "la zone d&#39;inspection est très fréquentée aujourd&#39;hui"
+            },
+            {
+              "front": "journey plan outlines detailed travel route",
+              "back": "le plan de voyage décrit l&#39;itinéraire de voyage détaillé"
+            },
+            {
+              "front": "navigation tool guides all travelers easily",
+              "back": "l&#39;outil de navigation guide facilement tous les voyageurs"
+            },
+            {
+              "front": "bus stop location is very convenient",
+              "back": "l&#39;emplacement de l&#39;arrêt de bus est très pratique"
+            },
+            {
+              "front": "rail line operates smoothly every single day",
+              "back": "la ligne ferroviaire fonctionne sans problème tous les jours"
+            },
+            {
+              "front": "logistics network improves overall operational efficiency",
+              "back": "le réseau logistique améliore l&#39;efficacité opérationnelle globale"
+            },
+            {
+              "front": "modal transport includes various available options",
+              "back": "le transport modal comprend diverses options disponibles"
+            },
+            {
+              "front": "travel allowance provides flexibility for travelers",
+              "back": "l&#39;allocation de voyage offre une flexibilité aux voyageurs"
+            },
+            {
+              "front": "system upgrade enhances performance significantly now",
+              "back": "la mise à niveau du système améliore désormais considérablement les performances"
+            },
+            {
+              "front": "capacity limit reached very recently last month",
+              "back": "limite de capacité atteinte très récemment le mois dernier"
+            },
+            {
+              "front": "accessibility feature assists many passengers today",
+              "back": "la fonction d&#39;accessibilité aide de nombreux passagers aujourd&#39;hui"
+            },
+            {
+              "front": "route planner helps all travelers find",
+              "back": "Le planificateur d&#39;itinéraire aide tous les voyageurs à trouver"
+            },
+            {
+              "front": "connection point facilitates easy transfers between modes",
+              "back": "le point de connexion facilite les transferts faciles entre les modes"
+            },
+            {
+              "front": "service area offers various helpful amenities",
+              "back": "la zone de service offre diverses commodités utiles"
+            },
+            {
+              "front": "consultation meeting addresses urgent safety concerns",
+              "back": "la réunion de consultation aborde les problèmes de sécurité urgents"
+            },
+            {
+              "front": "compliance check ensures passenger safety and comfort",
+              "back": "le contrôle de conformité garantit la sécurité et le confort des passagers"
+            },
+            {
+              "front": "operation schedule updates every single week",
+              "back": "le calendrier des opérations est mis à jour chaque semaine"
+            },
+            {
+              "front": "movement tracking monitors vehicle routes effectively",
+              "back": "le suivi des mouvements surveille efficacement les itinéraires des véhicules"
+            },
+            {
+              "front": "distance measurement ensures travel accuracy and efficiency",
+              "back": "la mesure de la distance garantit la précision et l&#39;efficacité du déplacement"
+            },
+            {
+              "front": "hub location simplifies access for all travelers",
+              "back": "l&#39;emplacement du hub simplifie l&#39;accès pour tous les voyageurs"
+            },
+            {
+              "front": "network analysis identifies key improvements for logistics",
+              "back": "l&#39;analyse du réseau identifie les améliorations clés pour la logistique"
+            },
+            {
+              "front": "allocation strategy optimizes resource use for operations",
+              "back": "la stratégie d&#39;allocation optimise l&#39;utilisation des ressources pour les opérations"
+            },
+            {
+              "front": "signage system directs all travelers clearly",
+              "back": "le système de signalisation dirige clairement tous les voyageurs"
+            },
+            {
+              "front": "traffic report indicates heavy congestion today",
+              "back": "le rapport de circulation indique de fortes congestions aujourd&#39;hui"
+            },
+            {
+              "front": "consultation service provides valuable assistance to everyone",
+              "back": "le service de consultation fournit une aide précieuse à tous"
+            },
+            {
+              "front": "logistics plan streamlines all processes effectively",
+              "back": "le plan logistique rationalise efficacement tous les processus"
+            },
+            {
+              "front": "bicycle lane promotes safe cycling for everyone",
+              "back": "la piste cyclable favorise la pratique du vélo en toute sécurité pour tous"
+            },
+            {
+              "front": "emergency response saves many lives during crisis",
+              "back": "les interventions d&#39;urgence sauvent de nombreuses vies en cas de crise"
+            },
+            {
+              "front": "driving rule applies to all drivers equally",
+              "back": "la règle de conduite s&#39;applique à tous les conducteurs de manière égale"
+            },
+            {
+              "front": "road safety is always prioritized by authorities",
+              "back": "la sécurité routière est toujours une priorité pour les autorités"
+            },
+            {
+              "front": "service route requires regular adjustments for efficiency",
+              "back": "l&#39;itinéraire de service nécessite des ajustements réguliers pour plus d&#39;efficacité"
+            },
+            {
+              "front": "schedule update is very necessary for operations",
+              "back": "la mise à jour du calendrier est très nécessaire pour les opérations"
+            },
+            {
+              "front": "traffic congestion impacts daily travel for everyone",
+              "back": "les embouteillages ont un impact sur les déplacements quotidiens de tous"
+            },
+            {
+              "front": "reservation system simplifies travel bookings for passengers",
+              "back": "Le système de réservation simplifie les réservations de voyage pour les passagers"
+            },
+            {
+              "front": "planning meeting sets clear agenda for discussion",
+              "back": "la réunion de planification établit un ordre du jour clair pour la discussion"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "changed departure time",
+              "back": "heure de départ modifiée"
+            },
+            {
+              "front": "showed arrival delays",
+              "back": "a montré des retards d&#39;arrivée"
+            },
+            { "front": "closed ticket counter", "back": "guichet fermé" },
+            {
+              "front": "shifted platform number",
+              "back": "numéro de quai décalé"
+            },
+            {
+              "front": "indicated route detour",
+              "back": "déviation d&#39;itinéraire indiquée"
+            },
+            {
+              "front": "limited cargo space",
+              "back": "espace de chargement limité"
+            },
+            {
+              "front": "increased freight load",
+              "back": "augmentation de la charge de fret"
+            },
+            {
+              "front": "lengthened commute route",
+              "back": "trajet domicile-travail allongé"
+            },
+            {
+              "front": "formed queue line",
+              "back": "file d&#39;attente formée"
+            },
+            { "front": "rose fare price", "back": "prix du tarif rose" },
+            {
+              "front": "excelled passenger service",
+              "back": "excellent service aux passagers"
+            },
+            {
+              "front": "crowded transfer station",
+              "back": "station de transfert bondée"
+            },
+            {
+              "front": "turned traffic signal",
+              "back": "feu de circulation allumé"
+            },
+            {
+              "front": "proved safety measure",
+              "back": "mesure de sécurité prouvée"
+            },
+            {
+              "front": "became busy inspection",
+              "back": "est devenu occupé à inspecter"
+            },
+            {
+              "front": "worked journey plan",
+              "back": "plan de voyage élaboré"
+            },
+            {
+              "front": "guided navigation tool",
+              "back": "outil de navigation guidée"
+            },
+            { "front": "changed bus stop", "back": "arrêt de bus changé" },
+            {
+              "front": "operated rail line",
+              "back": "ligne ferroviaire exploitée"
+            },
+            {
+              "front": "improved logistics network",
+              "back": "réseau logistique amélioré"
+            },
+            {
+              "front": "included modal transport",
+              "back": "transport modal inclus"
+            },
+            {
+              "front": "provided travel allowance",
+              "back": "allocation de déplacement prévue"
+            },
+            {
+              "front": "enhanced system upgrade",
+              "back": "mise à niveau améliorée du système"
+            },
+            {
+              "front": "reached capacity limit",
+              "back": "limite de capacité atteinte"
+            },
+            {
+              "front": "assisted accessibility feature",
+              "back": "fonctionnalité d&#39;accessibilité assistée"
+            },
+            {
+              "front": "helped route planner",
+              "back": "aidé à planifier l&#39;itinéraire"
+            },
+            {
+              "front": "facilitated connection point",
+              "back": "point de connexion facilité"
+            },
+            {
+              "front": "offered service area",
+              "back": "zone de service offerte"
+            },
+            {
+              "front": "addressed consultation meeting",
+              "back": "réunion de consultation adressée"
+            },
+            {
+              "front": "ensured compliance check",
+              "back": "contrôle de conformité assuré"
+            },
+            {
+              "front": "updated operation schedule",
+              "back": "calendrier d&#39;opération mis à jour"
+            },
+            {
+              "front": "monitored movement tracking",
+              "back": "suivi des mouvements surveillés"
+            },
+            {
+              "front": "ensured distance accuracy",
+              "back": "précision de distance assurée"
+            },
+            {
+              "front": "simplified hub location",
+              "back": "emplacement simplifié du hub"
+            },
+            {
+              "front": "identified network improvements",
+              "back": "améliorations du réseau identifiées"
+            },
+            {
+              "front": "optimized allocation strategy",
+              "back": "stratégie d&#39;allocation optimisée"
+            },
+            {
+              "front": "directed signage system",
+              "back": "système de signalisation dirigée"
+            },
+            {
+              "front": "indicated traffic congestion",
+              "back": "embouteillages indiqués"
+            },
+            {
+              "front": "provided consultation assistance",
+              "back": "fourni une assistance en matière de consultation"
+            },
+            {
+              "front": "streamlined logistics plan",
+              "back": "plan logistique rationalisé"
+            },
+            {
+              "front": "promoted bicycle lane",
+              "back": "piste cyclable promue"
+            },
+            {
+              "front": "saved emergency response",
+              "back": "réponse d&#39;urgence sauvegardée"
+            },
+            {
+              "front": "applied driving rule",
+              "back": "règle de conduite appliquée"
+            },
+            {
+              "front": "prioritized road safety",
+              "back": "sécurité routière prioritaire"
+            },
+            {
+              "front": "required service route",
+              "back": "itinéraire de service requis"
+            },
+            {
+              "front": "became necessary schedule",
+              "back": "est devenu un calendrier nécessaire"
+            },
+            {
+              "front": "impacted traffic congestion",
+              "back": "embouteillages impactés"
+            },
+            {
+              "front": "simplified reservation bookings",
+              "back": "réservations simplifiées"
+            },
+            {
+              "front": "set planning meeting",
+              "back": "réunion de planification"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "departure time changed",
+              "back": "heure de départ modifiée"
+            },
+            {
+              "front": "arrival schedule showed delays",
+              "back": "l&#39;horaire d&#39;arrivée a montré des retards"
+            },
+            {
+              "front": "ticket counter closed early",
+              "back": "guichet fermé plus tôt que prévu"
+            },
+            {
+              "front": "platform number shifted suddenly",
+              "back": "le numéro de quai a changé soudainement"
+            },
+            {
+              "front": "route map indicated detour",
+              "back": "carte routière avec détour indiqué"
+            },
+            {
+              "front": "cargo space limited",
+              "back": "espace de chargement limité"
+            },
+            {
+              "front": "freight load increased significantly",
+              "back": "la charge de fret a augmenté de manière significative"
+            },
+            {
+              "front": "commute route lengthened unexpectedly",
+              "back": "trajet domicile-travail allongé de manière inattendue"
+            },
+            {
+              "front": "queue line formed quickly",
+              "back": "la file d&#39;attente s&#39;est formée rapidement"
+            },
+            { "front": "fare price rose", "back": "faire augmenter les prix" },
+            {
+              "front": "passenger service excelled yesterday",
+              "back": "le service aux passagers a excellé hier"
+            },
+            {
+              "front": "transfer station got crowded",
+              "back": "la station de transfert était bondée"
+            },
+            {
+              "front": "traffic signal turned red",
+              "back": "le feu de circulation est devenu rouge"
+            },
+            {
+              "front": "safety measure proved essential",
+              "back": "mesure de sécurité s&#39;est avérée essentielle"
+            },
+            {
+              "front": "inspection area became busy",
+              "back": "la zone d&#39;inspection est devenue très fréquentée"
+            },
+            {
+              "front": "journey plan worked well",
+              "back": "le plan de voyage a bien fonctionné"
+            },
+            {
+              "front": "navigation tool guided travelers",
+              "back": "outil de navigation pour guider les voyageurs"
+            },
+            {
+              "front": "bus stop changed location",
+              "back": "l&#39;arrêt de bus a changé d&#39;emplacement"
+            },
+            {
+              "front": "rail line operated smoothly",
+              "back": "la ligne ferroviaire a fonctionné sans problème"
+            },
+            {
+              "front": "logistics network improved efficiency",
+              "back": "réseau logistique amélioré en efficacité"
+            },
+            {
+              "front": "modal transport included options",
+              "back": "options de transport modal incluses"
+            },
+            {
+              "front": "travel allowance provided flexibility",
+              "back": "indemnité de déplacement offrant une certaine flexibilité"
+            },
+            {
+              "front": "system upgrade enhanced performance",
+              "back": "mise à niveau du système performances améliorées"
+            },
+            {
+              "front": "capacity limit reached recently",
+              "back": "limite de capacité atteinte récemment"
+            },
+            {
+              "front": "accessibility feature assisted passengers",
+              "back": "fonctionnalité d&#39;accessibilité passagers assistés"
+            },
+            {
+              "front": "route planner helped travelers",
+              "back": "le planificateur d&#39;itinéraire a aidé les voyageurs"
+            },
+            {
+              "front": "connection point facilitated transfers",
+              "back": "point de connexion transferts facilités"
+            },
+            {
+              "front": "service area offered amenities",
+              "back": "zone de service commodités offertes"
+            },
+            {
+              "front": "consultation meeting addressed concerns",
+              "back": "la réunion de consultation a abordé les préoccupations"
+            },
+            {
+              "front": "compliance check ensured safety",
+              "back": "contrôle de conformité garantissant la sécurité"
+            },
+            {
+              "front": "operation schedule updated regularly",
+              "back": "calendrier des opérations mis à jour régulièrement"
+            },
+            {
+              "front": "movement tracking monitored routes",
+              "back": "suivi des mouvements itinéraires surveillés"
+            },
+            {
+              "front": "distance measurement ensured accuracy",
+              "back": "précision garantie de la mesure de distance"
+            },
+            {
+              "front": "hub location simplified access",
+              "back": "emplacement du hub accès simplifié"
+            },
+            {
+              "front": "network analysis identified improvements",
+              "back": "l&#39;analyse du réseau a identifié des améliorations"
+            },
+            {
+              "front": "allocation strategy optimized resources",
+              "back": "stratégie d&#39;allocation des ressources optimisées"
+            },
+            {
+              "front": "signage system directed travelers",
+              "back": "système de signalisation dirigé vers les voyageurs"
+            },
+            {
+              "front": "traffic report indicated congestion",
+              "back": "le rapport de circulation indique une congestion"
+            },
+            {
+              "front": "consultation service provided assistance",
+              "back": "service de consultation fourni assistance"
+            },
+            {
+              "front": "logistics plan streamlined processes",
+              "back": "planification logistique processus rationalisés"
+            },
+            {
+              "front": "bicycle lane promoted cycling",
+              "back": "piste cyclable favorisant le cyclisme"
+            },
+            {
+              "front": "emergency response saved lives",
+              "back": "l&#39;intervention d&#39;urgence a sauvé des vies"
+            },
+            {
+              "front": "driving rule applied universally",
+              "back": "règle de conduite appliquée universellement"
+            },
+            {
+              "front": "road safety prioritized last year",
+              "back": "la sécurité routière a été une priorité l&#39;année dernière"
+            },
+            {
+              "front": "service route required adjustments",
+              "back": "ajustements nécessaires à l&#39;itinéraire de service"
+            },
+            {
+              "front": "schedule update became necessary",
+              "back": "une mise à jour du calendrier est devenue nécessaire"
+            },
+            {
+              "front": "traffic congestion impacted travel",
+              "back": "les embouteillages ont eu un impact sur les déplacements"
+            },
+            {
+              "front": "reservation system simplified bookings",
+              "back": "système de réservation réservations simplifiées"
+            },
+            {
+              "front": "planning meeting set agenda",
+              "back": "réunion de planification fixer l&#39;ordre du jour"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "departure time changed unexpectedly last",
+              "back": "l&#39;heure de départ a changé de manière inattendue la dernière fois"
+            },
+            {
+              "front": "arrival schedule showed significant delays",
+              "back": "l&#39;horaire d&#39;arrivée a montré des retards importants"
+            },
+            {
+              "front": "ticket counter closed before boarding",
+              "back": "guichet fermé avant l&#39;embarquement"
+            },
+            {
+              "front": "platform number shifted during minute",
+              "back": "le numéro de quai a changé pendant une minute"
+            },
+            {
+              "front": "route map indicated necessary detour",
+              "back": "la carte routière indiquait un détour nécessaire"
+            },
+            {
+              "front": "cargo space remained very limited",
+              "back": "l&#39;espace de chargement est resté très limité"
+            },
+            {
+              "front": "freight load increased due to demand",
+              "back": "la charge de fret a augmenté en raison de la demande"
+            },
+            {
+              "front": "commute route lengthened unexpectedly morning",
+              "back": "trajet domicile-travail allongé de manière inattendue ce matin"
+            },
+            {
+              "front": "the queue line formed quickly",
+              "back": "la file d&#39;attente s&#39;est formée rapidement"
+            },
+            {
+              "front": "fare price rose significantly month",
+              "back": "le prix du billet a augmenté de manière significative ce mois-ci"
+            },
+            {
+              "front": "passenger service excelled throughout journey",
+              "back": "le service aux passagers a excellé tout au long du voyage"
+            },
+            {
+              "front": "transfer station became crowded during",
+              "back": "la station de transfert est devenue bondée pendant"
+            },
+            {
+              "front": "traffic signal turned red vehicles",
+              "back": "le feu de circulation est devenu rouge pour les véhicules"
+            },
+            {
+              "front": "good safety measure proved essential",
+              "back": "une bonne mesure de sécurité s&#39;est avérée essentielle"
+            },
+            {
+              "front": "inspection area was busy day",
+              "back": "la zone d&#39;inspection a été une journée chargée"
+            },
+            {
+              "front": "journey plan worked well everyone",
+              "back": "le plan de voyage a bien fonctionné pour tout le monde"
+            },
+            {
+              "front": "navigation tool guided travelers successfully",
+              "back": "outil de navigation a guidé les voyageurs avec succès"
+            },
+            {
+              "front": "bus stop location changed week",
+              "back": "l&#39;emplacement de l&#39;arrêt de bus a changé cette semaine"
+            },
+            {
+              "front": "rail line operated smoothly week",
+              "back": "la ligne ferroviaire a fonctionné sans problème cette semaine"
+            },
+            {
+              "front": "logistics network improved efficiency board",
+              "back": "tableau d&#39;amélioration de l&#39;efficacité du réseau logistique"
+            },
+            {
+              "front": "modal transport included various yesterday",
+              "back": "le transport modal comprenait divers hier"
+            },
+            {
+              "front": "travel allowance provided needed flexibility",
+              "back": "indemnité de déplacement à condition que la flexibilité nécessaire soit assurée"
+            },
+            {
+              "front": "the system upgrade enhanced performance",
+              "back": "la mise à niveau du système a amélioré les performances"
+            },
+            {
+              "front": "capacity limit reached after season",
+              "back": "limite de capacité atteinte après la saison"
+            },
+            {
+              "front": "accessibility feature assisted many passengers",
+              "back": "la fonction d&#39;accessibilité a aidé de nombreux passagers"
+            },
+            {
+              "front": "route planner helped travelers navigate",
+              "back": "Le planificateur d&#39;itinéraire a aidé les voyageurs à naviguer"
+            },
+            {
+              "front": "connection point facilitated quick transfers",
+              "back": "point de connexion facilitant les transferts rapides"
+            },
+            {
+              "front": "service area offered helpful amenities",
+              "back": "zone de service offrant des commodités utiles"
+            },
+            {
+              "front": "consultation meeting addressed safety concerns",
+              "back": "la réunion de consultation a abordé les préoccupations en matière de sécurité"
+            },
+            {
+              "front": "compliance check ensured safety for",
+              "back": "contrôle de conformité garantissant la sécurité pour"
+            },
+            {
+              "front": "operation schedule updated regularly month",
+              "back": "calendrier des opérations mis à jour régulièrement chaque mois"
+            },
+            {
+              "front": "movement tracking monitored routes effectively",
+              "back": "suivi des mouvements, itinéraires surveillés efficacement"
+            },
+            {
+              "front": "distance measurement ensured travel accuracy",
+              "back": "la mesure de distance assure la précision du déplacement"
+            },
+            {
+              "front": "hub location simplified access travelers",
+              "back": "emplacement central accès simplifié voyageurs"
+            },
+            {
+              "front": "network analysis identified key improvements",
+              "back": "l&#39;analyse du réseau a identifié des améliorations clés"
+            },
+            {
+              "front": "allocation strategy optimized resource use",
+              "back": "stratégie d&#39;allocation utilisation optimisée des ressources"
+            },
+            {
+              "front": "signage system directed travelers clearly",
+              "back": "système de signalisation dirigeant clairement les voyageurs"
+            },
+            {
+              "front": "traffic report indicated congestion today",
+              "back": "le rapport de circulation indique des embouteillages aujourd&#39;hui"
+            },
+            {
+              "front": "consultation service provided valuable assistance",
+              "back": "le service de consultation a fourni une aide précieuse"
+            },
+            {
+              "front": "logistics plan streamlined processes smoothly",
+              "back": "le plan logistique a rationalisé les processus en douceur"
+            },
+            {
+              "front": "bicycle lane promoted safe cycling",
+              "back": "piste cyclable favorisant la sécurité à vélo"
+            },
+            {
+              "front": "emergency response saved lives crisis",
+              "back": "intervention d&#39;urgence crise de vies sauvées"
+            },
+            {
+              "front": "driving rule applied universally safety",
+              "back": "règle de conduite appliquée universellement à la sécurité"
+            },
+            {
+              "front": "road safety prioritized year consistently",
+              "back": "la sécurité routière est une priorité constante cette année"
+            },
+            {
+              "front": "service route required adjustments efficiency",
+              "back": "itinéraire de service ajustements requis efficacité"
+            },
+            {
+              "front": "schedule update became necessary due",
+              "back": "la mise à jour du calendrier est devenue nécessaire en raison"
+            },
+            {
+              "front": "traffic congestion impacted daily travel",
+              "back": "les embouteillages ont eu un impact sur les déplacements quotidiens"
+            },
+            {
+              "front": "reservation system simplified travel bookings",
+              "back": "système de réservation réservations de voyages simplifiées"
+            },
+            {
+              "front": "planning meeting set clear agenda",
+              "back": "réunion de planification fixant un ordre du jour clair"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "changed departure time",
+              "back": "heure de départ modifiée"
+            },
+            {
+              "front": "showed arrival delays",
+              "back": "a montré des retards d&#39;arrivée"
+            },
+            { "front": "closed ticket counter", "back": "guichet fermé" },
+            {
+              "front": "shifted platform number",
+              "back": "numéro de quai décalé"
+            },
+            {
+              "front": "indicated route detour",
+              "back": "déviation d&#39;itinéraire indiquée"
+            },
+            {
+              "front": "limited cargo space",
+              "back": "espace de chargement limité"
+            },
+            {
+              "front": "increased freight load",
+              "back": "augmentation de la charge de fret"
+            },
+            {
+              "front": "lengthened commute route",
+              "back": "trajet domicile-travail allongé"
+            },
+            {
+              "front": "formed queue line",
+              "back": "file d&#39;attente formée"
+            },
+            { "front": "rose fare price", "back": "prix du tarif rose" },
+            {
+              "front": "excelled passenger service",
+              "back": "excellent service aux passagers"
+            },
+            {
+              "front": "crowded transfer station",
+              "back": "station de transfert bondée"
+            },
+            {
+              "front": "turned traffic signal",
+              "back": "feu de circulation allumé"
+            },
+            {
+              "front": "proved safety measure",
+              "back": "mesure de sécurité prouvée"
+            },
+            {
+              "front": "became busy inspection",
+              "back": "est devenu occupé à inspecter"
+            },
+            {
+              "front": "worked journey plan",
+              "back": "plan de voyage élaboré"
+            },
+            {
+              "front": "guided navigation tool",
+              "back": "outil de navigation guidée"
+            },
+            { "front": "changed bus stop", "back": "arrêt de bus changé" },
+            {
+              "front": "operated rail line",
+              "back": "ligne ferroviaire exploitée"
+            },
+            {
+              "front": "improved logistics network",
+              "back": "réseau logistique amélioré"
+            },
+            {
+              "front": "included modal transport",
+              "back": "transport modal inclus"
+            },
+            {
+              "front": "provided travel allowance",
+              "back": "allocation de déplacement prévue"
+            },
+            {
+              "front": "enhanced system upgrade",
+              "back": "mise à niveau améliorée du système"
+            },
+            {
+              "front": "reached capacity limit",
+              "back": "limite de capacité atteinte"
+            },
+            {
+              "front": "assisted accessibility feature",
+              "back": "fonctionnalité d&#39;accessibilité assistée"
+            },
+            {
+              "front": "helped route planner",
+              "back": "aidé à planifier l&#39;itinéraire"
+            },
+            {
+              "front": "facilitated connection point",
+              "back": "point de connexion facilité"
+            },
+            {
+              "front": "offered service area",
+              "back": "zone de service offerte"
+            },
+            {
+              "front": "addressed consultation meeting",
+              "back": "réunion de consultation adressée"
+            },
+            {
+              "front": "ensured compliance check",
+              "back": "contrôle de conformité assuré"
+            },
+            {
+              "front": "updated operation schedule",
+              "back": "calendrier d&#39;opération mis à jour"
+            },
+            {
+              "front": "monitored movement tracking",
+              "back": "suivi des mouvements surveillés"
+            },
+            {
+              "front": "ensured distance accuracy",
+              "back": "précision de distance assurée"
+            },
+            {
+              "front": "simplified hub location",
+              "back": "emplacement simplifié du hub"
+            },
+            {
+              "front": "identified network improvements",
+              "back": "améliorations du réseau identifiées"
+            },
+            {
+              "front": "optimized allocation strategy",
+              "back": "stratégie d&#39;allocation optimisée"
+            },
+            {
+              "front": "directed signage system",
+              "back": "système de signalisation dirigée"
+            },
+            {
+              "front": "indicated traffic congestion",
+              "back": "embouteillages indiqués"
+            },
+            {
+              "front": "provided consultation assistance",
+              "back": "fourni une assistance en matière de consultation"
+            },
+            {
+              "front": "streamlined logistics plan",
+              "back": "plan logistique rationalisé"
+            },
+            {
+              "front": "promoted bicycle lane",
+              "back": "piste cyclable promue"
+            },
+            {
+              "front": "saved emergency response",
+              "back": "réponse d&#39;urgence sauvegardée"
+            },
+            {
+              "front": "applied driving rule",
+              "back": "règle de conduite appliquée"
+            },
+            {
+              "front": "prioritized road safety",
+              "back": "sécurité routière prioritaire"
+            },
+            {
+              "front": "required service route",
+              "back": "itinéraire de service requis"
+            },
+            {
+              "front": "became necessary schedule",
+              "back": "est devenu un calendrier nécessaire"
+            },
+            {
+              "front": "impacted traffic congestion",
+              "back": "embouteillages impactés"
+            },
+            {
+              "front": "simplified reservation bookings",
+              "back": "réservations simplifiées"
+            },
+            {
+              "front": "set planning meeting",
+              "back": "réunion de planification"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "departure time approaches",
+              "back": "l&#39;heure de départ approche"
+            },
+            {
+              "front": "arrival schedule changes",
+              "back": "changements d&#39;horaire d&#39;arrivée"
+            },
+            { "front": "ticket counter opens", "back": "le guichet ouvre" },
+            {
+              "front": "platform number changes",
+              "back": "changements de numéro de quai"
+            },
+            {
+              "front": "route map indicates",
+              "back": "la carte routière indique"
+            },
+            {
+              "front": "cargo space increases",
+              "back": "l&#39;espace de chargement augmente"
+            },
+            {
+              "front": "freight load grows",
+              "back": "la charge de fret augmente"
+            },
+            {
+              "front": "commute route lengthens",
+              "back": "le trajet domicile-travail s&#39;allonge"
+            },
+            {
+              "front": "queue line forms",
+              "back": "formulaires de file d&#39;attente"
+            },
+            {
+              "front": "fare price rises",
+              "back": "augmentation des prix des billets"
+            },
+            {
+              "front": "passenger service excels",
+              "back": "le service aux passagers excelle"
+            },
+            {
+              "front": "transfer station crowd",
+              "back": "foule à la station de transfert"
+            },
+            {
+              "front": "traffic signal turns",
+              "back": "les feux de circulation tournent"
+            },
+            {
+              "front": "good safety measure",
+              "back": "bonne mesure de sécurité"
+            },
+            {
+              "front": "inspection area begins",
+              "back": "la zone d&#39;inspection commence"
+            },
+            {
+              "front": "journey plan works",
+              "back": "le plan de voyage fonctionne"
+            },
+            {
+              "front": "navigation tool guides",
+              "back": "guides des outils de navigation"
+            },
+            {
+              "front": "bus stop changes",
+              "back": "changements d&#39;arrêt de bus"
+            },
+            {
+              "front": "rail line operates",
+              "back": "la ligne ferroviaire fonctionne"
+            },
+            {
+              "front": "logistics network improves",
+              "back": "le réseau logistique s&#39;améliore"
+            },
+            {
+              "front": "modal transport improves",
+              "back": "le transport modal s&#39;améliore"
+            },
+            {
+              "front": "travel allowance provides",
+              "back": "l&#39;indemnité de déplacement fournit"
+            },
+            {
+              "front": "system upgrade enhances",
+              "back": "la mise à niveau du système améliore"
+            },
+            {
+              "front": "small capacity limit",
+              "back": "limite de petite capacité"
+            },
+            {
+              "front": "accessibility feature assists",
+              "back": "la fonction d&#39;accessibilité aide"
+            },
+            {
+              "front": "route planner helps",
+              "back": "le planificateur d&#39;itinéraire aide"
+            },
+            {
+              "front": "connection point transfers",
+              "back": "transferts de points de connexion"
+            },
+            {
+              "front": "service area offers",
+              "back": "offres de zone de service"
+            },
+            {
+              "front": "consultation meeting soon",
+              "back": "réunion de consultation prochainement"
+            },
+            {
+              "front": "compliance check ensures",
+              "back": "le contrôle de conformité garantit"
+            },
+            {
+              "front": "operation schedule updates",
+              "back": "mises à jour du calendrier des opérations"
+            },
+            {
+              "front": "movement tracking monitors",
+              "back": "moniteurs de suivi de mouvement"
+            },
+            {
+              "front": "accurate distance measurement",
+              "back": "mesure précise de la distance"
+            },
+            {
+              "front": "central hub location",
+              "back": "emplacement du hub central"
+            },
+            {
+              "front": "network analysis improves",
+              "back": "l&#39;analyse du réseau s&#39;améliore"
+            },
+            {
+              "front": "allocation strategy optimizes",
+              "back": "la stratégie d&#39;allocation optimise"
+            },
+            {
+              "front": "sign system directs",
+              "back": "le système de signalisation dirige"
+            },
+            {
+              "front": "good traffic report",
+              "back": "bon rapport de circulation"
+            },
+            {
+              "front": "good consultation service",
+              "back": "bon service de consultation"
+            },
+            { "front": "nice logistics plan", "back": "bon plan logistique" },
+            { "front": "wide bicycle lane", "back": "large piste cyclable" },
+            {
+              "front": "fast emergency response",
+              "back": "réponse rapide aux urgences"
+            },
+            {
+              "front": "driving rule applies",
+              "back": "la règle de conduite s&#39;applique"
+            },
+            { "front": "good road safety", "back": "bonne sécurité routière" },
+            {
+              "front": "new service route",
+              "back": "nouvelle ligne de service"
+            },
+            {
+              "front": "schedule updates tomorrow",
+              "back": "mises à jour du calendrier demain"
+            },
+            {
+              "front": "traffic congestion worsens",
+              "back": "les embouteillages s&#39;aggravent"
+            },
+            {
+              "front": "reservation system simplifie",
+              "back": "reservation system simplifie"
+            },
+            {
+              "front": "scheduled planning meeting",
+              "back": "réunion de planification programmée"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "departure time approaches soon",
+              "back": "l&#39;heure de départ approche bientôt"
+            },
+            {
+              "front": "arrival schedule shows changes",
+              "back": "l&#39;horaire d&#39;arrivée montre des changements"
+            },
+            {
+              "front": "ticket counter opens early",
+              "back": "le guichet ouvre tôt"
+            },
+            {
+              "front": "platform number will change",
+              "back": "le numéro de quai va changer"
+            },
+            {
+              "front": "route map indicates detour",
+              "back": "la carte routière indique un détour"
+            },
+            {
+              "front": "cargo space will increase",
+              "back": "l&#39;espace de chargement augmentera"
+            },
+            {
+              "front": "freight load will grow",
+              "back": "la charge de fret va augmenter"
+            },
+            {
+              "front": "commute route will lengthen",
+              "back": "le trajet domicile-travail sera allongé"
+            },
+            {
+              "front": "queue line forms quickly",
+              "back": "la file d&#39;attente se forme rapidement"
+            },
+            {
+              "front": "fare price will rise",
+              "back": "le prix du billet va augmenter"
+            },
+            {
+              "front": "passenger service will excel",
+              "back": "le service aux passagers sera excellent"
+            },
+            {
+              "front": "transfer station will be busy",
+              "back": "la station de transfert sera occupée"
+            },
+            {
+              "front": "traffic signal will turn",
+              "back": "le feu de circulation va tourner"
+            },
+            {
+              "front": "safety will be essential",
+              "back": "la sécurité sera essentielle"
+            },
+            {
+              "front": "inspection will be soon",
+              "back": "l&#39;inspection aura lieu bientôt"
+            },
+            {
+              "front": "journey plan will work",
+              "back": "le plan de voyage fonctionnera"
+            },
+            {
+              "front": "navigation tool will guide",
+              "back": "l&#39;outil de navigation vous guidera"
+            },
+            {
+              "front": "bus stop will change",
+              "back": "l&#39;arrêt de bus va changer"
+            },
+            {
+              "front": "rail line will operate",
+              "back": "la ligne ferroviaire fonctionnera"
+            },
+            {
+              "front": "logistics network will improve",
+              "back": "le réseau logistique va s&#39;améliorer"
+            },
+            {
+              "front": "transport will include options",
+              "back": "le transport comprendra des options"
+            },
+            {
+              "front": "travel allowance will provide",
+              "back": "l&#39;indemnité de déplacement fournira"
+            },
+            {
+              "front": "system upgrade will enhance",
+              "back": "la mise à niveau du système améliorera"
+            },
+            {
+              "front": "capacity limit will apply",
+              "back": "une limite de capacité s&#39;appliquera"
+            },
+            {
+              "front": "accessibility will assist passengers",
+              "back": "l&#39;accessibilité aidera les passagers"
+            },
+            {
+              "front": "planner will help travelers",
+              "back": "le planificateur aidera les voyageurs"
+            },
+            {
+              "front": "connection will facilitate transfers",
+              "back": "la connexion facilitera les transferts"
+            },
+            {
+              "front": "service area will offer amenities",
+              "back": "la zone de service offrira des commodités"
+            },
+            {
+              "front": "consultation will address concerns",
+              "back": "la consultation répondra aux préoccupations"
+            },
+            {
+              "front": "compliance check will happen",
+              "back": "un contrôle de conformité aura lieu"
+            },
+            {
+              "front": "operation schedule will update",
+              "back": "le calendrier des opérations sera mis à jour"
+            },
+            {
+              "front": "movement tracking will monitor",
+              "back": "le suivi des mouvements surveillera"
+            },
+            {
+              "front": "distance measurement will check",
+              "back": "la mesure de distance vérifiera"
+            },
+            {
+              "front": "hub location will access",
+              "back": "l&#39;emplacement du hub aura accès"
+            },
+            {
+              "front": "network analysis will identify",
+              "back": "l&#39;analyse du réseau permettra d&#39;identifier"
+            },
+            {
+              "front": "allocation strategy will optimize",
+              "back": "la stratégie d&#39;allocation optimisera"
+            },
+            {
+              "front": "signs will direct travelers home",
+              "back": "des panneaux guideront les voyageurs vers leur domicile"
+            },
+            {
+              "front": "traffic report will indicate",
+              "back": "le rapport de trafic indiquera"
+            },
+            {
+              "front": "consultation service will provide",
+              "back": "le service de consultation fournira"
+            },
+            {
+              "front": "logistics plan will streamline",
+              "back": "le plan logistique sera rationalisé"
+            },
+            {
+              "front": "bicycle lane will promote",
+              "back": "la piste cyclable favorisera"
+            },
+            {
+              "front": "response will save lives",
+              "back": "la réponse sauvera des vies"
+            },
+            {
+              "front": "driving rule will apply",
+              "back": "la règle de conduite s&#39;appliquera"
+            },
+            {
+              "front": "safety will be prioritized",
+              "back": "la sécurité sera prioritaire"
+            },
+            {
+              "front": "service route will adjust",
+              "back": "l&#39;itinéraire de service sera ajusté"
+            },
+            {
+              "front": "schedule will become necessary",
+              "back": "un calendrier deviendra nécessaire"
+            },
+            {
+              "front": "congestion will impact travel",
+              "back": "la congestion aura un impact sur les déplacements"
+            },
+            {
+              "front": "reservation system will simplify",
+              "back": "le système de réservation va simplifier"
+            },
+            {
+              "front": "planning meeting will set",
+              "back": "la réunion de planification fixera"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "departure time will change again",
+              "back": "l&#39;heure de départ va encore changer"
+            },
+            {
+              "front": "arrival schedule will adjust soon",
+              "back": "l&#39;horaire d&#39;arrivée sera bientôt ajusté"
+            },
+            {
+              "front": "ticket counter will open early",
+              "back": "la billetterie ouvrira plus tôt que prévu"
+            },
+            {
+              "front": "platform number will be updated",
+              "back": "le numéro de quai sera mis à jour"
+            },
+            {
+              "front": "route map will show detours",
+              "back": "la carte routière affichera les détours"
+            },
+            {
+              "front": "cargo space will be limited",
+              "back": "l&#39;espace de chargement sera limité"
+            },
+            {
+              "front": "freight load will increase significantly",
+              "back": "la charge de fret augmentera considérablement"
+            },
+            {
+              "front": "commute route will take longer",
+              "back": "le trajet domicile-travail prendra plus de temps"
+            },
+            {
+              "front": "queue line will form quickly",
+              "back": "la file d&#39;attente se formera rapidement"
+            },
+            {
+              "front": "fare price will rise next",
+              "back": "le prix du billet augmentera ensuite"
+            },
+            {
+              "front": "passenger service will exceed expectations",
+              "back": "le service aux passagers dépassera les attentes"
+            },
+            {
+              "front": "transfer station will be busy",
+              "back": "la station de transfert sera occupée"
+            },
+            {
+              "front": "traffic signal will turn green",
+              "back": "le feu de circulation deviendra vert"
+            },
+            {
+              "front": "safety measure will be implemented",
+              "back": "des mesures de sécurité seront mises en œuvre"
+            },
+            {
+              "front": "inspection area will be crowded",
+              "back": "la zone d&#39;inspection sera bondée"
+            },
+            {
+              "front": "journey plan will work perfectly",
+              "back": "le plan de voyage fonctionnera parfaitement"
+            },
+            {
+              "front": "navigation tool will guide us",
+              "back": "l&#39;outil de navigation nous guidera"
+            },
+            {
+              "front": "bus stop will change location",
+              "back": "l&#39;arrêt de bus va changer d&#39;emplacement"
+            },
+            {
+              "front": "rail line will operate smoothly",
+              "back": "la ligne ferroviaire fonctionnera sans problème"
+            },
+            {
+              "front": "logistics network will improve efficiency",
+              "back": "le réseau logistique améliorera l&#39;efficacité"
+            },
+            {
+              "front": "modal transport will include options",
+              "back": "le transport modal comprendra des options"
+            },
+            {
+              "front": "travel allowance will be flexible",
+              "back": "l&#39;indemnité de déplacement sera flexible"
+            },
+            {
+              "front": "system upgrade will enhance performance",
+              "back": "la mise à niveau du système améliorera les performances"
+            },
+            {
+              "front": "capacity limit will be reached",
+              "back": "la limite de capacité sera atteinte"
+            },
+            {
+              "front": "accessibility feature will assist passengers",
+              "back": "la fonction d&#39;accessibilité aidera les passagers"
+            },
+            {
+              "front": "route planner will help travelers",
+              "back": "le planificateur d&#39;itinéraire aidera les voyageurs"
+            },
+            {
+              "front": "connection point will facilitate transfers",
+              "back": "le point de connexion facilitera les transferts"
+            },
+            {
+              "front": "service area will offer amenities",
+              "back": "la zone de service offrira des commodités"
+            },
+            {
+              "front": "consultation meeting will address concerns",
+              "back": "la réunion de consultation abordera les préoccupations"
+            },
+            {
+              "front": "compliance check will ensure safety",
+              "back": "le contrôle de conformité garantira la sécurité"
+            },
+            {
+              "front": "operation schedule will update weekly",
+              "back": "le calendrier des opérations sera mis à jour chaque semaine"
+            },
+            {
+              "front": "movement tracking will monitor routes",
+              "back": "le suivi des mouvements surveillera les itinéraires"
+            },
+            {
+              "front": "distance measurement will ensure accuracy",
+              "back": "la mesure de la distance garantira la précision"
+            },
+            {
+              "front": "hub location will simplify access",
+              "back": "l&#39;emplacement du hub simplifiera l&#39;accès"
+            },
+            {
+              "front": "network analysis will identify improvements",
+              "back": "l&#39;analyse du réseau permettra d&#39;identifier les améliorations"
+            },
+            {
+              "front": "allocation strategy will optimize resources",
+              "back": "la stratégie d&#39;allocation optimisera les ressources"
+            },
+            {
+              "front": "signage system will direct travelers",
+              "back": "un système de signalisation guidera les voyageurs"
+            },
+            {
+              "front": "traffic report will indicate congestion",
+              "back": "le rapport de circulation indiquera les embouteillages"
+            },
+            {
+              "front": "consultation service will provide assistance",
+              "back": "le service de consultation fournira une assistance"
+            },
+            {
+              "front": "logistics plan will streamline processes",
+              "back": "le plan logistique rationalisera les processus"
+            },
+            {
+              "front": "bicycle lane will promote cycling",
+              "back": "la piste cyclable favorisera le cyclisme"
+            },
+            {
+              "front": "emergency response will save lives",
+              "back": "l&#39;intervention d&#39;urgence sauvera des vies"
+            },
+            {
+              "front": "driving rule will apply universally",
+              "back": "la règle de conduite s&#39;appliquera universellement"
+            },
+            {
+              "front": "road safety will be prioritized",
+              "back": "la sécurité routière sera prioritaire"
+            },
+            {
+              "front": "service route will require adjustments",
+              "back": "l&#39;itinéraire de service nécessitera des ajustements"
+            },
+            {
+              "front": "schedule update will be necessary",
+              "back": "une mise à jour du calendrier sera nécessaire"
+            },
+            {
+              "front": "traffic congestion will impact travel",
+              "back": "les embouteillages auront un impact sur les déplacements"
+            },
+            {
+              "front": "reservation system will simplify bookings",
+              "back": "le système de réservation simplifiera les réservations"
+            },
+            {
+              "front": "planning meeting will set agenda",
+              "back": "la réunion de planification établira l&#39;ordre du jour"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "station will close before dinner time",
+              "back": "la gare fermera avant l&#39;heure du dîner"
+            },
+            {
+              "front": "departure time is good for us",
+              "back": "l&#39;heure de départ nous convient"
+            },
+            {
+              "front": "they will perform good network analysis",
+              "back": "ils effectueront une bonne analyse de réseau"
+            },
+            {
+              "front": "traffic report runs every single hour",
+              "back": "le rapport de trafic est diffusé toutes les heures"
+            },
+            {
+              "front": "we will obey all traffic signals",
+              "back": "nous obéirons à tous les feux de circulation"
+            },
+            {
+              "front": "they will arrive here on schedule",
+              "back": "ils arriveront ici à l&#39;heure prévue"
+            },
+            {
+              "front": "we need to arrive at airport",
+              "back": "nous devons arriver à l&#39;aéroport"
+            },
+            {
+              "front": "cargo space will become available soon",
+              "back": "l&#39;espace de chargement sera bientôt disponible"
+            },
+            {
+              "front": "fare price will increase next month",
+              "back": "le prix du billet augmentera le mois prochain"
+            },
+            {
+              "front": "rail line will be fully operational",
+              "back": "la ligne ferroviaire sera pleinement opérationnelle"
+            },
+            {
+              "front": "route map will indicate all detours",
+              "back": "la carte routière indiquera tous les détours"
+            },
+            {
+              "front": "arrival schedule will be posted soon",
+              "back": "l&#39;horaire d&#39;arrivée sera bientôt publié"
+            },
+            {
+              "front": "safety measures will ensure passenger security",
+              "back": "des mesures de sécurité assureront la sécurité des passagers"
+            },
+            {
+              "front": "commute route will include multiple options",
+              "back": "l&#39;itinéraire de trajet comprendra plusieurs options"
+            },
+            {
+              "front": "service area will have essential amenities",
+              "back": "la zone de service disposera des commodités essentielles"
+            },
+            {
+              "front": "transfer station will provide convenient connections",
+              "back": "la station de transfert offrira des correspondances pratiques"
+            },
+            {
+              "front": "traffic signal will turn green shortly",
+              "back": "le feu de circulation passera bientôt au vert"
+            },
+            {
+              "front": "navigation tool will guide our route",
+              "back": "l&#39;outil de navigation guidera notre itinéraire"
+            },
+            {
+              "front": "bicycle lane will promote safer cycling",
+              "back": "la piste cyclable favorisera une pratique du vélo plus sûre"
+            },
+            {
+              "front": "operation schedule will be updated regularly",
+              "back": "le calendrier des opérations sera mis à jour régulièrement"
+            },
+            {
+              "front": "network analysis will improve overall logistics",
+              "back": "l&#39;analyse du réseau améliorera la logistique globale"
+            },
+            {
+              "front": "capacity limit will be enforced soon",
+              "back": "la limite de capacité sera bientôt appliquée"
+            },
+            {
+              "front": "they will adjust service route accordingly",
+              "back": "ils ajusteront l&#39;itinéraire de service en conséquence"
+            },
+            {
+              "front": "emergency response will save many lives",
+              "back": "l&#39;intervention d&#39;urgence sauvera de nombreuses vies"
+            },
+            {
+              "front": "we will implement necessary safety protocols",
+              "back": "nous mettrons en œuvre les protocoles de sécurité nécessaires"
+            },
+            {
+              "front": "inspection area will be very busy",
+              "back": "la zone d&#39;inspection sera très fréquentée"
+            },
+            {
+              "front": "traffic report will highlight major issues",
+              "back": "le rapport de circulation mettra en évidence les problèmes majeurs"
+            },
+            {
+              "front": "consultation meeting will discuss important topics",
+              "back": "la réunion de consultation abordera des sujets importants"
+            },
+            {
+              "front": "travel allowance will cover all expenses",
+              "back": "l&#39;indemnité de déplacement couvrira toutes les dépenses"
+            },
+            {
+              "front": "reservation system will streamline travel bookings",
+              "back": "le système de réservation simplifiera les réservations de voyages"
+            },
+            {
+              "front": "distance measurement will ensure accurate travel",
+              "back": "la mesure de la distance garantira un déplacement précis"
+            },
+            {
+              "front": "hub location will simplify passenger access",
+              "back": "L&#39;emplacement du hub simplifiera l&#39;accès des passagers"
+            },
+            {
+              "front": "signage system will direct all travelers",
+              "back": "le système de signalisation guidera tous les voyageurs"
+            },
+            {
+              "front": "we will analyze logistics for efficiency",
+              "back": "nous analyserons la logistique pour en vérifier l&#39;efficacité"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

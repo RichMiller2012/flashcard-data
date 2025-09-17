@@ -1,0 +1,1273 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Seasons",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Spring", "back": "printemps" },
+            { "front": "Summer", "back": "été" },
+            { "front": "Autumn", "back": "automne" },
+            { "front": "Winter", "back": "hiver" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Is spring", "back": "c&#39;est le printemps" },
+            { "front": "Autumn leaves", "back": "feuilles d&#39;automne" },
+            { "front": "Summer sun", "back": "soleil d&#39;été" },
+            { "front": "Winter snow", "back": "neige d&#39;hiver" },
+            { "front": "Spring flowers", "back": "fleurs de printemps" },
+            { "front": "Summer rain", "back": "pluie d&#39;été" },
+            { "front": "Autumn breeze", "back": "brise d&#39;automne" },
+            { "front": "Winter chill", "back": "froid hivernal" },
+            { "front": "Spring growth", "back": "croissance printanière" },
+            { "front": "Summer heat", "back": "chaleur estivale" },
+            { "front": "Autumn harvest", "back": "récolte d&#39;automne" },
+            { "front": "Winter nights", "back": "nuits d&#39;hiver" },
+            { "front": "Spring showers", "back": "averses printanières" },
+            { "front": "Summer vacation", "back": "vacances d&#39;été" },
+            { "front": "Autumn colors", "back": "couleurs d&#39;automne" },
+            {
+              "front": "Winter wonderland",
+              "back": "pays des merveilles hivernal"
+            },
+            { "front": "Spring awakening", "back": "réveil du printemps" },
+            { "front": "Summer fun", "back": "plaisirs d&#39;été" },
+            { "front": "Autumn festival", "back": "fête d&#39;automne" },
+            { "front": "Winter sports", "back": "sports d&#39;hiver" },
+            { "front": "Spring cleaning", "back": "nettoyage de printemps" },
+            { "front": "Summer nights", "back": "nuits d&#39;été" },
+            { "front": "Autumn vibes", "back": "ambiance d&#39;automne" },
+            { "front": "Winter days", "back": "jours d&#39;hiver" },
+            { "front": "Spring blossoms", "back": "fleurs de printemps" },
+            { "front": "Summer activities", "back": "activités d&#39;été" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I love summer", "back": "j&#39;aime l&#39;été" },
+            { "front": "He hates winter", "back": "il déteste l&#39;hiver" },
+            { "front": "She likes spring", "back": "elle aime le printemps" },
+            {
+              "front": "They enjoy autumn",
+              "back": "ils apprécient l&#39;automne"
+            },
+            {
+              "front": "We celebrate summer",
+              "back": "nous célébrons l&#39;été"
+            },
+            {
+              "front": "You appreciate spring",
+              "back": "tu apprécies le printemps"
+            },
+            {
+              "front": "They dislike winter",
+              "back": "ils n&#39;aiment pas l&#39;hiver"
+            },
+            { "front": "I prefer autumn", "back": "je préfère l&#39;automne" },
+            { "front": "She adores summer", "back": "elle adore l&#39;été" },
+            {
+              "front": "He dislikes autumn",
+              "back": "il n&#39;aime pas l&#39;automne"
+            },
+            {
+              "front": "We enjoy spring",
+              "back": "nous profitons du printemps"
+            },
+            { "front": "You love winter", "back": "tu aimes l&#39;hiver" },
+            {
+              "front": "They appreciate summer",
+              "back": "ils apprécient l&#39;été"
+            },
+            { "front": "I enjoy autumn", "back": "j&#39;aime l&#39;automne" },
+            {
+              "front": "She prefers winter",
+              "back": "elle préfère l&#39;hiver"
+            },
+            { "front": "He loves spring", "back": "il aime le printemps" },
+            {
+              "front": "We hate autumn",
+              "back": "nous détestons l&#39;automne"
+            },
+            { "front": "You enjoy summer", "back": "tu profites de l&#39;été" },
+            { "front": "They like winter", "back": "ils aiment l&#39;hiver" },
+            { "front": "I admire spring", "back": "j&#39;admire le printemps" },
+            { "front": "She hates summer", "back": "elle déteste l&#39;été" },
+            { "front": "He loves winter", "back": "il aime l&#39;hiver" },
+            { "front": "We like autumn", "back": "nous aimons l&#39;automne" },
+            {
+              "front": "You prefer spring",
+              "back": "tu préfères le printemps"
+            },
+            { "front": "They adore summer", "back": "ils adorent l&#39;été" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I love summer days",
+              "back": "j&#39;aime les jours d&#39;été"
+            },
+            {
+              "front": "She enjoys spring flowers",
+              "back": "elle aime les fleurs du printemps"
+            },
+            {
+              "front": "They hate winter cold",
+              "back": "ils détestent le froid de l&#39;hiver"
+            },
+            {
+              "front": "We appreciate autumn colors",
+              "back": "nous apprécions les couleurs d&#39;automne"
+            },
+            {
+              "front": "You prefer summer sunshine",
+              "back": "tu préfères le soleil d&#39;été"
+            },
+            {
+              "front": "He admires spring blooms",
+              "back": "il admire les fleurs du printemps"
+            },
+            {
+              "front": "She cherishes autumn harvests",
+              "back": "elle chérit les récoltes d&#39;automne"
+            },
+            {
+              "front": "They enjoy winter sports",
+              "back": "ils aiment les sports d&#39;hiver"
+            },
+            {
+              "front": "I appreciate spring mornings",
+              "back": "j&#39;apprécie les matins de printemps"
+            },
+            {
+              "front": "We love summer vacations",
+              "back": "nous aimons les vacances d&#39;été"
+            },
+            {
+              "front": "You dislike autumn winds",
+              "back": "tu n&#39;aimes pas les vents d&#39;automne"
+            },
+            {
+              "front": "He prefers winter evenings",
+              "back": "il préfère les soirées d&#39;hiver"
+            },
+            {
+              "front": "She enjoys summer nights",
+              "back": "elle aime les nuits d&#39;été"
+            },
+            {
+              "front": "They love spring rain",
+              "back": "ils aiment la pluie de printemps"
+            },
+            {
+              "front": "I dislike winter storms",
+              "back": "je n&#39;aime pas les tempêtes hivernales"
+            },
+            {
+              "front": "We cherish autumn sunsets",
+              "back": "nous chérissons les couchers de soleil d&#39;automne"
+            },
+            {
+              "front": "You admire spring growth",
+              "back": "vous admirez la croissance printanière"
+            },
+            {
+              "front": "He enjoys summer hikes",
+              "back": "il aime les randonnées estivales"
+            },
+            {
+              "front": "She loves autumn leaves",
+              "back": "elle aime les feuilles d&#39;automne"
+            },
+            {
+              "front": "They appreciate winter beauty",
+              "back": "ils apprécient la beauté hivernale"
+            },
+            {
+              "front": "I enjoy spring walks",
+              "back": "j&#39;aime les promenades printanières"
+            },
+            {
+              "front": "We love summer heat",
+              "back": "nous aimons la chaleur de l&#39;été"
+            },
+            {
+              "front": "You cherish autumn moments",
+              "back": "vous chérissez les moments d&#39;automne"
+            },
+            {
+              "front": "He admires winter landscapes",
+              "back": "il admire les paysages d&#39;hiver"
+            },
+            {
+              "front": "She prefers spring mornings",
+              "back": "elle préfère les matins de printemps"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I love summer evenings",
+              "back": "j&#39;aime les soirées d&#39;été"
+            },
+            {
+              "front": "She enjoys spring mornings",
+              "back": "elle aime les matins de printemps"
+            },
+            {
+              "front": "They cherish autumn sunsets",
+              "back": "ils chérissent les couchers de soleil d&#39;automne"
+            },
+            {
+              "front": "We appreciate winter landscapes",
+              "back": "nous apprécions les paysages hivernaux"
+            },
+            {
+              "front": "You prefer spring flowers",
+              "back": "tu préfères les fleurs de printemps"
+            },
+            {
+              "front": "He admires summer sunrises",
+              "back": "il admire les levers de soleil d&#39;été"
+            },
+            {
+              "front": "She hates winter storms",
+              "back": "elle déteste les tempêtes hivernales"
+            },
+            {
+              "front": "They celebrate autumn festivals",
+              "back": "ils célèbrent les fêtes d&#39;automne"
+            },
+            {
+              "front": "I appreciate spring growth",
+              "back": "j&#39;apprécie la croissance printanière"
+            },
+            {
+              "front": "We enjoy summer vacations together",
+              "back": "nous profitons des vacances d&#39;été ensemble"
+            },
+            {
+              "front": "You love autumn colors",
+              "back": "tu aimes les couleurs d&#39;automne"
+            },
+            {
+              "front": "He dislikes winter chills",
+              "back": "il n&#39;aime pas le froid hivernal"
+            },
+            {
+              "front": "She adores spring blossoms",
+              "back": "elle adore les fleurs du printemps"
+            },
+            {
+              "front": "They enjoy summer activities",
+              "back": "ils aiment les activités estivales"
+            },
+            {
+              "front": "I cherish autumn memories",
+              "back": "je chéris les souvenirs d&#39;automne"
+            },
+            {
+              "front": "We love winter nights",
+              "back": "nous aimons les nuits d&#39;hiver"
+            },
+            {
+              "front": "You enjoy spring walks",
+              "back": "vous aimez les promenades printanières"
+            },
+            {
+              "front": "He loves summer heat",
+              "back": "il aime la chaleur de l&#39;été"
+            },
+            {
+              "front": "She appreciates autumn harvests",
+              "back": "elle apprécie les récoltes d&#39;automne"
+            },
+            {
+              "front": "They adore winter snowflakes",
+              "back": "ils adorent les flocons de neige d&#39;hiver"
+            },
+            {
+              "front": "I enjoy summer sunsets",
+              "back": "j&#39;aime les couchers de soleil d&#39;été"
+            },
+            {
+              "front": "We cherish spring days",
+              "back": "nous chérissons les jours de printemps"
+            },
+            {
+              "front": "You love autumn breezes",
+              "back": "tu aimes les brises d&#39;automne"
+            },
+            {
+              "front": "He appreciates winter nights",
+              "back": "il apprécie les nuits d&#39;hiver"
+            },
+            {
+              "front": "She enjoys summer nights",
+              "back": "elle aime les nuits d&#39;été"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I love summer warm evenings now",
+              "back": "j&#39;aime les chaudes soirées d&#39;été maintenant"
+            },
+            {
+              "front": "He hates winter cold weather days",
+              "back": "il déteste les journées froides d&#39;hiver"
+            },
+            {
+              "front": "She enjoys spring blooming colorful flowers",
+              "back": "elle aime les fleurs colorées qui fleurissent au printemps"
+            },
+            {
+              "front": "They celebrate autumn colorful falling leaves",
+              "back": "ils célèbrent l&#39;automne avec des feuilles colorées qui tombent"
+            },
+            {
+              "front": "We appreciate winter snowy beautiful landscapes",
+              "back": "nous apprécions les beaux paysages enneigés de l&#39;hiver"
+            },
+            {
+              "front": "You prefer spring gentle cool breezes",
+              "back": "vous préférez les douces brises fraîches du printemps"
+            },
+            {
+              "front": "Nobody enjoys winter freezing cold nights",
+              "back": "personne n&#39;apprécie les nuits glaciales de l&#39;hiver"
+            },
+            {
+              "front": "Everyone loves summer bright shining sunshine",
+              "back": "tout le monde aime le soleil brillant et éclatant de l&#39;été"
+            },
+            {
+              "front": "I cherish autumn crisp fresh mornings",
+              "back": "j&#39;apprécie les matins frais et vifs de l&#39;automne"
+            },
+            {
+              "front": "He admires spring vibrant colorful blossoms",
+              "back": "il admire les fleurs vibrantes et colorées du printemps"
+            },
+            {
+              "front": "She enjoys summer hot sunny days",
+              "back": "elle aime les chaudes journées ensoleillées d&#39;été"
+            },
+            {
+              "front": "They love autumn bountiful harvest time",
+              "back": "ils aiment la période des récoltes abondantes de l&#39;automne"
+            },
+            {
+              "front": "We hate winter bitter freezing cold",
+              "back": "nous détestons le froid glacial de l&#39;hiver"
+            },
+            {
+              "front": "You adore spring fresh blooming flowers",
+              "back": "vous adorez les fleurs fraîches du printemps"
+            },
+            {
+              "front": "Nobody likes winter long dark nights",
+              "back": "personne n&#39;aime les longues nuits sombres de l&#39;hiver"
+            },
+            {
+              "front": "Everyone enjoys summer fun outdoor activities",
+              "back": "tout le monde apprécie les activités de plein air amusantes de l&#39;été"
+            },
+            {
+              "front": "I enjoy autumn walking through leaves",
+              "back": "j&#39;aime me promener à travers les feuilles en automne"
+            },
+            {
+              "front": "He prefers spring rain gentle showers",
+              "back": "il préfère les pluies printanières et les averses douces"
+            },
+            {
+              "front": "She loves summer outdoor lively events",
+              "back": "elle aime les événements animés en plein air en été"
+            },
+            {
+              "front": "They appreciate autumn falling golden leaves",
+              "back": "ils apprécient les feuilles dorées qui tombent en automne"
+            },
+            {
+              "front": "We enjoy winter cozy warm firesides",
+              "back": "nous apprécions les feux de cheminée chaleureux et douillets de l&#39;hiver"
+            },
+            {
+              "front": "You cherish spring new green growth",
+              "back": "vous chérissez la nouvelle croissance verte du printemps"
+            },
+            {
+              "front": "He likes summer beach relaxing trips",
+              "back": "il aime les sorties détente à la plage en été"
+            },
+            {
+              "front": "She enjoys autumn evening peaceful walks",
+              "back": "elle apprécie les promenades paisibles en soirée d&#39;automne"
+            },
+            {
+              "front": "They love winter holiday festive celebrations",
+              "back": "ils aiment les fêtes de fin d&#39;année"
+            },
+            {
+              "front": "I prefer spring warm sunny days",
+              "back": "je préfère les journées chaudes et ensoleillées du printemps"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Loved summer", "back": "j&#39;ai adoré l&#39;été" },
+            { "front": "Hated winter", "back": "détestait l&#39;hiver" },
+            { "front": "Enjoyed spring", "back": "apprécié le printemps" },
+            { "front": "Appreciated autumn", "back": "apprécié l&#39;automne" },
+            { "front": "Adored summer", "back": "été adoré" },
+            {
+              "front": "Disliked winter",
+              "back": "n&#39;aimait pas l&#39;hiver"
+            },
+            { "front": "Cherished autumn", "back": "automne chéri" },
+            { "front": "Admired spring", "back": "printemps admiré" },
+            { "front": "Preferred summer", "back": "été préféré" },
+            { "front": "Hated autumn", "back": "détesté l&#39;automne" },
+            { "front": "Loved spring", "back": "j&#39;ai adoré le printemps" },
+            { "front": "Enjoyed autumn", "back": "apprécié l&#39;automne" },
+            { "front": "Appreciated winter", "back": "apprécié l&#39;hiver" },
+            { "front": "Admired summer", "back": "été admiré" },
+            {
+              "front": "Disliked spring",
+              "back": "n&#39;aimait pas le printemps"
+            },
+            { "front": "Cherished winter", "back": "hiver chéri" },
+            { "front": "Adored autumn", "back": "adoré l&#39;automne" },
+            { "front": "Preferred spring", "back": "ressort préféré" },
+            { "front": "Loved winter", "back": "j&#39;ai adoré l&#39;hiver" },
+            { "front": "Enjoyed summer", "back": "apprécié l&#39;été" },
+            { "front": "Appreciated spring", "back": "apprécié le printemps" },
+            { "front": "Admired autumn", "back": "automne admiré" },
+            {
+              "front": "Disliked summer",
+              "back": "n&#39;a pas aimé l&#39;été"
+            },
+            { "front": "Cherished spring", "back": "printemps chéri" },
+            { "front": "Preferred autumn", "back": "automne préféré" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I loved summer", "back": "j&#39;ai adoré l&#39;été" },
+            { "front": "He hated winter", "back": "il détestait l&#39;hiver" },
+            {
+              "front": "She enjoyed spring",
+              "back": "elle a apprécié le printemps"
+            },
+            {
+              "front": "They appreciated autumn",
+              "back": "ils ont apprécié l&#39;automne"
+            },
+            {
+              "front": "We adored summer",
+              "back": "nous avons adoré l&#39;été"
+            },
+            {
+              "front": "You disliked winter",
+              "back": "tu n&#39;aimais pas l&#39;hiver"
+            },
+            {
+              "front": "Everyone cherished autumn",
+              "back": "tout le monde a chéri l&#39;automne"
+            },
+            {
+              "front": "Nobody admired spring",
+              "back": "personne n&#39;admirait le printemps"
+            },
+            {
+              "front": "I preferred summer",
+              "back": "j&#39;ai préféré l&#39;été"
+            },
+            { "front": "He loved autumn", "back": "il aimait l&#39;automne" },
+            {
+              "front": "She enjoyed winter",
+              "back": "elle aimait l&#39;hiver"
+            },
+            {
+              "front": "They hated spring",
+              "back": "ils détestaient le printemps"
+            },
+            {
+              "front": "We appreciated summer",
+              "back": "nous avons apprécié l&#39;été"
+            },
+            {
+              "front": "You adored autumn",
+              "back": "tu adorais l&#39;automne"
+            },
+            {
+              "front": "Everyone disliked winter",
+              "back": "tout le monde n&#39;aimait pas l&#39;hiver"
+            },
+            {
+              "front": "Nobody cherished spring",
+              "back": "personne n&#39;a chéri le printemps"
+            },
+            {
+              "front": "I admired autumn",
+              "back": "j&#39;ai admiré l&#39;automne"
+            },
+            { "front": "He enjoyed summer", "back": "il a apprécié l&#39;été" },
+            {
+              "front": "She preferred winter",
+              "back": "elle préférait l&#39;hiver"
+            },
+            {
+              "front": "They adored spring",
+              "back": "ils adoraient le printemps"
+            },
+            {
+              "front": "We hated autumn",
+              "back": "nous détestions l&#39;automne"
+            },
+            { "front": "You loved winter", "back": "tu aimais l&#39;hiver" },
+            {
+              "front": "Everyone enjoyed spring",
+              "back": "tout le monde a apprécié le printemps"
+            },
+            {
+              "front": "Nobody appreciated summer",
+              "back": "personne n&#39;a apprécié l&#39;été"
+            },
+            {
+              "front": "I disliked autumn",
+              "back": "je n&#39;aimais pas l&#39;automne"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I loved summer days",
+              "back": "j&#39;ai adoré les jours d&#39;été"
+            },
+            {
+              "front": "She enjoyed spring mornings",
+              "back": "elle aimait les matins de printemps"
+            },
+            {
+              "front": "They hated winter cold",
+              "back": "ils détestaient le froid de l&#39;hiver"
+            },
+            {
+              "front": "We appreciated autumn colors",
+              "back": "nous avons apprécié les couleurs d&#39;automne"
+            },
+            {
+              "front": "You preferred summer sunshine",
+              "back": "tu préférais le soleil d&#39;été"
+            },
+            {
+              "front": "He admired spring blooms",
+              "back": "il admirait les fleurs du printemps"
+            },
+            {
+              "front": "She cherished autumn harvests",
+              "back": "elle chérissait les récoltes d&#39;automne"
+            },
+            {
+              "front": "They enjoyed winter sports",
+              "back": "ils aimaient les sports d&#39;hiver"
+            },
+            {
+              "front": "I appreciated spring mornings",
+              "back": "j&#39;ai apprécié les matins de printemps"
+            },
+            {
+              "front": "We loved summer vacations",
+              "back": "nous avons adoré les vacances d&#39;été"
+            },
+            {
+              "front": "You disliked autumn winds",
+              "back": "tu n&#39;aimais pas les vents d&#39;automne"
+            },
+            {
+              "front": "He preferred winter evenings",
+              "back": "il préférait les soirées d&#39;hiver"
+            },
+            {
+              "front": "She enjoyed summer nights",
+              "back": "elle aimait les nuits d&#39;été"
+            },
+            {
+              "front": "They loved spring rain",
+              "back": "ils aimaient la pluie printanière"
+            },
+            {
+              "front": "I disliked winter storms",
+              "back": "je n&#39;aimais pas les tempêtes hivernales"
+            },
+            {
+              "front": "We cherished autumn sunsets",
+              "back": "nous avons chéri les couchers de soleil d&#39;automne"
+            },
+            {
+              "front": "You admired spring growth",
+              "back": "tu as admiré la croissance printanière"
+            },
+            {
+              "front": "He enjoyed summer hikes",
+              "back": "il aimait les randonnées estivales"
+            },
+            {
+              "front": "She loved autumn leaves",
+              "back": "elle aimait les feuilles d&#39;automne"
+            },
+            {
+              "front": "They appreciated winter beauty",
+              "back": "ils appréciaient la beauté de l&#39;hiver"
+            },
+            {
+              "front": "I enjoyed spring walks",
+              "back": "j&#39;ai apprécié les promenades printanières"
+            },
+            {
+              "front": "We loved summer heat",
+              "back": "nous avons adoré la chaleur de l&#39;été"
+            },
+            {
+              "front": "You cherished autumn moments",
+              "back": "vous avez chéri les moments d&#39;automne"
+            },
+            {
+              "front": "He admired winter landscapes",
+              "back": "il admirait les paysages d&#39;hiver"
+            },
+            {
+              "front": "She preferred spring mornings",
+              "back": "elle préférait les matins de printemps"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I loved summer warm evenings",
+              "back": "j&#39;ai adoré les chaudes soirées d&#39;été"
+            },
+            {
+              "front": "He hated winter cold weather",
+              "back": "il détestait le froid hivernal"
+            },
+            {
+              "front": "She enjoyed spring blooming flowers",
+              "back": "elle aimait les fleurs printanières"
+            },
+            {
+              "front": "They celebrated autumn colorful leaves",
+              "back": "ils ont célébré les feuilles colorées de l&#39;automne"
+            },
+            {
+              "front": "We appreciated winter snowy landscapes",
+              "back": "nous avons apprécié les paysages enneigés de l&#39;hiver"
+            },
+            {
+              "front": "You preferred spring gentle breezes",
+              "back": "tu préférais les douces brises printanières"
+            },
+            {
+              "front": "Nobody enjoyed winter freezing nights",
+              "back": "personne n&#39;a apprécié les nuits glaciales d&#39;hiver"
+            },
+            {
+              "front": "Everyone loved summer shining sunshine",
+              "back": "tout le monde aimait le soleil brillant de l&#39;été"
+            },
+            {
+              "front": "I cherished autumn crisp mornings",
+              "back": "j&#39;ai chéri les matins frais d&#39;automne"
+            },
+            {
+              "front": "He admired spring vibrant blossoms",
+              "back": "il admirait les fleurs vibrantes du printemps"
+            },
+            {
+              "front": "She enjoyed summer sunny days",
+              "back": "elle appréciait les journées ensoleillées d&#39;été"
+            },
+            {
+              "front": "They loved autumn falling leaves",
+              "back": "ils aimaient les feuilles qui tombaient en automne"
+            },
+            {
+              "front": "We hated winter bitter chills",
+              "back": "nous détestions les froids mordants de l&#39;hiver"
+            },
+            {
+              "front": "You adored spring fresh flowers",
+              "back": "tu adorais les fleurs fraîches du printemps"
+            },
+            {
+              "front": "Nobody liked winter dark nights",
+              "back": "personne n&#39;aimait les nuits sombres d&#39;hiver"
+            },
+            {
+              "front": "Everyone enjoyed summer outdoor activities",
+              "back": "tout le monde a apprécié les activités de plein air estivales"
+            },
+            {
+              "front": "I enjoyed autumn walking through",
+              "back": "j&#39;ai apprécié les promenades d&#39;automne à travers"
+            },
+            {
+              "front": "He preferred spring rain showers",
+              "back": "il préférait les averses de pluie printanières"
+            },
+            {
+              "front": "She loved summer outdoor events",
+              "back": "elle aimait les événements d&#39;été en plein air"
+            },
+            {
+              "front": "They appreciated autumn falling leaves",
+              "back": "ils appréciaient les feuilles qui tombaient en automne"
+            },
+            {
+              "front": "We enjoyed winter cozy firesides",
+              "back": "nous avons apprécié les feux de cheminée douillets de l&#39;hiver"
+            },
+            {
+              "front": "You cherished spring new growth",
+              "back": "tu as chéri la nouvelle croissance du printemps"
+            },
+            {
+              "front": "He liked summer beach trips",
+              "back": "il aimait les sorties à la plage en été"
+            },
+            {
+              "front": "She enjoyed autumn peaceful walks",
+              "back": "elle aimait les promenades paisibles d&#39;automne"
+            },
+            {
+              "front": "They loved winter festive celebrations",
+              "back": "ils aimaient les fêtes d&#39;hiver"
+            },
+            {
+              "front": "I preferred spring warm days",
+              "back": "je préférais les journées chaudes du printemps"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I loved summer warm evenings now",
+              "back": "j&#39;aimais les chaudes soirées d&#39;été maintenant"
+            },
+            {
+              "front": "He hated winter cold weather days",
+              "back": "il détestait les journées froides d&#39;hiver"
+            },
+            {
+              "front": "She enjoyed spring blooming colorful flowers",
+              "back": "elle aimait les fleurs colorées du printemps"
+            },
+            {
+              "front": "They celebrated autumn colorful falling leaves",
+              "back": "ils ont célébré l&#39;automne avec des feuilles colorées qui tombent"
+            },
+            {
+              "front": "We appreciated winter snowy beautiful landscapes",
+              "back": "nous avons apprécié les beaux paysages enneigés de l&#39;hiver"
+            },
+            {
+              "front": "You preferred spring gentle cool breezes",
+              "back": "vous préfériez les douces brises fraîches du printemps"
+            },
+            {
+              "front": "Nobody enjoyed winter freezing cold nights",
+              "back": "personne n&#39;a apprécié les nuits glaciales de l&#39;hiver"
+            },
+            {
+              "front": "Everyone loved summer bright shining sunshine",
+              "back": "tout le monde aimait le soleil brillant et éclatant de l&#39;été"
+            },
+            {
+              "front": "I cherished autumn crisp fresh mornings",
+              "back": "j&#39;ai chéri les matins frais et vifs de l&#39;automne"
+            },
+            {
+              "front": "He admired spring vibrant colorful blossoms",
+              "back": "il admirait les fleurs vibrantes et colorées du printemps"
+            },
+            {
+              "front": "She enjoyed summer hot sunny days",
+              "back": "elle appréciait les chaudes journées ensoleillées de l&#39;été"
+            },
+            {
+              "front": "They loved autumn bountiful harvest time",
+              "back": "ils aimaient l&#39;automne, la période des récoltes abondantes"
+            },
+            {
+              "front": "We hated winter bitter freezing cold",
+              "back": "nous détestions le froid glacial de l&#39;hiver"
+            },
+            {
+              "front": "You adored spring fresh blooming flowers",
+              "back": "tu adorais les fleurs fraîches du printemps"
+            },
+            {
+              "front": "Nobody liked winter long dark nights",
+              "back": "personne n&#39;aimait les longues nuits sombres de l&#39;hiver"
+            },
+            {
+              "front": "Everyone enjoyed summer fun outdoor activities",
+              "back": "tout le monde a apprécié les activités de plein air amusantes de l&#39;été"
+            },
+            {
+              "front": "I enjoyed autumn walking through leaves",
+              "back": "j&#39;ai apprécié l&#39;automne en me promenant à travers les feuilles"
+            },
+            {
+              "front": "He preferred spring rain gentle showers",
+              "back": "il préférait les pluies printanières et les averses douces"
+            },
+            {
+              "front": "She loved summer outdoor lively events",
+              "back": "elle aimait les événements animés en plein air en été"
+            },
+            {
+              "front": "They appreciated autumn falling golden leaves",
+              "back": "ils appréciaient les feuilles dorées qui tombaient en automne"
+            },
+            {
+              "front": "We enjoyed winter cozy warm firesides",
+              "back": "nous avons apprécié les feux de cheminée chaleureux et douillets de l&#39;hiver"
+            },
+            {
+              "front": "You cherished spring new green growth",
+              "back": "vous avez chéri la nouvelle croissance verte du printemps"
+            },
+            {
+              "front": "He liked summer beach relaxing trips",
+              "back": "il aimait les sorties détente à la plage en été"
+            },
+            {
+              "front": "She enjoyed autumn evening peaceful walks",
+              "back": "elle appréciait les promenades paisibles en soirée d&#39;automne"
+            },
+            {
+              "front": "They loved winter holiday festive celebrations",
+              "back": "ils aimaient les fêtes de fin d&#39;année"
+            },
+            {
+              "front": "I preferred spring warm sunny days",
+              "back": "je préférais les journées chaudes et ensoleillées du printemps"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will be summer", "back": "ce sera l&#39;été" },
+            {
+              "front": "Will become autumn",
+              "back": "deviendra l&#39;automne"
+            },
+            { "front": "Will be winter", "back": "ce sera l&#39;hiver" },
+            { "front": "Will enjoy spring", "back": "profitera du printemps" },
+            { "front": "Will love summer", "back": "va adorer l&#39;été" },
+            { "front": "Will hate winter", "back": "détestera l&#39;hiver" },
+            { "front": "Will admire autumn", "back": "admirera l&#39;automne" },
+            { "front": "Will prefer spring", "back": "préférera le printemps" },
+            { "front": "Will cherish summer", "back": "chérira l&#39;été" },
+            { "front": "Will adore autumn", "back": "adorera l&#39;automne" },
+            {
+              "front": "Will dislike winter",
+              "back": "n&#39;aimera pas l&#39;hiver"
+            },
+            {
+              "front": "Will appreciate spring",
+              "back": "apprécieront le printemps"
+            },
+            { "front": "Will adore summer", "back": "adorera l&#39;été" },
+            {
+              "front": "Will dislike autumn",
+              "back": "n&#39;aimera pas l&#39;automne"
+            },
+            { "front": "Will admire winter", "back": "admirera l&#39;hiver" },
+            { "front": "Will prefer summer", "back": "préférera l&#39;été" },
+            { "front": "Will cherish autumn", "back": "chérira l&#39;automne" },
+            { "front": "Will adore winter", "back": "adorera l&#39;hiver" },
+            {
+              "front": "Will appreciate summer",
+              "back": "appréciera l&#39;été"
+            },
+            {
+              "front": "Will dislike spring",
+              "back": "n&#39;aimera pas le printemps"
+            },
+            { "front": "Will admire autumn", "back": "admirera l&#39;automne" },
+            { "front": "Will prefer winter", "back": "préférera l&#39;hiver" },
+            { "front": "Will cherish spring", "back": "chérira le printemps" },
+            { "front": "Will adore summer", "back": "adorera l&#39;été" },
+            {
+              "front": "Will appreciate autumn",
+              "back": "apprécieront l&#39;automne"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will love summer",
+              "back": "j&#39;adorerai l&#39;été"
+            },
+            {
+              "front": "He will enjoy autumn",
+              "back": "il profitera de l&#39;automne"
+            },
+            {
+              "front": "She will hate winter",
+              "back": "elle détestera l&#39;hiver"
+            },
+            {
+              "front": "They will appreciate spring",
+              "back": "ils apprécieront le printemps"
+            },
+            {
+              "front": "We will prefer summer",
+              "back": "nous préférerons l&#39;été"
+            },
+            {
+              "front": "You will admire spring",
+              "back": "vous admirerez le printemps"
+            },
+            {
+              "front": "Everyone will love summer",
+              "back": "tout le monde va adorer l&#39;été"
+            },
+            {
+              "front": "Nobody will enjoy winter",
+              "back": "personne ne profitera de l&#39;hiver"
+            },
+            {
+              "front": "I will cherish autumn",
+              "back": "je chérirai l&#39;automne"
+            },
+            {
+              "front": "He will prefer winter",
+              "back": "il préférera l&#39;hiver"
+            },
+            {
+              "front": "She will adore spring",
+              "back": "elle adorera le printemps"
+            },
+            {
+              "front": "They will hate summer",
+              "back": "ils détesteront l&#39;été"
+            },
+            {
+              "front": "We will enjoy autumn",
+              "back": "nous profiterons de l&#39;automne"
+            },
+            {
+              "front": "You will love spring",
+              "back": "vous allez adorer le printemps"
+            },
+            {
+              "front": "He will cherish summer",
+              "back": "il chérira l&#39;été"
+            },
+            {
+              "front": "She will prefer autumn",
+              "back": "elle préférera l&#39;automne"
+            },
+            {
+              "front": "They will adore winter",
+              "back": "ils adoreront l&#39;hiver"
+            },
+            {
+              "front": "I will admire spring",
+              "back": "j&#39;admirerai le printemps"
+            },
+            {
+              "front": "We will hate autumn",
+              "back": "nous détesterons l&#39;automne"
+            },
+            {
+              "front": "You will appreciate winter",
+              "back": "vous apprécierez l&#39;hiver"
+            },
+            {
+              "front": "He will enjoy spring",
+              "back": "il profitera du printemps"
+            },
+            {
+              "front": "She will cherish summer",
+              "back": "elle chérira l&#39;été"
+            },
+            {
+              "front": "They will prefer spring",
+              "back": "ils préféreront le printemps"
+            },
+            {
+              "front": "I will adore autumn",
+              "back": "j&#39;adorerai l&#39;automne"
+            },
+            {
+              "front": "You will hate spring",
+              "back": "tu détesteras le printemps"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will love summer evenings",
+              "back": "j&#39;adorerai les soirées d&#39;été"
+            },
+            {
+              "front": "He will enjoy autumn evenings",
+              "back": "il profitera des soirées d&#39;automne"
+            },
+            {
+              "front": "She will hate winter storms",
+              "back": "elle détestera les tempêtes hivernales"
+            },
+            {
+              "front": "They will appreciate spring blooms",
+              "back": "ils apprécieront les floraisons printanières"
+            },
+            {
+              "front": "We will prefer summer nights",
+              "back": "nous préférerons les nuits d&#39;été"
+            },
+            {
+              "front": "You will admire autumn colors",
+              "back": "vous admirerez les couleurs d&#39;automne"
+            },
+            {
+              "front": "Everyone will love spring flowers",
+              "back": "tout le monde aimera les fleurs du printemps"
+            },
+            {
+              "front": "Nobody will enjoy winter nights",
+              "back": "personne ne profitera des nuits d&#39;hiver"
+            },
+            {
+              "front": "I will cherish autumn memories",
+              "back": "je chérirai les souvenirs d&#39;automne"
+            },
+            {
+              "front": "He will prefer winter weather",
+              "back": "il préférera le temps hivernal"
+            },
+            {
+              "front": "She will adore spring mornings",
+              "back": "elle adorera les matins de printemps"
+            },
+            {
+              "front": "They will hate summer heat",
+              "back": "ils détesteront la chaleur estivale"
+            },
+            {
+              "front": "We will enjoy autumn walks",
+              "back": "nous profiterons des promenades d&#39;automne"
+            },
+            {
+              "front": "You will love spring days",
+              "back": "vous allez adorer les journées de printemps"
+            },
+            {
+              "front": "He will cherish summer nights",
+              "back": "il chérira les nuits d&#39;été"
+            },
+            {
+              "front": "She will prefer autumn leaves",
+              "back": "elle préférera les feuilles d&#39;automne"
+            },
+            {
+              "front": "They will adore winter nights",
+              "back": "ils adoreront les nuits d&#39;hiver"
+            },
+            {
+              "front": "I will admire spring growth",
+              "back": "j&#39;admirerai la croissance printanière"
+            },
+            {
+              "front": "We will hate autumn rains",
+              "back": "nous détesterons les pluies d&#39;automne"
+            },
+            {
+              "front": "You will appreciate winter beauty",
+              "back": "vous apprécierez la beauté hivernale"
+            },
+            {
+              "front": "He will enjoy spring showers",
+              "back": "il profitera des averses de printemps"
+            },
+            {
+              "front": "She will cherish summer vacations",
+              "back": "elle chérira les vacances d&#39;été"
+            },
+            {
+              "front": "They will prefer spring growth",
+              "back": "ils préféreront la croissance printanière"
+            },
+            {
+              "front": "I will adore autumn colors",
+              "back": "j&#39;adorerai les couleurs d&#39;automne"
+            },
+            {
+              "front": "You will hate spring warmth",
+              "back": "tu détesteras la chaleur printanière"
+            },
+            {
+              "front": "Everyone will love winter nights",
+              "back": "tout le monde aimera les nuits d&#39;hiver"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will love summer warm evenings",
+              "back": "j&#39;adorerai les chaudes soirées d&#39;été"
+            },
+            {
+              "front": "He will enjoy autumn colorful leaves",
+              "back": "il appréciera les feuilles colorées de l&#39;automne"
+            },
+            {
+              "front": "She will hate winter cold weather",
+              "back": "elle détestera le froid hivernal"
+            },
+            {
+              "front": "They will appreciate spring blooming colorful flowers",
+              "back": "ils apprécieront les fleurs colorées qui fleurissent au printemps"
+            },
+            {
+              "front": "We will prefer summer sunny bright days",
+              "back": "nous préférerons les journées ensoleillées et lumineuses de l&#39;été"
+            },
+            {
+              "front": "You will admire autumn vibrant colors",
+              "back": "vous admirerez les couleurs vibrantes de l&#39;automne"
+            },
+            {
+              "front": "Everyone will love spring beautiful flowers",
+              "back": "tout le monde aimera les belles fleurs du printemps"
+            },
+            {
+              "front": "Nobody will enjoy winter freezing nights",
+              "back": "personne n&#39;appréciera les nuits glaciales de l&#39;hiver"
+            },
+            {
+              "front": "I will cherish autumn warm memories",
+              "back": "je chérirai les chaleureux souvenirs d&#39;automne"
+            },
+            {
+              "front": "He will prefer winter snowy weather",
+              "back": "il préférera le temps hivernal enneigé"
+            },
+            {
+              "front": "She will adore spring fresh blossoms",
+              "back": "elle adorera les fleurs fraîches du printemps"
+            },
+            {
+              "front": "They will hate summer intense heat",
+              "back": "ils détesteront la chaleur intense de l&#39;été"
+            },
+            {
+              "front": "We will enjoy autumn peaceful walks",
+              "back": "nous profiterons des promenades paisibles de l&#39;automne"
+            },
+            {
+              "front": "You will love spring bright days",
+              "back": "vous adorerez les journées lumineuses du printemps"
+            },
+            {
+              "front": "He will cherish summer fun nights",
+              "back": "il chérira les soirées d&#39;été amusantes"
+            },
+            {
+              "front": "She will prefer autumn colorful leaves",
+              "back": "elle préférera les feuilles colorées d&#39;automne"
+            },
+            {
+              "front": "They will adore winter chilly nights",
+              "back": "ils adoreront les nuits fraîches d&#39;hiver"
+            },
+            {
+              "front": "I will admire spring new growth",
+              "back": "j&#39;admirerai la nouvelle croissance du printemps"
+            },
+            {
+              "front": "We will hate autumn heavy rains",
+              "back": "nous détesterons les fortes pluies d&#39;automne"
+            },
+            {
+              "front": "You will appreciate winter beautiful scenery",
+              "back": "vous apprécierez les beaux paysages hivernaux"
+            },
+            {
+              "front": "He will enjoy spring gentle showers",
+              "back": "il profitera des douces averses printanières"
+            },
+            {
+              "front": "She will cherish summer relaxing vacations",
+              "back": "elle chérira les vacances d&#39;été relaxantes"
+            },
+            {
+              "front": "They will prefer spring vibrant growth",
+              "back": "ils préféreront une croissance printanière dynamique"
+            },
+            {
+              "front": "I will adore autumn golden colors",
+              "back": "j&#39;adorerai les couleurs dorées de l&#39;automne"
+            },
+            {
+              "front": "You will hate spring warm weather",
+              "back": "vous détesterez le temps chaud du printemps"
+            },
+            {
+              "front": "We will love winter peaceful nights",
+              "back": "nous aimerons les nuits paisibles de l&#39;hiver"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

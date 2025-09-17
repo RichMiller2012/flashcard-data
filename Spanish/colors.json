@@ -1,1 +1,1553 @@
-{"language":"Spanish","flashcards":[{"topic":"Colors","cards":[{"tense":"present","wordcount":1,"phrases":[{"front":"Blue","back":"azul"},{"front":"Red","back":"rojo"},{"front":"Green","back":"verde"},{"front":"Yellow","back":"amarillo"},{"front":"Black","back":"negro"},{"front":"White","back":"blanco"},{"front":"Orange","back":"naranja"},{"front":"Purple","back":"púrpura"},{"front":"Pink","back":"rosa"},{"front":"Brown","back":"marrón"}]},{"tense":"present","wordcount":2,"phrases":[{"front":"is Blue","back":"es azul"},{"front":"is Red","back":"es rojo"},{"front":"is Green","back":"es verde"},{"front":"is Yellow","back":"es amarillo"},{"front":"is Black","back":"es negro"},{"front":"is White","back":"es blanco"},{"front":"is Orange","back":"es naranja"},{"front":"is Purple","back":"es morado"},{"front":"is Pink","back":"es rosa"},{"front":"is Brown","back":"es marrón"},{"front":"appears Blue","back":"parece azul"},{"front":"appears Red","back":"aparece rojo"},{"front":"appears Green","back":"aparece verde"},{"front":"appears Yellow","back":"aparece amarillo"},{"front":"appears Black","back":"aparece negro"},{"front":"appears White","back":"parece blanco"},{"front":"appears Orange","back":"parece naranja"},{"front":"appears Purple","back":"parece morado"},{"front":"appears Pink","back":"parece rosa"},{"front":"appears Brown","back":"parece marrón"},{"front":"looks Blue","back":"se ve azul"},{"front":"looks Red","back":"se ve rojo"},{"front":"looks Green","back":"se ve verde"},{"front":"looks Yellow","back":"se ve amarillo"},{"front":"looks Black","back":"se ve negro"},{"front":"looks White","back":"se ve blanco"}]},{"tense":"present","wordcount":3,"phrases":[{"front":"I see red","back":"Veo rojo"},{"front":"They are black","back":"son negros"},{"front":"He is white","back":"él es blanco"},{"front":"Sky is blue","back":"el cielo es azul"},{"front":"Grass is green","back":"la hierba es verde"},{"front":"Sun is yellow","back":"el sol es amarillo"},{"front":"He wears orange","back":"Él viste de naranja"},{"front":"It is purple","back":"es morado"},{"front":"Flower is pink","back":"la flor es rosa"},{"front":"Wood is brown","back":"la madera es marrón"},{"front":"My shirt is red","back":"mi camisa es roja"},{"front":"My car is black","back":"mi coche es negro"},{"front":"Her dress is blue","back":"su vestido es azul"},{"front":"House is white","back":"la casa es blanca"},{"front":"Sky is gray","back":"el cielo está gris"},{"front":"Grass is green","back":"la hierba es verde"},{"front":"Wall is orange","back":"la pared es naranja"},{"front":"Hat is pink","back":"el sombrero es rosa"},{"front":"Paint is purple","back":"la pintura es morada"},{"front":"Table is brown","back":"la mesa es marrón"},{"front":"He likes yellow","back":"A él le gusta el amarillo"},{"front":"Her red shoes","back":"sus zapatos rojos"},{"front":"I paint white","back":"yo pinto de blanco"},{"front":"They wore black","back":"Vestían de negro"},{"front":"Sunflower is yellow","back":"el girasol es amarillo"},{"front":"Apple is red","back":"la manzana es roja"},{"front":"Sea is blue","back":"el mar es azul"},{"front":"her green eyes","back":"sus ojos verdes"},{"front":"My black bag","back":"mi bolso negro"},{"front":"His brown shoes","back":"sus zapatos marrones"},{"front":"Her brown hair","back":"su cabello castaño"},{"front":"Dress is green","back":"el vestido es verde"},{"front":"His orange pants","back":"sus pantalones naranjas"},{"front":"Rose is red","back":"la rosa es roja"},{"front":"Her purple jacket","back":"su chaqueta morada"},{"front":"Lamp is yellow","back":"la lámpara es amarilla"},{"front":"Sky is blue","back":"el cielo es azul"},{"front":"His white shirt","back":"su camisa blanca"},{"front":"Lamp is green","back":"la lámpara es verde"},{"front":"Couch is brown","back":"El sofá es marrón"},{"front":"Ball is orange","back":"la pelota es naranja"},{"front":"My hat is purple","back":"mi sombrero es morado"},{"front":"pink painted walls","back":"paredes pintadas de rosa"},{"front":"Bird is yellow","back":"el pájaro es amarillo"},{"front":"Boat is blue","back":"el barco es azul"},{"front":"Her green shoes","back":"sus zapatos verdes"},{"front":"His blonde hair","back":"su cabello rubio"},{"front":"I paint red","back":"yo pinto de rojo"},{"front":"Table is white","back":"la mesa es blanca"},{"front":"His black coat","back":"su abrigo negro"}]},{"tense":"present","wordcount":4,"phrases":[{"front":"We wear red pants","back":"usamos pantalones rojos"},{"front":"They see grey clouds","back":"ven nubes grises"},{"front":"He uses black tools","back":"Él usa herramientas negras"},{"front":"They paint white walls","back":"pintan paredes blancas"},{"front":"She picks purple flowers","back":"Ella recoge flores moradas"},{"front":"We wear green shirts","back":"usamos camisas verdes"},{"front":"He paints black chairs","back":"él pinta sillas negras"},{"front":"She loves yellow dresses","back":"A ella le encantan los vestidos amarillos"},{"front":"They drive blue cars","back":"conducen coches azules"},{"front":"My shoes are white","back":"mis zapatos son blancos"},{"front":"His hair is brown","back":"su cabello es castaño"},{"front":"The house is white","back":"la casa es blanca"},{"front":"They eat green apples","back":"ellos comen manzanas verdes"},{"front":"Her coat is purple","back":"Su pelaje es morado"},{"front":"I see yellow lights","back":"Veo luces amarillas"},{"front":"We wear black gloves","back":"usamos guantes negros"},{"front":"They plant green trees","back":"plantan árboles verdes"},{"front":"His shirt is blue","back":"su camisa es azul"},{"front":"She likes pink flowers","back":"A ella le gustan las flores rosas"},{"front":"We paint red doors","back":"pintamos puertas rojas"},{"front":"He wears black boots","back":"Él lleva botas negras"},{"front":"Their house is yellow","back":"su casa es amarilla"},{"front":"I have blue jeans","back":"Tengo jeans azules"},{"front":"She picks red berries","back":"Ella recoge bayas rojas"},{"front":"We use white towels","back":"usamos toallas blancas"},{"front":"His pants are green","back":"sus pantalones son verdes"},{"front":"Her dress is yellow","back":"su vestido es amarillo"},{"front":"I wear purple shoes","back":"Yo uso zapatos morados"},{"front":"They collect brown leaves","back":"recogen hojas marrones"},{"front":"We build grey houses","back":"construimos casas grises"},{"front":"His gloves are red","back":"sus guantes son rojos"},{"front":"She likes white roses","back":"A ella le gustan las rosas blancas"},{"front":"He wears purple shirts","back":"Él usa camisas moradas"},{"front":"We pick blue flowers","back":"Recogemos flores azules"},{"front":"Her dress is green","back":"su vestido es verde"},{"front":"I see orange clouds","back":"Veo nubes naranjas"},{"front":"They enjoy green salad","back":"Disfrutan de la ensalada verde"},{"front":"We buy brown shoes","back":"compramos zapatos marrones"},{"front":"He wears grey hats","back":"Él usa sombreros grises"},{"front":"She finds white stones","back":"ella encuentra piedras blancas"},{"front":"Their coats are purple","back":"sus abrigos son morados"},{"front":"I see red berries","back":"Veo bayas rojas"},{"front":"We paint grey fences","back":"pintamos vallas grises"},{"front":"His coat is black","back":"su abrigo es negro"},{"front":"She wears yellow boots","back":"ella lleva botas amarillas"},{"front":"They cook green vegetables","back":"cocinan verduras verdes"}]},{"tense":"present","wordcount":5,"phrases":[{"front":"I love the blue sky","back":"me encanta el cielo azul"},{"front":"He cuts green grass quickly","back":"corta el césped verde rápidamente"},{"front":"They wore black robes inside","back":"Llevaban túnicas negras en el interior"},{"front":"We use white towels here","back":"Aquí usamos toallas blancas"},{"front":"She picks yellow flowers carefully","back":"Ella recoge flores amarillas con cuidado"},{"front":"He wears a red jacket","back":"lleva una chaqueta roja"},{"front":"They eat green apples often","back":"Comen manzanas verdes a menudo"},{"front":"I paint the black door","back":"pinto la puerta negra"},{"front":"We see the purple sky","back":"vemos el cielo morado"},{"front":"Her shoes are bright yellow","back":"sus zapatos son de color amarillo brillante"},{"front":"I like the white dress","back":"me gusta el vestido blanco"},{"front":"They enjoy the orange sunset","back":"disfrutan del atardecer naranja"},{"front":"We built a brown house","back":"construimos una casa marrón"},{"front":"His coat is green today","back":"Su abrigo es verde hoy"},{"front":"She loves the pink roses","back":"A ella le encantan las rosas rosadas"},{"front":"I see the blue ocean","back":"Veo el océano azul"},{"front":"He wears a purple scarf","back":"lleva una bufanda morada"},{"front":"We bought red shoes today","back":"Compramos zapatos rojos hoy"},{"front":"Her dress is yellow and bright","back":"Su vestido es amarillo y brillante."},{"front":"I wear a green hat","back":"Llevo un sombrero verde"},{"front":"They have black leather gloves","back":"Tienen guantes de cuero negro"},{"front":"We paint the white wall","back":"pintamos la pared blanca"},{"front":"He wears a brown coat","back":"lleva un abrigo marrón"},{"front":"My boots are green and new","back":"Mis botas son verdes y nuevas"},{"front":"She bought a purple dress","back":"ella compró un vestido morado"},{"front":"The grass is green today","back":"La hierba está verde hoy"},{"front":"I like my red shoes","back":"me gustan mis zapatos rojos"},{"front":"He wears black shoes daily","back":"Él usa zapatos negros todos los días."},{"front":"They planted green trees outside","back":"Plantaron árboles verdes afuera"},{"front":"We painted the purple wall","back":"pintamos la pared morada"},{"front":"His shirt is yellow today","back":"Su camisa es amarilla hoy"},{"front":"She likes the pink flowers","back":"A ella le gustan las flores rosas"},{"front":"We wear brown shoes here","back":"Aquí usamos zapatos marrones"},{"front":"They made a red cake","back":"Hicieron un pastel rojo"},{"front":"His coat is white today","back":"Su abrigo es blanco hoy"},{"front":"She wore a blue hat","back":"ella llevaba un sombrero azul"},{"front":"We painted the brown table","back":"pintamos la mesa marrón"},{"front":"Her shirt is red now","back":"Su camisa es roja ahora"},{"front":"They bought a green sofa","back":"compraron un sofá verde"},{"front":"I see the purple flowers","back":"Veo las flores moradas"},{"front":"He loves the black sky","back":"Él ama el cielo negro"},{"front":"We enjoy the yellow sun","back":"disfrutamos del sol amarillo"},{"front":"Her dress is black now","back":"Su vestido es negro ahora"},{"front":"They made the green garden","back":"ellos hicieron el jardín verde"},{"front":"My bag is red today","back":"Mi bolso es rojo hoy"},{"front":"We use blue towels here","back":"Aquí usamos toallas azules"},{"front":"He cut the green grass","back":"cortó la hierba verde"},{"front":"She picked yellow flowers today","back":"Ella recogió flores amarillas hoy"}]},{"tense":"present","wordcount":6,"phrases":[{"front":"I love the blue sky today","back":"Me encanta el cielo azul de hoy"},{"front":"He cuts green grass quickly now","back":"Ahora corta el césped verde rápidamente"},{"front":"They wore black robes inside today","back":"Hoy llevaban túnicas negras dentro."},{"front":"We use white towels here daily","back":"Aquí usamos toallas blancas a diario."},{"front":"She picks yellow flowers carefully every day","back":"Ella recoge flores amarillas cuidadosamente todos los días."},{"front":"He wears a red jacket today","back":"Hoy lleva una chaqueta roja"},{"front":"They eat green apples often here","back":"Aquí suelen comer manzanas verdes."},{"front":"I paint the black door bright","back":"Pinto la puerta negra de un color brillante."},{"front":"We see the purple sky clearly","back":"Vemos claramente el cielo morado"},{"front":"Her shoes are bright yellow today","back":"Sus zapatos son de color amarillo brillante hoy"},{"front":"I like the white dress best","back":"Me gusta más el vestido blanco"},{"front":"They enjoy the orange sunset daily","back":"Disfrutan del atardecer naranja diariamente"},{"front":"We built a brown house quickly","back":"Construimos una casa marrón rápidamente."},{"front":"His coat is green and warm","back":"Su pelaje es verde y cálido."},{"front":"She loves the pink roses always","back":"A ella siempre le encantan las rosas rosadas."},{"front":"I see the blue ocean today","back":"Hoy veo el océano azul"},{"front":"He wears a purple scarf often","back":"A menudo usa una bufanda morada."},{"front":"We bought red shoes yesterday afternoon","back":"Compramos zapatos rojos ayer por la tarde"},{"front":"Her dress is yellow and bright","back":"Su vestido es amarillo y brillante."},{"front":"I wear a green hat daily","back":"Uso un sombrero verde todos los días"},{"front":"They have black leather gloves today","back":"Hoy llevan guantes de cuero negro."},{"front":"We paint the white wall bright","back":"Pintamos la pared blanca de forma brillante"},{"front":"He wears a brown coat now","back":"Ahora lleva un abrigo marrón."},{"front":"My boots are green and new","back":"Mis botas son verdes y nuevas"},{"front":"She bought a purple dress today","back":"Ella compró un vestido morado hoy"},{"front":"The grass is green today outside","back":"Hoy el césped está verde afuera."},{"front":"I like my red shoes today","back":"Me gustan mis zapatos rojos hoy"},{"front":"He wears black shoes daily here","back":"Aquí usa zapatos negros todos los días."},{"front":"They planted green trees outside yesterday","back":"Ayer plantaron árboles verdes afuera"},{"front":"We painted the purple wall today","back":"Hoy pintamos la pared morada"},{"front":"His shirt is yellow and bright","back":"Su camisa es amarilla y brillante."},{"front":"She likes the pink flowers here","back":"A ella le gustan las flores rosas de aquí"},{"front":"We wear brown shoes here often","back":"Aquí solemos usar zapatos marrones."},{"front":"They made a red cake yesterday","back":"Ayer hicieron un pastel rojo"},{"front":"His coat is white today outside","back":"Su abrigo está blanco hoy afuera"},{"front":"She wore a blue hat today","back":"Ella llevaba un sombrero azul hoy"},{"front":"We painted the brown table today","back":"Hoy pintamos la mesa marrón."},{"front":"Her shirt is red now today","back":"Su camisa es roja ahora hoy"},{"front":"They bought a green sofa today","back":"Hoy compraron un sofá verde."},{"front":"I see the purple flowers now","back":"Veo las flores moradas ahora"},{"front":"He loves the black sky tonight","back":"Le encanta el cielo negro esta noche."},{"front":"We enjoy the yellow sun daily","back":"Disfrutamos del sol amarillo todos los días."},{"front":"Her dress is black now today","back":"Su vestido es negro ahora hoy"},{"front":"They made the green garden perfect","back":"Hicieron que el jardín verde fuera perfecto"},{"front":"My bag is red today only","back":"Mi bolso es rojo solo hoy"},{"front":"We use blue towels here daily","back":"Aquí usamos toallas azules todos los días."},{"front":"He cut the green grass today","back":"Él cortó el césped verde hoy"},{"front":"She picked yellow flowers today only","back":"Ella recogió sólo flores amarillas hoy"}]},{"tense":"past","wordcount":2,"phrases":[{"front":"was Blue","back":"era azul"},{"front":"was Red","back":"era rojo"},{"front":"was Green","back":"era verde"},{"front":"was Yellow","back":"era amarillo"},{"front":"was Black","back":"era negro"},{"front":"was White","back":"era blanco"},{"front":"was Orange","back":"era naranja"},{"front":"was Purple","back":"era morado"},{"front":"was Pink","back":"era rosa"},{"front":"was Brown","back":"era marrón"},{"front":"appeared Blue","back":"apareció azul"},{"front":"appeared Red","back":"apareció rojo"},{"front":"appeared Green","back":"apareció verde"},{"front":"appeared Yellow","back":"apareció amarillo"},{"front":"appeared Black","back":"apareció negro"},{"front":"appeared White","back":"apareció blanco"},{"front":"appeared Orange","back":"apareció naranja"},{"front":"appeared Purple","back":"apareció morado"},{"front":"appeared Pink","back":"apareció rosa"},{"front":"appeared Brown","back":"apareció marrón"},{"front":"looked Blue","back":"se veía azul"},{"front":"looked Red","back":"se veía rojo"},{"front":"looked Green","back":"parecía verde"},{"front":"looked Yellow","back":"parecía amarillo"},{"front":"looked Black","back":"parecía negro"},{"front":"looked White","back":"parecía blanco"}]},{"tense":"past","wordcount":3,"phrases":[{"front":"was Blue yesterday","back":"Estaba azul ayer"},{"front":"was Red earlier","back":"era rojo antes"},{"front":"was Green before","back":"era verde antes"},{"front":"was Yellow then","back":"era amarillo entonces"},{"front":"was Black yesterday","back":"Ayer estaba negro"},{"front":"was White before","back":"era blanco antes"},{"front":"was Orange recently","back":"era naranja recientemente"},{"front":"was Purple earlier","back":"antes era morado"},{"front":"was Pink yesterday","back":"Ayer estaba rosa"},{"front":"was Brown earlier","back":"era marrón antes"},{"front":"appeared as Blue","back":"apareció como azul"},{"front":"appeared as Red","back":"apareció como rojo"},{"front":"appeared as Green","back":"apareció como verde"},{"front":"appeared as Yellow","back":"apareció como amarillo"},{"front":"appeared as Black","back":"apareció como negro"},{"front":"appeared as White","back":"apareció como blanco"},{"front":"looked like Blue","back":"Parecía azul"},{"front":"looked like Red","back":"Parecía rojo"},{"front":"looked like Green","back":"Parecía verde"},{"front":"looked like Yellow","back":"Parecía amarillo"},{"front":"looked like Black","back":"Parecía negro"},{"front":"looked like White","back":"Parecía blanco"}]},{"tense":"past","wordcount":4,"phrases":[{"front":"The sky was red","back":"el cielo estaba rojo"},{"front":"The sea turned green","back":"el mar se volvió verde"},{"front":"His eyes were blue","back":"sus ojos eran azules"},{"front":"Her flowers were white","back":"sus flores eran blancas"},{"front":"His face turned blue","back":"Su cara se puso azul"},{"front":"The sun was yellow","back":"el sol era amarillo"},{"front":"Her dress was purple","back":"Su vestido era morado"},{"front":"The sky turned grey","back":"el cielo se volvió gris"},{"front":"The grass was green","back":"la hierba era verde"},{"front":"His shirt was red","back":"Su camisa era roja"},{"front":"Her coat was black","back":"Su abrigo era negro"},{"front":"The clouds were white","back":"las nubes eran blancas"},{"front":"His shoes were brown","back":"sus zapatos eran marrones"},{"front":"We wore blue jackets","back":"llevábamos chaquetas azules"},{"front":"The flowers were pink","back":"las flores eran rosas"},{"front":"Their coats were yellow","back":"sus abrigos eran amarillos"},{"front":"Her pants were black","back":"sus pantalones eran negros"},{"front":"The shirt was green","back":"la camisa era verde"},{"front":"His pants were blue","back":"sus pantalones eran azules"},{"front":"She wore red boots","back":"ella llevaba botas rojas"},{"front":"Their hats were orange","back":"sus sombreros eran naranjas"},{"front":"His jacket was brown","back":"Su chaqueta era marrón"},{"front":"My shoes were black","back":"mis zapatos eran negros"},{"front":"The paint was purple","back":"la pintura era morada"},{"front":"Her hair was blonde","back":"su cabello era rubio"},{"front":"We wore black shoes","back":"Llevábamos zapatos negros"},{"front":"His bag was green","back":"Su bolso era verde"},{"front":"The chair was blue","back":"la silla era azul"},{"front":"Her purse was yellow","back":"Su bolso era amarillo"},{"front":"The walls were white","back":"las paredes eran blancas"},{"front":"I saw a red car","back":"Vi un coche rojo"},{"front":"They wore green hats","back":"Llevaban sombreros verdes"},{"front":"Her scarf was orange","back":"Su bufanda era naranja"},{"front":"He wore a purple hat","back":"Llevaba un sombrero morado"},{"front":"The shoes were pink","back":"los zapatos eran rosas"},{"front":"His shirt was white","back":"Su camisa era blanca"},{"front":"She wore green shoes","back":"ella llevaba zapatos verdes"},{"front":"We painted blue doors","back":"pintamos puertas azules"},{"front":"Their jacket was red","back":"Su chaqueta era roja"},{"front":"My coat was brown","back":"mi abrigo era marrón"},{"front":"Her jacket was orange","back":"Su chaqueta era naranja"},{"front":"The field was green","back":"el campo estaba verde"},{"front":"He wore black hats","back":"Llevaba sombreros negros"},{"front":"Her boots were purple","back":"sus botas eran moradas"},{"front":"We wore yellow hats","back":"Llevábamos sombreros amarillos"},{"front":"They painted white houses","back":"pintaron casas blancas"},{"front":"His gloves were grey","back":"sus guantes eran grises"}]},{"tense":"past","wordcount":5,"phrases":[{"front":"I saw the blue sky","back":"vi el cielo azul"},{"front":"He cut green grass quickly","back":"Cortó el césped verde rápidamente"},{"front":"They wore black robes inside","back":"Llevaban túnicas negras en el interior"},{"front":"We used white towels here","back":"Aquí usamos toallas blancas"},{"front":"She picked purple flowers daily","back":"Ella recogía flores moradas todos los días."},{"front":"I wore the red shirt","back":"Yo llevaba la camisa roja"},{"front":"He wore a white hat","back":"Llevaba un sombrero blanco"},{"front":"They painted the orange fence","back":"pintaron la valla naranja"},{"front":"She wore a yellow dress","back":"ella llevaba un vestido amarillo"},{"front":"We saw grey clouds forming","back":"Vimos nubes grises formándose"},{"front":"They wore brown boots yesterday","back":"Llevaban botas marrones ayer"},{"front":"He wore a purple tie","back":"Llevaba una corbata morada"},{"front":"She washed a white dress","back":"ella lavó un vestido blanco"},{"front":"I wore green shoes yesterday","back":"Ayer usé zapatos verdes"},{"front":"They saw the red sunset","back":"vieron el atardecer rojo"},{"front":"He wore black gloves yesterday","back":"Ayer llevaba guantes negros"},{"front":"She wore blue jeans today","back":"Ella llevaba jeans azules hoy"},{"front":"We painted the blue wall","back":"pintamos la pared azul"},{"front":"They wore yellow hats yesterday","back":"Ayer llevaban sombreros amarillos"},{"front":"He wore brown coat yesterday","back":"Llevaba un abrigo marrón ayer"},{"front":"She wore purple scarf today","back":"Ella llevaba una bufanda morada hoy"},{"front":"I wore orange shirt yesterday","back":"Ayer llevaba una camisa naranja"},{"front":"They saw green trees outside","back":"vieron árboles verdes afuera"},{"front":"He wore grey pants yesterday","back":"Ayer llevaba pantalones grises"},{"front":"She wore white boots yesterday","back":"Ella llevaba botas blancas ayer"},{"front":"We wore black shirts yesterday","back":"Ayer llevamos camisas negras"},{"front":"They wore pink dresses today","back":"Llevaban vestidos rosas hoy"},{"front":"He wore black belt yesterday","back":"Ayer llevaba cinturón negro"},{"front":"She wore white hat yesterday","back":"Ella llevaba sombrero blanco ayer"},{"front":"I wore yellow sweater today","back":"Hoy llevé un suéter amarillo."},{"front":"They saw red balloons flying","back":"vieron globos rojos volando"},{"front":"He wore green jacket yesterday","back":"Llevaba chaqueta verde ayer"},{"front":"She wore orange skirt today","back":"Ella llevaba una falda naranja hoy"},{"front":"We wore purple shirts yesterday","back":"Ayer llevamos camisas moradas"},{"front":"They painted blue door yesterday","back":"Ayer pintaron la puerta de azul"},{"front":"He wore grey pants yesterday","back":"Ayer llevaba pantalones grises"},{"front":"She wore yellow boots today","back":"Ella llevaba botas amarillas hoy"},{"front":"I wore black shoes yesterday","back":"Ayer usé zapatos negros"},{"front":"They wore white dresses today","back":"Llevaban vestidos blancos hoy"},{"front":"He wore brown gloves yesterday","back":"Ayer llevaba guantes marrones"},{"front":"She wore pink scarf yesterday","back":"Ella llevaba una bufanda rosa ayer"},{"front":"We wore green jackets yesterday","back":"Ayer llevamos chaquetas verdes"},{"front":"They wore blue hats today","back":"Hoy llevaban sombreros azules"},{"front":"He wore red shirt yesterday","back":"Llevaba camisa roja ayer"},{"front":"She wore white gloves yesterday","back":"Ella llevaba guantes blancos ayer"},{"front":"I wore purple dress yesterday","back":"Ayer llevaba un vestido morado"},{"front":"They wore yellow scarves today","back":"Hoy llevaban bufandas amarillas"},{"front":"He wore black jacket yesterday","back":"Llevaba chaqueta negra ayer"},{"front":"She wore green shoes today","back":"Ella llevaba zapatos verdes hoy"},{"front":"We wore orange shirts yesterday","back":"Ayer usamos camisetas naranjas"},{"front":"They wore grey jackets yesterday","back":"Ayer llevaban chaquetas grises"},{"front":"He wore brown shoes yesterday","back":"Ayer llevaba zapatos marrones"}]},{"tense":"past","wordcount":6,"phrases":[{"front":"I loved the blue sky yesterday","back":"Me encantó el cielo azul de ayer."},{"front":"He cut green grass quickly today","back":"Hoy cortó rápidamente el césped verde."},{"front":"They wore black robes inside yesterday","back":"Ayer llevaban túnicas negras en el interior."},{"front":"We used white towels here yesterday","back":"Ayer usamos toallas blancas aquí"},{"front":"She picked purple flowers yesterday morning","back":"Ella recogió flores moradas ayer por la mañana."},{"front":"I saw the red car yesterday","back":"Ayer vi el coche rojo"},{"front":"He wore a white hat yesterday","back":"Ayer llevaba un sombrero blanco"},{"front":"They painted the orange fence yesterday","back":"Ayer pintaron la valla naranja"},{"front":"She wore a yellow dress yesterday","back":"Ella llevaba un vestido amarillo ayer"},{"front":"We saw grey clouds forming yesterday","back":"Ayer vimos nubes grises formándose"},{"front":"They wore brown boots yesterday afternoon","back":"Llevaban botas marrones ayer por la tarde"},{"front":"He wore a purple tie yesterday","back":"Ayer llevaba una corbata morada"},{"front":"She washed a white dress yesterday","back":"Ella lavó un vestido blanco ayer"},{"front":"I wore green shoes yesterday evening","back":"Ayer por la noche llevaba zapatos verdes."},{"front":"They saw the red sunset yesterday","back":"Ayer vieron el atardecer rojo"},{"front":"He wore black gloves yesterday morning","back":"Llevaba guantes negros ayer por la mañana"},{"front":"She wore blue jeans yesterday evening","back":"Ella llevaba jeans azules ayer por la noche"},{"front":"We painted the blue wall yesterday","back":"Ayer pintamos la pared azul"},{"front":"They wore yellow hats yesterday morning","back":"Llevaban sombreros amarillos ayer por la mañana"},{"front":"He wore brown coat yesterday winter","back":"Llevaba ayer un abrigo marrón de invierno."},{"front":"She wore purple scarf yesterday evening","back":"Ella llevaba una bufanda morada ayer por la noche."},{"front":"I wore orange shirt yesterday evening","back":"Llevé una camisa naranja ayer por la noche."},{"front":"They saw green trees outside yesterday","back":"Ayer vieron árboles verdes afuera."},{"front":"He wore grey pants yesterday morning","back":"Llevaba pantalones grises ayer por la mañana"},{"front":"She wore white boots yesterday evening","back":"Ella llevaba botas blancas ayer por la noche."},{"front":"We wore black shirts yesterday evening","back":"Ayer por la noche llevábamos camisas negras"},{"front":"They wore pink dresses yesterday evening","back":"Llevaban vestidos rosas ayer por la noche"},{"front":"He wore black belt yesterday evening","back":"Llevaba cinturón negro ayer por la noche"},{"front":"She wore white hat yesterday morning","back":"Ella llevaba un sombrero blanco ayer por la mañana."},{"front":"I wore yellow sweater yesterday evening","back":"Ayer por la noche llevaba un suéter amarillo."},{"front":"They saw red balloons yesterday afternoon","back":"Vieron globos rojos ayer por la tarde"},{"front":"He wore green jacket yesterday winter","back":"Llevaba ayer una chaqueta verde de invierno."},{"front":"She wore orange skirt yesterday morning","back":"Ella llevaba una falda naranja ayer por la mañana."},{"front":"We wore purple shirts yesterday evening","back":"Ayer por la noche llevábamos camisas moradas."},{"front":"They painted blue door yesterday evening","back":"Pintaron la puerta de azul ayer por la tarde"},{"front":"He wore grey pants yesterday morning","back":"Llevaba pantalones grises ayer por la mañana"},{"front":"She wore yellow boots yesterday evening","back":"Ella llevaba botas amarillas ayer por la noche"},{"front":"I wore black shoes yesterday evening","back":"Ayer por la noche llevaba zapatos negros."},{"front":"They wore white dresses yesterday evening","back":"Llevaban vestidos blancos ayer por la noche"},{"front":"He wore brown gloves yesterday morning","back":"Llevaba guantes marrones ayer por la mañana"},{"front":"She wore pink scarf yesterday morning","back":"Ella llevaba una bufanda rosa ayer por la mañana."},{"front":"We wore green jackets yesterday morning","back":"Ayer por la mañana llevábamos chaquetas verdes."},{"front":"They wore blue hats yesterday morning","back":"Llevaban sombreros azules ayer por la mañana"},{"front":"He wore red shirt yesterday morning","back":"Llevaba camisa roja ayer por la mañana"},{"front":"She wore white gloves yesterday morning","back":"Llevaba guantes blancos ayer por la mañana"},{"front":"I wore purple dress yesterday evening","back":"Ayer por la noche llevaba un vestido morado."},{"front":"They wore yellow scarves yesterday evening","back":"Llevaban bufandas amarillas ayer por la noche"},{"front":"He wore black jacket yesterday evening","back":"Llevaba una chaqueta negra ayer por la noche"},{"front":"She wore green shoes yesterday evening","back":"Ella llevaba zapatos verdes ayer por la noche."},{"front":"We wore orange shirts yesterday morning","back":"Llevamos camisetas naranjas ayer por la mañana"},{"front":"They wore grey jackets yesterday morning","back":"Llevaban chaquetas grises ayer por la mañana"},{"front":"He wore brown shoes yesterday evening","back":"Llevaba zapatos marrones ayer por la noche"}]},{"tense":"future","wordcount":3,"phrases":[{"front":"will be Blue","back":"será azul"},{"front":"will be Red","back":"será rojo"},{"front":"will be Green","back":"será verde"},{"front":"will be Yellow","back":"será amarillo"},{"front":"will be Black","back":"será negro"},{"front":"will be White","back":"será blanco"},{"front":"will be Orange","back":"será naranja"},{"front":"will be Purple","back":"será morado"},{"front":"will be Pink","back":"será rosa"},{"front":"will be Brown","back":"será marrón"},{"front":"will appear Blue","back":"aparecerá azul"},{"front":"will appear Red","back":"aparecerá rojo"},{"front":"will appear Green","back":"aparecerá verde"},{"front":"will appear Yellow","back":"aparecerá amarillo"},{"front":"will appear Black","back":"aparecerá negro"},{"front":"will appear White","back":"aparecerá blanco"},{"front":"will look Blue","back":"se verá azul"},{"front":"will look Red","back":"se verá rojo"},{"front":"will look Green","back":"se verá verde"},{"front":"will look Yellow","back":"se verá amarillo"},{"front":"will look Black","back":"se verá negro"},{"front":"will look White","back":"se verá blanco"}]},{"tense":"future","wordcount":4,"phrases":[{"front":"will soon be Blue","back":"pronto será azul"},{"front":"will eventually be Red","back":"eventualmente será rojo"},{"front":"will turn Green tomorrow","back":"se volverá verde mañana"},{"front":"will be Yellow soon","back":"pronto será amarillo"},{"front":"will turn Black eventually","back":"se volverá negro eventualmente"},{"front":"will be White later","back":"será blanco más tarde"},{"front":"will soon appear Orange","back":"pronto aparecerá naranja"},{"front":"will eventually look Purple","back":"Con el tiempo se verá morado"},{"front":"will soon turn Pink","back":"pronto se volverá rosa"},{"front":"will change to Brown soon","back":"cambiará a marrón pronto"},{"front":"will soon glow Blue","back":"pronto brillará azul"},{"front":"will gradually become Red","back":"gradualmente se volverá rojo"},{"front":"will shine Green shortly","back":"Brillará verde en breve"},{"front":"will be Yellow tomorrow","back":"será amarillo mañana"},{"front":"will darken to Black soon","back":"se oscurecerá a negro pronto"},{"front":"will brighten to White eventually","back":"Se aclarará a blanco eventualmente"},{"front":"will soon radiate Orange","back":"pronto irradiará naranja"},{"front":"will soon appear Purple","back":"pronto aparecerá morado"},{"front":"will eventually look Pink","back":"Con el tiempo se verá rosa"},{"front":"will change to Brown later","back":"Cambiará a marrón más tarde"}]},{"tense":"future","wordcount":5,"phrases":[{"front":"will be a Blue sky","back":"será un cielo azul"},{"front":"will be a Red apple","back":"será una manzana roja"},{"front":"will be a Green leaf","back":"será una hoja verde"},{"front":"will be a Yellow sun","back":"será un sol amarillo"},{"front":"will be a Black night","back":"será una noche negra"},{"front":"will be a White cloud","back":"será una nube blanca"},{"front":"will be an Orange sunset","back":"será un atardecer naranja"},{"front":"will be a Purple flower","back":"será una flor morada"},{"front":"will be a Pink rose","back":"será una rosa rosa"},{"front":"will be a Brown tree","back":"será un árbol marrón"},{"front":"will appear as Blue water","back":"aparecerá como agua azul"},{"front":"will appear as Red fire","back":"aparecerá como fuego rojo"},{"front":"will appear as Green grass","back":"aparecerá como hierba verde"},{"front":"will appear as Yellow lemon","back":"aparecerá como limón amarillo"},{"front":"will appear as Black coal","back":"aparecerá como carbón negro"},{"front":"will appear as White snow","back":"aparecerá como nieve blanca"},{"front":"will look like Blue ocean","back":"se verá como un océano azul"},{"front":"will look like Red rose","back":"se verá como una rosa roja"},{"front":"will look like Green apple","back":"se verá como una manzana verde"},{"front":"will look like Yellow daffodil","back":"se verá como un narciso amarillo"},{"front":"will look like Black asphalt","back":"se verá como asfalto negro"},{"front":"will look like White cotton","back":"se verá como algodón blanco"}]},{"tense":"future","wordcount":6,"phrases":[{"front":"the sky will soon be Blue","back":"El cielo pronto será azul"},{"front":"the apple will soon turn Red","back":"La manzana pronto se volverá roja"},{"front":"the leaf will turn Green tomorrow","back":"La hoja se volverá verde mañana"},{"front":"the sun will be Yellow soon","back":"El sol pronto será amarillo"},{"front":"the night will turn Black eventually","back":"La noche eventualmente se volverá negra"},{"front":"the snow will be White later","back":"La nieve será blanca más tarde"},{"front":"the sunset will soon appear Orange","back":"El atardecer pronto se verá naranja"},{"front":"the flower will eventually look Purple","back":"La flor eventualmente se verá morada."},{"front":"the rose will soon turn Pink","back":"La rosa pronto se volverá rosa"},{"front":"the tree will change to Brown soon","back":"El árbol cambiará a marrón pronto"},{"front":"the ocean will soon glow Blue","back":"El océano pronto brillará azul"},{"front":"the fire will gradually become Red","back":"El fuego se irá volviendo rojo poco a poco."},{"front":"the grass will shine Green shortly","back":"La hierba brillará verde en breve"},{"front":"the lemon will be Yellow tomorrow","back":"El limón estará amarillo mañana"},{"front":"the coal will darken to Black soon","back":"El carbón se oscurecerá pronto hasta volverse negro."},{"front":"the clouds will brighten to White eventually","back":"Las nubes eventualmente se aclararán y se volverán blancas."},{"front":"the pumpkin will soon radiate Orange","back":"La calabaza pronto irradiará color naranja."},{"front":"the grape will soon appear Purple","back":"La uva pronto se verá morada"},{"front":"the cotton will eventually look Pink","back":"El algodón eventualmente se verá rosado."},{"front":"the wood will change to Brown later","back":"La madera cambiará a marrón más tarde."}]}]}]}
+{
+  "language": "Spanish",
+  "flashcards": [
+    {
+      "topic": "Colors",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Blue", "back": "azul" },
+            { "front": "Red", "back": "rojo" },
+            { "front": "Green", "back": "verde" },
+            { "front": "Yellow", "back": "amarillo" },
+            { "front": "Black", "back": "negro" },
+            { "front": "White", "back": "blanco" },
+            { "front": "Orange", "back": "naranja" },
+            { "front": "Purple", "back": "púrpura" },
+            { "front": "Pink", "back": "rosa" },
+            { "front": "Brown", "back": "marrón" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "is Blue", "back": "es azul" },
+            { "front": "is Red", "back": "es rojo" },
+            { "front": "is Green", "back": "es verde" },
+            { "front": "is Yellow", "back": "es amarillo" },
+            { "front": "is Black", "back": "es negro" },
+            { "front": "is White", "back": "es blanco" },
+            { "front": "is Orange", "back": "es naranja" },
+            { "front": "is Purple", "back": "es morado" },
+            { "front": "is Pink", "back": "es rosa" },
+            { "front": "is Brown", "back": "es marrón" },
+            { "front": "appears Blue", "back": "parece azul" },
+            { "front": "appears Red", "back": "aparece rojo" },
+            { "front": "appears Green", "back": "aparece verde" },
+            { "front": "appears Yellow", "back": "aparece amarillo" },
+            { "front": "appears Black", "back": "aparece negro" },
+            { "front": "appears White", "back": "parece blanco" },
+            { "front": "appears Orange", "back": "parece naranja" },
+            { "front": "appears Purple", "back": "parece morado" },
+            { "front": "appears Pink", "back": "parece rosa" },
+            { "front": "appears Brown", "back": "parece marrón" },
+            { "front": "looks Blue", "back": "se ve azul" },
+            { "front": "looks Red", "back": "se ve rojo" },
+            { "front": "looks Green", "back": "se ve verde" },
+            { "front": "looks Yellow", "back": "se ve amarillo" },
+            { "front": "looks Black", "back": "se ve negro" },
+            { "front": "looks White", "back": "se ve blanco" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I see red", "back": "veo rojo" },
+            { "front": "They are black", "back": "son negros" },
+            { "front": "He is white", "back": "él es blanco" },
+            { "front": "Sky is blue", "back": "el cielo es azul" },
+            { "front": "Grass is green", "back": "la hierba es verde" },
+            { "front": "Sun is yellow", "back": "el sol es amarillo" },
+            { "front": "He wears orange", "back": "él viste de naranja" },
+            { "front": "It is purple", "back": "es morado" },
+            { "front": "Flower is pink", "back": "la flor es rosa" },
+            { "front": "Wood is brown", "back": "la madera es marrón" },
+            { "front": "My shirt is red", "back": "mi camisa es roja" },
+            { "front": "My car is black", "back": "mi coche es negro" },
+            { "front": "Her dress is blue", "back": "su vestido es azul" },
+            { "front": "House is white", "back": "la casa es blanca" },
+            { "front": "Sky is gray", "back": "el cielo está gris" },
+            { "front": "Grass is green", "back": "la hierba es verde" },
+            { "front": "Wall is orange", "back": "la pared es naranja" },
+            { "front": "Hat is pink", "back": "el sombrero es rosa" },
+            { "front": "Paint is purple", "back": "la pintura es morada" },
+            { "front": "Table is brown", "back": "la mesa es marrón" },
+            { "front": "He likes yellow", "back": "a él le gusta el amarillo" },
+            { "front": "Her red shoes", "back": "sus zapatos rojos" },
+            { "front": "I paint white", "back": "yo pinto de blanco" },
+            { "front": "They wore black", "back": "vestían de negro" },
+            {
+              "front": "Sunflower is yellow",
+              "back": "el girasol es amarillo"
+            },
+            { "front": "Apple is red", "back": "la manzana es roja" },
+            { "front": "Sea is blue", "back": "el mar es azul" },
+            { "front": "her green eyes", "back": "sus ojos verdes" },
+            { "front": "My black bag", "back": "mi bolso negro" },
+            { "front": "His brown shoes", "back": "sus zapatos marrones" },
+            { "front": "Her brown hair", "back": "su cabello castaño" },
+            { "front": "Dress is green", "back": "el vestido es verde" },
+            { "front": "His orange pants", "back": "sus pantalones naranjas" },
+            { "front": "Rose is red", "back": "la rosa es roja" },
+            { "front": "Her purple jacket", "back": "su chaqueta morada" },
+            { "front": "Lamp is yellow", "back": "la lámpara es amarilla" },
+            { "front": "Sky is blue", "back": "el cielo es azul" },
+            { "front": "His white shirt", "back": "su camisa blanca" },
+            { "front": "Lamp is green", "back": "la lámpara es verde" },
+            { "front": "Couch is brown", "back": "el sofá es marrón" },
+            { "front": "Ball is orange", "back": "la pelota es naranja" },
+            { "front": "My hat is purple", "back": "mi sombrero es morado" },
+            {
+              "front": "pink painted walls",
+              "back": "paredes pintadas de rosa"
+            },
+            { "front": "Bird is yellow", "back": "el pájaro es amarillo" },
+            { "front": "Boat is blue", "back": "el barco es azul" },
+            { "front": "Her green shoes", "back": "sus zapatos verdes" },
+            { "front": "His blonde hair", "back": "su cabello rubio" },
+            { "front": "I paint red", "back": "yo pinto de rojo" },
+            { "front": "Table is white", "back": "la mesa es blanca" },
+            { "front": "His black coat", "back": "su abrigo negro" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "We wear red pants", "back": "usamos pantalones rojos" },
+            { "front": "They see grey clouds", "back": "ven nubes grises" },
+            {
+              "front": "He uses black tools",
+              "back": "él usa herramientas negras"
+            },
+            {
+              "front": "They paint white walls",
+              "back": "pintan paredes blancas"
+            },
+            {
+              "front": "She picks purple flowers",
+              "back": "ella recoge flores moradas"
+            },
+            {
+              "front": "We wear green shirts",
+              "back": "usamos camisas verdes"
+            },
+            {
+              "front": "He paints black chairs",
+              "back": "él pinta sillas negras"
+            },
+            {
+              "front": "She loves yellow dresses",
+              "back": "a ella le encantan los vestidos amarillos"
+            },
+            {
+              "front": "They drive blue cars",
+              "back": "conducen coches azules"
+            },
+            {
+              "front": "My shoes are white",
+              "back": "mis zapatos son blancos"
+            },
+            { "front": "His hair is brown", "back": "su cabello es castaño" },
+            { "front": "The house is white", "back": "la casa es blanca" },
+            {
+              "front": "They eat green apples",
+              "back": "ellos comen manzanas verdes"
+            },
+            { "front": "Her coat is purple", "back": "su pelaje es morado" },
+            { "front": "I see yellow lights", "back": "veo luces amarillas" },
+            {
+              "front": "We wear black gloves",
+              "back": "usamos guantes negros"
+            },
+            {
+              "front": "They plant green trees",
+              "back": "plantan árboles verdes"
+            },
+            { "front": "His shirt is blue", "back": "su camisa es azul" },
+            {
+              "front": "She likes pink flowers",
+              "back": "a ella le gustan las flores rosas"
+            },
+            { "front": "We paint red doors", "back": "pintamos puertas rojas" },
+            {
+              "front": "He wears black boots",
+              "back": "él lleva botas negras"
+            },
+            { "front": "Their house is yellow", "back": "su casa es amarilla" },
+            { "front": "I have blue jeans", "back": "tengo jeans azules" },
+            {
+              "front": "She picks red berries",
+              "back": "ella recoge bayas rojas"
+            },
+            {
+              "front": "We use white towels",
+              "back": "usamos toallas blancas"
+            },
+            {
+              "front": "His pants are green",
+              "back": "sus pantalones son verdes"
+            },
+            {
+              "front": "Her dress is yellow",
+              "back": "su vestido es amarillo"
+            },
+            {
+              "front": "I wear purple shoes",
+              "back": "yo uso zapatos morados"
+            },
+            {
+              "front": "They collect brown leaves",
+              "back": "recogen hojas marrones"
+            },
+            {
+              "front": "We build grey houses",
+              "back": "construimos casas grises"
+            },
+            { "front": "His gloves are red", "back": "sus guantes son rojos" },
+            {
+              "front": "She likes white roses",
+              "back": "a ella le gustan las rosas blancas"
+            },
+            {
+              "front": "He wears purple shirts",
+              "back": "él usa camisas moradas"
+            },
+            {
+              "front": "We pick blue flowers",
+              "back": "recogemos flores azules"
+            },
+            { "front": "Her dress is green", "back": "su vestido es verde" },
+            { "front": "I see orange clouds", "back": "veo nubes naranjas" },
+            {
+              "front": "They enjoy green salad",
+              "back": "disfrutan de la ensalada verde"
+            },
+            {
+              "front": "We buy brown shoes",
+              "back": "compramos zapatos marrones"
+            },
+            {
+              "front": "He wears grey hats",
+              "back": "él usa sombreros grises"
+            },
+            {
+              "front": "She finds white stones",
+              "back": "ella encuentra piedras blancas"
+            },
+            {
+              "front": "Their coats are purple",
+              "back": "sus abrigos son morados"
+            },
+            { "front": "I see red berries", "back": "veo bayas rojas" },
+            {
+              "front": "We paint grey fences",
+              "back": "pintamos vallas grises"
+            },
+            { "front": "His coat is black", "back": "su abrigo es negro" },
+            {
+              "front": "She wears yellow boots",
+              "back": "ella lleva botas amarillas"
+            },
+            {
+              "front": "They cook green vegetables",
+              "back": "cocinan verduras verdes"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I love the blue sky",
+              "back": "me encanta el cielo azul"
+            },
+            {
+              "front": "He cuts green grass quickly",
+              "back": "corta el césped verde rápidamente"
+            },
+            {
+              "front": "They wore black robes inside",
+              "back": "llevaban túnicas negras en el interior"
+            },
+            {
+              "front": "We use white towels here",
+              "back": "aquí usamos toallas blancas"
+            },
+            {
+              "front": "She picks yellow flowers carefully",
+              "back": "ella recoge flores amarillas con cuidado"
+            },
+            {
+              "front": "He wears a red jacket",
+              "back": "lleva una chaqueta roja"
+            },
+            {
+              "front": "They eat green apples often",
+              "back": "comen manzanas verdes a menudo"
+            },
+            {
+              "front": "I paint the black door",
+              "back": "pinto la puerta negra"
+            },
+            {
+              "front": "We see the purple sky",
+              "back": "vemos el cielo morado"
+            },
+            {
+              "front": "Her shoes are bright yellow",
+              "back": "sus zapatos son de color amarillo brillante"
+            },
+            {
+              "front": "I like the white dress",
+              "back": "me gusta el vestido blanco"
+            },
+            {
+              "front": "They enjoy the orange sunset",
+              "back": "disfrutan del atardecer naranja"
+            },
+            {
+              "front": "We built a brown house",
+              "back": "construimos una casa marrón"
+            },
+            {
+              "front": "His coat is green today",
+              "back": "su abrigo es verde hoy"
+            },
+            {
+              "front": "She loves the pink roses",
+              "back": "a ella le encantan las rosas rosadas"
+            },
+            { "front": "I see the blue ocean", "back": "veo el océano azul" },
+            {
+              "front": "He wears a purple scarf",
+              "back": "lleva una bufanda morada"
+            },
+            {
+              "front": "We bought red shoes today",
+              "back": "compramos zapatos rojos hoy"
+            },
+            {
+              "front": "Her dress is yellow and bright",
+              "back": "su vestido es amarillo y brillante."
+            },
+            {
+              "front": "I wear a green hat",
+              "back": "llevo un sombrero verde"
+            },
+            {
+              "front": "They have black leather gloves",
+              "back": "tienen guantes de cuero negro"
+            },
+            {
+              "front": "We paint the white wall",
+              "back": "pintamos la pared blanca"
+            },
+            {
+              "front": "He wears a brown coat",
+              "back": "lleva un abrigo marrón"
+            },
+            {
+              "front": "My boots are green and new",
+              "back": "mis botas son verdes y nuevas"
+            },
+            {
+              "front": "She bought a purple dress",
+              "back": "ella compró un vestido morado"
+            },
+            {
+              "front": "The grass is green today",
+              "back": "la hierba está verde hoy"
+            },
+            {
+              "front": "I like my red shoes",
+              "back": "me gustan mis zapatos rojos"
+            },
+            {
+              "front": "He wears black shoes daily",
+              "back": "él usa zapatos negros todos los días."
+            },
+            {
+              "front": "They planted green trees outside",
+              "back": "plantaron árboles verdes afuera"
+            },
+            {
+              "front": "We painted the purple wall",
+              "back": "pintamos la pared morada"
+            },
+            {
+              "front": "His shirt is yellow today",
+              "back": "su camisa es amarilla hoy"
+            },
+            {
+              "front": "She likes the pink flowers",
+              "back": "a ella le gustan las flores rosas"
+            },
+            {
+              "front": "We wear brown shoes here",
+              "back": "aquí usamos zapatos marrones"
+            },
+            {
+              "front": "They made a red cake",
+              "back": "hicieron un pastel rojo"
+            },
+            {
+              "front": "His coat is white today",
+              "back": "su abrigo es blanco hoy"
+            },
+            {
+              "front": "She wore a blue hat",
+              "back": "ella llevaba un sombrero azul"
+            },
+            {
+              "front": "We painted the brown table",
+              "back": "pintamos la mesa marrón"
+            },
+            {
+              "front": "Her shirt is red now",
+              "back": "su camisa es roja ahora"
+            },
+            {
+              "front": "They bought a green sofa",
+              "back": "compraron un sofá verde"
+            },
+            {
+              "front": "I see the purple flowers",
+              "back": "veo las flores moradas"
+            },
+            {
+              "front": "He loves the black sky",
+              "back": "él ama el cielo negro"
+            },
+            {
+              "front": "We enjoy the yellow sun",
+              "back": "disfrutamos del sol amarillo"
+            },
+            {
+              "front": "Her dress is black now",
+              "back": "su vestido es negro ahora"
+            },
+            {
+              "front": "They made the green garden",
+              "back": "ellos hicieron el jardín verde"
+            },
+            { "front": "My bag is red today", "back": "mi bolso es rojo hoy" },
+            {
+              "front": "We use blue towels here",
+              "back": "aquí usamos toallas azules"
+            },
+            {
+              "front": "He cut the green grass",
+              "back": "cortó la hierba verde"
+            },
+            {
+              "front": "She picked yellow flowers today",
+              "back": "ella recogió flores amarillas hoy"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I love the blue sky today",
+              "back": "me encanta el cielo azul de hoy"
+            },
+            {
+              "front": "He cuts green grass quickly now",
+              "back": "ahora corta el césped verde rápidamente"
+            },
+            {
+              "front": "They wore black robes inside today",
+              "back": "hoy llevaban túnicas negras dentro."
+            },
+            {
+              "front": "We use white towels here daily",
+              "back": "aquí usamos toallas blancas a diario."
+            },
+            {
+              "front": "She picks yellow flowers carefully every day",
+              "back": "ella recoge flores amarillas cuidadosamente todos los días."
+            },
+            {
+              "front": "He wears a red jacket today",
+              "back": "hoy lleva una chaqueta roja"
+            },
+            {
+              "front": "They eat green apples often here",
+              "back": "aquí suelen comer manzanas verdes."
+            },
+            {
+              "front": "I paint the black door bright",
+              "back": "pinto la puerta negra de un color brillante."
+            },
+            {
+              "front": "We see the purple sky clearly",
+              "back": "vemos claramente el cielo morado"
+            },
+            {
+              "front": "Her shoes are bright yellow today",
+              "back": "sus zapatos son de color amarillo brillante hoy"
+            },
+            {
+              "front": "I like the white dress best",
+              "back": "me gusta más el vestido blanco"
+            },
+            {
+              "front": "They enjoy the orange sunset daily",
+              "back": "disfrutan del atardecer naranja diariamente"
+            },
+            {
+              "front": "We built a brown house quickly",
+              "back": "construimos una casa marrón rápidamente."
+            },
+            {
+              "front": "His coat is green and warm",
+              "back": "su pelaje es verde y cálido."
+            },
+            {
+              "front": "She loves the pink roses always",
+              "back": "a ella siempre le encantan las rosas rosadas."
+            },
+            {
+              "front": "I see the blue ocean today",
+              "back": "hoy veo el océano azul"
+            },
+            {
+              "front": "He wears a purple scarf often",
+              "back": "a menudo usa una bufanda morada."
+            },
+            {
+              "front": "We bought red shoes yesterday afternoon",
+              "back": "compramos zapatos rojos ayer por la tarde"
+            },
+            {
+              "front": "Her dress is yellow and bright",
+              "back": "su vestido es amarillo y brillante."
+            },
+            {
+              "front": "I wear a green hat daily",
+              "back": "uso un sombrero verde todos los días"
+            },
+            {
+              "front": "They have black leather gloves today",
+              "back": "hoy llevan guantes de cuero negro."
+            },
+            {
+              "front": "We paint the white wall bright",
+              "back": "pintamos la pared blanca de forma brillante"
+            },
+            {
+              "front": "He wears a brown coat now",
+              "back": "ahora lleva un abrigo marrón."
+            },
+            {
+              "front": "My boots are green and new",
+              "back": "mis botas son verdes y nuevas"
+            },
+            {
+              "front": "She bought a purple dress today",
+              "back": "ella compró un vestido morado hoy"
+            },
+            {
+              "front": "The grass is green today outside",
+              "back": "hoy el césped está verde afuera."
+            },
+            {
+              "front": "I like my red shoes today",
+              "back": "me gustan mis zapatos rojos hoy"
+            },
+            {
+              "front": "He wears black shoes daily here",
+              "back": "aquí usa zapatos negros todos los días."
+            },
+            {
+              "front": "They planted green trees outside yesterday",
+              "back": "ayer plantaron árboles verdes afuera"
+            },
+            {
+              "front": "We painted the purple wall today",
+              "back": "hoy pintamos la pared morada"
+            },
+            {
+              "front": "His shirt is yellow and bright",
+              "back": "su camisa es amarilla y brillante."
+            },
+            {
+              "front": "She likes the pink flowers here",
+              "back": "a ella le gustan las flores rosas de aquí"
+            },
+            {
+              "front": "We wear brown shoes here often",
+              "back": "aquí solemos usar zapatos marrones."
+            },
+            {
+              "front": "They made a red cake yesterday",
+              "back": "ayer hicieron un pastel rojo"
+            },
+            {
+              "front": "His coat is white today outside",
+              "back": "su abrigo está blanco hoy afuera"
+            },
+            {
+              "front": "She wore a blue hat today",
+              "back": "ella llevaba un sombrero azul hoy"
+            },
+            {
+              "front": "We painted the brown table today",
+              "back": "hoy pintamos la mesa marrón."
+            },
+            {
+              "front": "Her shirt is red now today",
+              "back": "su camisa es roja ahora hoy"
+            },
+            {
+              "front": "They bought a green sofa today",
+              "back": "hoy compraron un sofá verde."
+            },
+            {
+              "front": "I see the purple flowers now",
+              "back": "veo las flores moradas ahora"
+            },
+            {
+              "front": "He loves the black sky tonight",
+              "back": "le encanta el cielo negro esta noche."
+            },
+            {
+              "front": "We enjoy the yellow sun daily",
+              "back": "disfrutamos del sol amarillo todos los días."
+            },
+            {
+              "front": "Her dress is black now today",
+              "back": "su vestido es negro ahora hoy"
+            },
+            {
+              "front": "They made the green garden perfect",
+              "back": "hicieron que el jardín verde fuera perfecto"
+            },
+            {
+              "front": "My bag is red today only",
+              "back": "mi bolso es rojo solo hoy"
+            },
+            {
+              "front": "We use blue towels here daily",
+              "back": "aquí usamos toallas azules todos los días."
+            },
+            {
+              "front": "He cut the green grass today",
+              "back": "él cortó el césped verde hoy"
+            },
+            {
+              "front": "She picked yellow flowers today only",
+              "back": "ella recogió sólo flores amarillas hoy"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "was Blue", "back": "era azul" },
+            { "front": "was Red", "back": "era rojo" },
+            { "front": "was Green", "back": "era verde" },
+            { "front": "was Yellow", "back": "era amarillo" },
+            { "front": "was Black", "back": "era negro" },
+            { "front": "was White", "back": "era blanco" },
+            { "front": "was Orange", "back": "era naranja" },
+            { "front": "was Purple", "back": "era morado" },
+            { "front": "was Pink", "back": "era rosa" },
+            { "front": "was Brown", "back": "era marrón" },
+            { "front": "appeared Blue", "back": "apareció azul" },
+            { "front": "appeared Red", "back": "apareció rojo" },
+            { "front": "appeared Green", "back": "apareció verde" },
+            { "front": "appeared Yellow", "back": "apareció amarillo" },
+            { "front": "appeared Black", "back": "apareció negro" },
+            { "front": "appeared White", "back": "apareció blanco" },
+            { "front": "appeared Orange", "back": "apareció naranja" },
+            { "front": "appeared Purple", "back": "apareció morado" },
+            { "front": "appeared Pink", "back": "apareció rosa" },
+            { "front": "appeared Brown", "back": "apareció marrón" },
+            { "front": "looked Blue", "back": "se veía azul" },
+            { "front": "looked Red", "back": "se veía rojo" },
+            { "front": "looked Green", "back": "parecía verde" },
+            { "front": "looked Yellow", "back": "parecía amarillo" },
+            { "front": "looked Black", "back": "parecía negro" },
+            { "front": "looked White", "back": "parecía blanco" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "was Blue yesterday", "back": "estaba azul ayer" },
+            { "front": "was Red earlier", "back": "era rojo antes" },
+            { "front": "was Green before", "back": "era verde antes" },
+            { "front": "was Yellow then", "back": "era amarillo entonces" },
+            { "front": "was Black yesterday", "back": "ayer estaba negro" },
+            { "front": "was White before", "back": "era blanco antes" },
+            {
+              "front": "was Orange recently",
+              "back": "era naranja recientemente"
+            },
+            { "front": "was Purple earlier", "back": "antes era morado" },
+            { "front": "was Pink yesterday", "back": "ayer estaba rosa" },
+            { "front": "was Brown earlier", "back": "era marrón antes" },
+            { "front": "appeared as Blue", "back": "apareció como azul" },
+            { "front": "appeared as Red", "back": "apareció como rojo" },
+            { "front": "appeared as Green", "back": "apareció como verde" },
+            { "front": "appeared as Yellow", "back": "apareció como amarillo" },
+            { "front": "appeared as Black", "back": "apareció como negro" },
+            { "front": "appeared as White", "back": "apareció como blanco" },
+            { "front": "looked like Blue", "back": "parecía azul" },
+            { "front": "looked like Red", "back": "parecía rojo" },
+            { "front": "looked like Green", "back": "parecía verde" },
+            { "front": "looked like Yellow", "back": "parecía amarillo" },
+            { "front": "looked like Black", "back": "parecía negro" },
+            { "front": "looked like White", "back": "parecía blanco" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "The sky was red", "back": "el cielo estaba rojo" },
+            {
+              "front": "The sea turned green",
+              "back": "el mar se volvió verde"
+            },
+            { "front": "His eyes were blue", "back": "sus ojos eran azules" },
+            {
+              "front": "Her flowers were white",
+              "back": "sus flores eran blancas"
+            },
+            { "front": "His face turned blue", "back": "su cara se puso azul" },
+            { "front": "The sun was yellow", "back": "el sol era amarillo" },
+            {
+              "front": "Her dress was purple",
+              "back": "su vestido era morado"
+            },
+            {
+              "front": "The sky turned grey",
+              "back": "el cielo se volvió gris"
+            },
+            { "front": "The grass was green", "back": "la hierba era verde" },
+            { "front": "His shirt was red", "back": "su camisa era roja" },
+            { "front": "Her coat was black", "back": "su abrigo era negro" },
+            {
+              "front": "The clouds were white",
+              "back": "las nubes eran blancas"
+            },
+            {
+              "front": "His shoes were brown",
+              "back": "sus zapatos eran marrones"
+            },
+            {
+              "front": "We wore blue jackets",
+              "back": "llevábamos chaquetas azules"
+            },
+            {
+              "front": "The flowers were pink",
+              "back": "las flores eran rosas"
+            },
+            {
+              "front": "Their coats were yellow",
+              "back": "sus abrigos eran amarillos"
+            },
+            {
+              "front": "Her pants were black",
+              "back": "sus pantalones eran negros"
+            },
+            { "front": "The shirt was green", "back": "la camisa era verde" },
+            {
+              "front": "His pants were blue",
+              "back": "sus pantalones eran azules"
+            },
+            {
+              "front": "She wore red boots",
+              "back": "ella llevaba botas rojas"
+            },
+            {
+              "front": "Their hats were orange",
+              "back": "sus sombreros eran naranjas"
+            },
+            {
+              "front": "His jacket was brown",
+              "back": "su chaqueta era marrón"
+            },
+            {
+              "front": "My shoes were black",
+              "back": "mis zapatos eran negros"
+            },
+            {
+              "front": "The paint was purple",
+              "back": "la pintura era morada"
+            },
+            { "front": "Her hair was blonde", "back": "su cabello era rubio" },
+            {
+              "front": "We wore black shoes",
+              "back": "llevábamos zapatos negros"
+            },
+            { "front": "His bag was green", "back": "su bolso era verde" },
+            { "front": "The chair was blue", "back": "la silla era azul" },
+            {
+              "front": "Her purse was yellow",
+              "back": "su bolso era amarillo"
+            },
+            {
+              "front": "The walls were white",
+              "back": "las paredes eran blancas"
+            },
+            { "front": "I saw a red car", "back": "vi un coche rojo" },
+            {
+              "front": "They wore green hats",
+              "back": "llevaban sombreros verdes"
+            },
+            {
+              "front": "Her scarf was orange",
+              "back": "su bufanda era naranja"
+            },
+            {
+              "front": "He wore a purple hat",
+              "back": "llevaba un sombrero morado"
+            },
+            {
+              "front": "The shoes were pink",
+              "back": "los zapatos eran rosas"
+            },
+            { "front": "His shirt was white", "back": "su camisa era blanca" },
+            {
+              "front": "She wore green shoes",
+              "back": "ella llevaba zapatos verdes"
+            },
+            {
+              "front": "We painted blue doors",
+              "back": "pintamos puertas azules"
+            },
+            { "front": "Their jacket was red", "back": "su chaqueta era roja" },
+            { "front": "My coat was brown", "back": "mi abrigo era marrón" },
+            {
+              "front": "Her jacket was orange",
+              "back": "su chaqueta era naranja"
+            },
+            { "front": "The field was green", "back": "el campo estaba verde" },
+            {
+              "front": "He wore black hats",
+              "back": "llevaba sombreros negros"
+            },
+            {
+              "front": "Her boots were purple",
+              "back": "sus botas eran moradas"
+            },
+            {
+              "front": "We wore yellow hats",
+              "back": "llevábamos sombreros amarillos"
+            },
+            {
+              "front": "They painted white houses",
+              "back": "pintaron casas blancas"
+            },
+            {
+              "front": "His gloves were grey",
+              "back": "sus guantes eran grises"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I saw the blue sky", "back": "vi el cielo azul" },
+            {
+              "front": "He cut green grass quickly",
+              "back": "cortó el césped verde rápidamente"
+            },
+            {
+              "front": "They wore black robes inside",
+              "back": "llevaban túnicas negras en el interior"
+            },
+            {
+              "front": "We used white towels here",
+              "back": "aquí usamos toallas blancas"
+            },
+            {
+              "front": "She picked purple flowers daily",
+              "back": "ella recogía flores moradas todos los días."
+            },
+            {
+              "front": "I wore the red shirt",
+              "back": "yo llevaba la camisa roja"
+            },
+            {
+              "front": "He wore a white hat",
+              "back": "llevaba un sombrero blanco"
+            },
+            {
+              "front": "They painted the orange fence",
+              "back": "pintaron la valla naranja"
+            },
+            {
+              "front": "She wore a yellow dress",
+              "back": "ella llevaba un vestido amarillo"
+            },
+            {
+              "front": "We saw grey clouds forming",
+              "back": "vimos nubes grises formándose"
+            },
+            {
+              "front": "They wore brown boots yesterday",
+              "back": "llevaban botas marrones ayer"
+            },
+            {
+              "front": "He wore a purple tie",
+              "back": "llevaba una corbata morada"
+            },
+            {
+              "front": "She washed a white dress",
+              "back": "ella lavó un vestido blanco"
+            },
+            {
+              "front": "I wore green shoes yesterday",
+              "back": "ayer usé zapatos verdes"
+            },
+            {
+              "front": "They saw the red sunset",
+              "back": "vieron el atardecer rojo"
+            },
+            {
+              "front": "He wore black gloves yesterday",
+              "back": "ayer llevaba guantes negros"
+            },
+            {
+              "front": "She wore blue jeans today",
+              "back": "ella llevaba jeans azules hoy"
+            },
+            {
+              "front": "We painted the blue wall",
+              "back": "pintamos la pared azul"
+            },
+            {
+              "front": "They wore yellow hats yesterday",
+              "back": "ayer llevaban sombreros amarillos"
+            },
+            {
+              "front": "He wore brown coat yesterday",
+              "back": "llevaba un abrigo marrón ayer"
+            },
+            {
+              "front": "She wore purple scarf today",
+              "back": "ella llevaba una bufanda morada hoy"
+            },
+            {
+              "front": "I wore orange shirt yesterday",
+              "back": "ayer llevaba una camisa naranja"
+            },
+            {
+              "front": "They saw green trees outside",
+              "back": "vieron árboles verdes afuera"
+            },
+            {
+              "front": "He wore grey pants yesterday",
+              "back": "ayer llevaba pantalones grises"
+            },
+            {
+              "front": "She wore white boots yesterday",
+              "back": "ella llevaba botas blancas ayer"
+            },
+            {
+              "front": "We wore black shirts yesterday",
+              "back": "ayer llevamos camisas negras"
+            },
+            {
+              "front": "They wore pink dresses today",
+              "back": "llevaban vestidos rosas hoy"
+            },
+            {
+              "front": "He wore black belt yesterday",
+              "back": "ayer llevaba cinturón negro"
+            },
+            {
+              "front": "She wore white hat yesterday",
+              "back": "ella llevaba sombrero blanco ayer"
+            },
+            {
+              "front": "I wore yellow sweater today",
+              "back": "hoy llevé un suéter amarillo."
+            },
+            {
+              "front": "They saw red balloons flying",
+              "back": "vieron globos rojos volando"
+            },
+            {
+              "front": "He wore green jacket yesterday",
+              "back": "llevaba chaqueta verde ayer"
+            },
+            {
+              "front": "She wore orange skirt today",
+              "back": "ella llevaba una falda naranja hoy"
+            },
+            {
+              "front": "We wore purple shirts yesterday",
+              "back": "ayer llevamos camisas moradas"
+            },
+            {
+              "front": "They painted blue door yesterday",
+              "back": "ayer pintaron la puerta de azul"
+            },
+            {
+              "front": "He wore grey pants yesterday",
+              "back": "ayer llevaba pantalones grises"
+            },
+            {
+              "front": "She wore yellow boots today",
+              "back": "ella llevaba botas amarillas hoy"
+            },
+            {
+              "front": "I wore black shoes yesterday",
+              "back": "ayer usé zapatos negros"
+            },
+            {
+              "front": "They wore white dresses today",
+              "back": "llevaban vestidos blancos hoy"
+            },
+            {
+              "front": "He wore brown gloves yesterday",
+              "back": "ayer llevaba guantes marrones"
+            },
+            {
+              "front": "She wore pink scarf yesterday",
+              "back": "ella llevaba una bufanda rosa ayer"
+            },
+            {
+              "front": "We wore green jackets yesterday",
+              "back": "ayer llevamos chaquetas verdes"
+            },
+            {
+              "front": "They wore blue hats today",
+              "back": "hoy llevaban sombreros azules"
+            },
+            {
+              "front": "He wore red shirt yesterday",
+              "back": "llevaba camisa roja ayer"
+            },
+            {
+              "front": "She wore white gloves yesterday",
+              "back": "ella llevaba guantes blancos ayer"
+            },
+            {
+              "front": "I wore purple dress yesterday",
+              "back": "ayer llevaba un vestido morado"
+            },
+            {
+              "front": "They wore yellow scarves today",
+              "back": "hoy llevaban bufandas amarillas"
+            },
+            {
+              "front": "He wore black jacket yesterday",
+              "back": "llevaba chaqueta negra ayer"
+            },
+            {
+              "front": "She wore green shoes today",
+              "back": "ella llevaba zapatos verdes hoy"
+            },
+            {
+              "front": "We wore orange shirts yesterday",
+              "back": "ayer usamos camisetas naranjas"
+            },
+            {
+              "front": "They wore grey jackets yesterday",
+              "back": "ayer llevaban chaquetas grises"
+            },
+            {
+              "front": "He wore brown shoes yesterday",
+              "back": "ayer llevaba zapatos marrones"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I loved the blue sky yesterday",
+              "back": "me encantó el cielo azul de ayer."
+            },
+            {
+              "front": "He cut green grass quickly today",
+              "back": "hoy cortó rápidamente el césped verde."
+            },
+            {
+              "front": "They wore black robes inside yesterday",
+              "back": "ayer llevaban túnicas negras en el interior."
+            },
+            {
+              "front": "We used white towels here yesterday",
+              "back": "ayer usamos toallas blancas aquí"
+            },
+            {
+              "front": "She picked purple flowers yesterday morning",
+              "back": "ella recogió flores moradas ayer por la mañana."
+            },
+            {
+              "front": "I saw the red car yesterday",
+              "back": "ayer vi el coche rojo"
+            },
+            {
+              "front": "He wore a white hat yesterday",
+              "back": "ayer llevaba un sombrero blanco"
+            },
+            {
+              "front": "They painted the orange fence yesterday",
+              "back": "ayer pintaron la valla naranja"
+            },
+            {
+              "front": "She wore a yellow dress yesterday",
+              "back": "ella llevaba un vestido amarillo ayer"
+            },
+            {
+              "front": "We saw grey clouds forming yesterday",
+              "back": "ayer vimos nubes grises formándose"
+            },
+            {
+              "front": "They wore brown boots yesterday afternoon",
+              "back": "llevaban botas marrones ayer por la tarde"
+            },
+            {
+              "front": "He wore a purple tie yesterday",
+              "back": "ayer llevaba una corbata morada"
+            },
+            {
+              "front": "She washed a white dress yesterday",
+              "back": "ella lavó un vestido blanco ayer"
+            },
+            {
+              "front": "I wore green shoes yesterday evening",
+              "back": "ayer por la noche llevaba zapatos verdes."
+            },
+            {
+              "front": "They saw the red sunset yesterday",
+              "back": "ayer vieron el atardecer rojo"
+            },
+            {
+              "front": "He wore black gloves yesterday morning",
+              "back": "llevaba guantes negros ayer por la mañana"
+            },
+            {
+              "front": "She wore blue jeans yesterday evening",
+              "back": "ella llevaba jeans azules ayer por la noche"
+            },
+            {
+              "front": "We painted the blue wall yesterday",
+              "back": "ayer pintamos la pared azul"
+            },
+            {
+              "front": "They wore yellow hats yesterday morning",
+              "back": "llevaban sombreros amarillos ayer por la mañana"
+            },
+            {
+              "front": "He wore brown coat yesterday winter",
+              "back": "llevaba ayer un abrigo marrón de invierno."
+            },
+            {
+              "front": "She wore purple scarf yesterday evening",
+              "back": "ella llevaba una bufanda morada ayer por la noche."
+            },
+            {
+              "front": "I wore orange shirt yesterday evening",
+              "back": "llevé una camisa naranja ayer por la noche."
+            },
+            {
+              "front": "They saw green trees outside yesterday",
+              "back": "ayer vieron árboles verdes afuera."
+            },
+            {
+              "front": "He wore grey pants yesterday morning",
+              "back": "llevaba pantalones grises ayer por la mañana"
+            },
+            {
+              "front": "She wore white boots yesterday evening",
+              "back": "ella llevaba botas blancas ayer por la noche."
+            },
+            {
+              "front": "We wore black shirts yesterday evening",
+              "back": "ayer por la noche llevábamos camisas negras"
+            },
+            {
+              "front": "They wore pink dresses yesterday evening",
+              "back": "llevaban vestidos rosas ayer por la noche"
+            },
+            {
+              "front": "He wore black belt yesterday evening",
+              "back": "llevaba cinturón negro ayer por la noche"
+            },
+            {
+              "front": "She wore white hat yesterday morning",
+              "back": "ella llevaba un sombrero blanco ayer por la mañana."
+            },
+            {
+              "front": "I wore yellow sweater yesterday evening",
+              "back": "ayer por la noche llevaba un suéter amarillo."
+            },
+            {
+              "front": "They saw red balloons yesterday afternoon",
+              "back": "vieron globos rojos ayer por la tarde"
+            },
+            {
+              "front": "He wore green jacket yesterday winter",
+              "back": "llevaba ayer una chaqueta verde de invierno."
+            },
+            {
+              "front": "She wore orange skirt yesterday morning",
+              "back": "ella llevaba una falda naranja ayer por la mañana."
+            },
+            {
+              "front": "We wore purple shirts yesterday evening",
+              "back": "ayer por la noche llevábamos camisas moradas."
+            },
+            {
+              "front": "They painted blue door yesterday evening",
+              "back": "pintaron la puerta de azul ayer por la tarde"
+            },
+            {
+              "front": "He wore grey pants yesterday morning",
+              "back": "llevaba pantalones grises ayer por la mañana"
+            },
+            {
+              "front": "She wore yellow boots yesterday evening",
+              "back": "ella llevaba botas amarillas ayer por la noche"
+            },
+            {
+              "front": "I wore black shoes yesterday evening",
+              "back": "ayer por la noche llevaba zapatos negros."
+            },
+            {
+              "front": "They wore white dresses yesterday evening",
+              "back": "llevaban vestidos blancos ayer por la noche"
+            },
+            {
+              "front": "He wore brown gloves yesterday morning",
+              "back": "llevaba guantes marrones ayer por la mañana"
+            },
+            {
+              "front": "She wore pink scarf yesterday morning",
+              "back": "ella llevaba una bufanda rosa ayer por la mañana."
+            },
+            {
+              "front": "We wore green jackets yesterday morning",
+              "back": "ayer por la mañana llevábamos chaquetas verdes."
+            },
+            {
+              "front": "They wore blue hats yesterday morning",
+              "back": "llevaban sombreros azules ayer por la mañana"
+            },
+            {
+              "front": "He wore red shirt yesterday morning",
+              "back": "llevaba camisa roja ayer por la mañana"
+            },
+            {
+              "front": "She wore white gloves yesterday morning",
+              "back": "llevaba guantes blancos ayer por la mañana"
+            },
+            {
+              "front": "I wore purple dress yesterday evening",
+              "back": "ayer por la noche llevaba un vestido morado."
+            },
+            {
+              "front": "They wore yellow scarves yesterday evening",
+              "back": "llevaban bufandas amarillas ayer por la noche"
+            },
+            {
+              "front": "He wore black jacket yesterday evening",
+              "back": "llevaba una chaqueta negra ayer por la noche"
+            },
+            {
+              "front": "She wore green shoes yesterday evening",
+              "back": "ella llevaba zapatos verdes ayer por la noche."
+            },
+            {
+              "front": "We wore orange shirts yesterday morning",
+              "back": "llevamos camisetas naranjas ayer por la mañana"
+            },
+            {
+              "front": "They wore grey jackets yesterday morning",
+              "back": "llevaban chaquetas grises ayer por la mañana"
+            },
+            {
+              "front": "He wore brown shoes yesterday evening",
+              "back": "llevaba zapatos marrones ayer por la noche"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "will be Blue", "back": "será azul" },
+            { "front": "will be Red", "back": "será rojo" },
+            { "front": "will be Green", "back": "será verde" },
+            { "front": "will be Yellow", "back": "será amarillo" },
+            { "front": "will be Black", "back": "será negro" },
+            { "front": "will be White", "back": "será blanco" },
+            { "front": "will be Orange", "back": "será naranja" },
+            { "front": "will be Purple", "back": "será morado" },
+            { "front": "will be Pink", "back": "será rosa" },
+            { "front": "will be Brown", "back": "será marrón" },
+            { "front": "will appear Blue", "back": "aparecerá azul" },
+            { "front": "will appear Red", "back": "aparecerá rojo" },
+            { "front": "will appear Green", "back": "aparecerá verde" },
+            { "front": "will appear Yellow", "back": "aparecerá amarillo" },
+            { "front": "will appear Black", "back": "aparecerá negro" },
+            { "front": "will appear White", "back": "aparecerá blanco" },
+            { "front": "will look Blue", "back": "se verá azul" },
+            { "front": "will look Red", "back": "se verá rojo" },
+            { "front": "will look Green", "back": "se verá verde" },
+            { "front": "will look Yellow", "back": "se verá amarillo" },
+            { "front": "will look Black", "back": "se verá negro" },
+            { "front": "will look White", "back": "se verá blanco" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "will soon be Blue", "back": "pronto será azul" },
+            {
+              "front": "will eventually be Red",
+              "back": "eventualmente será rojo"
+            },
+            {
+              "front": "will turn Green tomorrow",
+              "back": "se volverá verde mañana"
+            },
+            { "front": "will be Yellow soon", "back": "pronto será amarillo" },
+            {
+              "front": "will turn Black eventually",
+              "back": "se volverá negro eventualmente"
+            },
+            { "front": "will be White later", "back": "será blanco más tarde" },
+            {
+              "front": "will soon appear Orange",
+              "back": "pronto aparecerá naranja"
+            },
+            {
+              "front": "will eventually look Purple",
+              "back": "con el tiempo se verá morado"
+            },
+            {
+              "front": "will soon turn Pink",
+              "back": "pronto se volverá rosa"
+            },
+            {
+              "front": "will change to Brown soon",
+              "back": "cambiará a marrón pronto"
+            },
+            { "front": "will soon glow Blue", "back": "pronto brillará azul" },
+            {
+              "front": "will gradually become Red",
+              "back": "gradualmente se volverá rojo"
+            },
+            {
+              "front": "will shine Green shortly",
+              "back": "brillará verde en breve"
+            },
+            {
+              "front": "will be Yellow tomorrow",
+              "back": "será amarillo mañana"
+            },
+            {
+              "front": "will darken to Black soon",
+              "back": "se oscurecerá a negro pronto"
+            },
+            {
+              "front": "will brighten to White eventually",
+              "back": "se aclarará a blanco eventualmente"
+            },
+            {
+              "front": "will soon radiate Orange",
+              "back": "pronto irradiará naranja"
+            },
+            {
+              "front": "will soon appear Purple",
+              "back": "pronto aparecerá morado"
+            },
+            {
+              "front": "will eventually look Pink",
+              "back": "con el tiempo se verá rosa"
+            },
+            {
+              "front": "will change to Brown later",
+              "back": "cambiará a marrón más tarde"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "will be a Blue sky", "back": "será un cielo azul" },
+            { "front": "will be a Red apple", "back": "será una manzana roja" },
+            { "front": "will be a Green leaf", "back": "será una hoja verde" },
+            { "front": "will be a Yellow sun", "back": "será un sol amarillo" },
+            {
+              "front": "will be a Black night",
+              "back": "será una noche negra"
+            },
+            {
+              "front": "will be a White cloud",
+              "back": "será una nube blanca"
+            },
+            {
+              "front": "will be an Orange sunset",
+              "back": "será un atardecer naranja"
+            },
+            {
+              "front": "will be a Purple flower",
+              "back": "será una flor morada"
+            },
+            { "front": "will be a Pink rose", "back": "será una rosa rosa" },
+            { "front": "will be a Brown tree", "back": "será un árbol marrón" },
+            {
+              "front": "will appear as Blue water",
+              "back": "aparecerá como agua azul"
+            },
+            {
+              "front": "will appear as Red fire",
+              "back": "aparecerá como fuego rojo"
+            },
+            {
+              "front": "will appear as Green grass",
+              "back": "aparecerá como hierba verde"
+            },
+            {
+              "front": "will appear as Yellow lemon",
+              "back": "aparecerá como limón amarillo"
+            },
+            {
+              "front": "will appear as Black coal",
+              "back": "aparecerá como carbón negro"
+            },
+            {
+              "front": "will appear as White snow",
+              "back": "aparecerá como nieve blanca"
+            },
+            {
+              "front": "will look like Blue ocean",
+              "back": "se verá como un océano azul"
+            },
+            {
+              "front": "will look like Red rose",
+              "back": "se verá como una rosa roja"
+            },
+            {
+              "front": "will look like Green apple",
+              "back": "se verá como una manzana verde"
+            },
+            {
+              "front": "will look like Yellow daffodil",
+              "back": "se verá como un narciso amarillo"
+            },
+            {
+              "front": "will look like Black asphalt",
+              "back": "se verá como asfalto negro"
+            },
+            {
+              "front": "will look like White cotton",
+              "back": "se verá como algodón blanco"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "the sky will soon be Blue",
+              "back": "el cielo pronto será azul"
+            },
+            {
+              "front": "the apple will soon turn Red",
+              "back": "la manzana pronto se volverá roja"
+            },
+            {
+              "front": "the leaf will turn Green tomorrow",
+              "back": "la hoja se volverá verde mañana"
+            },
+            {
+              "front": "the sun will be Yellow soon",
+              "back": "el sol pronto será amarillo"
+            },
+            {
+              "front": "the night will turn Black eventually",
+              "back": "la noche eventualmente se volverá negra"
+            },
+            {
+              "front": "the snow will be White later",
+              "back": "la nieve será blanca más tarde"
+            },
+            {
+              "front": "the sunset will soon appear Orange",
+              "back": "el atardecer pronto se verá naranja"
+            },
+            {
+              "front": "the flower will eventually look Purple",
+              "back": "la flor eventualmente se verá morada."
+            },
+            {
+              "front": "the rose will soon turn Pink",
+              "back": "la rosa pronto se volverá rosa"
+            },
+            {
+              "front": "the tree will change to Brown soon",
+              "back": "el árbol cambiará a marrón pronto"
+            },
+            {
+              "front": "the ocean will soon glow Blue",
+              "back": "el océano pronto brillará azul"
+            },
+            {
+              "front": "the fire will gradually become Red",
+              "back": "el fuego se irá volviendo rojo poco a poco."
+            },
+            {
+              "front": "the grass will shine Green shortly",
+              "back": "la hierba brillará verde en breve"
+            },
+            {
+              "front": "the lemon will be Yellow tomorrow",
+              "back": "el limón estará amarillo mañana"
+            },
+            {
+              "front": "the coal will darken to Black soon",
+              "back": "el carbón se oscurecerá pronto hasta volverse negro."
+            },
+            {
+              "front": "the clouds will brighten to White eventually",
+              "back": "las nubes eventualmente se aclararán y se volverán blancas."
+            },
+            {
+              "front": "the pumpkin will soon radiate Orange",
+              "back": "la calabaza pronto irradiará color naranja."
+            },
+            {
+              "front": "the grape will soon appear Purple",
+              "back": "la uva pronto se verá morada"
+            },
+            {
+              "front": "the cotton will eventually look Pink",
+              "back": "el algodón eventualmente se verá rosado."
+            },
+            {
+              "front": "the wood will change to Brown later",
+              "back": "la madera cambiará a marrón más tarde."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

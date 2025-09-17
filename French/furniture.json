@@ -1,0 +1,1294 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Furniture",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Chair", "back": "chaise" },
+            { "front": "Table", "back": "tableau" },
+            { "front": "Sofa", "back": "canapé" },
+            { "front": "Desk", "back": "bureau" },
+            { "front": "Bed", "back": "lit" },
+            { "front": "Couch", "back": "canapé" },
+            { "front": "Wardrobe", "back": "garde-robe" },
+            { "front": "Bookshelf", "back": "étagère" },
+            { "front": "Dresser", "back": "buffet" },
+            { "front": "Nightstand", "back": "table de chevet" },
+            { "front": "Coffee table", "back": "table basse" },
+            { "front": "Dining table", "back": "table à manger" },
+            { "front": "Armchair", "back": "fauteuil" },
+            { "front": "Ottoman", "back": "ottoman" },
+            { "front": "TV stand", "back": "meuble TV" },
+            { "front": "Stool", "back": "tabouret" },
+            { "front": "Cabinet", "back": "armoire" },
+            { "front": "Recliner", "back": "fauteuil inclinable" },
+            { "front": "Side table", "back": "table d&#39;appoint" },
+            { "front": "Barstool", "back": "tabouret de bar" },
+            { "front": "Vanity", "back": "vanité" },
+            { "front": "Chaise lounge", "back": "chaise longue" },
+            { "front": "Sectional sofa", "back": "canapé sectionnel" },
+            { "front": "Love seat", "back": "causeuse" },
+            { "front": "Futon", "back": "futon" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "My chair", "back": "ma chaise" },
+            { "front": "His table", "back": "sa table" },
+            { "front": "Her sofa", "back": "son canapé" },
+            { "front": "My desk", "back": "mon bureau" },
+            { "front": "Big bed", "back": "grand lit" },
+            { "front": "Our couch", "back": "notre canapé" },
+            { "front": "Their wardrobe", "back": "leur garde-robe" },
+            { "front": "Heavy bookshelf", "back": "bibliothèque lourde" },
+            { "front": "His dresser", "back": "sa commode" },
+            { "front": "My nightstand", "back": "ma table de chevet" },
+            { "front": "Her coffee table", "back": "sa table basse" },
+            { "front": "Their dining table", "back": "leur table à manger" },
+            { "front": "My armchair", "back": "mon fauteuil" },
+            { "front": "His ottoman", "back": "son ottoman" },
+            { "front": "Low TV stand", "back": "meuble TV bas" },
+            { "front": "My wooden stool", "back": "mon tabouret en bois" },
+            { "front": "Tall cabinet", "back": "armoire haute" },
+            { "front": "His recliner", "back": "son fauteuil inclinable" },
+            {
+              "front": "Simple side table",
+              "back": "table d&#39;appoint simple"
+            },
+            { "front": "Her barstool", "back": "son tabouret de bar" },
+            { "front": "My vanity", "back": "ma vanité" },
+            { "front": "Our chaise lounge", "back": "notre chaise longue" },
+            {
+              "front": "Their sectional sofa",
+              "back": "leur canapé sectionnel"
+            },
+            { "front": "His seat", "back": "son siège" },
+            { "front": "My futon", "back": "mon futon" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "My chair creaks", "back": "ma chaise grince" },
+            { "front": "His table wobbles", "back": "sa table vacille" },
+            { "front": "Her sofa cushions", "back": "ses coussins de canapé" },
+            { "front": "My wooden desk", "back": "mon bureau en bois" },
+            { "front": "The big bed", "back": "le grand lit" },
+            { "front": "Our couch squeaks", "back": "notre canapé grince" },
+            {
+              "front": "Their wardrobe stands",
+              "back": "leurs supports de garde-robe"
+            },
+            {
+              "front": "Heavy bookshelf tips",
+              "back": "conseils pour les étagères lourdes"
+            },
+            { "front": "His dresser drawer", "back": "son tiroir de commode" },
+            {
+              "front": "My nightstand holds",
+              "back": "ma table de nuit contient"
+            },
+            { "front": "Her coffee table", "back": "sa table basse" },
+            { "front": "Their dining table", "back": "leur table à manger" },
+            { "front": "My armchair rocks", "back": "mon fauteuil est génial" },
+            { "front": "His ottoman folds", "back": "son ottoman se plie" },
+            { "front": "Low TV stand", "back": "meuble TV bas" },
+            { "front": "My wooden stool", "back": "mon tabouret en bois" },
+            { "front": "The tall cabinet", "back": "le grand meuble" },
+            {
+              "front": "His recliner moves",
+              "back": "son fauteuil inclinable bouge"
+            },
+            {
+              "front": "Simple side table",
+              "back": "table d&#39;appoint simple"
+            },
+            {
+              "front": "Her metal barstool",
+              "back": "son tabouret de bar en métal"
+            },
+            { "front": "My elegant vanity", "back": "ma vanité élégante" },
+            { "front": "Our chaise lounge", "back": "notre chaise longue" },
+            {
+              "front": "Their sectional sofa",
+              "back": "leur canapé sectionnel"
+            },
+            { "front": "His love seat", "back": "sa causeuse" },
+            { "front": "My foldable futon", "back": "mon futon pliable" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "My chair creaks loudly",
+              "back": "ma chaise grince bruyamment"
+            },
+            {
+              "front": "His table holds items",
+              "back": "sa table contient des objets"
+            },
+            {
+              "front": "The soft sofa cushions",
+              "back": "les coussins moelleux du canapé"
+            },
+            {
+              "front": "The sturdy wooden desk",
+              "back": "le bureau en bois robuste"
+            },
+            {
+              "front": "The big is comfortable",
+              "back": "le grand est confortable"
+            },
+            {
+              "front": "Our couch feels cozy",
+              "back": "notre canapé est confortable"
+            },
+            {
+              "front": "Their wardrobe holds clothes",
+              "back": "leur garde-robe contient des vêtements"
+            },
+            {
+              "front": "Heavy bookshelf leans slightly",
+              "back": "la lourde étagère penche légèrement"
+            },
+            {
+              "front": "His dresser has drawers",
+              "back": "sa commode a des tiroirs"
+            },
+            {
+              "front": "My nightstand is small",
+              "back": "ma table de chevet est petite"
+            },
+            { "front": "Her low coffee table", "back": "sa table basse" },
+            {
+              "front": "Their large dining table",
+              "back": "leur grande table à manger"
+            },
+            {
+              "front": "My armchair rocks gently",
+              "back": "mon fauteuil bascule doucement"
+            },
+            {
+              "front": "His ottoman has storage",
+              "back": "son pouf a du rangement"
+            },
+            {
+              "front": "The TV stand is modern",
+              "back": "le meuble TV est moderne"
+            },
+            { "front": "My stool is tall", "back": "mon tabouret est haut" },
+            {
+              "front": "tall cabinet holds dishes",
+              "back": "une armoire haute contient de la vaisselle"
+            },
+            {
+              "front": "His recliner moves smoothly",
+              "back": "son fauteuil inclinable se déplace en douceur"
+            },
+            {
+              "front": "her simple side table",
+              "back": "sa simple table d&#39;appoint"
+            },
+            {
+              "front": "Her barstool feels cold",
+              "back": "son tabouret de bar est froid"
+            },
+            {
+              "front": "My vanity has mirror",
+              "back": "ma vanité a un miroir"
+            },
+            {
+              "front": "Our comfortable chaise lounge",
+              "back": "notre chaise longue confortable"
+            },
+            {
+              "front": "Their huge sectional sofa",
+              "back": "leur immense canapé sectionnel"
+            },
+            {
+              "front": "His comfortable love seat",
+              "back": "son confortable canapé d&#39;amour"
+            },
+            {
+              "front": "My futon folds easily",
+              "back": "mon futon se plie facilement"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My chair creaks when used",
+              "back": "ma chaise grince quand on l&#39;utilise"
+            },
+            {
+              "front": "His table holds many items",
+              "back": "sa table contient de nombreux objets"
+            },
+            {
+              "front": "Her sofa cushions are soft",
+              "back": "ses coussins de canapé sont doux"
+            },
+            {
+              "front": "The wooden desk looks sturdy",
+              "back": "le bureau en bois a l&#39;air solide"
+            },
+            {
+              "front": "The big bed is comfortable",
+              "back": "le grand lit est confortable"
+            },
+            {
+              "front": "Our couch feels very cozy",
+              "back": "notre canapé est très confortable"
+            },
+            {
+              "front": "Their wardrobe holds many clothes",
+              "back": "leur garde-robe contient de nombreux vêtements"
+            },
+            {
+              "front": "Heavy bookshelf leans to side",
+              "back": "la lourde étagère penche sur le côté"
+            },
+            {
+              "front": "His dresser has stuck drawers",
+              "back": "sa commode a des tiroirs coincés"
+            },
+            {
+              "front": "My nightstand is very small",
+              "back": "ma table de chevet est très petite"
+            },
+            {
+              "front": "Her coffee table sits low",
+              "back": "sa table basse est basse"
+            },
+            {
+              "front": "Their dining table is large",
+              "back": "leur table à manger est grande"
+            },
+            {
+              "front": "My armchair rocks when moved",
+              "back": "mon fauteuil bascule quand on le déplace"
+            },
+            {
+              "front": "His ottoman has hidden storage",
+              "back": "son pouf a un espace de rangement caché"
+            },
+            {
+              "front": "The TV stand looks modern",
+              "back": "le meuble TV a l&#39;air moderne"
+            },
+            {
+              "front": "My wooden stool is tall",
+              "back": "mon tabouret en bois est haut"
+            },
+            {
+              "front": "The tall cabinet holds dishes",
+              "back": "le meuble haut contient la vaisselle"
+            },
+            {
+              "front": "His recliner moves very smoothly",
+              "back": "son fauteuil inclinable se déplace très facilement"
+            },
+            {
+              "front": "Simple side table looks nice",
+              "back": "une table d&#39;appoint simple est jolie"
+            },
+            {
+              "front": "Her metal barstool feels cold",
+              "back": "son tabouret de bar en métal est froid"
+            },
+            {
+              "front": "My vanity has a mirror",
+              "back": "ma vanité a un miroir"
+            },
+            {
+              "front": "Our chaise lounge is comfortable",
+              "back": "notre chaise longue est confortable"
+            },
+            {
+              "front": "Their sectional sofa is huge",
+              "back": "leur canapé sectionnel est énorme"
+            },
+            {
+              "front": "His love seat is comfortable",
+              "back": "sa causeuse est confortable"
+            },
+            {
+              "front": "My futon folds into bed",
+              "back": "mon futon se plie en lit"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "My chair creaks when I sit",
+              "back": "ma chaise grince quand je m&#39;assois"
+            },
+            {
+              "front": "His table holds many heavy books",
+              "back": "sa table contient de nombreux livres lourds"
+            },
+            {
+              "front": "Her sofa cushions feel very soft",
+              "back": "ses coussins de canapé sont très doux"
+            },
+            {
+              "front": "The wooden desk stands very sturdy",
+              "back": "le bureau en bois est très robuste"
+            },
+            {
+              "front": "The big bed is very comfortable",
+              "back": "le grand lit est très confortable"
+            },
+            {
+              "front": "Our couch feels cozy and warm",
+              "back": "notre canapé est confortable et chaleureux"
+            },
+            {
+              "front": "Their wardrobe holds all their clothes",
+              "back": "leur garde-robe contient tous leurs vêtements"
+            },
+            {
+              "front": "Heavy bookshelf leans to the side",
+              "back": "la lourde étagère penche sur le côté"
+            },
+            {
+              "front": "His dresser has three stuck drawers",
+              "back": "sa commode a trois tiroirs coincés"
+            },
+            {
+              "front": "My nightstand is placed very close",
+              "back": "ma table de nuit est placée très près"
+            },
+            {
+              "front": "Her coffee table sits in the center",
+              "back": "sa table basse se trouve au centre"
+            },
+            {
+              "front": "Their dining table is round and large",
+              "back": "leur table à manger est ronde et grande"
+            },
+            {
+              "front": "My armchair rocks when I lean",
+              "back": "mon fauteuil bascule quand je m&#39;appuie"
+            },
+            {
+              "front": "His ottoman opens up for storage",
+              "back": "son pouf s&#39;ouvre pour le rangement"
+            },
+            {
+              "front": "The TV stand supports the television",
+              "back": "le meuble TV soutient le téléviseur"
+            },
+            {
+              "front": "My wooden stool is tall and sturdy",
+              "back": "mon tabouret en bois est haut et robuste"
+            },
+            {
+              "front": "The tall cabinet holds delicate dishes",
+              "back": "le meuble haut contient des plats délicats"
+            },
+            {
+              "front": "His recliner moves smoothly and silently",
+              "back": "son fauteuil inclinable se déplace en douceur et en silence"
+            },
+            {
+              "front": "Simple side table looks modern and elegant",
+              "back": "une table d&#39;appoint simple semble moderne et élégante"
+            },
+            {
+              "front": "Her metal barstool feels cold to touch",
+              "back": "son tabouret de bar en métal est froid au toucher"
+            },
+            {
+              "front": "My vanity has drawers for storage",
+              "back": "ma vanité a des tiroirs pour le rangement"
+            },
+            {
+              "front": "Our chaise lounge is very comfortable",
+              "back": "notre chaise longue est très confortable"
+            },
+            {
+              "front": "Their sectional sofa takes up space",
+              "back": "leur canapé sectionnel prend de la place"
+            },
+            {
+              "front": "His love seat is perfect for two",
+              "back": "sa causeuse est parfaite pour deux"
+            },
+            {
+              "front": "My futon folds easily into a bed",
+              "back": "mon futon se plie facilement en lit"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "His armchair rocked",
+              "back": "son fauteuil a basculé"
+            },
+            { "front": "The table wobbled", "back": "la table vacillait" },
+            {
+              "front": "Her nightstand fell",
+              "back": "sa table de nuit est tombée"
+            },
+            { "front": "The sofa sank", "back": "le canapé a coulé" },
+            { "front": "My chair squeaked", "back": "ma chaise a grincé" },
+            {
+              "front": "Their couch tore",
+              "back": "leur canapé s&#39;est déchiré"
+            },
+            {
+              "front": "His dresser collapsed",
+              "back": "sa commode s&#39;est effondrée"
+            },
+            { "front": "My bed creaked", "back": "mon lit a craqué" },
+            { "front": "The cabinet tilted", "back": "l&#39;armoire inclinée" },
+            {
+              "front": "Her stool tipped",
+              "back": "son tabouret s&#39;est renversé"
+            },
+            {
+              "front": "The bookshelf leaned",
+              "back": "l&#39;étagère penchée"
+            },
+            {
+              "front": "My recliner broke",
+              "back": "mon fauteuil inclinable est cassé"
+            },
+            {
+              "front": "Their wardrobe shifted",
+              "back": "leur garde-robe a changé"
+            },
+            { "front": "The futon folded", "back": "le futon plié" },
+            { "front": "His vanity shattered", "back": "sa vanité brisée" },
+            {
+              "front": "Her coffee table cracked",
+              "back": "sa table basse s&#39;est fissurée"
+            },
+            {
+              "front": "The TV stand broke",
+              "back": "le support de télévision est cassé"
+            },
+            {
+              "front": "My barstool slipped",
+              "back": "mon tabouret de bar a glissé"
+            },
+            {
+              "front": "The armchair squeaked",
+              "back": "le fauteuil grinçait"
+            },
+            {
+              "front": "His chaise lounge wobbled",
+              "back": "sa chaise longue vacillait"
+            },
+            {
+              "front": "The side table fell",
+              "back": "la table d&#39;appoint est tombée"
+            },
+            {
+              "front": "My love seat tore",
+              "back": "mon canapé d&#39;amour s&#39;est déchiré"
+            },
+            { "front": "The cabinet fell", "back": "le cabinet est tombé" },
+            { "front": "Her dresser tipped", "back": "sa commode a basculé" },
+            { "front": "His bed broke", "back": "son lit s&#39;est cassé" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "His armchair rocked gently",
+              "back": "son fauteuil se balançait doucement"
+            },
+            {
+              "front": "The table wobbled badly",
+              "back": "la table vacillait beaucoup"
+            },
+            {
+              "front": "Her nightstand fell over",
+              "back": "sa table de nuit est tombée"
+            },
+            {
+              "front": "The sofa sank deeply",
+              "back": "le canapé s&#39;est profondément enfoncé"
+            },
+            {
+              "front": "My chair squeaked loudly",
+              "back": "ma chaise grinçait bruyamment"
+            },
+            {
+              "front": "Their couch felt stiff",
+              "back": "leur canapé était raide"
+            },
+            {
+              "front": "His dresser collapsed yesterday",
+              "back": "sa commode s&#39;est effondrée hier"
+            },
+            { "front": "My bed was soft", "back": "mon lit était doux" },
+            {
+              "front": "The cabinet tilted sideways",
+              "back": "l&#39;armoire inclinée sur le côté"
+            },
+            {
+              "front": "Her stool tipped over",
+              "back": "son tabouret s&#39;est renversé"
+            },
+            {
+              "front": "The bookshelf leaned slightly",
+              "back": "l&#39;étagère était légèrement penchée"
+            },
+            {
+              "front": "My recliner broke suddenly",
+              "back": "mon fauteuil inclinable s&#39;est cassé soudainement"
+            },
+            {
+              "front": "Their wardrobe shifted easily",
+              "back": "leur garde-robe changeait facilement"
+            },
+            {
+              "front": "The futon folded quickly",
+              "back": "le futon s&#39;est plié rapidement"
+            },
+            {
+              "front": "His vanity shattered instantly",
+              "back": "sa vanité s&#39;est brisée instantanément"
+            },
+            {
+              "front": "Her coffee table cracked",
+              "back": "sa table basse s&#39;est fissurée"
+            },
+            {
+              "front": "The TV stand broke",
+              "back": "le support de télévision est cassé"
+            },
+            {
+              "front": "My barstool slipped down",
+              "back": "mon tabouret de bar a glissé"
+            },
+            {
+              "front": "The armchair squeaked loudly",
+              "back": "le fauteuil grinçait bruyamment"
+            },
+            {
+              "front": "His chaise lounge wobbled",
+              "back": "sa chaise longue vacillait"
+            },
+            {
+              "front": "The side table fell",
+              "back": "la table d&#39;appoint est tombée"
+            },
+            {
+              "front": "My love seat tore",
+              "back": "mon canapé d&#39;amour s&#39;est déchiré"
+            },
+            {
+              "front": "The cabinet fell hard",
+              "back": "le cabinet est tombé durement"
+            },
+            {
+              "front": "Her dresser tipped over",
+              "back": "sa commode s&#39;est renversée"
+            },
+            {
+              "front": "His bed broke yesterday",
+              "back": "son lit s&#39;est cassé hier"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "His armchair rocked all night",
+              "back": "son fauteuil a basculé toute la nuit"
+            },
+            {
+              "front": "The table wobbled during dinner",
+              "back": "la table a vacillé pendant le dîner"
+            },
+            {
+              "front": "Her nightstand fell over yesterday",
+              "back": "sa table de nuit est tombée hier"
+            },
+            {
+              "front": "The sofa sank last night",
+              "back": "le canapé a coulé hier soir"
+            },
+            {
+              "front": "My chair squeaked every time",
+              "back": "ma chaise grinçait à chaque fois"
+            },
+            {
+              "front": "Their couch tore at corner",
+              "back": "leur canapé s&#39;est déchiré dans un coin"
+            },
+            {
+              "front": "His dresser collapsed last week",
+              "back": "sa commode s&#39;est effondrée la semaine dernière"
+            },
+            {
+              "front": "My bed creaked this morning",
+              "back": "mon lit a grincé ce matin"
+            },
+            {
+              "front": "The cabinet tilted to side",
+              "back": "l&#39;armoire inclinée sur le côté"
+            },
+            {
+              "front": "Her stool tipped over quickly",
+              "back": "son tabouret s&#39;est renversé rapidement"
+            },
+            {
+              "front": "The bookshelf leaned against wall",
+              "back": "l&#39;étagère appuyée contre le mur"
+            },
+            {
+              "front": "My recliner broke last night",
+              "back": "mon fauteuil inclinable est tombé en panne hier soir"
+            },
+            {
+              "front": "Their wardrobe shifted during move",
+              "back": "leur garde-robe a changé pendant le déménagement"
+            },
+            {
+              "front": "The futon folded after use",
+              "back": "le futon plié après utilisation"
+            },
+            {
+              "front": "His vanity shattered into pieces",
+              "back": "sa vanité brisée en morceaux"
+            },
+            {
+              "front": "Her coffee table cracked badly",
+              "back": "sa table basse s&#39;est gravement fissurée"
+            },
+            {
+              "front": "The TV stand broke yesterday",
+              "back": "le support de télévision s&#39;est cassé hier"
+            },
+            {
+              "front": "My barstool slipped on floor",
+              "back": "mon tabouret de bar a glissé sur le sol"
+            },
+            {
+              "front": "The armchair squeaked when used",
+              "back": "le fauteuil grinçait lorsqu&#39;on l&#39;utilisait"
+            },
+            {
+              "front": "His chaise lounge wobbled today",
+              "back": "sa chaise longue a vacillé aujourd&#39;hui"
+            },
+            {
+              "front": "The side table fell down",
+              "back": "la table d&#39;appoint est tombée"
+            },
+            {
+              "front": "My love seat tore yesterday",
+              "back": "mon canapé s&#39;est déchiré hier"
+            },
+            {
+              "front": "The cabinet fell last night",
+              "back": "le cabinet est tombé hier soir"
+            },
+            {
+              "front": "Her dresser tipped over suddenly",
+              "back": "sa commode s&#39;est renversée soudainement"
+            },
+            {
+              "front": "His bed broke last night",
+              "back": "son lit s&#39;est cassé la nuit dernière"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "His armchair rocked back and forth",
+              "back": "son fauteuil se balançait d&#39;avant en arrière"
+            },
+            {
+              "front": "The table wobbled during family dinner",
+              "back": "la table a vacillé pendant le dîner de famille"
+            },
+            {
+              "front": "Her nightstand fell onto the floor",
+              "back": "sa table de nuit est tombée par terre"
+            },
+            {
+              "front": "The sofa sank after heavy use",
+              "back": "le canapé a coulé après une utilisation intensive"
+            },
+            {
+              "front": "My chair squeaked when I moved",
+              "back": "ma chaise a grincé quand j&#39;ai bougé"
+            },
+            {
+              "front": "Their couch tore along the seams",
+              "back": "leur canapé s&#39;est déchiré le long des coutures"
+            },
+            {
+              "front": "His dresser collapsed while moving yesterday",
+              "back": "sa commode s&#39;est effondrée lors du déménagement hier"
+            },
+            {
+              "front": "My bed was soft and comfortable",
+              "back": "mon lit était doux et confortable"
+            },
+            {
+              "front": "The cabinet tilted after being moved",
+              "back": "l&#39;armoire s&#39;est inclinée après avoir été déplacée"
+            },
+            {
+              "front": "Her stool tipped over in kitchen",
+              "back": "son tabouret s&#39;est renversé dans la cuisine"
+            },
+            {
+              "front": "The bookshelf leaned against living room",
+              "back": "la bibliothèque appuyée contre le salon"
+            },
+            {
+              "front": "My recliner broke after long use",
+              "back": "mon fauteuil inclinable s&#39;est cassé après une longue utilisation"
+            },
+            {
+              "front": "Their wardrobe shifted during home renovation",
+              "back": "leur garde-robe a changé pendant la rénovation de la maison"
+            },
+            {
+              "front": "The futon folded up after use",
+              "back": "le futon plié après utilisation"
+            },
+            {
+              "front": "His vanity shattered when mirror fell",
+              "back": "sa vanité s&#39;est brisée lorsque le miroir est tombé"
+            },
+            {
+              "front": "Her coffee table cracked under weight",
+              "back": "sa table basse s&#39;est fissurée sous le poids"
+            },
+            {
+              "front": "The TV stand broke last night",
+              "back": "le support de télévision s&#39;est cassé hier soir"
+            },
+            {
+              "front": "My barstool slipped on kitchen floor",
+              "back": "mon tabouret de bar a glissé sur le sol de la cuisine"
+            },
+            {
+              "front": "The armchair squeaked when sat on",
+              "back": "le fauteuil grinçait quand on s&#39;asseyait dessus"
+            },
+            {
+              "front": "His chaise lounge wobbled during party",
+              "back": "sa chaise longue a vacillé pendant la fête"
+            },
+            {
+              "front": "The side table fell after use",
+              "back": "la table d&#39;appoint est tombée après utilisation"
+            },
+            {
+              "front": "My love seat tore along side",
+              "back": "mon canapé s&#39;est déchiré à côté"
+            },
+            {
+              "front": "The cabinet fell while being moved",
+              "back": "l&#39;armoire est tombée pendant son déplacement"
+            },
+            {
+              "front": "Her dresser tipped over onto floor",
+              "back": "sa commode s&#39;est renversée sur le sol"
+            },
+            {
+              "front": "His bed broke after jumping on",
+              "back": "son lit s&#39;est cassé après avoir sauté dessus"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will make bed", "back": "fera le lit" },
+            { "front": "Will clean table", "back": "va nettoyer la table" },
+            { "front": "Will fill dresser", "back": "remplira la commode" },
+            { "front": "Will fix chair", "back": "réparera la chaise" },
+            { "front": "Will move sofa", "back": "va déplacer le canapé" },
+            {
+              "front": "Will rearrange couch",
+              "back": "réorganisera le canapé"
+            },
+            {
+              "front": "Will organize wardrobe",
+              "back": "organisera la garde-robe"
+            },
+            {
+              "front": "Will stack bookshelf",
+              "back": "empilera la bibliothèque"
+            },
+            {
+              "front": "Will replace nightstand",
+              "back": "remplacera la table de chevet"
+            },
+            {
+              "front": "Will dust cabinet",
+              "back": "va dépoussiérer l&#39;armoire"
+            },
+            {
+              "front": "Will repair recliner",
+              "back": "réparera le fauteuil inclinable"
+            },
+            { "front": "Will clean stool", "back": "nettoiera les selles" },
+            {
+              "front": "Will wipe coffee table",
+              "back": "essuiera la table basse"
+            },
+            { "front": "Will polish vanity", "back": "polira la vanité" },
+            { "front": "Will move ottoman", "back": "va déplacer le pouf" },
+            {
+              "front": "Will adjust TV stand",
+              "back": "ajustera le support du téléviseur"
+            },
+            { "front": "Will buy futon", "back": "achètera un futon" },
+            {
+              "front": "Will lift barstool",
+              "back": "soulèvera le tabouret de bar"
+            },
+            { "front": "Will use desk", "back": "utilisera le bureau" },
+            {
+              "front": "Will dust armchair",
+              "back": "va épousseter le fauteuil"
+            },
+            { "front": "Will cover love seat", "back": "couvrira la causeuse" },
+            { "front": "Will fold futon", "back": "pliera le futon" },
+            { "front": "Will remove dresser", "back": "va enlever la commode" },
+            {
+              "front": "Will assemble cabinet",
+              "back": "assemblera l&#39;armoire"
+            },
+            {
+              "front": "Will shift wardrobe",
+              "back": "va changer de garde-robe"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I will make bed", "back": "je ferai le lit" },
+            {
+              "front": "They will clean table",
+              "back": "ils nettoieront la table"
+            },
+            {
+              "front": "She will fill dresser",
+              "back": "elle remplira la commode"
+            },
+            { "front": "He will fix chair", "back": "il réparera la chaise" },
+            {
+              "front": "We will move sofa",
+              "back": "nous allons déplacer le canapé"
+            },
+            {
+              "front": "They will rearrange couch",
+              "back": "ils réorganiseront le canapé"
+            },
+            {
+              "front": "I will organize wardrobe",
+              "back": "je vais organiser la garde-robe"
+            },
+            {
+              "front": "She will stack bookshelf",
+              "back": "elle empilera les étagères"
+            },
+            {
+              "front": "We will replace nightstand",
+              "back": "nous remplacerons la table de chevet"
+            },
+            {
+              "front": "He will dust cabinet",
+              "back": "il va épousseter le placard"
+            },
+            {
+              "front": "I will repair recliner",
+              "back": "je vais réparer le fauteuil inclinable"
+            },
+            {
+              "front": "They will clean stool",
+              "back": "ils nettoieront les selles"
+            },
+            {
+              "front": "She will wipe table",
+              "back": "elle essuiera la table"
+            },
+            {
+              "front": "We will polish vanity",
+              "back": "nous polirons la vanité"
+            },
+            {
+              "front": "I will move ottoman",
+              "back": "je vais déplacer le pouf"
+            },
+            {
+              "front": "He will adjust stand",
+              "back": "il ajustera le support"
+            },
+            {
+              "front": "They will buy futon",
+              "back": "ils achèteront un futon"
+            },
+            {
+              "front": "She will lift barstool",
+              "back": "elle soulèvera le tabouret de bar"
+            },
+            {
+              "front": "I will use desk",
+              "back": "j&#39;utiliserai un bureau"
+            },
+            {
+              "front": "They will dust armchair",
+              "back": "ils vont épousseter le fauteuil"
+            },
+            {
+              "front": "We will cover seat",
+              "back": "nous couvrirons le siège"
+            },
+            { "front": "He will fold futon", "back": "il pliera le futon" },
+            {
+              "front": "They will remove dresser",
+              "back": "ils enlèveront la commode"
+            },
+            {
+              "front": "I will assemble cabinet",
+              "back": "je vais assembler l&#39;armoire"
+            },
+            {
+              "front": "We will shift wardrobe",
+              "back": "nous allons changer de garde-robe"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "Will set the table", "back": "mettra la table" },
+            {
+              "front": "I will use chair",
+              "back": "j&#39;utiliserai une chaise"
+            },
+            {
+              "front": "They will use couch",
+              "back": "ils utiliseront le canapé"
+            },
+            {
+              "front": "The dresser will move",
+              "back": "la commode va bouger"
+            },
+            { "front": "She will fix lamp", "back": "elle réparera la lampe" },
+            {
+              "front": "We will dust bookshelf",
+              "back": "nous allons épousseter la bibliothèque"
+            },
+            {
+              "front": "He will clean stool",
+              "back": "il nettoiera les selles"
+            },
+            {
+              "front": "They will move recliner",
+              "back": "ils déplaceront le fauteuil inclinable"
+            },
+            { "front": "I will fold futon", "back": "je vais plier le futon" },
+            {
+              "front": "We will shift wardrobe",
+              "back": "nous allons changer de garde-robe"
+            },
+            { "front": "He will polish vanity", "back": "il polira la vanité" },
+            {
+              "front": "She will use nightstand",
+              "back": "elle utilisera une table de chevet"
+            },
+            {
+              "front": "The cabinet will open",
+              "back": "le cabinet s&#39;ouvrira"
+            },
+            {
+              "front": "They will organize dresser",
+              "back": "ils organiseront la commode"
+            },
+            {
+              "front": "I will move sofa",
+              "back": "je vais déplacer le canapé"
+            },
+            {
+              "front": "He will replace armchair",
+              "back": "il remplacera le fauteuil"
+            },
+            {
+              "front": "The chair will break",
+              "back": "la chaise va se casser"
+            },
+            {
+              "front": "They will clean couch",
+              "back": "ils nettoieront le canapé"
+            },
+            {
+              "front": "The table will wobble",
+              "back": "la table va vaciller"
+            },
+            { "front": "I will move bed", "back": "je vais déplacer le lit" },
+            { "front": "He will use desk", "back": "il utilisera le bureau" },
+            {
+              "front": "The love seat will move",
+              "back": "la causeuse va bouger"
+            },
+            {
+              "front": "They will stack bookshelf",
+              "back": "ils empileront les étagères"
+            },
+            {
+              "front": "She will buy chair",
+              "back": "elle achètera une chaise"
+            },
+            {
+              "front": "We will adjust recliner",
+              "back": "nous ajusterons le fauteuil inclinable"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will sit in recliner",
+              "back": "je vais m&#39;asseoir dans un fauteuil inclinable"
+            },
+            {
+              "front": "They will replace old couch",
+              "back": "ils remplaceront le vieux canapé"
+            },
+            {
+              "front": "The lamp will light room",
+              "back": "la lampe éclairera la pièce"
+            },
+            {
+              "front": "She will move the dresser",
+              "back": "elle déplacera la commode"
+            },
+            {
+              "front": "We will clean the bookshelf",
+              "back": "nous allons nettoyer la bibliothèque"
+            },
+            {
+              "front": "He will organize the wardrobe",
+              "back": "il organisera la garde-robe"
+            },
+            {
+              "front": "I will fold the futon",
+              "back": "je vais plier le futon"
+            },
+            {
+              "front": "They will buy a new sofa",
+              "back": "ils achèteront un nouveau canapé"
+            },
+            {
+              "front": "The table will wobble again",
+              "back": "la table va encore vaciller"
+            },
+            {
+              "front": "She will use the nightstand",
+              "back": "elle utilisera la table de nuit"
+            },
+            {
+              "front": "He will fix the cabinet",
+              "back": "il réparera le meuble"
+            },
+            {
+              "front": "We will replace the chair",
+              "back": "nous remplacerons la chaise"
+            },
+            {
+              "front": "I will dust the stool",
+              "back": "je vais épousseter le tabouret"
+            },
+            {
+              "front": "They will shift the wardrobe",
+              "back": "ils déplaceront la garde-robe"
+            },
+            {
+              "front": "The couch will look better",
+              "back": "le canapé sera plus beau"
+            },
+            {
+              "front": "She will polish the vanity",
+              "back": "elle polira la vanité"
+            },
+            {
+              "front": "We will arrange the love seat",
+              "back": "nous organiserons la causeuse"
+            },
+            { "front": "He will set the table", "back": "il mettra la table" },
+            {
+              "front": "They will move the ottoman",
+              "back": "ils déplaceront le pouf"
+            },
+            {
+              "front": "I will assemble the bookshelf",
+              "back": "je vais assembler la bibliothèque"
+            },
+            {
+              "front": "The recliner will need repair",
+              "back": "le fauteuil inclinable aura besoin d&#39;être réparé"
+            },
+            {
+              "front": "We will use the desk",
+              "back": "nous utiliserons le bureau"
+            },
+            {
+              "front": "She will clean the armchair",
+              "back": "elle nettoiera le fauteuil"
+            },
+            {
+              "front": "He will carry the cabinet",
+              "back": "il portera le cabinet"
+            },
+            {
+              "front": "They will adjust the sofa",
+              "back": "ils ajusteront le canapé"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will sit in the recliner",
+              "back": "je vais m&#39;asseoir dans le fauteuil inclinable"
+            },
+            {
+              "front": "They will replace the old couch",
+              "back": "ils remplaceront le vieux canapé"
+            },
+            {
+              "front": "The lamp will light the room",
+              "back": "la lampe éclairera la pièce"
+            },
+            {
+              "front": "She will move the heavy dresser",
+              "back": "elle déplacera la lourde commode"
+            },
+            {
+              "front": "We will clean the wooden bookshelf",
+              "back": "nous allons nettoyer l&#39;étagère en bois"
+            },
+            {
+              "front": "He will organize the messy wardrobe",
+              "back": "il organisera la garde-robe en désordre"
+            },
+            {
+              "front": "I will fold the soft futon",
+              "back": "je vais plier le futon moelleux"
+            },
+            {
+              "front": "They will buy a new sofa",
+              "back": "ils achèteront un nouveau canapé"
+            },
+            {
+              "front": "The table will wobble during dinner",
+              "back": "la table va vaciller pendant le dîner"
+            },
+            {
+              "front": "She will use the small nightstand",
+              "back": "elle utilisera la petite table de chevet"
+            },
+            {
+              "front": "He will fix the broken cabinet",
+              "back": "il réparera l&#39;armoire cassée"
+            },
+            {
+              "front": "We will replace the old chair",
+              "back": "nous remplacerons la vieille chaise"
+            },
+            {
+              "front": "I will dust the tall stool",
+              "back": "je vais épousseter le grand tabouret"
+            },
+            {
+              "front": "They will shift the large wardrobe",
+              "back": "ils déplaceront la grande armoire"
+            },
+            {
+              "front": "The couch will look much better",
+              "back": "le canapé sera beaucoup plus beau"
+            },
+            {
+              "front": "She will polish the fancy vanity",
+              "back": "elle polira la vanité de fantaisie"
+            },
+            {
+              "front": "We will arrange the love seat",
+              "back": "nous organiserons la causeuse"
+            },
+            {
+              "front": "He will set the dining table",
+              "back": "il mettra la table à manger"
+            },
+            {
+              "front": "They will move the small ottoman",
+              "back": "ils déplaceront le petit pouf"
+            },
+            {
+              "front": "I will assemble the new bookshelf",
+              "back": "je vais assembler la nouvelle étagère"
+            },
+            {
+              "front": "The recliner will need repair soon",
+              "back": "le fauteuil inclinable aura bientôt besoin d&#39;être réparé"
+            },
+            {
+              "front": "We will use the office desk",
+              "back": "nous utiliserons le bureau"
+            },
+            {
+              "front": "She will clean the dusty armchair",
+              "back": "elle nettoiera le fauteuil poussiéreux"
+            },
+            {
+              "front": "He will carry the heavy cabinet",
+              "back": "il portera le lourd cabinet"
+            },
+            {
+              "front": "They will adjust the corner sofa",
+              "back": "ils ajusteront le canapé d&#39;angle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

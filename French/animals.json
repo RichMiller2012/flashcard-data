@@ -1,0 +1,1185 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Animals",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Dog", "back": "chien" },
+            { "front": "Cat", "back": "chat" },
+            { "front": "Bird", "back": "oiseau" },
+            { "front": "Fish", "back": "poisson" },
+            { "front": "Cow", "back": "vache" },
+            { "front": "Horse", "back": "cheval" },
+            { "front": "Chicken", "back": "poulet" },
+            { "front": "Goat", "back": "chèvre" },
+            { "front": "Sheep", "back": "mouton" },
+            { "front": "Pig", "back": "cochon" },
+            { "front": "Rabbit", "back": "lapin" },
+            { "front": "Lion", "back": "lion" },
+            { "front": "Tiger", "back": "tigre" },
+            { "front": "Elephant", "back": "éléphant" },
+            { "front": "Giraffe", "back": "girafe" },
+            { "front": "Bear", "back": "ours" },
+            { "front": "Monkey", "back": "singe" },
+            { "front": "Deer", "back": "cerf" },
+            { "front": "Frog", "back": "grenouille" },
+            { "front": "Snake", "back": "serpent" },
+            { "front": "Lizard", "back": "lézard" },
+            { "front": "Squirrel", "back": "écureuil" },
+            { "front": "Dolphin", "back": "dauphin" },
+            { "front": "Whale", "back": "baleine" },
+            { "front": "Kangaroo", "back": "kangourou" },
+            { "front": "Penguin", "back": "manchot" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "big Dog", "back": "gros chien" },
+            { "front": "small Cat", "back": "petit chat" },
+            { "front": "colorful Bird", "back": "oiseau coloré" },
+            { "front": "fast Fish", "back": "poisson rapide" },
+            { "front": "gentle Cow", "back": "douce vache" },
+            { "front": "strong Horse", "back": "cheval fort" },
+            { "front": "happy Chicken", "back": "poulet heureux" },
+            { "front": "playful Goat", "back": "chèvre joueuse" },
+            { "front": "fluffy Sheep", "back": "mouton duveteux" },
+            { "front": "fat Pig", "back": "gros cochon" },
+            { "front": "quick Rabbit", "back": "lapin rapide" },
+            { "front": "fierce Lion", "back": "lion féroce" },
+            { "front": "striped Tiger", "back": "tigre rayé" },
+            { "front": "large Elephant", "back": "grand éléphant" },
+            { "front": "tall Giraffe", "back": "grande girafe" },
+            { "front": "grizzly Bear", "back": "grizzly" },
+            { "front": "curious Monkey", "back": "singe curieux" },
+            { "front": "graceful Deer", "back": "cerf gracieux" },
+            { "front": "green Frog", "back": "grenouille verte" },
+            { "front": "slithering Snake", "back": "serpent rampant" },
+            { "front": "colorful Lizard", "back": "lézard coloré" },
+            { "front": "tiny Squirrel", "back": "petit écureuil" },
+            { "front": "friendly Dolphin", "back": "dauphin amical" },
+            { "front": "mighty Whale", "back": "puissante baleine" },
+            { "front": "jumping Kangaroo", "back": "kangourou sauteur" },
+            { "front": "cold Penguin", "back": "pingouin froid" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "very cold penguin", "back": "pingouin très froid" },
+            {
+              "front": "great mighty whale",
+              "back": "grande et puissante baleine"
+            },
+            { "front": "bright green frog", "back": "grenouille vert vif" },
+            { "front": "small playful dog", "back": "petit chien joueur" },
+            { "front": "cute fluffy cat", "back": "chat mignon et tout doux" },
+            { "front": "swift flying bird", "back": "oiseau volant rapide" },
+            { "front": "fast swimming fish", "back": "poisson nageur rapide" },
+            {
+              "front": "gentle friendly cow",
+              "back": "vache douce et amicale"
+            },
+            {
+              "front": "strong galloping horse",
+              "back": "cheval fort au galop"
+            },
+            {
+              "front": "happy clucking chicken",
+              "back": "poulet qui glousse joyeusement"
+            },
+            { "front": "playful little goat", "back": "petite chèvre joueuse" },
+            { "front": "soft woolly sheep", "back": "mouton doux et laineux" },
+            { "front": "big snorting pig", "back": "gros cochon qui renifle" },
+            {
+              "front": "quick hopping rabbit",
+              "back": "lapin sautillant rapidement"
+            },
+            { "front": "fierce roaring lion", "back": "lion rugissant féroce" },
+            { "front": "striped prowling tiger", "back": "tigre rayé rôdeur" },
+            { "front": "large gentle elephant", "back": "grand éléphant doux" },
+            {
+              "front": "tall graceful giraffe",
+              "back": "grande girafe gracieuse"
+            },
+            { "front": "grizzly angry bear", "back": "grizzly ours en colère" },
+            {
+              "front": "curious swinging monkey",
+              "back": "singe curieux qui se balance"
+            },
+            { "front": "bright orange lizard", "back": "lézard orange vif" },
+            { "front": "tiny agile squirrel", "back": "petit écureuil agile" },
+            {
+              "front": "friendly playful dolphin",
+              "back": "dauphin amical et joueur"
+            },
+            {
+              "front": "mighty powerful whale",
+              "back": "baleine puissante et puissante"
+            },
+            {
+              "front": "leaping energetic kangaroo",
+              "back": "kangourou énergique et bondissant"
+            },
+            {
+              "front": "colorful dancing parrot",
+              "back": "perroquet dansant coloré"
+            },
+            {
+              "front": "swift slithering snake",
+              "back": "serpent glissant et rapide"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "My dog is barking", "back": "mon chien aboie" },
+            {
+              "front": "They have strong horses",
+              "back": "ils ont des chevaux forts"
+            },
+            {
+              "front": "We see big eagles",
+              "back": "nous voyons de grands aigles"
+            },
+            { "front": "They ran from lions", "back": "ils ont fui les lions" },
+            { "front": "The cat is sleeping", "back": "le chat dort" },
+            {
+              "front": "The bird is chirping",
+              "back": "l&#39;oiseau gazouille"
+            },
+            {
+              "front": "We hear frogs croaking",
+              "back": "nous entendons les grenouilles coasser"
+            },
+            { "front": "The horse is galloping", "back": "le cheval galope" },
+            { "front": "My rabbit is hopping", "back": "mon lapin saute" },
+            {
+              "front": "The monkey is swinging",
+              "back": "le singe se balance"
+            },
+            { "front": "The deer are running", "back": "les cerfs courent" },
+            { "front": "We saw a lion", "back": "nous avons vu un lion" },
+            { "front": "The frog is jumping", "back": "la grenouille saute" },
+            { "front": "My pig is wallowing", "back": "mon cochon se vautre" },
+            { "front": "The cow is grazing", "back": "la vache broute" },
+            {
+              "front": "The squirrel climbs trees",
+              "back": "l&#39;écureuil grimpe aux arbres"
+            },
+            {
+              "front": "The giraffe eats leaves",
+              "back": "la girafe mange des feuilles"
+            },
+            {
+              "front": "The bear is hibernating",
+              "back": "l&#39;ours hiberne"
+            },
+            { "front": "The tiger is stalking", "back": "le tigre traque" },
+            {
+              "front": "We spotted a whale",
+              "back": "nous avons repéré une baleine"
+            },
+            {
+              "front": "They chased rabbits",
+              "back": "ils chassaient les lapins"
+            },
+            { "front": "The dolphin is swimming", "back": "le dauphin nage" },
+            { "front": "The goat is climbing", "back": "la chèvre grimpe" },
+            { "front": "My chicken is laying", "back": "ma poule pond" },
+            { "front": "The snake is slithering", "back": "le serpent rampe" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "My big dog is running",
+              "back": "mon gros chien court"
+            },
+            {
+              "front": "They have many chickens now",
+              "back": "ils ont beaucoup de poules maintenant"
+            },
+            {
+              "front": "We see playful dolphins swimming",
+              "back": "nous voyons des dauphins joueurs nager"
+            },
+            {
+              "front": "They ran from wild lions",
+              "back": "ils ont fui les lions sauvages"
+            },
+            {
+              "front": "The black cat is eating",
+              "back": "le chat noir mange"
+            },
+            {
+              "front": "The small bird is flying",
+              "back": "le petit oiseau vole"
+            },
+            {
+              "front": "We hear loud frogs croaking",
+              "back": "nous entendons des grenouilles coasser bruyamment"
+            },
+            {
+              "front": "The fast horse is galloping",
+              "back": "le cheval rapide galope"
+            },
+            {
+              "front": "My cute rabbit is hopping",
+              "back": "mon mignon lapin sautille"
+            },
+            {
+              "front": "The playful monkey is swinging",
+              "back": "le singe joueur se balance"
+            },
+            {
+              "front": "The large deer are running",
+              "back": "les grands cerfs courent"
+            },
+            {
+              "front": "We saw a fierce lion",
+              "back": "nous avons vu un lion féroce"
+            },
+            {
+              "front": "The green frog is jumping",
+              "back": "la grenouille verte saute"
+            },
+            {
+              "front": "My dirty pig is wallowing",
+              "back": "mon sale cochon se vautre"
+            },
+            {
+              "front": "The white cow is grazing",
+              "back": "la vache blanche broute"
+            },
+            {
+              "front": "The furry squirrel climbs trees",
+              "back": "l&#39;écureuil poilu grimpe aux arbres"
+            },
+            {
+              "front": "The tall giraffe eats leaves",
+              "back": "la grande girafe mange des feuilles"
+            },
+            {
+              "front": "The brown bear is hibernating",
+              "back": "l&#39;ours brun hiberne"
+            },
+            {
+              "front": "The hungry tiger is stalking",
+              "back": "le tigre affamé traque"
+            },
+            {
+              "front": "We spotted a giant whale",
+              "back": "nous avons repéré une baleine géante"
+            },
+            {
+              "front": "They chased fast rabbits",
+              "back": "ils chassaient des lapins rapides"
+            },
+            {
+              "front": "The playful dolphin is swimming",
+              "back": "le dauphin joueur nage"
+            },
+            {
+              "front": "The strong goat is climbing",
+              "back": "la chèvre forte grimpe"
+            },
+            {
+              "front": "My young chicken is laying",
+              "back": "ma jeune poule pond"
+            },
+            {
+              "front": "The large snake is slithering",
+              "back": "le grand serpent rampe"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "the small playful dog barks loudly",
+              "back": "le petit chien joueur aboie fort"
+            },
+            {
+              "front": "the graceful flying eagle soars high",
+              "back": "l&#39;aigle volant gracieux s&#39;élève haut"
+            },
+            {
+              "front": "the bright singing bird chirps cheerfully",
+              "back": "l&#39;oiseau chanteur brillant gazouille joyeusement"
+            },
+            {
+              "front": "the fast swimming fish glides gracefully",
+              "back": "le poisson qui nage rapidement glisse gracieusement"
+            },
+            {
+              "front": "the gentle grazing cow munches grass",
+              "back": "la douce vache au pâturage grignote de l&#39;herbe"
+            },
+            {
+              "front": "the strong galloping horse runs freely",
+              "back": "le cheval fort et galopant court librement"
+            },
+            {
+              "front": "the happy clucking chicken scratches dirt",
+              "back": "le poulet joyeux et gloussant gratte la terre"
+            },
+            {
+              "front": "the curious climbing goat jumps around playfully",
+              "back": "la curieuse chèvre grimpeuse saute partout de manière ludique"
+            },
+            {
+              "front": "the soft woolly sheep bleats softly now",
+              "back": "le doux mouton laineux bêle doucement maintenant"
+            },
+            {
+              "front": "the fat rolling pig enjoys muddy puddles",
+              "back": "le gros cochon roulant apprécie les flaques de boue"
+            },
+            {
+              "front": "the quick hopping rabbit dashes away quickly",
+              "back": "le lapin qui saute vite s&#39;enfuit rapidement"
+            },
+            {
+              "front": "the fierce roaring lion guards its territory",
+              "back": "le lion féroce et rugissant garde son territoire"
+            },
+            {
+              "front": "the striped prowling tiger stalks its prey",
+              "back": "le tigre rayé rôdeur traque sa proie"
+            },
+            {
+              "front": "the large gentle elephant trumpets very loudly",
+              "back": "le grand et doux éléphant barrit très fort"
+            },
+            {
+              "front": "the tall graceful giraffe grazes on trees",
+              "back": "la grande girafe gracieuse broute les arbres"
+            },
+            {
+              "front": "the grizzly angry bear roars fiercely now",
+              "back": "l&#39;ours grizzly en colère rugit maintenant férocement"
+            },
+            {
+              "front": "the curious swinging monkey chatters happily all",
+              "back": "le curieux singe oscillant bavarde joyeusement tout"
+            },
+            {
+              "front": "the bright orange lizard basks in sunlight",
+              "back": "le lézard orange vif se prélasse au soleil"
+            },
+            {
+              "front": "the tiny agile squirrel scurries up trees",
+              "back": "le petit écureuil agile grimpe aux arbres"
+            },
+            {
+              "front": "the friendly playful dolphin jumps in waves",
+              "back": "le dauphin amical et joueur saute dans les vagues"
+            },
+            {
+              "front": "the mighty powerful whale sings deep songs",
+              "back": "la puissante baleine chante des chansons profondes"
+            },
+            {
+              "front": "the leaping energetic kangaroo bounds through grass",
+              "back": "le kangourou énergique et sauteur bondit dans l&#39;herbe"
+            },
+            {
+              "front": "the colorful dancing parrot flaps its wings",
+              "back": "le perroquet dansant coloré bat des ailes"
+            },
+            {
+              "front": "the swift slithering snake moves very silently",
+              "back": "le serpent rapide et glissant se déplace très silencieusement"
+            },
+            {
+              "front": "the strong barking dog alerts the owner",
+              "back": "le chien qui aboie fort alerte le propriétaire"
+            },
+            {
+              "front": "the elegant swimming swan glides on water",
+              "back": "l&#39;élégant cygne nageur glisse sur l&#39;eau"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "swan glided", "back": "le cygne a plané" },
+            { "front": "kangaroo hopped", "back": "le kangourou a sauté" },
+            { "front": "dog barked", "back": "le chien a aboyé" },
+            { "front": "cat jumped", "back": "le chat a sauté" },
+            { "front": "bird sang", "back": "l&#39;oiseau a chanté" },
+            { "front": "fish swam", "back": "les poissons ont nagé" },
+            { "front": "cow grazed", "back": "vache broutant" },
+            { "front": "horse galloped", "back": "le cheval galopait" },
+            { "front": "chicken scratched", "back": "poulet gratté" },
+            { "front": "goat climbed", "back": "la chèvre a grimpé" },
+            { "front": "sheep bleated", "back": "les moutons bêlaient" },
+            { "front": "pig rolled", "back": "roulé de porc" },
+            { "front": "rabbit dashed", "back": "lapin pointé" },
+            { "front": "lion roared", "back": "le lion rugit" },
+            { "front": "tiger stalked", "back": "tigre traqué" },
+            {
+              "front": "elephant trumpeted",
+              "back": "l&#39;éléphant a barrissé"
+            },
+            { "front": "giraffe reached", "back": "la girafe a atteint" },
+            { "front": "bear roamed", "back": "l&#39;ours errait" },
+            { "front": "monkey swung", "back": "singe balancé" },
+            { "front": "frog jumped", "back": "la grenouille a sauté" },
+            { "front": "snake slithered", "back": "serpent rampant" },
+            { "front": "lizard basked", "back": "lézard se prélassant" },
+            { "front": "dolphin jumped", "back": "le dauphin a sauté" },
+            { "front": "whale sang", "back": "la baleine a chanté" },
+            { "front": "squirrel stored", "back": "écureuil stocké" },
+            { "front": "parrot squawked", "back": "le perroquet a crié" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "swan glided smoothly",
+              "back": "le cygne glissait doucement"
+            },
+            {
+              "front": "kangaroo hopped energetically",
+              "back": "le kangourou sautait énergiquement"
+            },
+            { "front": "dog barked loudly", "back": "le chien a aboyé fort" },
+            { "front": "cat jumped high", "back": "le chat a sauté haut" },
+            {
+              "front": "bird sang beautifully",
+              "back": "l&#39;oiseau a chanté magnifiquement"
+            },
+            {
+              "front": "fish swam swiftly",
+              "back": "les poissons nageaient rapidement"
+            },
+            {
+              "front": "cow grazed peacefully",
+              "back": "la vache paissait paisiblement"
+            },
+            {
+              "front": "horse galloped fast",
+              "back": "le cheval galopait vite"
+            },
+            {
+              "front": "chicken scratched eagerly",
+              "back": "poulet gratté avec empressement"
+            },
+            {
+              "front": "goat climbed skillfully",
+              "back": "la chèvre a grimpé habilement"
+            },
+            {
+              "front": "sheep bleated softly",
+              "back": "les moutons bêlaient doucement"
+            },
+            {
+              "front": "pig rolled happily",
+              "back": "cochon roulé joyeusement"
+            },
+            {
+              "front": "rabbit dashed quickly",
+              "back": "le lapin s&#39;est précipité"
+            },
+            {
+              "front": "lion roared fiercely",
+              "back": "le lion rugit férocement"
+            },
+            {
+              "front": "tiger stalked quietly",
+              "back": "le tigre traquait tranquillement"
+            },
+            {
+              "front": "elephant trumpeted loudly",
+              "back": "l&#39;éléphant barrit bruyamment"
+            },
+            {
+              "front": "giraffe reached gracefully",
+              "back": "la girafe a atteint gracieusement"
+            },
+            {
+              "front": "bear roamed freely",
+              "back": "l&#39;ours errait librement"
+            },
+            {
+              "front": "monkey swung playfully",
+              "back": "le singe se balançait de manière ludique"
+            },
+            {
+              "front": "frog jumped high",
+              "back": "la grenouille a sauté haut"
+            },
+            {
+              "front": "snake slithered silently",
+              "back": "le serpent glissait silencieusement"
+            },
+            {
+              "front": "lizard basked lazily",
+              "back": "le lézard se prélassait paresseusement"
+            },
+            {
+              "front": "dolphin jumped joyfully",
+              "back": "le dauphin a sauté joyeusement"
+            },
+            {
+              "front": "whale sang deeply",
+              "back": "la baleine chantait profondément"
+            },
+            {
+              "front": "squirrel stored nuts",
+              "back": "noix stockées par les écureuils"
+            },
+            {
+              "front": "parrot squawked loudly",
+              "back": "le perroquet a crié fort"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I saw a dog", "back": "j&#39;ai vu un chien" },
+            {
+              "front": "They chased the rabbit",
+              "back": "ils ont chassé le lapin"
+            },
+            {
+              "front": "We found the lion",
+              "back": "nous avons trouvé le lion"
+            },
+            { "front": "She fed the cat", "back": "elle a nourri le chat" },
+            { "front": "He saw the bird", "back": "il a vu l&#39;oiseau" },
+            {
+              "front": "I heard a frog",
+              "back": "j&#39;ai entendu une grenouille"
+            },
+            {
+              "front": "They caught the fish",
+              "back": "ils ont attrapé le poisson"
+            },
+            {
+              "front": "We lost the goat",
+              "back": "nous avons perdu la chèvre"
+            },
+            { "front": "You saw a monkey", "back": "tu as vu un singe" },
+            { "front": "He killed a snake", "back": "il a tué un serpent" },
+            {
+              "front": "We fed the pig",
+              "back": "nous avons nourri le cochon"
+            },
+            {
+              "front": "She spotted a giraffe",
+              "back": "elle a repéré une girafe"
+            },
+            {
+              "front": "They heard the bear",
+              "back": "ils ont entendu l&#39;ours"
+            },
+            {
+              "front": "I watched the deer",
+              "back": "j&#39;ai regardé le cerf"
+            },
+            {
+              "front": "You found the rabbit",
+              "back": "tu as trouvé le lapin"
+            },
+            { "front": "He ran from lions", "back": "il a fui les lions" },
+            {
+              "front": "We met the dolphin",
+              "back": "nous avons rencontré le dauphin"
+            },
+            {
+              "front": "She chased the squirrel",
+              "back": "elle a chassé l&#39;écureuil"
+            },
+            {
+              "front": "They caught the tiger",
+              "back": "ils ont attrapé le tigre"
+            },
+            { "front": "I saw a whale", "back": "j&#39;ai vu une baleine" },
+            {
+              "front": "We killed the snake",
+              "back": "nous avons tué le serpent"
+            },
+            {
+              "front": "You helped the chicken",
+              "back": "tu as aidé le poulet"
+            },
+            {
+              "front": "He chased the frog",
+              "back": "il a chassé la grenouille"
+            },
+            { "front": "They found a bear", "back": "ils ont trouvé un ours" },
+            {
+              "front": "We heard the birds",
+              "back": "nous avons entendu les oiseaux"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I saw the big dog",
+              "back": "j&#39;ai vu le gros chien"
+            },
+            {
+              "front": "They chased after the rabbit",
+              "back": "ils ont poursuivi le lapin"
+            },
+            {
+              "front": "We found a lost lion",
+              "back": "nous avons trouvé un lion perdu"
+            },
+            {
+              "front": "She fed the hungry cat",
+              "back": "elle a nourri le chat affamé"
+            },
+            {
+              "front": "He saw the small bird",
+              "back": "il a vu le petit oiseau"
+            },
+            {
+              "front": "I heard the loud frog",
+              "back": "j&#39;ai entendu la grenouille bruyante"
+            },
+            {
+              "front": "They caught the big fish",
+              "back": "ils ont attrapé le gros poisson"
+            },
+            {
+              "front": "We lost the wild goat",
+              "back": "nous avons perdu la chèvre sauvage"
+            },
+            {
+              "front": "You saw the cute monkey",
+              "back": "tu as vu le singe mignon"
+            },
+            {
+              "front": "He killed the large snake",
+              "back": "il a tué le grand serpent"
+            },
+            {
+              "front": "We fed the fat pig",
+              "back": "nous avons nourri le gros cochon"
+            },
+            {
+              "front": "She spotted the tall giraffe",
+              "back": "elle a repéré la grande girafe"
+            },
+            {
+              "front": "They heard the big bear",
+              "back": "ils ont entendu le gros ours"
+            },
+            {
+              "front": "I watched the fast deer",
+              "back": "j&#39;ai regardé le cerf rapide"
+            },
+            {
+              "front": "You found the tiny rabbit",
+              "back": "tu as trouvé le petit lapin"
+            },
+            { "front": "He ran from the lions", "back": "il a fui les lions" },
+            {
+              "front": "We met a playful dolphin",
+              "back": "nous avons rencontré un dauphin joueur"
+            },
+            {
+              "front": "She chased the small squirrel",
+              "back": "elle a chassé le petit écureuil"
+            },
+            {
+              "front": "They caught the hungry tiger",
+              "back": "ils ont attrapé le tigre affamé"
+            },
+            {
+              "front": "I saw the huge whale",
+              "back": "j&#39;ai vu l&#39;énorme baleine"
+            },
+            {
+              "front": "We killed the large snake",
+              "back": "nous avons tué le grand serpent"
+            },
+            {
+              "front": "You helped the small chicken",
+              "back": "tu as aidé le petit poulet"
+            },
+            {
+              "front": "He chased the fast frog",
+              "back": "il a poursuivi la grenouille rapide"
+            },
+            {
+              "front": "They found a big bear",
+              "back": "ils ont trouvé un gros ours"
+            },
+            {
+              "front": "We heard the loud birds",
+              "back": "nous avons entendu les oiseaux bruyants"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I saw the big brown dog",
+              "back": "j&#39;ai vu le gros chien brun"
+            },
+            {
+              "front": "They chased the rabbit through fields",
+              "back": "ils ont chassé le lapin à travers les champs"
+            },
+            {
+              "front": "We found a lion in the jungle",
+              "back": "nous avons trouvé un lion dans la jungle"
+            },
+            {
+              "front": "She fed the hungry cat yesterday",
+              "back": "elle a nourri le chat affamé hier"
+            },
+            {
+              "front": "He saw the small bird fly",
+              "back": "il a vu le petit oiseau voler"
+            },
+            {
+              "front": "I heard the loud frog croaking",
+              "back": "j&#39;ai entendu la grenouille coasser bruyamment"
+            },
+            {
+              "front": "They caught the big fish today",
+              "back": "ils ont attrapé le gros poisson aujourd&#39;hui"
+            },
+            {
+              "front": "We lost the wild goat yesterday",
+              "back": "nous avons perdu la chèvre sauvage hier"
+            },
+            {
+              "front": "You saw the cute monkey swinging",
+              "back": "tu as vu le mignon singe se balancer"
+            },
+            {
+              "front": "He killed the large snake last",
+              "back": "il a tué le grand serpent en dernier"
+            },
+            {
+              "front": "We fed the fat pig today",
+              "back": "nous avons nourri le gros cochon aujourd&#39;hui"
+            },
+            {
+              "front": "She spotted the tall giraffe eating",
+              "back": "elle a repéré la grande girafe en train de manger"
+            },
+            {
+              "front": "They heard the big brown bear",
+              "back": "ils ont entendu le gros ours brun"
+            },
+            {
+              "front": "I watched the fast deer running",
+              "back": "j&#39;ai regardé le cerf courir vite"
+            },
+            {
+              "front": "You found the tiny rabbit burrowing",
+              "back": "tu as trouvé le petit lapin en train de creuser"
+            },
+            {
+              "front": "He ran from the hungry lions",
+              "back": "il a fui les lions affamés"
+            },
+            {
+              "front": "We met a playful dolphin yesterday",
+              "back": "nous avons rencontré un dauphin joueur hier"
+            },
+            {
+              "front": "She chased the small squirrel quickly",
+              "back": "elle a rapidement chassé le petit écureuil"
+            },
+            {
+              "front": "They caught the hungry tiger today",
+              "back": "ils ont attrapé le tigre affamé aujourd&#39;hui"
+            },
+            {
+              "front": "I saw the huge whale swimming",
+              "back": "j&#39;ai vu l&#39;énorme baleine nager"
+            },
+            {
+              "front": "We killed the large snake today",
+              "back": "nous avons tué le gros serpent aujourd&#39;hui"
+            },
+            {
+              "front": "You helped the small chicken hatch",
+              "back": "tu as aidé le petit poulet à éclore"
+            },
+            {
+              "front": "He chased the fast frog away",
+              "back": "il a chassé la grenouille rapide"
+            },
+            {
+              "front": "They found a big bear hiding",
+              "back": "ils ont trouvé un gros ours caché"
+            },
+            {
+              "front": "We heard the loud birds chirping",
+              "back": "nous avons entendu le chant bruyant des oiseaux"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "swan will glide", "back": "le cygne planera" },
+            { "front": "kangaroo will hop", "back": "le kangourou va sauter" },
+            { "front": "dog will bark", "back": "le chien va aboyer" },
+            { "front": "cat will jump", "back": "le chat va sauter" },
+            { "front": "bird will sing", "back": "l&#39;oiseau chantera" },
+            { "front": "fish will swim", "back": "les poissons nageront" },
+            { "front": "cow will graze", "back": "la vache va paître" },
+            { "front": "horse will gallop", "back": "le cheval va galoper" },
+            { "front": "chicken will scratch", "back": "le poulet va gratter" },
+            { "front": "goat will climb", "back": "la chèvre va grimper" },
+            { "front": "sheep will bleat", "back": "les moutons bêleront" },
+            { "front": "pig will roll", "back": "le cochon va rouler" },
+            {
+              "front": "rabbit will dash",
+              "back": "le lapin va se précipiter"
+            },
+            { "front": "lion will roar", "back": "le lion rugira" },
+            { "front": "tiger will stalk", "back": "le tigre traquera" },
+            {
+              "front": "elephant will trumpet",
+              "back": "l&#39;éléphant barrira"
+            },
+            { "front": "giraffe will reach", "back": "la girafe atteindra" },
+            { "front": "bear will roam", "back": "l&#39;ours errera" },
+            { "front": "monkey will swing", "back": "le singe se balancera" },
+            { "front": "frog will jump", "back": "la grenouille va sauter" },
+            { "front": "snake will slither", "back": "le serpent glissera" },
+            { "front": "lizard will bask", "back": "le lézard se prélasse" },
+            { "front": "dolphin will jump", "back": "le dauphin va sauter" },
+            { "front": "whale will sing", "back": "la baleine chantera" },
+            {
+              "front": "squirrel will store",
+              "back": "l&#39;écureuil stockera"
+            },
+            { "front": "parrot will squawk", "back": "le perroquet va crier" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will watch birds",
+              "back": "je vais observer les oiseaux"
+            },
+            {
+              "front": "They will chase frogs",
+              "back": "ils chasseront les grenouilles"
+            },
+            {
+              "front": "We will catch fish",
+              "back": "nous allons attraper du poisson"
+            },
+            {
+              "front": "We will hunt pigs",
+              "back": "nous chasserons les cochons"
+            },
+            {
+              "front": "He will find goats",
+              "back": "il trouvera des chèvres"
+            },
+            {
+              "front": "She will spot lions",
+              "back": "elle repérera les lions"
+            },
+            { "front": "I will feed pigs", "back": "je nourrirai les cochons" },
+            {
+              "front": "They will hear birds",
+              "back": "ils entendront les oiseaux"
+            },
+            {
+              "front": "We will see monkeys",
+              "back": "nous verrons des singes"
+            },
+            {
+              "front": "I will catch rabbits",
+              "back": "j&#39;attraperai des lapins"
+            },
+            { "front": "He will hunt deer", "back": "il chassera le cerf" },
+            {
+              "front": "We will find bears",
+              "back": "nous trouverons des ours"
+            },
+            {
+              "front": "She will chase squirrels",
+              "back": "elle chassera les écureuils"
+            },
+            {
+              "front": "They will feed chickens",
+              "back": "ils nourriront les poulets"
+            },
+            {
+              "front": "We will spot giraffes",
+              "back": "nous repérerons des girafes"
+            },
+            { "front": "I will see lions", "back": "je verrai des lions" },
+            {
+              "front": "He will chase snakes",
+              "back": "il chassera les serpents"
+            },
+            {
+              "front": "They will spot whales",
+              "back": "ils repéreront des baleines"
+            },
+            {
+              "front": "We will catch frogs",
+              "back": "nous attraperons des grenouilles"
+            },
+            { "front": "I will find deer", "back": "je trouverai des cerfs" },
+            {
+              "front": "We will see tigers",
+              "back": "nous verrons des tigres"
+            },
+            {
+              "front": "He will hunt rabbits",
+              "back": "il chassera les lapins"
+            },
+            {
+              "front": "They will watch bears",
+              "back": "ils observeront les ours"
+            },
+            {
+              "front": "I will feed horses",
+              "back": "je nourrirai les chevaux"
+            },
+            {
+              "front": "We will catch dolphins",
+              "back": "nous attraperons des dauphins"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            { "front": "I will see a dog", "back": "je verrai un chien" },
+            {
+              "front": "They will chase the rabbit",
+              "back": "ils chasseront le lapin"
+            },
+            {
+              "front": "We will find the lion",
+              "back": "nous trouverons le lion"
+            },
+            {
+              "front": "She will feed the cat",
+              "back": "elle nourrira le chat"
+            },
+            {
+              "front": "He will see the bird",
+              "back": "il verra l&#39;oiseau"
+            },
+            {
+              "front": "I will hear the frog",
+              "back": "j&#39;entendrai la grenouille"
+            },
+            {
+              "front": "They will catch the fish",
+              "back": "ils attraperont le poisson"
+            },
+            {
+              "front": "We will lose the goat",
+              "back": "nous allons perdre la chèvre"
+            },
+            { "front": "You will see a monkey", "back": "tu verras un singe" },
+            {
+              "front": "He will kill the snake",
+              "back": "il tuera le serpent"
+            },
+            {
+              "front": "We will feed the pig",
+              "back": "nous nourrirons le cochon"
+            },
+            {
+              "front": "She will spot a giraffe",
+              "back": "elle repérera une girafe"
+            },
+            {
+              "front": "They will hear the bear",
+              "back": "ils entendront l&#39;ours"
+            },
+            {
+              "front": "I will watch the deer",
+              "back": "je regarderai les cerfs"
+            },
+            {
+              "front": "You will find the rabbit",
+              "back": "tu trouveras le lapin"
+            },
+            { "front": "He will run from lions", "back": "il fuira les lions" },
+            {
+              "front": "We will meet the dolphin",
+              "back": "nous rencontrerons le dauphin"
+            },
+            {
+              "front": "She will chase the squirrel",
+              "back": "elle chassera l&#39;écureuil"
+            },
+            {
+              "front": "They will catch the tiger",
+              "back": "ils attraperont le tigre"
+            },
+            { "front": "I will see a whale", "back": "je verrai une baleine" },
+            {
+              "front": "We will kill the snake",
+              "back": "nous tuerons le serpent"
+            },
+            {
+              "front": "You will help the chicken",
+              "back": "tu aideras le poulet"
+            },
+            {
+              "front": "He will chase the frog",
+              "back": "il chassera la grenouille"
+            },
+            {
+              "front": "They will find a bear",
+              "back": "ils trouveront un ours"
+            },
+            {
+              "front": "We will hear the birds",
+              "back": "nous entendrons les oiseaux"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will watch birds fly today",
+              "back": "je regarderai les oiseaux voler aujourd&#39;hui"
+            },
+            {
+              "front": "They will chase frogs in fields",
+              "back": "ils chasseront les grenouilles dans les champs"
+            },
+            {
+              "front": "We will catch fish tomorrow morning",
+              "back": "nous attraperons du poisson demain matin"
+            },
+            {
+              "front": "We will hunt pigs near forest",
+              "back": "nous chasserons les cochons près de la forêt"
+            },
+            {
+              "front": "He will find goats in mountains",
+              "back": "il trouvera des chèvres dans les montagnes"
+            },
+            {
+              "front": "She will spot lions in jungle",
+              "back": "elle repérera des lions dans la jungle"
+            },
+            {
+              "front": "I will feed pigs every morning",
+              "back": "je nourrirai les cochons tous les matins"
+            },
+            {
+              "front": "They will hear birds singing loudly",
+              "back": "ils entendront les oiseaux chanter fort"
+            },
+            {
+              "front": "We will see monkeys in trees",
+              "back": "nous verrons des singes dans les arbres"
+            },
+            {
+              "front": "I will catch rabbits in fields",
+              "back": "j&#39;attraperai des lapins dans les champs"
+            },
+            {
+              "front": "He will hunt deer in woods",
+              "back": "il chassera le cerf dans les bois"
+            },
+            {
+              "front": "We will find bears in caves",
+              "back": "nous trouverons des ours dans des grottes"
+            },
+            {
+              "front": "She will chase squirrels up trees",
+              "back": "elle chassera les écureuils dans les arbres"
+            },
+            {
+              "front": "They will feed chickens every day",
+              "back": "ils nourriront les poulets tous les jours"
+            },
+            {
+              "front": "We will spot giraffes in plains",
+              "back": "nous repérerons des girafes dans les plaines"
+            },
+            {
+              "front": "I will see lions in zoo",
+              "back": "je verrai des lions au zoo"
+            },
+            {
+              "front": "He will chase snakes in grass",
+              "back": "il chassera les serpents dans l&#39;herbe"
+            },
+            {
+              "front": "They will spot whales in ocean",
+              "back": "ils repéreront des baleines dans l&#39;océan"
+            },
+            {
+              "front": "We will catch frogs by stream",
+              "back": "nous attraperons des grenouilles dans le ruisseau"
+            },
+            {
+              "front": "I will find deer in woods",
+              "back": "je trouverai des cerfs dans les bois"
+            },
+            {
+              "front": "We will see tigers in jungle",
+              "back": "nous verrons des tigres dans la jungle"
+            },
+            {
+              "front": "He will hunt rabbits in fields",
+              "back": "il chassera les lapins dans les champs"
+            },
+            {
+              "front": "They will watch bears in wild",
+              "back": "ils observeront les ours dans la nature"
+            },
+            {
+              "front": "I will feed horses in stable",
+              "back": "je nourrirai les chevaux à l&#39;écurie"
+            },
+            {
+              "front": "We will catch dolphins in sea",
+              "back": "nous attraperons des dauphins en mer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

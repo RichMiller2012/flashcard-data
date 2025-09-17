@@ -1,0 +1,1167 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Cooking",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Boil", "back": "bouillir" },
+            { "front": "Chop", "back": "hacher" },
+            { "front": "Bake", "back": "cuire" },
+            { "front": "Fry", "back": "frire" },
+            { "front": "Grill", "back": "gril" },
+            { "front": "Steam", "back": "vapeur" },
+            { "front": "Sauté", "back": "sauté" },
+            { "front": "Whisk", "back": "fouet" },
+            { "front": "Simmer", "back": "mijoter" },
+            { "front": "Blend", "back": "mélange" },
+            { "front": "Stir", "back": "remuer" },
+            { "front": "Mix", "back": "mélanger" },
+            { "front": "Slice", "back": "tranche" },
+            { "front": "Dice", "back": "dés" },
+            { "front": "Grate", "back": "grille" },
+            { "front": "Peel", "back": "peler" },
+            { "front": "Roast", "back": "rôti" },
+            { "front": "Season", "back": "saison" },
+            { "front": "Mash", "back": "écraser" },
+            { "front": "Knead", "back": "pétrir" },
+            { "front": "Broil", "back": "griller" },
+            { "front": "Toast", "back": "griller" },
+            { "front": "Carve", "back": "tailler" },
+            { "front": "Marinate", "back": "mariner" },
+            { "front": "Poach", "back": "pocher" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Boil water", "back": "faire bouillir l&#39;eau" },
+            { "front": "Chop onions", "back": "hacher les oignons" },
+            { "front": "Bake bread", "back": "faire du pain" },
+            { "front": "Fry eggs", "back": "faire frire des œufs" },
+            { "front": "Grill steak", "back": "steak grillé" },
+            { "front": "Steam vegetables", "back": "légumes à la vapeur" },
+            { "front": "Sauté mushrooms", "back": "champignons sautés" },
+            { "front": "Whisk eggs", "back": "fouetter les œufs" },
+            { "front": "Simmer soup", "back": "soupe mijotée" },
+            {
+              "front": "Blend ingredients",
+              "back": "mélanger les ingrédients"
+            },
+            { "front": "Stir sauce", "back": "stir sauce" },
+            { "front": "Mix flour", "back": "mélanger la farine" },
+            { "front": "Slice tomatoes", "back": "tranches de tomates" },
+            { "front": "Dice peppers", "back": "poivrons en dés" },
+            { "front": "Grate cheese", "back": "râper du fromage" },
+            {
+              "front": "Peel potatoes",
+              "back": "éplucher les pommes de terre"
+            },
+            { "front": "Roast chicken", "back": "poulet rôti" },
+            { "front": "Season meat", "back": "viande de saison" },
+            { "front": "Mash potatoes", "back": "purée de pommes de terre" },
+            { "front": "Knead dough", "back": "pétrir la pâte" },
+            { "front": "Broil fish", "back": "poisson grillé" },
+            { "front": "Toast bread", "back": "pain grillé" },
+            { "front": "Carve turkey", "back": "découper la dinde" },
+            { "front": "Marinate meat", "back": "faire mariner la viande" },
+            { "front": "Poach eggs", "back": "pocher des œufs" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I peel potatoes",
+              "back": "j&#39;épluche des pommes de terre"
+            },
+            { "front": "He is slicing", "back": "il tranche" },
+            { "front": "They are mixing", "back": "ils se mélangent" },
+            { "front": "We are toasting", "back": "nous trinquons" },
+            { "front": "She is boiling", "back": "elle est en ébullition" },
+            { "front": "I chop onions", "back": "je hache des oignons" },
+            { "front": "He grills steak", "back": "il fait griller du steak" },
+            { "front": "They fry eggs", "back": "ils font frire des œufs" },
+            { "front": "We bake bread", "back": "nous faisons du pain" },
+            {
+              "front": "She seasons meat",
+              "back": "elle assaisonne la viande"
+            },
+            { "front": "I whisk eggs", "back": "je fouette les œufs" },
+            { "front": "They stir sauce", "back": "ils remuent la sauce" },
+            {
+              "front": "We simmer soup",
+              "back": "nous faisons mijoter de la soupe"
+            },
+            {
+              "front": "He dices peppers",
+              "back": "il coupe les poivrons en dés"
+            },
+            { "front": "I grate cheese", "back": "je râpe du fromage" },
+            {
+              "front": "They roast chicken",
+              "back": "ils rôtissent du poulet"
+            },
+            {
+              "front": "We steam vegetables",
+              "back": "nous cuisons des légumes à la vapeur"
+            },
+            {
+              "front": "He mashes potatoes",
+              "back": "il écrase des pommes de terre"
+            },
+            { "front": "She kneads dough", "back": "elle pétrit la pâte" },
+            { "front": "I marinate meat", "back": "je fais mariner la viande" },
+            { "front": "They poach eggs", "back": "ils pochent des œufs" },
+            { "front": "He carves turkey", "back": "il découpe la dinde" },
+            {
+              "front": "We are broiling",
+              "back": "nous sommes en train de griller"
+            },
+            { "front": "I am blending", "back": "je mélange" },
+            { "front": "She is sautéing", "back": "elle fait sauter" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I am peeling potatoes",
+              "back": "j&#39;épluche des pommes de terre"
+            },
+            {
+              "front": "He is slicing tomatoes",
+              "back": "il coupe des tomates"
+            },
+            {
+              "front": "They are mixing ingredients",
+              "back": "ils mélangent les ingrédients"
+            },
+            {
+              "front": "We are toasting bread",
+              "back": "nous faisons griller du pain"
+            },
+            {
+              "front": "She is boiling water",
+              "back": "elle fait bouillir de l&#39;eau"
+            },
+            { "front": "I am chopping onions", "back": "je hache des oignons" },
+            {
+              "front": "He is grilling steak",
+              "back": "il fait griller un steak"
+            },
+            {
+              "front": "They are frying eggs",
+              "back": "ils font frire des œufs"
+            },
+            { "front": "We are baking bread", "back": "nous faisons du pain" },
+            {
+              "front": "She is seasoning meat",
+              "back": "elle assaisonne la viande"
+            },
+            { "front": "I am whisking eggs", "back": "je fouette des œufs" },
+            {
+              "front": "They are stirring sauce",
+              "back": "ils remuent la sauce"
+            },
+            {
+              "front": "We are simmering soup",
+              "back": "nous faisons mijoter de la soupe"
+            },
+            {
+              "front": "He is dicing peppers",
+              "back": "il coupe des poivrons en dés"
+            },
+            { "front": "I am grating cheese", "back": "je râpe du fromage" },
+            {
+              "front": "They are roasting chicken",
+              "back": "ils font rôtir du poulet"
+            },
+            {
+              "front": "We are steaming vegetables",
+              "back": "nous cuisons des légumes à la vapeur"
+            },
+            {
+              "front": "He is mashing potatoes",
+              "back": "il écrase des pommes de terre"
+            },
+            { "front": "She is kneading dough", "back": "elle pétrit la pâte" },
+            {
+              "front": "I am marinating meat",
+              "back": "je fais mariner de la viande"
+            },
+            {
+              "front": "They are poaching eggs",
+              "back": "ils pochent des œufs"
+            },
+            {
+              "front": "He is carving turkey",
+              "back": "il découpe de la dinde"
+            },
+            {
+              "front": "We are broiling fish",
+              "back": "nous faisons griller du poisson"
+            },
+            { "front": "I am blending soup", "back": "je mixe de la soupe" },
+            {
+              "front": "She is sautéing mushrooms",
+              "back": "elle fait sauter des champignons"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am peeling the potatoes",
+              "back": "j&#39;épluche les pommes de terre"
+            },
+            {
+              "front": "He is slicing fresh tomatoes",
+              "back": "il coupe des tomates fraîches"
+            },
+            {
+              "front": "They are mixing the ingredients",
+              "back": "ils mélangent les ingrédients"
+            },
+            {
+              "front": "We are toasting the bread",
+              "back": "nous faisons griller le pain"
+            },
+            {
+              "front": "She is boiling hot water",
+              "back": "elle fait bouillir de l&#39;eau chaude"
+            },
+            {
+              "front": "I am chopping some onions",
+              "back": "je hache des oignons"
+            },
+            {
+              "front": "He is grilling juicy steak",
+              "back": "il fait griller un steak juteux"
+            },
+            {
+              "front": "They are frying scrambled eggs",
+              "back": "ils font frire des œufs brouillés"
+            },
+            {
+              "front": "We are baking fresh bread",
+              "back": "nous cuisons du pain frais"
+            },
+            {
+              "front": "She is seasoning the meat",
+              "back": "elle assaisonne la viande"
+            },
+            {
+              "front": "I am whisking the eggs",
+              "back": "je fouette les œufs"
+            },
+            {
+              "front": "They are stirring the sauce",
+              "back": "ils remuent la sauce"
+            },
+            {
+              "front": "We are simmering the soup",
+              "back": "nous faisons mijoter la soupe"
+            },
+            {
+              "front": "He is dicing green peppers",
+              "back": "il coupe des poivrons verts en dés"
+            },
+            {
+              "front": "I am grating cheddar cheese",
+              "back": "je râpe du cheddar"
+            },
+            {
+              "front": "They are roasting the chicken",
+              "back": "ils rôtissent le poulet"
+            },
+            {
+              "front": "We are steaming fresh vegetables",
+              "back": "nous cuisons des légumes frais à la vapeur"
+            },
+            {
+              "front": "He is mashing the potatoes",
+              "back": "il écrase les pommes de terre"
+            },
+            {
+              "front": "She is kneading soft dough",
+              "back": "elle pétrit une pâte molle"
+            },
+            {
+              "front": "I am marinating the meat",
+              "back": "je fais mariner la viande"
+            },
+            {
+              "front": "They are poaching two eggs",
+              "back": "ils pochent deux œufs"
+            },
+            {
+              "front": "He is carving the turkey",
+              "back": "il découpe la dinde"
+            },
+            {
+              "front": "We are broiling some fish",
+              "back": "nous faisons griller du poisson"
+            },
+            { "front": "I am blending the soup", "back": "je mixe la soupe" },
+            {
+              "front": "She is sautéing the mushrooms",
+              "back": "elle fait sauter les champignons"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am peeling the large potatoes",
+              "back": "j&#39;épluche les grosses pommes de terre"
+            },
+            {
+              "front": "He is slicing fresh red tomatoes",
+              "back": "il coupe des tomates rouges fraîches"
+            },
+            {
+              "front": "They are mixing all the ingredients",
+              "back": "ils mélangent tous les ingrédients"
+            },
+            {
+              "front": "We are toasting the wheat bread",
+              "back": "nous faisons griller le pain de blé"
+            },
+            {
+              "front": "She is boiling the hot water",
+              "back": "elle fait bouillir l&#39;eau chaude"
+            },
+            {
+              "front": "I am chopping some yellow onions",
+              "back": "je hache des oignons jaunes"
+            },
+            {
+              "front": "He is grilling the juicy steak",
+              "back": "il fait griller le steak juteux"
+            },
+            {
+              "front": "They are frying the scrambled eggs",
+              "back": "ils font frire les œufs brouillés"
+            },
+            {
+              "front": "We are baking the fresh bread",
+              "back": "nous cuisons le pain frais"
+            },
+            {
+              "front": "She is seasoning the marinated meat",
+              "back": "elle assaisonne la viande marinée"
+            },
+            {
+              "front": "I am whisking the beaten eggs",
+              "back": "je fouette les œufs battus"
+            },
+            {
+              "front": "They are stirring the thick sauce",
+              "back": "ils remuent la sauce épaisse"
+            },
+            {
+              "front": "We are simmering the vegetable soup",
+              "back": "nous faisons mijoter la soupe aux légumes"
+            },
+            {
+              "front": "He is dicing the green peppers",
+              "back": "il coupe les poivrons verts en dés"
+            },
+            {
+              "front": "I am grating some cheddar cheese",
+              "back": "je râpe du cheddar"
+            },
+            {
+              "front": "They are roasting the whole chicken",
+              "back": "ils rôtissent le poulet entier"
+            },
+            {
+              "front": "We are steaming the fresh vegetables",
+              "back": "nous cuisons les légumes frais à la vapeur"
+            },
+            {
+              "front": "He is mashing the boiled potatoes",
+              "back": "il écrase les pommes de terre bouillies"
+            },
+            {
+              "front": "She is kneading the soft dough",
+              "back": "elle pétrit la pâte molle"
+            },
+            {
+              "front": "I am marinating the seasoned meat",
+              "back": "je fais mariner la viande assaisonnée"
+            },
+            {
+              "front": "They are poaching two fresh eggs",
+              "back": "ils pochent deux œufs frais"
+            },
+            {
+              "front": "He is carving the cooked turkey",
+              "back": "il découpe la dinde cuite"
+            },
+            {
+              "front": "We are broiling the fresh fish",
+              "back": "nous faisons griller le poisson frais"
+            },
+            {
+              "front": "I am blending the creamy soup",
+              "back": "je mixe la soupe crémeuse"
+            },
+            {
+              "front": "She is sautéing the sliced mushrooms",
+              "back": "elle fait sauter les champignons émincés"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I sliced bread", "back": "j&#39;ai tranché du pain" },
+            { "front": "Fish was cooked", "back": "le poisson était cuit" },
+            { "front": "Soup was creamy", "back": "la soupe était crémeuse" },
+            { "front": "They ate chicken", "back": "ils ont mangé du poulet" },
+            {
+              "front": "She boiled water",
+              "back": "elle a fait bouillir de l&#39;eau"
+            },
+            { "front": "He grilled steak", "back": "il a grillé le steak" },
+            {
+              "front": "We chopped onions",
+              "back": "nous avons haché des oignons"
+            },
+            {
+              "front": "They fried eggs",
+              "back": "ils ont fait des œufs au plat"
+            },
+            { "front": "I baked bread", "back": "j&#39;ai fait du pain" },
+            {
+              "front": "We seasoned meat",
+              "back": "nous avons assaisonné la viande"
+            },
+            {
+              "front": "She mashed potatoes",
+              "back": "elle a écrasé des pommes de terre"
+            },
+            { "front": "He stirred sauce", "back": "il a remué la sauce" },
+            {
+              "front": "We steamed vegetables",
+              "back": "nous avons cuit des légumes à la vapeur"
+            },
+            { "front": "I roasted chicken", "back": "j&#39;ai rôti du poulet" },
+            {
+              "front": "They grilled vegetables",
+              "back": "ils ont grillé des légumes"
+            },
+            { "front": "He broiled fish", "back": "il a grillé du poisson" },
+            {
+              "front": "She diced peppers",
+              "back": "elle a coupé des poivrons en dés"
+            },
+            { "front": "I grated cheese", "back": "j&#39;ai râpé du fromage" },
+            { "front": "They poached eggs", "back": "ils ont poché des œufs" },
+            {
+              "front": "He sautéed mushrooms",
+              "back": "il a fait sauter des champignons"
+            },
+            { "front": "We whisked eggs", "back": "nous avons battu des œufs" },
+            {
+              "front": "They mixed flour",
+              "back": "ils ont mélangé de la farine"
+            },
+            {
+              "front": "I simmered soup",
+              "back": "j&#39;ai mijoté de la soupe"
+            },
+            {
+              "front": "She marinated meat",
+              "back": "elle a fait mariner la viande"
+            },
+            { "front": "He carved turkey", "back": "il a sculpté la dinde" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I sliced fresh bread",
+              "back": "j&#39;ai tranché du pain frais"
+            },
+            { "front": "The fish was cooked", "back": "le poisson était cuit" },
+            {
+              "front": "The soup was creamy",
+              "back": "la soupe était crémeuse"
+            },
+            {
+              "front": "They ate grilled chicken",
+              "back": "ils ont mangé du poulet grillé"
+            },
+            {
+              "front": "She boiled hot water",
+              "back": "elle a fait bouillir de l&#39;eau chaude"
+            },
+            {
+              "front": "He grilled juicy steak",
+              "back": "il a grillé un steak juteux"
+            },
+            {
+              "front": "We chopped yellow onions",
+              "back": "nous avons haché des oignons jaunes"
+            },
+            {
+              "front": "They fried scrambled eggs",
+              "back": "ils ont fait des œufs brouillés au plat"
+            },
+            {
+              "front": "I baked fresh bread",
+              "back": "j&#39;ai fait du pain frais"
+            },
+            {
+              "front": "We seasoned the meat",
+              "back": "nous avons assaisonné la viande"
+            },
+            {
+              "front": "She mashed boiled potatoes",
+              "back": "elle a écrasé des pommes de terre bouillies"
+            },
+            { "front": "He stirred the sauce", "back": "il a remué la sauce" },
+            {
+              "front": "We steamed fresh vegetables",
+              "back": "nous avons cuit des légumes frais à la vapeur"
+            },
+            {
+              "front": "I roasted whole chicken",
+              "back": "j&#39;ai rôti un poulet entier"
+            },
+            {
+              "front": "They grilled the vegetables",
+              "back": "ils ont grillé les légumes"
+            },
+            {
+              "front": "He broiled the fish",
+              "back": "il a grillé le poisson"
+            },
+            {
+              "front": "She diced green peppers",
+              "back": "elle a coupé des poivrons verts en dés"
+            },
+            {
+              "front": "I grated cheddar cheese",
+              "back": "j&#39;ai râpé du cheddar"
+            },
+            {
+              "front": "They poached fresh eggs",
+              "back": "ils ont poché des œufs frais"
+            },
+            {
+              "front": "He sautéed wild mushrooms",
+              "back": "il a fait sauter des champignons sauvages"
+            },
+            {
+              "front": "We whisked the eggs",
+              "back": "nous avons battu les œufs"
+            },
+            {
+              "front": "They mixed the flour",
+              "back": "ils ont mélangé la farine"
+            },
+            {
+              "front": "I simmered vegetable soup",
+              "back": "j&#39;ai mijoté une soupe de légumes"
+            },
+            {
+              "front": "She marinated the meat",
+              "back": "elle a mariné la viande"
+            },
+            { "front": "He carved the turkey", "back": "il a découpé la dinde" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I sliced the fresh bread",
+              "back": "j&#39;ai coupé le pain frais"
+            },
+            {
+              "front": "The fish was perfectly cooked",
+              "back": "le poisson était parfaitement cuit"
+            },
+            {
+              "front": "The soup was very creamy",
+              "back": "la soupe était très crémeuse"
+            },
+            {
+              "front": "They ate the grilled chicken",
+              "back": "ils ont mangé le poulet grillé"
+            },
+            {
+              "front": "She boiled the hot water",
+              "back": "elle a fait bouillir l&#39;eau chaude"
+            },
+            {
+              "front": "He grilled the juicy steak",
+              "back": "il a grillé le steak juteux"
+            },
+            {
+              "front": "We chopped the yellow onions",
+              "back": "nous avons haché les oignons jaunes"
+            },
+            {
+              "front": "They fried the scrambled eggs",
+              "back": "ils ont fait frire les œufs brouillés"
+            },
+            {
+              "front": "I baked some fresh bread",
+              "back": "j&#39;ai fait cuire du pain frais"
+            },
+            {
+              "front": "We seasoned the roasted meat",
+              "back": "nous avons assaisonné la viande rôtie"
+            },
+            {
+              "front": "She mashed the boiled potatoes",
+              "back": "elle a écrasé les pommes de terre bouillies"
+            },
+            {
+              "front": "He stirred the thick sauce",
+              "back": "il a remué la sauce épaisse"
+            },
+            {
+              "front": "We steamed all the vegetables",
+              "back": "nous avons cuit tous les légumes à la vapeur"
+            },
+            {
+              "front": "I roasted the whole chicken",
+              "back": "j&#39;ai rôti le poulet entier"
+            },
+            {
+              "front": "They grilled the green vegetables",
+              "back": "ils ont grillé les légumes verts"
+            },
+            {
+              "front": "He broiled the fresh fish",
+              "back": "il a fait griller le poisson frais"
+            },
+            {
+              "front": "She diced the red peppers",
+              "back": "elle a coupé les poivrons rouges en dés"
+            },
+            {
+              "front": "I grated some cheddar cheese",
+              "back": "j&#39;ai râpé du cheddar"
+            },
+            {
+              "front": "They poached the large eggs",
+              "back": "ils ont poché les gros œufs"
+            },
+            {
+              "front": "He sautéed the wild mushrooms",
+              "back": "il a fait sauter les champignons sauvages"
+            },
+            {
+              "front": "We whisked all the eggs",
+              "back": "nous avons battu tous les œufs"
+            },
+            {
+              "front": "They mixed all the flour",
+              "back": "ils ont mélangé toute la farine"
+            },
+            {
+              "front": "I simmered the vegetable soup",
+              "back": "j&#39;ai mijoté la soupe aux légumes"
+            },
+            {
+              "front": "She marinated the seasoned meat",
+              "back": "elle a mariné la viande assaisonnée"
+            },
+            {
+              "front": "He carved the big turkey",
+              "back": "il a découpé la grosse dinde"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I sliced the fresh baked bread",
+              "back": "j&#39;ai coupé du pain frais"
+            },
+            {
+              "front": "The fish was cooked to perfection",
+              "back": "le poisson était cuit à la perfection"
+            },
+            {
+              "front": "The soup was incredibly creamy yesterday",
+              "back": "la soupe était incroyablement crémeuse hier"
+            },
+            {
+              "front": "They ate the grilled chicken together",
+              "back": "ils ont mangé le poulet grillé ensemble"
+            },
+            {
+              "front": "She boiled the hot water quickly",
+              "back": "elle a fait bouillir l&#39;eau chaude rapidement"
+            },
+            {
+              "front": "He grilled the juicy steak perfectly",
+              "back": "il a parfaitement grillé le steak juteux"
+            },
+            {
+              "front": "We chopped the yellow onions finely",
+              "back": "nous avons haché finement les oignons jaunes"
+            },
+            {
+              "front": "They fried the scrambled eggs quickly",
+              "back": "ils ont fait frire les œufs brouillés rapidement"
+            },
+            {
+              "front": "I baked the fresh bread yesterday",
+              "back": "j&#39;ai fait cuire du pain frais hier"
+            },
+            {
+              "front": "We seasoned the roasted meat carefully",
+              "back": "nous avons soigneusement assaisonné la viande rôtie"
+            },
+            {
+              "front": "She mashed the boiled potatoes gently",
+              "back": "elle a écrasé doucement les pommes de terre bouillies"
+            },
+            {
+              "front": "He stirred the thick sauce slowly",
+              "back": "il a remué lentement la sauce épaisse"
+            },
+            {
+              "front": "We steamed all the fresh vegetables",
+              "back": "nous avons cuit à la vapeur tous les légumes frais"
+            },
+            {
+              "front": "I roasted the whole chicken perfectly",
+              "back": "j&#39;ai parfaitement rôti le poulet entier"
+            },
+            {
+              "front": "They grilled the green vegetables together",
+              "back": "ils ont grillé les légumes verts ensemble"
+            },
+            {
+              "front": "He broiled the fresh fish quickly",
+              "back": "il a rapidement grillé le poisson frais"
+            },
+            {
+              "front": "She diced the red peppers perfectly",
+              "back": "elle a coupé les poivrons rouges parfaitement"
+            },
+            {
+              "front": "I grated some cheddar cheese yesterday",
+              "back": "j&#39;ai râpé du cheddar hier"
+            },
+            {
+              "front": "They poached the large eggs carefully",
+              "back": "ils ont poché les gros œufs avec soin"
+            },
+            {
+              "front": "He sautéed the wild mushrooms quickly",
+              "back": "il a fait sauter les champignons sauvages rapidement"
+            },
+            {
+              "front": "We whisked all the eggs thoroughly",
+              "back": "nous avons bien battu tous les œufs"
+            },
+            {
+              "front": "They mixed all the flour carefully",
+              "back": "ils ont soigneusement mélangé toute la farine"
+            },
+            {
+              "front": "I simmered the vegetable soup slowly",
+              "back": "j&#39;ai fait mijoter la soupe de légumes lentement"
+            },
+            {
+              "front": "She marinated the seasoned meat overnight",
+              "back": "elle a fait mariner la viande assaisonnée pendant la nuit"
+            },
+            {
+              "front": "He carved the big turkey perfectly",
+              "back": "il a parfaitement découpé la grosse dinde"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will boil water", "back": "fera bouillir l&#39;eau" },
+            { "front": "Will mix vegetables", "back": "mélangera les légumes" },
+            { "front": "Will season meat", "back": "assaisonnera la viande" },
+            { "front": "Will slice bread", "back": "va couper du pain" },
+            { "front": "Will grill steak", "back": "fera griller un steak" },
+            { "front": "Will fry eggs", "back": "fera frire des œufs" },
+            { "front": "Will bake bread", "back": "fera du pain" },
+            { "front": "Will roast chicken", "back": "va rôtir du poulet" },
+            {
+              "front": "Will simmer soup",
+              "back": "va faire mijoter la soupe"
+            },
+            { "front": "Will sauté onions", "back": "fera sauter des oignons" },
+            { "front": "Will stir sauce", "back": "va remuer la sauce" },
+            { "front": "Will knead dough", "back": "va pétrir la pâte" },
+            { "front": "Will toast bread", "back": "fera griller du pain" },
+            { "front": "Will marinate meat", "back": "fera mariner la viande" },
+            { "front": "Will blend soup", "back": "mélangera la soupe" },
+            { "front": "Will broil fish", "back": "fera griller du poisson" },
+            {
+              "front": "Will dice peppers",
+              "back": "coupera les poivrons en dés"
+            },
+            { "front": "Will whisk eggs", "back": "fouettera les œufs" },
+            { "front": "Will poach eggs", "back": "va pocher des œufs" },
+            { "front": "Will grate cheese", "back": "râpera du fromage" },
+            { "front": "Will chop onions", "back": "hachera les oignons" },
+            {
+              "front": "Will peel potatoes",
+              "back": "épluchera les pommes de terre"
+            },
+            {
+              "front": "Will steam vegetables",
+              "back": "fera cuire des légumes à la vapeur"
+            },
+            { "front": "Will carve turkey", "back": "découpera la dinde" },
+            {
+              "front": "Will mash potatoes",
+              "back": "va écraser des pommes de terre"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will boil water",
+              "back": "je vais faire bouillir de l&#39;eau"
+            },
+            {
+              "front": "They will mix vegetables",
+              "back": "ils vont mélanger les légumes"
+            },
+            {
+              "front": "She will season meat",
+              "back": "elle assaisonnera la viande"
+            },
+            {
+              "front": "We will slice bread",
+              "back": "nous allons couper du pain"
+            },
+            {
+              "front": "He will grill steak",
+              "back": "il va griller du steak"
+            },
+            {
+              "front": "They will fry eggs",
+              "back": "ils feront frire des œufs"
+            },
+            {
+              "front": "We will bake bread",
+              "back": "nous allons faire du pain"
+            },
+            {
+              "front": "She will roast chicken",
+              "back": "elle va rôtir du poulet"
+            },
+            {
+              "front": "I will simmer soup",
+              "back": "je vais faire mijoter la soupe"
+            },
+            {
+              "front": "They will sauté onions",
+              "back": "ils feront revenir des oignons"
+            },
+            { "front": "He will stir sauce", "back": "il remuera la sauce" },
+            {
+              "front": "We will knead dough",
+              "back": "nous allons pétrir la pâte"
+            },
+            {
+              "front": "She will toast bread",
+              "back": "elle va griller du pain"
+            },
+            {
+              "front": "I will marinate meat",
+              "back": "je vais faire mariner la viande"
+            },
+            {
+              "front": "They will blend soup",
+              "back": "ils vont mélanger la soupe"
+            },
+            {
+              "front": "He will broil fish",
+              "back": "il fera griller du poisson"
+            },
+            {
+              "front": "We will dice peppers",
+              "back": "nous allons couper les poivrons en dés"
+            },
+            {
+              "front": "I will whisk eggs",
+              "back": "je vais fouetter les œufs"
+            },
+            {
+              "front": "She will poach eggs",
+              "back": "elle va pocher des œufs"
+            },
+            {
+              "front": "They will grate cheese",
+              "back": "ils râperont du fromage"
+            },
+            {
+              "front": "He will chop onions",
+              "back": "il va hacher des oignons"
+            },
+            {
+              "front": "We will peel potatoes",
+              "back": "nous allons éplucher les pommes de terre"
+            },
+            {
+              "front": "I will steam vegetables",
+              "back": "je vais cuire des légumes à la vapeur"
+            },
+            {
+              "front": "She will carve turkey",
+              "back": "elle découpera la dinde"
+            },
+            {
+              "front": "They will mash potatoes",
+              "back": "ils vont écraser des pommes de terre"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will boil the water",
+              "back": "je vais faire bouillir l&#39;eau"
+            },
+            {
+              "front": "They will mix the vegetables",
+              "back": "ils vont mélanger les légumes"
+            },
+            {
+              "front": "She will season the meat",
+              "back": "elle assaisonnera la viande"
+            },
+            {
+              "front": "We will slice the bread",
+              "back": "nous allons couper le pain"
+            },
+            {
+              "front": "He will grill the steak",
+              "back": "il va griller le steak"
+            },
+            {
+              "front": "They will fry the eggs",
+              "back": "ils feront frire les œufs"
+            },
+            {
+              "front": "We will bake the bread",
+              "back": "nous allons faire cuire le pain"
+            },
+            {
+              "front": "She will roast the chicken",
+              "back": "elle va rôtir le poulet"
+            },
+            {
+              "front": "I will simmer the soup",
+              "back": "je vais faire mijoter la soupe"
+            },
+            {
+              "front": "They will sauté the onions",
+              "back": "ils feront revenir les oignons"
+            },
+            {
+              "front": "He will stir the sauce",
+              "back": "il remuera la sauce"
+            },
+            {
+              "front": "We will knead the dough",
+              "back": "nous allons pétrir la pâte"
+            },
+            {
+              "front": "She will toast the bread",
+              "back": "elle va griller le pain"
+            },
+            {
+              "front": "I will marinate the meat",
+              "back": "je vais faire mariner la viande"
+            },
+            {
+              "front": "They will blend the soup",
+              "back": "ils vont mixer la soupe"
+            },
+            {
+              "front": "He will broil the fish",
+              "back": "il fera griller le poisson"
+            },
+            {
+              "front": "We will dice the peppers",
+              "back": "nous allons couper les poivrons en dés"
+            },
+            {
+              "front": "I will whisk the eggs",
+              "back": "je vais fouetter les œufs"
+            },
+            {
+              "front": "She will poach the eggs",
+              "back": "elle pochera les œufs"
+            },
+            {
+              "front": "They will grate the cheese",
+              "back": "ils râperont le fromage"
+            },
+            {
+              "front": "He will chop the onions",
+              "back": "il hachera les oignons"
+            },
+            {
+              "front": "We will peel the potatoes",
+              "back": "nous allons éplucher les pommes de terre"
+            },
+            {
+              "front": "I will steam the vegetables",
+              "back": "je vais cuire les légumes à la vapeur"
+            },
+            {
+              "front": "She will carve the turkey",
+              "back": "elle découpera la dinde"
+            },
+            {
+              "front": "They will mash the potatoes",
+              "back": "ils vont écraser les pommes de terre"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will boil the water tomorrow",
+              "back": "je ferai bouillir l&#39;eau demain"
+            },
+            {
+              "front": "They will mix the vegetables carefully",
+              "back": "ils mélangeront soigneusement les légumes"
+            },
+            {
+              "front": "She will season the meat well",
+              "back": "elle assaisonnera bien la viande"
+            },
+            {
+              "front": "We will slice the bread evenly",
+              "back": "nous allons couper le pain uniformément"
+            },
+            {
+              "front": "He will grill the steak perfectly",
+              "back": "il grillera parfaitement le steak"
+            },
+            {
+              "front": "They will fry the eggs quickly",
+              "back": "ils feront frire les œufs rapidement"
+            },
+            {
+              "front": "We will bake the bread tomorrow",
+              "back": "nous ferons cuire le pain demain"
+            },
+            {
+              "front": "She will roast the chicken slowly",
+              "back": "elle va rôtir le poulet lentement"
+            },
+            {
+              "front": "I will simmer the soup gently",
+              "back": "je vais laisser mijoter la soupe doucement"
+            },
+            {
+              "front": "They will sauté the onions tonight",
+              "back": "ils feront revenir les oignons ce soir"
+            },
+            {
+              "front": "He will stir the sauce slowly",
+              "back": "il remuera la sauce lentement"
+            },
+            {
+              "front": "We will knead the dough soon",
+              "back": "nous allons bientôt pétrir la pâte"
+            },
+            {
+              "front": "She will toast the bread later",
+              "back": "elle fera griller le pain plus tard"
+            },
+            {
+              "front": "I will marinate the meat overnight",
+              "back": "je vais faire mariner la viande toute la nuit"
+            },
+            {
+              "front": "They will blend the soup tomorrow",
+              "back": "ils mixeront la soupe demain"
+            },
+            {
+              "front": "He will broil the fish tonight",
+              "back": "il fera griller le poisson ce soir"
+            },
+            {
+              "front": "We will dice the peppers carefully",
+              "back": "nous allons couper les poivrons en dés avec précaution"
+            },
+            {
+              "front": "I will whisk the eggs thoroughly",
+              "back": "je vais bien battre les œufs"
+            },
+            {
+              "front": "She will poach the eggs perfectly",
+              "back": "elle pochera parfaitement les œufs"
+            },
+            {
+              "front": "They will grate the cheese quickly",
+              "back": "ils râperont le fromage rapidement"
+            },
+            {
+              "front": "He will chop the onions finely",
+              "back": "il hachera finement les oignons"
+            },
+            {
+              "front": "We will peel the potatoes later",
+              "back": "nous éplucherons les pommes de terre plus tard"
+            },
+            {
+              "front": "I will steam the vegetables tomorrow",
+              "back": "je ferai cuire les légumes à la vapeur demain"
+            },
+            {
+              "front": "She will carve the turkey perfectly",
+              "back": "elle découpera parfaitement la dinde"
+            },
+            {
+              "front": "They will mash the potatoes soon",
+              "back": "ils vont bientôt écraser les pommes de terre"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

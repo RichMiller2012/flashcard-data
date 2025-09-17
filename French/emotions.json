@@ -1,0 +1,1153 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Emotions",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Happy", "back": "heureux" },
+            { "front": "Sad", "back": "triste" },
+            { "front": "Angry", "back": "en colère" },
+            { "front": "Excited", "back": "excité" },
+            { "front": "Nervous", "back": "nerveux" },
+            { "front": "Scared", "back": "effrayé" },
+            { "front": "Calm", "back": "calme" },
+            { "front": "Confused", "back": "confus" },
+            { "front": "Anxious", "back": "anxieux" },
+            { "front": "Surprised", "back": "surpris" },
+            { "front": "Frustrated", "back": "frustré" },
+            { "front": "Embarrassed", "back": "gêné" },
+            { "front": "Jealous", "back": "jaloux" },
+            { "front": "Grateful", "back": "reconnaissant" },
+            { "front": "Proud", "back": "fier" },
+            { "front": "Curious", "back": "curieux" },
+            { "front": "Lonely", "back": "solitaire" },
+            { "front": "Tired", "back": "fatigué" },
+            { "front": "Relaxed", "back": "détendu" },
+            { "front": "Hopeful", "back": "optimiste" },
+            { "front": "Bored", "back": "ennuyé" },
+            { "front": "Shocked", "back": "choqué" },
+            { "front": "Guilty", "back": "coupable" },
+            { "front": "Confident", "back": "confiant" },
+            { "front": "Ashamed", "back": "honteux" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Jealous man", "back": "homme jaloux" },
+            { "front": "Surprised cat", "back": "chat surpris" },
+            { "front": "Anxious boy", "back": "garçon anxieux" },
+            { "front": "Calm captain", "back": "capitaine calme" },
+            { "front": "Nervous performer", "back": "artiste nerveux" },
+            { "front": "Excited child", "back": "enfant excité" },
+            { "front": "Tired worker", "back": "travailleur fatigué" },
+            { "front": "Angry driver", "back": "conducteur en colère" },
+            { "front": "Happy friend", "back": "ami heureux" },
+            { "front": "Sad dog", "back": "chien triste" },
+            { "front": "Relaxed tourist", "back": "touriste détendu" },
+            { "front": "Lonely artist", "back": "artiste solitaire" },
+            { "front": "Grateful student", "back": "étudiant reconnaissant" },
+            { "front": "Confused traveler", "back": "voyageur confus" },
+            { "front": "Scared child", "back": "enfant effrayé" },
+            {
+              "front": "Hopeful teacher",
+              "back": "enseignant plein d&#39;espoir"
+            },
+            { "front": "Frustrated athlete", "back": "athlète frustré" },
+            { "front": "Curious scientist", "back": "scientifique curieux" },
+            { "front": "Embarrassed speaker", "back": "orateur embarrassé" },
+            { "front": "Proud parent", "back": "parent fier" },
+            { "front": "Shocked audience", "back": "public choqué" },
+            { "front": "Bored student", "back": "étudiant qui s&#39;ennuie" },
+            { "front": "Guilty suspect", "back": "suspect coupable" },
+            { "front": "Confident leader", "back": "leader confiant" },
+            { "front": "Ashamed child", "back": "enfant honteux" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I am bored", "back": "je m&#39;ennuie" },
+            { "front": "He is nervous", "back": "il est nerveux" },
+            { "front": "She is excited", "back": "elle est excitée" },
+            { "front": "They are lonely", "back": "ils sont seuls" },
+            { "front": "I feel frustrated", "back": "je me sens frustré" },
+            { "front": "He looks confused", "back": "il a l&#39;air confus" },
+            { "front": "She stays calm", "back": "elle reste calme" },
+            { "front": "They seem anxious", "back": "ils semblent anxieux" },
+            { "front": "Sad dog lies", "back": "le chien triste ment" },
+            {
+              "front": "Angry driver yells",
+              "back": "un conducteur en colère crie"
+            },
+            {
+              "front": "Jealous man complains",
+              "back": "un homme jaloux se plaint"
+            },
+            {
+              "front": "Calm captain leads",
+              "back": "le capitaine calme dirige"
+            },
+            {
+              "front": "Anxious boy fidgets",
+              "back": "garçon anxieux qui s&#39;agite"
+            },
+            { "front": "Happy friend laughs", "back": "un ami heureux rit" },
+            { "front": "Surprised cat jumps", "back": "le chat surpris saute" },
+            {
+              "front": "Tired worker rests",
+              "back": "un travailleur fatigué se repose"
+            },
+            {
+              "front": "Confident leader speaks",
+              "back": "un leader confiant parle"
+            },
+            { "front": "Proud parent smiles", "back": "un parent fier sourit" },
+            {
+              "front": "Curious scientist observes",
+              "back": "un scientifique curieux observe"
+            },
+            {
+              "front": "Frustrated athlete quits",
+              "back": "un athlète frustré abandonne"
+            },
+            {
+              "front": "Nervous performer shakes",
+              "back": "l&#39;artiste nerveux tremble"
+            },
+            {
+              "front": "Hopeful teacher teaches",
+              "back": "un enseignant plein d&#39;espoir enseigne"
+            },
+            {
+              "front": "He feels grateful",
+              "back": "il se sent reconnaissant"
+            },
+            { "front": "She feels guilty", "back": "elle se sent coupable" },
+            { "front": "I feel ashamed", "back": "j&#39;ai honte" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I am sad now", "back": "je suis triste maintenant" },
+            { "front": "He is very jealous", "back": "il est très jaloux" },
+            {
+              "front": "Dogs are happy animals",
+              "back": "les chiens sont des animaux heureux"
+            },
+            {
+              "front": "The performer is nervous",
+              "back": "l&#39;artiste est nerveux"
+            },
+            { "front": "She is very excited", "back": "elle est très excitée" },
+            {
+              "front": "They feel extremely anxious",
+              "back": "ils se sentent extrêmement anxieux"
+            },
+            { "front": "I am feeling calm", "back": "je me sens calme" },
+            {
+              "front": "He is looking surprised",
+              "back": "il a l&#39;air surpris"
+            },
+            {
+              "front": "The child feels scared",
+              "back": "l&#39;enfant a peur"
+            },
+            { "front": "We are very proud", "back": "nous sommes très fiers" },
+            {
+              "front": "My friend seems confused",
+              "back": "mon ami semble confus"
+            },
+            {
+              "front": "The audience looks shocked",
+              "back": "le public a l&#39;air choqué"
+            },
+            {
+              "front": "The scientist is curious",
+              "back": "le scientifique est curieux"
+            },
+            {
+              "front": "I am grateful today",
+              "back": "je suis reconnaissant aujourd&#39;hui"
+            },
+            {
+              "front": "She seems very lonely",
+              "back": "elle semble très seule"
+            },
+            {
+              "front": "He feels quite relaxed",
+              "back": "il se sent assez détendu"
+            },
+            {
+              "front": "The athlete is frustrated",
+              "back": "l&#39;athlète est frustré"
+            },
+            {
+              "front": "I am really hopeful",
+              "back": "j&#39;ai vraiment bon espoir"
+            },
+            {
+              "front": "The student feels embarrassed",
+              "back": "l&#39;étudiant se sent gêné"
+            },
+            {
+              "front": "They are feeling tired",
+              "back": "ils se sentent fatigués"
+            },
+            { "front": "He feels very calm", "back": "il se sent très calme" },
+            {
+              "front": "She is incredibly confident",
+              "back": "elle est incroyablement confiante"
+            },
+            {
+              "front": "My dog looks sad",
+              "back": "mon chien a l&#39;air triste"
+            },
+            {
+              "front": "The child seems anxious",
+              "back": "l&#39;enfant semble anxieux"
+            },
+            { "front": "I am very happy", "back": "Je suis très heureux" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "She is feeling very hopeful",
+              "back": "elle se sent très optimiste"
+            },
+            {
+              "front": "My dog looks really happy",
+              "back": "mon chien a l&#39;air vraiment heureux"
+            },
+            {
+              "front": "The athlete failed the test",
+              "back": "l&#39;athlète a échoué au test"
+            },
+            {
+              "front": "The boy is anxious today",
+              "back": "le garçon est anxieux aujourd&#39;hui"
+            },
+            {
+              "front": "He is feeling very jealous",
+              "back": "il se sent très jaloux"
+            },
+            {
+              "front": "I am feeling quite relaxed",
+              "back": "je me sens assez détendu"
+            },
+            {
+              "front": "They are really excited now",
+              "back": "ils sont vraiment excités maintenant"
+            },
+            {
+              "front": "The performer feels very nervous",
+              "back": "l&#39;artiste se sent très nerveux"
+            },
+            {
+              "front": "We are feeling very proud",
+              "back": "nous sommes très fiers"
+            },
+            {
+              "front": "My friend looks really confused",
+              "back": "mon ami a l&#39;air vraiment confus"
+            },
+            {
+              "front": "She is very grateful today",
+              "back": "elle est très reconnaissante aujourd&#39;hui"
+            },
+            {
+              "front": "He feels embarrassed in public",
+              "back": "il se sent gêné en public"
+            },
+            {
+              "front": "The audience seems really shocked",
+              "back": "le public semble vraiment choqué"
+            },
+            {
+              "front": "The student feels extremely tired",
+              "back": "l&#39;étudiant se sent extrêmement fatigué"
+            },
+            {
+              "front": "The scientist is feeling curious",
+              "back": "le scientifique est curieux"
+            },
+            {
+              "front": "I am feeling very calm",
+              "back": "je me sens très calme"
+            },
+            {
+              "front": "She feels incredibly confident today",
+              "back": "elle se sent incroyablement confiante aujourd&#39;hui"
+            },
+            {
+              "front": "He is feeling quite angry",
+              "back": "il se sent assez en colère"
+            },
+            {
+              "front": "My cat seems very curious",
+              "back": "mon chat semble très curieux"
+            },
+            {
+              "front": "The teacher looks really frustrated",
+              "back": "le professeur a l&#39;air vraiment frustré"
+            },
+            {
+              "front": "I am feeling really happy",
+              "back": "je me sens vraiment heureux"
+            },
+            {
+              "front": "The child feels scared today",
+              "back": "l&#39;enfant a peur aujourd&#39;hui"
+            },
+            {
+              "front": "They are feeling extremely anxious",
+              "back": "ils se sentent extrêmement anxieux"
+            },
+            {
+              "front": "He feels proud of himself",
+              "back": "il se sent fier de lui"
+            },
+            {
+              "front": "She is very confident today",
+              "back": "elle est très confiante aujourd&#39;hui"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I am starting to feel nervous",
+              "back": "je commence à me sentir nerveux"
+            },
+            {
+              "front": "The boy became happy after school",
+              "back": "le garçon est devenu heureux après l&#39;école"
+            },
+            {
+              "front": "The girl felt embarrassed in school",
+              "back": "la fille s&#39;est sentie gênée à l&#39;école"
+            },
+            {
+              "front": "My cat makes me feel calm",
+              "back": "mon chat me fait me sentir calme"
+            },
+            {
+              "front": "She is trying to stay hopeful",
+              "back": "elle essaie de garder espoir"
+            },
+            {
+              "front": "He is feeling very confident today",
+              "back": "il se sent très confiant aujourd&#39;hui"
+            },
+            {
+              "front": "They are beginning to feel tired",
+              "back": "ils commencent à se sentir fatigués"
+            },
+            {
+              "front": "I am feeling quite excited now",
+              "back": "je me sens très excité maintenant"
+            },
+            {
+              "front": "The athlete seems very frustrated today",
+              "back": "l&#39;athlète semble très frustré aujourd&#39;hui"
+            },
+            {
+              "front": "My dog makes me really happy",
+              "back": "mon chien me rend vraiment heureux"
+            },
+            {
+              "front": "He is starting to feel anxious",
+              "back": "il commence à se sentir anxieux"
+            },
+            {
+              "front": "She feels proud of her accomplishments",
+              "back": "elle se sent fière de ses réalisations"
+            },
+            {
+              "front": "We are feeling extremely hopeful today",
+              "back": "nous nous sentons extrêmement optimistes aujourd&#39;hui"
+            },
+            {
+              "front": "The performer is feeling very nervous",
+              "back": "l&#39;artiste se sent très nerveux"
+            },
+            {
+              "front": "The audience looks shocked and surprised",
+              "back": "le public a l&#39;air choqué et surpris"
+            },
+            {
+              "front": "My friend seems confused about everything",
+              "back": "mon ami semble confus à propos de tout"
+            },
+            {
+              "front": "I am feeling relaxed after the trip",
+              "back": "je me sens détendu après le voyage"
+            },
+            {
+              "front": "He is trying to stay calm",
+              "back": "il essaie de rester calme"
+            },
+            {
+              "front": "She is feeling curious about science",
+              "back": "elle est curieuse à propos de la science"
+            },
+            {
+              "front": "The teacher feels really proud today",
+              "back": "le professeur se sent vraiment fier aujourd&#39;hui"
+            },
+            {
+              "front": "They are feeling very grateful today",
+              "back": "ils se sentent très reconnaissants aujourd&#39;hui"
+            },
+            {
+              "front": "The child looks scared of heights",
+              "back": "l&#39;enfant semble avoir peur des hauteurs"
+            },
+            {
+              "front": "The scientist is feeling quite curious",
+              "back": "le scientifique se sent assez curieux"
+            },
+            {
+              "front": "She is starting to feel jealous",
+              "back": "elle commence à se sentir jalouse"
+            },
+            {
+              "front": "He became anxious after the meeting",
+              "back": "il est devenu anxieux après la réunion"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Was scared", "back": "avait peur" },
+            { "front": "Was happy", "back": "était heureux" },
+            { "front": "Was grateful", "back": "était reconnaissant" },
+            { "front": "Was nervous", "back": "était nerveux" },
+            { "front": "Was excited", "back": "était excité" },
+            { "front": "Was calm", "back": "était calme" },
+            { "front": "Was anxious", "back": "était anxieux" },
+            { "front": "Was curious", "back": "était curieux" },
+            { "front": "Was sad", "back": "était triste" },
+            { "front": "Was surprised", "back": "a été surpris" },
+            { "front": "Was proud", "back": "était fier" },
+            { "front": "Was embarrassed", "back": "était gêné" },
+            { "front": "Was angry", "back": "était en colère" },
+            { "front": "Was jealous", "back": "était jaloux" },
+            { "front": "Was frustrated", "back": "était frustré" },
+            { "front": "Was tired", "back": "était fatigué" },
+            { "front": "Was bored", "back": "s&#39;ennuyait" },
+            { "front": "Was confident", "back": "était confiant" },
+            { "front": "Was guilty", "back": "était coupable" },
+            { "front": "Was hopeful", "back": "était plein d&#39;espoir" },
+            { "front": "Was ashamed", "back": "avait honte" },
+            { "front": "Was relaxed", "back": "était détendu" },
+            { "front": "Was lonely", "back": "était seul" },
+            { "front": "Was shocked", "back": "a été choqué" },
+            { "front": "Was confused", "back": "était confus" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I was angry", "back": "j&#39;étais en colère" },
+            { "front": "He was sad", "back": "il était triste" },
+            { "front": "They were excited", "back": "ils étaient excités" },
+            {
+              "front": "Dogs were tired",
+              "back": "les chiens étaient fatigués"
+            },
+            {
+              "front": "Captains were confident",
+              "back": "les capitaines étaient confiants"
+            },
+            {
+              "front": "Boys were curious",
+              "back": "les garçons étaient curieux"
+            },
+            { "front": "She was nervous", "back": "elle était nerveuse" },
+            { "front": "He was grateful", "back": "il était reconnaissant" },
+            { "front": "We were happy", "back": "nous étions heureux" },
+            { "front": "She was embarrassed", "back": "elle était gênée" },
+            { "front": "They were proud", "back": "ils étaient fiers" },
+            { "front": "He was frustrated", "back": "il était frustré" },
+            { "front": "I was relaxed", "back": "j&#39;étais détendu" },
+            { "front": "They were lonely", "back": "ils étaient seuls" },
+            {
+              "front": "children were surprised",
+              "back": "les enfants ont été surpris"
+            },
+            {
+              "front": "students were bored",
+              "back": "les étudiants s&#39;ennuyaient"
+            },
+            { "front": "She was shocked", "back": "elle était choquée" },
+            { "front": "I was scared", "back": "j&#39;avais peur" },
+            {
+              "front": "He was hopeful",
+              "back": "il était plein d&#39;espoir"
+            },
+            { "front": "We were anxious", "back": "nous étions anxieux" },
+            { "front": "They were jealous", "back": "ils étaient jaloux" },
+            {
+              "front": "friend was confused",
+              "back": "l&#39;ami était confus"
+            },
+            { "front": "team was proud", "back": "l&#39;équipe était fière" },
+            { "front": "He was guilty", "back": "il était coupable" },
+            {
+              "front": "audience was shocked",
+              "back": "le public a été choqué"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "The boy was very happy",
+              "back": "le garçon était très heureux"
+            },
+            {
+              "front": "My dogs were excited",
+              "back": "mes chiens étaient excités"
+            },
+            {
+              "front": "They have anxious cats",
+              "back": "ils ont des chats anxieux"
+            },
+            {
+              "front": "Our students were bored",
+              "back": "nos étudiants s&#39;ennuyaient"
+            },
+            {
+              "front": "She was very nervous",
+              "back": "elle était très nerveuse"
+            },
+            {
+              "front": "He felt extremely proud",
+              "back": "il se sentait extrêmement fier"
+            },
+            {
+              "front": "We were all surprised",
+              "back": "nous avons tous été surpris"
+            },
+            {
+              "front": "The team was confident",
+              "back": "l&#39;équipe était confiante"
+            },
+            { "front": "I was feeling jealous", "back": "j&#39;étais jaloux" },
+            {
+              "front": "My friend was confused",
+              "back": "mon ami était confus"
+            },
+            {
+              "front": "The audience was shocked",
+              "back": "le public a été choqué"
+            },
+            {
+              "front": "He felt very relaxed",
+              "back": "il se sentait très détendu"
+            },
+            { "front": "The girl was scared", "back": "la fille avait peur" },
+            {
+              "front": "She was really excited",
+              "back": "elle était vraiment excitée"
+            },
+            {
+              "front": "They were quite happy",
+              "back": "ils étaient très heureux"
+            },
+            {
+              "front": "The athlete was frustrated",
+              "back": "l&#39;athlète était frustré"
+            },
+            {
+              "front": "He felt extremely guilty",
+              "back": "il se sentait extrêmement coupable"
+            },
+            { "front": "The dog was calm", "back": "le chien était calme" },
+            {
+              "front": "They were really anxious",
+              "back": "ils étaient vraiment anxieux"
+            },
+            {
+              "front": "I felt very ashamed",
+              "back": "je me suis senti très honteux"
+            },
+            {
+              "front": "We were feeling hopeful",
+              "back": "nous étions pleins d&#39;espoir"
+            },
+            {
+              "front": "The child was embarrassed",
+              "back": "l&#39;enfant était gêné"
+            },
+            {
+              "front": "She felt very grateful",
+              "back": "elle se sentait très reconnaissante"
+            },
+            {
+              "front": "The boys were curious",
+              "back": "les garçons étaient curieux"
+            },
+            {
+              "front": "He was very confident",
+              "back": "il était très confiant"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I am feeling sad today",
+              "back": "je me sens triste aujourd&#39;hui"
+            },
+            {
+              "front": "Dogs are always happy animals",
+              "back": "les chiens sont toujours des animaux heureux"
+            },
+            {
+              "front": "Cats get nervous when startled",
+              "back": "les chats deviennent nerveux lorsqu&#39;ils sont surpris"
+            },
+            {
+              "front": "She was grateful to him",
+              "back": "elle lui était reconnaissante"
+            },
+            {
+              "front": "He was ashamed about work",
+              "back": "il avait honte du travail"
+            },
+            {
+              "front": "We were feeling very hopeful",
+              "back": "nous étions très optimistes"
+            },
+            {
+              "front": "They were excited about school",
+              "back": "ils étaient excités à l&#39;idée d&#39;aller à l&#39;école"
+            },
+            {
+              "front": "He felt extremely proud yesterday",
+              "back": "il se sentait extrêmement fier hier"
+            },
+            {
+              "front": "She was embarrassed at school",
+              "back": "elle était gênée à l&#39;école"
+            },
+            {
+              "front": "My dog looked really happy",
+              "back": "mon chien avait l&#39;air vraiment heureux"
+            },
+            {
+              "front": "He was really nervous today",
+              "back": "il était vraiment nerveux aujourd&#39;hui"
+            },
+            {
+              "front": "The audience was very surprised",
+              "back": "le public a été très surpris"
+            },
+            {
+              "front": "I was feeling anxious yesterday",
+              "back": "je me sentais anxieux hier"
+            },
+            {
+              "front": "The child felt very scared",
+              "back": "l&#39;enfant avait très peur"
+            },
+            {
+              "front": "They were confused about it",
+              "back": "ils étaient confus à ce sujet"
+            },
+            {
+              "front": "She felt guilty about mistakes",
+              "back": "elle se sentait coupable de ses erreurs"
+            },
+            {
+              "front": "He was feeling quite lonely",
+              "back": "il se sentait assez seul"
+            },
+            {
+              "front": "My friend was very tired",
+              "back": "mon ami était très fatigué"
+            },
+            {
+              "front": "We were proud of ourselves",
+              "back": "nous étions fiers de nous"
+            },
+            {
+              "front": "She felt calm during tests",
+              "back": "elle se sentait calme pendant les tests"
+            },
+            {
+              "front": "The team was very confident",
+              "back": "l&#39;équipe était très confiante"
+            },
+            {
+              "front": "I was ashamed after work",
+              "back": "j&#39;avais honte après le travail"
+            },
+            {
+              "front": "He was angry about yesterday",
+              "back": "il était en colère à propos d&#39;hier"
+            },
+            {
+              "front": "The boy felt incredibly anxious",
+              "back": "le garçon se sentait incroyablement anxieux"
+            },
+            {
+              "front": "She was happy with results",
+              "back": "elle était satisfaite des résultats"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Dogs are happy when at home",
+              "back": "les chiens sont heureux à la maison"
+            },
+            {
+              "front": "Boys are excited when around girls",
+              "back": "les garçons sont excités lorsqu&#39;ils sont en présence de filles"
+            },
+            {
+              "front": "I was ashamed by my mistakes",
+              "back": "j&#39;avais honte de mes erreurs"
+            },
+            {
+              "front": "They were anxious about the trip",
+              "back": "ils étaient inquiets à propos du voyage"
+            },
+            {
+              "front": "The captain was confident at work",
+              "back": "le capitaine était confiant au travail"
+            },
+            {
+              "front": "She was grateful for his help",
+              "back": "elle était reconnaissante de son aide"
+            },
+            {
+              "front": "He was frustrated by the results",
+              "back": "il était frustré par les résultats"
+            },
+            {
+              "front": "We were hopeful about the future",
+              "back": "nous étions optimistes quant à l&#39;avenir"
+            },
+            {
+              "front": "My dog was happy at home",
+              "back": "mon chien était heureux à la maison"
+            },
+            {
+              "front": "The students were bored in class",
+              "back": "les élèves s&#39;ennuyaient en classe"
+            },
+            {
+              "front": "He was proud of his achievement",
+              "back": "il était fier de son exploit"
+            },
+            {
+              "front": "The child was nervous before school",
+              "back": "l&#39;enfant était nerveux avant l&#39;école"
+            },
+            {
+              "front": "She was excited about the party",
+              "back": "elle était excitée par la fête"
+            },
+            {
+              "front": "They were confused by the instructions",
+              "back": "ils ont été déconcertés par les instructions"
+            },
+            {
+              "front": "I was embarrassed by my actions",
+              "back": "j&#39;étais gêné par mes actions"
+            },
+            {
+              "front": "The team was confident about the win",
+              "back": "l&#39;équipe était confiante quant à la victoire"
+            },
+            {
+              "front": "He was jealous of her success",
+              "back": "il était jaloux de son succès"
+            },
+            {
+              "front": "The performer was nervous before performing",
+              "back": "l&#39;artiste était nerveux avant de se produire"
+            },
+            {
+              "front": "We were relaxed after the event",
+              "back": "nous étions détendus après l&#39;événement"
+            },
+            {
+              "front": "She was lonely during the trip",
+              "back": "elle était seule pendant le voyage"
+            },
+            {
+              "front": "He was tired after a long day",
+              "back": "il était fatigué après une longue journée"
+            },
+            {
+              "front": "They were shocked by the surprise",
+              "back": "ils ont été choqués par la surprise"
+            },
+            {
+              "front": "I was happy with the results",
+              "back": "j&#39;étais content des résultats"
+            },
+            {
+              "front": "The boys were curious about science",
+              "back": "les garçons étaient curieux de la science"
+            },
+            {
+              "front": "She was confident during the test",
+              "back": "elle était confiante pendant le test"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "Will be nervous", "back": "sera nerveux" },
+            { "front": "Will be excited", "back": "sera excité" },
+            { "front": "Will be happy", "back": "sera heureux" },
+            { "front": "Will be scared", "back": "aura peur" },
+            { "front": "Will feel proud", "back": "se sentira fier" },
+            { "front": "Will be grateful", "back": "sera reconnaissant" },
+            { "front": "Will feel relaxed", "back": "se sentira détendu" },
+            { "front": "Will be anxious", "back": "sera anxieux" },
+            { "front": "Will feel guilty", "back": "se sentira coupable" },
+            { "front": "Will be calm", "back": "sera calme" },
+            { "front": "Will be jealous", "back": "sera jaloux" },
+            { "front": "Will be hopeful", "back": "sera plein d&#39;espoir" },
+            { "front": "Will be bored", "back": "va s&#39;ennuyer" },
+            { "front": "Will feel confused", "back": "se sentira confus" },
+            { "front": "Will be embarrassed", "back": "sera embarrassé" },
+            { "front": "Will be shocked", "back": "sera choqué" },
+            { "front": "Will be tired", "back": "sera fatigué" },
+            { "front": "Will feel lonely", "back": "se sentira seul" },
+            { "front": "Will be angry", "back": "sera en colère" },
+            { "front": "Will feel relaxed", "back": "se sentira détendu" },
+            {
+              "front": "Will feel confident",
+              "back": "se sentira en confiance"
+            },
+            { "front": "Will feel frustrated", "back": "se sentira frustré" },
+            { "front": "Will be surprised", "back": "sera surpris" },
+            { "front": "Will be calm", "back": "sera calme" },
+            { "front": "Will feel curious", "back": "se sentira curieux" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I will be curious", "back": "je serai curieux" },
+            {
+              "front": "Dog will become happy",
+              "back": "le chien deviendra heureux"
+            },
+            {
+              "front": "Cats will be relaxed",
+              "back": "les chats seront détendus"
+            },
+            {
+              "front": "Fathers will be calm",
+              "back": "les pères seront calmes"
+            },
+            {
+              "front": "Students will be frustrated",
+              "back": "les étudiants seront frustrés"
+            },
+            { "front": "He will be anxious", "back": "il sera anxieux" },
+            { "front": "She will feel proud", "back": "elle se sentira fière" },
+            { "front": "They will be excited", "back": "ils seront excités" },
+            {
+              "front": "We will feel grateful",
+              "back": "nous nous sentirons reconnaissants"
+            },
+            { "front": "I will be nervous", "back": "je serai nerveux" },
+            {
+              "front": "The child will be happy",
+              "back": "l&#39;enfant sera heureux"
+            },
+            {
+              "front": "The audience will be shocked",
+              "back": "le public sera choqué"
+            },
+            { "front": "He will be embarrassed", "back": "il sera gêné" },
+            {
+              "front": "My friend will be jealous",
+              "back": "mon ami sera jaloux"
+            },
+            {
+              "front": "The dog will feel calm",
+              "back": "le chien se sentira calme"
+            },
+            {
+              "front": "The team will be confident",
+              "back": "l&#39;équipe sera confiante"
+            },
+            { "front": "She will be relaxed", "back": "elle sera détendue" },
+            {
+              "front": "They will feel lonely",
+              "back": "ils se sentiront seuls"
+            },
+            {
+              "front": "The boys will feel bored",
+              "back": "les garçons s&#39;ennuieront"
+            },
+            { "front": "I will feel tired", "back": "je me sentirai fatigué" },
+            {
+              "front": "The girl will feel scared",
+              "back": "la fille aura peur"
+            },
+            {
+              "front": "He will feel confused",
+              "back": "il se sentira confus"
+            },
+            {
+              "front": "We will be hopeful",
+              "back": "nous serons pleins d&#39;espoir"
+            },
+            { "front": "She will be guilty", "back": "elle sera coupable" },
+            { "front": "They will feel ashamed", "back": "ils auront honte" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "They will be ashamed soon",
+              "back": "ils auront bientôt honte"
+            },
+            {
+              "front": "He will become excited soon",
+              "back": "il sera bientôt excité"
+            },
+            {
+              "front": "Dogs will be lonely tomorrow",
+              "back": "les chiens seront seuls demain"
+            },
+            {
+              "front": "Birds will excite the cats",
+              "back": "les oiseaux exciteront les chats"
+            },
+            {
+              "front": "I will be happy tomorrow",
+              "back": "je serai heureux demain"
+            },
+            {
+              "front": "She will feel proud soon",
+              "back": "elle se sentira bientôt fière"
+            },
+            {
+              "front": "He will become very curious",
+              "back": "il deviendra très curieux"
+            },
+            {
+              "front": "The students will feel frustrated",
+              "back": "les étudiants se sentiront frustrés"
+            },
+            {
+              "front": "We will feel anxious tomorrow",
+              "back": "nous nous sentirons anxieux demain"
+            },
+            {
+              "front": "They will be nervous soon",
+              "back": "ils seront bientôt nerveux"
+            },
+            {
+              "front": "The child will be excited",
+              "back": "l&#39;enfant sera excité"
+            },
+            {
+              "front": "My friend will feel guilty",
+              "back": "mon ami se sentira coupable"
+            },
+            {
+              "front": "The team will be hopeful",
+              "back": "l&#39;équipe sera pleine d&#39;espoir"
+            },
+            {
+              "front": "He will feel very calm",
+              "back": "il se sentira très calme"
+            },
+            {
+              "front": "I will be jealous soon",
+              "back": "je serai bientôt jaloux"
+            },
+            {
+              "front": "She will be lonely tomorrow",
+              "back": "elle sera seule demain"
+            },
+            {
+              "front": "The boys will feel ashamed",
+              "back": "les garçons auront honte"
+            },
+            {
+              "front": "We will be happy soon",
+              "back": "nous serons bientôt heureux"
+            },
+            {
+              "front": "She will feel confused tomorrow",
+              "back": "elle se sentira confuse demain"
+            },
+            {
+              "front": "They will become proud parents",
+              "back": "ils deviendront des parents fiers"
+            },
+            {
+              "front": "He will feel relaxed tomorrow",
+              "back": "il se sentira détendu demain"
+            },
+            {
+              "front": "The dog will be tired",
+              "back": "le chien sera fatigué"
+            },
+            {
+              "front": "The audience will be shocked",
+              "back": "le public sera choqué"
+            },
+            {
+              "front": "The girls will feel bored",
+              "back": "les filles s&#39;ennuieront"
+            },
+            {
+              "front": "I will feel confident soon",
+              "back": "je me sentirai bientôt en confiance"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "Balls will make dogs happy today",
+              "back": "les balles rendront les chiens heureux aujourd&#39;hui"
+            },
+            {
+              "front": "Birds make cats excited outside",
+              "back": "les oiseaux excitent les chats dehors"
+            },
+            {
+              "front": "Tests will make students very anxious",
+              "back": "les tests rendront les étudiants très anxieux"
+            },
+            {
+              "front": "He will be confident at work",
+              "back": "il sera confiant au travail"
+            },
+            {
+              "front": "They will be frustrated at school",
+              "back": "ils seront frustrés à l&#39;école"
+            },
+            {
+              "front": "I will feel excited tomorrow morning",
+              "back": "je me sentirai excité demain matin"
+            },
+            {
+              "front": "The movie will make them scared",
+              "back": "le film va leur faire peur"
+            },
+            {
+              "front": "She will be proud of herself",
+              "back": "elle sera fière d&#39;elle"
+            },
+            {
+              "front": "The boys will feel nervous soon",
+              "back": "les garçons vont bientôt se sentir nerveux"
+            },
+            {
+              "front": "My dog will feel happy later",
+              "back": "mon chien se sentira heureux plus tard"
+            },
+            {
+              "front": "The audience will be shocked tonight",
+              "back": "le public sera choqué ce soir"
+            },
+            {
+              "front": "He will feel grateful for help",
+              "back": "il se sentira reconnaissant pour l&#39;aide"
+            },
+            {
+              "front": "We will be anxious before the test",
+              "back": "nous serons anxieux avant le test"
+            },
+            {
+              "front": "She will be lonely all day",
+              "back": "elle sera seule toute la journée"
+            },
+            {
+              "front": "They will become excited after school",
+              "back": "ils seront excités après l&#39;école"
+            },
+            {
+              "front": "The athlete will be confident tomorrow",
+              "back": "l&#39;athlète sera confiant demain"
+            },
+            {
+              "front": "The teacher will feel proud today",
+              "back": "le professeur se sentira fier aujourd&#39;hui"
+            },
+            {
+              "front": "He will feel tired after work",
+              "back": "il se sentira fatigué après le travail"
+            },
+            {
+              "front": "I will feel relaxed after dinner",
+              "back": "je me sentirai détendu après le dîner"
+            },
+            {
+              "front": "The performer will feel nervous backstage",
+              "back": "l&#39;artiste se sentira nerveux dans les coulisses"
+            },
+            {
+              "front": "We will be happy with results",
+              "back": "nous serons heureux des résultats"
+            },
+            {
+              "front": "The girls will be bored tomorrow",
+              "back": "les filles s&#39;ennuieront demain"
+            },
+            {
+              "front": "She will be jealous of others",
+              "back": "elle sera jalouse des autres"
+            },
+            {
+              "front": "He will be curious about everything",
+              "back": "il sera curieux de tout"
+            },
+            {
+              "front": "They will be hopeful next week",
+              "back": "ils auront de l&#39;espoir la semaine prochaine"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

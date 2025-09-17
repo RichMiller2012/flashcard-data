@@ -1,0 +1,2683 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Nature",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Tree", "back": "arbre" },
+            { "front": "Mountain", "back": "montagne" },
+            { "front": "River", "back": "rivière" },
+            { "front": "Lake", "back": "lac" },
+            { "front": "Forest", "back": "forêt" },
+            { "front": "Plant", "back": "usine" },
+            { "front": "Flower", "back": "fleur" },
+            { "front": "Grass", "back": "herbe" },
+            { "front": "Rock", "back": "rocher" },
+            { "front": "Leaf", "back": "feuille" },
+            { "front": "Root", "back": "racine" },
+            { "front": "Bush", "back": "buisson" },
+            { "front": "Stone", "back": "pierre" },
+            { "front": "Valley", "back": "vallée" },
+            { "front": "Canyon", "back": "canyon" },
+            { "front": "Desert", "back": "désert" },
+            { "front": "Coast", "back": "côte" },
+            { "front": "Ocean", "back": "océan" },
+            { "front": "Bay", "back": "baie" },
+            { "front": "Island", "back": "île" },
+            { "front": "Hills", "back": "collines" },
+            { "front": "Cliff", "back": "falaise" },
+            { "front": "Stream", "back": "flux" },
+            { "front": "Swamp", "back": "marais" },
+            { "front": "Marsh", "back": "marais" },
+            { "front": "Field", "back": "champ" },
+            { "front": "Meadow", "back": "prairie" },
+            { "front": "Woods", "back": "les bois" },
+            { "front": "Thicket", "back": "fourré" },
+            { "front": "Canopy", "back": "baldaquin" },
+            { "front": "Branch", "back": "bifurquer" },
+            { "front": "Blossom", "back": "fleurir" },
+            { "front": "Fruit", "back": "fruit" },
+            { "front": "Seed", "back": "graine" },
+            { "front": "Pine", "back": "pin" },
+            { "front": "Cedar", "back": "cèdre" },
+            { "front": "Maple", "back": "érable" },
+            { "front": "Oak", "back": "chêne" },
+            { "front": "Birch", "back": "bouleau" },
+            { "front": "Willow", "back": "saule" },
+            { "front": "Aspen", "back": "tremble" },
+            { "front": "Cactus", "back": "cactus" },
+            { "front": "Fern", "back": "fougère" },
+            { "front": "Lichen", "back": "lichen" },
+            { "front": "Moss", "back": "mousse" },
+            { "front": "Clover", "back": "trèfle" },
+            { "front": "Tulip", "back": "tulipe" },
+            { "front": "Rose", "back": "rose" },
+            { "front": "Daisy", "back": "marguerite" },
+            { "front": "Ivy", "back": "lierre" },
+            { "front": "Cypress", "back": "cyprès" },
+            { "front": "Hazel", "back": "noisette" },
+            { "front": "Yew", "back": "if" },
+            { "front": "Palm", "back": "palmier" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "tall tree", "back": "grand arbre" },
+            { "front": "steep mountain", "back": "montagne escarpée" },
+            { "front": "flowing river", "back": "rivière qui coule" },
+            { "front": "calm lake", "back": "lac calme" },
+            { "front": "dense forest", "back": "forêt dense" },
+            { "front": "green plant", "back": "plante verte" },
+            { "front": "beautiful flower", "back": "belle fleur" },
+            { "front": "lush grass", "back": "herbe luxuriante" },
+            { "front": "solid rock", "back": "roche solide" },
+            { "front": "crisp leaf", "back": "feuille croustillante" },
+            { "front": "deep root", "back": "racine profonde" },
+            { "front": "bushy bush", "back": "buisson touffu" },
+            { "front": "smooth stone", "back": "pierre lisse" },
+            { "front": "wide valley", "back": "large vallée" },
+            { "front": "narrow canyon", "back": "canyon étroit" },
+            { "front": "hot desert", "back": "désert chaud" },
+            { "front": "rocky coast", "back": "côte rocheuse" },
+            { "front": "vast ocean", "back": "vaste océan" },
+            { "front": "quiet bay", "back": "baie tranquille" },
+            { "front": "small island", "back": "petite île" },
+            { "front": "rolling hills", "back": "collines vallonnées" },
+            { "front": "steep cliff", "back": "falaise abrupte" },
+            { "front": "clear stream", "back": "ruisseau clair" },
+            { "front": "wet swamp", "back": "marais humide" },
+            { "front": "peaceful marsh", "back": "marais paisible" },
+            { "front": "open field", "back": "champ ouvert" },
+            { "front": "colorful meadow", "back": "prairie colorée" },
+            { "front": "tall woods", "back": "grands bois" },
+            { "front": "thick thicket", "back": "fourré épais" },
+            { "front": "leafy canopy", "back": "canopée feuillue" },
+            { "front": "strong branch", "back": "branche forte" },
+            { "front": "fragrant blossom", "back": "fleur parfumée" },
+            { "front": "ripe fruit", "back": "fruits mûrs" },
+            { "front": "tiny seed", "back": "petite graine" },
+            { "front": "tall pine", "back": "grand pin" },
+            { "front": "scented cedar", "back": "cèdre parfumé" },
+            { "front": "colorful maple", "back": "érable coloré" },
+            { "front": "sturdy oak", "back": "chêne robuste" },
+            { "front": "white birch", "back": "bouleau blanc" },
+            { "front": "graceful willow", "back": "saule gracieux" },
+            { "front": "slender aspen", "back": "tremble élancé" },
+            { "front": "tough cactus", "back": "cactus résistant" },
+            { "front": "green fern", "back": "fougère verte" },
+            { "front": "mossy lichen", "back": "lichen moussu" },
+            { "front": "soft moss", "back": "mousse douce" },
+            { "front": "blooming clover", "back": "trèfle en fleurs" },
+            { "front": "bright tulip", "back": "tulipe brillante" },
+            { "front": "classic rose", "back": "rose classique" },
+            { "front": "cheerful daisy", "back": "marguerite joyeuse" },
+            { "front": "creeping ivy", "back": "lierre rampant" },
+            { "front": "tall cypress", "back": "grand cyprès" },
+            { "front": "hazel tree", "back": "noisetier" },
+            { "front": "old yew", "back": "vieil if" },
+            { "front": "swaying palm", "back": "palmier oscillant" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "tree stands tall",
+              "back": "l&#39;arbre se dresse haut"
+            },
+            {
+              "front": "mountain rises high",
+              "back": "la montagne s&#39;élève haut"
+            },
+            {
+              "front": "river sparkles bright",
+              "back": "la rivière scintille"
+            },
+            {
+              "front": "lake reflects beauty",
+              "back": "le lac reflète la beauté"
+            },
+            {
+              "front": "forest hides secrets",
+              "back": "la forêt cache des secrets"
+            },
+            {
+              "front": "plant grows quickly",
+              "back": "la plante pousse rapidement"
+            },
+            {
+              "front": "flower blooms bright",
+              "back": "les fleurs fleurissent brillamment"
+            },
+            {
+              "front": "grass covers ground",
+              "back": "l&#39;herbe recouvre le sol"
+            },
+            {
+              "front": "rock supports structure",
+              "back": "structure de soutien rocheuse"
+            },
+            {
+              "front": "leaf falls gently",
+              "back": "les feuilles tombent doucement"
+            },
+            {
+              "front": "root anchors plant",
+              "back": "ancres racinaires de la plante"
+            },
+            {
+              "front": "bush attracts wildlife",
+              "back": "la brousse attire la faune"
+            },
+            { "front": "stone feels cool", "back": "la pierre est fraîche" },
+            {
+              "front": "valley stretches far",
+              "back": "la vallée s&#39;étend loin"
+            },
+            { "front": "canyon cuts through", "back": "le canyon traverse" },
+            {
+              "front": "desert blazes under sun",
+              "back": "le désert flamboie sous le soleil"
+            },
+            {
+              "front": "coast meets waves",
+              "back": "la côte rencontre les vagues"
+            },
+            {
+              "front": "ocean stretches wide",
+              "back": "l&#39;océan s&#39;étend largement"
+            },
+            { "front": "bay calms boats", "back": "la baie calme les bateaux" },
+            {
+              "front": "island offers tranquility",
+              "back": "l&#39;île offre la tranquillité"
+            },
+            {
+              "front": "hills undulate gracefully",
+              "back": "les collines ondulent gracieusement"
+            },
+            {
+              "front": "cliff drops suddenly",
+              "back": "la falaise tombe soudainement"
+            },
+            {
+              "front": "stream flows swiftly",
+              "back": "le ruisseau coule rapidement"
+            },
+            {
+              "front": "swamp teems with life",
+              "back": "le marais regorge de vie"
+            },
+            {
+              "front": "marsh holds secrets",
+              "back": "le marais recèle des secrets"
+            },
+            {
+              "front": "field welcomes wildlife",
+              "back": "le champ accueille la faune"
+            },
+            {
+              "front": "meadow blooms bright",
+              "back": "les prairies fleurissent brillamment"
+            },
+            {
+              "front": "woods offer shelter",
+              "back": "les bois offrent un abri"
+            },
+            {
+              "front": "thicket conceals animals",
+              "back": "le fourré cache les animaux"
+            },
+            {
+              "front": "canopy provides shade",
+              "back": "la canopée fournit de l&#39;ombre"
+            },
+            {
+              "front": "branch holds weight",
+              "back": "la branche supporte le poids"
+            },
+            {
+              "front": "blossom attracts bees",
+              "back": "la fleur attire les abeilles"
+            },
+            { "front": "fruit hangs low", "back": "les fruits pendent bas" },
+            {
+              "front": "seed sprouts life",
+              "back": "les graines germent la vie"
+            },
+            {
+              "front": "pine sways gently",
+              "back": "le pin se balance doucement"
+            },
+            {
+              "front": "cedar fills air",
+              "back": "le cèdre remplit l&#39;air"
+            },
+            { "front": "maple shows off", "back": "l&#39;érable se montre" },
+            { "front": "oak stands tall", "back": "le chêne se dresse haut" },
+            {
+              "front": "birch shines bright",
+              "back": "le bouleau brille de mille feux"
+            },
+            {
+              "front": "willow sways softly",
+              "back": "le saule se balance doucement"
+            },
+            {
+              "front": "aspen quakes lightly",
+              "back": "le tremble tremble légèrement"
+            },
+            {
+              "front": "cactus survives drought",
+              "back": "le cactus survit à la sécheresse"
+            },
+            {
+              "front": "fern unfurls slowly",
+              "back": "la fougère se déploie lentement"
+            },
+            {
+              "front": "lichen clings tightly",
+              "back": "le lichen s&#39;accroche fermement"
+            },
+            {
+              "front": "moss cushions ground",
+              "back": "coussins de mousse au sol"
+            },
+            {
+              "front": "clover fills fields",
+              "back": "le trèfle remplit les champs"
+            },
+            {
+              "front": "tulip attracts attention",
+              "back": "la tulipe attire l&#39;attention"
+            },
+            {
+              "front": "rose blooms beautifully",
+              "back": "la rose fleurit magnifiquement"
+            },
+            {
+              "front": "daisy stands tall",
+              "back": "la marguerite se dresse fièrement"
+            },
+            {
+              "front": "ivy climbs walls",
+              "back": "le lierre grimpe aux murs"
+            },
+            {
+              "front": "cypress reaches sky",
+              "back": "le cyprès atteint le ciel"
+            },
+            {
+              "front": "hazel produces nuts",
+              "back": "le noisetier produit des noix"
+            },
+            {
+              "front": "yew provides shade",
+              "back": "l&#39;if fournit de l&#39;ombre"
+            },
+            {
+              "front": "palm dances gracefully",
+              "back": "la paume danse gracieusement"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "tall tree stands proud",
+              "back": "un grand arbre se dresse fièrement"
+            },
+            {
+              "front": "steep mountain rises high",
+              "back": "une montagne escarpée s&#39;élève haut"
+            },
+            {
+              "front": "flowing river sparkles brightly",
+              "back": "la rivière qui coule scintille de mille feux"
+            },
+            {
+              "front": "calm lake reflects beauty",
+              "back": "le lac calme reflète la beauté"
+            },
+            {
+              "front": "dense forest hides secrets",
+              "back": "une forêt dense cache des secrets"
+            },
+            {
+              "front": "green plant grows quickly",
+              "back": "la plante verte pousse rapidement"
+            },
+            {
+              "front": "beautiful flower blooms brightly",
+              "back": "une belle fleur fleurit brillamment"
+            },
+            {
+              "front": "lush grass covers ground",
+              "back": "une herbe luxuriante recouvre le sol"
+            },
+            {
+              "front": "solid rock supports structure",
+              "back": "structure de support en roche solide"
+            },
+            {
+              "front": "crisp leaf falls gently",
+              "back": "une feuille croquante tombe doucement"
+            },
+            {
+              "front": "deep root anchors plant",
+              "back": "ancrages racinaires profonds de la plante"
+            },
+            {
+              "front": "bushy bush attracts wildlife",
+              "back": "les buissons touffus attirent la faune"
+            },
+            {
+              "front": "smooth stone feels cool",
+              "back": "la pierre lisse est fraîche"
+            },
+            {
+              "front": "wide valley stretches endlessly",
+              "back": "une large vallée s&#39;étend à l&#39;infini"
+            },
+            {
+              "front": "narrow canyon cuts through",
+              "back": "un canyon étroit traverse"
+            },
+            {
+              "front": "hot desert blazes under sun",
+              "back": "le désert chaud flamboie sous le soleil"
+            },
+            {
+              "front": "rocky coast meets waves",
+              "back": "la côte rocheuse rencontre les vagues"
+            },
+            {
+              "front": "vast ocean stretches far",
+              "back": "le vaste océan s&#39;étend au loin"
+            },
+            {
+              "front": "quiet bay calms boats",
+              "back": "la baie tranquille calme les bateaux"
+            },
+            {
+              "front": "small island offers tranquility",
+              "back": "petite île offrant la tranquillité"
+            },
+            {
+              "front": "rolling hills undulate gracefully",
+              "back": "les collines ondulent gracieusement"
+            },
+            {
+              "front": "steep cliff drops suddenly",
+              "back": "une falaise abrupte tombe soudainement"
+            },
+            {
+              "front": "clear stream flows swiftly",
+              "back": "un ruisseau clair coule rapidement"
+            },
+            {
+              "front": "wet swamp teems with life",
+              "back": "le marais humide regorge de vie"
+            },
+            {
+              "front": "peaceful marsh holds secrets",
+              "back": "un marais paisible recèle des secrets"
+            },
+            {
+              "front": "open field welcomes wildlife",
+              "back": "le champ ouvert accueille la faune"
+            },
+            {
+              "front": "colorful meadow blooms brightly",
+              "back": "prairie colorée en fleurs éclatantes"
+            },
+            {
+              "front": "tall woods offer shelter",
+              "back": "les grands bois offrent un abri"
+            },
+            {
+              "front": "thick thicket conceals animals",
+              "back": "un fourré épais cache des animaux"
+            },
+            {
+              "front": "leafy canopy provides shade",
+              "back": "la canopée feuillue fournit de l&#39;ombre"
+            },
+            {
+              "front": "strong branch holds weight",
+              "back": "une branche solide supporte le poids"
+            },
+            {
+              "front": "fragrant blossom attracts bees",
+              "back": "les fleurs parfumées attirent les abeilles"
+            },
+            {
+              "front": "ripe fruit hangs low",
+              "back": "les fruits mûrs pendent bas"
+            },
+            {
+              "front": "tiny seed sprouts life",
+              "back": "de minuscules graines germent la vie"
+            },
+            {
+              "front": "tall pine sways gently",
+              "back": "un grand pin se balance doucement"
+            },
+            {
+              "front": "scented cedar fills air",
+              "back": "le cèdre parfumé remplit l&#39;air"
+            },
+            {
+              "front": "colorful maple shows off",
+              "back": "l&#39;érable coloré se montre"
+            },
+            {
+              "front": "sturdy oak stands tall",
+              "back": "le chêne robuste se dresse haut"
+            },
+            {
+              "front": "white birch shines bright",
+              "back": "le bouleau blanc brille de mille feux"
+            },
+            {
+              "front": "graceful willow sways softly",
+              "back": "le saule gracieux se balance doucement"
+            },
+            {
+              "front": "slender aspen quakes lightly",
+              "back": "le tremble élancé tremble légèrement"
+            },
+            {
+              "front": "tough cactus survives drought",
+              "back": "un cactus résistant survit à la sécheresse"
+            },
+            {
+              "front": "green fern unfurls slowly",
+              "back": "la fougère verte se déploie lentement"
+            },
+            {
+              "front": "mossy lichen clings tightly",
+              "back": "le lichen moussu s&#39;accroche fermement"
+            },
+            {
+              "front": "soft moss cushions ground",
+              "back": "coussins de mousse douce au sol"
+            },
+            {
+              "front": "blooming clover fills fields",
+              "back": "le trèfle en fleurs remplit les champs"
+            },
+            {
+              "front": "bright tulip attracts attention",
+              "back": "la tulipe brillante attire l&#39;attention"
+            },
+            {
+              "front": "classic rose blooms beautifully",
+              "back": "la rose classique fleurit magnifiquement"
+            },
+            {
+              "front": "cheerful daisy stands tall",
+              "back": "une marguerite joyeuse se dresse fièrement"
+            },
+            {
+              "front": "creeping ivy climbs walls",
+              "back": "le lierre rampant grimpe aux murs"
+            },
+            {
+              "front": "tall cypress reaches sky",
+              "back": "un grand cyprès atteint le ciel"
+            },
+            {
+              "front": "hazel tree produces nuts",
+              "back": "le noisetier produit des noix"
+            },
+            {
+              "front": "old yew provides shade",
+              "back": "le vieil if fournit de l&#39;ombre"
+            },
+            {
+              "front": "swaying palm dances gracefully",
+              "back": "les paumes se balançant dansent gracieusement"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "tree stands against the sky",
+              "back": "l&#39;arbre se dresse contre le ciel"
+            },
+            {
+              "front": "mountain rises high above valley",
+              "back": "la montagne s&#39;élève au-dessus de la vallée"
+            },
+            {
+              "front": "river sparkles bright in sunlight",
+              "back": "la rivière scintille au soleil"
+            },
+            {
+              "front": "lake reflects beauty of surroundings",
+              "back": "le lac reflète la beauté des environs"
+            },
+            {
+              "front": "forest hides secrets from wanderers",
+              "back": "la forêt cache des secrets aux vagabonds"
+            },
+            {
+              "front": "plant grows quickly in sunlight",
+              "back": "la plante pousse rapidement au soleil"
+            },
+            {
+              "front": "flower blooms bright in spring",
+              "back": "les fleurs fleurissent brillamment au printemps"
+            },
+            {
+              "front": "grass covers ground in green",
+              "back": "l&#39;herbe recouvre le sol de vert"
+            },
+            {
+              "front": "rock supports structure of ecosystem",
+              "back": "la roche soutient la structure de l&#39;écosystème"
+            },
+            {
+              "front": "leaf falls gently to ground",
+              "back": "la feuille tombe doucement sur le sol"
+            },
+            {
+              "front": "root anchors plant firmly in soil",
+              "back": "les racines ancrent fermement la plante dans le sol"
+            },
+            {
+              "front": "bush attracts wildlife seeking shelter",
+              "back": "la brousse attire la faune en quête d&#39;abri"
+            },
+            {
+              "front": "stone feels cool to touch",
+              "back": "la pierre est fraîche au toucher"
+            },
+            {
+              "front": "valley stretches far into distance",
+              "back": "la vallée s&#39;étend au loin"
+            },
+            {
+              "front": "canyon cuts through ancient landscape",
+              "back": "le canyon traverse un paysage ancien"
+            },
+            {
+              "front": "desert blazes under the sun",
+              "back": "le désert flamboie sous le soleil"
+            },
+            {
+              "front": "coast meets waves of ocean",
+              "back": "la côte rencontre les vagues de l&#39;océan"
+            },
+            {
+              "front": "ocean stretches wide and vast",
+              "back": "l&#39;océan s&#39;étend large et vaste"
+            },
+            {
+              "front": "bay calms boats in harbor",
+              "back": "la baie calme les bateaux dans le port"
+            },
+            {
+              "front": "island offers tranquility to visitors",
+              "back": "l&#39;île offre la tranquillité aux visiteurs"
+            },
+            {
+              "front": "hills undulate gracefully in distance",
+              "back": "les collines ondulent gracieusement au loin"
+            },
+            {
+              "front": "cliff drops suddenly into sea",
+              "back": "une falaise tombe soudainement dans la mer"
+            },
+            {
+              "front": "stream flows swiftly over rocks",
+              "back": "le ruisseau coule rapidement sur les rochers"
+            },
+            {
+              "front": "swamp teems with life and beauty",
+              "back": "le marais regorge de vie et de beauté"
+            },
+            {
+              "front": "marsh holds secrets of nature",
+              "back": "le marais recèle les secrets de la nature"
+            },
+            {
+              "front": "field welcomes wildlife in spring",
+              "back": "le champ accueille la faune au printemps"
+            },
+            {
+              "front": "meadow blooms bright with flowers",
+              "back": "la prairie est pleine de fleurs"
+            },
+            {
+              "front": "woods offer shelter for creatures",
+              "back": "les bois offrent un abri aux créatures"
+            },
+            {
+              "front": "thicket conceals animals from predators",
+              "back": "le fourré cache les animaux des prédateurs"
+            },
+            {
+              "front": "canopy provides shade from sun",
+              "back": "la canopée fournit de l&#39;ombre contre le soleil"
+            },
+            {
+              "front": "branch holds weight of bird",
+              "back": "la branche supporte le poids de l&#39;oiseau"
+            },
+            {
+              "front": "blossom attracts bees for pollination",
+              "back": "la fleur attire les abeilles pour la pollinisation"
+            },
+            {
+              "front": "fruit hangs low on tree",
+              "back": "les fruits pendent bas sur l&#39;arbre"
+            },
+            {
+              "front": "seed sprouts life from soil",
+              "back": "les graines font germer la vie à partir du sol"
+            },
+            {
+              "front": "pine sways gently in breeze",
+              "back": "le pin se balance doucement dans la brise"
+            },
+            {
+              "front": "cedar fills air with fragrance",
+              "back": "le cèdre remplit l&#39;air de parfum"
+            },
+            {
+              "front": "maple shows off bright colors",
+              "back": "l&#39;érable présente des couleurs vives"
+            },
+            {
+              "front": "oak stands tall and strong",
+              "back": "le chêne est grand et fort"
+            },
+            {
+              "front": "birch shines bright in sunlight",
+              "back": "le bouleau brille au soleil"
+            },
+            {
+              "front": "willow sways softly in wind",
+              "back": "le saule se balance doucement dans le vent"
+            },
+            {
+              "front": "aspen quakes lightly in breeze",
+              "back": "le tremble tremble légèrement sous la brise"
+            },
+            {
+              "front": "cactus survives drought in desert",
+              "back": "un cactus survit à la sécheresse dans le désert"
+            },
+            {
+              "front": "fern unfurls slowly in shade",
+              "back": "la fougère se déploie lentement à l&#39;ombre"
+            },
+            {
+              "front": "lichen clings tightly to rock",
+              "back": "le lichen s&#39;accroche fermement à la roche"
+            },
+            {
+              "front": "moss cushions ground for creatures",
+              "back": "la mousse constitue un coussin de sol pour les créatures"
+            },
+            {
+              "front": "clover fills fields with green",
+              "back": "le trèfle remplit les champs de vert"
+            },
+            {
+              "front": "tulip attracts attention in garden",
+              "back": "la tulipe attire l&#39;attention dans le jardin"
+            },
+            {
+              "front": "rose blooms beautifully in summer",
+              "back": "la rose fleurit magnifiquement en été"
+            },
+            {
+              "front": "daisy stands tall in grass",
+              "back": "la marguerite se dresse haut dans l&#39;herbe"
+            },
+            {
+              "front": "ivy climbs walls of buildings",
+              "back": "le lierre grimpe aux murs des bâtiments"
+            },
+            {
+              "front": "cypress reaches sky above others",
+              "back": "le cyprès atteint le ciel au-dessus des autres"
+            },
+            {
+              "front": "hazel produces nuts in autumn",
+              "back": "le noisetier produit des noix en automne"
+            },
+            {
+              "front": "yew provides shade for wildlife",
+              "back": "l&#39;if fournit de l&#39;ombre à la faune"
+            },
+            {
+              "front": "palm dances gracefully in breeze",
+              "back": "la paume danse gracieusement dans la brise"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "tree stands tall against the sky",
+              "back": "l&#39;arbre se dresse haut contre le ciel"
+            },
+            {
+              "front": "mountain rises high above valley",
+              "back": "la montagne s&#39;élève au-dessus de la vallée"
+            },
+            {
+              "front": "river sparkles bright in sunlight",
+              "back": "la rivière scintille sous le soleil"
+            },
+            {
+              "front": "large lake reflects beauty of surroundings",
+              "back": "le grand lac reflète la beauté des environs"
+            },
+            {
+              "front": "large forest hides secrets from wanderers",
+              "back": "une grande forêt cache des secrets aux vagabonds"
+            },
+            {
+              "front": "green plant grows quickly in sunlight",
+              "back": "la plante verte pousse rapidement au soleil"
+            },
+            {
+              "front": "yellow flower blooms bright in spring",
+              "back": "la fleur jaune fleurit brillamment au printemps"
+            },
+            {
+              "front": "his grass covers ground in green",
+              "back": "son herbe recouvre le sol de vert"
+            },
+            {
+              "front": "massive rock supports structure of ecosystem",
+              "back": "une roche massive soutient la structure de l&#39;écosystème"
+            },
+            {
+              "front": "thin leaf falls gently to ground",
+              "back": "une fine feuille tombe doucement sur le sol"
+            },
+            {
+              "front": "root anchors plant firmly in soil",
+              "back": "les racines ancrent fermement la plante dans le sol"
+            },
+            {
+              "front": "thick bush attracts wildlife seeking shelter",
+              "back": "un buisson épais attire la faune en quête d&#39;abri"
+            },
+            {
+              "front": "dark stone feels cool to touch",
+              "back": "la pierre sombre est fraîche au toucher"
+            },
+            {
+              "front": "beautiful valley stretches far into distance",
+              "back": "une belle vallée s&#39;étend au loin"
+            },
+            {
+              "front": "huge canyon cuts through ancient landscape",
+              "back": "un immense canyon traverse un paysage ancien"
+            },
+            {
+              "front": "hot desert blazes under the sun",
+              "back": "le désert chaud flamboie sous le soleil"
+            },
+            {
+              "front": "sandy coast meets waves of ocean",
+              "back": "la côte sablonneuse rencontre les vagues de l&#39;océan"
+            },
+            {
+              "front": "blue ocean stretches wide and vast",
+              "back": "l&#39;océan bleu s&#39;étend large et vaste"
+            },
+            {
+              "front": "peaceful bay calms boats in harbor",
+              "back": "la baie paisible calme les bateaux dans le port"
+            },
+            {
+              "front": "lovely island offers tranquility to visitors",
+              "back": "belle île offre la tranquillité aux visiteurs"
+            },
+            {
+              "front": "hills are graceful in the distance",
+              "back": "les collines sont gracieuses au loin"
+            },
+            {
+              "front": "rough cliff drops suddenly into sea",
+              "back": "une falaise abrupte tombe soudainement dans la mer"
+            },
+            {
+              "front": "loud stream flows swiftly over rocks",
+              "back": "un ruisseau bruyant coule rapidement sur les rochers"
+            },
+            {
+              "front": "swamp teems with life and beauty",
+              "back": "le marais regorge de vie et de beauté"
+            },
+            {
+              "front": "smelly marsh holds secrets of nature",
+              "back": "le marais malodorant recèle les secrets de la nature"
+            },
+            {
+              "front": "large field welcomes wildlife in spring",
+              "back": "un grand champ accueille la faune au printemps"
+            },
+            {
+              "front": "mountain meadow blooms bright with flowers",
+              "back": "la prairie de montagne est fleurie de couleurs vives"
+            },
+            {
+              "front": "thick woods offer shelter for creatures",
+              "back": "les bois épais offrent un abri aux créatures"
+            },
+            {
+              "front": "dense thicket conceals animals from predators",
+              "back": "un fourré dense cache les animaux des prédateurs"
+            },
+            {
+              "front": "thick canopy provides shade from sun",
+              "back": "une canopée épaisse fournit de l&#39;ombre contre le soleil"
+            },
+            {
+              "front": "branch holds weight of small bird",
+              "back": "la branche supporte le poids d&#39;un petit oiseau"
+            },
+            {
+              "front": "colorful blossom attracts bees for pollination",
+              "back": "les fleurs colorées attirent les abeilles pour la pollinisation"
+            },
+            {
+              "front": "heavy fruit hangs low on tree",
+              "back": "des fruits lourds pendent bas sur l&#39;arbre"
+            },
+            {
+              "front": "apple seed sprouts life from soil",
+              "back": "les graines de pomme font germer la vie à partir du sol"
+            },
+            {
+              "front": "pine tree sways gently in breeze",
+              "back": "le pin se balance doucement dans la brise"
+            },
+            {
+              "front": "large cedar fills air with fragrance",
+              "back": "un grand cèdre remplit l&#39;air de parfum"
+            },
+            {
+              "front": "tall maple shows off bright colors",
+              "back": "le grand érable présente des couleurs vives"
+            },
+            {
+              "front": "that oak stands tall and strong",
+              "back": "ce chêne est grand et fort"
+            },
+            {
+              "front": "the birch shines bright in sunlight",
+              "back": "le bouleau brille au soleil"
+            },
+            {
+              "front": "my willow sways softly in wind",
+              "back": "mon saule se balance doucement dans le vent"
+            },
+            {
+              "front": "his aspen quakes lightly in breeze",
+              "back": "son tremble tremble légèrement dans la brise"
+            },
+            {
+              "front": "cactus survives drought in desert sun",
+              "back": "un cactus survit à la sécheresse sous le soleil du désert"
+            },
+            {
+              "front": "fern unfurls slowly in morning shade",
+              "back": "la fougère se déploie lentement à l&#39;ombre du matin"
+            },
+            {
+              "front": "lichen clings tightly to rough rock",
+              "back": "le lichen s&#39;accroche fermement à la roche rugueuse"
+            },
+            {
+              "front": "moss cushions ground for small creatures",
+              "back": "coussins de mousse au sol pour les petites créatures"
+            },
+            {
+              "front": "pretty clover fills fields with green",
+              "back": "un joli trèfle remplit les champs de verdure"
+            },
+            {
+              "front": "red tulip attracts attention in garden",
+              "back": "la tulipe rouge attire l&#39;attention dans le jardin"
+            },
+            {
+              "front": "white rose blooms beautifully in summer",
+              "back": "la rose blanche fleurit magnifiquement en été"
+            },
+            {
+              "front": "yellow daisy stands tall in grass",
+              "back": "la marguerite jaune se dresse haut dans l&#39;herbe"
+            },
+            {
+              "front": "green ivy climbs walls of buildings",
+              "back": "le lierre vert grimpe sur les murs des bâtiments"
+            },
+            {
+              "front": "large cypress reaches sky above others",
+              "back": "un grand cyprès atteint le ciel au-dessus des autres"
+            },
+            {
+              "front": "hazel produces tasty nuts in autumn",
+              "back": "le noisetier produit des noix savoureuses en automne"
+            },
+            {
+              "front": "yew provides shade for wildlife below",
+              "back": "l&#39;if fournit de l&#39;ombre à la faune en contrebas"
+            },
+            {
+              "front": "palm dances gracefully in evening breeze",
+              "back": "les palmiers dansent gracieusement dans la brise du soir"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "tree stood", "back": "l&#39;arbre se tenait" },
+            { "front": "mountain rose", "back": "rosier des montagnes" },
+            { "front": "river flowed", "back": "la rivière coulait" },
+            { "front": "lake sparkled", "back": "le lac scintillait" },
+            { "front": "forest grew", "back": "la forêt a grandi" },
+            { "front": "plant thrived", "back": "la plante a prospéré" },
+            { "front": "flower bloomed", "back": "fleur épanouie" },
+            { "front": "grass grew", "back": "l&#39;herbe a poussé" },
+            { "front": "rock supported", "back": "supporté par le rocher" },
+            { "front": "leaf fell", "back": "feuille tombée" },
+            { "front": "root anchored", "back": "racine ancrée" },
+            { "front": "bush attracted", "back": "buisson attiré" },
+            { "front": "stone weathered", "back": "pierre patinée" },
+            { "front": "valley stretched", "back": "vallée étirée" },
+            { "front": "canyon deepened", "back": "canyon approfondi" },
+            { "front": "desert heated", "back": "désert chauffé" },
+            { "front": "coast eroded", "back": "côte érodée" },
+            { "front": "ocean surged", "back": "l&#39;océan a déferlé" },
+            { "front": "bay calmed", "back": "baie apaisée" },
+            { "front": "island appeared", "back": "l&#39;île est apparue" },
+            { "front": "hill rose", "back": "rosier des collines" },
+            { "front": "cliff crumbled", "back": "falaise effondrée" },
+            { "front": "stream babbled", "back": "le ruisseau babilla" },
+            { "front": "swamp teemed", "back": "le marais grouillait" },
+            { "front": "marsh dried", "back": "marais asséché" },
+            { "front": "field flourished", "back": "le champ a prospéré" },
+            { "front": "meadow bloomed", "back": "prairie fleurie" },
+            { "front": "woods provided", "back": "bois fournis" },
+            { "front": "thicket concealed", "back": "fourré caché" },
+            { "front": "canopy shaded", "back": "canopée ombragée" },
+            { "front": "branch broke", "back": "branche cassée" },
+            { "front": "blossom opened", "back": "fleur ouverte" },
+            { "front": "fruit ripened", "back": "fruit mûr" },
+            { "front": "seed sprouted", "back": "graine germée" },
+            { "front": "pine swayed", "back": "le pin se balançait" },
+            { "front": "cedar thrived", "back": "le cèdre a prospéré" },
+            { "front": "maple turned", "back": "érable tourné" },
+            { "front": "oak grew", "back": "le chêne a poussé" },
+            { "front": "birch swayed", "back": "le bouleau se balançait" },
+            { "front": "willow bent", "back": "saule courbé" },
+            { "front": "aspen quaked", "back": "tremble tremblant" },
+            { "front": "cactus thrived", "back": "les cactus ont prospéré" },
+            { "front": "fern unfurled", "back": "fougère déployée" },
+            { "front": "lichen spread", "back": "propagation du lichen" },
+            { "front": "moss covered", "back": "couvert de mousse" },
+            { "front": "clover bloomed", "back": "le trèfle a fleuri" },
+            { "front": "tulip opened", "back": "tulipe ouverte" },
+            { "front": "rose bloomed", "back": "la rose a fleuri" },
+            { "front": "daisy flourished", "back": "la marguerite a fleuri" },
+            { "front": "ivy climbed", "back": "le lierre a grimpé" },
+            { "front": "cypress grew", "back": "le cyprès a poussé" },
+            { "front": "hazel produced", "back": "noisetier produit" },
+            { "front": "yew thrived", "back": "l&#39;if a prospéré" },
+            { "front": "palm stood", "back": "paume dressée" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "tree stood tall",
+              "back": "l&#39;arbre se tenait haut"
+            },
+            {
+              "front": "mountain rose high",
+              "back": "rosier des montagnes élevé"
+            },
+            {
+              "front": "river flowed swiftly",
+              "back": "la rivière coulait rapidement"
+            },
+            {
+              "front": "lake sparkled under sun",
+              "back": "le lac scintillait sous le soleil"
+            },
+            {
+              "front": "forest grew thick",
+              "back": "la forêt est devenue épaisse"
+            },
+            {
+              "front": "plant thrived in sunlight",
+              "back": "la plante a prospéré au soleil"
+            },
+            {
+              "front": "flower bloomed brightly",
+              "back": "la fleur a fleuri brillamment"
+            },
+            {
+              "front": "grass grew lush",
+              "back": "l&#39;herbe a poussé luxuriante"
+            },
+            {
+              "front": "rock supported life",
+              "back": "vie soutenue par le rock"
+            },
+            {
+              "front": "leaf fell softly",
+              "back": "la feuille est tombée doucement"
+            },
+            {
+              "front": "root anchored deeply",
+              "back": "racine profondément ancrée"
+            },
+            {
+              "front": "bush attracted wildlife",
+              "back": "la brousse a attiré la faune"
+            },
+            {
+              "front": "stone weathered slowly",
+              "back": "pierre altérée lentement"
+            },
+            {
+              "front": "valley stretched wide",
+              "back": "la vallée s&#39;étendait largement"
+            },
+            {
+              "front": "canyon cut deep",
+              "back": "canyon creusé en profondeur"
+            },
+            {
+              "front": "desert heated under sun",
+              "back": "désert chauffé sous le soleil"
+            },
+            {
+              "front": "coast eroded gradually",
+              "back": "côte érodée progressivement"
+            },
+            {
+              "front": "ocean surged violently",
+              "back": "l&#39;océan a déferlé violemment"
+            },
+            {
+              "front": "bay calmed boats",
+              "back": "bateaux apaisés dans la baie"
+            },
+            {
+              "front": "island offered refuge",
+              "back": "l&#39;île offrait un refuge"
+            },
+            { "front": "hill rose gently", "back": "colline rose doucement" },
+            {
+              "front": "cliff crumbled suddenly",
+              "back": "la falaise s&#39;est effondrée soudainement"
+            },
+            {
+              "front": "stream babbled softly",
+              "back": "le ruisseau gazouillait doucement"
+            },
+            {
+              "front": "swamp teemed with life",
+              "back": "le marais regorgeait de vie"
+            },
+            { "front": "marsh dried up", "back": "marais asséché" },
+            {
+              "front": "field flourished beautifully",
+              "back": "le champ a magnifiquement fleuri"
+            },
+            {
+              "front": "meadow bloomed with colors",
+              "back": "prairie fleurie de couleurs"
+            },
+            {
+              "front": "woods provided shelter",
+              "back": "les bois offraient un abri"
+            },
+            {
+              "front": "thicket concealed animals",
+              "back": "fourré caché animaux"
+            },
+            {
+              "front": "canopy shaded travelers",
+              "back": "voyageurs ombragés par la canopée"
+            },
+            { "front": "branch broke off", "back": "branche cassée" },
+            {
+              "front": "blossom opened wide",
+              "back": "fleur largement ouverte"
+            },
+            {
+              "front": "fruit ripened slowly",
+              "back": "les fruits ont mûri lentement"
+            },
+            {
+              "front": "seed sprouted quickly",
+              "back": "la graine a germé rapidement"
+            },
+            {
+              "front": "pine swayed gently",
+              "back": "le pin se balançait doucement"
+            },
+            {
+              "front": "cedar thrived well",
+              "back": "le cèdre a bien prospéré"
+            },
+            {
+              "front": "maple turned bright",
+              "back": "l&#39;érable est devenu brillant"
+            },
+            { "front": "oak grew strong", "back": "le chêne est devenu fort" },
+            {
+              "front": "birch swayed softly",
+              "back": "le bouleau se balançait doucement"
+            },
+            { "front": "willow bent low", "back": "saule courbé bas" },
+            {
+              "front": "aspen quaked gently",
+              "back": "le tremble tremblait doucement"
+            },
+            {
+              "front": "cactus thrived resiliently",
+              "back": "les cactus ont prospéré avec résilience"
+            },
+            {
+              "front": "fern unfurled gracefully",
+              "back": "fougère déployée gracieusement"
+            },
+            {
+              "front": "lichen spread widely",
+              "back": "lichen largement répandu"
+            },
+            { "front": "moss covered ground", "back": "sol couvert de mousse" },
+            {
+              "front": "clover bloomed beautifully",
+              "back": "le trèfle a magnifiquement fleuri"
+            },
+            {
+              "front": "tulip opened fully",
+              "back": "tulipe complètement ouverte"
+            },
+            {
+              "front": "rose bloomed brightly",
+              "back": "la rose a fleuri brillamment"
+            },
+            {
+              "front": "daisy stood tall",
+              "back": "la marguerite se tenait haute"
+            },
+            {
+              "front": "ivy climbed walls",
+              "back": "le lierre grimpait aux murs"
+            },
+            {
+              "front": "cypress reached sky",
+              "back": "le cyprès a atteint le ciel"
+            },
+            {
+              "front": "hazel produced nuts",
+              "back": "noix produites par les noisetiers"
+            },
+            {
+              "front": "yew thrived nearby",
+              "back": "l&#39;if prospérait à proximité"
+            },
+            {
+              "front": "palm swayed gently",
+              "back": "la paume se balançait doucement"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "tree stood in forest",
+              "back": "arbre se tenait dans la forêt"
+            },
+            {
+              "front": "mountain rose above valley",
+              "back": "rosier des montagnes au-dessus de la vallée"
+            },
+            {
+              "front": "river flowed through landscape",
+              "back": "la rivière coulait à travers le paysage"
+            },
+            {
+              "front": "lake sparkled under sun",
+              "back": "le lac scintillait sous le soleil"
+            },
+            {
+              "front": "forest grew with trees",
+              "back": "la forêt a poussé avec des arbres"
+            },
+            {
+              "front": "plant thrived in sunlight",
+              "back": "la plante a prospéré au soleil"
+            },
+            {
+              "front": "flower bloomed in spring",
+              "back": "fleur fleurie au printemps"
+            },
+            {
+              "front": "grass grew in ground",
+              "back": "l&#39;herbe a poussé dans le sol"
+            },
+            {
+              "front": "rock supported life ecosystem",
+              "back": "écosystème de vie soutenu par la roche"
+            },
+            { "front": "leaf fell to ground", "back": "feuille tombée au sol" },
+            {
+              "front": "root anchored in soil",
+              "back": "racine ancrée dans le sol"
+            },
+            {
+              "front": "bush attracted wildlife garden",
+              "back": "jardin animalier attirant les buissons"
+            },
+            {
+              "front": "stone weathered over time",
+              "back": "pierre altérée par le temps"
+            },
+            {
+              "front": "valley stretched wide and far",
+              "back": "la vallée s&#39;étendait largement et loin"
+            },
+            {
+              "front": "canyon cut into earth",
+              "back": "canyon creusé dans la terre"
+            },
+            {
+              "front": "desert heated under sun",
+              "back": "désert chauffé sous le soleil"
+            },
+            {
+              "front": "coast eroded with storms",
+              "back": "côte érodée par les tempêtes"
+            },
+            {
+              "front": "ocean surged against shore",
+              "back": "l&#39;océan s&#39;est déchaîné contre le rivage"
+            },
+            {
+              "front": "bay calmed boats at sunset",
+              "back": "bateaux apaisés dans la baie au coucher du soleil"
+            },
+            {
+              "front": "island offered needed refuge",
+              "back": "l&#39;île offrait le refuge nécessaire"
+            },
+            {
+              "front": "hill rose into clouds",
+              "back": "la colline s&#39;est élevée dans les nuages"
+            },
+            {
+              "front": "cliff crumbled into sea",
+              "back": "falaise effondrée dans la mer"
+            },
+            {
+              "front": "stream babbled through rocks",
+              "back": "le ruisseau murmurait à travers les rochers"
+            },
+            {
+              "front": "swamp teemed with life",
+              "back": "le marais regorgeait de vie"
+            },
+            {
+              "front": "marsh dried up summer",
+              "back": "marais asséché en été"
+            },
+            {
+              "front": "field flourished under sun",
+              "back": "le champ a fleuri sous le soleil"
+            },
+            {
+              "front": "meadow bloomed with flowers",
+              "back": "prairie fleurie"
+            },
+            {
+              "front": "woods provided shelter from storms",
+              "back": "les bois offraient un abri contre les tempêtes"
+            },
+            {
+              "front": "dark thicket concealed animals",
+              "back": "un fourré sombre cachait des animaux"
+            },
+            {
+              "front": "canopy shaded weary travelers",
+              "back": "la canopée ombrage les voyageurs fatigués"
+            },
+            {
+              "front": "branch broke off in wind",
+              "back": "branche cassée par le vent"
+            },
+            {
+              "front": "blossom opened for bees",
+              "back": "fleur ouverte aux abeilles"
+            },
+            {
+              "front": "fruit ripened on tree",
+              "back": "fruit mûri sur l&#39;arbre"
+            },
+            {
+              "front": "seed sprouted in garden",
+              "back": "graine germée dans le jardin"
+            },
+            {
+              "front": "pine swayed in breeze",
+              "back": "le pin se balançait dans la brise"
+            },
+            {
+              "front": "cedar thrived in soil",
+              "back": "le cèdre prospérait dans le sol"
+            },
+            {
+              "front": "maple turned in autumn",
+              "back": "érable tourné en automne"
+            },
+            {
+              "front": "oak grew strong tree",
+              "back": "le chêne est devenu un arbre fort"
+            },
+            {
+              "front": "birch swayed in wind",
+              "back": "le bouleau se balançait dans le vent"
+            },
+            {
+              "front": "willow bent to ground",
+              "back": "saule courbé vers le sol"
+            },
+            {
+              "front": "aspen quaked in breeze",
+              "back": "tremble tremblant sous la brise"
+            },
+            {
+              "front": "cactus thrived in drought",
+              "back": "les cactus ont prospéré pendant la sécheresse"
+            },
+            {
+              "front": "fern unfurled in shade",
+              "back": "fougère déployée à l&#39;ombre"
+            },
+            {
+              "front": "lichen spread across rock",
+              "back": "lichen répandu sur la roche"
+            },
+            {
+              "front": "moss covered shaded ground",
+              "back": "sol ombragé couvert de mousse"
+            },
+            {
+              "front": "clover filled with green",
+              "back": "trèfle rempli de vert"
+            },
+            {
+              "front": "tulip opened in sun",
+              "back": "tulipe ouverte au soleil"
+            },
+            {
+              "front": "rose bloomed in garden",
+              "back": "la rose a fleuri dans le jardin"
+            },
+            {
+              "front": "daisy stood in grass",
+              "back": "la marguerite se tenait dans l&#39;herbe"
+            },
+            {
+              "front": "ivy climbed tall walls",
+              "back": "le lierre grimpait sur les hauts murs"
+            },
+            {
+              "front": "cypress reached sky above",
+              "back": "le cyprès a atteint le ciel au-dessus"
+            },
+            {
+              "front": "hazel produced nuts autumn",
+              "back": "noisetier produit des noix en automne"
+            },
+            {
+              "front": "yew thrived near stream",
+              "back": "l&#39;if prospérait près du ruisseau"
+            },
+            {
+              "front": "palm swayed in wind",
+              "back": "palmier balancé par le vent"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "tree stood tall in forest",
+              "back": "un arbre se dressait haut dans la forêt"
+            },
+            {
+              "front": "mountain rose high above valley",
+              "back": "rosier des montagnes au-dessus de la vallée"
+            },
+            {
+              "front": "river flowed swiftly through landscape",
+              "back": "la rivière coulait rapidement à travers le paysage"
+            },
+            {
+              "front": "lake sparkled under the sun",
+              "back": "le lac scintillait sous le soleil"
+            },
+            {
+              "front": "forest grew thick with trees",
+              "back": "la forêt s&#39;est épaissie avec des arbres"
+            },
+            {
+              "front": "plant thrived in sunlight yesterday",
+              "back": "la plante a prospéré au soleil hier"
+            },
+            {
+              "front": "flower bloomed brightly in spring",
+              "back": "la fleur a fleuri brillamment au printemps"
+            },
+            {
+              "front": "grass grew lush and green",
+              "back": "l&#39;herbe est devenue luxuriante et verte"
+            },
+            {
+              "front": "rock supported life in ecosystem",
+              "back": "la roche soutenait la vie dans l&#39;écosystème"
+            },
+            {
+              "front": "leaf fell softly to ground",
+              "back": "la feuille tomba doucement sur le sol"
+            },
+            {
+              "front": "root anchored deeply in soil",
+              "back": "racine ancrée profondément dans le sol"
+            },
+            {
+              "front": "bush attracted wildlife to garden",
+              "back": "le buisson a attiré la faune dans le jardin"
+            },
+            {
+              "front": "stone weathered over long time",
+              "back": "pierre altérée par le temps"
+            },
+            {
+              "front": "valley stretched wide and far",
+              "back": "la vallée s&#39;étendait largement et loin"
+            },
+            {
+              "front": "canyon cut deep into earth",
+              "back": "canyon creusé profondément dans la terre"
+            },
+            {
+              "front": "desert heated under bright sun",
+              "back": "désert chauffé sous un soleil éclatant"
+            },
+            {
+              "front": "coast eroded with passing storms",
+              "back": "côte érodée par les tempêtes passagères"
+            },
+            {
+              "front": "ocean surged against rocky shore",
+              "back": "l&#39;océan s&#39;est déchaîné contre le rivage rocheux"
+            },
+            {
+              "front": "bay calmed boats at sunset",
+              "back": "bateaux apaisés dans la baie au coucher du soleil"
+            },
+            {
+              "front": "island offered refuge to travelers",
+              "back": "l&#39;île offrait refuge aux voyageurs"
+            },
+            {
+              "front": "hill rose gently into clouds",
+              "back": "la colline s&#39;élevait doucement dans les nuages"
+            },
+            {
+              "front": "cliff crumbled into the sea",
+              "back": "falaise effondrée dans la mer"
+            },
+            {
+              "front": "stream babbled softly through rocks",
+              "back": "le ruisseau murmurait doucement à travers les rochers"
+            },
+            {
+              "front": "swamp teemed with vibrant life",
+              "back": "marais grouillant de vie vibrante"
+            },
+            {
+              "front": "marsh dried up during summer",
+              "back": "marais asséché pendant l&#39;été"
+            },
+            {
+              "front": "field flourished under warm sun",
+              "back": "le champ a fleuri sous le soleil chaud"
+            },
+            {
+              "front": "meadow bloomed with colorful flowers",
+              "back": "prairie fleurie de fleurs colorées"
+            },
+            {
+              "front": "woods provided shelter from storms",
+              "back": "les bois offraient un abri contre les tempêtes"
+            },
+            {
+              "front": "thicket concealed many small animals",
+              "back": "le fourré cachait de nombreux petits animaux"
+            },
+            {
+              "front": "canopy shaded travelers from sun",
+              "back": "la canopée protégeait les voyageurs du soleil"
+            },
+            {
+              "front": "branch broke off in wind",
+              "back": "branche cassée par le vent"
+            },
+            {
+              "front": "blossom opened wide for bees",
+              "back": "fleur largement ouverte pour les abeilles"
+            },
+            {
+              "front": "fruit ripened slowly on tree",
+              "back": "fruit mûrissant lentement sur l&#39;arbre"
+            },
+            {
+              "front": "seed sprouted quickly in garden",
+              "back": "les graines ont germé rapidement dans le jardin"
+            },
+            {
+              "front": "pine swayed gently in breeze",
+              "back": "le pin se balançait doucement dans la brise"
+            },
+            {
+              "front": "cedar thrived in rich soil",
+              "back": "le cèdre prospérait dans un sol riche"
+            },
+            {
+              "front": "maple turned bright in autumn",
+              "back": "l&#39;érable est devenu brillant en automne"
+            },
+            {
+              "front": "oak grew strong and sturdy",
+              "back": "le chêne est devenu fort et robuste"
+            },
+            {
+              "front": "birch swayed softly in wind",
+              "back": "le bouleau se balançait doucement dans le vent"
+            },
+            {
+              "front": "willow bent low to ground",
+              "back": "saule courbé vers le sol"
+            },
+            {
+              "front": "aspen quaked gently in breeze",
+              "back": "le tremble tremblait doucement sous la brise"
+            },
+            {
+              "front": "cactus thrived despite dry conditions",
+              "back": "les cactus ont prospéré malgré des conditions sèches"
+            },
+            {
+              "front": "fern unfurled gracefully in shade",
+              "back": "fougère déployée gracieusement à l&#39;ombre"
+            },
+            {
+              "front": "lichen spread across the rock",
+              "back": "lichen répandu sur le rocher"
+            },
+            {
+              "front": "moss covered ground near stream",
+              "back": "sol couvert de mousse près du ruisseau"
+            },
+            {
+              "front": "clover filled fields with green",
+              "back": "champs remplis de trèfles verts"
+            },
+            {
+              "front": "tulip opened fully in sun",
+              "back": "tulipe entièrement ouverte au soleil"
+            },
+            {
+              "front": "rose bloomed beautifully in garden",
+              "back": "la rose a magnifiquement fleuri dans le jardin"
+            },
+            {
+              "front": "daisy stood tall in grass",
+              "back": "la marguerite se dressait fièrement dans l&#39;herbe"
+            },
+            {
+              "front": "ivy climbed walls of building",
+              "back": "le lierre a grimpé sur les murs du bâtiment"
+            },
+            {
+              "front": "cypress reached sky above others",
+              "back": "le cyprès a atteint le ciel au-dessus des autres"
+            },
+            {
+              "front": "hazel produced nuts in autumn",
+              "back": "le noisetier produit des noix en automne"
+            },
+            {
+              "front": "yew thrived near the stream",
+              "back": "l&#39;if prospérait près du ruisseau"
+            },
+            {
+              "front": "palm swayed gently in wind",
+              "back": "palmier se balançait doucement dans le vent"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "tree stood tall in the forest",
+              "back": "un arbre se dressait haut dans la forêt"
+            },
+            {
+              "front": "mountain rose high above the valley",
+              "back": "rosier des montagnes au-dessus de la vallée"
+            },
+            {
+              "front": "river flowed swiftly through the landscape",
+              "back": "la rivière coulait rapidement à travers le paysage"
+            },
+            {
+              "front": "lake sparkled under the bright sun",
+              "back": "le lac scintillait sous le soleil éclatant"
+            },
+            {
+              "front": "forest grew thick with ancient trees",
+              "back": "la forêt s&#39;est épaissie avec des arbres anciens"
+            },
+            {
+              "front": "plant thrived in the warm sunlight",
+              "back": "la plante a prospéré sous la chaude lumière du soleil"
+            },
+            {
+              "front": "flower bloomed brightly in the spring",
+              "back": "la fleur a fleuri brillamment au printemps"
+            },
+            {
+              "front": "grass grew lush across the field",
+              "back": "l&#39;herbe poussait luxuriante à travers le champ"
+            },
+            {
+              "front": "rock supported life in the ecosystem",
+              "back": "la roche soutenait la vie dans l&#39;écosystème"
+            },
+            {
+              "front": "leaf fell gently to the ground",
+              "back": "la feuille est tombée doucement sur le sol"
+            },
+            {
+              "front": "root anchored deep in the soil",
+              "back": "racine ancrée profondément dans le sol"
+            },
+            {
+              "front": "bush attracted wildlife seeking shelter",
+              "back": "la brousse a attiré la faune en quête d&#39;abri"
+            },
+            {
+              "front": "stone weathered over a long time",
+              "back": "pierre altérée par le temps"
+            },
+            {
+              "front": "valley stretched wide into the distance",
+              "back": "la vallée s&#39;étendait au loin"
+            },
+            {
+              "front": "canyon cut deep into the earth",
+              "back": "canyon creusé profondément dans la terre"
+            },
+            {
+              "front": "desert heated under the bright sun",
+              "back": "désert chauffé sous le soleil éclatant"
+            },
+            {
+              "front": "coast eroded gradually over many storms",
+              "back": "côte érodée progressivement au fil de nombreuses tempêtes"
+            },
+            {
+              "front": "ocean surged against the rocky shore",
+              "back": "l&#39;océan s&#39;est déchaîné contre le rivage rocheux"
+            },
+            {
+              "front": "bay calmed boats during the sunset",
+              "back": "bateaux apaisés dans la baie pendant le coucher du soleil"
+            },
+            {
+              "front": "island offered refuge for weary travelers",
+              "back": "l&#39;île offrait refuge aux voyageurs fatigués"
+            },
+            {
+              "front": "hill rose gently into the clouds",
+              "back": "la colline s&#39;élevait doucement dans les nuages"
+            },
+            {
+              "front": "cliff crumbled into the raging sea",
+              "back": "falaise effondrée dans la mer déchaînée"
+            },
+            {
+              "front": "stream babbled softly over the rocks",
+              "back": "le ruisseau murmurait doucement sur les rochers"
+            },
+            {
+              "front": "swamp teemed with life and beauty",
+              "back": "marais regorgeant de vie et de beauté"
+            },
+            {
+              "front": "marsh dried up during the summer",
+              "back": "marais asséché pendant l&#39;été"
+            },
+            {
+              "front": "field flourished under the warm sun",
+              "back": "le champ a fleuri sous le soleil chaud"
+            },
+            {
+              "front": "meadow bloomed with colorful wildflowers",
+              "back": "prairie fleurie de fleurs sauvages colorées"
+            },
+            {
+              "front": "woods provided shelter from fierce storms",
+              "back": "les bois offraient un abri contre les violentes tempêtes"
+            },
+            {
+              "front": "thicket concealed many small animals",
+              "back": "le fourré cachait de nombreux petits animaux"
+            },
+            {
+              "front": "canopy shaded travelers from the sun",
+              "back": "la canopée protégeait les voyageurs du soleil"
+            },
+            {
+              "front": "branch broke off during the storm",
+              "back": "branche cassée pendant la tempête"
+            },
+            {
+              "front": "blossom opened wide for the bees",
+              "back": "fleur largement ouverte pour les abeilles"
+            },
+            {
+              "front": "fruit ripened slowly on the tree",
+              "back": "les fruits mûrissent lentement sur l&#39;arbre"
+            },
+            {
+              "front": "seed sprouted quickly in the garden",
+              "back": "les graines ont germé rapidement dans le jardin"
+            },
+            {
+              "front": "pine swayed gently in the breeze",
+              "back": "le pin se balançait doucement dans la brise"
+            },
+            {
+              "front": "cedar thrived well in the soil",
+              "back": "le cèdre a bien prospéré dans le sol"
+            },
+            {
+              "front": "maple turned bright during the fall",
+              "back": "l&#39;érable est devenu brillant à l&#39;automne"
+            },
+            {
+              "front": "oak grew strong over many years",
+              "back": "le chêne est devenu fort au fil des années"
+            },
+            {
+              "front": "birch swayed softly in the wind",
+              "back": "le bouleau se balançait doucement dans le vent"
+            },
+            {
+              "front": "willow bent low to the ground",
+              "back": "saule courbé vers le sol"
+            },
+            {
+              "front": "aspen quaked lightly in the breeze",
+              "back": "le tremble tremblait légèrement dans la brise"
+            },
+            {
+              "front": "cactus thrived despite the dry conditions",
+              "back": "les cactus ont prospéré malgré les conditions sèches"
+            },
+            {
+              "front": "fern unfurled gracefully in the shade",
+              "back": "fougère déployée gracieusement à l&#39;ombre"
+            },
+            {
+              "front": "lichen spread widely across the rock",
+              "back": "lichen largement répandu sur la roche"
+            },
+            {
+              "front": "moss covered ground near the stream",
+              "back": "sol couvert de mousse près du ruisseau"
+            },
+            {
+              "front": "clover filled fields with bright green",
+              "back": "des champs remplis de trèfles d&#39;un vert vif"
+            },
+            {
+              "front": "tulip opened fully in the sun",
+              "back": "tulipe entièrement ouverte au soleil"
+            },
+            {
+              "front": "rose bloomed beautifully in the garden",
+              "back": "la rose a magnifiquement fleuri dans le jardin"
+            },
+            {
+              "front": "daisy stood tall in the grass",
+              "back": "la marguerite se tenait haute dans l&#39;herbe"
+            },
+            {
+              "front": "ivy climbed walls of the building",
+              "back": "le lierre a grimpé sur les murs du bâtiment"
+            },
+            {
+              "front": "cypress reached sky above the others",
+              "back": "le cyprès a atteint le ciel au-dessus des autres"
+            },
+            {
+              "front": "hazel produced nuts during the autumn",
+              "back": "le noisetier produit des noix pendant l&#39;automne"
+            },
+            {
+              "front": "yew thrived near the flowing stream",
+              "back": "l&#39;if prospérait près du ruisseau qui coulait"
+            },
+            {
+              "front": "palm swayed gently in the wind",
+              "back": "palmier se balançait doucement dans le vent"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "tree will grow", "back": "l&#39;arbre poussera" },
+            {
+              "front": "mountain will rise",
+              "back": "la montagne s&#39;élèvera"
+            },
+            { "front": "river will flow", "back": "la rivière coulera" },
+            { "front": "lake will sparkle", "back": "le lac scintillera" },
+            {
+              "front": "forest will expand",
+              "back": "la forêt va s&#39;étendre"
+            },
+            { "front": "plant will thrive", "back": "la plante prospérera" },
+            { "front": "flower will bloom", "back": "la fleur fleurira" },
+            { "front": "grass will grow", "back": "l&#39;herbe poussera" },
+            {
+              "front": "rock will weather",
+              "back": "la roche résistera aux intempéries"
+            },
+            { "front": "leaf will fall", "back": "la feuille tombera" },
+            { "front": "root will anchor", "back": "la racine s&#39;ancrera" },
+            { "front": "bush will attract", "back": "le buisson attirera" },
+            { "front": "stone will support", "back": "la pierre soutiendra" },
+            {
+              "front": "valley will stretch",
+              "back": "la vallée s&#39;étendra"
+            },
+            {
+              "front": "canyon will deepen",
+              "back": "le canyon va s&#39;approfondir"
+            },
+            { "front": "desert will heat", "back": "le désert va chauffer" },
+            { "front": "coast will erode", "back": "la côte va s&#39;éroder" },
+            { "front": "ocean will surge", "back": "l&#39;océan va monter" },
+            { "front": "bay will calm", "back": "la baie se calmera" },
+            { "front": "island will appear", "back": "l&#39;île apparaîtra" },
+            { "front": "hill will rise", "back": "la colline s&#39;élèvera" },
+            {
+              "front": "cliff will crumble",
+              "back": "la falaise va s&#39;effondrer"
+            },
+            {
+              "front": "stream will babble",
+              "back": "le ruisseau va babiller"
+            },
+            { "front": "swamp will teem", "back": "le marais grouillera" },
+            { "front": "marsh will dry", "back": "le marais s&#39;asséchera" },
+            { "front": "field will flourish", "back": "le champ prospérera" },
+            { "front": "meadow will bloom", "back": "la prairie fleurira" },
+            { "front": "woods will provide", "back": "les bois fourniront" },
+            { "front": "thicket will conceal", "back": "le fourré cachera" },
+            {
+              "front": "canopy will shade",
+              "back": "la canopée fera de l&#39;ombre"
+            },
+            { "front": "branch will break", "back": "la branche va se casser" },
+            { "front": "blossom will open", "back": "la fleur s&#39;ouvrira" },
+            { "front": "fruit will ripen", "back": "les fruits mûriront" },
+            { "front": "seed will sprout", "back": "la graine germera" },
+            { "front": "pine will sway", "back": "le pin se balancera" },
+            { "front": "cedar will thrive", "back": "le cèdre prospérera" },
+            { "front": "maple will turn", "back": "l&#39;érable deviendra" },
+            { "front": "oak will grow", "back": "le chêne poussera" },
+            { "front": "birch will sway", "back": "le bouleau se balancera" },
+            { "front": "willow will bend", "back": "le saule se pliera" },
+            { "front": "aspen will quake", "back": "le tremble va trembler" },
+            {
+              "front": "cactus will thrive",
+              "back": "les cactus prospéreront"
+            },
+            { "front": "fern will unfurl", "back": "la fougère se déploiera" },
+            {
+              "front": "lichen will spread",
+              "back": "le lichen va se propager"
+            },
+            { "front": "moss will cover", "back": "la mousse couvrira" },
+            { "front": "clover will fill", "back": "le trèfle remplira" },
+            { "front": "tulip will open", "back": "la tulipe s&#39;ouvrira" },
+            { "front": "rose will bloom", "back": "la rose fleurira" },
+            {
+              "front": "daisy will stand",
+              "back": "la marguerite se tiendra debout"
+            },
+            { "front": "ivy will climb", "back": "le lierre grimpera" },
+            { "front": "cypress will reach", "back": "le cyprès atteindra" },
+            { "front": "hazel will produce", "back": "le noisetier produira" },
+            { "front": "yew will thrive", "back": "l&#39;if prospérera" },
+            { "front": "palm will sway", "back": "la paume se balancera" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "tree will grow tall", "back": "l&#39;arbre grandira" },
+            {
+              "front": "mountain will rise high",
+              "back": "la montagne s&#39;élèvera haut"
+            },
+            {
+              "front": "river will flow smoothly",
+              "back": "la rivière coulera doucement"
+            },
+            {
+              "front": "lake will sparkle brightly",
+              "back": "le lac scintillera de mille feux"
+            },
+            {
+              "front": "forest will expand gradually",
+              "back": "la forêt s&#39;étendra progressivement"
+            },
+            {
+              "front": "plant will thrive abundantly",
+              "back": "la plante prospérera abondamment"
+            },
+            {
+              "front": "flower will bloom beautifully",
+              "back": "la fleur fleurira magnifiquement"
+            },
+            {
+              "front": "grass will grow lush",
+              "back": "l&#39;herbe poussera luxuriante"
+            },
+            {
+              "front": "rock will support life",
+              "back": "le rocher soutiendra la vie"
+            },
+            {
+              "front": "leaf will fall gently",
+              "back": "la feuille tombera doucement"
+            },
+            {
+              "front": "root will anchor deeply",
+              "back": "la racine s&#39;ancrera profondément"
+            },
+            {
+              "front": "bush will attract wildlife",
+              "back": "le buisson attirera la faune"
+            },
+            {
+              "front": "stone will weather slowly",
+              "back": "la pierre s&#39;usera lentement"
+            },
+            {
+              "front": "valley will stretch wide",
+              "back": "la vallée s&#39;étendra largement"
+            },
+            {
+              "front": "canyon will cut deep",
+              "back": "le canyon sera profond"
+            },
+            {
+              "front": "desert will heat up",
+              "back": "le désert va se réchauffer"
+            },
+            {
+              "front": "coast will erode gradually",
+              "back": "la côte s&#39;érodera progressivement"
+            },
+            {
+              "front": "ocean will surge powerfully",
+              "back": "l&#39;océan va déferler puissamment"
+            },
+            {
+              "front": "bay will calm boats",
+              "back": "la baie calmera les bateaux"
+            },
+            {
+              "front": "island will appear suddenly",
+              "back": "l&#39;île apparaîtra soudainement"
+            },
+            {
+              "front": "hill will rise gently",
+              "back": "la colline s&#39;élèvera doucement"
+            },
+            {
+              "front": "cliff will crumble slowly",
+              "back": "la falaise s&#39;effondrera lentement"
+            },
+            {
+              "front": "stream will babble happily",
+              "back": "le ruisseau gazouillera joyeusement"
+            },
+            {
+              "front": "swamp will teem with life",
+              "back": "le marais regorgera de vie"
+            },
+            {
+              "front": "marsh will dry up",
+              "back": "le marais s&#39;asséchera"
+            },
+            {
+              "front": "field will flourish beautifully",
+              "back": "le champ fleurira magnifiquement"
+            },
+            {
+              "front": "meadow will bloom brightly",
+              "back": "la prairie fleurira brillamment"
+            },
+            {
+              "front": "woods will provide shelter",
+              "back": "les bois fourniront un abri"
+            },
+            {
+              "front": "thicket will conceal animals",
+              "back": "le fourré cachera les animaux"
+            },
+            {
+              "front": "canopy will shade travelers",
+              "back": "la canopée protégera les voyageurs"
+            },
+            {
+              "front": "branch will break easily",
+              "back": "la branche se cassera facilement"
+            },
+            {
+              "front": "blossom will open wide",
+              "back": "la fleur s&#39;ouvrira largement"
+            },
+            {
+              "front": "fruit will ripen fully",
+              "back": "les fruits mûriront complètement"
+            },
+            {
+              "front": "seed will sprout quickly",
+              "back": "la graine germera rapidement"
+            },
+            {
+              "front": "pine will sway gently",
+              "back": "le pin se balancera doucement"
+            },
+            {
+              "front": "cedar will thrive well",
+              "back": "le cèdre prospérera bien"
+            },
+            {
+              "front": "maple will turn red",
+              "back": "l&#39;érable deviendra rouge"
+            },
+            {
+              "front": "oak will grow strong",
+              "back": "le chêne deviendra fort"
+            },
+            {
+              "front": "birch will sway lazily",
+              "back": "le bouleau se balancera paresseusement"
+            },
+            {
+              "front": "willow will bend gracefully",
+              "back": "le saule se pliera gracieusement"
+            },
+            {
+              "front": "aspen will quake lightly",
+              "back": "le tremble tremblera légèrement"
+            },
+            {
+              "front": "cactus will thrive abundantly",
+              "back": "les cactus prospéreront abondamment"
+            },
+            {
+              "front": "fern will unfurl slowly",
+              "back": "la fougère se déploiera lentement"
+            },
+            {
+              "front": "lichen will spread widely",
+              "back": "le lichen se propagera largement"
+            },
+            {
+              "front": "moss will cover ground",
+              "back": "la mousse couvrira le sol"
+            },
+            {
+              "front": "clover will fill fields",
+              "back": "le trèfle remplira les champs"
+            },
+            {
+              "front": "tulip will open fully",
+              "back": "la tulipe s&#39;ouvrira complètement"
+            },
+            {
+              "front": "rose will bloom beautifully",
+              "back": "la rose fleurira magnifiquement"
+            },
+            {
+              "front": "daisy will stand tall",
+              "back": "la marguerite se tiendra haute"
+            },
+            {
+              "front": "ivy will climb high",
+              "back": "le lierre grimpera haut"
+            },
+            {
+              "front": "cypress will reach sky",
+              "back": "le cyprès atteindra le ciel"
+            },
+            {
+              "front": "hazel will produce nuts",
+              "back": "le noisetier produira des noix"
+            },
+            {
+              "front": "yew will thrive well",
+              "back": "l&#39;if prospérera bien"
+            },
+            {
+              "front": "palm will sway gently",
+              "back": "la paume se balancera doucement"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "tree will grow tall soon",
+              "back": "l&#39;arbre va bientôt grandir"
+            },
+            {
+              "front": "mountain will rise above valley",
+              "back": "la montagne s&#39;élèvera au-dessus de la vallée"
+            },
+            {
+              "front": "river will flow through landscape",
+              "back": "la rivière coulera à travers le paysage"
+            },
+            {
+              "front": "lake will sparkle in sunlight",
+              "back": "le lac scintillera au soleil"
+            },
+            {
+              "front": "forest will expand over time",
+              "back": "la forêt s&#39;étendra au fil du temps"
+            },
+            {
+              "front": "plant will thrive in sunlight",
+              "back": "la plante prospérera au soleil"
+            },
+            {
+              "front": "flower will bloom in spring",
+              "back": "la fleur fleurira au printemps"
+            },
+            {
+              "front": "grass will grow lush green",
+              "back": "l&#39;herbe poussera d&#39;un vert luxuriant"
+            },
+            {
+              "front": "rock will support ecosystem life",
+              "back": "la roche soutiendra la vie de l&#39;écosystème"
+            },
+            {
+              "front": "leaf will fall to ground",
+              "back": "la feuille tombera au sol"
+            },
+            {
+              "front": "root will anchor deeply tomorrow",
+              "back": "la racine s&#39;ancrera profondément demain"
+            },
+            {
+              "front": "bush will attract local wildlife",
+              "back": "le buisson attirera la faune locale"
+            },
+            {
+              "front": "stone will weather over years",
+              "back": "la pierre résistera au fil des années"
+            },
+            {
+              "front": "valley will stretch far away",
+              "back": "la vallée s&#39;étendra au loin"
+            },
+            {
+              "front": "canyon will cut through earth",
+              "back": "le canyon traversera la terre"
+            },
+            {
+              "front": "desert will heat under sun",
+              "back": "le désert se réchauffera sous le soleil"
+            },
+            {
+              "front": "coast will erode over time",
+              "back": "la côte s&#39;érodera avec le temps"
+            },
+            {
+              "front": "ocean will surge against shore",
+              "back": "l&#39;océan se déchaînera contre le rivage"
+            },
+            {
+              "front": "bay will calm boats overnight",
+              "back": "la baie calmera les bateaux pendant la nuit"
+            },
+            {
+              "front": "island will appear in distance",
+              "back": "l&#39;île apparaîtra au loin"
+            },
+            {
+              "front": "hill will rise gently again",
+              "back": "la colline s&#39;élèvera à nouveau doucement"
+            },
+            {
+              "front": "cliff will crumble into sea",
+              "back": "la falaise s&#39;effondrera dans la mer"
+            },
+            {
+              "front": "stream will babble over rocks",
+              "back": "le ruisseau babillera sur les rochers"
+            },
+            {
+              "front": "swamp will teem with life",
+              "back": "le marais regorgera de vie"
+            },
+            {
+              "front": "marsh will dry during summer",
+              "back": "le marais s&#39;assèchera pendant l&#39;été"
+            },
+            {
+              "front": "field will flourish with flowers",
+              "back": "le champ fleurira de fleurs"
+            },
+            {
+              "front": "meadow will bloom with colors",
+              "back": "la prairie fleurira de couleurs"
+            },
+            {
+              "front": "woods will provide shelter soon",
+              "back": "les bois offriront bientôt un abri"
+            },
+            {
+              "front": "thicket will conceal many animals",
+              "back": "le fourré cachera de nombreux animaux"
+            },
+            {
+              "front": "canopy will shade travelers from sun",
+              "back": "la canopée protégera les voyageurs du soleil"
+            },
+            {
+              "front": "branch will break in storm",
+              "back": "la branche se brisera pendant la tempête"
+            },
+            {
+              "front": "blossom will open for bees",
+              "back": "la fleur s&#39;ouvrira pour les abeilles"
+            },
+            {
+              "front": "fruit will ripen on tree",
+              "back": "les fruits mûriront sur l&#39;arbre"
+            },
+            {
+              "front": "seed will sprout in garden",
+              "back": "la graine germera dans le jardin"
+            },
+            {
+              "front": "pine will sway in breeze",
+              "back": "le pin se balancera dans la brise"
+            },
+            {
+              "front": "cedar will thrive in soil",
+              "back": "le cèdre prospère dans le sol"
+            },
+            {
+              "front": "maple will turn in autumn",
+              "back": "l&#39;érable deviendra jaune en automne"
+            },
+            {
+              "front": "oak will grow strong tree",
+              "back": "le chêne deviendra un arbre fort"
+            },
+            {
+              "front": "birch will sway in wind",
+              "back": "le bouleau se balancera au vent"
+            },
+            {
+              "front": "willow will bend to ground",
+              "back": "le saule se pliera jusqu&#39;au sol"
+            },
+            {
+              "front": "aspen will quake in breeze",
+              "back": "le tremble tremblera sous la brise"
+            },
+            {
+              "front": "cactus will thrive in drought",
+              "back": "les cactus prospèrent en période de sécheresse"
+            },
+            {
+              "front": "fern will unfurl in shade",
+              "back": "la fougère se déploiera à l&#39;ombre"
+            },
+            {
+              "front": "lichen will spread across rock",
+              "back": "le lichen se propagera sur la roche"
+            },
+            {
+              "front": "moss will cover ground near stream",
+              "back": "la mousse couvrira le sol près du ruisseau"
+            },
+            {
+              "front": "clover will fill with green",
+              "back": "le trèfle se remplira de vert"
+            },
+            {
+              "front": "tulip will open in sun",
+              "back": "la tulipe s&#39;ouvrira au soleil"
+            },
+            {
+              "front": "rose will bloom in garden",
+              "back": "la rose fleurira dans le jardin"
+            },
+            {
+              "front": "daisy will stand in grass",
+              "back": "la marguerite se tiendra dans l&#39;herbe"
+            },
+            {
+              "front": "ivy will climb walls of building",
+              "back": "le lierre grimpera aux murs des bâtiments"
+            },
+            {
+              "front": "cypress will reach sky above",
+              "back": "le cyprès atteindra le ciel au-dessus"
+            },
+            {
+              "front": "hazel will produce nuts autumn",
+              "back": "le noisetier produira des noix en automne"
+            },
+            {
+              "front": "yew will thrive near stream",
+              "back": "l&#39;if prospère près du ruisseau"
+            },
+            {
+              "front": "palm will sway in wind",
+              "back": "le palmier se balancera au vent"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "tree will grow tall in the forest",
+              "back": "l&#39;arbre grandira dans la forêt"
+            },
+            {
+              "front": "mountain will rise high above the valley",
+              "back": "la montagne s&#39;élèvera bien au-dessus de la vallée"
+            },
+            {
+              "front": "river will flow smoothly through the landscape",
+              "back": "la rivière coulera doucement à travers le paysage"
+            },
+            {
+              "front": "lake will sparkle brightly in the sunlight",
+              "back": "le lac scintillera au soleil"
+            },
+            {
+              "front": "forest will expand gradually over the years",
+              "back": "la forêt s&#39;étendra progressivement au fil des années"
+            },
+            {
+              "front": "plant will thrive abundantly in sunlight",
+              "back": "la plante prospérera abondamment au soleil"
+            },
+            {
+              "front": "flower will bloom beautifully in springtime",
+              "back": "la fleur fleurira magnifiquement au printemps"
+            },
+            {
+              "front": "grass will grow lush across the field",
+              "back": "l&#39;herbe poussera abondamment à travers le champ"
+            },
+            {
+              "front": "rock will support life in ecosystem",
+              "back": "la roche soutiendra la vie dans l&#39;écosystème"
+            },
+            {
+              "front": "leaf will fall gently to the ground",
+              "back": "la feuille tombera doucement sur le sol"
+            },
+            {
+              "front": "root will anchor deeply in the soil",
+              "back": "la racine s&#39;ancrera profondément dans le sol"
+            },
+            {
+              "front": "bush will attract wildlife seeking shelter",
+              "back": "le buisson attirera la faune en quête d&#39;abri"
+            },
+            {
+              "front": "stone will weather slowly over many years",
+              "back": "la pierre s&#39;usera lentement au fil des années"
+            },
+            {
+              "front": "valley will stretch wide into the distance",
+              "back": "la vallée s&#39;étendra au loin"
+            },
+            {
+              "front": "canyon will cut deep into the earth",
+              "back": "le canyon creusera profondément dans la terre"
+            },
+            {
+              "front": "desert will heat up under the sun",
+              "back": "le désert se réchauffera sous le soleil"
+            },
+            {
+              "front": "coast will erode gradually with storms",
+              "back": "la côte s&#39;érodera progressivement avec les tempêtes"
+            },
+            {
+              "front": "ocean will surge against the rocky shore",
+              "back": "l&#39;océan se déchaînera contre le rivage rocheux"
+            },
+            {
+              "front": "bay will calm boats at sunset",
+              "back": "la baie calmera les bateaux au coucher du soleil"
+            },
+            {
+              "front": "island will appear suddenly on horizon",
+              "back": "l&#39;île apparaîtra soudainement à l&#39;horizon"
+            },
+            {
+              "front": "hill will rise gently into the sky",
+              "back": "la colline s&#39;élèvera doucement vers le ciel"
+            },
+            {
+              "front": "cliff will crumble slowly into the sea",
+              "back": "la falaise s&#39;effondrera lentement dans la mer"
+            },
+            {
+              "front": "stream will babble happily over rocks",
+              "back": "le ruisseau gazouillera joyeusement sur les rochers"
+            },
+            {
+              "front": "swamp will teem with life and beauty",
+              "back": "le marais regorgera de vie et de beauté"
+            },
+            {
+              "front": "marsh will dry up during hot summer",
+              "back": "le marais s&#39;assèchera pendant l&#39;été chaud"
+            },
+            {
+              "front": "field will flourish beautifully under sunshine",
+              "back": "le champ fleurira magnifiquement sous le soleil"
+            },
+            {
+              "front": "meadow will bloom with colorful wildflowers",
+              "back": "la prairie fleurira de fleurs sauvages colorées"
+            },
+            {
+              "front": "woods will provide shelter from storms",
+              "back": "les bois offriront un abri contre les tempêtes"
+            },
+            {
+              "front": "thicket will conceal many small animals",
+              "back": "le fourré cachera de nombreux petits animaux"
+            },
+            {
+              "front": "canopy will shade travelers from sun",
+              "back": "la canopée protégera les voyageurs du soleil"
+            },
+            {
+              "front": "branch will break off in strong wind",
+              "back": "la branche se cassera en cas de vent fort"
+            },
+            {
+              "front": "blossom will open wide for the bees",
+              "back": "la fleur s&#39;ouvrira largement pour les abeilles"
+            },
+            {
+              "front": "fruit will ripen slowly on tree",
+              "back": "les fruits mûriront lentement sur l&#39;arbre"
+            },
+            {
+              "front": "seed will sprout quickly in the garden",
+              "back": "les graines germeront rapidement dans le jardin"
+            },
+            {
+              "front": "pine will sway gently in the breeze",
+              "back": "le pin se balancera doucement dans la brise"
+            },
+            {
+              "front": "cedar will thrive well in the soil",
+              "back": "le cèdre prospérera bien dans le sol"
+            },
+            {
+              "front": "maple will turn bright during autumn",
+              "back": "l&#39;érable deviendra brillant en automne"
+            },
+            {
+              "front": "oak will grow strong over the years",
+              "back": "le chêne deviendra fort au fil des années"
+            },
+            {
+              "front": "birch will sway softly in the wind",
+              "back": "le bouleau se balancera doucement dans le vent"
+            },
+            {
+              "front": "willow will bend gracefully to ground",
+              "back": "le saule se pliera gracieusement vers le sol"
+            },
+            {
+              "front": "aspen will quake lightly in the breeze",
+              "back": "le tremble tremblera légèrement dans la brise"
+            },
+            {
+              "front": "cactus will thrive despite dry conditions",
+              "back": "le cactus prospérera malgré les conditions sèches"
+            },
+            {
+              "front": "fern will unfurl gracefully in the shade",
+              "back": "la fougère se déploiera gracieusement à l&#39;ombre"
+            },
+            {
+              "front": "lichen will spread widely across the rock",
+              "back": "le lichen se répandra largement sur la roche"
+            },
+            {
+              "front": "moss will cover ground near the stream",
+              "back": "la mousse couvrira le sol près du ruisseau"
+            },
+            {
+              "front": "clover will fill fields with green growth",
+              "back": "le trèfle remplira les champs de croissance verte"
+            },
+            {
+              "front": "tulip will open fully in the sun",
+              "back": "la tulipe s&#39;ouvrira complètement au soleil"
+            },
+            {
+              "front": "rose will bloom beautifully in the garden",
+              "back": "la rose fleurira magnifiquement dans le jardin"
+            },
+            {
+              "front": "daisy will stand in the grass",
+              "back": "la marguerite se tiendra dans l&#39;herbe"
+            },
+            {
+              "front": "ivy will climb tall building walls",
+              "back": "le lierre grimpe sur les hauts murs des bâtiments"
+            },
+            {
+              "front": "cypress will reach for the sky",
+              "back": "le cyprès atteindra le ciel"
+            },
+            {
+              "front": "hazel will produce nuts during autumn",
+              "back": "le noisetier produira des noix en automne"
+            },
+            {
+              "front": "yew will thrive near the stream",
+              "back": "l&#39;if prospérera près du ruisseau"
+            },
+            {
+              "front": "palm will sway in the wind",
+              "back": "le palmier se balancera dans le vent"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

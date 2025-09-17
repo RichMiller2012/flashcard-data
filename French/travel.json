@@ -1,0 +1,1242 @@
+{
+  "language": "French",
+  "flashcards": [
+    {
+      "topic": "Travel",
+      "cards": [
+        {
+          "tense": "present",
+          "wordcount": 1,
+          "phrases": [
+            { "front": "Passport", "back": "passeport" },
+            { "front": "Baggage", "back": "bagages" },
+            { "front": "Luggage", "back": "bagage" },
+            { "front": "Route", "back": "itinéraire" },
+            { "front": "Gate", "back": "grille" },
+            { "front": "Ticket", "back": "billet" },
+            { "front": "Visa", "back": "Visa" },
+            { "front": "Itinerary", "back": "itinéraire" },
+            { "front": "Boarding", "back": "embarquement" },
+            { "front": "Departure", "back": "départ" },
+            { "front": "Arrival", "back": "arrivée" },
+            { "front": "Hotel", "back": "hôtel" },
+            { "front": "Reservation", "back": "réservation" },
+            { "front": "Suitcase", "back": "valise" },
+            { "front": "Backpack", "back": "sac à dos" },
+            { "front": "Map", "back": "carte" },
+            { "front": "Guidebook", "back": "guide" },
+            { "front": "Currency", "back": "devise" },
+            { "front": "Taxi", "back": "Taxi" },
+            { "front": "Train", "back": "former" },
+            { "front": "Flight", "back": "vol" },
+            { "front": "Car", "back": "voiture" },
+            { "front": "Insurance", "back": "assurance" },
+            { "front": "Emergency", "back": "urgence" },
+            { "front": "Terminal", "back": "Terminal" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Carry baggage", "back": "porter des bagages" },
+            { "front": "Show passport", "back": "montrer le passeport" },
+            { "front": "Check luggage", "back": "enregistrer les bagages" },
+            { "front": "Board flight", "back": "vol à bord" },
+            { "front": "Book hotel", "back": "réserver un hôtel" },
+            { "front": "Purchase ticket", "back": "acheter un billet" },
+            { "front": "Hold map", "back": "conserver la carte" },
+            { "front": "Navigate route", "back": "parcourir l&#39;itinéraire" },
+            { "front": "Pack suitcase", "back": "faire une valise" },
+            { "front": "Show visa", "back": "afficher le visa" },
+            { "front": "Find gate", "back": "trouver la porte" },
+            { "front": "Reserve seat", "back": "siège de réserve" },
+            { "front": "Check-in online", "back": "enregistrement en ligne" },
+            {
+              "front": "Purchase insurance",
+              "back": "souscrire une assurance"
+            },
+            { "front": "Locate terminal", "back": "localiser le terminal" },
+            { "front": "Exchange currency", "back": "monnaie d&#39;échange" },
+            { "front": "Ride taxi", "back": "prendre un taxi" },
+            { "front": "Catch train", "back": "prendre le train" },
+            { "front": "Board bus", "back": "embarquer dans un bus" },
+            {
+              "front": "Navigate airport",
+              "back": "naviguer à l&#39;aéroport"
+            },
+            { "front": "Handle baggage", "back": "manipuler les bagages" },
+            { "front": "Review itinerary", "back": "revoir l&#39;itinéraire" },
+            { "front": "Check departure", "back": "vérifier le départ" },
+            {
+              "front": "Confirm reservation",
+              "back": "confirmer la réservation"
+            },
+            { "front": "Use guidebook", "back": "utiliser le guide" }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I carry baggage", "back": "je porte des bagages" },
+            { "front": "He shows passport", "back": "il montre son passeport" },
+            {
+              "front": "She checks luggage",
+              "back": "elle enregistre les bagages"
+            },
+            {
+              "front": "They board flight",
+              "back": "ils embarquent sur le vol"
+            },
+            { "front": "We book hotel", "back": "nous réservons un hôtel" },
+            {
+              "front": "You purchase ticket",
+              "back": "vous achetez un billet"
+            },
+            { "front": "I hold map", "back": "je tiens une carte" },
+            {
+              "front": "He navigates route",
+              "back": "il navigue sur la route"
+            },
+            { "front": "She packs suitcase", "back": "elle fait sa valise" },
+            { "front": "They show visa", "back": "ils montrent un visa" },
+            { "front": "We find gate", "back": "nous trouvons la porte" },
+            {
+              "front": "You reserve seat",
+              "back": "vous réservez votre place"
+            },
+            {
+              "front": "I check-in online",
+              "back": "je m&#39;enregistre en ligne"
+            },
+            {
+              "front": "He purchases insurance",
+              "back": "il achète une assurance"
+            },
+            {
+              "front": "She locates terminal",
+              "back": "elle localise le terminal"
+            },
+            {
+              "front": "They exchange currency",
+              "back": "ils échangent des devises"
+            },
+            { "front": "We ride taxi", "back": "nous prenons un taxi" },
+            { "front": "You catch train", "back": "tu prends le train" },
+            { "front": "I board bus", "back": "je monte dans le bus" },
+            {
+              "front": "He navigates airport",
+              "back": "il navigue à l&#39;aéroport"
+            },
+            {
+              "front": "She handles baggage",
+              "back": "elle s&#39;occupe des bagages"
+            },
+            {
+              "front": "They review itinerary",
+              "back": "ils examinent l&#39;itinéraire"
+            },
+            {
+              "front": "We check departure",
+              "back": "nous vérifions le départ"
+            },
+            {
+              "front": "You confirm reservation",
+              "back": "vous confirmez la réservation"
+            },
+            { "front": "I use guidebook", "back": "j&#39;utilise un guide" },
+            {
+              "front": "He travels abroad",
+              "back": "il voyage à l&#39;étranger"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 4,
+          "phrases": [
+            { "front": "I carry my baggage", "back": "je porte mes bagages" },
+            {
+              "front": "He shows his passport",
+              "back": "il montre son passeport"
+            },
+            {
+              "front": "She checks her luggage",
+              "back": "elle enregistre ses bagages"
+            },
+            {
+              "front": "They board the flight",
+              "back": "ils embarquent sur le vol"
+            },
+            { "front": "We book a hotel", "back": "nous réservons un hôtel" },
+            {
+              "front": "You purchase your ticket",
+              "back": "vous achetez votre billet"
+            },
+            { "front": "I hold the map", "back": "je tiens la carte" },
+            {
+              "front": "He navigates the route",
+              "back": "il navigue sur la route"
+            },
+            {
+              "front": "She packs her suitcase",
+              "back": "elle fait sa valise"
+            },
+            {
+              "front": "They show their visa",
+              "back": "ils montrent leur visa"
+            },
+            { "front": "We find the gate", "back": "nous trouvons la porte" },
+            {
+              "front": "You reserve your seat",
+              "back": "vous réservez votre place"
+            },
+            {
+              "front": "I check-in online",
+              "back": "je m&#39;enregistre en ligne"
+            },
+            {
+              "front": "He purchases travel insurance",
+              "back": "il achète une assurance voyage"
+            },
+            {
+              "front": "She locates the terminal",
+              "back": "elle localise le terminal"
+            },
+            {
+              "front": "They exchange foreign currency",
+              "back": "ils échangent des devises étrangères"
+            },
+            { "front": "We ride a taxi", "back": "nous prenons un taxi" },
+            { "front": "You catch the train", "back": "tu prends le train" },
+            { "front": "I board the bus", "back": "je monte dans le bus" },
+            {
+              "front": "He navigates the airport",
+              "back": "il navigue dans l&#39;aéroport"
+            },
+            {
+              "front": "She handles her baggage",
+              "back": "elle gère ses bagages"
+            },
+            {
+              "front": "They review the itinerary",
+              "back": "ils examinent l&#39;itinéraire"
+            },
+            {
+              "front": "We check departure time",
+              "back": "nous vérifions l&#39;heure de départ"
+            },
+            {
+              "front": "You confirm the reservation",
+              "back": "vous confirmez la réservation"
+            },
+            { "front": "I use a guidebook", "back": "j&#39;utilise un guide" },
+            {
+              "front": "He travels abroad frequently",
+              "back": "il voyage fréquemment à l&#39;étranger"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I carry my baggage daily",
+              "back": "je porte mes bagages quotidiennement"
+            },
+            {
+              "front": "He shows his passport clearly",
+              "back": "il montre clairement son passeport"
+            },
+            {
+              "front": "She checks her luggage thoroughly",
+              "back": "elle vérifie soigneusement ses bagages"
+            },
+            {
+              "front": "They board the flight together",
+              "back": "ils embarquent ensemble sur le vol"
+            },
+            {
+              "front": "We book a hotel room",
+              "back": "nous réservons une chambre d&#39;hôtel"
+            },
+            {
+              "front": "You purchase your ticket online",
+              "back": "vous achetez votre billet en ligne"
+            },
+            {
+              "front": "I hold the map carefully",
+              "back": "je tiens la carte avec précaution"
+            },
+            {
+              "front": "He navigates the route efficiently",
+              "back": "il navigue efficacement sur l&#39;itinéraire"
+            },
+            {
+              "front": "She packs her suitcase neatly",
+              "back": "elle fait soigneusement sa valise"
+            },
+            {
+              "front": "They show their visa promptly",
+              "back": "ils montrent leur visa rapidement"
+            },
+            {
+              "front": "We find the gate quickly",
+              "back": "nous trouvons rapidement la porte"
+            },
+            {
+              "front": "You reserve your seat early",
+              "back": "vous réservez votre place tôt"
+            },
+            {
+              "front": "I check-in online easily",
+              "back": "je m&#39;enregistre en ligne facilement"
+            },
+            {
+              "front": "He purchases travel insurance now",
+              "back": "il achète une assurance voyage maintenant"
+            },
+            {
+              "front": "She locates the terminal swiftly",
+              "back": "elle localise rapidement le terminal"
+            },
+            {
+              "front": "They exchange foreign currency safely",
+              "back": "ils échangent des devises étrangères en toute sécurité"
+            },
+            {
+              "front": "We ride a taxi together",
+              "back": "nous prenons un taxi ensemble"
+            },
+            {
+              "front": "You catch the train on time",
+              "back": "tu prends le train à l&#39;heure"
+            },
+            {
+              "front": "I board the bus daily",
+              "back": "je monte dans le bus tous les jours"
+            },
+            {
+              "front": "He navigates the airport smoothly",
+              "back": "il navigue sans problème dans l&#39;aéroport"
+            },
+            {
+              "front": "She handles her baggage efficiently",
+              "back": "elle gère ses bagages efficacement"
+            },
+            {
+              "front": "They review the itinerary carefully",
+              "back": "ils examinent attentivement l&#39;itinéraire"
+            },
+            {
+              "front": "We check departure time regularly",
+              "back": "nous vérifions régulièrement l&#39;heure de départ"
+            },
+            {
+              "front": "You confirm the reservation promptly",
+              "back": "vous confirmez la réservation rapidement"
+            },
+            {
+              "front": "I use a guidebook effectively",
+              "back": "j&#39;utilise un guide efficacement"
+            },
+            {
+              "front": "He travels abroad frequently now",
+              "back": "il voyage fréquemment à l&#39;étranger maintenant"
+            }
+          ]
+        },
+        {
+          "tense": "present",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I carry my baggage every day",
+              "back": "je porte mes bagages tous les jours"
+            },
+            {
+              "front": "He shows his passport at gate",
+              "back": "il montre son passeport à la porte"
+            },
+            {
+              "front": "She checks her luggage at counter",
+              "back": "elle enregistre ses bagages au comptoir"
+            },
+            {
+              "front": "They board the flight together now",
+              "back": "ils embarquent maintenant ensemble sur le vol"
+            },
+            {
+              "front": "We book a hotel room online",
+              "back": "nous réservons une chambre d&#39;hôtel en ligne"
+            },
+            {
+              "front": "You purchase your ticket online now",
+              "back": "vous achetez votre billet en ligne maintenant"
+            },
+            {
+              "front": "I hold the map carefully today",
+              "back": "je tiens la carte avec précaution aujourd&#39;hui"
+            },
+            {
+              "front": "He navigates the route efficiently now",
+              "back": "il navigue désormais efficacement sur l&#39;itinéraire"
+            },
+            {
+              "front": "She packs her suitcase neatly today",
+              "back": "elle fait soigneusement sa valise aujourd&#39;hui"
+            },
+            {
+              "front": "They show their visa promptly now",
+              "back": "ils montrent leur visa rapidement maintenant"
+            },
+            {
+              "front": "We find the gate quickly now",
+              "back": "nous trouvons rapidement la porte maintenant"
+            },
+            {
+              "front": "You reserve your seat early today",
+              "back": "réservez votre place tôt aujourd&#39;hui"
+            },
+            {
+              "front": "I check-in online easily now",
+              "back": "je m&#39;enregistre facilement en ligne maintenant"
+            },
+            {
+              "front": "He purchases travel insurance today now",
+              "back": "il achète une assurance voyage aujourd&#39;hui maintenant"
+            },
+            {
+              "front": "She locates the terminal swiftly today",
+              "back": "elle localise rapidement le terminal aujourd&#39;hui"
+            },
+            {
+              "front": "They exchange foreign currency safely now",
+              "back": "ils échangent désormais des devises étrangères en toute sécurité"
+            },
+            {
+              "front": "We ride a taxi together now",
+              "back": "nous prenons un taxi ensemble maintenant"
+            },
+            {
+              "front": "You catch the train on time",
+              "back": "tu prends le train à l&#39;heure"
+            },
+            {
+              "front": "I board the bus daily now",
+              "back": "je prends le bus tous les jours maintenant"
+            },
+            {
+              "front": "He navigates the airport smoothly now",
+              "back": "il navigue désormais sans problème dans l&#39;aéroport"
+            },
+            {
+              "front": "She handles her baggage efficiently now",
+              "back": "elle gère ses bagages efficacement maintenant"
+            },
+            {
+              "front": "They review the itinerary carefully now",
+              "back": "ils examinent maintenant attentivement l&#39;itinéraire"
+            },
+            {
+              "front": "We check departure time regularly now",
+              "back": "nous vérifions désormais régulièrement l&#39;heure de départ"
+            },
+            {
+              "front": "You confirm the reservation promptly now",
+              "back": "vous confirmez la réservation rapidement maintenant"
+            },
+            {
+              "front": "I use a guidebook effectively now",
+              "back": "j&#39;utilise désormais efficacement un guide"
+            },
+            {
+              "front": "He travels abroad frequently now now",
+              "back": "il voyage fréquemment à l&#39;étranger maintenant"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 2,
+          "phrases": [
+            { "front": "Carried baggage", "back": "bagages transportés" },
+            { "front": "Showed passport", "back": "a montré son passeport" },
+            { "front": "Checked luggage", "back": "bagages enregistrés" },
+            { "front": "Boarded flight", "back": "vol embarqué" },
+            { "front": "Booked hotel", "back": "hôtel réservé" },
+            { "front": "Purchased ticket", "back": "billet acheté" },
+            { "front": "Held map", "back": "carte tenue" },
+            { "front": "Navigated route", "back": "itinéraire parcouru" },
+            { "front": "Packed suitcase", "back": "valise pleine" },
+            { "front": "Showed visa", "back": "a montré un visa" },
+            { "front": "Found gate", "back": "porte trouvée" },
+            { "front": "Reserved seat", "back": "siège réservé" },
+            { "front": "Checked-in online", "back": "enregistré en ligne" },
+            { "front": "Purchased insurance", "back": "assurance souscrite" },
+            { "front": "Located terminal", "back": "terminal situé" },
+            { "front": "Exchanged currency", "back": "monnaie échangée" },
+            { "front": "Rode taxi", "back": "taxi rouge" },
+            { "front": "Caught train", "back": "train pris" },
+            { "front": "Boarded bus", "back": "bus embarqué" },
+            { "front": "Navigated airport", "back": "aéroport navigué" },
+            { "front": "Handled baggage", "back": "bagages manipulés" },
+            { "front": "Reviewed itinerary", "back": "itinéraire révisé" },
+            { "front": "Checked departure", "back": "départ vérifié" },
+            {
+              "front": "Confirmed reservation",
+              "back": "réservation confirmée"
+            },
+            { "front": "Used guidebook", "back": "guide d&#39;occasion" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 3,
+          "phrases": [
+            {
+              "front": "I carried baggage",
+              "back": "j&#39;ai porté des bagages"
+            },
+            {
+              "front": "He showed passport",
+              "back": "il a montré son passeport"
+            },
+            {
+              "front": "She checked luggage",
+              "back": "elle a enregistré ses bagages"
+            },
+            {
+              "front": "They boarded flight",
+              "back": "ils sont montés à bord du vol"
+            },
+            {
+              "front": "We booked hotel",
+              "back": "nous avons réservé un hôtel"
+            },
+            {
+              "front": "You purchased ticket",
+              "back": "vous avez acheté un billet"
+            },
+            { "front": "I held map", "back": "j&#39;ai tenu la carte" },
+            { "front": "He navigated route", "back": "il a parcouru la route" },
+            { "front": "She packed suitcase", "back": "elle a fait sa valise" },
+            { "front": "They showed visa", "back": "ils ont montré un visa" },
+            { "front": "We found gate", "back": "nous avons trouvé la porte" },
+            {
+              "front": "You reserved seat",
+              "back": "vous avez réservé votre siège"
+            },
+            {
+              "front": "I checked-in online",
+              "back": "je me suis enregistré en ligne"
+            },
+            {
+              "front": "He purchased insurance",
+              "back": "il a souscrit une assurance"
+            },
+            {
+              "front": "She located terminal",
+              "back": "elle a localisé le terminal"
+            },
+            {
+              "front": "They exchanged currency",
+              "back": "ils ont échangé des devises"
+            },
+            { "front": "We rode taxi", "back": "nous avons pris un taxi" },
+            { "front": "You caught train", "back": "tu as pris le train" },
+            { "front": "I boarded bus", "back": "je suis monté dans le bus" },
+            {
+              "front": "He navigated airport",
+              "back": "il a navigué à l&#39;aéroport"
+            },
+            {
+              "front": "She handled baggage",
+              "back": "elle s&#39;occupait des bagages"
+            },
+            {
+              "front": "They reviewed itinerary",
+              "back": "ils ont examiné l&#39;itinéraire"
+            },
+            {
+              "front": "We checked departure",
+              "back": "nous avons vérifié le départ"
+            },
+            {
+              "front": "You confirmed reservation",
+              "back": "vous avez confirmé la réservation"
+            },
+            { "front": "I used guidebook", "back": "j&#39;ai utilisé un guide" }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I carried my baggage",
+              "back": "j&#39;ai porté mes bagages"
+            },
+            {
+              "front": "He showed his passport",
+              "back": "il a montré son passeport"
+            },
+            {
+              "front": "She checked her luggage",
+              "back": "elle a enregistré ses bagages"
+            },
+            {
+              "front": "They boarded the flight",
+              "back": "ils sont montés à bord du vol"
+            },
+            {
+              "front": "We booked a hotel",
+              "back": "nous avons réservé un hôtel"
+            },
+            {
+              "front": "You purchased your ticket",
+              "back": "vous avez acheté votre billet"
+            },
+            { "front": "I held the map", "back": "j&#39;ai tenu la carte" },
+            {
+              "front": "He navigated the route",
+              "back": "il a parcouru la route"
+            },
+            {
+              "front": "She packed her suitcase",
+              "back": "elle a fait sa valise"
+            },
+            {
+              "front": "They showed their visa",
+              "back": "ils ont montré leur visa"
+            },
+            {
+              "front": "We found the gate",
+              "back": "nous avons trouvé la porte"
+            },
+            {
+              "front": "You reserved your seat",
+              "back": "vous avez réservé votre place"
+            },
+            {
+              "front": "I checked-in online",
+              "back": "je me suis enregistré en ligne"
+            },
+            {
+              "front": "He purchased travel insurance",
+              "back": "il a souscrit une assurance voyage"
+            },
+            {
+              "front": "She located the terminal",
+              "back": "elle a localisé le terminal"
+            },
+            {
+              "front": "They exchanged foreign currency",
+              "back": "ils ont échangé des devises étrangères"
+            },
+            { "front": "We rode a taxi", "back": "nous avons pris un taxi" },
+            { "front": "You caught the train", "back": "tu as pris le train" },
+            {
+              "front": "I boarded the bus",
+              "back": "je suis monté dans le bus"
+            },
+            {
+              "front": "He navigated the airport",
+              "back": "il a navigué dans l&#39;aéroport"
+            },
+            {
+              "front": "She handled her baggage",
+              "back": "elle a manipulé ses bagages"
+            },
+            {
+              "front": "They reviewed the itinerary",
+              "back": "ils ont examiné l&#39;itinéraire"
+            },
+            {
+              "front": "We checked departure time",
+              "back": "nous avons vérifié l&#39;heure de départ"
+            },
+            {
+              "front": "You confirmed the reservation",
+              "back": "vous avez confirmé la réservation"
+            },
+            {
+              "front": "I used a guidebook",
+              "back": "j&#39;ai utilisé un guide"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I carried my baggage yesterday",
+              "back": "j&#39;ai porté mes bagages hier"
+            },
+            {
+              "front": "He showed his passport clearly",
+              "back": "il a montré clairement son passeport"
+            },
+            {
+              "front": "She checked her luggage thoroughly",
+              "back": "elle a soigneusement vérifié ses bagages"
+            },
+            {
+              "front": "They boarded the flight together",
+              "back": "ils sont montés à bord du vol ensemble"
+            },
+            {
+              "front": "We booked a hotel room",
+              "back": "nous avons réservé une chambre d&#39;hôtel"
+            },
+            {
+              "front": "You purchased your ticket online",
+              "back": "vous avez acheté votre billet en ligne"
+            },
+            {
+              "front": "I held the map carefully",
+              "back": "j&#39;ai tenu la carte avec précaution"
+            },
+            {
+              "front": "He navigated the route efficiently",
+              "back": "il a parcouru l&#39;itinéraire efficacement"
+            },
+            {
+              "front": "She packed her suitcase neatly",
+              "back": "elle a soigneusement emballé sa valise"
+            },
+            {
+              "front": "They showed their visa promptly",
+              "back": "ils ont montré leur visa rapidement"
+            },
+            {
+              "front": "We found the gate quickly",
+              "back": "nous avons trouvé la porte rapidement"
+            },
+            {
+              "front": "You reserved your seat early",
+              "back": "vous avez réservé votre place tôt"
+            },
+            {
+              "front": "I checked-in online easily",
+              "back": "je me suis enregistré en ligne facilement"
+            },
+            {
+              "front": "He purchased travel insurance now",
+              "back": "il a souscrit une assurance voyage maintenant"
+            },
+            {
+              "front": "She located the terminal swiftly",
+              "back": "elle a rapidement localisé le terminal"
+            },
+            {
+              "front": "They exchanged foreign currency safely",
+              "back": "ils ont échangé des devises étrangères en toute sécurité"
+            },
+            {
+              "front": "We rode a taxi together",
+              "back": "nous avons pris un taxi ensemble"
+            },
+            {
+              "front": "You caught the train on time",
+              "back": "tu as pris le train à l&#39;heure"
+            },
+            {
+              "front": "I boarded the bus daily",
+              "back": "je montais dans le bus tous les jours"
+            },
+            {
+              "front": "He navigated the airport smoothly",
+              "back": "il a navigué sans problème dans l&#39;aéroport"
+            },
+            {
+              "front": "She handled her baggage efficiently",
+              "back": "elle a manipulé ses bagages efficacement"
+            },
+            {
+              "front": "They reviewed the itinerary carefully",
+              "back": "ils ont examiné l&#39;itinéraire attentivement"
+            },
+            {
+              "front": "We checked departure time regularly",
+              "back": "nous avons vérifié régulièrement l&#39;heure de départ"
+            },
+            {
+              "front": "You confirmed the reservation promptly",
+              "back": "vous avez confirmé la réservation rapidement"
+            },
+            {
+              "front": "I used a guidebook effectively",
+              "back": "j&#39;ai utilisé un guide efficacement"
+            },
+            {
+              "front": "He traveled abroad frequently now",
+              "back": "il voyageait fréquemment à l&#39;étranger maintenant"
+            }
+          ]
+        },
+        {
+          "tense": "past",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I traveled to the main airport",
+              "back": "je me suis rendu à l&#39;aéroport principal"
+            },
+            {
+              "front": "He renewed his passport last year",
+              "back": "il a renouvelé son passeport l&#39;année dernière"
+            },
+            {
+              "front": "She reserved her seat in advance",
+              "back": "elle a réservé sa place à l&#39;avance"
+            },
+            {
+              "front": "They packed their suitcase last night",
+              "back": "ils ont fait leur valise hier soir"
+            },
+            {
+              "front": "We booked our hotel room early",
+              "back": "nous avons réservé notre chambre d&#39;hôtel tôt"
+            },
+            {
+              "front": "You purchased your ticket online yesterday",
+              "back": "vous avez acheté votre billet en ligne hier"
+            },
+            {
+              "front": "I held the map carefully yesterday",
+              "back": "j&#39;ai tenu la carte avec précaution hier"
+            },
+            {
+              "front": "He navigated the route efficiently yesterday",
+              "back": "il a parcouru l&#39;itinéraire efficacement hier"
+            },
+            {
+              "front": "She checked her luggage thoroughly last night",
+              "back": "elle a soigneusement vérifié ses bagages hier soir"
+            },
+            {
+              "front": "They showed their visa at gate",
+              "back": "ils ont montré leur visa à la porte"
+            },
+            {
+              "front": "We found the gate quickly yesterday",
+              "back": "nous avons trouvé la porte rapidement hier"
+            },
+            {
+              "front": "You reserved your seat early today",
+              "back": "vous avez réservé votre place tôt aujourd&#39;hui"
+            },
+            {
+              "front": "I checked-in online easily yesterday",
+              "back": "je me suis enregistré en ligne facilement hier"
+            },
+            {
+              "front": "He purchased travel insurance last month",
+              "back": "il a souscrit une assurance voyage le mois dernier"
+            },
+            {
+              "front": "She located the terminal swiftly yesterday",
+              "back": "elle a rapidement localisé le terminal hier"
+            },
+            {
+              "front": "They exchanged foreign currency safely yesterday",
+              "back": "ils ont échangé des devises étrangères en toute sécurité hier"
+            },
+            {
+              "front": "We rode a taxi together yesterday",
+              "back": "nous avons pris un taxi ensemble hier"
+            },
+            {
+              "front": "You caught the train on time",
+              "back": "tu as pris le train à l&#39;heure"
+            },
+            {
+              "front": "I boarded the bus daily yesterday",
+              "back": "je suis monté dans le bus tous les jours hier"
+            },
+            {
+              "front": "He navigated the airport smoothly yesterday",
+              "back": "il a navigué sans problème dans l&#39;aéroport hier"
+            },
+            {
+              "front": "She handled her baggage very efficiently",
+              "back": "elle a géré ses bagages très efficacement"
+            },
+            {
+              "front": "They reviewed the itinerary carefully yesterday",
+              "back": "ils ont soigneusement examiné l&#39;itinéraire hier"
+            },
+            {
+              "front": "We checked departure time regularly yesterday",
+              "back": "nous avons vérifié régulièrement l&#39;heure de départ hier"
+            },
+            {
+              "front": "You confirmed the hotel reservation promptly",
+              "back": "vous avez confirmé la réservation d&#39;hôtel rapidement"
+            },
+            {
+              "front": "I used a guidebook effectively yesterday",
+              "back": "j&#39;ai utilisé un guide efficacement hier"
+            },
+            {
+              "front": "He traveled abroad frequently this year",
+              "back": "il a voyagé fréquemment à l&#39;étranger cette année"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 3,
+          "phrases": [
+            { "front": "I will travel", "back": "je voyagerai" },
+            { "front": "He will fly", "back": "il volera" },
+            { "front": "She will book", "back": "elle réservera" },
+            { "front": "They will pack", "back": "ils vont emballer" },
+            { "front": "We will navigate", "back": "nous naviguerons" },
+            { "front": "You will reserve", "back": "tu réserveras" },
+            { "front": "I will carry", "back": "je porterai" },
+            { "front": "He will show", "back": "il montrera" },
+            { "front": "She will check", "back": "elle va vérifier" },
+            { "front": "They will board", "back": "ils embarqueront" },
+            { "front": "We will book", "back": "nous réserverons" },
+            { "front": "You will purchase", "back": "vous achèterez" },
+            { "front": "I will hold", "back": "je tiendrai" },
+            { "front": "He will navigate", "back": "il naviguera" },
+            { "front": "She will pack", "back": "elle fera ses valises" },
+            { "front": "They will show", "back": "ils montreront" },
+            { "front": "We will find", "back": "nous trouverons" },
+            { "front": "You will reserve", "back": "tu réserveras" },
+            { "front": "I will check-in", "back": "je vais m&#39;enregistrer" },
+            { "front": "He will purchase", "back": "il achètera" },
+            { "front": "She will locate", "back": "elle localisera" },
+            { "front": "They will exchange", "back": "ils échangeront" },
+            { "front": "We will ride", "back": "nous allons rouler" },
+            { "front": "You will catch", "back": "tu vas attraper" },
+            { "front": "I will board", "back": "je vais embarquer" }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 4,
+          "phrases": [
+            {
+              "front": "I will travel abroad",
+              "back": "je voyagerai à l&#39;étranger"
+            },
+            { "front": "He will fly tomorrow", "back": "il volera demain" },
+            {
+              "front": "She will book tickets",
+              "back": "elle réservera des billets"
+            },
+            {
+              "front": "They will pack suitcases",
+              "back": "ils feront leurs valises"
+            },
+            {
+              "front": "We will navigate the route",
+              "back": "nous allons parcourir l&#39;itinéraire"
+            },
+            {
+              "front": "You will reserve seats early",
+              "back": "vous réserverez vos places tôt"
+            },
+            {
+              "front": "I will carry luggage daily",
+              "back": "je porterai des bagages tous les jours"
+            },
+            {
+              "front": "He will show passport soon",
+              "back": "il montrera bientôt son passeport"
+            },
+            {
+              "front": "She will check luggage later",
+              "back": "elle enregistrera ses bagages plus tard"
+            },
+            {
+              "front": "They will board the flight",
+              "back": "ils embarqueront sur le vol"
+            },
+            {
+              "front": "We will book a hotel",
+              "back": "nous allons réserver un hôtel"
+            },
+            {
+              "front": "You will purchase tickets online",
+              "back": "vous achèterez des billets en ligne"
+            },
+            { "front": "I will hold the map", "back": "je tiendrai la carte" },
+            {
+              "front": "He will navigate the city",
+              "back": "il naviguera dans la ville"
+            },
+            {
+              "front": "She will pack her bags",
+              "back": "elle fera ses valises"
+            },
+            {
+              "front": "They will show their visas",
+              "back": "ils montreront leurs visas"
+            },
+            {
+              "front": "We will find the gate",
+              "back": "nous trouverons la porte"
+            },
+            {
+              "front": "You will reserve your seat",
+              "back": "vous réserverez votre place"
+            },
+            {
+              "front": "I will check-in online",
+              "back": "je m&#39;enregistrerai en ligne"
+            },
+            {
+              "front": "He will purchase travel insurance",
+              "back": "il souscrira une assurance voyage"
+            },
+            {
+              "front": "She will locate the terminal",
+              "back": "elle localisera le terminal"
+            },
+            {
+              "front": "They will exchange currencies safely",
+              "back": "ils échangeront des devises en toute sécurité"
+            },
+            {
+              "front": "We will ride a taxi",
+              "back": "nous prendrons un taxi"
+            },
+            {
+              "front": "You will catch the train",
+              "back": "tu prendras le train"
+            },
+            {
+              "front": "I will board the bus",
+              "back": "je monterai dans le bus"
+            },
+            {
+              "front": "He will navigate the airport",
+              "back": "il naviguera dans l&#39;aéroport"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 5,
+          "phrases": [
+            {
+              "front": "I will travel to Paris",
+              "back": "je vais voyager à Paris"
+            },
+            {
+              "front": "He will fly next week",
+              "back": "il volera la semaine prochaine"
+            },
+            {
+              "front": "She will book her flight",
+              "back": "elle réservera son vol"
+            },
+            {
+              "front": "They will pack their bags",
+              "back": "ils feront leurs valises"
+            },
+            {
+              "front": "We will navigate the route",
+              "back": "nous allons parcourir l&#39;itinéraire"
+            },
+            {
+              "front": "You will reserve advance seats",
+              "back": "vous réserverez des places à l&#39;avance"
+            },
+            {
+              "front": "I will carry my luggage",
+              "back": "je porterai mes bagages"
+            },
+            {
+              "front": "He will show his passport soon",
+              "back": "il montrera bientôt son passeport"
+            },
+            {
+              "front": "She will check her luggage",
+              "back": "elle enregistrera ses bagages"
+            },
+            {
+              "front": "They will board the flight",
+              "back": "ils embarqueront sur le vol"
+            },
+            {
+              "front": "We will book a hotel",
+              "back": "nous allons réserver un hôtel"
+            },
+            {
+              "front": "You will purchase your tickets",
+              "back": "vous achèterez vos billets"
+            },
+            { "front": "I will hold the map", "back": "je tiendrai la carte" },
+            {
+              "front": "He will navigate the city",
+              "back": "il naviguera dans la ville"
+            },
+            {
+              "front": "She will pack her bags",
+              "back": "elle fera ses valises"
+            },
+            {
+              "front": "They will show their visas",
+              "back": "ils montreront leurs visas"
+            },
+            {
+              "front": "We will find the gate",
+              "back": "nous trouverons la porte"
+            },
+            {
+              "front": "You will reserve your seat",
+              "back": "vous réserverez votre place"
+            },
+            {
+              "front": "I will check-in online easily",
+              "back": "je m&#39;enregistrerai facilement en ligne"
+            },
+            {
+              "front": "He will purchase travel insurance",
+              "back": "il souscrira une assurance voyage"
+            },
+            {
+              "front": "She will locate the terminal",
+              "back": "elle localisera le terminal"
+            },
+            {
+              "front": "They will exchange currencies now",
+              "back": "ils vont maintenant échanger des devises"
+            },
+            {
+              "front": "We will ride a taxi",
+              "back": "nous prendrons un taxi"
+            },
+            {
+              "front": "You will catch the train",
+              "back": "tu prendras le train"
+            },
+            {
+              "front": "I will board the bus",
+              "back": "je monterai dans le bus"
+            },
+            {
+              "front": "He will navigate the airport",
+              "back": "il naviguera dans l&#39;aéroport"
+            }
+          ]
+        },
+        {
+          "tense": "future",
+          "wordcount": 6,
+          "phrases": [
+            {
+              "front": "I will renew my passport later",
+              "back": "je renouvellerai mon passeport plus tard"
+            },
+            {
+              "front": "I will look at the map",
+              "back": "je vais regarder la carte"
+            },
+            {
+              "front": "I will fly to another country",
+              "back": "je vais m&#39;envoler vers un autre pays"
+            },
+            {
+              "front": "She will book her hotel room",
+              "back": "elle réservera sa chambre d&#39;hôtel"
+            },
+            {
+              "front": "They will pack their suitcases tomorrow",
+              "back": "ils feront leurs valises demain"
+            },
+            {
+              "front": "We will navigate the new route",
+              "back": "nous allons parcourir le nouvel itinéraire"
+            },
+            {
+              "front": "He will exchange currencies abroad",
+              "back": "il échangera des devises à l&#39;étranger"
+            },
+            {
+              "front": "You will check-in online soon",
+              "back": "vous vous enregistrerez bientôt en ligne"
+            },
+            {
+              "front": "I will reserve my seat early",
+              "back": "je réserverai ma place tôt"
+            },
+            {
+              "front": "She will book a flight tomorrow",
+              "back": "elle réservera un vol demain"
+            },
+            {
+              "front": "They will carry their luggage carefully",
+              "back": "ils porteront leurs bagages avec soin"
+            },
+            {
+              "front": "We will travel to Europe next year",
+              "back": "nous voyagerons en Europe l&#39;année prochaine"
+            },
+            {
+              "front": "He will hold his boarding pass",
+              "back": "il gardera sa carte d&#39;embarquement"
+            },
+            {
+              "front": "You will purchase travel insurance now",
+              "back": "vous allez souscrire une assurance voyage maintenant"
+            },
+            {
+              "front": "I will visit the travel agency",
+              "back": "je vais visiter l&#39;agence de voyages"
+            },
+            {
+              "front": "She will take a guided tour",
+              "back": "elle fera une visite guidée"
+            },
+            {
+              "front": "They will ride a rental car",
+              "back": "ils conduiront une voiture de location"
+            },
+            {
+              "front": "We will explore the new city",
+              "back": "nous explorerons la nouvelle ville"
+            },
+            {
+              "front": "He will show his visa documents",
+              "back": "il montrera ses documents de visa"
+            },
+            {
+              "front": "You will attend the departure gate",
+              "back": "vous vous présenterez à la porte d&#39;embarquement"
+            },
+            {
+              "front": "I will use a travel app",
+              "back": "j&#39;utiliserai une application de voyage"
+            },
+            {
+              "front": "She will plan her itinerary carefully",
+              "back": "elle planifiera soigneusement son itinéraire"
+            },
+            {
+              "front": "They will book their accommodations online",
+              "back": "ils réserveront leur hébergement en ligne"
+            },
+            {
+              "front": "We will pack our backpacks tonight",
+              "back": "nous ferons nos valises ce soir"
+            },
+            {
+              "front": "He will check the departure time",
+              "back": "il vérifiera l&#39;heure de départ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
